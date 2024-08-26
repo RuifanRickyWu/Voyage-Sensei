@@ -1,0 +1,207 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "University Apartment",
+    "url": "/Hotel_Review-g155019-d7987049-Reviews-University_Apartment-Toronto_Ontario.html",
+    "priceRange": "$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "2.0",
+      "reviewCount": 46
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16 Willison Square",
+      "addressLocality": "Toronto",
+      "postalCode": "M5T 1E8",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/de/9d/0b/university-apartment.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Free internet",
+    "Internet",
+    "Fitness Center with Gym / Workout Room"
+  ],
+  "reviews": [
+    {
+      "title": "You deserve better! Don’t stay at this &$&&$hole",
+      "text": "Do you hate yourself? Want to be treated like the rotten screetcrawling scum you are? Stay at University Apartments. Our economically sized bathroom concept, just try to sit on the toilet without going on a 45 degree angle with both legs out the door. Love drama? You’ll hear it all with our paper thin walls. Want to pay a $50 deposit which you’ll lose if you don’t keep your receipt? $5 per hour late checkout? No onsite parking? This is for you! Not just one location so watch out. Same managers, same problems. 588 Dundas St West, 43 Grange St and 16 Willison to start could be more. Some rooms come with 2 oven electrical outlets! No fridge or microwave. Bed is flimsy and uncomfortable. Want a late check out? Just text us to let us know, and we’ll promptly forget and padlock you out of your room, with your stuff safely inside, but still make you pay up for late checkout before you can get back in. It’s not a ransom, we swear 🤞. Don’t forget your wallet 😜",
+      "rate": 1.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Just don't waste your money, it is a horrible place.",
+      "text": "Hostel review:Poor Customer Service: Waiting 45 minutes for someone to show up after repeatedly ringing the doorbell and calling is unacceptable. It shows a lack of responsibility and care towards guests.Misleading Description: The hostel's details provided on Expedia are misleading, indicating a significant discrepancy between what was advertised and the actual state of the place.Hygiene Issues: Bugs infesting the premises, lack of doors in the washroom, and a pervasive bad smell throughout the hallways and rooms are clear indicators of poor hygiene standards.Maintenance Problems: Rust inside the sink and shower, with dripping rust, demonstrate neglect in maintaining basic facilities, which poses health risks to guests.Security Concerns: The presence of homeless people around the property, coupled with the requirement for photo ID, raises safety and security concerns. Feeling uncomfortable providing personal details, especially to sketchy individuals, is understandable and alarming.Ineffective Resolution: Spending over an hour trying to resolve the issue with Expedia and the hostel, coupled with the extended wait time for assistance, highlights a lack of efficiency and professionalism in managing guest concerns.Overall, the combination of poor customer service, misleading descriptions, hygiene and maintenance issues, security concerns, and ineffective resolution processes makes this hostel a highly undesirable place to stay. It's concerning that Expedia would list and promote such a substandard accommodation option.",
+      "rate": 1.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Disgusting death trap",
+      "text": "Windows do not open. Smoke alarms don't work. Mattresses are filthy. Air is stale as there is very poor ventilation and circulation. We walked out and were quite willing to lose our payment rather than stay in such a terrible place. This building should condemned and the owners charged.",
+      "rate": 1.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Not fit for habitation",
+      "text": "I have never stayed in a worse place, and i travel a lot. The first room didn't have a curtain on the window so they moved me, the second room the toilet clogged up, no one came to fix it, the bathroom was mouldy and the door was broken. I booked for a week but left after one day.",
+      "rate": 1.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Misleading name",
+      "text": "After waiting on the street for over half an hour we were checked in by a very rude woman who told us to hurry up as she wanted to get home. She then wanted us to carry our heavy suitcases up stairs without shoes on - we refused. The room was tiny with basic amenities. While the sheets were clean, the mattress protector was not. A fan provided some relief in the airless room. The private bathroom was clean. Once we got over the initial shock the stay wasn't too bad. It was very cheap for Toronto but you get what you pay for.",
+      "rate": 1.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "Don't ever stay here!",
+      "text": "The apartment has no address and is an old brick building that has graffiti in the surrounding areas.  Cameras in every floor, they wanted the money up front and the front desk was a card table.  After you paid your visa for the room, service was poor and they give you a TV but you find out later that there is no reception because they have not paid their cable bills.  Screaming all night from people coming in and swearing until 3am.  Room was really small with a hole in the wall that was covered up by a map of Toronto.  Bathroom had no towels.  Felt this was how Rocky started to get tough by suriving the night there.",
+      "rate": 1.0,
+      "tripDate": " December 2014"
+    },
+    {
+      "title": "Don’t stay here!!!",
+      "text": "Absolute horror of a ”hostel”... hairs from previous guests on the floor and bed, dirty towels, moldy smell, prison feeling in the basement rooms. The bathroom had not been cleaned when we got the room at 7pm, they did clean it so one point for that. Staff only speaks chinese and they don’t know what they are doing anyway! Took photos of our passports with their phone. And we had to pay 256€!!! for two nights! Absolute robbery for that lousy excuse of a hostel.. Toronto deserves better! The city was absolutely amazing but please stay somewhere else for your own good!",
+      "rate": 1.0,
+      "tripDate": " September 2019"
+    },
+    {
+      "title": "University Apartments, Toronto",
+      "text": "Based in Chinatown. The photo on line must be very old, as in reality the frontage is very shabby and run down. The place is surrounded by Chinese restaurants/take-away  bins, so area surrounding smells a bit! Cleanliness been better. Excellent for public transport (making it noisy during the night though). Basic en suite room. No wardrobe, only hooks on the wall above the bed. Walls are very thin!!! You are expected to remove shoes on entry to building. Few mins walk away from Kensington Market. 15 mins walk to city centre.",
+      "rate": 3.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "THIRD RATE IS AN UNDERSTATEMENT: I would give them a -5 if I could",
+      "text": "Horrible, avoidable - ruined my stay in Toronto.Rude staff, no service - nothing works in the room - fans, plug-points - all defunct. Only bunk beds, even for older people!They charge you for every single thing you ask them for - even viewing fee to see a photograph of the room, changing room fee (for after you ask them to change you from the horrible room they first give you) to the next equally bad room. Run, in the opposite direction.",
+      "rate": 1.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Worst Motel Ever!",
+      "text": "Being Asian and traveling with my grandfather who recently came from China, I thought this motel was great since it was conveniently located close to Chinatown. Little did I know, I was in for a nasty surprise. Nobody would answer the front door for more than 10 minutes, and when they did, they charged me $5 for checking in late. I told them I arrived in time but they didn’t open the door, and they told me it wasn’t their problem. They said they wouldn’t give me the key unless I gave them $5. I was already in a bad mood when they yelled at my family to take off our shoes when going up the narrow steep stairs. I told them to let my grandfather to keep on his shoes as he had problems walking and they told us that they don’t care and that we had to take them off or we’d be charged even more. I told them fine and I heard one of the staff whisper “what a bunch of idiots” under their breath in Chinese. I let that go and did as we were told and got to our room and found out the floors were dirty and wet, the air conditioner was small and weak, and the beds were hard and creaky. We went to get the cheap foldable chairs and they collapsed when we tried to sit in them. Guess we’ll be charged for that later. The bed was hot and almost impossible to sleep in without sweating. Then, while I was charging my phone the power went out several times. Then in the morning it went out again and never turned back on. I called them and when they finally answered, they said they’d be here right away to check it out. An hour of waiting later, nothing. When we went to return the key they didn’t have anyone there, and we called them and they never answered, even after I tried several times. I waited for them for an hour or so and they finally came, then fined us for checking out too late. I was extremely angry and told them all my complaints and that I wouldn’t pay the fine, and they tried to PHYSICALLY GRAB MY WALLET TO PAY THE FINE. Whatever you do, do not stay here.",
+      "rate": 1.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Thankfully only 1 night",
+      "text": "The only thing good about this place is the location! Very close to the streetcar. However, the vicinity of the building is extremely run down, covered in litter, graffiti and trash.The check in process is strange you arrive and find your name on a piece of paper with a key inside. When we went to our room and it hadn't been  cleaned or ready for our arrival. The lady went to clean it for us. Very basic.",
+      "rate": 1.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Brazenness at its best!",
+      "text": "The check-in process took more than an hour and nobody even apologized for that. Rooms are of bad quality, noisy and the neighbor can here every single word. Staff started to interrupt sleep already at 07:00 in the morning. At least the location is good, it was fairly clean, apart from the shower and the internet worked well.",
+      "rate": 2.0,
+      "tripDate": " March 2018"
+    },
+    {
+      "title": "Good, Cheap, Clean, Good Wifi, Good Location",
+      "text": "This Place is the Best price i could find in Toronto, and Was very good!The rooms are Very simple. a Bed, a fridge and a table.The Place is Clean and Safe so for the price is very good, and the Wifi is fastBe Aware, when you enter the hotel, you need take off your shoes",
+      "rate": 4.0,
+      "tripDate": " November 2017"
+    },
+    {
+      "title": "Absolutely bizarre",
+      "text": "We came here as a part of our Toronto stay as we were living in Buffalo. It was cheap and seemed acceptable for one night in the city however, on arrival we were greeted by a 5ft woman shouting at us to take our shoes off and then when we asked for the wifi password, it was \"noshoesallowed\" (hahahahahahaha) & the toilet roll was BIKE chained to the bathroom wall.... It served its purpose but was quite a bizarre stay I must say....",
+      "rate": 2.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "It was.... interesting",
+      "text": "Honestly it was the cheapest hotel we could find for 100$ per night. First, it is extremely sketchy with having the sign out = dropping off your key in a bucket. You had to take off your shoes when you're inside and put them in a plastic bag. When we got to our room, the door was stuck so we had to force it open and close. The room was extremely small with just a bed, a closet, and a window with a fist punched through it. It was super hot. But thank god there was a fan! And air conditioning ! (Kind of). The bathrooms were small and they provided some shampoo and body wash. But great! The toilet paper was held in a BIKE LOCK. Our poster in the room fell within 20 seconds of walking inside too. They also provided complementary water bottles so we were able to take some (at least I think they were complimentary).If you want to have a good laugh for a cheap night, you could stay here because it's a good location (20 min walk from Ripleys aquarium). But ..... other than that, pay a little more for a better and more sanitary place.",
+      "rate": 1.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Was very surprised this time and not in a good way.",
+      "text": "I had booked the china town travelers home they had on grange ave but due to us arriving late they took us to this location which I mite add happens a lot do not be surprised. Since upon arrival when had 1 less person with us so they gave us a double bed room with private bathroom.Which was okay even though I got charged for the 3 bed room 160.00 later.  NOT OKAY. The room had a fridge, and fan as we were on bottom floor. which was much better than being upstairs.There is a older guy who lives there to help the owners out he was very nice and spoke great english unfortunately he has to deal with most of the horrible problems that the owners let occur not fair to him all he is trying to do is make a living.Later in evening of our stay around 11 pm guests arrive back from being out on town  they had 2 small children and 3 ladies they were intl tourists cause of their accents., They come to find out that they had no room anymore the owners took and moved all their things to a totally different housing unit of theirs without letting them know. It was a horrible thing to do to someone not to mention invasion of privacy.The poor guests had to walk almost 15 min further to get to the other location as well they changed the beds on them  they were so angry they asked for their money back got slack for it but I do believe they stayed for free.. I do not blame them.The same night a young chinese guy arrived late then told him they had no room so they sent him away even though he had booked a stay.The little street where this sits has construction across from it I met up with the friendly neighborhood racoon he did not harm just walked around everywhere looking for food.I have stayed with this company many times over the past couple years but I honestly think this might be last straw for me.I can tolerate dingy small rooms, trashy areas, simplicity but this was not acceptable even for a hostel or rooming house. Looking back on it that could of been me in that situation and I tell you the cops would of been called.I am booked for a stay in Dec but am likely going to cancel it and make other arrangements.This time I am giving you a very strong warning Be aware when booking and if you do book make sure you stand your ground and have all your reservations on paper with you. Paper does not lie.",
+      "rate": 1.0,
+      "tripDate": " August 2016"
+    },
+    {
+      "title": "Ok if you have really low standards and need to save money",
+      "text": "First, no one is on the spot when you arrive, You must use a phone and it might take 15 min before someone arrive (hope your car is well parked). Then they showed us a chamber to had nothing for it and no A/C (as promised). We complained so they moved us to another address and that chamber was a bit better, though the A/C was not sufficient at night. We had to keep a big loud fan running at all time as the windows were locked. We were lucky enough but since most of the staff don't speak English, some of our neighbors had miscommunication problems so they got extra fees and their stuffs got moved to another room. In the end, we had an ok staying because we read the reviews and brought our own towel, sheet, pillow, toilet paper, etc.  and were lucky enough to have a table to cook and eat our simple meals. You must fully autonomous to go there!",
+      "rate": 2.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "Much depends on your expectations",
+      "text": "Well, its certainly fair to say that this is not what we were expecting, when we arrived at University Apartments. The price was very much lower than other hotels in Toronto that we looked at. The website said that there were TVs in rooms, but there was just a blank space on the wall where it used to be.Sound insulation in the building is practically none existant, so every footstep echoes throughout the block. We were in a groundfloor room (though you have to use a small flight of steps to access the building). CCTV cameras are everywhere, but it was not clear if they were for the security of guests, or the apartment block operators (who were conspicuous by their absence).On arrival, you 'check-in' by calling one of the numbers listed on the front door. Someone arrives within minutes to take the payment for your room. One bonus is the free wifi, though apart from the decent shower, there are very few other redeeming qualities! Daytime temperatures were around 30 degrees when we were there and there was no air con in the building. Someone did set up large fans to blow air down the corridors at times. A cleaner came every day, though I don't think our room was ever touched and we had the same towels for the whole of the week we were there.There is a fridge in the porch, with bottles of water that guests could purchase, by leaving payment in an honesty box. Check-out was even simpler than check-in. You just dropped your room keys in a bucket!All in all, if you are on a tight budget and don't mind roughing it; this place is ideal. The area around is very safe and it is easy to walk into the centre of Toronto, or get various forms of public transport, just around the corner. There are masses of eaterys of all descriptions within a short distance. A popular Chinese restaurant is a few metres away. At the time of our visit, a new apartment block was being constructed next door and it was very noisy from 6am most mornings.",
+      "rate": 2.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Decent price for the bare essentials.",
+      "text": "Here's the facts: We paid 70$ (after tax) for a room with a private bathroom. The hostel is just off Spadina at Dundas (bus depot is walkable, ttc is outside your door). Heart of Chinatown in downtown, location is great for price. Hostel was very clean when we were there. It is very basic but the price is right. The check in is just a door way. Owners have basic English skills but not awful. Ask for a room on the bottom of the 3 floors, top floor was pretty stuffy although every room gets a fan. At the time of this review there was MAJOR construction going on NEXT door of a condo building that only looks about 1/2 done at best. Literally a jack hammer started every morning by 9/10am. I'm a laid back traveller, I know the owners can't control this and it only motivated me to get out of the room and explore.This is a basic room at one of the lowest price's I've ever seen in toronto, especially for the location. If you're one budget and need a ROOM, just a clean room nothing fancy, this is for you.",
+      "rate": 3.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "STAY AWAY!",
+      "text": "Firstly, before arriving at the property, we received a mail from bookings.com stating the credit card used to make the booking was not valid and we had to contact the property within 2 hours to confirm the booking. This turned out to be hogwash and a complete time-eating exercise. After multiple calls (which were never returned despite promises to do so)  it became apparent that the so-called 'managers' (Justin and Mike) are unprofessional. They answered the phone with 'yeah?' (Seriously, which professional in the hotel / services sector does that???), were incoherent when they spoke / speak (it made me wonder if they were distracted or poor communicators or just had a poor command of English), and didn't return calls. In short, they come across as apathetic, amateur slum lords out to make a quick buck from their unsuspecting guests. They have clearly received *no* formal training in customer relations / hotel management and are trying to wing it. That doesn't work with educated people who know better. Poor and substandard facilities - Room toilets were constantly clogged and remained unattended to, despite being reported telephonically and in writing (by email). As a result, one set of guests were moved into 3 rooms over 2 nights. After being moved to a new room because of the clogged toilet, they returned late at night to find the room they had been moved into, uncleaned, with the previous occupant's sheets and towels left unchanged. This, despite an agreement in writing that the room would be available and properly prepared for the guests to move into. Safety - here's the biggest shocker - a colleague's room was broken into and his locked bag, was also broken into. The manager's response to this incident was deplorable. The so-called manager (Justin) refused to come to the property to attend to the matter, claiming he was half an hour away. The other manager (or maybe he was the absent owner - Mike?) claimed he was in New York. The traumatized guest was thus forced to deal with the police himself. Separately, someone repeatedly tried to turn the door handle of another colleague's room on two separate occasions, late at night. We consistently found the front door wide open and unattended to. This basically meant that anyone could walk off the alley into the hotel and gain access to rooms. In short, the property is not access controlled and is unsafe. Location - while the hotel was somewhat conveniently located (near the corner of Dundas and Spadina, in the heart of Chinatown), the hotel itself is located in a quiet, isolated, small dead end lane, opposite a skip / dumpster. Certainly not the best or prettiest of settings. Room size and accessibility - most rooms are tiny. Two people would battle to find space for both their respective suitcases. There are no elevators, so guests have to be prepared to carry their heavy luggage up a narrow sets of stairs (barefoot or in socks,  as shoes are not permitted up the stairs). ***In summary, avoid this dive! It's basically a roach motel run by unprofessional amateurs.***",
+      "rate": 1.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "THE KINGDOM OF MOUSES ",
+      "text": "NEVER GO THERE ! When you enter it looks clean and safe they ask you to take off your shoes which is funny because we saw mouses when we came back to our room. We had huge problems with them ! Thanks to the profesionalism of booking I just had my money back. Quotation of the year when I firstly explained the situation to the staff he answered  \"B***h you have no proof about what you are saying\" Do not go there if mouses are not one of your hobbies",
+      "rate": 1.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "hi! a very low standard hotel in toronto",
+      "text": "hi! i was in university apartments in last week in may 2007. its a very low standard hostel... i wanted a room on the bottom floor ,but it was in the basement.... it had barely a window it was humid and a bit cold a hard bottom bed but it had a  bathroom ..and that was good. and it had schampoo and papers for the stay ..wich was good. but its only good for sleepovers a couple of nights i think. there is no personelle or staff present very often ..! you have to call them by phone ,and there is not much service to talk about. i think its run by a big shot chinese man who only wants to get in money ,cash and doesent care much about anything more...!!!!! there was living there  in the basement who also worked full time employed there by the chinese people...a bit like a serf or a serviceman  everyone seemed afraid if the big man boss...but anyway its ok if you accept the lower standard  ..!its location is very good right in the chinese Chinatown  and near to downtown Toronto...very good, and i had racoons running and making noises in the night outside the cellarground window..that was fun and i liked it a lot. very amusibng and interesting ...! you have  very near to go to streetcars on spadina  and go down to the center union square and see all the attractions like young ,dundas queen streets etc....that was great regards from sweden man john bevegaard.",
+      "rate": 1.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "Very basic hotel",
+      "text": "Very simple and basic hotel. Did not even have TV in the room. Room was very basic and small. It was not cleaned during all the stay. Staff correct but did not speak fluent English despite being in  Toronto. The best part was the location, in the center close to most touristic places.",
+      "rate": 2.0,
+      "tripDate": " April 2019"
+    },
+    {
+      "title": "„Terribly, nasty place unfit for accommodation“",
+      "text": "There is no reception, there is a phone in front of the lock door and telephone numbers. We called and replied after 5 minutes. There was a boy and a girl who said they had received the same answer, but they were waiting for 20 minutes. We called the 2nd and 3rd time, but an angry voice told us in 10 minutes and closed. After another wait came a white man who rushed and arrogantly pushed us and did not let us in and said \"Go, your reservation is canceled and I will not let you stay here\" From my credit card were withdrawn the money for the stay 2 days before that, so I started talking about, saying I would seek Help from the Booking and I would complain. We were finally cast from a room with 2 iron bunk beds without a window and nothing else. Perhaps, there is no worse hole in this world than that. Subsequently, there came a Chinese who moved us to another room, which had a bunk bed and a double bed, a fan, a microwave and a refrigerator. The room and bathroom were very small and narrow. The window, broken by a broken air conditioner, stood open because of the rotten, inoperative air conditioner. This room was on the third floor and was accessible on a narrow wooden staircase where the Chinese obliged us to take off our shoes and barefoot to climb up. The rest of the occupants put plastic bags on their shoes to access their rooms. I suggest Booking to stop supplying this accommodation to preserve reputation.",
+      "rate": 1.0,
+      "tripDate": " September 2018"
+    },
+    {
+      "title": "Good wifi, shady location but close to downtown",
+      "text": "The building was very average. The room was clean but old bed and there was absolutely no sunlight coming in. It was NOT comfortable. Wifi was really good. The neighbourhood was very shady, you could smell weed the entire night. In the middle of chinatown where absolutely no one knows anything other than Chinese. When you get there you have to call them and it takes them about 15-20 minutes to reach you. Interaction was minimal due to them not knowing English.This is a HOSTEL not a hotel! I do not know why it is listed as a hotel. Here is what I think: if you are in your early 20s, travel with your group of friends and want to stay in a place for 2-3 days that is close to the downtown area, then go for it (Absolutely go for it if you are Chinese). If you need good rest at night in a safe area where you can go back and forth to work and you are a solo traveller, STAY AWAY. It is not a safe area.",
+      "rate": 2.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Cheap and not cheerful",
+      "text": "Not sure it can be called a hotel. Calling it a hostel will be an insult to hostel. Pros: centrally located and cheap. Cons: bad smell, electricity shuts off sometimes and thin walls. Only book if you really don't care about the condition of your hotel and only need a bed to sleep in.",
+      "rate": 2.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "Vert bad",
+      "text": "Hôtel very small.  No table in the room. No garbage can , I the room ,Toilette papers  , tight in the bath room ,  towel I. Got  Very old Inter net. Very slow   In the. Night  hardly to. Watch vedio   In the night. If you are in the first floor. It is noisy",
+      "rate": 1.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "Don't go there.",
+      "text": "We have a mouse in our room. When I told the clerk about it he said: \"Cool! They are really friendly here in Toronto. They come in because we leave the door open.\" I pointed out that they should do something about it. To humor me, he said that they stuffed hole but that they were coming nonetheless. He put foam in our room to prevent the mouse from leaving it's nest. Then, he saw the old moldy pillows that are holding the air conditioning in place. He said \"Cool!\". We had to point out that it's pretty disgusting. He offered to remove it. But we refused, considering that the bed is just underneath.",
+      "rate": 1.0,
+      "tripDate": " September 2018"
+    },
+    {
+      "title": "Stay away from this place",
+      "text": "I stayed for 11 nights and i was looking for cheap place and i was wrong for choosing this awful hotelA RAT ate our snacks 😵Hidden fees (2$ per day for the microwave 😳) Also the hotel stated that there is a TV in the room but they asked a 5$ a day for the TV 😠Over pricedThe place doesn’t worth it",
+      "rate": 1.0,
+      "tripDate": " August 2018"
+    }
+  ]
+}

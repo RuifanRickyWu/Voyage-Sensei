@@ -1,0 +1,52 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Haya Toronto House",
+    "url": "/Hotel_Review-g155019-d7911346-Reviews-Haya_Toronto_House-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "1.5",
+      "reviewCount": 4
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "594 Dundas St W",
+      "addressLocality": "Toronto",
+      "postalCode": "M5T 1H5",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d1/0c/0e/haya-toronto-house.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "DO NOT STAY HERE",
+      "text": "Approximately 2 hours before we were due to arrive. I received an email from Haya House telling me that their credit card machine was not working and that I'd have to pay cash and asking me when I was due to arrive. I was a little unsure about this, as they had my credit card information on file when I reserved the booking. My partner and I were able to find the Haya Toronto House after some difficulty. The sign for the Haya House was hand-written in marker on a white piece of paper taped to the door (look at the photos). It did not look like a sign for a legitimate business so we were a little put-off at first. We decided to enter the building and walked up three flights of stairs with our luggage. The entire time, we felt as though we were entering into someone's home and we felt quite uncomfortable and as if we were intruding. There were a lot of children's toys and shoes all over the floor and no one there to greet us. Once we reached the third floor where the Haya House was apparently located, there was no one in site. I called out \"hello\" a few times to no response. After this, we felt very uncomfortable and decided to leave. This is not a legitimate business.. please avoid this place! Ps. We booked through booking.com and they rejected our complaint.. do not use them, they are useless when it comes to customer service. We were unable to get our money back.AGAIN.. i cant describe how bad this experience was.. its a scam.",
+      "rate": 1.0,
+      "tripDate": " August 2016"
+    },
+    {
+      "title": "Absolute terrible place",
+      "text": "Place literally smelled off poop. When we walked in the door there was a very smelly homeless man. When my girlfriend and I came back later from a night on the city, it still smelled of poop throughout the building and in the room. It made for a very rough sleep with the smell as well as a very uncomfortable and stuff bed. There also was mold in the shared bathroom. We felt extremely dirty even being in the hostel let alone sleeping there. It was disgusting and I would not recommend. The price is cheap yes, but definitely not worth it!!!!!",
+      "rate": 1.0,
+      "tripDate": " January 2016"
+    },
+    {
+      "title": "Pas propre, pas sympa.",
+      "text": "Le plus gênant c'est la saleté, les chambres n'ont bien sur aucun charme mais son surtout petite et mal aéré. Le seul plus est le prix et encore, c'était une réservation de dernière minute. Bref vraiment je poste toujours des commentaires positif mais la, n'y allé pas c'est vraiment un manque de respect de proposer un logement comme ça.",
+      "rate": 1.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "different location, felt uncomfortable",
+      "text": "When I first booked here it took days to receive emails back from the owner. I was checking in late and wanted to know if someone was going to be there for me. Two days later when I emailed again I finally got an email back saying that someone will be there but check in is at a new location after 7pm.I was very much confused as it said the Haya Toronto House was on Dundas West street but he then emailed me saying no the location is on Shuttle Street. I'm happy that I emailed as I would of have no idea and went to the wrong location. When I arrived at the new location I felt a bit uncomfortable. I stayed in the basement room and only have a single bed when I booked for a double. The mattress was rock hard. When booking I didn't know a the family lived there either as when booking on here booking.com it looked like you had the house to yourself with another room with shared bathroom and kitchen so I felt like I was imposing. It said as well there would be a cook stove etc but as I was staying in their house the kitchen was full of everything and no spare area to cook meaning I had to eat out.I will no return to stay here. I felt very uncomfortable and coming off a big flight from Australia I just wanted a nice chilled place to stay but was very much frustrated at the point that the reservation lied!",
+      "rate": 2.0,
+      "tripDate": " April 2016"
+    }
+  ]
+}

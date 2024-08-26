@@ -1,0 +1,347 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Delta Hotels by Marriott Toronto Airport & Conference Centre",
+    "url": "/Hotel_Review-g155019-d183783-Reviews-Delta_Hotels_by_Marriott_Toronto_Airport_Conference_Centre-Toronto_Ontario.html",
+    "priceRange": "$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 318
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "655 Dixon Road",
+      "addressLocality": "Toronto",
+      "postalCode": "M9W 1J3",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/01/d3/a8/lot41-social-bar-table.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Experience exceptional amenities, elegant style, and a prime location at Delta Hotels Toronto Airport & Conference Centre in Toronto, Ontario. Just three kilometers from Toronto Pearson International Airport, our hotel offers free shuttle services for convenient travel. Enjoy a variety of on-site dining options, maintain your routine at the 24-hour fitness center, and indulge in relaxation at Exhale Spa & Wellness.",
+  "featues": [
+    "Valet parking",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Bar / lounge",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Free airport transportation",
+    "Conference facilities",
+    "Paid public parking on-site",
+    "Wifi",
+    "Fitness / spa locker rooms",
+    "Hot tub",
+    "Pool / beach towels",
+    "Indoor pool",
+    "Shallow end in pool",
+    "Coffee shop",
+    "Restaurant",
+    "Breakfast available",
+    "Breakfast buffet",
+    "Breakfast in the room",
+    "Vending machine",
+    "Free shuttle or taxi services",
+    "Airport transportation",
+    "Banquet room",
+    "Meeting rooms",
+    "Photo copier / fax In business center",
+    "Spa",
+    "Body wrap",
+    "Couples massage",
+    "Facial treatments",
+    "Foot bath",
+    "Foot massage",
+    "Full body massage",
+    "Hand massage",
+    "Head massage",
+    "Makeup services",
+    "Manicure",
+    "Massage",
+    "Pedicure",
+    "Salon",
+    "Waxing services",
+    "Baggage storage",
+    "Concierge",
+    "Convenience store",
+    "Currency exchange",
+    "Gift shop",
+    "Newspaper",
+    "Non-smoking hotel",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Dry cleaning",
+    "Laundry service",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Interconnected rooms available",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Sofa bed",
+    "Bath / shower",
+    "Room service",
+    "Seating area",
+    "Sofa",
+    "Telephone",
+    "Bottled water",
+    "Iron",
+    "Private bathrooms",
+    "Tile / marble floor",
+    "Wake-up service / alarm clock",
+    "Refrigerator",
+    "Flatscreen TV",
+    "Radio",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Stay, park, and fly",
+      "text": "Review based on stay of two adults, a 3 year old, and a one year old. Stay: Hotel was in a great location, was very clean, and it had very friendly and helpful staff. Only con would be that the room was very small and you can definitely hear the planes overhead everytime they take off. We didn’t use the pool. Restaurant on site had good options for breakfast although was rather pricey. Park and fly: shuttle staff were very helpful with our onslaught of baggage. Easily found a place to park without issue. Some reviews have said its a far walk to the hotel. We dropped our bags at the front, checked in, then parked. It was fine and not what I would consider a great distance whatsoever. We would definitely stay here again! The CAA rate for our week away and hotel stay was comparable to just doing a park and fly without a stay.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "great value for money",
+      "text": "This hotel is just a few minutes from the airport, making it perfect if you need to be close to the airport, and provide free shuttle service 24 hours, every 30 minutes, from/to the airport. Staff were super helpful and friendly. Rooms are nice, clean and comfortable. It has few restaurants, including a bar that serves food until 12:00am which was very convenient.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Stay and Park!",
+      "text": "A very convenient hotel less than 10 minutes from the airport. The room and lobby areas of the hotel were very clean with friendly staff throughout.  The hotel offers on site parking for 8 days whilst you are on vacation for a little extra on top of your room fee, with a shuttle bus to get you to and from the airport.  The only thing to watch for is that the shuttle bus does not run between 2am and 4am, unlike some other hotels in the area, so if your flight arrives within that time then you will have to find other means of getting back to the hotel (likely a taxi at a cost of approx $40 CAD for a 7 minute ride!!).  There are a few restaurants opposite the hotel and an in house bar and restaurant in the lobby.",
+      "rate": 4.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Hotel SHuttle is part time hours",
+      "text": "Booked this hotel after a late arriving flight with 3 small children because it was closeish to the airport and advertised a hotel shuttle. Arrived after midnight on time and called the hotel to check on the shuttle only to find that they only offer the shuttle until 11 pm.Tried to get to another part of the airport with 3 little kids late at night to take an unsafe Uber and finally made it to the hotel after paying high demand rates.Staff just said that they didnt offer a full time shuttle anymore because of Covid business levels When I pointed out that the levels had all come back they said \" Well its a management decision\"Rooms were also much smaller than a standard hotel room.",
+      "rate": 2.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Attention Conference Organizers!",
+      "text": "If you are a conference organizer, you need to think twice before booking this hotel.  The hotel is directly on the airport flight path and there is no sound proofing, other than a pair of foam ear plugs provided for each room. It is very difficult to get a good night's sleep at this hotel due to loud airplane noise throughout the night. We found that other hotels in the area do have sound proofing with much less airplane noise.  If you book this hotel for a conference, please book your conference administrators, leaders, and speakers at another hotel where they can get the rest needed to do their work well.   I do want to mention the hotel staff who did their best to be accommodating in every way.  I feel sorry for them because Marriott's lack of attention to this hotel sure has made it difficult for them to give their guests a good experience.",
+      "rate": 2.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Good Hotel and Pool area for a hotel property!",
+      "text": "We stayed two nights as we were attending a holiday party in the area and wanted a staycation. We enjoyed the pool and whirl pool which was not busy at all. We were given a nice upgraded room with a sofa and sitting area, however it was at the far end of the hotel and a little bit of a walk from the elevators. The room was nice and the amenities/toiletries offered great (sewing kit, shoe mint, scope, toothbrush, etc). The room had a fridge which came in handy and we used the Delta Pantry due to my Marriott status. It  had coffee, chocolate milk, soft drinks available as well as chips and fruit. I choose the breakfast buffet in the restaurant  as the amenity as they didn’t have a staffed lounge (pantry doesn’t have seats).  Anisha in the restaurant  was attentive and welcoming each morning. The highlight was the omelette station and I forget the gentlemen’s name, however he remembered me from the morning before and was welcoming and friendly while making the perfect omelette with all fixings. He was engaging with all the guests and really started the morning off right. Anita from housekeeping was great when she came to refresh our room and was able to locate an additional pair of slippers, which we love  and quickly restock items.",
+      "rate": 5.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "The essentials are missing (spoiler alert, water in my ears!) aging hotel",
+      "text": "I think that a hotel that doesn't provide a basic vanity kit (cotton ear buds are a must! I hate it when I have water in my ears after showering) or a laundry bag doesn't deserve a high score.The room is ok, signs of age. Long corridor to get to my room. Very basic and kind of depressing colors and vibes for me at least. Staff is friendly.",
+      "rate": 3.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "BED BUGS!!!",
+      "text": "This is the worst hotel to stay at! If you care about your health and well being, do yourself a favour and don’t book this hotel. I stayed here for 2 nights and I got bitten by so many bed bugs. I have bites all over my arms and legs!! When we informed the front desk, they took my name and phone number and said the manager will call me after. The entire management and staff don’t seem to care about anything, because no matter how many times I call them to talk to a manger, conveniently, the manager is not around. I was told by the front desk that they would get someone to come check the room for bed bugs and send me an official report afterwards, but no one has sent anything. No one is reaching out to me, I have to call them multiple times a day to talk to someone because if I don’t reach out, no one will contact me. They don’t care about the safety and hospitality of their guests, and it’s super frustrating that no one is taking these health issues seriously. If I could rate this a 0/5 I would.",
+      "rate": 1.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Great Spot",
+      "text": "Excellent stay! We had a King room with Sofa Bed and were happy with the space. Appreciated all the extra amenities, including fridge and microwave. Best touch was from housekeeping, who arranged my daughter’s stuffies into cute poses every day. Hotel location is convenient for driving, but not so much for transit to downtown. Pool area is nice but needs some TLC and staff onsite when large crowds are swimming. Lobby bar is a fun atmosphere. We would happily stay again!",
+      "rate": 4.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Great hotel, excellent  cuisine.",
+      "text": "This hotel is ideal for a quiet comfortable stay. Staff are caring and considerant, hotel is clean and convenient. The restaurant is 5 star all the way, food was fantatsic. Parking is $18 but decent value considering the location, if it were cheaper for a week I would leave my vehicle.",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Clean hotel with amenities a bit further from airport",
+      "text": "I actually booked this place by accident.  I was attending a conference and thought it was at the Toronto Conference Centre which is right next door to the Delta, but it ended up being at the International Centre which is a 12 min ride away.Back to the Delta.  It is actually nicer even tho it is further from the airport.  They do have a shuttle.  Being further away actually is quieter as you are not close to the planes and the highway.Friendly staff checking in and upgrade to a spacious room at the end of the hall.  The bed was a bit squeaky and sagged a little.The bar / restaurant is nice and food was pretty decent.  Good gym, which I made good use during my stay.  They have a pool and hot tub but there were a lot of kids / family so that is a germ factory.  No for me.Overall, not bad for an airport hotel.",
+      "rate": 4.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Nice employees but this hotel is a dump ",
+      "text": "Great employees and  lobby area is nice but rooms and hallways are a disaster, not Marriott quality .  Stayed 1 night due to early flight and I would not stay again. The room had flies and bathroom needs a gut job. Tub / shower had more paint off then left on the tub.  Doors in hallways are awful with major paint chipped . Hotel is dirty and actually should be knocked down in my opinion .Had a great massage at Exhale spa and decent dinner at restaurant in lobby . Employees were really nice but this hotel needs a major renovation . Stay somewhere else . Nash was a really nice employee who worked front desk .",
+      "rate": 3.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Good hotel near airport",
+      "text": "Stayed here for 3 nights while visiting customers in the GTA.  My room was ok, nice bathroom, and very inviting lobby.  Because of Covid, no room service, and no restaurants were open, which was very inconvenient for a business traveler.  One morning even the Starbucks in the lobby was closed.",
+      "rate": 4.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Nice dog friendly hotel",
+      "text": "Quick check in, fast elevators, clean room and nice building overall in a great central location. I have stayed at many hotels in the airport area and this one doesn't disappoint for the value. Will definitely visit again in the future!",
+      "rate": 4.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Close to the airport - good food",
+      "text": "Ideally located - be warned you are directly on the flight path! but the room was clean and quiet (slightly dated, with a small tear in the carpet). Comfy bed.  We wined and dined in the resto-bar downstairs, food was surprisingly excellent, as were the cocktails. Would have appreciated a proper sit down breakfast, rather than Starbucks.  But good place to stay when in the west-end or flying in/out of Pearson.",
+      "rate": 4.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Never again",
+      "text": "We stayed here on our way back from a holiday with friends. It was the end of our trip and we have had very good experiences with Marriott and I booked this as I thought it would be a nice end to a two week vacation. WRONG. Terrible. Our room was grungy. Bathroom walls were stained. Next morning tub would not drain while showering. Even after we left the room. Let hotel know. Only to be ignored. Our friends did receive full credit for theirs. But we got dismissed.  My suggestion. Stay elsewhere. Pay a bit more less and take an Uber",
+      "rate": 1.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Airport stop over",
+      "text": "Great hotel if you are traveling to or from Toronto Pearson airport.  Comfortable beds, Clean rooms and a shuttle service every 30 minutes.  They offer a continental breakfast but our flight left to early to take advantage of this.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Love it",
+      "text": "I’ve been staying here for years. The renovations have brightened up the rooms. I always look forward to seeing Julie and Manny at Lot 41. It’s funny though, we always comment how much fun we had back in the day at the Wild Rose Saloon before it was closed. As for the rooms, they’re pretty standard, it’s nice having a small refrigerator in the room now. It is loud all night long from the planes and traffic on Dixon Rd. Super easy check in/out.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Good Experience",
+      "text": "We really appreciated the shuttle to and from the airport.  Nash, our front desk agent was professional and very friendly.  The lobby was nice. Our room was comfortable and very clean. We also enjoyed the Japanese restaurant on the main level of the hotel. Overall a great hotel to stop over in Toronto.",
+      "rate": 4.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "GREAT GETAWAY :)",
+      "text": "Went here with my husband to celebrate our anniversary….yes, we stayed by Toronto airport to celebrate our anniversary lol!  We had stayed here a few months ago for a convention and loved this hotel!  Rooms were very clean, comfy beds and linens and the pool is HUGE! We decided we wanted 2 days of pure R&R.  We spent the entire time at the huge indoor pool and had it all to ourselves, practically the entire time!  Water temp was perfect, as was the hot tub.  We ate breakfast each morning at the Orchid cafe in hotel and WOW….best eggs Benedict we ever had! Staff were superb as well.  We got room service one night and had two different pizzas and wings and again, superb!  The wings were really good.  It was such a relaxing getaway, as all we wanted to do was laze around the hotel, instead of rushing out sightseeing or shopping, which we have done so many times before.  This was true relaxation :) We are actually planning our next stay here!  Thanks to all staff at hotel :)",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "My New Favourite Place to Stay",
+      "text": "With my go to hotel still not open yet, I decided to stay at the Delta, it had been ages since I had been back here and I have not been disappointed.  Decor is trendy and lots of places to sit in the lobby (plus a Starbucks)  The lobby also has an amazing smell to it.Rooms are spacious, well decorated and the bed is like sleeping on a cloud.The hotel gym is well equipped and has lots of mirrors.Breakfast in the Orchid is filling and worth it.There is a pool and plenty of parkingStaff are friendly and have a great memory as ive stayed a few times in the last few months and they've gone the extra mile for me.",
+      "rate": 4.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Couldn’t get anyone to clean up clumps of hair in my bathroom",
+      "text": "Unfortunately I had a less than desirable stay at this hotel. The morning after I checked in I noticed that my shower was covered in clumps or large black hair. I went down to the front desk and asked them to have housekeeping clean my bathroom. I was heading to meetings and would be back late afternoon. I arrived back at the hotel to find that the room had not been cleaned. I then went back down to the front desk and asked them again to send someone up to clean the room. I was heading to a meeting and dinner and wouldn't be back until late that night. At this point the very nice hotel staff apologized profusely and gave me some points which I am appreciative of. However, when I arrived back that night my room was untouched. I finally got some Kleenex and cleaned it up myself. The morning of checkout I went to the desk to complain and was told a manager wasn't on staff and they would call me to make it right. That was 3 days ago, and I haven't heard from anyone. This is a nice hotel but it doesn't mean much if you don't have a clean room to stay in.",
+      "rate": 2.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Good layover stay",
+      "text": "Stayed with my daughter for a night before flying home. Room was nice and comfortable and quiet. Bathroom was nice, toiletries were brand name (this works…) and higher quality than in other hotels. We ate at Ginko Japanese restaurant (excellent!) We didn’t use any facilities but the shuttle service to/from the airport…which was my only complaint.  When we got to the shuttle pick up area on arrival in Toronto the shuttle rolled up a few minutes later and I waved my hand to flag the driver down, but he just looked at me and drove right by. I then called the hotel and told them what happened but the clerk didn’t seem too surprised, he just said that I’d have to wait another half hour for it to return. So we did, and funny enough this was noticed by other shuttle drivers for other hotels, two of which stopped to inquire as to why we were still waiting! At least it was on time for our morning flight!",
+      "rate": 4.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Nice stay, but quite loud. ",
+      "text": "Nice stay but it's very loud.  If you face the street, you'll hear automotive noise 24/7.  If you face the parking lot, there's a chance you could get some peace and quiet but depending on what runway is in use, you could deal with airplanes whizzing by every two minutes.  You know it's bad, when the room comes with earplugs!But other than that, it's very nice and clean.  The pool was my favourite - so warm that I  wasn't rushing to use the hot tub.   Staff were courteous, especially at the bar/restaurant.",
+      "rate": 4.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Nice hotel with poor shuttle service",
+      "text": "I like this hotel because it has a nice lounge/bar, the rooms are comfortable and it is close to the airport. The shuttle for the airport came every 30 minutes and was punctual BUT Our shuttle driver did not get out of his seat to assist with baggage. I have taken numerous airport shuttles and they always help with luggage. I was forced to load my 3 suitcases, 3 backpacks and  strollers by myself while also watching my three kids under the age of 5. One of the other guests on the shuttle was nice enough to help me with my luggage. When i expressed my frustration with this to the front desk they had nothing to say. I am sure they have several drivers and this was not a typical experience, but this needs to be addressed.",
+      "rate": 3.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "10 minutes from airport",
+      "text": "Nice hotel close to airport, good restaurants and bar. Upscale food and pricing but cheaper alternatives nearby. Had a large meeting, 300+ and swallowed us easily. Rooms small, good comfortable beds, good shower, lots of roomy elevators so going up is easy. Airport shuttle every 30 minutes. Room Keys actually worked consistently. Only big setback is noise from jet planes flying overhead, they supply earplugs, picky sleepers would have issues with it.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Nice Airport Hotel ",
+      "text": "We stayed here for a night before our early morning flight. Check in was smooth and efficient. Platinum benefits acknowledged. However, the lounge is currently not open.The rooms are a decent size and everything was very clean.Parking is convenient located next to the hotel for $18/day.",
+      "rate": 4.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Fantastic",
+      "text": "Super easy check in, the room is very very clean. Plenty of options for dining both here or across the street. Lot 41 is a favorite. The extended parking and airport shuttle are what we required for this stay. My only peeve is the room was a bit cold and took a long time to warm up.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "So nice",
+      "text": "After having a very negative experience down the street at the Airport Marriott I switched to Marriott Delta and I am glad I did. Much friendlier staff, comfortable rooms, nice breakfast and cheaper parking. Next time I am back visiting my daughter I will stay at the Delta again.",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "The right hotel near the Toronto airport.",
+      "text": "This is a comfortable hotel near the Toronto airport with great service and very comfortable rooms.  The sportsbar has good food, and there is a full service Starbucks in the lobby.  And something about the raised workstations fit me perfectly, and I was able to get a lot of work done early in the morning before my wife awoke.Of special note was Azeem at the front desk - he went out of his way to make our stay more enjoyable.  Thank you Azeem, and the hotel can thank themselves for hiring him!",
+      "rate": 5.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Short stay",
+      "text": "I had a very short stay here as I arrived at this hotel near midnight after flying into YYZ. I was probably only there for about 10 hours before I checked out to carry on with the rest of my trip.I had already checked in via mobile app, so all I needed to do was provide my ID and credit card to get my room key. They still have plexiglass shields up which made it really difficult to talk to or hear what they were saying. Otherwise, front desk was nice and even gave me extra vouchers for breakfast (as elite pantry is still closed) as he saw we were a family of 4.When I got to my room, I immediately felt the room was a bit tight and somewhat outdated. It was clean though, and the beds were comfortable. We did face the road, so road noise was significant. That’s probably why they provide ear plugs. Most of the bathroom looked fairly up to date, except the bathtub itself which looked really scratched up.We had our buffet breakfast in the Orchid Cafe. Standard breakfast with eggs, bacon, potatoes, breads, cereal, fruit and juices. Service was good.I did go back to the airport to pick up my rental that morning using the free shuttle service, so that was handy.  They pick up every 30 minutes, and is shared shuttle service with the Holiday Inn nearby.   When I returned, the front desk kindly provided me free parking to give me enough time to pack up and check out, so I appreciated that.I didn’t have time to use any other amenities or services, but having at least two restaurants on site looked convenient.Overall, I was satisfied with my stay. Rooms were a bit tired looking, but I slept fine, and I thought service was very good considering they didn’t have to give me the extra breakfast vouchers for my kids or free parking.",
+      "rate": 3.0,
+      "tripDate": " March 2023"
+    },
+    {
+      "title": "Clean and friendly staff",
+      "text": "I did an overnight before an early flight. It was a very windy day so I was able to pull up to the lobby, place my luggage inside and grab a parking ticket so I wouldn't have to drag my stuff a long distance--that was greatly appreciated.The room had a nice layout with a work desk with proper chair; couch; and bed. It was modern and bright. Of course, being by the airport, there was no view but I was on a higher floor that gave me access to lots of daylight. The heating system worked well; shower pressure was good though the removable shower arm could not attach properly so when I turned it on water went everywhere; wifi great; and the restaurant onsite was good too.Overall, a nice spot for an overnight pre or post airport departure and I would stay here again.All employees that I encountered were very nice too.",
+      "rate": 4.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Good Choice for Airport Stopover",
+      "text": "Stayed at the property for one night post and pre flight.  We had a queen room with a sofa bed.  Room was very clean and comfortable, furnishings were well appointed, bed comfortable, it was nice to have a sofa bed to sit at rather than lay on the bed.  The room had a nice view from the front of the building.  The hotel appears to be an older property that has been renovated, the age is shown slightly in the shower, closet doors and light switches.  The airport shuttle was quick and driver courteous, the front desk staff were efficient, considering long lines at check-in.  The service in the restaurant could have been better, and the food was average.  For the government rate that I paid ($119) combined with the decor, cleanliness of the room and efficient shuttle service I would stay again for a stopover.",
+      "rate": 4.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Very average north american hotel",
+      "text": "The property is at a good location and has very good convention facilities. The reason I chose to stay at this property was due to the convenience of in-house convention. The property and the rooms are very dated and desperately  need refurbishment/renovation keeping the contemporary traveler in mind. Everything looks over used and stale and while the room size is decent the furniture, fixture and decor needs to be upgraded and updated.",
+      "rate": 3.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Needs work",
+      "text": "Hotel is very dated. Pealing wallpaper, chipped paint.  Service staff don’t care. The staff in the lounge make a specific point of charging you for things that you didn’t have.  Large groups of children running amuk and being disruptive at almost all hours. Large groups of children running up/down hallways well into the night.  You would think that the place was a lower end brand instead of Delta.  For the price $300+/night, I expect better. I will endeavor to stay elsewhere.",
+      "rate": 2.0,
+      "tripDate": " April 2023"
+    },
+    {
+      "title": "Clean, comfortable and welcoming",
+      "text": "From the moment we arrived here, the desk clerk was so very welcoming, knowledgeable and helpful.  Our room was a far cry from the expensive pit that we had stayed in the night before in Niagara Falls.  Here there are comfy beds, full bathroom and everything you’d hope for and expect in a decent hotel.  Without a doubt we will be returning!",
+      "rate": 5.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Inaccessible main washrooms",
+      "text": "The “accessible” washrooms on the main floor near the International halls are not actually accessible. I use a wheelchair and could not close the inward swinging doors of the accessible stalls. Accessible stalls require a far bigger foot print or an outward swing door. 😢",
+      "rate": 3.0,
+      "tripDate": " April 2023"
+    },
+    {
+      "title": "Cheap and cheerful property for business",
+      "text": "I booked this room for business and was very impressed by the modern look and feel of the room. The bed was also quite comfortable and surprisingly I didn’t hear any noise from the airport. It would have been good to have good coffee machine (Nespresso) than the barely useable one in the room.",
+      "rate": 4.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "A bit shabby",
+      "text": "I chose this hotel for its proximity to Etobicoke General Hospital where I was scheduled for a late night MRI. After reading all the reviews mentioning hair I was on high hair alert and my room did not disappoint. There was hair in the washroom and on the desk. There was a hole in the top sheet visible without me touching it. There was also stuff in the tub. I went down to the desk and requested a new room and showed her my photos and it wasn’t a problem at all. For a Hotwire rate this hotel is acceptable. Had I paid full price I would have been upset. Starbucks in right in the lobby.",
+      "rate": 3.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Family stop over",
+      "text": "We booked this hotel for a stopover on flights, a family with two adults and two children.We got the wrong bus at the airport so had to get an uber to the hotel. Check in was quick and fine.The downstairs was lovely.The floor our room was on stunk of dogs. The room was OK, had what we needed.We got an uber to the city centre, took about 40 mins as there was traffic. Sleep wasn't great, there's a reason why they give earplugs as you are in the approach to the runway.We only ate at the Starbucks for breakfast, was OK northing special.We had to get an uber back to the airport as the bus transfer was full.",
+      "rate": 3.0,
+      "tripDate": " March 2024"
+    }
+  ]
+}

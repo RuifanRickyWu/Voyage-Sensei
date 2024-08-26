@@ -1,0 +1,83 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Sage Wellness B'n'B Hostel and Spa",
+    "url": "/Hotel_Review-g155019-d1791273-Reviews-Sage_Wellness_B_n_B_Hostel_and_Spa-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 13
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1849A Eglinton Ave W unit A",
+      "addressLocality": "Toronto",
+      "postalCode": "M6E 2J3",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/c8/2d/46/sage-wellness-b-n-b-hostel.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Sage Wellness Moksha Spa is also home to the Sage Wellness B’n'B Hostel; an Eco-Friendly hostel! Amenities: FREE Breakfast served fresh every morning and prepared by Executive Chef Rossana de Angelis of Chili & Fennel, FREE WiFi, FREE Public computer and printer, FREE Local phone, All linens and towels provided, FREE Bathrobes and Slippers, Bathroom luxuries COMPLIMENTARY (hair, body and nail care, makeup), Access to kitchen and appliances, FREE Laundry services (for guests staying a minimum of 1 week), Close to shops, pharmacy, banks and restaurants, Easy access to transit, only a 10 min ride to downtown, Pay parking in lot across the street.",
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Pool",
+    "Free breakfast",
+    "Restaurant",
+    "Room service"
+  ],
+  "reviews": [
+    {
+      "title": "More than just a hostel :)",
+      "text": "Roxie is an amazing host, easy to talk to, always there to give you a hand & she makes wonderful breakfast! The place is clean, makes you feel like home. Location is good too, you get everything you need there. I stayed there for a week & I like it a lot. I would stay again if I ever come to visit in the future :)",
+      "rate": 5.0,
+      "tripDate": " July 2011"
+    },
+    {
+      "title": "Fantastic Italian Hospitality",
+      "text": "Wonderful area, central for everything I wanted to do...Beautiful host, and most comfortable bed I ever slept on...soft and I slept like a baby.  I would recommend to all this hostel and everything I needed was available.",
+      "rate": 5.0,
+      "tripDate": " April 2014"
+    },
+    {
+      "title": "Personnel and proved great stay!",
+      "text": "Me and mine mother have enjoyed staying at this hostel. We had to get used to it first but Roxy had showed us otherwise, so we stayed (6 days). With her kindness en personal attention she takes good cares of her guests. She gives answers to your questions or helps you given it otherwise, and she knows a lot.We enjoyed her breakfast and it was nice that Roxy (a chef and nutritionist) makes every day a different but healthy breakfast. It was pleasant that the hostel is not that big what makes it easier to make contact with other guests. We were having conversations during breakfast and we laughed.  The rooms are neat and Roxy gives you a personnel body wrap! You’re body enjoys it and you feel great afterwards. Roxy is a real darling and makes shore you enjoy your stay. With the best products of SAGE Wellness you get your rest. Kind regards,Lydia & Bep",
+      "rate": 4.0,
+      "tripDate": " June 2011"
+    },
+    {
+      "title": "Stay Away!",
+      "text": "This is not a professional hostel. This woman just thought she'd create extra income by renting out the bunk beds in her tiny, overheated cramped little apartment, which is in the middle of nowhere. She sleeps in the bunk beds as well. You have to take buses and trains to get downtown and the whole expedition takes around 45 minutes. You can't sleep in the hostel, as the heat is up so high - you literally lie in your bunk bed in a pool of your own sweat. And if you try to touch the temperature dial, you get in trouble like you're back in school, as it \"costs to much\" to vary the temperature. The woman is extremely intrusive and inappropriate- expect opinions on every thing you say and expect her to try and change all your plans. As well as this, expect tantrums and massive moods swings from her, to hear her screaming and abusing people on the phone, and to hear Every. Single. Detail. about her period. The good reviews you see are from her friends. This is also not a professional spa. There is a little room with a massage table out the back, and this woman is expecting a premium price from the unsuspecting public to put a few face masks on people. Stay far far away from this horrible place.",
+      "rate": 1.0,
+      "tripDate": " March 2011"
+    },
+    {
+      "title": "good accommodation, great service",
+      "text": "The accommodation is clean and everyone I met there was kind and friendly. The owner goes above and beyond to assist her guests, which was the most impressive part of the experience for me. She is sincere and genuinely seeks ways to ensure her guests get to where they need to go, are well fed, and well informed. When I first walked in I wasn't sure if it was a place for me (mostly due to size) but my mind quickly changed when I met Roxie (the owner). It turned out to be a far better experience for me than I would have had staying at another hostel closer to downtown.",
+      "rate": 4.0,
+      "tripDate": " September 2012"
+    },
+    {
+      "title": "I Enjoyed It 3 Times : )",
+      "text": "I went for the third time to this place (my first time was 2 years ago, the second was in May of this year). Again I enjoyed the cozy, comfortable, clean place, the healthy food and cheerful atmosphere that make it so pleasant to stay (and without breaking your wallet). There is so easy and quick access to downtown Toronto and very convenient transportation. So whether you want to go to a museum, a gallery, a shopping trip, the waterfront, or a Jays game, you can do it all and get back to the hostel quickly and safely - and the ride is interesting and pleasant, letting you to see more of this wonderful city. A special bonus is that this place is within walking distance to Soka Gakkai of Canada (or you can take the bus). Overall my favorite aspect is that I always meet wonderful people here from all over the world and the last time I stayed there I made several wonderful friends!Useful Tip: This place is unique and operates a little different from other places so it is a good idea to read the house rules before you arrive.",
+      "rate": 5.0,
+      "tripDate": " August 2012"
+    },
+    {
+      "title": "Home Away From Home",
+      "text": "First and foremost, forget the general hostel experience, because you don't get that here. It's an unusual mix of B&B, hostel and homestay, but with the best of it all. I stayed for a week after not being able to find anything downtown, and was a little hesistant when I first saw the description and considering it is priced a little higher, I was unsure what I was getting myself into. However, as soon as I stepped in to the place, its almost like you're staying in an apartment with a mix of girls from all over the world who are as surprised by this place as you. The owner Roxie, who lives in the hostel with the girls, cooks them breakfast, and organises tours to Niagara Falls, etc, may talk like a Truck Driver, and would probably shock the faint-hearted with her honest way of speaking, really cares about making sure that everyone has a plan whilst they are in Toronto and sees the best of the city.  Don't let the location put you off, it may not be downtown core, but for anyone who has ever been to Toronto or is planning on coming, it is not hard to navigate. There is a bus right outside the hostel which after a 10min ride takes you straight to the subway, which is then a 15min ride to anywhere downtown. So you may not be in the middle of everything, but its more private and smaller, which makes it more easy to get to know each other. I made friends my first night, and after 3 nights, we organised a big dinner, which Roxie cooked amazingly, and had so much fun.Don't come expecting it to be like any hostel you have been to. Just go with it!",
+      "rate": 5.0,
+      "tripDate": " September 2012"
+    },
+    {
+      "title": "Amazing!",
+      "text": "It has been just over a year since I have stayed here but I must say Roxie has definately made a lasting impression on me. She made me feel at home from the second I got there until the second I left. Always made sure I was comfortable and knew where I was going.In fact I had such an amazing time with her I made sure to bring her a gift on my last day there!I plan on returning one day soon and am happy to say this truly is one of the best \"Womens Only\" hostels I have stayed in. It may be small but it is very clean and you do not have to worry about anything while you are there.",
+      "rate": 5.0,
+      "tripDate": " March 2011"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "The Saint James Hotel, Ascend Hotel Collection",
+    "url": "/Hotel_Review-g155019-d7021436-Reviews-The_Saint_James_Hotel_Ascend_Hotel_Collection-Toronto_Ontario.html",
+    "priceRange": "$$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 470
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "26 Gerrard St E",
+      "addressLocality": "Toronto",
+      "postalCode": "M5B 1G3",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/e1/29/6d/hotel-exterior.jpg?w=500&h=400&s=1"
+  },
+  "description": "The Saint James Hotel is a newly renovated modern style boutique property in downtown Toronto. The centrally located hotel is ideally situated for both leisure & corporate travellers and is a 5 minute walk to The Eaton Centre, Dundas subway station and 1 block east of the financial district. The hotel offers comfortable size rooms with 47\" TVs, in room safe, free Wifi and complimentary Neutrogena bath products.",
+  "featues": [
+    "Paid public parking nearby",
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Free breakfast",
+    "Baggage storage",
+    "Newspaper",
+    "24-hour front desk",
+    "Laundry service",
+    "Restaurant",
+    "Breakfast available",
+    "Non-smoking hotel",
+    "Air conditioning",
+    "Safe",
+    "Microwave",
+    "Refrigerator",
+    "Flatscreen TV",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Everything I was hoping for!",
+      "text": "We spent 3 nights at the Saint James Hotel, a small (about 28 rooms) boutique hotel downtown Toronto, close to Yonge Street and Ryerson University. The location is perfect to walk everywhere and there is a variety of restaurants in close proximity. I felt safe in this area, even in the evening when it was dark outside. Based on the recommendation of other reviewers, I had requested a quiet room at the back of the hotel and indeed, we didn't hear any street or hallway noise or sounds from adjacent rooms. Our 2 queen beds were super comfortable and the room (with flooring instead of carpeting) was very clean. The wifi worked great and the rain shower was an added bonus! Upon checking in, we received breakfast vouchers to use at Freshii, the small restaurant located on the ground floor. With this voucher, we could order any item on the breakfast menu. There was a good selection and all of the items we tried were healthy and tasted good too! At check-out, we were able to store our luggage safely for the day. Before I booked our stay at the Saint James Hotel, I had done a lot of research and this hotel happened to offer the best value and the highest ratings for this area of Toronto. With my CAA membership, I also received a discount. Add on a free continental breakfast as well as good service, and I really think that the Saint James is the best choice!",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Good value",
+      "text": "Excellent front desk service. At check in we were greeted with a bag of snacks and water which was appreciated after a long day travelling across the country. We missed the continental breakfast so can’t comment on that. However it is Freshii so it’s a known brand. I found the lighting right at room door is a little dark but otherwise clean and modern feeling.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Great location and great breakfast at Freshii",
+      "text": "We have stayed here twice and will come back again. It's a nice boutique hotel in a great downtown location. They included breakfast for two at the Freshii located inside the hotel. Very pleasant stay.",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Credit card number stolen",
+      "text": "Stayed here for one night this week on a business trip with a colleague. I used a credit card I rarely use, and used only here on my trip, to pay for the room. Two days later my credit card was used to buy groceries at a Kroger about an hour drive away in Michigan (I live on west coast).  My colleague had a similar experience with stolen credit card number with a card he only used to pay for hotel.  It stands to reason the culprit had access to our information at this hotel. I have contacted the hotel and left a message for the manager but have not received a reply as of yet. As management hasn’t seen a need to contact me yet, I’m posting this as a PSA to warn against staying at this hotel and giving them any personal information as their security seems to be lacking. If you have stayed recently would check your credit card for fraudulent charges.",
+      "rate": 3.0,
+      "tripDate": " August 2018"
+    },
+    {
+      "title": "Nice room, horrible experience",
+      "text": "After a cancelled flight on January 1st, a company suggested by the airline (as they had run out of vouchers) made a reservation for me at this hotel. When I arrived, it was after 11pm so the door was locked. After numerous attempts to ring the buzzer and call the hotel, I was finally able to get out of the cold when guests of the hotel entered. There was no money at the front seat and I waited in the lobby at least 30 minutes debating given how late it was if I should call a cab and find another hotel.  The receptionist returned with a few \"guests\" in tow. The room was very clean and spacious for the few hours I spent there before catching an early flight the next morning.I was awoken around 3am by loud noises in the hallway. The three guests who I had seen ealier when checking in were running in the halls yelling and said they were friends of the receptionist. The receptionist apologized for his friends' behaviour when I mentioned it the next morning. I was willing to let this all go until I received a second charge on my visa.When I called to inquire why I was charged a second time a week after staying there, I was told the rate was higher than why I paid since I was sent by Porter. I was not sent directly by Porter as they had run out of vouchers and I would only be reimbursed for the actual receipts I submitted the next day- which would exclude this extra charge on my visa.  For a stress free stay, I would not suggest staying at this hotel. I was shocked by the lack of professionalism.",
+      "rate": 1.0,
+      "tripDate": " January 2018"
+    },
+    {
+      "title": "Not worth it in my opinion.",
+      "text": "I don't know the standards of those who gave this hotel a good review - but it certainly is not a 3 let alone 4 star hotel.  It must have previously been a hospital or a nursing home, as the smell of hospital is still in the halls and elevator.  The rooms are converted hospital rooms for sure.  Ours was a handicap room, even though we had no need for one, and did not request one.  We had one small window and very poor lighting.  Being a handicap room, everything was geared to people in wheelchairs.  The mirror in the bathroom was tilted down, there were no shelves in the bathroom, so not able to use a mirror to get ready.  It was a re-furbished hospital bathroom.  The complementary breakfast was pretty poor, cold oatmeal, and a strange egg sandwich was hardly edible.  the staff argued with us on leaving that we specifically requested a handicapped room  - which wasn't the case.  If your looking for a place to sleep and run -this may be ok - but otherwise steer clear.",
+      "rate": 2.0,
+      "tripDate": " October 2017"
+    },
+    {
+      "title": "Very happy patrons",
+      "text": "The St. James is a very reasonably priced little gem in downtown Toronto. About a 25-minute walk from Union Station and less than 10 minutes from the Eaton Centre. Upon arrival we rec'd a welcome loot bag with water and munchies as well as vouchers for breakfast at the Freshii (located in the lobby).  A coffee machine in the lobby dispenses cappucino/latte, etc. Our room was quite large with a modern bathroom; comfy bed; fridge, microwave and Keurig coffee maker.  The management and staff were very helpful and welcoming.",
+      "rate": 5.0,
+      "tripDate": " November 2019"
+    },
+    {
+      "title": "Great value for central Toronto",
+      "text": "Stayed here in June and it was our second visit.  For price and location you can’t really do better.  Only 36 rooms so has an intimate family run feel, which I much prefer to the big corporate brands.  The downside to that is you have to be comfortable in your room as there is only the small lobby area, so no communal lounge, but that’s fine by me.  Breakfast is a voucher for the small “Freshii” concession at the back, so don’t get excited about that.  But a bacon and egg wrap with 24 hour available coffee was enough to get me to lunch.Room was a good size with two queen beds, so extremely comfy for two guys travelling together.  Good bathroom with plenty of fluffy towels.  Staff were all very pleasant.  Small criticism is that aircon on 6th floor hall was freezing (think it was last time).All in all, a great value hotel for those who want a simple stay, without bells and whistles where everything is pretty much walkable.",
+      "rate": 4.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "It needs some attention",
+      "text": "The hotel location is about 20-25 minutes from the CN Tower. The hotel room itself was well presented but based on what we spent on the many hotels we stayed in during our tour of East Canada, from a value for money perspective, this was distinctly average. The location at night felt less secure than other areas in Toronto (we stayed at the King Edward previously). The hotel needs some attention (i.e. there was quite a lot of marks on the walls on the level we stayed on). The breakfast concept was a little strange, we did not feel overly comfortable sitting down to eat in what effectively felt like a fast food establishment, so we took the food to our hotel room. The food itself was quite lovely, though it was limited to one dish.If you are in Toronto, the Saint James Hotel may well work for you, but based on the hotels we stayed in during our travels, this did not wow us.",
+      "rate": 3.0,
+      "tripDate": " September 2018"
+    },
+    {
+      "title": "not that great",
+      "text": "this place has dark hallways and dirty floors, the breakfast was a joke from the weird restaurant in the lobby where the staff was rude...the front desk people were nice but there is no way this hotel should be in the top 20 in Toronto",
+      "rate": 3.0,
+      "tripDate": " December 2017"
+    },
+    {
+      "title": "Great Hotel",
+      "text": "This is a great hotel comfortable, quiet nice part of the neighborhood close to the market and other attractions. A little pricey I just stayed for a night here on the way to Vancouver but was a pleasant experience.",
+      "rate": 4.0,
+      "tripDate": " August 2016"
+    },
+    {
+      "title": "Great staff, location and value!",
+      "text": "The front office team had hand written on a beautiful Hallmark card for us and upgraded our room to help us celebrate our honeymoon. All of the staff were super friendly, and the location was great - really close to the start/end of the hop on/off bus route which was great too. Freshii (the lobby café) was full of fresh, affordable food and the complimentary breakfast was great. The room required a little maintenance, but nothing that prevented us from having a wonderful stay.",
+      "rate": 5.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "Accommodations were very nice, and only block off Yonge Street",
+      "text": "You are right across from University and half a block from Younge Street.  The location was good.  All the staff were very nice and the room was clean and very modern.  I believe it has been redone recently.",
+      "rate": 4.0,
+      "tripDate": " March 2017"
+    },
+    {
+      "title": "Great hotel in a terrific location",
+      "text": "I usually try to find at least a couple of negatives when I write a review of a hotel, but I really can't think of any with the St. James.  The staff was very friendly and considerate.  When we tried to check in early and our rooms weren't ready, we checked our bags and toured the city.  When we came back (still early), the rooms were ready -- and our bags were already in our rooms!  Very spacious room, including a couch as well as a bed.  Reliable WiFi that was included in the room charge.  Free breakfast in the restaurant next to the lobby.  Nice restaurants within a 2-minute walk (Reds, Elephant and Castle, Scaddabush).  No more than a thirty minute walk to every attraction we wanted to see in Toronto -- CN Tower, the Royal Ontario Museum, the Bata Shoe Museum, the Seaport, Eaton Centre.  If we visit Toronto again, we'll try to stay at the St. James.",
+      "rate": 5.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "Great place to stay",
+      "text": "We loved this place! The location is great; it was close to everything we needed. We were given a little gift bag upon arrival which was very unexpected, and the staff were accommodating. Water and hot drinks were plentiful in the lobby. Our room was huge, as was the TV, and the bed and pillows were very comfortable. Also, the rain shower-head was amazing- neither of us wanted to get out! The toiletries provided were nice, and the hair dryer wasn't one of those useless tiny ones. The free breakfast was tasty and healthy, although I wish a little more choice was given, and the serving size was a wee bit small for my boyfriend. My only issue is that a few places in the room were overlooked in terms of cleanliness- there were hairs in the toiletries box (gross!), and coffee stains on the table. Overall, a great (and cheap!) place to stay in Toronto. We would definitely stay there again.",
+      "rate": 4.0,
+      "tripDate": " December 2016"
+    },
+    {
+      "title": "I would've divorced my wife to marry the shower in my room (hope she never reads this)",
+      "text": "I highly recommend my stay at this hotel.  Located across the street from university, there is no street parking (the only bad thing) in a busy part of the city.  Otherwise-- OUTSTANDING!!!From the unexpected goodie bag upon check in, the cold lemon or lime flavored water, or different types of coffee in the lobby, to an extraordinarily friendly and helpful front desk clerk, check in was a pleasure.The room was very modern. Very comfortable king sized bed.  However the biggest treat for me was the bathroom.  Walk-in shower with rain showerhead PLUS shower wand, and large deep bathtub, in a HUGE bathroom with double doors opening to the bedroom.  Then a FREE breakfast, with the help being friendly and helpful.  Finally at a surprisingly low price.   The highlight of my Toronto visit. I highly recommend the Saint James Hotel.",
+      "rate": 5.0,
+      "tripDate": " August 2016"
+    },
+    {
+      "title": "Pleasant surprise",
+      "text": "Beautiful, spacious, spotless rooms!!!  Very modern room, with beautiful laminate floor...Keurig coffee maker in-room, as well as fridge and microwave.  Bathroom was modern, beautiful tiles and CLEAN.   The only thing I didn't like was the sliding door to bathroom, with no lock...and poorly installed. The beds were amazing.Neighbourhood was a little sketchy-one night there was a group of about 10 people smoking marijuana and drinking on hotel property.  Once we brought it to the staff's attention, problem was quickly resolved.The staff was very friendly and helpful. Would DEFINITELY recommend this gem of a hotel.",
+      "rate": 5.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "Clean, stylish, small hotel in the heart of Toronto",
+      "text": "I stayed here for a weekend during July, while visiting Toronto with some friends.  We chose the Saint James for its location, price and the good reviews. Overall, it's a very clean and stylish small hotel, exactly where you want to be in Toronto.The hotel is practically spotless, and feels brand new. Minimalist and modern styling throughout the common areas and rooms. Rooms are a bit small, but functional. We had a room on the fifth floor, facing the road and got some street noise throughout the night. No neighbour noise at all; it felt like we were the only guests in the hotel.  Great beds and linens helped make for a good sleep.Rooms were equipped with microwave, mini-fridge, iron, hair dryer, LCD TV and Keurig coffee maker. There was also cucumber and lemon water as well as an automatic espresso maker in the lobby. Mornings, there were danishes and muffins for breakfast. WiFi worked perfectly and was free for multiple devices.Parking was a steal at $12 a day, with in/out privileges. We parked the car and walked everywhere. Great location... with many restaurants, stores and landmarks around. Only one person at the front desk, but service was still good. Had a bit of a wait while checking out, but staff was helpful and friendly.Overall, it was a great experience at The Saint James. It's a small, boutique hotel... so it lacks amenities like an on-site restaurant, or pool. However, for someone who wants a great place to stay while mostly exploring the city, this hotel is a great choice.  Would definitely recommend and stay again.",
+      "rate": 5.0,
+      "tripDate": " July 2015"
+    },
+    {
+      "title": "Ideal Place to Stay in Toronto",
+      "text": "This is a great place to stay in Toronto.  We stayed in this hotel based on all the great reviews and they were all true.  Great location right in the heart of the downtown area.  Friendly staff who always greeted us with a hello and a smile.  Nice large room with sofa, wonderful shower, and high end toiletries.The hotel is close to Dundas Square and plenty of places that serve breakfast. Don't let the reasonable price and two stars cloud your judgement -- this hotel is a great place to stay while in Toronto.",
+      "rate": 5.0,
+      "tripDate": " May 2015"
+    },
+    {
+      "title": "Great hotel",
+      "text": "Recently stayed in this hotel on a short break. What a great location,clean rooms, friendly staff couldn't of asked for more. Would gladly stop there again. You also get a gift bag on arrival which is a really nice touch. Just book it you won't be disappointed.",
+      "rate": 5.0,
+      "tripDate": " April 2015"
+    },
+    {
+      "title": "Why can't all hotels be like this",
+      "text": "The St. James was beautifully clean, comfortable and quiet with a great location. It does all the important things right, without pretense. Usually I prefer a bath, but the shower was lovely and didn't get the bathroom wet. The room size was better than average, with a king bed and couch with a pull-out bed. Have to agree with other reviewers about breakfast options. I expected more vegan friendly choices, but there were five kind of eggs or an avocado smoothie bowl. Really, two of those last three words should never go together. Parking was amazingly cheap but the temporarily unloading lot behind the hotel is very tight to navigate. Loved that it was a small hotel and hope to stay here again soon. Oh, and free, reliable wifi which can't be taken for granted in Toronto.",
+      "rate": 4.0,
+      "tripDate": " August 2018"
+    },
+    {
+      "title": "Hidden Gem",
+      "text": "My partner and I have stayed at the St. James only for a night. The hotel is located in the downtown area of Toronto in a quiet neighbourhood. The room was clean and modern. The bed very comfy and the shower pretty great. All this at a very affordable price. The staff is really accommodating. Christina, who I initially talked to after the reservation was very professional and kind. She helped me out to set up a small surprise for my partner. The young gentleman who checked me at 11:30pm was very friendly and knowledgeable. I would like to praise him as well. I highly recommend this property.",
+      "rate": 5.0,
+      "tripDate": " April 2018"
+    },
+    {
+      "title": "Amazing Experience",
+      "text": "I had an amazing experience when I stayed in this hotel early January 2018. First of all, the people working at reception are fantastic. They accommodated all of our requests and were always friendly. We called ahead to ask if we could check in early, and they said they could make no promises but when we arrived 2 hours ahead of our scheduled check in, our room was ready.  They also kept hold of our bags for us after check out as we had a few hours to kill before our train ride. They had a coffee machine in the lobby that made decent cappuccinos and Keurig machines in the rooms. The voucher for breakfast was great. Of course, the breakfast wasn't a 5-star breakfast but it was great considering it was free. The location is AMAZING. It is walking distance from a lot of great activities.. particularly there is a phenomenal ramen place that is walking distance.The rooms were clean and had neutrogena products in the bathrooms which i thought was a nice little bonus. The only semi negative comment I have is that the beds were a little bit tough, and the blanket was rough. But, it wasn't unbearable and everything else was so great that it didn't really matter. Overall, I was thrilled with my stay at this hotel and will definitely return.",
+      "rate": 5.0,
+      "tripDate": " January 2018"
+    },
+    {
+      "title": "Theatre night",
+      "text": "This hotel is central and conveniently located near many restaurants and transit.Check in was fast and friendly. Parking was next door and a 10 min walk back. Room was nicely renovated and clean. Very quit till the sirens start.... 5-6 times in the night.Check out was smooth. Breakfast was included by the private on site restaurant. 25 min wait for breakfast wrap!!!!All in the place was clean, reasonably priced and conveniently located. I would return.",
+      "rate": 5.0,
+      "tripDate": " November 2017"
+    },
+    {
+      "title": "great stay at perfect location",
+      "text": "this is a small hotel in the middle of the city. the rooms are great and clean and on arrival we received a breakfast voucher for the eatery in the lobby.Staff was really friendly and coffee and tea service is provided.Even a microwave was in the room.But best is the value for money as this hotel is perfectly located and not that massive only negative I can come up with is that the breakfast is maybe too healthy for kids. Meaning that the type of food they serve is not for small children maybe a scrambled egg and toast could be added or just toast an jam.",
+      "rate": 5.0,
+      "tripDate": " December 2017"
+    },
+    {
+      "title": "Location, Location, Location and a great deal",
+      "text": "The Saint James Hotel starts off with an ideal location, just off Yonge St. amazing next to Eaton Centre in the heart of Toronto.  Rooms are small but adequate, and exceptionally clean and well appointed.  The complementary breakfast is miles ahead of the competition.  Staff are outstanding with a friendly welcome and answers to any questions.Price is  amazing for this location and the $15 overnight parking right next door is the deal of a lifetime (typically in this neighborhood, $15 get you 2 hours parking).  Have placed the Saint James as my hotel of choice (no pun intended) when staying in Toronto.",
+      "rate": 5.0,
+      "tripDate": " December 2017"
+    },
+    {
+      "title": "Comfy Hotel, Great Location!",
+      "text": "This boutique hotel is worth the money in so many ways. The staff are all professional, courteous and friendly,  including the maintenance man that always greeted us with a smile. Check in was a breeze and with our room key we were handed a thoughtful gift bag of goodies.  Our second floor suite was well decorated and clean with a large bathroom with a walk in shower and soaker tub. However, if you are a light sleeper like I am, I would not recommend the second floor suite facing Gerrard street. The following morning I asked Jin at the front desk if there was a possibility to change to a room with less traffic noise. Without hesitation he switched us to a larger, balcony suite at the back, with a bedroom view of a park. And he didn't even charge me extra! The wifi worked great and having a Freshi on location which served hot oatmeal and breakfast sandwiches, was a great start to our mornings, before visiting Toronto. Another bonus was the hotel provided free Freshi breakfast coupons for each day we stayed. Underground parking was safe in an apartment building right next door. At $15.00 a day for downtown Toronto, that was another good deal. The St. James hotel was a perfect location for us. 10 minutes or less walking distance to Younge street, bus terminal for our tour of Niagra, Eaton ctre and Elm street which has excellent restaurants, which I have reviewed as well. Another thoughtful extra for guests was a Espresso/Cappuccino machine in the main lobby and ice chilled water decanters. On our aquarium day which was only a $10.00 Uber ride from the hotel, Jin took the time to familiarize us with a city map and he also recommended we visit the Harbour front after our aquarium visit. The harbour front was not in our plans but it was well worth it, thanks again Jin!Our stay at The St. James was definitely worth it and I would recommend it to anyone! Cheers,🥂",
+      "rate": 4.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "Great Shower!",
+      "text": "Cute boutique hotel, however if you are looking for comfort and good nights sleep than I don't think this should be your first choice. Don't get me wrong, the beds are not that bad, however two of my pillow cases had makeup on them. Not only that, my curtains were dirty, and baseboards were full of dust.The air conditioner in the room is loud, and constant. So if this would bother you while trying to sleep that will be a problem if you're a light sleeper.The hotel hallways are fairly dark. Room modern, showers were amazing! The hotel has a Freshii attached so that is convenient. You also get free breakfast.The hotel is in a prime location. Lots of food around & things to do. The building right next to the hotel (its either an apartment with a lot of young people) or.... a halfway house. Either way, if your walking back at night - they tend to hang out on their front stairs which can sometimes be uncomfortable when you have people saying things to you. Hotel staff was also very unhelpful. I booked two nights and it was around TIFF, so the prices were VERY high for this hotel - and for the experience I had I am pretty disappointed. All in all, I don't think i'll be back.",
+      "rate": 3.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Small hotel, very accommodating ",
+      "text": "What a pleasant place to stay. The room was clean and very comfortable people at the desk were very accommodating. It included breakfast at the small restaurant in the lobby. They even had a complimentary cappuccino machine in the lobby. It was very convenient to the subway and was only a couple of stops from the Rogers Centre where we went to see a ball game. I would definitely stay there again.",
+      "rate": 5.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "Great Little Hotel with Attentive Staff, in a Terrific Downtown Toronto Location",
+      "text": "This review on this great little hotel in downtown Toronto is long overdue. Over a year ago my new job regularly brought me into Toronto and I stumbled upon the Saint James Hotel near my Toronto Office.  I’ve lost exact count but over the past year I’ve stayed at the Saint James at least thirty-five times, occasionally for one night but most times for stays of at least two nights and some as long as the full week.  What that “track record” at this terrific hotel speaks to, is the consistent quality of the service, staff and accommodations which has never wavered once over my many stays at this high-quality small hotel.The Saint James is a hotel in the premium “Ascend” line of the Choice Hotel brand.  Located in a smallish six story building, just east of Yonge street, in the heart of downtown Toronto, the hotel has been recently renovated from top to bottom (the last floor was completed during the past year).  For either business or personal visits the location is ideal.  The Saint James is located about half way between the College and Dundas subway stations and west-east streetcar lines (a five minute walk), a short cab/Uber ride to Union Station and Billy Bishop Airport, and within the downtown zone for Pearson International connections.  Most every chain restaurant and fast food outlet imaginable is located within a two to three block radius.  Two upscale eateries – Reds and Scaddabush are at the corner of Gerrard and Yonge in the Aura condo tower and there are some great little restaurants nearby on Elm Street, between Yonge and Bay.  There is an LCBO and the flagship Loblaws Food Hall at the re-purposed Maple Leaf Gardens just five minutes away, and another LCBO and Sobeys in the nearby College Park complex, if you want to pick up take-out or beverages.With many years of vacationing, including overseas, in my view the Saint James has a bit of a European feel to it – a bit like many of the upscale 4 and 5 star city hotels we’ve encountered in the UK, Paris, Italy or Greece.  The rooms have a modern décor with grey commercial laminate hardwood floors, a convenient small fridge and micro-wave, lots of plug-ins, and super-reliable Wi-fi.  All the rooms have upscale bathrooms with modern fixtures, walk-in tile showers, bamboo floor tiling and trim, and plenty of towels and toiletries.  The beds are extremely comfortable with fine sheets and down duvets, plenty of pillows and excellent mattresses.  The mechanical systems are reliable, with lots of hot water, and good AC and air circulation in the rooms, if sometimes a little noisy.  The décor in the hotel is bright and cheery – there are enlarged photos of historical Toronto throughout the hotel.  The pictures on the website are truly representative of the hotel environment.  The elevator is about the only part of the building that is a bit dated – but with authority I can say that it beats the wasted time and frustrations in elevator line-ups at most nearby hotels by a long shot, and it’s never a problem.  I've only parked a vehicle in the nearby underground lot a few times and this was seamless.  Having to spend so much of my time away from home is never a great thing, but I am truly relaxed, comfortable and at ease when staying at the Saint James. It is the staff that really makes the Saint James such a welcoming and accommodating place.  The terrific young men and women who work at the hotel are always friendly, accommodating and extremely service-oriented.  Due to its small size, there are never line-ups or waits for check-in or check-out.   I actually timed my arrival once – I was through the door of the hotel, checked-in, provided with my always-appreciated complimentary bottled water and snacks, and up in my room in under 3 minutes!  The staff members are extremely gracious in fielding inquiries and assisting guests with anything, but without the disingenuous fawning that can sometimes be irritating with staff at the larger hotels.  Over the course of my many stays at the Saint James, it’s been my observation that the Saint James succeeds through the benefit of a very personable and dedicated group of individuals, who really work in a collective team effort for guests.Reservations at the Saint James include breakfast at the small independently-run Freshii franchise located just off the lobby which is one of the reasons I like the Saint James.  The staff here is also efficient and pleasant, including the morning rush that sometimes occurs.  The included breakfast, is a choice of one of their oatmeal or egg pockets, always hot and tasty (but there are other offerings available).  There is also milk, juice in the mornings and coffee and tea all day from the self-service espresso machine in the lobby.  Lunch and dinner offerings are the usual Freshii restaurant fare and have always been reliable when I’ve decided to grab something in the hotel instead of one of the many nearby eateries.Another perk of the Saint James is the availability of one complimentary day pass, for each night’s accommodation, at the Aura Fitness Centre located right down the street.  This massive, upscale facility has most every cardio machine imaginable, full weight and machine equipment, and is truly awesome – far and away exceeding the typical (tiny) hotel gym you might encounter, and likely faster to access than the facilities at some large hotels.Obviously, I would highly recommend the Saint James as an excellent, price-competitive alternative to the various larger, high-volume, impersonal big-chain hotels located in downtown Toronto.  Looking at the consistency of the reviews and ratings here at Tripadvisor over the past year, that recommendation seems to be shared by the vast majority of guests.  Due to the high ratings and increasing popularity of the Saint James, I’ve occasionally been unable to book at the hotel but I always look forward to returning to the welcoming staff and comfort of this great little hotel.  Kudos to the staff of the Saint James Hotel for consistency in a job well-done.",
+      "rate": 5.0,
+      "tripDate": " July 2017"
+    },
+    {
+      "title": "Last minute need couldn't have asked for more",
+      "text": "Well located and clean spacious rooms made for a wonderful stay at short notice. In house breakfast and laundry all good quality for priceStaff especially Christina on the front desk were terrific. Ultimately it's the staff that make the difference. Will come again for sure.",
+      "rate": 5.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Amazing service, great breakfast and location close to shopping",
+      "text": "Incredibly pleased with the service and amenities here! Stayed here for 2 nights and we were pleasantly surprised to have been given a room suite with a HUGE bathtub and very large bathroom with an amazing rainfall shower head. The king sized bed was incredibly comfortable. A couple other things to note: we didn't have a view but it was fine as we weren't in our room most of the time and the A/C unit in the room was quite loud and old but it did not bother us. It was also very nice to have the option to walk up the stairs to our room instead of relying on the elevator all the time. We mentioned in our booking that we were celebrating an anniversary and received a box of chocolates and a very nice note later in the day when we came back to our room. Such a nice unexpected surprise! This location is close to an Enterprise car rental so we were able to easily pick up our car and drop it off for our 1 day rental. Shopping and food is literally a 5 min walk away. Public transit is also easy to reach. The breakfast is AWESOME! So fresh, delicious and more than filling! They also provide free OJ and milk in the morning as well as the free cucumber / lemon water by the front desk. There's also an empty fridge and microwave in the room which is convenient if you have leftovers and want to heat it up later. The front desk people were incredibly hospitable and nice. I noticed they also had some coupons for some restaurants nearby if you ask them for food recs (we didn't). When entering the hotel you don't get a grand entrance but everything else more than makes up for this. I don't normally like to stay at the same hotel if I visit the same city but I would not hesitate to book this again!",
+      "rate": 5.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "Nice Find in Toronto",
+      "text": "Pros: great location near major shopping street and less than 15 minute walk to waterfront/CN Tower/Rogers Centre/Air Canada Centre, free pastries in the morning, free water in the lobby all day, comfortable room with nice bed and large TV. Neutral: located next to homeless shelter (walked by four times, never felt uncomfortable but important to note), no parking at hotel (you park in garage of apartment building next door, not a big deal in my opinion). Cons: none. Would stay here again!",
+      "rate": 4.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Wonderful Hotel in a Great Area",
+      "text": "We booked the hotel for one night because it was a great location for our appointment the next day.  Also, the price was good and the pictures online looked great.  It  was converted from  a Ronald McDonald house in the summer of 2014 and so everything is very clean and new.  The reality lived up to our expectations!  The front desk attendant was extremely welcoming and helpful.  He explained how to use the underground parking next door - it cost $12.00 for the day which is quite reasonable for Toronto.  He also gave us a nice welcome goody bag which included a personalized hand written welcome card - a nice touch.The king sized bed was very comfortable, towels were big and fluffy, there was a microwave, bar fridge, and even a Keurig machine for your morning coffee.  There was also a sitting area with a couch,2 chairs and a coffee table. Highly recommend this hotel.  Will use it again for sure.",
+      "rate": 5.0,
+      "tripDate": " February 2015"
+    },
+    {
+      "title": "Best Place I have stayed in Toronto",
+      "text": "After staying at the several places in Toronto, a friend recommended this place to me and i booked it . it happened to be one of the best places i have stayed while on a trip. Their rooms are clean and spacious. its very centrally located  all the good stuff, something you can find from several places.  But what was best about this place is its character, it has a certain unique character that leaves a memory, not sure if its because its a small place but it certainly left a mark. Everyone was friendly particularly grace who helped me over the phone at check in. To the gentleman at the desk when i came in late night and the lady who checked me out that morning. it was certainly a lovely stay and my experience was worth more than i spayed for",
+      "rate": 5.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "Solid and then some",
+      "text": "Great for what it is - a small boutique style hotel w no pretensions.  Rooms are nicely sized and clean - windows that open (let me breathe!) and a super walk in shower w hot water. I really dug the location in the midst of Ryerson University - just off Yonge St. and close to excellent shopping and food. Good Stay. T'Man '19",
+      "rate": 5.0,
+      "tripDate": " November 2019"
+    },
+    {
+      "title": "Budget hotel, nice tiuched",
+      "text": "The decor is modern/industrial and quite interesting, but the room we were in was highly scuffed over all the walls, floor, furniture etc. I wouldn’t say it was particularly clean. It was nice to have a dining table and chairs. The bed was large and comfortable and the lobby area was nice but small. The attached coffee shop where you get your included breakfast from is very small with a limited selection but we were really happy with our breakfast wraps. There is coffee and tea also. The welcome bag was sweet with chips, muesli bar, lollies. The location is quite good with immediate access to shops and restaurants. We tried Red’s and it was fantastic.",
+      "rate": 3.0,
+      "tripDate": " October 2019"
+    },
+    {
+      "title": "Hotel convenient to Toronto sites",
+      "text": "The Saint James is as advertised.  Staffers are friendly and efficient and are able to help with questions about the immediate area (close to U of Toronto and Ryerson U) as well as tourist sites near and far.  Many locations are accessible via public transportation, both surface and subway.  The rooms are well appointed with refrigerator, safe, and microwave.  The beds are comfortable and the coffeemaker in the lobby is wonderful (a Jura coffee/espresso machine)!  The hotel's location is an area that seems to be gentrifying and is safe to walk at all hours of the day.  My wife and I enjoyed our Toronto stay and this hotel in particular.",
+      "rate": 4.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "Warm and friendly ",
+      "text": "Small boutique hotel located a short walk from all that Toronto has to offer. Room was very spacious with a large bathroom with a fantastic tub. Staff were always extremely helpful and friendly. Would highly recommend this hotel for your stay in Toronto.",
+      "rate": 4.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "Nice hotel - but my credit card was cloned here",
+      "text": "We arrived on the 30th November and stayed 4 nights. By the 2nd December my card had been cloned and someone had charged £112 at Macy's. I haven't even been to Macy's so it wasn't me. They also tried to take another £400 on the 4th December at the same shop but my bank blocked the card as they expected fraudulent activity. The only time I used my card before it was cloned was at this hotel for extras. I am not sure if their systems are not secure or staff thought I was an easy target? they kept spending on my card until I came back from Canada. I rang the bank around a week later as I couldn't use Uber or buy anything online and thats when I found out.The hotel itself is OK - the room is massive, great shower. The wifi is good. Breakfast was OK. Its a little shop downstairs rather than the hotels own. You get vouchers to present to staff and can have one drink and an item off the menu. Which is OK but not overly filling. We often bought some snacks back or went out for food pretty soon after. There is a coffee machine in the hall which you can use for free. For the most part the staff are friendly. Unless you get the Chinese staff which don't really acknowledge you. I would like to give this hotel a better rating. But as my card got cloned and people were spending my money whilst I should have been enjoying my holiday caused me unnecessary stress. So for that reason I wouldn't recommend anyone stay here. Clearly the staff are either sending card details off or their systems are not secure and details are being leaked out.",
+      "rate": 2.0,
+      "tripDate": " November 2018"
+    }
+  ]
+}

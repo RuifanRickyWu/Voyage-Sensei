@@ -1,0 +1,74 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Sarkar Suites - Maple Leaf Square",
+    "url": "/Hotel_Review-g155019-d15642963-Reviews-Sarkar_Suites_Maple_Leaf_Square-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 7
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Maple Leaf Square - South Towe 55 Bremner Blvd Maple Leaf Square Condos",
+      "addressLocality": "Toronto",
+      "postalCode": "M5J 0A6",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/6f/73/17/bedroom.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Parking",
+    "Free High Speed Internet (WiFi)",
+    "Indoor pool",
+    "Fitness Center with Gym / Workout Room",
+    "Sauna",
+    "Restaurant",
+    "Concierge",
+    "Non-smoking hotel",
+    "Air conditioning"
+  ],
+  "reviews": [
+    {
+      "title": "Excellent experience",
+      "text": "Stayed at 55 Bremner for 2 nights in a 2 bedroom 2 bath suite. Absolutely excellent experience. The suite was spotlessly clean and met all expectations for 2 couples. The price was reasonable for staying in the entertainment district of Toronto. We were within 5 minutes walking distance of the Roger's Center, CN Tower the Aquarium and the Waterfront.  We had a vie of the Waterfront from the livingroom window. Lots of decent restaurants within walking distance. We were able to check in hours prior to the advertised check in time. My only negative comment would be that the kitchen could have a few more amenities.  It was fairly sparse in utensils and glasses. Other than that everything was exactly as they said it would be. We were provided wifi and cable tv. Would definitely book again",
+      "rate": 4.0,
+      "tripDate": " July 2019"
+    },
+    {
+      "title": "Winter get away",
+      "text": "My husband and  I visited our daughter in Toronto Feb. We stayed 3 nights in a Sarkar Suite Maple Leaf Sauare!  We had a beautiful 1  bedroom plus den condo that over looked Scotiabank Center. We were met by a nice gentleman who showed us to the condo. It was very clean and  had all the amenities of home there.  A short walk to St Lawrence Market to pick up fresh food and was able to make a few home cooked meals for our daughter. Location is great! Would definitely stay there again!",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Disappointing customer experience",
+      "text": "I recently traveled to Toronto with family and friends (5 adults) for Easter Weekend. About 5 weeks earlier I had booked a 2-bedroom penthouse apartment directly though the Sarkar Suites website, securing the price as advertised and paying the deposit required. I also paid additional cost for a car park. There was a range of accommodation types available at various prices. This apartment was one of the more expensive options.I like to do my research prior to securing accommodation and was confident I had secured a quality apartment through a reputable provider for our stay. I was wrong.After a lack of communication from Sarkar Suites, we arrived at the apartment building late afternoon on Good Friday. We were meet in the lobby with the eftpos machine and required to pay the full outstanding balance prior to being directed to our accommodation.I was surprised to discover our apartment was not as booked and we had been placed in a tired and run-down unit on the sixth floor looking out to surrounding high rise buildings. Hardly the 'high rise, 2 bed penthouse with lake and CN Tower views' as advertised, and with no contact prior to our arrival to notify of any change.After initial efforts to speak with the host, Rakesh, were either unanswered or disconnected, I was eventually informed that this apartment was all that was available due to water damage in the 'penthouse' I had booked. I was also told that there would be no compensation in respect of the nightly rate due to supply and demand, and was informed I could cancel in full if I wanted. Hardly an option given the time of day. I was offered a refund of the cost for the car park.My experience as an international visitor and customer of Sarkar Suites was disappointing to say the least.The apartment itself was also in disappointing condition with stains and marks clearly evident on bedding, furniture and walls throughout. The place clearly had not been vacuumed prior to our arrival and bar stools were unsafe with parts missing. There was a mixture of cutlery and cooking utensils available including 4 mugs, 3 drinking glasses and 3 bowls in an apartment that supposedly accommodated 5. There were holes in the ceilings and several repairs in the walls that were of a less than professional standard.On the plus side the location was great and the bathrooms were clean with a great shower in the master.Hard to recommend Sarkar Suites unless you’re prepared to take a chance. I won’t be a future customer.",
+      "rate": 2.0,
+      "tripDate": " April 2019"
+    },
+    {
+      "title": "Great location but terrible management!",
+      "text": "Overall the location was amazing, close to everything, restaurants, CNTower, subway, etc..Before arriving to the building I’ve Spoken over the phone to a man (I guess the manager) and he said he would meet me downstairs. Instead a girl showed up asking for my ID, I was hesitant to give it to her since I was expecting the guy; I find that very unprofessional. At least inform the guests properly. Also she came inside my car with the portable device for me to pay the remaining balance, what an awkward situation.....I HAD to ask the girl to come with me inside the garage to show me the assigned parking spot and also to show the Unit. At the beginning I was given one Unit that was totally filthy and smelled like nicotine. Vertical blinds were missing and the balcony door did not close properly making strong wind noise. I requested another Unit and they transferred me to another one within reasonable time. In this second Unit  the carpets were filthy and the walls were dirty. Very cheap linens. No laundry detergents available (offered on website) and she said someone will come back to provide it.......never happened!. I had to find the Amenities on my own because they never showed it to me....terrible customer service!.Before checking out this place I sent an email to: I guess the manager, mentioning that the key was left on top of counter top as per instructions. He did not even Acknowledge the email...I did not feel welcoming at all!!. This place has a good potential if properly managed. Any way..... that was my experience; I hope yours would be better!.",
+      "rate": 2.0,
+      "tripDate": " February 2019"
+    },
+    {
+      "title": "Scam: Avoid at all costs!",
+      "text": "Prepaid for room, never got past front desk/security.  Charged damage deposit and again directly for the room (unauthorized against visa).No service, no support.  Told to ignore security and duck in.  It's a scam.  Avoid.",
+      "rate": 1.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Great apartment ",
+      "text": "We rented Sarkar Suites 12-14 York Street, in the Entertainment District of Toronto. We were in a 3 bed apartment, number 5903. We were delighted with the apartment and the views of the lake are spectacular. We had 5 adults and it was just perfect. Sam and Rakesh were great hosts. They met us on arrival and always answered questions by text within 5 mins. The complex is in a great location with the tower and aquarium within 5 mins walk. Lots of good restaurants and bars close by. Parking is extra cost so be aware of this up front. We had a late flight and the guys let us check out later. If your coming to Toronto I would definitely recommend this one.",
+      "rate": 5.0,
+      "tripDate": " February 2019"
+    }
+  ]
+}

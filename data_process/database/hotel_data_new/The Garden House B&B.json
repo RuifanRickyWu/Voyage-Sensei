@@ -1,0 +1,62 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "The Garden House B&B",
+    "url": "/Hotel_Review-g155019-d7933867-Reviews-The_Garden_House_B_B-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.0",
+      "reviewCount": 4
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16 Laxton Ave",
+      "addressLocality": "Toronto",
+      "postalCode": "M6K 1K9",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+  },
+  "description": null,
+  "featues": [
+    "Parking",
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Seating area",
+    "Iron",
+    "Wake-up service / alarm clock",
+    "Microwave",
+    "Bath / shower",
+    "Hair dryer"
+  ],
+  "reviews": [
+    {
+      "title": "A peaceful nest in a moving district.",
+      "text": "The Garden Inn is a beautiful house in the moving district of Parkdale. Our hosts were charming and it was a great pleasure to have a chat with them. The house is clean, so is the shared bathroom, the only little negative point would be the bed. It was a bit little for two and the mattress was hard and not comfortable. There's a magnificent garden in the back too that can be used by evryone, great place to have a glass of wine... They provided us a parking pass for 10$ a day wich it was usefull, we left the car there all the time we were there. The neigbourhood can be a bit scary for some travelers, there's a lot of pauverty but we felt absolutely safe walking around. We found some amazing restaurants in the area, you dont have to go in all those overrated districts to get a great meal and it's cheaper. I highly recommand this place, specially for people that like arts and good food.",
+      "rate": 5.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "\"Hostal\" la película",
+      "text": "Al llegar el taxista nos pregunto ¿es ahí donde se quedaran? Si, le respondimos y bajamos del auto con las maletas, pero nadie contestaba el timbre. Finalmente, apareció Alan con olor a trago y nos hizo sacarnos los zapatos. Después de 45 minutos de explicarnos las reglas de la casa, al fin pudimos subir a nuestro dormitorio, pero faltaba más, el baño es compartido. Nunca comprendí porqué Alan y Patricia insistían en que fuera a conocer el jardín y siempre hablando conmigo, a mi novia no la miraban a los ojos. Al día siguiente fuimos caminando al centro ya que se nos dijo que estaba a 15 minutos a pie, tardamos una hora en llegar. No quisimos volver tarde ya que el barrio era extraño, de hecho vimos a un señor de edad desnudo en su terraza. Cancelamos nuestra estadía y arrancamos del lugar, sin antes tener que conversar otra hora más con Alan para despedirnos. Nos sentimos observados durante nuestra estadía y pienso que nos seguían.",
+      "rate": 1.0,
+      "tripDate": " June 2016"
+    },
+    {
+      "title": "Frustrated by the phone call",
+      "text": "I haven't visited yet, called the number on booking.com, Patricia was quite blunt and was not cooperative. She asked me to call staff in the morning to ask my questions , in a very offenssive way. She is running a business, I believe she should have better communication withcustomers.If I did not cancel, I will never go back again and will let my friends know if asked.",
+      "rate": 1.0,
+      "tripDate": " August 2016"
+    },
+    {
+      "title": "Awesome stay",
+      "text": "We are leaving now, sad to say goodbye. Allan and Patricia have been ace hosts, although we saw Allan mainly. Beautiful property with a secluded garden, tasty breakfasts, quiet street. Easy walk along queen street to centre of Toronto, with unique shops and eateries along the way. Allan is a really cool guy, takes care of you and is fascinating to talk to. Would recommend to everyone.",
+      "rate": 5.0,
+      "tripDate": " June 2016"
+    }
+  ]
+}

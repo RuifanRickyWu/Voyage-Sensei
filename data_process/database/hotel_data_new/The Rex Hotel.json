@@ -1,0 +1,223 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "The Rex Hotel",
+    "url": "/Hotel_Review-g155019-d1474474-Reviews-The_Rex_Hotel-Toronto_Ontario.html",
+    "priceRange": "$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 355
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "194 Queen Street W",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 1Z1",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/dd/c7/d0/the-restaurant--v13928636.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Bar / lounge",
+    "Coffee shop",
+    "Evening entertainment",
+    "Baggage storage",
+    "Non-smoking hotel",
+    "Outdoor furniture",
+    "Restaurant",
+    "Kids' meals",
+    "ATM on site",
+    "Air conditioning",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Wonderful downtown location, great staff ",
+      "text": "We booked this hotel in Toronto as we wanted to be in a central location and the fact it was a jazz bar.. it exceeded our expectations!! We had a basic but clean room everything we needed and breakfast was included. We were able to walk to pretty much all the tourist spots we wanted to see from here which was really handy and we got the organised bus trip to Niagara Falls from just nearby. Russ the night guy was really friendly gave us loads of info and looked after us well All in all a great little place to stay at very reasonable rates",
+      "rate": 4.0,
+      "tripDate": " September 2019"
+    },
+    {
+      "title": "Dated and basic but priced accordingly.. The music will be the deal maker here",
+      "text": "Small basic functional rooms but very friendly and helpful staff. There's a very limited menu and food is very obviously cooked from frozen so it's not great, but there are lots of other eateries nearby.  You're probably here for the blues and jazz though right so these things won't matter so much. Good prices for Toronto downtown which has a relaxed positive vibe about it. Traffic is busy during the week so allow lots of transfer time. The blues nights and the jazz jam night are excellent and worth the entry fee even though your a hotel guest. This is a handy and fun place to stay but not for more than a couple of nights would be my recommendation.  Following my visit the hotel asked for feedback, here's my response for additional info;I stayed one night at Rex and would like to give you the following feedback, intended to be constructive.RoomThe writing desk and two old office chairs are unnecessary clutter. I would recommend removing them and placing bedside cabinets at either side of the bed. I would also dispose of the old lamp on the desk. The shower looks a little cobbled together although it works a treat. Check-in was good and quick.  The staff were very helpful and professional, other than the female night staff who seemed to spend her whole shift on the telephone to friends. Food menu was very limited. Breakfast was good and served piping hot, try adding beans perhaps.  Chicken sandwich was acceptable but over cooked and very obviously cooked from frozen. More options would be good. Chicken wings were very good but two sauce options is not enough.Price increases by $1 at certain times!  Come on now, that's nickel and diming your customers and hated by us all.  Keep the prices at the higher price and use the money to improve the quality and choices. Jam night was excellent and probably the main reason people stay here. As a hotel guest it felt wrong that I had to pay an admission fee.Overall I'd stay at Rex again but I'd eat elsewhere. The place seems like it's being run by somebody who scrimps and scrapes, somebody who hasn't adapted to market trends over the last 30 years. It needs a modern eye and a little investment to bring it up to a decent standard. I truly hope this helps and wish you every success.",
+      "rate": 4.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Clean, Affordable Hotel in Downtown Toronto",
+      "text": "We stayed two nights at The Rex Hotel in Toronto, and were very pleased with the rooms.  The rooms are small, but the beds are comfortable, and there is TV and AC in the rooms.  Prices are quite reasonable - we spent $125 US a night for a double room with a bathroom, but you can go cheaper if you want the bathroom down the hall.  There are virtually no amenities, no elevator, no real front desk services, and breakfast doesn't start until 9:30, but you can get it all day long.(?)  But the location is great - easy walk to Union Station, CN Tower, and the stadiums - with lots of choices for food nearby.  The entrance to the hotel is around the corner on St. Patrick St., past the entrance to the jazz club.",
+      "rate": 4.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Jazz and a bite",
+      "text": "my wife and I went on Saturday to catch the early show (7PM) and have something to eat. Menu is basic bar food and value priced. Lots of options  my selection was very good. Music is always good and admission is free. The musicians pass the hat for tips - any contribution is voluntary. Saturday show was very good - Neon Eagles - jazz guitar ensemble.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Unbeatable value quality/price plus lovely staff.",
+      "text": "I’ve been visiting The Rex bar for its music performances for years while forgetting/not registering it’s also an hotel.In February 2023 a booking mixup at another Toronto establishment led to a very panicked, last minute (day-of) reservation and arrival at the Rex. Great, efficient and very hospitable welcome plus the unexpected bonus of an early checkin soothed my ruffled feathers :).I had a newly renovated (?) double room on the second floor with private bathroom. All impeccable clean and very comfortable and very little noise from the bar (I could hear the music but it was not intrusive).The added bonus of being able to leave my luggage (free) after checkout for later collection was much appreciated.",
+      "rate": 4.0,
+      "tripDate": " February 2023"
+    },
+    {
+      "title": "Noisy!",
+      "text": "I've given the place two stars instead of one as the room, staff, location and even the shared toilets and bathroom were all perfectly fine. Sure, you can't beat the price in downtown Toronto, but it comes with one major draw drawback: the noise!!!The hotel is located right above a jazz club that has live music played until 23:00 pm. Forget about going to sleep earlier! Furthermore, you can practically hear everything that happens in the street just below (this is Toronto's entertainment district) or in your neighbors' room, through the very thin walls...I guess I should have guessed this would be the situation from the fact that the hotel is located above a jazz club, however it did not reflect in the reviews for some reason. Be warned though!",
+      "rate": 2.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Cheap but characterful",
+      "text": "The Rex is full of character in a town dominated by bland glass boxes. The hotel rooms are above a jazz club - the same business - but are not noisy. My room was perfectly comfortable. Shared showers and toilets were clean. The location is as good as you get.",
+      "rate": 4.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Location is NOT everything",
+      "text": "This hotel is way overpriced (170 Dollars a night!!!) for what you get. The room I stayed in was noisy, everything was outdated and worn down. Hooks, one lightbulb and the extra blanket were missing. The shower was cleaned, but still gross, because it was old and made of cracked plastic. The bed was very small and all the furniture looked randomly put together, it was not cosy at all.  Also, breakfast was not included. 2 stars for location and the friendly staff.",
+      "rate": 2.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Disappointing ",
+      "text": "The jazz bar was lovely with excellent music. Such a shame that hotel guests have to pay to attend - it really should be a perk of staying. Nice food, basic and reasonably priced. Friendly bar staff.The hotel itself fell way below expectations I'm afraid. No lift, and no assistance with luggage, not really a problem, but not very welcoming. Very small dingy room. Very small bed with a very thin mattress. No cupboard or hanging space. Very noisy from the street. Really needs decent double glazing. Small shower room with black tiles which hide the fact that it could be cleaned a bit more thoroughly.  We had a double room with shower. The public bathroom didn't look great. Very drab decor throughout. No tea/coffee facilities. It did have a TV and a hairdryer.  I've stayed in basic hotels before, but this one really needs some TLC. It is in a good location with a large public carpark next door (we had a hire car, so this was good). It really could be lovely if it was given some attention. The price was good.",
+      "rate": 2.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Ecellent location, outdated rooms",
+      "text": "Good location in  downtown  Toronto, for the location cheap for the amenities expensive.Receptionist leaves at 23.00 you have to deal with somebody from the bar after that. Staff seemed to be cool tough, no problems there.Room ,however looked like was outdated already in  the '50's , bathroom too.Size wasn't an issue for us compared with some Asian location was more than OK.Bed on the smaller size but not uncomfortable. However we found a piece of used bad aid sticking to our very old blanket.I don't know what to say about that ,it's not the end of the world but still....We stayed in a room with private bathroom but we seen common bathroom on the hallways. The place seemed pretty popular tough, all booked,probably because of the location and downstairs venues. They keep your luggage for free for a few hours ,really nice, the morning guy from the bar was really helpful and friendly.Overall not a bad experience but have to be prepared for the \"room shock\". No elevators in case same needs to know.",
+      "rate": 3.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "Exactly as expeceted with very friendly staff",
+      "text": "Quirky accommodation in a city where the hotel prices were off the scale. There was a conference in town and very little hotel rooms were available when we booked our trip. We booked in December for a June trip. We knew the accommodation was basic but it was actually as described. The rooms were small but functional and I would have no problem in staying here again. 3 things make the property stand out. 1.\tThe music and the general atmosphere around the hotel.2.\tThe staff were fantastic, from check in to check out people were really friendly and helpful. Don’t miss the breakfast. Coffee and toast is free but I had the $8 breakfast which kept me going all day. The lady that served breakfast was just so friendly and the owner was very interested in checking everything was okay in our rooms and finding out more about us and where we were from.3.\tLocation is superb with only a 10/15 minute walk to everywhere you would wish to go We booked this hotel with some doubts in our mind, but the positives certainly considerably outweigh the negatives.",
+      "rate": 4.0,
+      "tripDate": " June 2018"
+    },
+    {
+      "title": "Great little hotel in a Great big city!",
+      "text": "Me and the girlfriend stayed here for three nights near the beginning of June! Its a great hotel! The location is perfect. Your not far from the subway stop of Osgoode, so can access all your needs with ease. If you prefer to walk your not far from some great shopping, hip streets and restaurants too. The room was small and basic but for the price in the centre of Toronto, i don't think you can argue about the value you are getting here!! The room was clean and i was impressed with how nice the bathrooms were done! We paid a little extra for a private bathroom and i think it was well worth doing. The staff were genuine and extremely helpful in any needs that we wanted. Even upon leaving we were offered a couple of bottles of water to take with us on our travel home. Little things like this i think help make the small hotels stand out! They didn't need to give them or nor was i expecting it! Would recommend this hotel to anyone looking for a decent base to explore the wonderful city of Toronto. Also check out the great jazz and blues they have on offer in the bar",
+      "rate": 5.0,
+      "tripDate": " June 2015"
+    },
+    {
+      "title": "If you're guaranteed a room on the second floor, it's reasonable. Otherwise, it's horrible.",
+      "text": "The reviews of Rex Hotel on Trip Advisor are a mix of great and horrible. This is not at all surprising. As most reviewers note, the price is very reasonable for the location and decent quality of the rooms. However, it's only specific rooms that are worth it.Having read these reviews, my boyfriend and I booked our weekend room in November, planning to stay in March. We SPECIFICALLY requested a room on the second floor because we knew from reviews that the first floor rooms are overwhelmed by the jazz music until at least midnight every night. Even though we booked our room 4 months in advance, we were still given a first floor room when we arrived. In an attempt to be reasonable, we gave the room a try. It was relatively clean and the bed was decent. Other than that, the room was horrible. It was above the jazz bar and as a result, the music was so loud that I had to speak up when trying to talk with my boyfriend. I have no idea how anyone can stay in this room and be okay with the jazz music, which sounds like the band is playing a live show in the room with you. I'm assuming everyone on the first floor only gets back to the hotel well past midnight every night.We went downstairs to clarify that we were given a room on the wrong floor and that we were not willing to make an exception. The receptionist, who claimed to be new but must have been new to any form of client relations, apologized. That was it. She said \"sorry\". Did not try to do anything about it. I asked her if there's another room available and she said no. We were exhausted so we went up and after the band finished, went to sleep.The next day, after a horrible sleep, our toilet broke so we asked to speak with the owner again. The receptionist said he'd check our room while we were out for the day. We arrive back 6 hours later and he has not checked the room. We go to the front to find him and show him the broken toilet, which he attempts to plunge with a toilet cleaning brush... After seeing that he clearly can't fix it, he \"kindly\" offers us the public washroom across the hall that we paid to stay away from. He also confirms that he can't switch our room. We head out for the evening and plan to leave the next morning.The next morning, we pack our things and go downstairs to tell the receptionist that we are not staying for the 2 remaining nights that we booked but instead would like our money back. By some power of the gods, this receptionist is very nice and helpful. She confirms that she can get us into a room on the second floor that afternoon, and that she'll watch our bags until it's available. The second floor room is exactly what we thought we were getting in to the night we arrived - decent quality, quiet. We stayed for the 2 remaining nights.If we'd been given a room on the second floor when we checked in, I'm sure this review would have been positive. The fact that 4 months in advance did not get us our requested second floor booking blows my mind. The fact that no one felt the need to do anything about it until we spent 2 horrible nights there and our toilet broke also blows my mind. If you're considering staying at The Rex Hotel, and intend to sleep before midnight, know that you should ONLY stay on the second floor and that your request to do so probably won't be fulfilled.If you're the owner of The Rex Hotel and you're reading this review, I highly recommend you emphasize to potential clients the fact that there is no guarantee that a request for the second floor will be fulfilled, regardless of how far in advance the booking is made.",
+      "rate": 1.0,
+      "tripDate": " March 2018"
+    },
+    {
+      "title": "Good location, clean, great patio, good food and music",
+      "text": "My wife and I recently stayed here and overall enjoyed our visit.  Here some ratings:Great - the outdoor patio!  Laid back and you can hear great jazz for free.  The patio is smoke free! The music is very good.Good - the food is high-level bar food, but well-priced.  You get free coffee and toast, in the morning.Good - very good location, with very easy access to subways and trolleys.  Close to Chinatown and the CN Tower.Good - affordable and very clean.  Everyone is very pleasant.  No elevators, so you will need to hump your bags upstairs.Blah - even if you stay at the hotel, you need to pay the cover $15 to sit in the bar at night.Blah - the room is the size of a postage stamp, with a double bed.  I will say that the bed was firm and comfortable.Good, not great.",
+      "rate": 3.0,
+      "tripDate": " June 2016"
+    },
+    {
+      "title": "Very comfortable, great ambience.",
+      "text": "We were in town for the Canada Day Blue Jays game and chose The Rex Hotel for the price and the location. We were greeted warmly at the bar (that's where check-in takes place) and our luggage was locked away until later because of our early arrival. Parking was available about a half a block away in a secure covered garage (it only cost us $6.00 for about 24 hours) and the hotel kitchen offers a delicious home style breakfast for about $6.00. The staff are all very personable and the place has a very family-oriented kind of feel to it.It only took us about 15 minutes to walk to the Rogers Centre from the hotel at a comfortable pace. Because of the length of the game, we didn't get back to the hotel until about 9:30 or 10:00 p.m. and although the evening entertainment in the downstairs jazz club had already commenced, it was still easy to retrieve our luggage and find our rooms. The rooms themselves were very small, but exceptionally clean and quiet (as long as the window was closed). Each had its own bathroom with a shower, which was also small, but again very clean and looked like they had recently been updated. There was a cover charge to get into the jazz club below and although my group opted not to go in, I listened later on in the night through my open window and the music sounded amazing.   Overall, my experience at The Rex was amazing. I would definitely like to return just to explore the neighbourhood a little more and relax in the warm and friendly atmosphere of the jazz club.",
+      "rate": 5.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "Great Location for everything",
+      "text": "Stayed at the Rex for one night Oct. 24.  Read all reviews beforehand.  This place is great.  Excellent staff, easy check-in.  Our second floor room was really quiet - we didn't hear a thing.  Were in town for a show at the Horseshoe just down the street.  The carpet in the hallways was tired - a bit worrisome heading to our room but our room was extremely clean and updated.  Would love to see more music posters/pics in the rooms though.  Bathroom updated - nice strong shower head and great towels.  Bed very comfy.  Free coffee in the morning.  Didn't have breakfast - saved ourselves for India Palace lunch buffet across the street.  So much shopping and cool places to be.  Will be back for before Christmas shopping!",
+      "rate": 5.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Location! Location! and Value!",
+      "text": "The location and price are unbeatable. 15 minute walk to Rogers Center, $105 on booking.com. It's clean, quiet (surprisingly so given the jazz club on the main level and being right downtown). Our room had a sink in the room plus a full bathroom. Laminate flooring in room and new tiles and fixtures in bathroom. Towels were new and wonderful and the bed and bedding were comfortable and clean. It really is more of a hostel than a hotel and if you can close your eyes to desperate need to update the hallways to the rooms, then you'll be pleased with your choice. The Jazz Club is awesome and the food was excellent. The Rex is a throw bank in time! I would definitely stay here again for convenience, price and cleanliness of the room!",
+      "rate": 4.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "Location, Location, Location",
+      "text": "I will no longer stay anywhere else when visiting Toronto. I splurged and paid the extra $30 for a private bath and the room was still a very affordable $115 a night. The room was clean, the staff is friendly and most attractions (shopping, sports, restaurants etc.,) are within walking distance. Subway, streetcar, taxi service is right outside your door. Street noise can be disturbing to a light sleeper so bring earplugs or request an inside room. Complimentary toast and coffee is provided or a full breakfast is $6. If you are looking for a no frills, clean, affordable, conveniently located place to stay I highly recommend the Rex Hotel.",
+      "rate": 5.0,
+      "tripDate": " July 2015"
+    },
+    {
+      "title": "\"Rex\" is a dog",
+      "text": "I am used to staying in all classes of hotels, but I have never stopped in a flophouse until now. I see a number of high reviews and note with interest that more than a couple are from folks who live in Toronto, maybe they are the homeless!! The rooms are tiny and although it looks like they were recently refurbished, it's plasticky..cheap and nasty. Do not stay there. On the positive side, everyone is very friendly, with lots of characters in the place if you like people watching. The musical talent is excellent if Jazz is your thing, no cover on the night I was there during the week and the jamming session was of the highest order. I could never stay there again, even for free (as I suspect most of the higher rating reviewers were!!) but to listen to high end musicians, its a must",
+      "rate": 2.0,
+      "tripDate": " February 2013"
+    },
+    {
+      "title": "Deceitful people, crappy rooms",
+      "text": "When I booked a room two weeks in advance they promised me a 2 night special price, of course when I arrived, by myself, with nowhere else to go, they took advantage, which seems to be the common theme of downtown hotels in Toronto. They charged me over $100 more than promised on the phone and with no choice, I paid.When I went up to my room they seemed as if they already hated me due to my Montreal Canadiens coat, they treated me poorly until I paid them. They told me that there would be a complimentary breakfast tomorrow morning, which I thought would be good since I overpaid for the room that was extremly small, it was about a 3rd of the size of my apartment bedroom which is quite small.The tv was tiny, though HD, it was for some weird reason 2 thirds way up the wall near the roof, and it was un adjustable to to put down to a normal level (about 4 feet lower) which was har don the neck. The bed was clean, the bathroom was very clean with a very very nice designer style shower/sink. However due to the tinyness of the room it was hard to move without hitting something. The location is great, right downtown...unfortunatley it's accross the street from some rather unsettling businesses (if you have kids, dont let them look out the window) like \"the condom shack\".Anyway in the morning I went down for my 'complimentary' breakfast, it was the most delicious breakfast I'd ever had at a hotel before...with a catch. As I walked back up to my room they stopped me and yelled across the bar that I had better stop and pay my bill, treating me as if I were some type of dine and dash criminal, embaressing me infront of a few people in the restaurant. I asked why they lied to me and they said that the guy yesterday was simply telling me there was breakfast served in the morning, not that it came with the room. Which is BS because I specifically remember him saying \"show them your room key so they know you're staying here and they wont charge you. Synopsis: the rooms are elegant and up too date, as is the kitchen, the rooms have a powerful heat/air system that is also modern day (which is rare in most hotels). The rooms are also surprisingly quiet and though the jazz music downstairs is loud and annoying it stops at 12am every night which I found respectful tot he customers. However the crazy confusion of prices and non-exhistant complimentary breakfast is too much for me to say the least, this place may be classy in appearence but when you get down to the cost it's simply this: you will overpay at least $200.",
+      "rate": 1.0,
+      "tripDate": " May 2010"
+    },
+    {
+      "title": "Rude",
+      "text": "Hotel staff were nice but the rooms were as large  as a  pack of cigarettes. The bed was a cheap spring Mattress, both woke up feeling unrested.no one to be seen at the checkout:On the other side, the bar staff were rude especially the manager!!! Won’t go back.",
+      "rate": 1.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "Jazz hotel in the heart of downtown Toronto ",
+      "text": "Low key stay in happening Queen St Toronto. Rooms were clean, baths are shared, great bar with decent food, jazz music. It's ideal for a solo traveler or couples, great nightly rates in expensive downtown. Pretty much everything is walkable but there are streetcars too.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "You get what you pay for",
+      "text": "This hotel is small and centrally located. It's a bit worn-down, and there is neither much luxury nor space in the room. However, the price is fair - you get what you pay for. Expect some sound from the jazz club on the ground floor during the evening.",
+      "rate": 3.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Hard no to this place.",
+      "text": "This place was awful - arrived after a long overnight flight and would’ve left but it was 01:00 so options were limited. We thought it was a rooming house, not a hotel.  It was shabby, dirty and smelled like stale smoke.  A literal dump that I shelled out $200 for.  10/10 do not recommend.",
+      "rate": 1.0,
+      "tripDate": " March 2023"
+    },
+    {
+      "title": "Proximity to Theater",
+      "text": "'m reviewing the  Rex hotel. An old fashion building, two stories high, no elevator, narrow stairs.When I came it was early in the day, check in is at 3:00 pm, so the lobby was closed. I went to the bar, and was greeted warmly by the bartender.I went to lunch and came back later in the day and was promptly helped to my room. A small, but spacious enough room with a private bathroom. Very clean, with character.Later on I met Jordan at the lobby. Very nice young man.Location to me was the key in selecting this hotel.",
+      "rate": 4.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "The Rex Hotel Toronto Canada",
+      "text": "My husband and I stayed here for 6 days .GREAT little hotel, rooms are very small but clean. If all you need is a bed, bathroom and A.C.this room is perfect. I would suggest to stay in a room with a bathroom.  GREAT staff, everyone is very friendly, great food and music nightly. Walking distance to everything you need from food to subway.... I will definitely be back.",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "10 star staff",
+      "text": "AWESOME STAFF - From reception to bar, super friendly and helpful. Great location, near dozens of restaurants. Rooms are clean and all you really need when you’re out and about and need a place to rest your head. We’ll definitely be back! Thanks!",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "No frills, clean, friendly",
+      "text": "I had a basic room with en-suite bathroom. The building is older. There is no elevator. It is a brisk 20 minute walk from Union Station. The location is central, and the place had a friendly vibe. I stayed just one night. For the price and location, I thought the hotel was a good deal.",
+      "rate": 4.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Well located decent hotel",
+      "text": "Very well located in downtown toronto and close to major attractions. The hotel itself is alright - if you're thinking luxury, then this is probably not the best place. There's a small room, a bed, and a shower. Very basic but does the job if they're for a couple of days.I found it to be expensive, but i guess that's toronto right now.",
+      "rate": 3.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Fine if you just need a cheap roof over your head.",
+      "text": "There is ONE shower and two toilets PER floor - shared. The rooms a very, very small and very dated. The walls are paper thin and we were woken up by people coming in at all hours of the night. At least things were mostly clean and check in/out easy",
+      "rate": 2.0,
+      "tripDate": " April 2024"
+    }
+  ]
+}

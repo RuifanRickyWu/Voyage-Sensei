@@ -1,0 +1,294 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Madison Manor Boutique Hotel",
+    "url": "/Hotel_Review-g155019-d183072-Reviews-Madison_Manor_Boutique_Hotel-Toronto_Ontario.html",
+    "priceRange": "$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 285
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "20 Madison Ave",
+      "addressLocality": "Toronto",
+      "postalCode": "M5R 2S1",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/1f/bb/42/exterior.jpg?w=500&h=-1&s=1"
+  },
+  "description": "See why so many travelers make Madison Manor Boutique Hotel their boutique hotel of choice when visiting Toronto. Providing an ideal mix of value, comfort and convenience, it offers a historic setting with an array of amenities designed for travelers like you. You’ll enjoy relaxing rooms that offer air conditioning, and you can stay connected during your stay as Madison Manor Boutique Hotel offers guests free wifi. The boutique hotel features newspaper and baggage storage. For guests with a vehicle, there is paid public parking available nearby. While staying at Madison Manor Boutique Hotel, visitors can check out Graffiti Alley (1.4 mi) and Rogers Centre (1.9 mi), some of Toronto's top attractions. During your visit, be sure to check out one of Toronto's popular oyster restaurants such as ALO RESTAURANT, STK Toronto, and Canoe Restaurant & Bar, all a short distance from Madison Manor Boutique Hotel. Should time allow, Casa Loma, Kensington Market and Spadina Avenue, and The AGO, Art Gallery of Ontario are some popular attractions that are within walking distance. We’re sure you’ll enjoy your stay at Madison Manor Boutique Hotel as you experience all of the things Toronto has to offer.",
+  "featues": [
+    "Paid public parking nearby",
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Free breakfast",
+    "Billiards",
+    "Evening entertainment",
+    "Baggage storage",
+    "Non-smoking hotel",
+    "Bar / lounge",
+    "Restaurant",
+    "Vending machine",
+    "Nightclub / DJ",
+    "ATM on site",
+    "Air conditioning",
+    "Housekeeping",
+    "Safe",
+    "Telephone",
+    "Clothes rack",
+    "Coffee / tea maker",
+    "Bath / shower",
+    "Complimentary toiletries",
+    "Wake-up service / alarm clock",
+    "Hair dryer",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Not bad, but calling it a boutique Hotel is stretching it.",
+      "text": "I booked a last minute trip to Toronto, and this hotel came up at the top of my recommendations. It was very inexpensive and the location is excellent. I reserved through Expedia, and having lived in off and on in Toronto, I should have clued in that this hotel is adjacent to the massive, sprawling, multi-level undergrad pub that is the \"Maddy.\" I actually tried to cancel after I realized that (undergrad was 20 years ago for me), but as there was no chance of getting a refund I decided to keep my reservation. It was not abundantly clear in the description on Expedia that the hotel is directly beside a very loud, very huge bar. My fault for not doing the research.I was expecting the noise and general late-night clamour to be much worse than it was, but maybe that's because my stay was in February during reading week. On my third night (Thursday), I did notice that the music from the bar noticeably increased in volume at midnight, and I could hear the bass thudding in my room quite audibly. I put ear buds in and it was fine.  Check in was smooth, even though I arrived after the manager's desk was supposed to have been closed (there was someone there waiting to check me in. Nice touch!)  The room I was put in was dark, dingy, and led directly onto the alleyway beside the pub. Decor is hilarious and old, with ratty old carpeting, non-working TV, and two ancient single (twin) beds. The room was not a pleasant place to spend time in, but maybe if I were 20 years younger and just needed somewhere to crash I wouldn't have cared. There was a directory from 2016 of things to do in Toronto on one of the nightstands, and for some reason there were two packets of decaf coffee but no coffee maker. I imagine they might also have been from 2016...Would I stay again? Likely not, but the price and location are quite good.",
+      "rate": 3.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Not for Seniors!",
+      "text": "We were in town for a family event near U of T and chose Madison Manor for its location, walking distance to many of our destinations along Bloor Street. As a much older building, it is also priced less than other hotels in the area. However, that meant there was no elevator, so lots of stairs not really suitable for seniors such as ourselves, dated and shabby furniture in the rooms, and sadly not  fastidious housekeeping.  Although we did not experience the noise referred to in some reviews, and although the staff were helpful and pleasant, the fact that twice in 3 days our air/con and fridge were without power and had to be reported and the run down condition makes us reluctant to recommend this hotel.",
+      "rate": 3.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Decent digs but...",
+      "text": "Overpriced for what you get.  My room was on the smallish side and smelled of old man.  It was also freezing.  Thermostat in the room didn't work so no way to turn on some heat and the carpet was stained and dirty.  Bed sheets and the bathroom were clean though so a big plus.  I didn't hear a peep from the pub next door or the subway so also a big plus.  Didn't get any $12 food voucher so not sure when they stopped that.  There's also no iron, fridge or microwave in the room.  Just a kettle.  I could hear people walking in their room upstairs but it wasn't ridiculous.  I'd stay again but I would ask for the room with the fireplace!",
+      "rate": 3.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Madison Manor TERRIBLE Hotel Toronto",
+      "text": "Madison Manor Toronto is a terrible property with even worse customer service. We were given a tiny room in the basement with no opening window, tiny vent in the name of A/C and two dim table lamps. When requested a better room upon check-in, we were told that \"That is the room you get if you book through Expedia, Hotels.com or other websites. If you book direct, we can give you better room.\" We could not sleep due to continuous noise of metro underground line, sewer drain noise, pub noise, paper thin ceilings and walls. Room and lobby were smelly without any fresh air. Toilet in our room flooded with first flush after we checked in but nobody was there to answer the call and reception was locked. We had to use facilities in restaurants and shops nearby. What is the point of paying high prices when you cannot sleep or use toilets in the room. Coming out in the public car park (which is behind this Terrible Madison Manor Hotel) in the dark did not feel safe at all. We would not recommend this place to anybody.",
+      "rate": 1.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Bloor street access, great place",
+      "text": "The hotel is right beside a central subway station and on a busy part of Bloor Street, so easy access to good local stuff and anything else in the city you want to visit. Nice sized rooms, good cable tv, good water pressure in the shower. It's a historic manor but kept up very well. On the evenings it can get loud through the walls with the nightclub nextdoor, so make sure to bring ear plugs or a noise machine to drown it out. Nothing too bad, we slept fine through it with the white noice machine on. Usually one of the cheaper good hotel options in the city, snap this room up if you can!",
+      "rate": 5.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Triste",
+      "text": "My niece and i stayed from august 31st to september 4th (attached) We had serious problems with the air conditioning, every day we asked to leave it turned off and were ignored.  until the day we arrived from the street and it was at 84F making it impossible to sleep.  My niece had to go down and, together with the employee, turn off the main switch.  We also had the surprise that there was a bar with a nightclub right where the restaurant was also for guests, which was very unpleasant because we chose this Boutique Hotel for being smaller.  The reception said that we would give a discount for the inconvenience of the air conditioning, duvet torn, curtain falling and more the discomfort of the club.  However, on the day of check out, there was no one at the reception to help unload large and heavy suitcases.  I would like to request at least 50% refund.   I apologize for the English because I used Google translator.  Name of guests Eliana Nistico and Vanessa Nistico.  Thanks",
+      "rate": 1.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Toronto",
+      "text": "Fascinating building. Lots of stairs to climb, no lift. Not good for 80 year olds. Put us in top room, with 6 flights of stairs.Ancient TV with box. Air-conditioning not working, came to room with 2 portable fans working. Kettle, no fridge. Very very noisy. Good eating nearby, not just hamburgers and coke!",
+      "rate": 1.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "nothing ‘boutique’ about this hotel",
+      "text": "this was a tough call. it’s a fair hotel. nothing ‘boutique’ about it. moderately clean except for the bathroom floor and the lobby. as far as the bathroom goes. iunderstand it’s a 3 star but you get tiny soap.bars and watery shampoo… this is more likely found in a 2 star. in our case . we were greeted at the reception with fans. we were told the air conditioners were not working. it would have been nice if they had told us before so that we could have the choice to re-book somewhere else. there were no screens in the window and due to street lighting , moths were waiting to join us in our room. Due to supply problems , they were not able to get any coffee for the room coffee maker. they could have gone to the grocery store and pick up some coffee for the guests. and finally ….. to no one’s surprise  it can be noisy. it is attached to a pub so …. figure it out. ——— in the positive side , it is located in a nice area closed to shops. air conditioning and coffee may be waiting for you. and all the staff was super nice and sort of helpful…",
+      "rate": 2.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Cramped and noisy",
+      "text": "What they don't tell you is that it is adjacent to their own large pub, which is open until 2am. On the other side is a fraternity building that had an extremely loud pa system blasting out until 3.30 am on the Thursday. The aircon is very noisy and ineffective, and the room was cramped and stuffy. Decent situation near Spadina Subway and the staff were very pleasant, but I would never pay a return visit.",
+      "rate": 2.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Convenient, friendly, comfortable ",
+      "text": "Lovely old Victorian mansion with small, comfortable rooms. Impeccable location near Spadina subway/streetcar (45 minutes to Toronto Pearson Airport by subway and express bus) and easy walk to UofT campus, ROM. Cable TV with all the channels. Reliabls Wifi. Spotless bathroom. Comfortable bed, though I’d update the bedspread, which is what your grandmother might have in hed guest room. In-room safe. Great cold continental breakfast in the main building from 0730. Staff are very helpful and welcoming. The only downside is the popular hotel bar (with five patios), whose bass notes penetrate until 2 am. Light sleepers might be inconvenienced.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Fantastic Hotel!!!",
+      "text": "The Madison Manor was a truly outstanding experience from the our initial booking all the way through to the check out.  First and foremost the staff were exceptional in all respects. They were cordial, polite and most knowledgeable about Toronto and all that it has to offer.  The location was great for both getting around (near the subway) and seeing the sights and the rooms were a nice quiet retreat at the end of a long day.  The rooms were both spacious and well appointed complete with fireplaces and great beds.  There is a character pub next door which serves terrific food in a clean and pleasant atmosphere.All in all it was an amazing trip punctuated by wonderful theatre and musicals and most definitely highlighted by our stay at the Madison Manor!  We will be back.  See you all soon and thank you for a wonderful time!",
+      "rate": 5.0,
+      "tripDate": " May 2005"
+    },
+    {
+      "title": "We'll be back",
+      "text": "The Madison was a great place to stay. It was tastefully decorated and impeccably clean. The location is central and within walking distance to shopping and numerous attractions with the convenience of nearby taxis and subway. We go to the theatre twice a year and always stay at the Madison. The rooms have lots of little extras such as coffee makers, internet connections, hair dryers, security safes, etc. It is right next door to the Madison Pub where we always enjoy great food and a fun time.Mary ErskineJean LoucksAndrea KearnsPeggy ArmstrongNancy Essington",
+      "rate": 5.0,
+      "tripDate": " March 2005"
+    },
+    {
+      "title": "The Madison is a jewel",
+      "text": "I had the good fortune of enjoying a stay at the Madison Manor Boutique Hotel last winter and found it to be a very pleasurable experience.You certainly would not describe it as your usual box hotel. The building has been beautifully restored and is very tastefully decorated. The furnishings have obviously been carefully chosen for both comfort and aesthetics.The central location is absolutely ideal if you plan to tour around the city. Toronto is such a large city, that it would be impossible to chose one location that is close to everything. However the Madison is close to many of the attractions and those that are beyond walking are easily accessable by transit, which is only minutes away.I was pleasantly surprised with the continental breakfast. They had a fairly good variety of breakfast items to choose from including sweet pastries, bagels, cereal, and boiled eggs.The rates were reasonable. The staff were friendly and helpful. I will definitely recommend the Madison as a viable alternative to the concrete towers offered up by the larger hotels.",
+      "rate": 4.0,
+      "tripDate": " March 2005"
+    },
+    {
+      "title": "For the price, you'd expect to be treated well....however, not the case.",
+      "text": "Stayed at the hotel for one night in a deluxe room. The room was nothing special, in need of an updating for sure. The lady at the front desk was rude and unhelpful. When we asked her where to park our vehicle and if there was any underground parking in the vicinity, she just gave us a flat no. We had park outside and either pay $20 or wake up at 6am to put more money into the parking machine. The washroom had a half-used roll of toilet paper and the water in the shower came out as a trickle, even turned on full-blast. The room we had was beside a staircase and you could constantly hear people walking up and down the stairs as well as hear people walking around in the rooms above. Check-out was at 11am, and when I called the front desk at 10am to ask for a later check-out, no one answered. I kept calling until finally, someone picked up at 10:50am only to tell me that yes, late check-out is available, but the fee was $25. Even for an extra 30-60 minutes! There are much cheaper hotels that always give you a late check-out if there is no one else checking in. And on the day that we were checking out, I'm sure there wasn't a stream of people waiting to check in to this hotel. Just giving us the proper customer service was all that was needed, but that was neglected. We will never return to this hotel, and will advise friends to avoid it as well.",
+      "rate": 1.0,
+      "tripDate": " December 2011"
+    },
+    {
+      "title": "Party time",
+      "text": "They know how to throw a party and the place is so unique.Close to everything!!",
+      "rate": 5.0,
+      "tripDate": " June 2003"
+    },
+    {
+      "title": "Loved the Madison",
+      "text": "My husband and I were in Toronto for a wedding and stayed at The Madison in downtown Toronto. We had a great time, and highly recommend The Madison. The price is excellent considering the location and we found the staff very gracious. We also met some great Torontonians at the Madison Pub who gave us tips on where to shop. We actually had more fun with them than at my sister's wedding. (But that's another story.)",
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Upscale Flophouse",
+      "text": "Madison Manor is a nicely appointed Victorian mansion where wealthy U of T students can crash after drinking themselves into a stupor at the pub next door.  I arrived just after 11:00 and found it locked up tight, with no number to call for help.  The parking spot I had reserved (for $15/night) was unavailable so I parked as directed in the alley next to the bar.  Next morning I had to interrupt an important business meeting and take a taxi across town when the front desk called to warn me that my car would be towed if I didn't move it immediately. By Thursday the noise from the bar had become unbearable, and I fled in the middle of the night after running a gauntlet of heckling pub patrons and staff.  My worst hotel stay ever.",
+      "rate": 1.0,
+      "tripDate": " October 2007"
+    },
+    {
+      "title": "its better than the rest",
+      "text": "april 09/05as we all get older, and i am 61, it is nice to know there is still hotel rooms with a touch of class. the location was perfect for getting around and cabs easy to come by. this was our 5th visit over 4 years and we would not hesitate to go back again and againthe pub next door just added to the evening of theater, with a close to home cocktail or two including a great menu of evening snacks and a \"Cheers\" like group of friendly people, ages i would guess from 45-73.as we own 2 Royal Lepage offices 2 hours north of toronto it is a pleasure to have a special place to go that feels like home in the center of toronto.we will be back soon. - jim and sharon gray",
+      "rate": 5.0,
+      "tripDate": " October 2004"
+    },
+    {
+      "title": "Terrible",
+      "text": "Noisy room, not fresh, creepy manager, difficult check-in and check-out...",
+      "rate": 1.0,
+      "tripDate": " November 2011"
+    },
+    {
+      "title": "next door to Frat house",
+      "text": "This inn is right next door to a fraternity house.  We stayed there on a Friday and Saturday night.  Both nights, we were kept awake by the partying and screaming very late into the night.When I called to make a reservation, they talked me into staying in a suite for a little more money.  We stayed in Rm. 201.  This room is on the bottom floor in the front of the house.  It was a lovely room, but like I said VERY LOUD.",
+      "rate": 1.0,
+      "tripDate": " October 2007"
+    },
+    {
+      "title": "Huge disappointment - awful hotel",
+      "text": "This was one of the worst hotels I have been to in a long time. Where to start? The incredibly rude woman who checked me in refused to allow me into my room before 3pm even though this had been previously agreed and the room was empty. When I did finally get into my basement room I rather wished I hadn't. If I stood on tiptoes on the bed and clung onto the windowsill to peer out of the window (which was 1m by 30cm at most) I could just see the gutter outside and the wheel hub of a car parked outside - not what you would call a good view. The room also smelt strongly of bleach and chlorine, giving me hope that there might be a swimming pool but no - it was just the smell from the laundry room next door. The hotel is right next to the Maddison Pub (the clue is in the name!) and so when the pub closed at 1am that night the guests were all kicked out onto the street outside where the proceeded to hang around for the next hour shouting and swearing at each other and setting off the alarm of the car parked right outside my bedroom window. The next morning when I asked the receptionist (the same incredibly rude person from the previous day ) she told me it wasn't her problem and there was nothing she could do. She told me to shut my window and turn the air con up to drown out the noise - given I couldn't even reach my window it hadn't been open anyway and this wasn't really an adequate solution. She couldn't have been less interested or apologetic if she had tried. The second (and final- thank god!) night I came back to the hotel late (to avoid the late night noise!) only to discover the cleaners (who I had had to request come to my room at 3 as they still hadn't come by then) had left my bedroom door wide open - in all likelihood it would have been open for about 8 hours. Again I complained and there was almost no apology from the same incredibly rude woman on reception. So if you want to be treated like you have no rights to privacy, peace and quiet or value for money this is the place to go but if you have any standards I would strongly recommend giving this place an incredibly wide berth - there are many many hundreds of places in Toronto that have to be better and the Maddison doesn't deserve anyone's business.",
+      "rate": 1.0,
+      "tripDate": " July 2005"
+    },
+    {
+      "title": "loved the victorian hotel near university of toronto",
+      "text": "we stayed at the madison avenue boutique hotel this past august because we had heard so much about it from many friends.  we were not disapointed.  our room even had a fireplace and kitchen. everything was spic and span clean.the big attraction was the madison avenue pub next door.  it consisted of many bars on different levels of two restored victotian style homes.  we easily met  many people who attended the university and then stayed in the toronto area.the staff was very friendly and helpful. we plan to return the next eime we are in toronto",
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fabulous and Affordable",
+      "text": "We were very impressed!  Our orignal reservation for our trip was at a hostel, but then we found out that for only CAN$10 more a night than a private room at a hostel, we had a small, but clean and comfortable room with a shower, tv, air conditioning and breakfast!Not only that, but we didn't rent a car, and when we got off of the subway, we literally walked a half-block, turned left and walked another block, turned another left, and we were there!  The transportation in Toronto is AWESOME!  (I wouldn't know what its like to navigate by car around there though...)We stayed for four nights, Wed-Sun and only faintly heard the pub next door  (Nothing that the air conditioner couldn't drown out).  We felt comfortable and relaxed.  The breakfast isn't super fancy, but for the price we were very happy!  (Simple bagels, cream cheese, juices, muffins, apples, etc...)  The Madison is only about two blocks from a grocery, for those who want to save a little cash on food for their vacation.Toronto is a beautiful city, and we were able to enjoy it because of the combination of the excellent location of the Madison, and our willingness to walk and use public transportation.  Its two blocks from the Bata Shoe Museum, about two blocks to the subway and street cars, however I recommend walking down beautiful and historic Bloor at least once during your stay!  Most importantly, its less than a block from an espresso shop!",
+      "rate": 5.0,
+      "tripDate": " June 2005"
+    },
+    {
+      "title": "fantastic place to stay",
+      "text": "What to say about The Madison Manor Boutique Hotel.  The place is fantastic.  Our room was lovely, room 401, we had a fireplace and a small balcony for our personal use.  The hotel is a beautifully renovated Victorian House complete with antiques throughout.  Everything is close by and the subway is a 2 minute walk.  The Pub next door was also a great place to have a drink and bite to eat.  We will be back for sure in August.  Keep up the good work.",
+      "rate": 5.0,
+      "tripDate": " June 2005"
+    },
+    {
+      "title": "Not what I was expecting",
+      "text": "The Madison Manor in Toronto is not at all what I expected. The colorful brochure gives one the impression of a quaint turn of the century brownstone in a a quiet area. Actually, the Madison Manor is, surrounded by fraternity houses and is directly across the street from a Budhist temple.It is located on a rather noisy and dirty one way side street off Bloor Street West. The property itself is clean and well kept, but lacks the convenience(s) of a major hotel. We experienced a heating problem in our room and sweltered through the night. It is impossible to reach any hotel personel after 11:00PM. The problem was not corrected until the following day. On the Thursday and Friday evening(s) we spent there we were also disappointed to find out that the adjoining restaurant and bar owned by the Madison was the local hang out for the 21-23 college crowd. The noise and congestion went on till late. If you are over 30, perhaps a more conventional hotel may be more to your liking.My wife and I were in Toronto to see \"The Producers\". The entertainment area is not within walking distance of the hotel, so plan on either becoming familiar with the city's subway system or hiring a cab. Parking is very expensive in the downtown area.Bloor Street West, we found to be quite dirty and run down and lacked any restaurants that we were interested in frequenting.In conclusion, If your going to Toronto to see a show or sporting event choose a name hotel down town and leave the Madison for the kids and parents of students at the University.",
+      "rate": 2.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great location, charming, a bit of noise",
+      "text": "My husband and I stayed here for a long weekend. Our favorite aspect of this hotel was the LOCATION! Madison Manor is one short block from the intersection of the two subway lines, near the Spadina street car (excellent for getting to local clubs and shopping/restaurants on Queen Street), and within walking distance of the Bata shoe museum, ROM, and the Bloor-Yorkville shopping area.We got a decent rate on a large bedroom with fireplace and small balcony. The room and surroundings were spotlessly clean and nicely decorated. The noise from the next-door Madison Ave Pub was a minor inconvenience, but we knew that going in, and it was nice to hop next door for some World Cup games and a pint of ale! The free internet in our room was very helpful in researching where to go for dinner, etc. (we brounght our laptop).The minuses: The \"King\" bed is really just 2 twins attached (large crease at the center). Breakfast was ok, but the dining room (bar) smelled of old stale beer. The pub is noisy and there is a frat house / student housing on the other side of the hotel, with a large amount of trash strewn about. However, once we closed the window to our room, it was actually very quiet and the room was lovely.I would definitely recommend Madison Manor for travellers in their 20's-30's and those who are looking for a charming, clean, urban B&B who don't mind a little noise. For the price, this  place is a great find.",
+      "rate": 4.0,
+      "tripDate": " June 2006"
+    },
+    {
+      "title": "A gem of a place!",
+      "text": "We were  looking for a fun time away from home and came upon the Madison Manor.  It was just perfect.  We loved our spacious and clean room and had a great time at the pub next door.  Met some very nice people and the staff were fantastic and most pleasant!  Would recommend it to anyone looking for a fun time in Toronto!",
+      "rate": 5.0,
+      "tripDate": " March 2005"
+    },
+    {
+      "title": "Just what I needed",
+      "text": "I am in Toronto often on business. I stay in nice \"Cahin\" hotels and find the atmosphere and Service rather sterile and unhospitable.I like the Madison Manor because:1) It is clean.2) It is quaint. The room itself (Room 201) is comfortable, spacious and private.3) The restaurant / Pub next door is a great spot for a drink and a bite to eat. The staff are out of this world. A Manager there (Jim) is a complete gentleman and was always on hand to make sure that I was enjoying myself.4) I feel at home.The price is very reasonable and I feel like I am at a \"home away from home\".It is the place I will always stay at from now on when I am in Toronto.Regards,Dave",
+      "rate": 5.0,
+      "tripDate": " April 2005"
+    },
+    {
+      "title": "The Only Place to Stay in Toronto",
+      "text": "The Madison Manor is THE only place to stay in Toronto.  Even though the Four Seasons and Inter-Continental are nearby we would choose the Madison Manor over any other hotel. The rooms are beautifully furnished - not all the same as in chain hotels.  The staff cannot be more helpful as opposed to the aloofness of other places.  The location is excellent for sightseeing and acess to public transportation.  And best of all for a a fine meal and some fun the Madison Pub is conviently located next door.",
+      "rate": 5.0,
+      "tripDate": " September 2004"
+    },
+    {
+      "title": "Madison Manor Hotel is Great",
+      "text": "We are in Toronto at least twice a year and always stay at the Madison Manor. We wouldn't think about staying anywhere else. We love the boutique atmosphere of the hotel, the cleanliness, and the hotel's convenient location to the subway, shopping and theaters. Additionally, it's also convenient to another great place, the Madison Avenue Pub right next door.Our comments would not be complete without mentioning the hotel staff. They all work very hard to make our stay enjoyable. They are very helpful, courteous, and always available.    Tom & Peggy Armstrong",
+      "rate": 5.0,
+      "tripDate": " October 2004"
+    },
+    {
+      "title": "Very good",
+      "text": "Very good, clean rooms, free wifi… also if you want a drink in the evening nice bar to drink in James welcomed us on our stay and pointed us in the right direction to get checked in. Then went to visit the bar for a drink, James very helpful waiter,very efficient! Makes sure everyone feel welcome",
+      "rate": 5.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Worst Hotel Experience Ever",
+      "text": "This is the very worst hotel experience ever had. The room assigned at check in was directly beside the loud pub. It was so loud it was as if there was no wall at all between the room and the band. The walls were shaking. No sleep possible especially as pub revellers kept up their raucous behaviour until 2:30 am. No staff on site to try to move rooms and no one ever answers the phone. Was booked in for two nights but checked out after the first night. Management would not refund the second night. I would never recommend this hotel.",
+      "rate": 1.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "Disgusting...NOISY....ancient",
+      "text": "This was one of the worst accommodations I have stayed in. The entire building needs a huge overhaul. Room was tiny, rug was filthy, and was probably 40 years old. Furniture was rubbish. Windows didn't close properly.Also, this 'hotel' is in the middle of University rentals, and frat houses.The partying every night was very loud, and the music from the several pubs on this property were boisterous until all hours of the morning.This hotel was way over priced, and I definitely would never stay here again.",
+      "rate": 2.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Not impressed",
+      "text": "I have been going to this 'Hotel' for approx. 20 years.  This year was the first time with a bad experience and I hope it was a one off otherwise I will not be staying again.The price has almost tripled and they no long offer the continental breakfast.The room was extremely small for the price.  The rugs looked dirty, the shower dripped all night and had to close the bathroom door.  All of the furniture was covered in water stains.To say the least I was not impressed.They need to clean up their act if they want returning customers.",
+      "rate": 2.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Overpriced budget hotel.",
+      "text": "Just ok. Only stayed one night. Very old overpriced Budget hotel, short walk to Museum. Clean except for edges, corners, nooks and crannies. Bed was comfortable. No elevator and a lot of steep stairs, no one to help with bags. Front desk offered to send busboy from pub to help but no one came, so another guest helped. Cleaning staff helped on check out. I had no noise issues at all but there is a frat house right next door and the pub on the other side. Probably wont return, I booked here due to Toronto hotel prices being outer space high during my visit, but ended up getting a 4 star hotel for the same price at last minute. No staff or front desk in hotel, it’s next door and has limited hours. They do have luggage storage there.",
+      "rate": 3.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Nice big manor house. Not boutique though.",
+      "text": "I stayed here while visiting family in the Toronto area and found my room comfortable once I figured out that you must check in at the bar. A bit confusing but it was ok and the room was great, but not boutique I think. The staff were great and price was ok. Location was amazing right on the subway line by Spadina station. The area here has changed a lot since I lived here but Toronto is no longer my home. I’m just a tourist in my city of birth. At least I found a nice hotel here at a reasonable price.",
+      "rate": 4.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Madison Manor next to Animal House ",
+      "text": "Room was ok. Dated but clean. Big complaint is the frat house next door which had blaring music to 3am. Couldn’t sleep. Beware of the Animal House next doorMinor issues. No A/C. Room was very hot. Tv didn’t work. Found out it wasn’t plugged in. Receptacle on top of closet. Had to get on stool. Window only fully open or closed. Last paragraph to get to 200 word minimum.",
+      "rate": 1.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "felt like home",
+      "text": "it was nice to spend a night where i felt comfortable...almost like i was at home...the decor, the atmosphere, i honestly can't remember having such a sweet sleep...this is a must if you are in the city of Toronto",
+      "rate": 5.0,
+      "tripDate": " August 2005"
+    },
+    {
+      "title": "Life doesn't get any better than this!",
+      "text": "Whether you're in Toronto for business or pleasure there is no better place to stay than the Madison Manner; if you're seeking a relaxing, country inn atmosphere right in the middle of all the action look no further.  I have stayed at Madison Manor on several occasions over the past couple of years and I won't go anywhere else. Every room is unique, every detail is attended it. I enjoy unwinding after work and the Madison Pub is truly the center of the universe if you're looking for a good time in Toronto and it's only a few steps away from your own personal sanctuary at Madison Manor.  Life doesn't get any better. You will be impressed; I know I was.",
+      "rate": 5.0,
+      "tripDate": " September 2005"
+    },
+    {
+      "title": "Great place to stay and at a reasonable price",
+      "text": "My friends and I stayed at Madison Manor for 6 nights in Sept 2005, and we loved it really. We found it through the web. After that we checked the reviews at TripAdvisor and I booked two rooms by email. We got very surprised when we arrived there. Everything that was promised in their website was there, a perfect location near the subway station, fine and clean rooms, good breakfast, the staff was very nice, plus  the Madison Avenue Pub, which we loved it. Our staying at Madison Manor made our trip to Canada to see U2 in Toronto even more enjoyable (my friends and I are from Brazil, btw). We plan to go back soon.",
+      "rate": 5.0,
+      "tripDate": " September 2005"
+    }
+  ]
+}

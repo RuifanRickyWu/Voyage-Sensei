@@ -1,0 +1,304 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Yonge Suites Furnished Apartments",
+    "url": "/Hotel_Review-g155019-d3370399-Reviews-Yonge_Suites_Furnished_Apartments-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 41
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "209 Yonge St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5B 1M4",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/bc/0f/9b/yonge-suites-furnished.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Yonge Suites has quickly become recognized as the furnished ApartHotel of choice by both business and leisure travelers. Located at The Eaton Centre, our boutique-style property is nestled within the core of downtown Toronto's financial, entertainment, and shopping districts.",
+  "featues": [
+    "Paid public parking nearby",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Bicycle rental",
+    "Aerobics offsite",
+    "Books, DVDs, music for children",
+    "Children's television networks",
+    "Car hire",
+    "Wifi",
+    "Sauna",
+    "Bowling offsite",
+    "Canoeing offsite",
+    "Patio",
+    "Raquetball offsite",
+    "Squash offsite",
+    "Tennis court offsite",
+    "Board games / puzzles",
+    "Taxi service",
+    "Business Center with Internet Access",
+    "Photo copier / fax In business center",
+    "Baggage storage",
+    "Concierge",
+    "Non-smoking hotel",
+    "Sun terrace",
+    "Umbrella",
+    "Private check-in / check-out",
+    "Clothes dryer",
+    "Dry cleaning",
+    "Laundry service",
+    "Self-serve laundry",
+    "Washing machine",
+    "Ironing service",
+    "Blackout curtains",
+    "Air conditioning",
+    "Additional bathroom",
+    "Desk",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Sofa bed",
+    "Bidet",
+    "Dining area",
+    "Housekeeping",
+    "Safe",
+    "Seating area",
+    "Separate dining area",
+    "Separate living room",
+    "Sofa",
+    "Telephone",
+    "Clothes rack",
+    "Iron",
+    "Laptop safe",
+    "Private bathrooms",
+    "Tile / marble floor",
+    "Wake-up service / alarm clock",
+    "Dishwasher",
+    "Microwave",
+    "Oven",
+    "Refrigerator",
+    "Stovetop",
+    "Electric kettle",
+    "Kitchenware",
+    "Flatscreen TV",
+    "Radio",
+    "iPod docking station",
+    "Walk-in shower",
+    "Bath / shower",
+    "Hair dryer",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Ideal place to stay in Downtown Toronto",
+      "text": "This place has the perfect location that anyone could ask for. Whatever the purpose of Travel- business or leisure, its location is spot on! The minute you step outside the Hotel, there's the staircase leading to Queen station. If you wait outside, you can get a Taxi in a few seconds! If you walk 2 blocks, you can find trams and buses. Commute is a breeze when you're staying here!Step outside and you have 'Eaton Centre' right opposite your doorstep. Its a pretty big mall with most of the big brands and also houses a massive food court! Name the cuisine and they have a restaurant serving it!The Suite itself is perfect! Nice Home theatre system, 2 TVs, hi-speed Internet (very important for me), a dedicated telephone, fully equipped kitchen and a washing machine/dryer. What more could a bachelor ask for? :)The staff is also very helpful and genuine! They'll try their best to help you out. Simon, Andreas..very genuine and warm. Made my stay very comfortable! I just extended my stay at YS by another month due to work, and haven' the slightest intention of moving out from here.The surrounding area has so many Restaurants, Pubs, bars; you'll be spoilt for choices! You can explore the area at your own leisure, there's so many places to try!It may not be the cheapest place to stay, but if you've got the money, heck why not! I'll surely be back here, whenever I need to visit toronto, as most of my customers have their office in downtown.",
+      "rate": 5.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "Fantastic Location, Friendly and Polite",
+      "text": "The suites are located at a great location; I would honestly be hard pressed to choose a better location. The place is clean, inviting, well decorated and the staff friendly and helpful. The photographs give an idea of the place although I would argue that they do not do the place justice.It was wonderful to be able to have a \"home away from home\" to go back to after a long day. I would highly recommend Yonge Suites over a hotel stay, especially if you are travelling as a family. For those visiting in winter,  the Eaton Centre is across the street, with access to the subway and PATH systems; which means that you can spend your entire trip away from the harsh Toronto winters if you choose.I would above all like to commend and thank Elisabeth Antonacci (Manager) for her extraordinary devotion to her guests. She quite simply went way beyond the call of duty; catering to every request, being patient with any issues and quite simply elevating our stay to one that is memorable as much for where we stayed as for Toronto itself.",
+      "rate": 5.0,
+      "tripDate": " November 2013"
+    },
+    {
+      "title": "Great location",
+      "text": "Great location, right at the heart of downtown. Surrounded with restaurants, shopping malls and easy access to subway. Their fully furnished suites with friendly staff will make you feel at home. Highly recommended!",
+      "rate": 5.0,
+      "tripDate": " November 2018"
+    },
+    {
+      "title": "Bed bugs :(",
+      "text": "Rita told me there are bed bugs and cockroaches in some of their bedrooms, It is kind of a very congested apartment building, a very congested lobby with extremely over-bright light fixtures. Good for students or travellers who like cheap places to rent, like drug dealers. Not a family place.",
+      "rate": 1.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Style and Convenience ",
+      "text": "These luxurious apartments offer all modern amenities and are stylish and convenient to all the action in central Toronto. They are directly across the street from the mall and steps from great theaters and restaurants. A great stay!",
+      "rate": 5.0,
+      "tripDate": " April 2017"
+    },
+    {
+      "title": "Very impressed ",
+      "text": "We've been staying for a month in Yonge Suites this January. I have to share my positive experience with this hotel apartments and personnel working there. First of all, you have an impression that they literally thought about everything! Starting from the bottle opener finishing with washing you toilet seat. The apartments are furnished in modern style with all the necessary electronic equipment. Among the other useful things in the suite are:Dish-washer and washing machine,Big flat-screen TVs in both living and sleeping rooms,Cable TV,Free phone card to make international calls,Wifi dedicated to one apartment only, one doesn't need to reconnect every few days as it happens in most of the hotels,Computer screen to connect your computer, Automatically closing blinds and so on.The apartments are quite spacey. There is as well cosy business lounge and small but efficient gym.The last but not least, I want to mention the great team working there and trying to satisfy all your needs. Thanks to their continuous efforts, we really felt there \"at home\".A big like to this place and definitely recommended.",
+      "rate": 5.0,
+      "tripDate": " February 2017"
+    },
+    {
+      "title": "Good location",
+      "text": "This is a great location, Queen subway is basically right outside the door, and just a block away to Yonge Dundas Square. The desk clerks are very helpful, and the room is kept very clean. I would recommend staying in this place and I would come back here.",
+      "rate": 4.0,
+      "tripDate": " September 2014"
+    },
+    {
+      "title": "What you see is what you get and more!",
+      "text": "I stayed at the Yonge Suites during August 2013. I was having a small reunion with family and we needed a central location to reacuaint ourselves with Toronto. We could not have chosen a better location!Yonge Suites is across the road from the Eaton Centre - which allowed shopping at will, and a great restaurant across the road; and minutes from Eaton Square where there were the usual Toronto multicultural activities every evening. During our stay there was also a street fair that was wonderful to be in the midst of.The staff are pleasant, accommodating and respect privacyThe accommodation as as seen in the photos - Penthouse E - and Elizabeth Antonucci gave us a free upgrade once she understood why we were there and pur space needs - excellent customer serviceWith the daily cleaning, fully fitted kitchen and wahser and dryer - it made our stay feel like a home away from homeMany thanks to Elizabeth and ALL THE STAFF! Well done!",
+      "rate": 4.0,
+      "tripDate": " August 2013"
+    },
+    {
+      "title": "Good location, comfy stay",
+      "text": "We made the right choice by booking an apartment at Yonge Suites. Location is good for any purpose: 25 minutes walk from Pearson Express and CN Tower, 15 minutes from a large Metro supermarket, and just across the road from a large shopping mall. Yonge street is very lively too. The suite is comfortable: private en-suite bedroom, super spacious living room with dining area, and a kitchen. Apart from the main bathroom attached to the bedroom, there is another one that can be used by those who stay in the living room (there's large convertible sofa). Personnel are professional and efficient.",
+      "rate": 4.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "A month in Downtown Toronto ",
+      "text": "My family and I stayed for a month at the Yonge Suites, it was my first time in Canada so I had nothing but reviews to go by while selecting a place to stay. The observations and comments were accurate about the suites, they are indeed very centrally located, nicely done up and great staff. We had Penthouse H and the pictures on the website ,for once, were exactly how it looks. The only disappointment was the furniture in the smaller bedroom located downstairs, it was mis matched and a bit shabby. Seemed as if someone had collected old bits from different rooms and put them all together here. Loved the kitchen and master bedroom and bathroom. Having a fully functional laundry room and kitchen for such a long stay was perfect. The suite was cleaned once a week by efficient and very friendly staff. Everyone at the front desk was super helpful and any issue we had was dealt with immediately. Highly recommended,as it’s a comfortable stay and so well located that we saw so much of Toronto just walking around, most places are within a 40 minute radius, the subway is half a minute walk, and Eaton Centre is across the road. The car park is available for guests staying at the Suites.",
+      "rate": 5.0,
+      "tripDate": " September 2018"
+    },
+    {
+      "title": "PDAC stay",
+      "text": "I travel to Toronto every year to attend the PDAC conference in early March.  Without question, the time with the Yonge Suites makes my trip very comfortable and convenient and classy.  My arrival was coordinated from the day I may the electronic reservations.  Wonderfully helpful staff assured my parking and luggage in an otherwise crowded urban setting.  My room was spotless and comfortable, and I was shown all the little details that make such stays much more comfortable.  Then I learned I can trust the tastes of the owner, who gave me an exceptional recommendation for dinner with customers.  It is great to have 'friends\" in a strange land....",
+      "rate": 5.0,
+      "tripDate": " March 2016"
+    },
+    {
+      "title": "Business trip to Toronto",
+      "text": "The staff is incredible, helpful, friendly and courteous. Always available for my questions for dining, getting around town and helping with relocation issues.I was impressed with the cleanliness, security and all of the amenities. Although this a business trip, I would not hesitate to utilize Yonge Suites for my personal needs.",
+      "rate": 5.0,
+      "tripDate": " December 2015"
+    },
+    {
+      "title": "Ideal place for business people and groups",
+      "text": "Yonge Suites is located in downtown Toronto which is an ideal place to be.The employees are wonderful and very helpful. The apartments are very clean and the employees make you feel at home.They have a beautiful business centre which is nice and spacious.",
+      "rate": 5.0,
+      "tripDate": " January 2015"
+    },
+    {
+      "title": "Heart of the city, modern well equipped, great staff.",
+      "text": "This was the last stop on our Canada tour. Had booked an apartment for 6 nights and wanted a central location.The good- staff are very good and keen to make you welcome and comfortable. Paul was excellent as was Elizabeth. They also helped us with getting a larger taxi for the airport ride as we had a lot of luggage- central location, across Eaton center (big mall) and lot of places nearby or walking distance. But this is the main street so expect the hustle and bustle as this is not a quiet spot. Lots of restaurants all around.- modern well furnished and equipped apartment including two bathrooms and TVs in living room and bedroom.- lots of natural lightWhat could improve:- I booked 5.5 nights and had given my credit card details accepting the cancellation policy. What was both odd and unreasonable is that they charged the entire amount to my credit card a week in advance. This practice is out of date in the 21st century, and frankly I found it inappropriate and taking advantage of the customer.- the wifi on morning 1 didnt work, and this caused me a lot of inconvenience as I had some work to attend to. It was finally fixed a couple of hours later. However, odd that this wasnt working in an apartment block which must have had guests staying their earlier? - On overall value, it was expensive and cost $300 per night. Maybe thats the rate in Toronto but seemed pricey. However, the facilities were good so no complaints on that.One tip - if you are driving there then its easy to miss the entrance which is a small door, with small signage.",
+      "rate": 4.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "Clean and well kitted apartments, with an excellent location and exceptional staff.",
+      "text": "Place was fantastic. Staff were brilliant, exceptionally friendly, polite and helpful. The apartment itself has literally everything a travelling family would need: - Good size (we were a family of 2 adults and 3 small children) - All bedroom's and Livingroom had a large TV and system with some channels and streaming - Kitchen was very well kitted out, literally every utensil you could possibly need - Washer and Dryer in the apartment - Location fantastic less than a minute walk to subway (possible to travel all around Toronto from here), diners, restaurants, huge shopping center - Our particular apartment had a nice view of the city and sky scrapers (was a duplex small penthouse on 9th and 10th floor)The thing that made this place so special was the staff. Right from the start they were so friendly, polite and professional. No request we had was denied and they made it seem like none of our questions or asks were a problem for them at all. There are 4 and 5 star hotels we have stayed in previously that have not managed to provide this level of excellent service.I would not hesitate to stay here again, in fact this place makes me want to visit Toronto again!",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Beautiful suites, great service and close to EVERYTHING",
+      "text": "We stayed at Yonge Suites earlier this month after a friend recommended them. Making the reservation was easy and effortless and communication prior our arrival was seamless, thanks to Elizabeth.The property is located right downtown Toronto, on top of Queen Subway Station, and across the Eaton Centre. Steps from shopping, restaurants, bars, clubs, even a hospital if need be. Awesome. One downside is that the property does not have a driveway to pull in, but the staff on site makes loading/unloading the bags a breeze. Parking is located accross the street and you can pay for parking at the hotel.We reserved a 2 bedroom unit. Super spacious, fully furnished and clean (the housekeeper who took care of our suite during our stay made sure we had everything we needed, daily). We loved the smart TV which allowed us to access our streaming services. The view was not the greatest, overlooking the construction site next door. But that you expect in the downtown core of a growing city. The noise was acceptable, and only audible during the day. We will definitely be back. We loved the entire experience, and cannot emphasize enough how welcoming and professional the front desk and housekeeping staff are. Good job Yonge Suites!",
+      "rate": 5.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "Location! ",
+      "text": "Amazing location! Just in the heart of the downtown with a subway entrance just in front of the entrance. Close to eaton centre, theaters and restaurants! The unit was specious and had all the needed supplies! The staff were very friendly and helpful.",
+      "rate": 5.0,
+      "tripDate": " August 2018"
+    },
+    {
+      "title": "Great",
+      "text": "Yonge Suites is ideally located n downtown Toronto accessible to shopping, theatre, restaurants and public transport. Apartments are clean and roomy. Staff are superb. Michelangelo was particularly helpful. However the couch was uncomfortable and the instructions for the television hopeless. Still we would return.",
+      "rate": 4.0,
+      "tripDate": " June 2018"
+    },
+    {
+      "title": "amazing place",
+      "text": "From the outside it does not look much but once you walk in you realize this is a special place. Our flight arrived after midnight but the reception stayed opened to welcome us. The apartment is very well done and furnished, comfortable beds, well equipped  kitchen, a welcome sparkly mineral water and chocolate as well as complimentary phone card to ring family and friends. It was reasonably priced and right in the center of Toronto.",
+      "rate": 5.0,
+      "tripDate": " November 2016"
+    },
+    {
+      "title": "Extraordinario! / Extraordinary!",
+      "text": "Es un sitio extraordinario, pasamos un tiempo maravilloso aqui. Es muy confortable y el personal es muy amable. Las comodidades que ellos ofrecen son excelentes. Es como estar en nuestra casa lejos de casa. It is an extraordinary place, we had a wonderful time here. It is comfortable and the staff is very kind. The amenities that they offer are excellent. It is like being in our home away from home.",
+      "rate": 5.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "Excellent!",
+      "text": "Amazing experience in Yonge Suites! Thank you for your kind service and excellent customer service. Recommended 100%. It's location is perfect, in downtown, 2 blocks from Dundas square. Right in front of the Eaton Centre and surrounded by services.",
+      "rate": 5.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "great location",
+      "text": "first class apartment ideally located across from eaton centre, bars and restaurants on the doorstep. staff are very friendly and helpful . the apartment building has a gym and a business room where you can print etc.",
+      "rate": 5.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Perfect Location, Friendly Staff",
+      "text": "I stayed here with my mother for one month. - Location: The location is perfect because it's just a few minutes from Eaton Center, in addition to the subway (Queen Station) which is right in front of the entrance. It's also near Dundas Square, not to mention the restaurants. - Security: Entrance is only with an access card, or after ringing the door and waiting for one of the staff to open, so it is very secure.- Staff: very friendly and kind, they never hesitate to help and they always try their best to satisfy the guests.- The suite:The suite I took with my mom had one bedroom where my mom slept, and a living room with the couch turned to a bed which was comfortable. The kitchen was well equipped with utensils.There were electric appliances like the iron, vacuum cleaner, dishwasher and a washing machine.There were two bathrooms, and one of them had a toilet seat with an installed bidet (bidet toilet seat), which was very convenient.- House cleaning: they come every week in the morning- Business Lounge: they have a lounge located in the 3rd floor, it's a place where anyone can stay. It was a lovely place for me and my friends (who stayed at Yonge Suites too) to gather. They also have a nice patio that's connected to the lounge.Overall: I was very satisfied during my stay",
+      "rate": 5.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Beautiful Suites",
+      "text": "We stayed here for a week. Well situated, and close to city centre. Very close to hop on bus, trams, restaurants, and shops. The suites have a full kitchen that is well appointed. Electric blinds and full TV channels, all local phone calls r free and they even gave us a card to make some overseas calls. The best thing we found were the staff who made our stay very personal, especially Andy who went out of his way to offer any help we may have wanted.",
+      "rate": 5.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Location, location, location & more!",
+      "text": "If you’re looking for accommodation in Downtown Toronto by the Eaton Centre, Yonge (pronounced as young) is the place to go. (43.6535° N, 79.3796° W)A subway entrance is 5 steps away from the front door. It is the south-western exit of Line 1. Two stops away from Union Station (central hub) where one could catch the Union Pearson (or commonly known as UP Express). YYZ is 3 stops away from Union Station. Total travel time from Yonge Suites to YYZ is about 35 minutes. Dundas Square is 5 minutes away. Chinatown TO and Kensington Market is a 20-minute walk. St. Michael’s Cathedral is 5 minutes away.Amenities are extremely modern. Suite 4B is fully furnished with two TVs, kitchen appliances (fridge, range, and dishwasher) and small electrics, hair dryer, ironing board and Panasonic toilet seat. Fully automatic window shade. Two bathrooms are available. Washer and Dryer combo tucked in one of the closets. Lots of storage spaces. Clean, dust-free, and pleasant-smelling.Parking is conveniently located across at Eaton Centre’s Parkade. There is a trick to access the parking lot using the lifts to the mall. One may use the underground passage for the subway to cross the street.A fitness center is available. There is a smoking area by the 3rd floor open-space patio is available and close by. Service is up brilliant! The staff would walk through the suite and explain all the amenities, lodging rules, etc.If in search of a quiet, decent, convenient place to stay in Downtown TO, Yonge Suites would be the top choice. 👍🏻👍🏻👍🏻👍🏻👍🏻",
+      "rate": 5.0,
+      "tripDate": " October 2017"
+    },
+    {
+      "title": "AWESOME LOCATION",
+      "text": "If you are looking for a place to stay in downtown Toronto, Yonge Suites is the place!  It is conveniently located in the Theater District, Dundas Square and Eaton Towne Centre.  It is also walking distance to various attractions such as Chinatown (Spadina), Kensington Market, CN Tower, and more.  You can easily hop on the PATH as the station is located just outside the building.   Stop #1 of the sightseeing tour (hop on/off) at Dundas Square.  We stayed in a 1 bedroom, 2 bathrooms suite.  It has a nice size bedroom, living room with a sleeper sofa, full kitchen and laundry.  There were 4 of us and we fit comfortably. There is also covered parking across the street at Eaton Towne Centre.   The hotel manager was very accommodating.  She provided us with a roll-away bed and made sure that the room was feather-free (my son is highly allergic to feathers).   The room is very clean and dust free!  Free Wi-Fi!!  We will definitely stay here again when we are back in Toronto.",
+      "rate": 5.0,
+      "tripDate": " October 2017"
+    },
+    {
+      "title": "Simply fantastic",
+      "text": "I stayed at the Yonge suite apartments during my stay in Toronto. They were superb and I would recommend them to anyone, from single travelers to families with kids. The apartments are tastefully decorated and contain all facilities. They are simply a home away from home but even better.The staff are very attentive, friendly, professional and make one feel very welcome. They are helpful in every way and no question or query is too big for them. They go out of their way to assist you.The location is fantastic. In the centre of Toronto and very close to the subway (TTC) Queen station and Dundas station are a few steps away. The Eaton shopping centre is across the road and has shops/restaurants etc to serve your every need.If you are in Toronto do yourself a favour and book into the Yonge suite apartments, you will not regret it.",
+      "rate": 5.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "great location and very helpful staff",
+      "text": "We arrived early and was greated by a very friendly and helpful Sonia. She helped unload the bags from the car and gave us a transponder for access to parking in the Eaton Centre across the road (parking is not free). We returned and finished the check in process. As it was only 11am our room was not yet ready which was fine. Sonia gave us directions for an excellent grocery store within a 15 minute walk from the suites and we headed off to do a hop on hop off bus tour of the city (the stop is no more than a 5 minute walk). We returned 3 hrs later, our room was ready and Sonia took us up to our room. What a god send to have a washer/dryer, we have been touring Canada for the last 5 weeks. The room was on the 8th floor and looked directly at the Eaton Centre and over Yonge Street. We walked to the CN Tower and Rogers Centre within 30 minutes. We also had dealings with the very helpful Jasfaran (sorry if I have the spelling wrong). It is on a very busy street and the first night didnt bother me with noise, but the last night they were pouring concrete next door and from around 12pm I didnt get much sleep due to all the noise. Sonia did apologise the next morning, I have not let this reflect on my score.  Free wifi.",
+      "rate": 4.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Outstanding Service",
+      "text": "This is probably the hardest review I have ever done because we did have issues with our accommodation but they were all rectified with great efficient and always with a smile. We arrived after a long flight from LA to be greeted at reception (you need to buzz in to gain access) by a young man Jaz who advised we had been upgraded to the 2BR penthouse with city views. We checked in and Jaz was very happy to show us the suite and all was ok. There were a couple of issues after he left such as not being able to work the TV, the lock on one outside door not working and an remote blind also not working but nothing major and we settled in. We were still awake at 5.00am…………and were confronted  with every sort or street noise imaginable from drunken party goers, police sirens , helicopters from the nearby hospital, garbage collectors and general car noise – it was unbelievable.  In the end I managed to fall asleep and by the time I had woken my wife had already made a request to change room to the quiet side of the premises which we did and in the end moved later that day. Our first night in the new room was met with a mattress which must have been made using hardwood or concrete as it was the hardest most uncomfortable mattress I have ever laid on. Once again we made a request to have it changed and it was done with no fuss is issue and the rest of our stay was fine. The great thing about Young Suites is that it is so close to everything but that’s also a deterrent If you are a light sleeper as city noise is pretty bad. The washer / dryer are a real god send when travelling as you do need to feel clean after a day of touring the city and getting in / out of cabs / buses etc. In the end I would certainly recommend Young Suites and would stay there again if the chance arose but would want to check out the room before moving in. Special thanks to Andreas, Jaz and Sonia – all 3 are outstanding ambassador’s for Young Suites and a credit to their profession.",
+      "rate": 4.0,
+      "tripDate": " April 2015"
+    },
+    {
+      "title": "Better than I expected",
+      "text": "Yonge Suits Hotel is in a perfect location. We stay there 40! days and have only good things to mention. The rooms are clean, quite  and nicely decorated. We were impressed with the hotel design. The front desk staff were helpful and friendly. The business centre is well decorated and very useful and we enjoy sitting in the balcony. The only problem was the too sensitive fire alarm in the kitchen.",
+      "rate": 5.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Good choice for families visiting Toronto",
+      "text": "We had a one bed city view suite for one week: for a 3 person family, there was enough space and the 2nd bathroom made a positive difference to our ability to get out at a reasonable hour each morning! The front desk staff were helpful, particularly Andy from Italy, who personally fixed a couple of maintenance issues swiftly and gave us good directions to a local grocery store. Definitely a good choice for families, especially those who like to shop given the location directly opposite to Eaton Centre. Good value too.",
+      "rate": 4.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Outstanding accommodation in terrific central location",
+      "text": "With numerous visits to St Michaels hospital over the past 12 months, we tried a number of the nearby hotels and then found this little piece of heaven. My only concern is as word gets out it will be tougher to to reserve a unit at any kind of short notice. Elisabeth, Paul, Andreas and Sonya were wonderful in their attention to our needs. The suites have modern clean finishes and a comfortable amount of space for longer stays. All in all you could not find a better place to stay in central Toronto.",
+      "rate": 5.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Perfect 'home away from home'",
+      "text": "I had the pleasure of staying at this fabulous Hotel while I was in town on business.The moment I walked through the front door into the intimate and cozy lobby, I knew I had made the perfect choice for my week long stay at Yonge Suites Hotel.My room was everything you could ask for with a full kitchen, 2 washrooms and the suite area was ideal for doing work in the evenings. The decor is warm and welcoming and most importantly clean !!I would like to thank the entire staff for their utmost care and professionalism and I am very much looking forward to my return stay in February !Susan",
+      "rate": 5.0,
+      "tripDate": " December 2013"
+    },
+    {
+      "title": "Simply The Best!",
+      "text": "The best experience by far!  The team are astute professionals who always go out of their way to ensure that all needs are accommodated!  Our stay was incredible and will highly recommend Yonge Suites.Thank you!",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    }
+  ]
+}

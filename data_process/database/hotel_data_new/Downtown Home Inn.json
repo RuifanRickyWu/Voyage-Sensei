@@ -1,0 +1,289 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Downtown Home Inn",
+    "url": "/Hotel_Review-g155019-d1908494-Reviews-Downtown_Home_Inn-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 376
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 Monteith St",
+      "addressLocality": "Toronto",
+      "postalCode": "M4Y 1K7",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/b1/64/6a/downtown-park-inn.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Whether you’re visiting Toronto on business or pleasure, Downtown Home Inn is excellently located within walking distance to Yonge and Bloor, the crossroads of the city and subway system. Here you are surrounded by multicultural dining, museums, art galleries, theatre, nightlife and exclusive shopping. \"Perfect Location and Value\" is the right phrase for Downtown Home INN.",
+  "featues": [
+    "Parking",
+    "Free High Speed Internet (WiFi)",
+    "Free breakfast",
+    "Bicycle rental",
+    "Meeting rooms",
+    "Baggage storage",
+    "Non-smoking hotel",
+    "Express check-in / check-out",
+    "Wifi",
+    "Shared kitchen",
+    "Shared lounge / TV area",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Seating area",
+    "Wake-up service / alarm clock",
+    "Flatscreen TV",
+    "Bath / shower",
+    "Hair dryer",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Comfortable, welcoming, clean and great location.",
+      "text": "A good place to stay. Comfortable and convenient. The host is charming and available, but only when you need him to be. In fact, with its well-stocked help-yourself breakfast set up, and relatively small number of rooms, it feels more like your own home (albeit a simple, clean, modern one with magical linen and cleaning service) than the typical over-decorated B&B with hovering and over-solicitous hosts. Surprisingly quiet for being just a few yards from the heart of the Church-Wellesley village. And really reasonably priced. I'd come back.",
+      "rate": 4.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "Would love to stay here again!",
+      "text": "Very clean, very professional. Easy access to downtown by subway or just a 30 minute walk. Rooms were very private and nicely furnished. Great balcony on the 3rd floor. Amazing price as well. I would stay here again. Great host.",
+      "rate": 4.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "Beautiful Home, great location, convenient, and amazingly nice host!",
+      "text": "From reading the last post, I must say that its unfortunate that they felt that way. Do your RESEARCH FIRST! It's not on a dead end street, its next to a main street in downtown, 2 blocks from metro and is one of the first houses. its a ONE WAY street but not a dead end street. Its walking distance to many restaurants and local attractions, I even walked to Kensington Market in 20 min:)! I was amazed when I arrived and felt at home. The shared bathroom wasn't a problem b/c it was never occupied, was very clean, and was next to my room. The rooms are affordable and the complimentary breakfast, juice, and tea was more than I expected. How many hosts do you find that invest in healthy food items to share with you FOR FREE? The house was extremely quiet and the beds FEELS SOOO GOOOOODDD!!! OMG, i could have laid in the bed forever, that's how amazing it felt. I slept like a baby! it's set up like a modern, newly renovated Brownstone. I loved it! All I can say is, if your looking for a cheaper alternative that in my opinion is more comfy than a hotel and feels like home, this is the place! If you love the city, walking to nearby attractions, and don't mind sharing communal areas with other people who are never there, this is the place for you too! I loved it and will stay here EVERY TIME I come to Toronto!!! Purely Awesome!!!!",
+      "rate": 5.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "Mixed Blessing",
+      "text": "We stayed here for 4 nights while we visited  our children and grandchildren. The facility was on a small dead end side street. The interior had been renovated and was very well done. The rooms were nice, The fixtures had been chosen with great care and were very attractive. The breakfast area was well designed and the food selection was varied and high quality. The bathroom for the rooms were shared which was not a problem although somewhat inconvenient. The issue that was ultimately of supreme importance was the location. It was in a very trendy area which was nice. The real problem was the noise. One two nights there were events that were a street fair with very loud music and an outdoor movie that was shown in a park directly adjacent to the building. The sound system was very loud as well. Our first night there there was a band in another part of the park. There were also guests at the facility that entered and exited as late/early as 3 am. On none of our nights there did we have anywhere near a good nights sleep. It was a strange mixed experience for us. The facility was of high quality but the noise from various events and happenings were awful. We left Toronto exhausted. Certainly a large portion of the problem was beyond the control of the innkeeper. If you are considering staying here I would recommend asking about any events that would happen during your stay. Our experience wa only for 4 nights so I do not know if this is typical or average. We will not stay there again.",
+      "rate": 2.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "Better than any 5 star hotel - almost a second home",
+      "text": "Maybe I should not say this, because all rooms might be booked and none left for me next time :-) But honestly: It was really better than any hotel, very clean and a relaxed atmoshere like at home. Unal is a very good host, discreet but always there if you need some help or advice. You also meet very interesting and friendly people at breakfast. The house is located in the center with all kinds of shops and public transport nearby - but it is also very quiet at night. When I come next time to TO - there is no alternative to the Downtown Home Inn. Michael",
+      "rate": 5.0,
+      "tripDate": " June 2011"
+    },
+    {
+      "title": "Clean, homey place, just don't stay in room on main floor if noise bothers you :)",
+      "text": "A very clean, well maintained B&B in the heart of Toronto's Church and Wellsely Gay Village. Breakfast is simple and self serve: bread, jams and spreads, a few cereal choices, and coffee/tea/hot chocolate. The host, Unal, is very friendly and accomodating, and does not hover.My only concern is that I stayed in the only room on the main floor (Acacia) and therefore could hear noise from other guests late at night/early in the morning, as well as hearing the host set the table for breakfast. As well, there were people in the surrounding areas partying on Fri and Sat nights that I could hear very clearly from my room. Other rooms in the home may not have this noise issue. The 2 bathrooms are on the 2nd and 3rd floor, and again, it was a bit uncomfortable going from my room on the main floor to the bathroom for showering, etc, and walking past people relaxing in the living room. The bathroom on the 2nd floor is large, but the one on the 3rd floor is tiny, to the point of being uncomfortable to be in. My only other point to consider would be that if you are at all modest or get easily embarrassed, this may not be the right neighbourhood for you, as there are sexually explicit advertisements on the street. This was not a concern for me, but may be for others. All in all, a very enjoyable but noisy stay.",
+      "rate": 4.0,
+      "tripDate": " June 2011"
+    },
+    {
+      "title": "We loved it and we'll choose it if we will be back!",
+      "text": "The inn is perfect. It met all our expectations to a place to stay in Toronto. Just like a home! The room is very clean and cosy with beautiful decorations. There is even a deck outside our room where we spent a wonderful morning. We cooked our breakfast in the inn with the raw materials the host provided. It was a lot of fun. The computer and the phone in the living room is very convenient to use. The view outside the window of the living room is wonderful--a lovely little garden with squirrels climbing the trees. If I will come to Toronto in the future, I will choose this inn again.",
+      "rate": 5.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "Best B&B i stay at",
+      "text": "I stay in a couple of B&B in Toronto but this one is the best. Great food in the morning, access to the kitchen if needed during the day. Beverages available all day long. The place is like a new one, good renovations, comfortable bed. The rooms are big enough if you are alone or two people, there is cable tv in each room. The place is near of many restaurants, bars, etc. and only 5 minutes walking from a subway station. When i stay there was an event in the park just beside the hotel, but at around 10-11pm everything stop and it was really quiet. When you are in your room, you don't hear people inside the hotel, pretty quiet. I recommend it to anybody staying in Toronto, cause you have everything you want for a very affordable price!",
+      "rate": 5.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "A Comfortable and central located accommodation",
+      "text": "Our room was cleaned and the breakfast was more than substential. We really enjoyed our stay at Downtownhomeinn. We recommend this accommodation for everyone!",
+      "rate": 5.0,
+      "tripDate": " June 2011"
+    },
+    {
+      "title": "We loved it and will give the name to all friends who go to Toronto",
+      "text": "Unal was a very friendly host, attentive to all our needs.The house is ideally located within walking distance of the ROM and Younge Street, and with a Bixi bike station just at the door, we had the ideal means to visit Toronto.The house was transformed just a few months ago and, while retaining it's charm, is like a boutique hotel.",
+      "rate": 5.0,
+      "tripDate": " September 2011"
+    },
+    {
+      "title": "pleasurable stay",
+      "text": "The entire house is freshly renovated. There's nothing about this place that says used, old, or quaint. Despite this, the atmosphere is entirely welcoming. Our host, Unal, was so nice to upgrade our room for free! I'd initially booked the Lily room, but received the Violet room instead. It came with a massive private deck, which made for a spectacular bonus. All of the floors are hardwood, the bed was comfortable, the bathroom was clean and well maintained.I'm ashamed to say that we didn't wake up in time to catch breakfast, but the spread looked decent. It lacks eggs though, or anything cooked for that matter. Unal was entirely hospitable and welcoming. He even accommodated our later-than-normal check out time, which was nice for us late risers. Overall, it's a classy, well-maintained place that I'd love to go back to and greatly recommend!",
+      "rate": 5.0,
+      "tripDate": " December 2010"
+    },
+    {
+      "title": "perfect hotel alternative",
+      "text": "If you don't mind sharing a bathroom then this small boutique b&b is a perfect alternative to a hotel in downtown toronto. It is located just 5 mins walk to the metro and 15 mins walk to the Eaton Centre. So it is well situated for a trip to Toronto. There are 2 bathrooms for 6 rooms and everything is very clean. The B&B has just been opened and the furniture is all new. We will definitly stay again if we come back one day.",
+      "rate": 5.0,
+      "tripDate": " November 2010"
+    },
+    {
+      "title": "A super friendly place",
+      "text": "This B & B is so far one of the best that I have stayed. It is located in a great area with great respect to cultural diversities. The food is healthy and the place is very clean and well maintained. It is a definitely a home away from home  highly recommended!!",
+      "rate": 5.0,
+      "tripDate": " December 2010"
+    },
+    {
+      "title": "One of my best B&B experience",
+      "text": "I stayed a few nights at the downtown park inn B&B when i arrived in Toronto before finding a flatshare and i have to say that this was one of the best B&B experience I have ever had.First of all, Unal the onwner welcomed me with the best manners and made mevery comfortable straight away. I had the Iris room and although it was nothuge, it  was cosy and sweet. the bed was great, i slept like a baby. there is a club not far from the B&B so very light sleepers could maybe have troubles but as far as i am concerned it did not bother me. It is obvious that this place is in the heart of a vibrant area with many bars and clubs so I was not surprised to hear some light beats. thebathrooms are on the landing and are beautifuly done. It is all brand new,very modern: chic and sophisticated with some colourful bits and pieces. Theowner managed to preserve the charm of a homely house. I really felt like iwas at home or staying with friends, welcome to hang out in the lounge. As i just arrived for the very first time in Toronto i was happy to feel that i was not just a number on a room. I had many questions about everything and he (the owner)  has been very helpful.The location is very convenient and central, close to the subway so you could beshopping on Queen street in just 15 min or just a few blocks away from eaton centre. the price was more than descent and the welcoming atmosphere was beyond what i would have expected: to me that is priceless. I highly recommend this place to anyone looking for a very nice, friendly, well located place to stay downtown Toronto. Espcially if you are around your 30s and laid back, then this is a place for you!",
+      "rate": 5.0,
+      "tripDate": " November 2010"
+    },
+    {
+      "title": "excellent מומלץ בחום",
+      "text": "i spent 10 nights here and the feeling was just great, a very friendly, clean and efficient place with great food and lovely location highly recommended מאוד מאוד מומלץ",
+      "rate": 5.0,
+      "tripDate": " September 2011"
+    },
+    {
+      "title": "As a returnee....disappointed, dirty, will not return",
+      "text": "I really wish that I could give this review a thumbs up as I have in the past, but I need to be honest here. I have stayed here several times, the last time being about five years ago. I considered this a home away from home. Fast forward to 2019. I cannot in good conscious give this place a good review.  I mean no ill-will towards the owner and employees.The main issues are the complete lack of cleanliness and lack of host presence:* salt stains still from the winter in the entrance (this in the second weekend of May)* towels and bedsheets piled in the corner of the kitchen in an area where you cook. * garbage in the kitchen overflowing - in an area where you cook* front door with some sort of duct tape/tin foil to cover up a replacement door knob/lock/work that was done* toilet on third floor did not refill after first flush. Took up to 15 minutes for re-fill. So, you had no choice but to leave your business as it could not flush. Mentioned this to the hostess and was told that a handyman was to arrive on Saturday. Handyman never arrived and to the hostess’s credit, she fixed it. *lack of host/hostess in the morning. This meant that if you came back mid-afternoon say around 3:30-4:00, the entire place was not tended to. Garbage in both bathrooms overflowing with personal hygiene stuff, toilet on third floor full of no. 2 (assuming that the other guest could not flush). Hair and food particles in the sink. Stove top dirty with cooked food particles*low water pressure and lack of hot water on the third floor bathroom lead me to use the main bathroom on the second floor. Lack of water pressure in that shower. *shower on the second floor. The basin must have been clogged as I was ankle deep in water that would not go down whilst taking a shower. DISGUSTING!*change of code not communicated to at least two other guests. I am glad that I emailed to see if the code had changed as I was provided with a new code. I was told that this code was communicated to others. Clearly not the case. Two guests told me that they did not have a room key either. *breakfast - no healthy cereals. Chocolate fruit loops and reese's pieces type of cereal were on offer.  No bran, no healthy choices as there was previously. Processed cheese was also an option. Yes, process cheese!*I met Bryan the next morning. The most unfriendly host that I have encountered.  He is affiliated with their sister bed and breakfast, Toronto Garden Inn and I’m not quite sure in what capacity.  When I saw him in one of the rooms changing sheets, I asked him if he was Bryan and all he said was “yes” and kept working. No interaction, nothing. ZERO hosting skills. No thank you for your patronage, nada. He must have spent about a half hour there tops. No cleaning, no clearing of garbage, stove tops dirty, sink dirty.  Imagine arriving to this mess upon checking in!*no host present at check out either. As I had paid cash in the past and saved on taxes, I could not take advantage of this option as no one was present to collect cash money!I feel so bad for the out of country tourists, especially those who speak little to no English. There is no one present to assist them.There needs to be an info sheet in the rooms/bathrooms for guests in terms of House Rules, Ie: no loud parties at night, keep your voices down, hold the front door as you close it otherwise it bangs, be mindful of others, etc. I suggested this and was told by the hostess, no one follows it! While this may or may not be the case, the point being made that at least it is in writing should there be issue as to guest expectations, in particular if there is no host present  I cannot in good faith recommend as I have in the past, based on this recent stay. Such a shame really. I hope that the owner Unal sees this review and wips this place back into shape as to where it once was. I won’t return unless things improve.",
+      "rate": 2.0,
+      "tripDate": " May 2019"
+    },
+    {
+      "title": "no respect for customers aucun respect du client",
+      "text": "we made a reservation 3 weeks before arriving that been confirm 2 days before our stay.we had reserved for 3 days from 31/03 to 3/04.the day we arrived our rooms was upgrade so we had a good surprise.the day after we meet Kerem, one of the owner, and everythings seems to be correct.the next day, during the afternoon we received a phone call telling us we should live because the room was for someone else...the thing is that they e-mailed us the day we arrived telling us that the reserveation was only for 2 days instead of 3. when i meet Kerem i never have been told about the changes!as i should live one days before i was really frustrated about that.Arriving at the room, Bryan (other owner) didn`t speak with us, just making his coffe, and being on his computer. i didn`t had my invoice, just telling that i will send it the day after...not able to have the amount...no explaination.no excuses.no words..i found him really rude, telling myself that he shouldn`t work with public.i never received any excuses it is not a place i will recommand because i didn`t have any respect.",
+      "rate": 1.0,
+      "tripDate": " April 2016"
+    },
+    {
+      "title": "Great location, decent room, weird building",
+      "text": "2.5 starsIf I had to tell you one thing about the Downtown Home Inn, it's that it isn't an inn, at least not In the American sense of the term.  It feels more like a dorm to me.  We stayed in the basement apartment suite. From what we could tell online, it was the only space with a private bathroom, and that's non negotiable for us.  The suite itself was comfortable - a living room with a sofa and chair, a small desk, a pass-through kitchen on the way to the bedroom.  It's all furnished with IKEA, so it has that cheerful Scandinavian feel.  There are basic amenities downstairs - a fridge and small stove, silverware and plates, and so on.There are three things to keep in mind about this basement space. First, it's freezing. The first night we were wearing jackets inside, and it was literally 80 degrees outside. It got better as the days went on, but it was still cold.  Second, you can hear people moving around upstairs especially at breakfast time, so if you're a light sleeper, pass on this.  Third, you need to be comfortable with a flight of stairs to get down there and with a few random steps downstairs (a big step down into the apartment, and a random step between the living room and kitchen).  All in all, it felt a bit like sleeping in an Aunt's comfortable refurbished basement. (The highlight : the second to last day when there was a pounding on the door and the gas company had come to read the meter.  No one from the inn accompanied this man to our room. They just sent him downstairs.  It was odd, and definitely not an inn experience.) As for the place itself, it had the feeling that no one was running the show. In other words, it felt unmanned. When we arrived on Tuesday, the communal area was a disaster - boxes of open cereal everywhere, dirty towels on the floor, dishes piled up, and so on. It looked better by Tuesday afternoon, but it wasn't a good first impression.  The guy who was working here during the week gave the impression of sweet cluelessness - most of the time when we were coming and going, he seemed to be either watching movies or playing on the computer with a man who seemed to be his friend.  Except for the time when we saw the man who owns the business next door yelling at the inn worker for throwing trash out illegally.  Again, not a good impression.  He also constantly seemed to have bathroom floor mats drying in the banister between the kitchen and the basement which didn't add to the aesthetics of the place.As for breakfast, at an American inn, someone would an effort (e.g. Take the cereal out of boxes and put it in some glass containers, put the bread in a basket so it doesn't look like you just made a Costco run).  It doesn't have to be fancy or even home cooked, but at least it would look like someone cared.  Here, about ten bottles of Smuckers seem to always be on the table, and there's open boxes of cereal, bread, and milk. It's pretty low budget and low effort, and they don't make it seem otherwise, especially since everything is always out on the counter. There also seemed to be no systems here around room maintenance - when we arrived we had no towels, and at 2pm, when none had arrived, the man working upstairs told me he was still \"making them.\" Two days later, we asked for a fresh towel since no one seemed to replenish them, and if we could throw away our garbage since our small pail was overflowing.  Two days later, someone had come into our room to place a towel and to empty the trash.  I'm not sure what their systems are around cleaning, but it was strange that no one bothered to explain.It was also generally unclear who was running the place.  One day there was an older woman outside watering plants.  We never saw her again.  One night at around 11pm, we came home, and there was a tall guy standing behind the counter. We had never seen him before. He might work here, but he didn't say anything to greet us or indicate as much, so we just kept walking. That also felt strange.  Aside from the sweet clueless guy, I'm not sure if we encountered anyone else who works at the Inn.  This gave the whole place a serious dorm vibe, and the sense that no one was really running things. Finally, I hate to be a complainer, but the keypad in the the door felt oddly unsafe to me - who knows how many guests have had that code, and if the inn ever bothers to change it. It seems much safer to have a finite number of front door keys - say six- that you can keep track of. I found myself wondering if this is the system they have evolved because it allows the place to stay unmanned (they send you an email when you make the reservation with the front door code, and telling you the key to your room will be in the door in case no one is here to greet you.  You could cancel your reservation and still have a code to the building).While the location is great, I don't think I would stay here again.  The setup was just too strange.",
+      "rate": 2.0,
+      "tripDate": " July 2014"
+    },
+    {
+      "title": "Aptly named - Downtown and your home away from home",
+      "text": "The Downtown Home Inn is my go to place whenever I need accommodation in Toronto.  I discovered this place in May of 2011 after reading several reviews. I have since stayed here a handful of times. A series of appointments found me staying there for the entire month of July! So far, I have stayed in the Acacia, Lily, Violet, but my favourite is the Camelia which is where I stayed for most of July. Very large and at times, I felt as if I had my own bathroom right across my room when the other room (Violet) was vacant. James, the manager is very personable and works super hard greeting guests, being present at breakfast, answering inquiries, making suggestions, even asking me what he could purchase for breakfast as I am into healthy options, etc. No question was a bother for him. He even printed off my Via train voucher. I lived in Toronto many moons ago and have frequented Toronto many times, so I am familiar with the tourist places but this time round, I “discovered” places like High Park (please go, very historic) where there is a small zoo (elks anyone? and some kind of creature from the rat family that looks like it was on steroids - forget the name) and where I also saw a “Shakespeare in the Park” performance of “Taming of the Shrew.”  I also did my early morning workouts at David E. Balfour Park, about a 20 minute walk to Riverdale (posh) section. There you will find a trail or two leading to ravines and you could walk for kilometers admiring the surrounding nature, have a picnic, etc. I found folks on the trails super friendly greeting you as you walked along.  Both locales are oasis's from the bustle of the city so if you have the time, have a look. Also, please try and catch a theatre show. I always purchase 'rush' tickets and this time managed to see one of the best plays I have ever seen, that being, \"Anything Goes.\" Rush tickets cost $29 and when a certain amount are sold, the next price is just $39. Bargain!I read the comment a few reviews below expressing concern with the park right across the bed and breakfast. This park is used by everyone including children at summer day camps, early morning boot campers, people walking their dogs and yes, we all know that downtown parks do attract some undesirables but that is the way of city life. As a single woman, I NEVER looked over my shoulder coming “home.” The bed and breakfast is right off of Church Street, a busy street with restaurants, night life and very well lit. During my stay and by mere coincidence, I met up with a guest who stayed there in May of 2011 (what are the odds?!?! and hello Dorothy if you are reading this) and I had the pleasure of sharing breakfast with other guests, some of which I soon found out were also repeat guests (hello Ilda). During my stay, there was a good cross- section of Canadians, Americans, Austrians, Germans, Italians, Spaniards, Argentines, Irish, English, Aussies, and while most were on holidays, a few were there for business as well. If you choose to stay at Downtown Home Inn I am sure you will find it just right. You cannot beat the location and the price. Tip:  If you are a light sleeper like I am, bring earplugs as this is a Victorian house with hardwood floors (very well kept) and you may hear other guests getting up/arriving/departing. Also, if you like the service, please consider tipping.Thank you James and company for making my stay great! I have already booked my next visit!",
+      "rate": 5.0,
+      "tripDate": " July 2013"
+    },
+    {
+      "title": "Really homey!",
+      "text": "It is sad that we just stayed for one night... It is really a wonderful place to stay! Rooms are clean and pretty; love the shower; breakfast has a variety of choices; bed is sooooooooo comfortable! Definitely want to move it to my house. Location is close to the subway and UT, very convenient! Totally a perfect place to stay if you are not pursuing luxury.",
+      "rate": 5.0,
+      "tripDate": " March 2013"
+    },
+    {
+      "title": "Great Experience with Toronto, partly thanks to the Downtown Home Inn",
+      "text": "+ Location: awesome location, the Inn is not in the middle of Downtown, but right close to everything: restaurants, Yellow line Subway (1 block west), Green line Subway (3 block north), the corner of Church & Wellesley itself is fun and always lively.+ Host: Unal is really really nice, friendly and accomodating. His business partner made a mistake and registered us in a wrong room but Unal fixed it and moved us to the right one eventhough he has to shuffle the schedule/rooms.+ Room: nice and clean everyday. It's very modernly decorated, too. Free breakfast is also a plus, never run out of juice/milk/bread or anything.",
+      "rate": 5.0,
+      "tripDate": " March 2011"
+    },
+    {
+      "title": "Great experience, surpassed expectation.",
+      "text": "We stayed here for 2 nights, and I don't think I have a single complaint. The manager was very friendly, the place is kept spotlessly clean, it's quiet, and a nice location. Much prefered over a hotel, nicely decorated.",
+      "rate": 5.0,
+      "tripDate": " January 2011"
+    },
+    {
+      "title": "Great place to stay",
+      "text": "Host Unal was always very helpful; comfortable, clean room; good breakfast; nice atmosphere with other guests; free Wifi; great location in a quieter part of downtown with lots of shops and restaurants around; 5min walk to subway; Bixi bike rental right in front of the house. If you like B&B, I can warmly recommend this place to you!",
+      "rate": 5.0,
+      "tripDate": " September 2011"
+    },
+    {
+      "title": "B&B but give u a feel of botique hotel....",
+      "text": "Love the place...it is located in the heart of the city but still quite. Staff is very helpful, I cant wait to visit TO again  !!!!!",
+      "rate": 5.0,
+      "tripDate": " January 2011"
+    },
+    {
+      "title": "Wonderful BnB",
+      "text": "I had a lovely time at the Downtown Park Inn. Very cozy, and great breakfast. Great location - close to main streets and felt very safe. I would definitely return!",
+      "rate": 5.0,
+      "tripDate": " November 2010"
+    },
+    {
+      "title": "A perfect place for rest, relaxation and fun",
+      "text": "I had the pleasure of booking a two night stay at the Downtown Park Inn in October of 2010. From the moment I arrived at this lovely B&B in the heart of Toronto's Gay Village, I felt welcomed and comfortable. Unal, who owns manages and lives at the home, was most accomodating and, in addition to having breakfast available at flexible times, he also gave great advice or places to go. As a solo traveler visiting Toronto for the first time, I was glad to have his wise advice on entertaiment, sights to see and restaurants. This lovely home overlooks a small park and has lovely bedrooms, clean bathrooms and a quiet atomsphere for those who just want to relax. And, because of it's central location, many great places to shop, visit and have fun are just steps away!  I truly enjoyed my stay and would definitely stay at Downtown Park Inn when I return to Toronto.",
+      "rate": 5.0,
+      "tripDate": " October 2010"
+    },
+    {
+      "title": "great location, great place, great value",
+      "text": "We booked our stay in the Downtown Park Inn for 1 week but extended our stay for another 3 days as we enjoyed our stay so much. Atmosphere: Everything is really clean (everything gets cleaned every day), the host (Unal) is a really nice guy who helps out, answers your questions and give you good tips. Amenities: There are 6 rooms in the house which are all nicely decorated and two shared bathrooms which were also nice and clean. It is all brand new and the small amount of rooms make it feel like home. Unfortunatly there is no washing possibility in the Park Inn. But 2 to 3 blocks away there is a big laundry (Maitland street). There is Wireless Lan in the house for free, which is really nice.Breakfast: is to be self-served - which means that you just get up and make your own breakfast. Everything in the fridge can be used and the table is already set in the morning. There is a dish-washer which is nice: no cleaning dishes. There is always fresh fruits, different kinds of cereals, breads (bagels, toasts), cheese, different jams and marmelades, honey and much more. And the best: it varies all the time with different breads, bagels juices etc.Location: perfect! Only one block to the subway station (Wellesley). Right in the Wellesley/Church-district with a lot of supermarkets and restaurants around. Perfect location to explore the city. One block away from famous Yonge street as well.Conclusion: We enjoyed our stay a lot. The Downtown Park Inn is a perfect place for those who want to have a clean, warm and friendly stay in downtown Toronto for little money. We are sure we will come back next time!",
+      "rate": 5.0,
+      "tripDate": " October 2010"
+    },
+    {
+      "title": "A safe, clean, convenient, comfy and friendly place",
+      "text": "It was a pleasant stay. Two nights at Lily room -- clean and quite, just next to the bathroom. The bathroom is clean and spacious. I also like the modern and well equipped kitchen. Decent self-help breakfasts are provided every morning and the serving time was quite long that can accommodate different needs. The location is great in downtown area with fine neighborhood.  Unal is a nice and helpful host.I enjoyed my stay in this B & B.",
+      "rate": 4.0,
+      "tripDate": " September 2011"
+    },
+    {
+      "title": "Nice place to stay",
+      "text": "Very nice location to stay. Crossing the street and less than 5 min walk to the subway station. Clean and nice room! Stayed at Lily room for 3 nites, very good experiences. Will definitely back to this place again!",
+      "rate": 4.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "Great Experience",
+      "text": "I was impressed the moment i open that door. The place was newly renovated, styled in an urban chic style. The place was clean and well maintained. Host Unal has been very helpful and kind during my stay. I definitely recommend this place for the good quality and great price.",
+      "rate": 5.0,
+      "tripDate": " January 2011"
+    },
+    {
+      "title": "Beautiful, convenient, friendly owner",
+      "text": "I chose Downtown Home Inn for the price (and for the great reviews), but I'll remember it for the experience-- two days and nights of peaceful relaxation in the middle of busy downtown Toronto. Our room was clean, the common areas were comfortable, and the linens were always fresh. At first, I was afraid that my aunt and mother (who were staying with me) might not enjoy the Inn's setup-- including the common bathrooms-- but by the time we left, they were won over by the cozy atmosphere, the convenient location, and the friendly attitude of our host. I'm planning another trip to Toronto in the spring, and I'll be certain to stay here again.And a quick restaurant recommendation: Fuzion, directly across the street from Downtown Home Inn. It has a wonderful outdoor patio, but more than that, food that re-defines the meaning of the very word \"wonderful.\" I can still taste the scallops and the duck tacos more than a month later-- my way of saying that this kind of memory is worth the money. And I'm on a budget!",
+      "rate": 4.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "Great place to stay!",
+      "text": "I love the room from the very start.  It is tastefully decorated.  It is in one of the best location, 2 blocks away from the train station or you can just walk around the city!   I met some wonderful people over breakfast and it has a very relaxing atmosphere.   Beautiful neighborhood, nice restaurants.  Next time I'm in the City, i will definitely stay here.",
+      "rate": 5.0,
+      "tripDate": " May 2011"
+    },
+    {
+      "title": "Turkish Hospitality",
+      "text": "Excellent service, superb breakfast, wonderful host!  Thank you.",
+      "rate": 4.0,
+      "tripDate": " February 2011"
+    },
+    {
+      "title": "A Warm Cozy Friendly Priceless Place to Stay",
+      "text": "Looking for a budget place to stay in Toronto and based on TripAdvisor reviews, we chose Downtown Home Inn.Unal, the host, was very attentive before, during and after our stay. All e-mails were promptly answered back in a clear way. The B&B is centrally located in a fine neighborhood area. It’s just at the corner of busy and lively Church St.  Metro station (Wellesley) is 2 blocks east and famous Bloor St. is just a few blocks north.Despite being in a busy area, you will surely find a quiet place to rest. Rooms are cozy, well furnished, tided with enough space to store luggage and personal belongings. Cable TV is available as well as free wireless high-speed internet. The home itself has an easygoing atmosphere.Breakfast is taken place in a common kitchen area. A great sort of things is available to start the day: milk, juices, bread, cereals (lots of…), fruits, nutella and peanut cream, cream cheese…Bathrooms are shared but we had no great nuisances during our entire stay. Good to mention, in favor, that all bathrooms were really spotless every time.The only two issues I mention here: remember this is a common house what makes sound prominent, mainly from the corridor and the up rooms. Of course it also depends on other guests’ propensity of making noise. The other, but very particular to the room we stayed in, was a linkage noise from the up floor bathroom.  I notified Unal right away about that and he immediately took steps to solve the issue, what I supposed it’s already fixed.I had a meeting with a friend who lives in Toronto and she told me some other friends are going to visit her. I had no doubt in recommending this place to her as I will do to whoever wants to stay in a no frills but welcome place in Toronto.",
+      "rate": 4.0,
+      "tripDate": " September 2011"
+    },
+    {
+      "title": "Great place!",
+      "text": "We (5 people) stayed at the Inn for 3 nights and really enjoyed our stay. The place is an excellent value with a great location, close to all the good spots for food and to visit in Toronto. The inn feels like you're staying in your own home and a big part of that is that the owner was very friendly and helpful whenever we needed info. He keeps the place very clean and he always seems to appear at the right moment.Parking was easy since I purchased a city pass from the Inn, and for $22 it was a great buy as I got to park across the street for 3 nights.The only negative I can think of was that the shower pressure wasn't high enough to my liking, but I know that soon enough that will be fixed since the owner is very caring and wants to provide a great experience to all of his clients.We had stayed at another B&B in Toronto before that charged more, didn't have as good a location and also didn't provide the overall experience that Downtown Park Inn does. We'll definitely go back whenever we go to Toronto. Highly recommended!",
+      "rate": 4.0,
+      "tripDate": " December 2010"
+    },
+    {
+      "title": "Fantastic find in a great location",
+      "text": "I stayed here during a recent business trip. The Downtown Home Inn is located just across from a small part in the heart of the lively Gay Village. Lots of good restaurants around and an easy walk to the downtown core. My room was lovely.  I didn't partake of the free breakfast food, but loved having the private location full of character. Thanks so much!",
+      "rate": 5.0,
+      "tripDate": " June 2011"
+    },
+    {
+      "title": "comfortable, quiet and beautiful",
+      "text": "This B&B combines the charm of an old house with modern comfort and style. Tastefully renovated, the rooms were clean and fresh and the host was very hospitable. Five minute taxi ride to theatre and museums. I will go back.",
+      "rate": 4.0,
+      "tripDate": " November 2010"
+    },
+    {
+      "title": "It was one of the best B&Bs i have been to.",
+      "text": "Unal bey, the owner, is a very good man. He was very helpful and available when needed.Breakfasts were very good. He was serving the best products in the market. In addition to the good breakfasts, he was making a variety of the items from hot/cold drinks to cookies available all the time. The location of the B&B is perfect. It is at the center of Toronto and many city attraction points are in a short walking distance. It was very clean too. In short, It was one of the best B&Bs i have been to. Thanks to Unal bey for managing such a wonderful service.",
+      "rate": 5.0,
+      "tripDate": " December 2010"
+    },
+    {
+      "title": "a homey, trendy, central b&b in one delightful package",
+      "text": "lovely hosts: warm, most helpful & way above mediocre client service.  clean, personal touch environment with help yourself healthy breakfast + all day beverages (tea, coffee & juices).  comfy and tasteful room with proper amenities.  a definite recommendation for travellers seeking cozy, clean, restful nest amidst a bustling city.",
+      "rate": 5.0,
+      "tripDate": " March 2011"
+    },
+    {
+      "title": "Quiet oasis in fun, bustling neighborhood",
+      "text": "Great location in busy trendy neighborhood, but quiet on a side street facing a park. The room was perfect, the bed super-comfy, the hallway bathrooms modern and clean. Breakfast foods are always available and beverages all the time. The lounge is nice with free computer use. The owner is very friendly but not hovering. All-time access is easy (just ignore the rowhouse next door with the same number in the glass over the door). A quick walk to the subway, many bars and restaurants, and it's in the heart of the gay village. It was freezing during my trip but I was always warm inside. The only problem is that this gem may get too popular!",
+      "rate": 5.0,
+      "tripDate": " March 2011"
+    }
+  ]
+}

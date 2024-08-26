@@ -1,0 +1,328 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Toronto Airport Marriott Hotel",
+    "url": "/Hotel_Review-g155019-d183142-Reviews-Toronto_Airport_Marriott_Hotel-Toronto_Ontario.html",
+    "priceRange": "$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 1026
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "901 Dixon Road",
+      "addressLocality": "Toronto",
+      "postalCode": "M9W 1J5",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0a/57/f5/greatroom-bar.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Toronto Airport Marriott Hotel delivers everything you need for a brilliant travel experience. Our hotel welcomes you with modern design, superb service, and an exceptional location just minutes from Toronto Pearson International Airport. We offer a complimentary hotel shuttle service to and from the airport, and the UP Express train provides easy access to downtown Toronto. Light-filled, intuitively designed rooms and suites feature pillowtop beds, work desks, mini-fridges, and large windows with golf courses or airport views. Elsewhere at the hotel, you can enjoy a meal at Wayside Social, which showcases sustainable, locally sourced ingredients. Keep fit with a visit to the gym, or enjoy a swim in the heated indoor pool. Those planning events in Toronto can take advantage of our over 26,000 square feet of meeting space, enhanced by excellent catering and managed by our experienced team. In your spare time, indulge in a little retail therapy at Woodbine Mall, just a 10-minute drive from the hotel.",
+  "featues": [
+    "Valet parking",
+    "Wifi",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Bar / lounge",
+    "Game room",
+    "Bowling offsite",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Paid private parking on-site",
+    "Paid wifi",
+    "Pool / beach towels",
+    "Indoor pool",
+    "Heated pool",
+    "Restaurant",
+    "Breakfast available",
+    "Breakfast buffet",
+    "Breakfast in the room",
+    "Snack bar",
+    "Squash offsite",
+    "Tennis court offsite",
+    "Free shuttle or taxi services",
+    "Conference facilities",
+    "Banquet room",
+    "Meeting rooms",
+    "Baggage storage",
+    "Non-smoking hotel",
+    "ATM on site",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Dry cleaning",
+    "Laundry service",
+    "Self-serve laundry",
+    "Soundproof rooms",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Sofa bed",
+    "Bath / shower",
+    "Interconnected rooms available",
+    "Room service",
+    "Safe",
+    "Seating area",
+    "Separate living room",
+    "Sofa",
+    "Telephone",
+    "Bottled water",
+    "Iron",
+    "Private bathrooms",
+    "Wake-up service / alarm clock",
+    "Refrigerator",
+    "Flatscreen TV",
+    "On-demand movies",
+    "Radio",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Very Good Stay - Wish They Would Update Rooms.",
+      "text": "2 night stay... Checking in was super fast and very pleasant. I appreciated the suite upgrade based on my Marriott status. The room itself was clean, comfortable and spacious however, it is in need of an update, the decor and furnishings are very outdated. I would have hoped that the hotel would have used the downtime with covid to execute this much needed refresh.The internet speed was very good but the cable service was very basic with sport channels outnumbering all others by 2-1.I LOVED the This Works toiletries range. That’s a definite upgrade!With restaurant closed due to covid, breakfast was grab and go, I’m not a big breakfast person so I was content with an egg sandwich, tea and yoghurt. They could improve by offering fresh whole fruit such as bananas. Service was quick and cheerful.Hotel did a good job in providing hand sanitizer stations throughout the hotel and all employees were wearing masks. Check out was quick and friendly.The only reason I wouldn’t come back would be because of the dated rooms.",
+      "rate": 3.0,
+      "tripDate": " February 2021"
+    },
+    {
+      "title": "Aging and Forgettable",
+      "text": "Sheraton Gateway is the most convenient of all hotels near Toronto Airport because it’s connected to the YYZ terminal, however it’s also the most expensive.  When I am not pressed for time I sometimes don’t mind staying at cheaper hotels which require a shuttle, but all other Marriott options I tried around the airport in the past have been mediocre.  This time I stayed one night at Marriott YYZ and it was more of the same: the room was forgettable and in some ways worse than alternatives close to the airport.  For only one night I am not overly worried about suite upgrades as Bonvoy Ambassador Elite but for stays where I would want more space, Marriott is certainly not the place to go to maximize chances for complimentary suite upgrades.  The hotel has over 400 rooms and when I checked in at the hotel they told me they only had 4-5 suites and all of them were occupied.  At least I was upgraded to a corner room rather than no upgrade at all, and the room was marginally more spacious than the entry level room (36 sqm vs 31 sqm).  The room was very dated, the carpet was wrinkled, the air conditioning was weak, the bathroom was tiny with a dreaded shower in a tub, the ceiling was disgusting, and all the furniture was old throughout.  The only positive about the room was that the bed itself was very comfortable and worthy of the Marriott brand.  The lounge was closed due to covid and unlike some stingy hotels which offer nothing as a replacement, at least at Marriott they made some effort by offering one starter from the menu; I found the beef tacos to be decent.  I did not stay for breakfast but I can report that it was not temporarily suspended, in fact upon check-out they offered me to get a couple of items to go if I wanted such as a granola parfait and a coffee.  Overall I was not impressed by the room at Marriott and given the large number of choices near the airport I would not pay a premium to stay at this property compared to the lesser brands especially if staying for only one night.  Among hotels of this caliber I find the rooms nicer at Hilton and I would even pick both DoubleTree hotels ahead of Marriott for the room as well.",
+      "rate": 3.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "For the price Wi-Fi should be included without needing to join your membership",
+      "text": "Overall it was a nice hotel with a nice room and loved the fact that we were able to park and fly and leave the car underground so we did not have to clean it off when we returned.The negatives were they charged us $6+tax for the use of their WiFi. Came to find out after that it is free for their members. The shuttle service was way off schedule when we were waiting for it at the airport. It was nearly 30 mins later and it is only a 10 mins ride to/from so not sure how that happened.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Quarantine Stay - Not as bad as I had imagined",
+      "text": "I stayed at Toronto Airport Marriott for my hotel quarantine in June. I had chosen the hotel after a lot of research and while the quarantine package price was same across GAA hotels, the hotel had better reviews and more room size compared to most of the others. I was very apprehensive of how it would go but I must say I was highly satisfied with Marriott in the given circumstances. The welcome was good, the room was clean and the food was better than I had expected. I got my results in just few hours and so fortunately, my stay was cut short (non refundable but you get Reward points) from 3 nights to 1 night. A costly but comfortable stay with zero complaints.",
+      "rate": 4.0,
+      "tripDate": " June 2021"
+    },
+    {
+      "title": "The best Hotel near the Airport",
+      "text": "We stayed here prior to leaving for our vacation and the hotel was superb in all areas.We were a little concerned at first when we were checking in and noticed that their were a lot of kids hockey teams staying there for a tournament. I thought that they were going to be noisy and make our stay a terrible one. It wasn’t,  the room was quiet once I closed the door and never heard the kids again.The reason why we choose this hotel again and again is because of the staff who are extremely helpful, they do a fantastic job ensuring our stay exceeds our expectations.The convenience of the underground parking as part of their stay, park and fly package allows us to leave our vehicle at the hotel out of the elements and not in some abandoned parking lot like one of the other hotels we have stayed at in the past. Also it can be cheaper than the Park and Fly option.The hotel shuttle services 2 Marriott hotels but it is a quick ride to the airport and the regular schedule allows us to locate the pick up position at the terminal upon our return.You really can’t go wrong here and we will be back again in the future.",
+      "rate": 5.0,
+      "tripDate": " October 2019"
+    },
+    {
+      "title": "Lied about charges",
+      "text": "My flight with LOT  on the night of Dec 24/Dec25 was cancelled and I was placed in this hotel for free of charge until the next flight could be arranged. All passengers were given vouchers for breakfast and lunch meals. I was told, after having a conversation with the manager (Black gentlemen, name starts with S) that the vouchers will cover the total cost of each meal. He promised this personally and approached me again to say that he spoke with LOT airlines and that all passengers will endure NO CHARGE AT ALL for the food service. And, days later I found out that this hotel still proceeded with charges. There is no email on their website, and I am still away from Canada, so I can't place a long-distance call to speak to this hotel, well, nor should I really. So, this me reaching out in a way. Hoping that they might pay attention to the reviews.",
+      "rate": 1.0,
+      "tripDate": " December 2021"
+    },
+    {
+      "title": "Not very clean",
+      "text": "I don't often leave reviews especially if it is a business night stay because really it is just a place for me to sleep.  I was impressed when I entered the room as saw the tv remote in its own sealed bag and cleaning wipe with it and I must say the bed was very comfortable.  The rooms are dated but I understand that renovations cost a lot of money and if things are kept up, they usually look just fine.My issue really came to light when I took my shoes off and started to walk around in me socks. The floor was so dirty it was sticky, I check the bottom of my socks and found what looked to be cereal and chocolate chips stuck to the bottom on them and after 5 minutes in the room my clean grey socks where more of a brownish colour. I should have gone to the front desk right then and addressed the issue, but the lobby was crazy busy and was tired from travelling.  I did address it when I checked out, but I think concern was just brushed off.To the hotel management:  As a bonvoy member I do expect a little better service...I am not asking for much, just a clean hotel room...this should be the standard and not the wow factor",
+      "rate": 2.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Mediocre",
+      "text": "Stayed here a night before leaving on a trip to the Caribbean. Had an early flight out, showering was impossible as there was only HOT water in the shower no cold. Was too late to advise front desk to change rooms at that point.",
+      "rate": 3.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "3 day quarantine visit",
+      "text": "I stayed here for my 3 day mandatory quarantine period after arriving in Canada. I was very pleased with the hotel. The room was extremely comfortable and plenty of good food was delivered to your room three times a day. If anything else was needed, such as coffee, a message to reception through the app prompted a quick contactless delivery.There is a great garden that you can exercise in for short periods a couple of times a day. You have to book this and someone escorts you from your room. Every member of staff I met was extremely friendly and welcoming, in particular the wellness team who take you to the garden and back.",
+      "rate": 4.0,
+      "tripDate": " June 2021"
+    },
+    {
+      "title": "Decent pre-flight hotel",
+      "text": "Stayed the night of 12/28 (writing this from the room) as we have an early flight to catch. Arrived at 3 pm and our room was ready, however, we had booked a room (24 hours before arrival) with Club Lounge access and upon arrival, we were told the lounge is closed Dec 23-Jan 2 as they're not busy enough for it to be open. Maybe don't offer that rate on your website, in that case? The front desk gave us $40 off since we were leaving at 4 am and would not be able to partake in the breakfast included with the lounge rate. We booked the lounge rate so we could enjoy included non-alcoholic drinks and snacks in the lounge, which we obviously didn't get since the lounge was closed. It would have been nice if we were offered free n/a drinks from the restaurant to make up for that; instead I paid $3 for a glass of watered down fountain pop that was half full of ice. Anyway. the room itself was clean and the bed was comfortable. The safe didn't work (we didn't bother having it fixed as we had our passports/valuables on us), nor did one of the bedside lamps, and the coffee maker was missing the basket to insert the actual coffee in to. Not what I wanted to find out at 3 am. Good water pressure in the shower, however the body wash and hand soap was some of the worst smelling I've ever used (smells like poultry seasoning). Free wifi was quite fast. The shining star here is the restaurant, where the food was actually quite good and very reasonably priced, and the service was excellent. The hotel offers a free shuttle to Pearson that runs every 15 minutes from 3:45 am to 2 am so hopefully it's running on time as I'd like to get out of here so I can get a coffee!",
+      "rate": 3.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "Very nice airport hotel",
+      "text": "This a very good airport hotel. It is well kept, very quiet, nicely equipped (gym, restaurant, etc), and the staff was pleasant. They have a shuttle that runs every 15 minutes to the airport which is great compared to many places that go once or twice an hour.",
+      "rate": 5.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Affordable and Pleasant ",
+      "text": "Attended a function with family and friends recently.  Restaurant was very good and well-priced.  The washrooms, specifically the bathtub are dated.  We were a little disappointed in the pool areas. The spa was lovely but the pool was a little chilly and the gaming room was not user friendly.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "The hotel is tired.  Very tired.",
+      "text": "I’ll start with the highlights:  friendly staff, nice linens.In all other respects, the hotel epitomizes mediocrity.  The furnishings in the rooms are old and worn — the rooms cry out for renovation.  Our room reeked of cigarette smoke that someone attempted to cover up (unsuccessfully) with some sort of room freshener.  The food, particularly our dinner, was somewhere between non-descript and “not very good” (though served with a smile by friendly wait staff).  It’s hard to imagine you can’t find a nicer place to stay near the airport.",
+      "rate": 3.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Canceled flight",
+      "text": "Wanted to let you know I’ll be giving the 901 Dixon Marriot a 5 star review.After our  flight was cancelled we were scrambling to get a hotel room and the Marriott has been a truly wonderful experience. The staff,particularly Ankit , the front desk employee are truly remarkable and deserve some recognition, the only person who knew what we were going thru and made us feel relaxed and provided us with late checkout and coffee vouchers for morning . Also helped with printing  our covid results and boarding  pass. We will be recommending our stay here because the service is so fantastic.",
+      "rate": 5.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "excellent  as always",
+      "text": "Stayed here on the back end of an 8 day indoor park/stay pkg. Arrived at midnight. Were given the nicest room from Bonvoy point status. and breakfast. In the morning we were offered a full hot breakfast and coffee which we took to our room. Only thing was they are doing construction in the garage so our car was covered in cement dust, but still better than snow. 1st stop the car wash! We wanted to enjoy the room for another night.",
+      "rate": 4.0,
+      "tripDate": " January 2022"
+    },
+    {
+      "title": "Unreliable shuttle bus",
+      "text": "Waited at the terminal for about an hour for a shuttle that is said to run every 30 minutes. Hotel offered no explanation and kept assuring that it was going to be right there. Ended up taking a taxi and having the hotel reimburse me.Going back to the airport shuttle was again an issue with the 4am shuttle. Was assured that it was on it’s way at 3:55am. At 4:10am, no shuttle still. Grabbed a taxi with other guests to the airport.Last month, the shuttle was already full at 4am and people hand to stand in the aisle during the ride.Additionally, calls to the hotel ring and ring and go unanswered or then ring busy and disconnect.  This is a repeated issue. Other than the lobby and M Club, the hotel shows its age. This review should be no surprise to the hotel management as I told the front desk and duty manager last night.  I escalated to Marriott Bonvoy and got a somewhat patronizing email from a staff member and not the General Manager.",
+      "rate": 1.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "So disappointing",
+      "text": "Check in was fine.  The hallways are dirty.  They badly need vacuuming, at the very least.  Our room is tired.  Broken furniture.  Dirty carpeting; perhaps chocolate chips in the carpet?  Cracks in the bathtub.  This hotel has fallen far from their luxury days of clean rooms and a welcoming formal large dining room.  Prices for room service are exorbitant.",
+      "rate": 2.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Rather average Marriott",
+      "text": "No seperate checking for elite members despite the sign - no one at that desk.Happy hour 5-7 in M Club, but high prices for any alcohol. What is the point of happy hour if they charge you $12 for a beer? Food was mediocre at best. Breakfast was just like at Fairfield Inn.  Digital key did not work.Customer service awful in general. Will revert back to Hilton in the future.",
+      "rate": 3.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "This Use to be a Great Hotel.  Not now!",
+      "text": "The service and experience at this property has really started to fall off in recent months.  Checking in has been a hassle, even for Marriott Titanium Elite guests.  The last two times I have stayed at this property I had to contact them more than once to receive the promised receipt by email.  Things have just gotten poor.  This is a tired hotel.  Time to move.",
+      "rate": 1.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Charged twice for the same night and refused to acknowledge. Had to contact Visa they confirmed two charges. Great!!",
+      "text": "Don’t trust them with your credit card # - staff totally unwilling to entertain the idea. Insisted that the bill was for one night. I know that - they charged me twice. Not a pending transaction.  Got home after 10 days away and found this. Never again.",
+      "rate": 1.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Hotel great - problem with checking in",
+      "text": "We flew in late in the evening and we had to put down a $200.00 deposit for our room.  We tried VISA and Mastercard and they didn't seem to work.  My husband was very frustrated and embarrassed. I finally used my Debit card and it worked in another machine.  It was to make sure we don't damage the room.  We are 64 and 74 years old, and we stayed in the hotel for a total of 9 hours, I don't understand why we needed to put down that money.  The next day they handed me $200.00 cash.  Very unnecessary.",
+      "rate": 4.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "An average stay at an average property.  Good location.",
+      "text": "This hotel is average. Checking in was a bit slow and not at all personal. As a Gold Elite Bonvoy member I asked if there was a possibility of an upgrade but sadly the answer seems to always be \"no\". Our room was very tired, there was a used washcloth hanging on the shower curtain rod and someone's name tag was left on the floor. We thought we might try the in-house restaurant but it looked dark and not inviting so we walked next door. Not sure I would stay here again....perhaps another Bonvoy property?!  We did take the airport shuttle but it was early morning and a few people were left behind because we didn't all fit in the shuttle!",
+      "rate": 3.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Staff",
+      "text": "Very welcoming and friendly.  Been there lots of time on business and back from some travel out south and they always seems to make may stay (long or short) very enjoyable.  I recommend this hotel for business because it is close to Pearson airport and you will be well serve.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Best park and fly",
+      "text": "Chose this hotel because of the park n fly included parking inside the large underground garage. The room was very clean and comfortable. Excellent bed. Our room was certainly dated in style but did not feel worn out.  And it is less expensive then most Marriott hotels. The combination of comfort, value and parking make it an excellent choice when heading out on a winter holiday.",
+      "rate": 4.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "Excellent Experience!",
+      "text": "We arrived tired, after experiencing some travel delays and had a nightime layover long enough to get about eight hours of sleep if all went well.Just by luck, we waited less than 5 minutes for the shuttle; they seem to cycle through faster than the other shuttles, according to the posted schedules.Within an hour of landing, we had been shuttled to the hotel, checked in, dropped our bags in the room, had eaten supper in the restaurant, and were on our way to our room to turn in for the night.It could not have gone better/faster.Our meal was very good too. The short ribs were full of flava flava and the Lot 9 fish n' chips was absolutely excellent. This was a totally unexpected meal since it was just before closing and there were hardly any people in the restaurant.The room was nice, clean, quiet... and the bed was comfortable. I gotta admit I hardly remember it though. I think I fell asleep on the way to the bed and fell on it.The morning shuttle was right on time and checkoout was super fast.I'd stay here again in a heartbeat. And I'd have the fish n' chips again too.",
+      "rate": 5.0,
+      "tripDate": " January 2022"
+    },
+    {
+      "title": "Steer clear",
+      "text": "By far one of the worst Marriott properties.  There customer service is the worst we have experienced in over 900 Marriott stays.  Not  just poorly run but it is bad experience from the check in to the check out.  At one point my son asked the front desk if they had a lost and found to which he was met with an eye roll and sarcasm.  The food is inedible and the services are not up to the typical Marriott experience.  If you have the unfortunate experience of having Andrew White check you in, you will quickly learn that  the hospitality industry is not for everyone.  Steer clear of this property.",
+      "rate": 1.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Solving a problem quickly & professionally",
+      "text": "We had a 2 day business trip to Toronto and stayed at the Marriott on July 16th and 17th. My room had an issue with eh AC and it because tremendously hot, when I reported it to reception they said they would send the maintenance guy to have a look. To my surprise, within 5 minutes he was there and on entering my room he said there is a serious problem and he requested a room change. Within 10 minutes of reporting my problem, I was put in another room where the AC worked. I believe the maintenance guys name was Kevin, (sorry if I am wrong) but he was an absolute professional and gentlemen, we need more people like him in the world. Thanks once again Maintenance Man (Kevin)",
+      "rate": 5.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Older building, but very well kept",
+      "text": "Lobby and main floor (meeting rooms): very clean, modern, bright and impressive.Room: our room had two double beds, older in decor but very clean, no funny smell.Basement: big swimming pool in a very large solarium that leads to an outdoor courtyard.  Next to the pool is a clean and bright gym room with machines and weights.Shuttle bus to YYZ: this shuttle is free and so punctual.  It runs from 4am to 2am.  Leaving the hotel at the hour and 30 minute mark.  Pick up at YYZ at Terminal 1 at R3 and Terminal 3 at 43Staff: very friendlyOverall: one night we came in late at 1am and there were at least 4 staff working, making it very safe for us to hang out at the lobby.  I would definitely return to this beautiful hotel in the future.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Some positives some mediocre",
+      "text": "Stayed here for a business trip. It’s completely satisfactory but there are some minor drawbacks. The lobby is lovely and looks all the part of a nice hotel. The rooms and hallways are tired and could use a spruce up. My door didn’t close without a serious push which was loud and I’m sure less than ideal for my neighbours since I arrived very late at night. On the other hand,  the TV is large and has streaming services which is a huge plus. I had room service which is often my preference when travelling alone. The food was very good but it arrived in a brown bag and in take away containers with plastic cutlery. Considering the cost of the food I found this aspect to be rather disappointing. I have no hesitation in recommending this as an acceptable hotel. It does feel like a  lower end hotel trying to be higher end but missing a few marks.",
+      "rate": 4.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Another tired Marriott",
+      "text": "First the good news: staff is very good, M Lounge also great.  Also good is that the rooms have a decent amount of lighting and desk space to get work done.Now the  bad news:  A few years ago they did a substantial remodel of the lobby and elevators.    But where the investment was really needed was to update the tired rooms that do not appear to have been touched in 20 years.   In my room, there is not a piece of furniture that is not chipped or broken.  The chair and carpets are stained.   While I am a Bonvoy Plat member I would consider elsewhere for future stays in the area.",
+      "rate": 3.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Dated and undelightful",
+      "text": "The hotel is fairly convenient to the airport. Parking is $20 / night (note all Hilton chain hotels have free parking at the moment). Both electric car chargers were broken and out of service, according to plug share they have been broken for months now. Check in was ok. No upgrade was offered at all, as gold elite this is the first time I’ve not been offered anything at all. My king room was small (adequate) and very dated. The carpet has a distinct walking path and where it meets the walls is very dirty. The bathroom is tiny and very old looking.  It is clearly time for this hotel to do a complete remodel. It is not up to Marriott standards and there are far better options for less money in the area.",
+      "rate": 3.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Halfway Home from Vacation",
+      "text": "I can’t say enough about how I feel about this hotel. From the moment we checked in very late. Angus the bellman took our many pieces of luggage to our room. He then suggested he would have the night bellman to pick our luggage up at 5am and get us to the train as the lines at Toronto Airport are a nightmare. Angus went above and beyond. We appreciated his service. Then the night bellman showed at 5am and collected our luggage. Took us to  train and transferred our luggage to a airport cart and made sure we got to where we where going. Can’t say enough how amazing this was. We just stayed 6 hours but we found the rooms are perfect and had many little extras that made it so comfortable for a travel hotel. It was a fantastic experience for an late night check in. Will definitely be back. Thank you Angus.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "3 Days Quarantine",
+      "text": "Just about to check out after my three nights of hotel quarantine. Upon arrival we filled out order forms for our meals for the duration of our stay. The meals were delivered at regular times and the food was absolutely delicious. I was worried I would go hungry but I actually didn't manage to finish any of the meals I got. We were allowed two outdoor breaks per day and there is actually quite a nice little green space to walk around or sit in. The room was very comfortable. Great big TV with streaming options such as Netflix and Amazon Prime available (you need your own log in to access these) All of my interactions with the staff were great, everyone was welcoming and very helpful. The room is a little bit dated but still clean and comfortable. Would definitely recommend this hotel for quarantine but I'm sure it would be even better if you were staying during \"normal times.\" Thank you for making this a surprisingly pleasant experience!",
+      "rate": 4.0,
+      "tripDate": " June 2021"
+    },
+    {
+      "title": "Great Overnight",
+      "text": "We stayed overnight at the Toronto airport Marriott Hotel where we had stayed before.  It is a first class property with airport shuttles every 30 minutes.  The shuttle at peak times fills early but taxis are also at hand.  Room was good with all the usual amenities but the safe even if large is at the floor level which is very awkward for seniors.  Restaurant has a limited menu but the food is quite good.  We will stay there again next trip.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Nice hotel very close to the airport",
+      "text": "Fairly standard Marriott full service property.  The public areas and Executive lounge have been refurbished but the rooms are still the older style with carpeting and wood furniture.  The room was huge which is unusual for most airport locations.  All staff members were very friendly and helpful.",
+      "rate": 4.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Horrible desk people",
+      "text": "First of all I am a Titanium Marriott Bonvoy member meaning that I stay at Marriotts more than 100 nights per year. The front desk person was terrible, not friendly and insincere. I had a AAA rate for my room, my number is in my phone memory so I don’t have to put it in every time. I don’t carry the card. They asked me for my card, I told them I didn’t have it with me but my member number is there. That was not good enough so they were going to raise my room rate $40 per night. The front desk manager could have cared less. I went down the street to another Marriott Delta Hotel where they were very delightful, parking $10 a night cheaper, free full breakfast and water in the room. Glad I got to experience a Delta Hotel for the first time because next time I am in Toronto visiting my daughter I will stay there not the Marriott.",
+      "rate": 1.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Amazing customer service!",
+      "text": "I stayed at this hotel during my business trip to Canada. As I had to leave very early in the morning, I accidentally forgot my wireless headphones in my room. The housekeeping manager Annette was extremely helpful. She replied to my call very quickly, handled the situation and found my headphone, and shipped it out via Fedex. It is an expensive headphone and I love traveling with it. The headphone got delivered in time before my next trip. She even sent follow up email! Thank you Annette! She provides the service that is above and beyond standard.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Restaurant staff food allergy",
+      "text": "A group of us stayed over night here. Quick, comfortable. The restaurant chef and staff was amazing. They went above and beyond for one of us with a nut/seafood allergy. Chef changed out the deep fry oil to make sure there was no cross contamination.  Thank you!",
+      "rate": 5.0,
+      "tripDate": " February 2024"
+    },
+    {
+      "title": "Extremely Poor Service by Front Office",
+      "text": "Attention: Kevin Schmidt - General ManagerYesterday afternoon at 3.00pm I went to the reception since I was expecting a parcel from Purolator. A kind gentleman was helping to look behind the reception when a lady came to a computer at the reception. Apparently her name is Sylvia Schwarthe - She is supposed to be the Manager in-charge of the reception and bell desk.She asked me what I was doing there and I politely told her that I was expecting a parcel so I came down to check if it had arrived. She asked me if I was supposed to be in quarantine to which I said yes. She arrogantly said ' What are you doing down here then. Go back to you room and dial zero to check if the parcel has arrived. So I told her can I do my 15 minute walk which I am entitled to. She again in a loud tone said go to your room and dial zero to schedule your 15 minute walk. I said I am down here can it not be scheduled so I can go form my walk. She gave me a disgusting look and said go up and someone will come and escort you.Honestly I have lived at the Marriott in other countries but never experienced such poor, condescending, service and tones used to me.I believe Sylvia should change her profession because she cannot be speaking to Marriott guest in this manner.Appreciate some action being taken and a response.BestDarryl D'Souza  The first room assigned to me had a noisy machine outside the window. I could not rest since it was too noisy. Had to ask for a change of room. Picture below.The coffee maker has fungus inside the maker. Had to requests for a water kettle. Picture is below.",
+      "rate": 1.0,
+      "tripDate": " May 2021"
+    },
+    {
+      "title": "Convenient, Reasonable with Park N Fly",
+      "text": "Our travel agent booked this hotel for the night before our recent trip to Jamaica. We usually stay at another hotel but they were full. This hotel is reasonably price and has an airport shuttle that starts at 4 in the morning. It has a nice restaurant/bar on the main floor and we were able to get coffee at 4 am. Rooms were spacious and clean. One of the perks to us was that the park n fly was covered underground on levels 3 & 4. This time of year it wasn't a big deal but for those winter trips it is nice to not have to dig your car out the snow after a week of sitting outside.We will definitely be booking this hotel next time as long as our departure works well with the shuttle times.",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    }
+  ]
+}

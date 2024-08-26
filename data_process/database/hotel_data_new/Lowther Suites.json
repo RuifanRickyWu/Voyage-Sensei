@@ -1,0 +1,99 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Lowther Suites",
+    "url": "/Hotel_Review-g155019-d1948825-Reviews-Lowther_Suites-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 7
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "88 Lowther Ave",
+      "addressLocality": "Toronto",
+      "postalCode": "M5R 1E2",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b6/f0/39/lowther-suites.jpg?w=500&h=-1&s=1"
+  },
+  "description": "A BEAUTIFUL BOUTIQUE HOTEL LOCATED IN THE HEART OF DOWNTOWN TORONTO Lowther Suites is a magnificent Edwardian mansion that features five fully furnished, beautifully appointed suites with one or two bedrooms, a fully equipped kitchen, a living room, a personal bathroom, en suite laundry, satellite TV, weekly housekeeping, complimentary parking on-site, local phone calls and internet service in your suite are all included. The recently renovated mansion features high ceilings, classic moldings and elegant suites. Some suites feature a private outdoor patio or deck for you to enjoy! A wonderfully distinctive boutique hotel, Lowther Suites is an excellent way to enjoy the beauty of Toronto!",
+  "featues": [
+    "Free parking",
+    "Electric vehicle charging station",
+    "Free High Speed Internet (WiFi)",
+    "Non-smoking hotel",
+    "Self-serve laundry",
+    "Air conditioning",
+    "Dining area",
+    "Housekeeping",
+    "Private balcony",
+    "Coffee / tea maker",
+    "Kitchenette",
+    "Cable / satellite TV",
+    "Bath / shower",
+    "Telephone",
+    "Iron",
+    "Private bathrooms",
+    "Dishwasher",
+    "Microwave",
+    "Oven",
+    "Refrigerator",
+    "Stovetop",
+    "Electric kettle",
+    "Kitchenware",
+    "Radio",
+    "Hair dryer",
+    "City view",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "The Best hotel in Toronto!",
+      "text": "I recently stayed at Lowther Suites & I would definitely stay there again in a heartbeat. Location is ideal in the heart of downtown Toronto, specifically Yorkville, one of Toronto's finest neighbourhoods. Within walking distance to shopping, grocery stores, universities, museums, Toronto International Film Festival etc. The subway was within walking distance too.Loved the free wifi & parking! We had a beautiful 2 bedroom suite with a great kitchen, living room, bathroom & en suite laundry. It was so nice to use the kitchen everyday. But when you don't feel like cooking there's many great restaurants nearby to choose from. We felt so comfortable because the suite was huge, the size of a large apartment with all the comforts of home. It was cool to stay in a new mansion with your own private suite. I highly recommend Lowther Suites.",
+      "rate": 5.0,
+      "tripDate": " September 2014"
+    },
+    {
+      "title": "Perfection! 10/10!",
+      "text": "Wow - This was our second time staying at Lowther Suites and it was truly fantastic. I would highly recommend it to family and friends! Everything about it was perfection. We can't wait to come back!PROS: - perfect location, in downtown Toronto, located very close to shopping and attractions. (within walking distance to designer shops, restaurants, museums etc.)- the room rate was extremely reasonable given the location and size of the suite.- public transportation located nearby within a 5 minute walking distance (minutes away from the CN tower, Air Canada Centre, Rogers Centre, Ripley's Aquarium etc.)- large 1 or 2 bedroom apartment with a kitchen, living room, personal bathroom. I've stayed in both a 1 bedroom and 2 bedroom suite and both were fantastic.- en suite laundry. Such a great thing.- located across the street from a park- beautiful mansion, gorgeous suite- FREE WIFI- FREE PARKING!CONS: - NONEOverall, Lowther Suites met all of my criteria for top end accommodations, attentive staff and amazing location. Our experience was very positive and I would stay at this property again without a doubt. A very beautiful, high end luxury property. A great place to relax and unwind. This hotel is the perfect choice!",
+      "rate": 5.0,
+      "tripDate": " May 2015"
+    },
+    {
+      "title": "Comfortable, homey, convenient and great location",
+      "text": "Great place to stay close to downtown Toronto.  Small older building with one or two-bedroom apartments.  Building is in great shape, apartments are fully furnished, everything you need.  We were able to get a 2 bedroom with wifi and parking for $200 per night including taxes.  Lots of room, very nice beds, full kitchen.  Quiet but close to the action.  We will definitely return.  Recommended for older couples, business people, small families.",
+      "rate": 4.0,
+      "tripDate": " November 2010"
+    },
+    {
+      "title": "Central Hotel Substitute",
+      "text": "We stayed here for 3 weeks while we have renovations going on at our home.  We rented Suite 105 (top floor).  It is a 2 Bedroom apartment with a huge bathroom and living room plus a deck off the master.Great location and wonderful place to stay.  Definitely a place to go and stay if you want more room than a hotel at a comparable or lower rate.",
+      "rate": 4.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "A SWEET HOME AT DOWNTOWN TORONTO",
+      "text": "A SWEET HOME AT DOWNTOWN TORONTOI stayed in Lowther Suites twice; in Room 105 in May 2015 & in Room 103 in May 2019. The location is superb and the room is super spacious. There is a well-equipped kitchen in each room and washing machine too. It is more comfortable than my own home. It would be perfect if a hand-held shower head and a make-up mirror can be installed in the bathroom. Other than that, everything has exceeded my expectation.",
+      "rate": 5.0,
+      "tripDate": " May 2019"
+    },
+    {
+      "title": "Superb accommodations in great neighborhood",
+      "text": "We stayed here four nights in a beautiful, large one-bedroom apartment, spotlessly clean, firm bed, washer/dryer, large full kitchen. There is a wonderful, helpful on-site assistant manager. It is in the Annex district on a quiet residential street, two blocks from two subway stations, St George and Spadina. Convenient to downtown and other neighborhoods. Two blocks to Bloor St, with many grocery stores and restaurants. And a Whole Foods nearby. We would definitely stay again and refer our friends!",
+      "rate": 5.0,
+      "tripDate": " June 2018"
+    },
+    {
+      "title": "Highly Recommended!",
+      "text": "Beautiful suites and honestly, my first choice in Toronto every time. Great central location that's very close to everything downtown. Clean and very comfortable. Great shopping and restaurants and grocery stores in the area within walking distance. Great advantage of being close to the subway too. Spacious, clean, beautiful kitchen, bedroom, living room and bathroom. Highly recommended! :)",
+      "rate": 5.0,
+      "tripDate": " April 2018"
+    }
+  ]
+}

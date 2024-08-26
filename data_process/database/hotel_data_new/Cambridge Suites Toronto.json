@@ -1,0 +1,245 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Cambridge Suites Toronto",
+    "url": "/Hotel_Review-g155019-d183057-Reviews-Cambridge_Suites_Toronto-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 2213
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "15 Richmond St. E.",
+      "addressLocality": "Toronto",
+      "postalCode": "M5C 1N2",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/94/f6/9a/ambassador-penthouse.jpg?w=500&h=400&s=1"
+  },
+  "description": "Voted as one of Canada's top 25 hotels, an all suite property that offers space and privacy; French doors separate the bedroom from the living room with free WiFi access. Each suite boasts an entertainment wet bar with a coffee maker, fridge and microwave; as an extension of the bathroom, we offer a private dressing area and 24 hour room service is available as part of Portico restaurant's dining experience. Hotel guests also have access to the Business Centre plus access to the Rooftop Fitness Studio featuring a breathtaking view of the City. The hotel is connected to Toronto's underground PATH, which affords the business and leisure traveller with a well lit, secured walking corridor to over 5,000 companies and shops such as the Eaton Centre. Going to the theatre? Three of Toronto's best are within two blocks of the hotel! Looking for your place in the city? You found it!",
+  "featues": [
+    "Paid public parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Hot tub",
+    "Fitness Center with Gym / Workout Room",
+    "Complimentary Instant Coffee",
+    "Business Center with Internet Access",
+    "Conference facilities",
+    "Baggage storage",
+    "Parking garage",
+    "Wifi",
+    "Sauna",
+    "Banquet room",
+    "Meeting rooms",
+    "Concierge",
+    "Newspaper",
+    "Non-smoking hotel",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Dry cleaning",
+    "Laundry service",
+    "Self-serve laundry",
+    "Ironing service",
+    "Allergy-free room",
+    "Air conditioning",
+    "Housekeeping",
+    "Safe",
+    "Iron",
+    "Coffee / tea maker",
+    "Microwave",
+    "Flatscreen TV",
+    "Private bathrooms",
+    "Refrigerator",
+    "On-demand movies",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "How Suite it is!",
+      "text": "At this downtown (Richmond St near Yonge) Toronto Hotel you get a comfortable, clean suite for the price you would pay at other establishments for a room with one-third (or less) the size.Our room featured a large living room, with sofa & chair & separate table & chairs, sink & small refrigerator, bedroom with large bed, bathroom with separate shower & bath; each room could be closed off for privacy.  Two flat-screen TVs, one in the living room & one in the bedroom.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Would definitely stay again",
+      "text": "We stayed here two nights but wish we could have stayed longer. Desk staff made an excellent first impression: we arrived 3 hours early for check in, and staff happily stored our luggage...and had it waiting in our room for us when we returned to check in. That's service. In our room we appreciated the table by a window with comfortable seating, real wine glasses, real coffee mugs, and a compost bin. The closet contained 2 bath robes, and the bed linen is quality stuff. It's these things that make the difference in one's stay. Convenient parking, a top-floor Jacuzzi and sauna, and direct access to PATH  (staff provided us with a PATH map, thank you very much), spacious clean rooms, fast elevator, decent breakfast. What's not to love? We'll be back.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Wonderful place to stay!",
+      "text": "Stayed here with 2 young children so opted for this hotel as we wanted a suite for more space. We were really impressed! Plenty of room for 2 adults and 2 children. The rooms were very clean and well maintained. The suite we stayed in was close to the lifts but we heard no noise at all. No issues with waiting for lifts either like there can be with other hotels in Toronto. Location was excellent - we have stayed in various hotels across downtown Toronto before and this is now our favourite in terms of the hotel itself and the location. Staff are really kind and friendly. Highly recommend it!!",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Got the job done, just felt average for cost",
+      "text": "I stayed at the Cambridge in Toronto in March for a weekend conference. To me, the entrance was a bit unwelcoming. I expected a bit more for a front entrance. I felt it was almost back in an alleyway vs out front and obvious. The staff was welcoming at check in and quick for getting me checked in. I had a king suite room on the 8th floor. The bed was VERY comfortable. I loved the setup of the room and how the bathroom had a door to it both from the living room area and the bedroom. So if traveling with another person/family members the person in the living room on the pull out could access the bathroom without having to go through the bedroom. The bathroom was ample size with plenty of counter space. Provided soaps and hair dryer along with a makeup mirror. Water pressure for the shower was great (I have stayed at some location that this isn’t the case). There were some things I would personally have liked to see upgrades on. The room itself felt a bit old. The wallpaper was peeling away in areas and then you could tell that the cupboards were old as well. Felt very rickety when opening them. I would also have liked to have some sort of “plate” in the room to use with the microwave. There were glasses and a nice “bar” type set up on the counter. This may just be a big city issue but the sounds of the street and traffic were very loud at all hours of the day/night. I have stayed in other big cities where it was quiet as a mouse in the room even though there was massive amounts of traffic. Overall a nice stay. I just personally expected a bit more for the money.",
+      "rate": 3.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Gem of a Hotel in Downtown Toronto",
+      "text": "We chose this hotel as an alternative to the King Edward, as we were in town for a family wedding and wanted to be within walking distance to the venue (La Maquette).  The rooms were spotless and spacious and the beds were very comfy.  The staff were all extremely efficient (quick check-in) and friendly.  We also really liked the $10 per night parking deal - unheard of in Toronto.  Great location with many nearby options for meals.  Would stay there again in a heartbeat and highly recommend this property to anyone seeking a great downtown location at a very reasonable price.",
+      "rate": 5.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "Convenient and clean",
+      "text": "My husband and I stayed in a Deluxe Suite for one night in January. The room was clean and the bed was quite comfortable. There was a microwave and a mini fridge as well as a Keurig available in the room. The fridge did need to be turned up a bit. We liked having the separate bedroom so we could visit with another couple more comfortably. The location was convenient - steps from the Hudson Bay store downtown. There was also parking underground for $27 per day and we were permitted to use it before check in and until 6pm the day we were leaving. It is also in-out privilege.The ceilings in the parking garage were very high - even my husband's truck could navigate down there.The 22nd floor had a nice quiet sauna and a hot tub. There is also a workout room at that level. There are no bathrobes so bring something for going upstairs. There appears to also be a small laundry room at P1 for longer stays.The bartender, Jeremy, was very friendly. We did not try the breakfast but it is $15 per person.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Great hotel and value for money",
+      "text": "This was our 2nd stay at the Cambridge Suites (the 1st being a few years ago). We stayed for 4 nights in total. Pros:* staff are very friendly and helpful. Happy to provide things that we needed such as plug converter and wine glasses.* location is excellent - close by to many great restaurants, the Eaton centre, Union Station etc.* price is great - we paid approx £90 a night which is fantastic value for money in downtown Toronto. * rooms are large, clean and very comfortable. Amenities in the room are also good including iron, robes, Toiletries, hairdryer, extra pillows/bedding etc. * bedroom and bathroom can be closed off if you have guests staying over.Cons:* the rooms are starting to look a little tired now and could do with a refresh. * some rooms had minor issues - we checked into a room where the toilet didn't work and the team offered us a new room. Our 2nd room had dirt all on the bed (I think where the air con blower had chucked it out), we were moved again and the 3rd room was perfect. The staff handled the issues extremely well and we're very apologetic. * the restaurant/bar is closed right now so you do need to go off site for food and drink (not an issue considering there are plenty nearby).Overall this is a great hotel that provides amazing value for money given the location and room size/comfort.We wouldn't think twice about staying here again and would recommend for anyone looking for a base to explore Toronto from.",
+      "rate": 4.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "Good location and quiet hotel",
+      "text": "The room was nice and we enjoyed our stay.  It was very comfortable for the two of us and the location was great for walking and being able to park right there in their underground parking.  You can easily walk to Yonge Street ( Eaton's Centre )  The only thing that I took notice of was that you could not reach anyone from the front desk after we arrived via their phone.  Just busy even before the ring could go all the way through.  We just wanted to add a wake up call but it was not a huge issue.  I would definitely recommend this hotel.  Front desk was very friendly and helpful.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Weekend visit",
+      "text": "Was in town for the weekend for a concert. Travelled with a friend, her daughter, myself and my daughter. We booked a kind room with sofa bed. The room was spacious and clean. The king bed was in a separate bedroom. There was a tv in the bedroom and in the living room. You can enter the washroom from the living room area or the from the bedroom. Once in the washroom, the toilet and shower are in a separate room which was great as shower and toilet is in a separate room which was great so I could bath my daughter as my friend was doing her daughter hair in the other area of the bathroom. The location of the hotel is great. 5 min walk from LCBO hahaha, breakfast restaurant across the street, 15 min walk to the Scotia bank arena. 10 min walk to the mall. Front desk staff were so kind and helpful. Provided us with bottles of water when we checked in.  I forgot my daughter’s toothbrush and they provided us with toothbrushes. She gave us recommendations for places near by to eat at that were walking distance with two 5 year olds. Indoor parking was definitely a plus. Will definitely return! Thank you for a great stay!",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Awesome stay in great location ",
+      "text": "I stayed at the Cambridge this week while on vacation for 4 nights.  The location is fantastic, it's within walking distance to almost all of the venues, shopping and attractions we went to see, it's also close to the subway station which we also used.The rooms were much larger than I expected, they were clean and the housekeeping staff were fantastic!  Our room was always cleaned and beds were made when we returned and the staff ensured our morning coffee was always replenished which I really appreciated. I read a lot of negative reviews about the building locking after 10pm, but I had no problem with this at all, there was security guarding the doors and as long as I used my key card they gave me no hassle.  They also allowed me an early check in and held my baggage while I did some shopping and waited for our room to be ready.The wifi wasn't great, but wouldn't deter me from staying here again!",
+      "rate": 5.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Horrible experience",
+      "text": "We had a really negative experience at this hotel. We were booked for a room with 6 people, however at the end of the night when we came back we were told we were only allowed 4 in the room. We understand that there was a waiver signed that we agreed to only four however the night staff were extremely rude and unaccommodating. This is especially frustrating considering we were a young group of women from out of town at 2:00 in the morning with no place to stay and the response from the staff member was \"that's not my problem.\" We agreed to paying an extra $400 for another room, however when we went to the room there was another couple already in bed. This was quite uncomfortable and completely inappropriate. As the person who had to walk in, it made me feel unsafe. We were given 50% off of our room as compensation, however that does not feel like it makes up for the aggressive night staff members and horrible situation of walking into somebody else's room when they and we were at our most vulnerable.",
+      "rate": 1.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Book it up for Toronto",
+      "text": "We stayed here for 4 nights in April 2024 and it was great for us.Our room/suite had 3 distinct areas - the bedroom, the bathroom and a sitting/dining area. So good to have a couch and decent chairs to sit on.  We had a fridge, microwave, and a sink too.The decor and furniture in the hotel are a bit dated, but we still recommend staying here. It’s obviously popular with sports fans who visit Toronto for games. When the locals like a place, it’s a good sign. The hotel is in a good location. You can walk there (with luggage) from Union Station. It’s also close to several of the streetcar lines, and the subway. The Queen subway stop is the closest one to enter, but beware when getting off because the station exits are all over the place!On the same block as the hotel there’s a drugstore, and Rabba (a 24 hour convenience store). Very handy.The hotel offers free coffee and muffins between 7am and 9am, and there is a guest laundry ($1 coins required).",
+      "rate": 4.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Amazing!",
+      "text": "My mother, sister and I went to Toronto last weekend for a little getaway and we couldn't have picked a better hotel than Cambridge Suites Toronto! We originally had booked a King + sofa bed but the receptionnist kindly offered a room with double beds + sofa bed which was perfect because it meant that we would all have our own bed.The beds were comfy (even the sofa bed), the suite was big and roomy and everything was very clean. Location is perfect, close to everything walking distance. Staff was super friendly. Plus you can't beat the price. Would definitly recommend!",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Very good value",
+      "text": "This was a clean and professional property. The housekeeping service was terrific. The condition of the room was good--a careful inspection might turn up some wear and flaws, but nothing obvious. The biggest downside was the noise. Much of this was to be expected in downtown, but our room was next to the elevator shaft which meant that we could hear the elevator and somehow the room next door to us on the other side of the elevators. Muffled voices too quiet to hear what they were saying, but there was a thin point in the wall by the window that let some sound through.I would stay here again because the location is prime downtown and the price was better than others in the area without the downsides of sketchy properties.",
+      "rate": 4.0,
+      "tripDate": " February 2024"
+    },
+    {
+      "title": "Great hotel good value",
+      "text": "Picked this hotel because of location, good reviews and affordable $15/day  parking with in and out privileges which we needed attending sport events at U of T  daily, and this was quite close to my daughter's team hotel.  Early check in at noon possible for additional $40 which is fair. Rooms are spacious, separate living room area with TV in both living and bedroom area. Small bar sink, Fridge, Keurig machine.Huge bathroom with separate door to toilet/shower tub .Everything worked,  and a docking station for cell phones so no groping for outlets..wifi a bit spotty, I found it was better in the living room part.Complimentary selection of  newspapers- nice touch. Starbucks,Tim's, Booster juice around the block. Couple of nice restaurants nearby. Try Lena for Latin style tapas although it is a bit loud. St Lawrence Market a short walk away.Staff was friendly at front desk and also housekeeper we came across in the hallway. SUGGESTIONS  Maybe wifi  should be upgraded if that is essential to most guests. Restaurant still closed due to covid, maybe it was subcontracted. Hard to understand and communicate with staff through solid plastic seperation with only a tiny communication slot at bottom.OVERALL I would absolutely  return here. It had everything we needed and quality price rapport is excellent especially with  the parking factored in.",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Nice hotel but pricey ",
+      "text": "Don't let my 3 star rating dissuade you - the room itself was great - clean, inviting layout, comfy beds. My lower rating is more reflective of the price point.  It's pricey for what you get but I guess it all is in Toronto isn't it.  Staff were friendly and the hotel itself was clean. I did like that it's a smaller hotel so not so crowded and the rooms give a more \"homey\" feel than your typical hotel room.  Just too bad that everything is so overpriced in Toronto",
+      "rate": 3.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Great rooms, terrible internet",
+      "text": "Pros: Nice rooms, comfortable beds, good space to work in and great location. Cons: Unfortunately a big one - terrible terrible internet. It takes several moments to load pages (even text email - no large files). I called down to ask the front desk if there were any fixes, there are several additional wifis that show up on my computer connection and I was hoping to log into a different wifi. The front desk person told me to use an ethernet cable, and when I said that wasn't an option (who travels with an ethernet cable??) they just said 'well okay' and hung up. Very frustrated as this is a business trip and I'm struggling to work from my hotel room - and the issue was not addressed. Too bad because otherwise a great spot, I have a few more days here but I think it is unlikely that I return.",
+      "rate": 3.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "short stay in Toronto",
+      "text": "We stayed four nights at the hotel. The check in was quick and easy. The housekeeping services each day were very good. The restaurant onsite was not open but there are several coffee shops in the immediate area so that wasn't a problem. The public transit was close by and it easy to access.The reason we won't give the hotel five stars is because the WiFi was terrible. The routers were old and not secure, the service was very slow and we were not impressed.",
+      "rate": 4.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Excellent Value",
+      "text": "Exceptional staff. Clean and comfortable room. Great location. Many sights are within easy walking distance and the subway is essentially just around the corner. Parking also has in and out privileges so you can drive to more distant activities.",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "A great hotel in the heart of the city.",
+      "text": "My partner and I stayed here for 15 nights, not so much for a holiday but to meet the USA entry requirements before we flew to Florida. This is a big hotel right in the middle of the city. Close to everything and we didn’t even need to take a taxi. The hotel comprises of suites which have a separate bedroom, lounge area, table and chairs and bathroom. It has a useful onsite laundry. It also has a restaurant and coffee shop but they were closed because of Covid rules. The hotel is very well presented, clean and friendly. Elfran and Shirley who look after reception we’re really friendly and helpful. If you need a great hotel, reasonable priced and in the city then book this one. Well worth it.",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Terrible Experience with Food Delivery or Security",
+      "text": "Concierge allowed food deliverers to come to the room one night and claimed its not allowed another night citing security concerns. Either the policy isn’t consistent or their security isn’t. I don’t mind grabbing food from the lobby however with two very young sleeping kids in a hotel, not comfortable leaving my room and the precedent set from the night before set my expectations In addition, no options were provided by the concierge to get the food from downstairs ex. I’ll send room service or help. Just a cold, this is our policy.Would recommend staying here given the room sizes and location, however, be wary of the service.Two more days to go, hopefully things improve.",
+      "rate": 2.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Love the spacious rooms.",
+      "text": "I've stayed at the Cambridge Suites many times over the past 10 years or so. The guest rooms are very spacious. The main floor restaurant has a modest breakfast buffet, and fares better on their dinner menu.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Great place to stay!",
+      "text": "I stayed with my family for 4 nights and was particularly grateful for the fuss free check in when we arrived very late after a long flight! The rooms are big and clean,  the beds very comfortable and the location is perfect for seeing all Toronto has to offer. Parking was just 10cad a night which was great value as we hired a car to go out to Niagara Falls. There was no housekeeping or breakfast due to Covid-19 but we just asked if we needed anything and they were happy to supply. Food could also be ordered in to be collected in the lobby. I would stay again if we returned to Toronto.",
+      "rate": 5.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "Rough start, decent stay",
+      "text": "We had a short weekend stay here. Our check-in went ok. The front desk was welcoming and helpful. We were given our room key and headed to our room. Upon entering, we did a quick inspection. We noticed a larger amount of condensation along the window. We then checked the bed and pulled back the comforter. What we saw can only be described as urine or sweat stained bedsheets. At the moment we discovered this our <porter> arrived at the door with our luggage. He apologized and arranged for us to change to another room. The next room was better but still had water condensation issues. Their are no vending machines on the hotel property. They suggested either the nearby pharmacy or the 7/11. Unfortunately, the pharmacy has limited hours of operation and the 7/11 is open 24/7 but it’s several blocks away. The hotels location is nicely situated downtown. Their are several nearby attractions within walking distance. A breakfast buffet is offered by the hotel for a surcharge. Dinner is another option for you at one of their restaurants. The free WiFi had a decent signal. We did order a few drinks at their bar. It’s a nice, smaller bar. The bartender was nice and made some small talk with us. The wife enjoyed their Bloody Mary’s. The hot tub and fitness room are located on the top floor. You’ll get some nice views of the city from there. In finality, this hotel is ideal for its perfect location, but it’s certainly lacking on many amenities.",
+      "rate": 3.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Nice hotel, amazing staff",
+      "text": "Our group of 6 adults and 1 child stayed in three suites for the weekend. The rooms were spacious and very clean. The hotel staff had a crib in our room ready to go upon arrival. The front desk staff were so helpful, and the house keeping staff were quick to get us what we needed.We will definitely be back next time we come to Toronto.",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Great Value & in a Great Location",
+      "text": "Booked here for our Blue Jays weekend because I thought the price was good($250/night all taxes included directly from their website while all the third party sites were considerably more) & so we could explore a different part of downtown since we stayed by Union Station the other 2 times we were there.We were not disappointed with the choice as it was easily walkable from Union Station & to the stadium & perfectly situated if you used transit for other things which we did. There's a Rexall across the street for any supplies, like water since the hotel does not supply in the room, & decent restaurants close by. We asked for & got a nice quiet room on the west side of the building on the 21st floor. Was also very pleased with the size of the room & bathroom while the linens & bath towels were of high quality.They still are not doing housekeeping every day as of June 21st, but that's not really a big deal for us & we just called down to the front desk for more coffee supplies as needed. I was also concerned about wifi reliability after reading reviews here but it was no issue.The only thing I could complain about would be the funky shower set-up & no bath mat until after the 2nd night when housekeeping brought one. It was a stand-up shower, which is fine, but there was no door & was only half cut off from the rest of the room by floor to ceiling glass so there was no way water wasn't going to get on the floor outside so we had to use 1 of the 4 towels provided. This combined with a lack of places to properly hang towels to dry was a slight problem because after exploring for the day we returned to our room to \"freshen up\" & had to use 1 of the still slightly damp towels.Overall I would recommend & would stay again just note that their website always offered the best deal from what I saw during my research.I just have to add that having a cool Irish pub, McVeigh's, with live music & Guinness a block & a half west was just a bonus. We went here twice during our stay since I had read that the owner refuses to sell to a condo development on the block so now they will have to build around this lively little pub. A victory for the little guy I'd say & something to support with your business.",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Great location and price in downtown Toronto!",
+      "text": "I was in Toronto for surgery at St. Michaels Hospital so my husband booked two nights at this hotel recommended by our son. Location was great, near the Eaton Centre, restaurants, subway and a pharmacy across the street. Everything we needed for a medical trip. Having a suite allowed my husband to read while I slept. The rate was very good for downtown and the parking was only $10/night. This is an older hotel but staff were most helpful and we had everything we needed, clean, comfortable bed, bar fridge, wifi and a coffee maker. Amenities were not available but I would recommend this hotel anytime.",
+      "rate": 4.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Spacious in downtown Toronto",
+      "text": "The room was very spacious, which was great for a longer stay.  The furnishings/fittings in our room were dated and partially worn out, but the room was still comfortable and we thought the good value price compared to other downtown choices made up for this.  The free coffee and muffin in the lobby for breakfast were good enough for a morning snack - there are plenty of restaurants nearby and the location was a short walk to where we wanted to go downtown.",
+      "rate": 4.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "The promised hot breakfast but only serves it 3 out of 7 Days",
+      "text": "We stayed at the hotel between Christmas Eve and New Year’s Eve and e-mailed the hotel to make sure that breakfast was included. They promptly answered and promised that we would get hot breakfast buffet every morning.But no. The third day they stopped and claimed it was a renovation of the kitchen going on, so only continental breakfast. They didn’t tell us this until the same morning so we couldn’t change our booking. You might think that you would get something extra in Christmas times, but here it was the opposite.How ever the room was big and nice, the staff friendly and it was clean and extremely good location.",
+      "rate": 3.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Convenient Location and Wonderful Suite",
+      "text": "Cambridge Suites is a well-laid out hotel with excellent location and amenities.  During the Dec 23rd winter storm, we didn't even have to go outside once, as we utilized their inside passage PATH to Eaton's Centre and other venues.  Staff are exceptional, especially Jin at the front desk and the fitness facility with hot tub and sauna was exactly what we needed after a full day of exploring.  The suite was clean of efficiently laid out that when our daughter joined us for two nights, we can be separated from our bedroom and have plenty of privacy with the washroom layout.  we will not hesitate to return.",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    }
+  ]
+}

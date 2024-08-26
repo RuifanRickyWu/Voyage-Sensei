@@ -1,0 +1,46 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Serenity Near Finch Station",
+    "url": "/Hotel_Review-g155019-d17613179-Reviews-Serenity_Near_Finch_Station-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "1.0",
+      "reviewCount": 3
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "48 Winlock Park",
+      "addressLocality": "Toronto",
+      "postalCode": "M2M 1Z2",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/b8/6c/f7/view-from-outside-and.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "Do not stay here",
+      "text": "It is with total regret and frustration that I write this review. PLEASE PLEASE STAY FAR AWAY from this place read the reviews and then decide for yourselves the rooms are DIRTY AND SCARY TO SLEEP IN  after you book this place you are on your own, absolutely no one can assist in getting your monies refunded, I decided to book my reservation on a booking site primarily  because they popup on the screen during my Google search for hotels instead of using my regular website so I use their services. While they try to remain professional about the situation they can do very little in assisting to get your monies refunded, even if you have a good explanation for wanting to cancel your reservation .in my opinion it would be best for booking sites to have the serenity  near finch station removed from their website listing as it could only ruin their reputation this place is by far DIRTY AND MISLEADING in their advertisement until you get there and discover it’s not what you thought you paid for, the owner lies on his tenants and does everything in his power to keep all of your monies even if you choose not to  stay for the time that you pay for, it is so sad that booking sites are not looking out for the customers like in the past, it just easier to put on the website the word NON REFUNDERBLE  which in my opinion takes full advantage of the customer. My opinion with the websites now a day’s is to book only one night at first and if the place is clean and livable then you can book the other nights that you want after this is confirm to be so, my 5 CENT like we say in the BAHAMAS GOD will deal with the owner of Serenity near finch station because if you have a conscience and you know that the room you rented me was totally a rip off, you would not like it if someone had done that to you or your family.  To the booking site I am sorry to say that I book rooms often for work and travel but I will no longer be using your website until you remove horrible places like this that is misleading from your website. It’s totally amazing to me how the owner can only hear you and understand what you are saying on the phone when the booking is in its pre arrival stage and as soon as you pay your money  he can no longer hear you or understand what you are saying. GOD BE WITH YOU ALL while $643.00 may not be much to you it means the world to someone else.",
+      "rate": 1.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "Bedbugs! Bedbugs! Dirty with rude and dishonest owner",
+      "text": "Bed Bugs, Bed Bugs at Serenity near finch also called 48 Winlock Park 697365515 Serenity near finch at 48 winlock park drive in Toronto is a mad house. First it is not a hotel as advertised. It is just a 4 bedroom house converted to many other rooms using dry wall partitions. It does not have a hotel license at all.  Second there is no 24 Hr concierge as advertised on Booking.com. Also the image of CN tower advertised as views of the City is a lie. There are no City views as this is a residential area surrounded by homes not city views. You can't see the CN tower from there. All the perks advised on Booking.com are all lies. The rooms don't look anywhere like in the pictures. We booked the place thru booking.com for my daughter and husband. In the early of night we could not sleep as our bodies kept itching and turning red. On turning on the lights, we could see several bed bugs running away to hide under the mattress. My skin was crawling with disgust and had goose pimples all over. We tried calling the owner so many times and we texted him but he never replied. We did not sleep as we sat down in the room the whole night with the lights on for fear of the bed bugs. The next day when the owner arrived, we asked a refund. The owner just laughed at us and mocked us and told us that we could leave if we wanted to but he was not going to give us a refund. He said that because we were from India, it was us that brought the bedbugs. We threatened to call the city of Toronto and file a complaint. That is when he agreed to give us a full refund. He went ahead and offered to give us a $20 bribe for us to write a good review for him. I advise everybody not to go to this place. The house is full of dirty old scraggy homeless looking men who talk so loudly and spend time smoking drugs in the back Yard. The place is scary as there are too many other dirty homeless looking people coming in and out of the place at all times even in the middle of the night. The place smells of cigarette smoke as some of those homeless looking guests smoke in their rooms. The place also smells of too much curry and too much cooking in the kitchen from this lady with a very loud voice. DO NOT BOOK at 48 winlock park.",
+      "rate": 1.0,
+      "tripDate": " July 2019"
+    },
+    {
+      "title": "Never comme to this house.",
+      "text": "It's really a shame to sell such rubbish on Booking.com plateform. The pictures have nothing to do with the reality of the place. I don't really blame the owner but Booking who sell such dirty and rubbish place. These are some pictures to show you its reality.my wife booked one night for 4 pax on 19th July. The room n°1 was in the cellar with two tiny windows, the wall at the door entrance was repared but not painted, the bin wasn't even empty. The bathroom is collective with things belonging to other people, the bads seemed like they just has been left by the previous guest.I will never book on booking. When we claimed the responsible asked us to leave and forget your money it's Nooking who has it. So never go to this place.",
+      "rate": 1.0,
+      "tripDate": " July 2019"
+    }
+  ]
+}

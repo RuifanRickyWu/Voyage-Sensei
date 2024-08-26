@@ -1,0 +1,64 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "International Living Learning Centre Residence",
+    "url": "/Hotel_Review-g155019-d12550883-Reviews-International_Living_Learning_Centre_Residence-Toronto_Ontario.html",
+    "priceRange": "$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.0",
+      "reviewCount": 3
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "240 Jarvis St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5B 2L1",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+  },
+  "description": null,
+  "featues": [
+    "Paid private parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Restaurant",
+    "Meeting rooms",
+    "Baggage storage",
+    "Concierge",
+    "24-hour front desk",
+    "Laundry service",
+    "Parking garage",
+    "Non-smoking hotel",
+    "Shared kitchen",
+    "Shared lounge / TV area",
+    "ATM on site",
+    "Air conditioning",
+    "Housekeeping",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Good value ",
+      "text": "I spent a week here in a room on the top floor & paid a lot less than I would have done for a hotel. The location is handy for downtown if you’re used to walking. Free breakfast is included from 7.30 AM & is cafeteria style. When I stayed there were groups of young people on some kind is summer educational programme meaning long queues for breakfast at some times. But this was no big deal. The room was large & although WiFi was only available in common areas (which have a fridge & microwave) there are internet cables to connect in room if you have a laptop. A Tim Hortons is very close by & various cafes & shops are close too. Recommended if you’re on a budget & not expecting the Ritz.",
+      "rate": 4.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Overnight to Toronto",
+      "text": "Got this place on the cheap compared to other places that were sky high.   Got parking below for a 24 fee.   The rooms are ok for just a night sleep pillows little thin but oh well.   There is shower and full bathroom in each room..awesome ac my room was frigid had to turn it off.   There is Wi-Fi in hall way and common room but not in your rooms.   Breakfast is bland but functional.   Overall ok place esp price and you are in downtown Toronto and can reach everything on foot.",
+      "rate": 3.0,
+      "tripDate": " July 2017"
+    },
+    {
+      "title": "Save money but pay for it in basic comforts",
+      "text": "This 'hotel' lies somewhere between a college dorm and a 1970s two-star hotel. On the bright side, because Toronto is so expensive, this hotel provides an invaluable service by making it possible for average people and academics to stay in Toronto with affordable options. Also, generally the hotel seems very clean, including the rooms, and has a cafeteria and other amenities that are useful. The location is also perfect if you need to be in the core downtown area. The downside is that rooms have no amenities, unless you count a private bathroom as an amenity. Rooms are small with a desk and closet (this part does look like a dorm). Bed linens are clean but very dated. One of the lounge rooms on the main floor has been redone (although not in a welcoming style), but otherwise the lobby and rooms look like something out of a 1980s time capsule. Blonde worn oak and upholstery so old that it looks scary (dirty, sagging, threadbare) that you fear catching something if you sit on it, and a sad purple-pink colour palette are amongst the highlights. The bedrooms have windows that open and lots of light. They do not, however, have coffee makers, hair dryers, televisions, or really anything else other than the bed, the desk, closet, a worn old loveseat, and wall lamps. Again, this site serves an important service, but it is a 'use at your own risk,' kind of benefit. Lastly, it doesn't seem to be near the majority of Ryerson University buildings, so the location is not terribly convenient. There is a Tim Horton's right next door though, which you'll need because you won't have coffee in your room.",
+      "rate": 2.0,
+      "tripDate": " May 2017"
+    }
+  ]
+}

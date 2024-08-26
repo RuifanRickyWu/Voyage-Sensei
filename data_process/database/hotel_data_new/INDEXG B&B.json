@@ -1,0 +1,276 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "INDEXG B&B",
+    "url": "/Hotel_Review-g155019-d1200596-Reviews-INDEXG_B_B-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 83
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "48 Gladstone Ave 3rd Floor",
+      "addressLocality": "Toronto",
+      "postalCode": "M6J 3K6",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a1/d1/75/caption.jpg?w=500&h=-1&s=1"
+  },
+  "description": "INDEX G B&B is a 5 bedrooms Contemporary styleBed and Breakfast, located at the Queen West Art and Design district in Downtown Toronto.Great location at affordable price.We are just a short walk to various art galleries, restaurants, bars, cafe, shops and much more.Public transit almost right at door steps. Dufferin bus stop is a few steps away and 1 minute walk to the 24 hours Queen streetcar stop.",
+  "featues": [
+    "Parking",
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Baggage storage",
+    "Non-smoking hotel",
+    "Air conditioning",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "A lovely home away from home",
+      "text": "The host are really kind. The room is properly furnished and cared for. The location is excellent, very close to Queen St West and Ossington area, where many fine dining restaurants and cocktail lounges are located. The area is lively but the hotel is quiet and cozy. I enjoyed my stay very much.",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Rolling loud 2022",
+      "text": "Was an amazing place, clean and safe.  Holly was a great host!! It was only a 30 minute walk or a $12 Uber to get to Ontario place/bud stage.  Price was amazing!!  Our room was super clean and comfy.  Had our own on suite.  Lots of great restaurants near by.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Nice Place, Nice People",
+      "text": "This is the kind of place like to find on my travels.  A bit unusual and a refreshing change from the Holiday Inn's and other chains.  Good value too.  Nice enough room and breakfast served in the owners gallery, all very pleasant.  I would much rather see my cash go to hard working people in this kind of place rather than giving it to faceless corporates.",
+      "rate": 5.0,
+      "tripDate": " March 2011"
+    },
+    {
+      "title": "Noisiest B&B in Town... and a bit unfriendly too",
+      "text": "To be fair the rooms are nice, but the walls are so paper-thin you can hear people chatting- even whispering- in all of the adjacent rooms... forget about it if they raise their voices or come home late at night.  We're sound sleepers and were woken constantly.  One of the hosts is pretty unfriendly and the breakfast is poor- they should probably just do away with it altogether.  The location is good and the rooms are nice, but considering the downsides that's just not enough.",
+      "rate": 2.0,
+      "tripDate": " February 2011"
+    },
+    {
+      "title": "Perfect",
+      "text": "As others have said the rooms were extremely clean and well maintained. It was close to street cars and shopping. The off street parking spot was a bargain at $10 a night. Breakfast was great and the gallery space was full of light and had a wonderful relaxing feeling. I would recommend staying here to everyone.",
+      "rate": 5.0,
+      "tripDate": " May 2012"
+    },
+    {
+      "title": "Great location, great hosts, but a little noisy...",
+      "text": "Found IndexG B&B online and decided to book with them based on good reviews, location and the fact that it's part of an art gallery.  Upon arrival, we were not disappointed -- great space, great location (Gladstone & Drake hotels very close by, as well as lots of great Queen St. shopping & restaurants).  The room was modern and clean, with a very comfortable bed.  The only thing that prevented us from fully appreciating this B&B were the paper-thin walls & door.  We could hear our neighbours perfectly and if they decided to get up at 6am, we were forced to as well.  Sleeping in was virtually impossible.  We also felt compelled to whisper as we could make out conversations in the next room.  It's unfortunate because if the walls had been properly insulated and better-quality doors installed when the renovations were done, this would be a non-issue.Bottom line: if you want a convenient, interesting and vibrant location with an affordable price tag and you don't mind noise from your neighbours... go for it.",
+      "rate": 3.0,
+      "tripDate": " September 2008"
+    },
+    {
+      "title": "Highly recommended B&B accommodation in Toronto",
+      "text": "I stayed eleven nights with gracious hosts Holly and her husband. This was the perfect base for my Toronto visit. Streetcar was less than five minute walk away and subway station less that ten minutes on street car.  I could not fault my stay at indexg, my room was spacious and immaculately clean. The breakfast was substantial enough to keep me satisfied until lunch. One morning Holly had even made fresh wonderful scrumptious blueberry and cinnamon muffins for the guests.. Delicious. I needed an adaptor for an appliance and was given one to use for the duration of my stay.. They couldn't have been more helpful and never intrusive.  I cannot recommend this B&B highly enough!",
+      "rate": 5.0,
+      "tripDate": " February 2012"
+    },
+    {
+      "title": "Fine Gem ",
+      "text": "My wife & I have stayed here now four times during our travels to Toronto. Lovely place to stay, nice light breakfast in the morning and very good communication with Holly.  Location is a block from Queen Street where you will fine many restaurants and all kinds of shopping. Highly recommended.",
+      "rate": 5.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "Great place to stay in Queens West area of Toronto",
+      "text": "This was a great place to stay when we visited our son in Toronto. It's in a great location and close to street cars and bus lines.  The place is absolutely spotless.  The decor is modern. Holly, the owner,  was a joy. The breakfasts were simple. A place to park your car is available for a reasonable $10 per day. I plan on staying here again on our next visit.",
+      "rate": 4.0,
+      "tripDate": " July 2014"
+    },
+    {
+      "title": "unique art pieces at very affordable prices",
+      "text": "The rooms are really stylish, clean and comfortable. Breakfast is healthy, simple, delicious. But best of all is the art shop and gallery attached where you can pick up original artworks from local artists at really affordable prices - from small lino cuts to painted wooden blocks, photographs and jewellery. This is a wonderful little corner of artisticToronto and everyone should be encouraged to turn off the main drag and find it!",
+      "rate": 5.0,
+      "tripDate": " February 2014"
+    },
+    {
+      "title": "Quiet luxury",
+      "text": "This little place has none of the \"extras\" that I don't need or want, like daily housekeeping, a huge TV, deep carpets, fun-size toiletries or nylon bedding. In their place are much nicer amenities, such as firm mattresses, gorgeous sheets and towels, handsome and splinter-free wood floors, a wide selection of local magazines and newspapers, serious water pressure in the shower, bulk toiletries--soap and shampoo--in a dispenser, two real water glasses, a huge desk, free wireless, generous Continental breakfast of yogourt, fruit, spreads, fresh bread, bagels, cereals, milk, juice, served in the first-floor art gallery at small individual tables.Amazingly, IndexG is one short block from the 501 streetcar but is so quiet that my companion and I slept for ten hours straight, both nights. (For first-time Toronto visitors: the 501 runs up and down Queen Street, basically bisecting the city.)The owners, the Lee family, live on the third floor and are born inn-keepers, with just the right amounts of discretion and helpfulness. Holly and her husband are professional photographers, and the images which amply illustrate their website don't lie.There are five rooms; we went with Gracias, and I think I'd like to try Ginger next. Not sure whether there's an elevator, but the Lees carried our bags up to our second-floor room unasked.",
+      "rate": 5.0,
+      "tripDate": " July 2009"
+    },
+    {
+      "title": "A little gem a stone's throw away from the well beaten track!",
+      "text": "My positive experience of dealing with IndexG started off with communicating with Holly leading up to my visit.  She was consistently friendly, kind and gracious in all our communications.  Holly was extremely helpful and clearly committed to ensuring that my planning for my stay was seamless.  I am referring here to my queries about transport, accepting deliveries and detailed invoices I needed to support visa application. Also, I needed to check in a bit early. Done!Fast forward to my arrival. The exterior of the building is a bit deceptive as it is a dull grey and looks a bit uninviting, however on stepping inside Holly, then owner, welcomed me warmly, showed me my room and explained a bit about the neighbourhood and getting around. My room was lovely, spacious and clean with a equally spacious and modern bathroom.  Overall, it was comfortable and conducive to relaxing on the bed watching TV or working at the desk.The location is cool too.  IndexG is just a block from the Queen Street which is where one can access a street car to get to the centre of the city, or one can easily walk there whilst taking in the lively streets with restaurants, bars and shops.  The location is convenient and works. To be fair to those who will read this review, the breakfast is functional at best consisting of fruit, cereal, oats, bread and tea/coffee. It was fine for me as I am not a big breakfast person, but can imagine that someone who always wants to feel a bit pampered when away from home might be a bit disappointed.  That said, left to chose between a \"fancy\" breakfast of bacon, eggs etc and an overall price increase versus an affordable, pleasant and predictable place, I would opt for the latter. Finally, IndexG is a gem of an option if you're a no fuss person who appreciates homeliness, convenience and genuine hospitality.  I would happily stay here again.  The price is right, the rooms are clean, tastefully put together with lots of art and the stay very comfortable. Thank you Holly, you're a great host!",
+      "rate": 5.0,
+      "tripDate": " June 2018"
+    },
+    {
+      "title": "A great stay! ",
+      "text": "I really enjoyed my stay at IndexG! The gallery tour was really memorable, the hosts were lovely and the room and breakfast were very good! It was a great alternative to paying a lot more to stay at the nearby Gladstone hotel.",
+      "rate": 5.0,
+      "tripDate": " October 2017"
+    },
+    {
+      "title": "Efficient, convenient and affordable",
+      "text": "The description of this b&b on its web site is totally exact and the rooms are as in the photographs. Communications with the owners are efficient and cordial. The B&B is conveniently located in terms of public transit and the area is in an interesting stage of rehabilitation (still affordable, but lively with good services). The price is low for Toronto. The rooms are functional and modern style and the whole place is extremely clean. Do not be put off by the type of building: the owners rebuilt it from the inside.",
+      "rate": 4.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Quiet, clean and comfortable ",
+      "text": "This is a great place to stay. It is located on a quiet street and is  close to public transit, restaurants and there is a grocery store right across the street. The owner was very nice and the rooms have unique pieces of art as decoration. It's lovely.",
+      "rate": 5.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "A Unique and Charming B+B!",
+      "text": "Staying at the IndexG B+B is like staying in an actual art gallery with the artists! What an inspiring and fantastic experience! The B+B is lovely and exquisitely decorated. Holly and Lee are so friendly and helpful. The room and breakfast, it was all superb. There's an extra charge for housekeeping but I was fine doing without that service. You don't really need it.An excellent price in a top location with fantastic, kind people. They showed me around the art gallery, their studio and the gallery shop. Amazing!",
+      "rate": 5.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "Clean, spacious, inexpensive, genial hosts",
+      "text": "If you are looking for a good clean room with an ensuite modern bathroom in a convenient location for a good price this is the place. It's located a block from a Queen Street bus stop -- you can get anywhere in town fairly easily. There are lots of small ethnic eateries a a short walk away. Neighborhood is quiet and safe. The hosts are pleasant and are available for consultation. That said, they are not intrusive. There is art everywhere in the house and in your room. Breakfast is minimal so plan on spending a few bucks on breakfast. It's still a great deal.",
+      "rate": 5.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "Clean, comfortable, convenient, artistic!",
+      "text": "The hosts are genial and are there when you need them. We stayed for four days. The price was very reasonable.All the rooms begin with G: Mine was Gemini and it was very clean with plenty of space, a comfortable bed and enough outlets. It has a few pictures and a spacious, uncluttered feel. The good-sized bathroom had a deep tub with soap and shampoo in dispensers. The towels were good, there was plenty of light.As explained on the Website: simple, serve-yourself breakfast. Cereal, yogurt, fruit, coffee, toast served in the downstairs gallery. No bed-making or room cleaning unless requested. So the room is completely your own.Great WiFi and AC.It's close to the streetcar and close to a bus stop. The Toronto transit system allows transfers between streetcars, subways, and buses. It's about half an hour to downtown Toronto. It's close to many small restaurants up and down Queen Street - all good - in a safe, artistic neighborhood. There's a small theater nearby.We're in our 70s, from a city where we use stairs and public transportation every day. So it was very much what we were used to. It was easy to catch a taxi back to the airport.",
+      "rate": 5.0,
+      "tripDate": " August 2016"
+    },
+    {
+      "title": "Very clean and comfortable rooms above a family run art gallery.",
+      "text": "The hosts are warm and welcoming and the location is quiet and convenient to public transportation. There are restaurants and shops in walking distance and a continental breakfast,with good coffee, is available in the pleasant gallery. I would definitely stay here again.",
+      "rate": 5.0,
+      "tripDate": " August 2016"
+    },
+    {
+      "title": "Clean room, great location, friendly family-run business",
+      "text": "I showed up late for check-in and received a warm welcome. The room was clean and comfortable and the location is very close to a fun part of town. I thought it was very neat that the family runs a gallery downstairs of some very cool art. Thanks for a great stay!",
+      "rate": 5.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "GREAT B&B",
+      "text": "Great Price -$10 parkGreat CleanlinessGreat location-Take Queen St. streetcar downtown--- easy Great hosts-ArtistsGreat rooms--Modern decor nice ammenities. Quiet. Air conditioned.Delicious simple breakfast--loved the marmalade, bread,cereal,coffee,etc.",
+      "rate": 5.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Great place",
+      "text": "We stayed for 3 nights at index g and couldn't have asked for a nicer stay. Holly and Lee were great hosts- we even had an embarrassing incident where we forgot our keys one night and Lee graciously let us in at 2am. Eating breakfast in the gallery was a great cultural experience too, especially given the hosts involvement in the toronto art scene. Couldn't recommend this place enough.",
+      "rate": 5.0,
+      "tripDate": " September 2012"
+    },
+    {
+      "title": "Good stay",
+      "text": "The location is good, in the art district of Toronto. But \"downtown\" is some distance away (we rented bikes). As has been said before the hosts are very kind and helpful. For breakfast they offer a variety of things like fruit, cereals and bread. Our room was clean, bright and roomy. Caveat: The A/C is centrally regulated for all rooms. While I did like the temperature in the evening it got a bit too cold for me in the night. You can tell them if you don't like the temperature but as I said I noticed a little too late.",
+      "rate": 4.0,
+      "tripDate": " September 2012"
+    },
+    {
+      "title": "Sweet, stylish, chill",
+      "text": "It doesn't get better than IndexG for location, ambiance, style, and value.  Holly and Lee are gracious, lovely, and welcoming artists/innkeepers, who have obviously conceptualized and designed a B&B that exudes calm and uncomplicated elegance.  IndexG is immaculate, clearly lovingly maintained, and the art gallery aesthetic prevails throughout, including the B&B rooms and hallways.  Beds and linens, bathrooms, simple amenities (such as wifi)--all are excellent.  A fine breakfast is served in a bright and airy gallery space, and we found it particularly pleasurable to start the day surrounded by art.  There is nothing fussy or intrusive about this B&B.  Rather, it is a stylish and wonderfully understated establishment that is one of the city's most outstanding values for accommodation.  The area of West Queen West/Parkdale has become trendy (as evidenced by the Gladstone and Drake hotels, in particular) , and there are numerous and excellent bars, restaurants, galleries, and shops to recommend the location of IndexG.  Whether you are venturing up to the restaurants along west College Street, or eastward along Queen to the downtown core, the B&B is truly a brilliant location.  I'm a Torontonian, born and raised, now living in Vancouver, and on my return visits, I would not stay in any accommodation other than IndexG.",
+      "rate": 5.0,
+      "tripDate": " July 2012"
+    },
+    {
+      "title": "Benefits of a Boutique hotel but prices of a Bed & Breakfast",
+      "text": "Toronto can often be a mix of big chain hotels and expensive boutique accommodations.  If you are looking for a great alternative you should check out IndexG Bed and Breakfast.  I stayed there a few weeks ago and was pleasantly surprised.Location, location, location.  If you are looking for a spot that is in the trendy West Queen West area of Toronto near that is close to the Posh Gladstone or Drake hotels then this is your budget conscious alternative.  It is one block north of the Gladstone hotel which makes the amenities of Queen Street West easily in reach along with the trolley cards, buses and taxi routes.Style and Uniqueness.  The IndexG has 5 rooms that are each different.  With a cool art gallery on the mainfloor with work from Toronto artists and the photographic work of the owners many pieces have moved from the Gallery into the hallways and rooms of this B&B giving it an eclectic warm feeling like coming home.  Breakfast is served in the art gallery each morning and is a nice continental spread.  Sip your morning coffee while checking out the artists’ work.Value and Friendliness.  The B&B is run by hosts Holly and Lee and they could not be any more welcoming.  Friendly, helpful and very accommodating they made my experience during my stay.  They helped me arrange an airport taxi and took interest in the work that brought me to town.  At half the price of the Gladstone with three times the friendliness you can’t ask for any better value.Finishing Touches.  On top of this, the beds were very comfortable, rooms were spacious, modern décor adorned the rooms and a welcome book covered off on all the details that you still pondered.  Free Wifi, cable tv, large tub and shower and coffee down the hall were all the finishing touches I needed for my stay.  What more can I say but I will definitely be back to stay here again.  Enjoy the few photos I snapped during my stay.  Say Hi to Holly and Lee for me if you choose to stay.",
+      "rate": 5.0,
+      "tripDate": " October 2011"
+    },
+    {
+      "title": "Home away home",
+      "text": "Our home away from home when we come from Montreal to visit Toronto. The place is in a great location near trendy Toronto downtown area, but in a quiet surrounding. It attracts very nice clientele that we often chit chat with while having breakfast at the downstairs photo gallery. The owners are very friendly and they keep the place very clean and in good condition. The price goes well with the overall coziness.",
+      "rate": 5.0,
+      "tripDate": " September 2011"
+    },
+    {
+      "title": "Perfect Place to stay in Toronto",
+      "text": "My husband and I had never been to Toronto before, but after some research we decided that West Queen West would fit our needs best due to the fact that we like to stay away from super touristy areas.  The location couldn't be better with the streetcar right at the end of the street.  The area is also full of great shops and restaurants.The Bed and Breakfast itself met and exceeded all of our needs and expectations.  Besides location, the rooms were spacious, comfortable and quiet.  Breakfast was delicious and just what we wanted in the morning.  The breakfast included breads, some fruits (including kiwis one morning, my favorite!), cereals, yogurt and coffee and tea.  Enough to power us through for some sightseeing around the city.  The owners were incredibly hospitable and helpful.  I can't say enough great things about this B&B and would definitely stay again.",
+      "rate": 5.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "Perfect",
+      "text": "I spent 5 days in Toronto with my husband. We stayed at the Indexg B&B during our stay. Our experience was nothing but perfect. Rooms are accurate, clean and charming. The location is very good even if you haven't a car because streetcars and buses are just round the corner. The neighborood is very nice: the district hosts several art galleries. Even the ground floor of the Indexg b&b is an exposition gallery. Guests can have breakfast right in the gallery, taste the homemade breads or muffins and enjoy the company of the owners that are nice and friendly.",
+      "rate": 5.0,
+      "tripDate": " October 2010"
+    },
+    {
+      "title": "A great place to stay in Toronto",
+      "text": "I spent two weeks at this bed and breakfast and would highly recommend it. The owners are lovely people and the room was perfect. The room was small but comfortable and very clean. The bed was also very comfortable. The decor and photographs on the walls added charm. I hope I will get to stay here again.",
+      "rate": 5.0,
+      "tripDate": " June 2010"
+    },
+    {
+      "title": "Like staying in a boutique hotel",
+      "text": "Clean, comfortable trendy room. Amazing owners Holly and Lee. Perfect breakfast. Great art gallery. We highly recommend this B&B.",
+      "rate": 5.0,
+      "tripDate": " May 2010"
+    },
+    {
+      "title": "Lovely place to stay",
+      "text": "We didn't arrive at Index until about 1.15 am (our flight had been delayed for over 4 hours) but the owner, KS Lee, waited up for us and made us feel very welcome.  Holly, his wife, was also very welcoming and helpful, when we met her at breakfast the following morning.  She provided maps of Toronto and lots of travel tips, as this was our first visit to the city. A streetcar goes from the road end into the centre of Toronto and we also found it fairly easy to get to Union St Station for a trip to Niagara Falls.There was no charge to use the phone and taxi recommendations were provided. The only slight negative was the limited breakfast choice.On the whole, this is a lovely place to stay, when visiting Toronto.",
+      "rate": 5.0,
+      "tripDate": " July 2011"
+    },
+    {
+      "title": "best",
+      "text": "We found this b&b by chance while searching for a place to stay in Toronto. We didn't know anything about this side of town (Queen West) and lucked out from beginning to end. The rooms are as you see on their website. Very clean! Notes are left everywhere by the owners, Holly and KS Lee, so we knew where to leave used mugs, how to work the water filter to get hot water, etc The only time we had any contact with them was during breakfast at the gallery and when we needed more toilet paper :-) We had a very relaxing stay. Their location was perfect as they are close to streetcars and buses (you can pick up a Day Pass for CAN$10 per person at the Gladstone Hotel at the corner of Gladstone and Queen West) and there are plenty of shops and really good restaurants within walking distance. Their website is very informative and it helped us plan our stay. Holly recommended the Hoof Cafe on Dundas (which we got to try on their last day as a brunch cafe) and that started our memorable food adventure in the city. We will definitely stay there again when we go back.",
+      "rate": 5.0,
+      "tripDate": " March 2011"
+    },
+    {
+      "title": "Simply Lovely",
+      "text": "My husband and I stayed here for a few days and it was just as it was described.  Accommodations are clean, simple and modern; this was just what we were looking for in a B&B.  The gallery and breakfast were a nice added touch.  We loved the location which was close to the artsy and hip area of town; there are plenty of shops and restaurants in walking distance.  The owners are lovely people and made our stay enjoyable.  We will be back next time we are in Toronto.",
+      "rate": 5.0,
+      "tripDate": " December 2010"
+    },
+    {
+      "title": "A treasure",
+      "text": "Holly and her husband are lovely hosts. The building is really great and the rooms large and comfortable. All rooms have a private bathroom en-suite except the Ginger room which we had but the Ginger room has a private washroom and shower in the adjacent hall way and it was really very private. To be able to have a clean comfortable and very well located Toronto accommodation for such a good price is a treasure!",
+      "rate": 5.0,
+      "tripDate": " August 2016"
+    },
+    {
+      "title": "Very grateful visitors",
+      "text": "We were so pleased with Holly and Lee's hospitality that we would certainly return to IndexG whenever we travel to Toronto.The rooms were neat and clean, and adequate for our stay, and we stayed 4 nights. Brenlee Werner on behalf of the whole family.",
+      "rate": 5.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Comfortable Queen West hideaway",
+      "text": "Tucked up on Gladstone just north of the Gladstone Hotel, in Toronto's hip Queen West neighbourhood, Indexg B&B is reasonably priced, comfy and impeccably clean. Holly and Lee couldn't be better hosts, and the art gallery downstairs lends the upstairs accommodations the feel of an unusually luxurious artist's garret. Highly recommended.",
+      "rate": 5.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "the art of the B&B",
+      "text": "Our friends recommended IndexGB&B and we are so happy we were able to get a room. Gracious hosts and a lovely space. The art gallery and shop, which is also your breakfast room, is wonderful and a beautiful way to start your morning. And I bought some lovely jewelry and small photograph prints from the owners. Lee's images are fantastic. And the location is great if your want to be away from the downtown but still close to it.",
+      "rate": 5.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Delightful Stay",
+      "text": "Holly and Lee provide a peaceful refuge in the heart of the city.  They are very thoughtful inn keepers - breakfast is surrounded by art of all kinds and, often, there are interesting guests who choose to stay in this unique setting as well.  This is definitely a place that we would always return to.  We wish you continued success and hope to visit you again soon.",
+      "rate": 5.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "A Book and Its Cover",
+      "text": "All the previous positive reviews about this little gem are so correct. The neighbourhood is changing but like most spots in Canada all pretty safe so we felt completely at ease staying here. Holly and Lee are very gracious hosts and the facilities were warm, clean and comforting. Remember that other hotels in the area can exceed 300.00 per night. We parked our car in their driveway with no problems. If coming by the 401 trust your GPS to get you through town to the Gardiner Xpressway even if seems you might be heading the other way. If driving around stay off Queen St as it is very busy with streetcars and cars. Get the TTC app for your phone as it tells when the next streetcar will come. We will stay here again for sure.",
+      "rate": 4.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "Stay here every year",
+      "text": "We've stayed here three times now. Great location, great price and amazing hosts. Rooms are clean, ample, comfortable and attractive. B&B hosts are super helpful, but also non-obtrusive. I wish all inns were like this.",
+      "rate": 5.0,
+      "tripDate": " October 2014"
+    }
+  ]
+}

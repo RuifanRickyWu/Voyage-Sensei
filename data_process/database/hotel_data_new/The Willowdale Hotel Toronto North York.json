@@ -1,0 +1,146 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "The Willowdale Hotel Toronto North York",
+    "url": "/Hotel_Review-g155019-d596036-Reviews-The_Willowdale_Hotel_Toronto_North_York-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.0",
+      "reviewCount": 14
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "170 Willowdale Ave",
+      "addressLocality": "Toronto",
+      "postalCode": "M2N 4Y6",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/42/bc/57/the-willowdale-hotel.jpg?w=500&h=-1&s=1"
+  },
+  "description": "The Willowdale Hotel is a triple diamond rated boutique hotel located near Yonge & Sheppard on Willowdale Avenue. The Hotel consists of Bachelor, One & Two Bedroom Suites suitable for Business or Leisure. Join us for a safe, private and comfortable stay. With many thoughtful amenities, the best possible rates and amazing service, your Satisfaction is Guaranteed!",
+  "featues": [
+    "Free parking",
+    "Paid public parking nearby",
+    "Free High Speed Internet (WiFi)",
+    "Complimentary Instant Coffee",
+    "24-hour security",
+    "Baggage storage",
+    "24-hour check-in",
+    "24-hour front desk",
+    "Wifi",
+    "Complimentary tea",
+    "Vending machine",
+    "Non-smoking hotel",
+    "Blackout curtains",
+    "Bathrobes",
+    "Air conditioning",
+    "Desk",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Sofa bed",
+    "Bath / shower",
+    "Housekeeping",
+    "Safe",
+    "Separate living room",
+    "Sofa",
+    "Telephone",
+    "Wardrobe / closet",
+    "Bottled water",
+    "Clothes rack",
+    "Iron",
+    "Laptop safe",
+    "Private bathrooms",
+    "Tile / marble floor",
+    "Wake-up service / alarm clock",
+    "Kitchenette",
+    "Microwave",
+    "Refrigerator",
+    "Flatscreen TV",
+    "Radio",
+    "iPod docking station",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "NOT RECOMMENDED",
+      "text": "There were too many negatives to give this hotel a rating over poor.  We stayed on the 100-level, which meant there was only one window in one of the rooms and it was at street level so I felt like I was in a basement.  The staff did greet us with a smile, which is nice.  Staff was not appropriately knowledgeable about the area.  For example, we asked how to travel via public transportation to Toronto and was directed to a subway station a couple of miles a way and suggested we take an uber or two busses.  We learned on our own that there was a subway station 3/4 of a mile away which we walked to or required a much less expensive uber fare.  The bed was fairly comfortable.  The bathroom was small and is in great need of a deep cleaning and/or an appearance refresh.  We found grime around the rim of the toilet  - the kind that accumulates without regular cleaning beneath the rim.  I was told at check-in that we would get daily housekeeping.  However, on day 2 we did not and that was a huge disappointment.  Additionally, the television in the \"living room\" was inoperable because it had no sound.   When I pay for a hotel, I expect to receive what is in the contract; a bed, operable amenities available and housekeeping promised.  The most disappointing aspect was that I had to ask for an adjustment on the bill. Staff was aware of our issues and did not act proactively to offer us financial renumeration.  We were given 25% off one night's stay which amounted to less than 10% off our total bill.  I think we did not receive 90% of what we paid for and the financial abatement is seriously insufficient.  I feel really cheated.",
+      "rate": 2.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Clean Option in Residential Neighborhood",
+      "text": "We had a nice stay here. It is a clean hotel with convenient parking and friendly staff. The room was plenty big, which was great when traveling with a baby. It was pretty quiet as well. The main problem is that it isn’t very conveniently located. We had to walk about 15 minutes each time to the nearest subway stop. We did get to walk through a park, which was nice. There wasn’t really much food closer. The price was good but it was a bit of a hassle with a baby. It probably would have been fine if it was just adults and you are comfortable with public transit.",
+      "rate": 4.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Small scale in North York",
+      "text": "This small scale hotel provides all the amenities of a large scale property, minus things like a fitness room or pool. The sheets and towels are first rate as are the toiletries provided. Unfortunately there was construction outside our side of the hotel while we were there, so being woken up by the workers at 7:45 am was rude. It should be over in a week. The kitchenette and supplies were what we needed to have our own coffee & cereal in the morning. The 2 Nd night there were people upstairs, which is not a good thing. You can hear the footsteps and things falling and the shower running. So, this was a good place during COVID because it’s so small. On the other hand, if you’re sensitive to noise, it can have its drawbacks.",
+      "rate": 4.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "GARBAGE!!",
+      "text": "Me and my wife stayed here just for to nights and guess what, apart of bad bugs, noises, garbage smell and worst  room ever they lied about free parking! On the very first day they simply pulled the ticket of windshield so you wouldn’t even know you got one. However before leaving I got another one that I brought to receptionist and she said it is already being taken care of. Lies lies lies. This is literally the worst place I have ever stayed in and know I am willing to spend my entire time to sue this bunch if loosers and make them pay for everything they did.",
+      "rate": 1.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Depressing and drab. Not at all as pictured",
+      "text": "This place is drab, no elevators, and nobody will help you lug your suitcases up those stairs. When you get in the room it's clean, but it's drab and creepy. For $150 a night this is WAY overpriced. The pictures on the website do not show you what the rooms really look like. When I got to my floor, I just got a depressed, low feeling and just wanted to go to sleep so I could get the heck out of there in the AM. Rude lady at the front desk if you come in late at night.",
+      "rate": 2.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Close but nope.",
+      "text": "This could be a little gem, but it isn’t.  The good; location is decent if you have a car, staff were polite and helpful, actual bed was comfortable.  The bad: could have been cleaner, power cord run under doorway to bring power to the desk, badly frayed towels, no elevator to second floor, parking was awkward (hoping we didn’t get tickets like some people did in reviews!), sofa bed was terrible, walls are fairly thin (but people were quiet so not an issue).  Overpriced for what it offered, so we won’t be back.",
+      "rate": 2.0,
+      "tripDate": " January 2024"
+    },
+    {
+      "title": "Free parking lol! Not!",
+      "text": "They went around and collected parking tickets off guests cars without them knowing we received two in the same day lucky the wife caught them taking ticket when asked what was happening they said they would pay. fast-forward one month latter surprise city of Toronto notices sent by mail saying we owe money for two tickets what a bunch of liars.",
+      "rate": 1.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "A home away from home",
+      "text": "Had family over for a surprise birthday and booked this place as it was close to home. It was perfect for a short stay with sitting area and microwave and kettle which was convenient for the older couple.",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Nice room friendly staff",
+      "text": "Stayed 2 nights.  15 minute walk to subway or take the bus down shepard to Yonge.  A few eating choices close to the hotel.  Bed was a bit on the hard side for me fine for my wife,  Room had microwave and fridge and a door separating the bedroom.  Decor was average price was good for Toronto.",
+      "rate": 3.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "One night stay at Willowdale Hotel",
+      "text": "My wife an I stayed at Willowdale hotel for one night, November 4, 2020. Their webpage had a link for questions from customers. I used that link and they responded very quickly.  We booked a one-bed-roomed suite. I had to book for two nights because my check-in time was in the morning but I think their prices are reasonable. Check-in and check-out were quick. The suit was clean. This is a very small hotel but all the necessary items, a fridge, two TVs, microwave, coffee maker (and coffee), mugs, glasses, plates were there. It was quiet.  Fort office staff were nice. I don’t think they have a restaurant in the hotel but there were a few restaurants (and a Tim Horton’s) close to the hotel, within a 10-15-minute walk. They provide free WI FI.  WI FI was available at the beginning but stopped after about 5 hours. I called front office. The lady at the front deck offered some suggestions but they didn’t help. She also asked me to call if I need further help, but I though I will use that time with my other work that doesn't require WI FI.Overall, my wife and I were happy about the stay and we will definitely come back if we need again.",
+      "rate": 4.0,
+      "tripDate": " November 2020"
+    },
+    {
+      "title": "Cheap, good location",
+      "text": "This place is dated, and it shows. The rooms are average, although they have pretty good space. There isn't much parking available. It's a cost effective place if your destination is the North York area.",
+      "rate": 3.0,
+      "tripDate": " December 2018"
+    },
+    {
+      "title": "Nice little place",
+      "text": "Stayed in a first floor suite.  It looked clean and updated.  The suite included a kitchenette with plates, cups, utensils and two free bottles of water (nice touch).  It had a microwave, small fridge and kurig machine.  In the same room there was a couch and coffee table, tv and desk.  Bathroom off to the side and a seperate bedroom with another tv.  We could hear the people above us when they were speaking and walking around relatively clearly.  The bathroom walls need to be wiped down as each one had water stains.There was free parking but only for 7 cars and it was first come first serve.Overall a nice place great location.  Lots of amenities within walking distance.",
+      "rate": 3.0,
+      "tripDate": " April 2019"
+    }
+  ]
+}

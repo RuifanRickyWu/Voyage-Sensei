@@ -1,0 +1,286 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Sonder The Beverley",
+    "url": "/Hotel_Review-g155019-d4713238-Reviews-Sonder_The_Beverley-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 261
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "335 Queen St W",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 2A4",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/1a/a6/e2/sonder-the-beverley.jpg?w=500&h=-1&s=1"
+  },
+  "description": "In the heart of Queen West — one of Toronto's trendiest neighborhoods — The Beverley beckons with its stylish, minimalist design and cozy yet functional rooms. Relax on the rooftop or step outside and discover a vibrant mix of contemporary galleries, bustling nightlife, and indie boutiques. Queen West Street is a hub for upcoming artists and diverse dining. No matter what brings you to the city, it all starts with an unforgettable stay at The Beverley. There is cable, room service, laundry facilities, or on-site parking. Limited elevator service is available from 8 am to 8 pm and is located inside the Good Behaviour restaurant.",
+  "featues": [
+    "Paid public parking nearby",
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Concierge",
+    "Non-smoking hotel",
+    "Outdoor furniture",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Air conditioning",
+    "Private bathrooms",
+    "Electric kettle",
+    "Flatscreen TV",
+    "Bath / shower",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Great location “posh” hotel with San Francisco vibe",
+      "text": "This hotel is the perfect location. It’s within walking distance of many restaurants and tourist attractions. The hotel itself is very hip. I’d say it’s more single hipster style than it is “family” but it’s not inappropriate for children or anything. It is very small, rooms are small but the small room is nice in the winter when the space heaters can only warm small spaces. By the pricing you know you’re not going to get a luxury hotel. What you do get is a room with a nice soft bed, a shower with good hot water and a sink to keep you fresh. The staff was very friendly. The coffee bar was great. Just be aware the elevator moves at glacial speed so if you have any disabilities that prevent you from taking the stairs but prepared to have a long day going up and down to your room. This is the kind of hotel I use to see in San Francisco. Very hipster style. There are several yoga or fitness boot camps close to this hotel as well and there is a drug store/ convenience store just across the street. I really enjoyed this hotel but I was here solo and I can imagine that if I had another guest with me I would have felt crammed. But I didn’t have another guest so I had a blast here!",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Sonder The Beverley",
+      "text": "The room itself is beautiful. We had the queen room which overlooked Queen street. Plenty of room and space. The bathroom was big but no bathtub. The water system took a while to heat up and sometimes it didn’t at all which was not ideal in winter! There was someone staying in the room above us and they would make a lot of noise around 10pm-12am which was a nuisance but other than that we hardly heard them. Extra amenities such as towels, shampoo etc was available on another floor as no room service.",
+      "rate": 3.0,
+      "tripDate": " January 2024"
+    },
+    {
+      "title": "Couples visit",
+      "text": "We easily found the Sonder and used the code they sent us to gain access. We were quite taken aback at the tiny little windowless room however it was very clean and modern and contained everything we needed for our 3 nights stay. Not so so easy for me being almost 70 to carry my suitcase up to the third floor as there was no lift/elevator",
+      "rate": 4.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Stylish and cozy in the heart of downtown",
+      "text": "Lovely little boutique hotel. Simple design and ideal for city trips. Cozy and clean. Highly recommended as the pricing is fair and location is perfect. Great restaurants and shops nearby. Check in very easy and efficient. Even had an extra heater in the room.",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "First Sonder Experience……..",
+      "text": "I recently travelled to downtown Toronto to watch a few blue jays games. Pricing for accommodations in this area are quite high and I noticed this Sonder property which is different from other hotel experiences I have encountered. I paid $101 canadian a night on Expedia which was the cheapest price I had saw in the area. The property is located on Queen street west and was a 12 minute walk to Rogers stadium and about 16 minutes walk to the train station called Union Station, there are numerous restaurants/bars/shops located all around this area. What makes this property unique from others is that there is no staff present at all, everything is done and completed through the Sonder app. The building is very old and narrow and has a coffee shop on the main floor and the Sonder property rooms are located up the narrow stairs on the 2nd & 3rd floors. I had requested a early check in as my flight was early but my 10:00 a.m. time request was denied and I was granted a check in time at 13:00 hrs. My room was ready to go at that time and the codes and instructions for the self check in were easy to navigate and caused no problems. My room was small and had a old feeling due to its age but it was clean enough and spacious enough for my solo trip. I found the bathroom large enough and it had one of those sliding barn doors on it, soap/shampoo/conditioner was supplied. There was a small mini fridge located in the closet and a roku tv hanging from the ceiling. The bed was very firm and there were numerous pillows provided. I didn’t encounter any issues with this stay and the room served it’s purpose. Those with mobility issues may have trouble getting up/down the stairs. In conclusion I found my first stay at Sonder a great success and I definitely would recommend this property and I will look at their other places when traveling.",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Best value in the city!",
+      "text": "I loved staying with Sonder. I booked the smallest room type which still had everything I needed (the pictures were accurate, plus the website showed the sq footage for each room and had a variety of room sizes at each location so I knew the room would be dorm room sized).The price is unbeatable, as is the location and the modern, clean rooms.  I liked that there is an app in place of a front desk and that there was a key code instead of a physical key (no need to forget it back in the room). I am so impressed with the entire process, from booking online to staying to check out. I will 100% use Sonder again.",
+      "rate": 5.0,
+      "tripDate": " June 2021"
+    },
+    {
+      "title": "Amazing stay and user experience",
+      "text": "The stay was excellent, the communication with the staff though the Sonder app was great and helpful, the staff at the hotel helped to figured out the keypad issue very fast. I used the app to request early checkin and late check-out and they both went through, very user-friendly and efficient way to modify my stay during COVID. The location of the hotel is convenient, in a busy area with plenty selections of restaurants nearby while provide a quiet environment during sleeping hours. In general the app was the most impressive part of my stay which I never had before with other hotels or travelling apps. The only thing I noticed is the wifi wasn’t that stable but I will definitely reconsider Sonder the next time I travel and I will recommend it to my friends.",
+      "rate": 5.0,
+      "tripDate": " December 2021"
+    },
+    {
+      "title": "Great Space, Amazing Location",
+      "text": "This room was everything I needed. It's small but if all you need is a place to sleep and tidy up, this is definitely for you. Being on Queen St was very convenient and allowed me to go anywhere in downtown Toronto at ease, especially for this price. Unfortunately the rooftop is closed right now due to weather but would've been a great addition to this stay.",
+      "rate": 5.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "Great location",
+      "text": "Stayed mid December 2022. Great location among small restaurants, walking distance to Union Station, Financial District, St Lawrence Market, 3.2 km walk to Distillery District, and 1.3 km walk to U-Toronto. Osgoode metro station 2-1/2 blocks away. We had the front room 4th floor overlooking the street. A couple of things, this is a walk-up, Elevator available when the ground floor restaurant is open. The one thing was the room was heated by portable heater, it was adequate running continuously. Staff dropped off extra blanket for the bed. We were fine. I would stay here again for location and price.",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Great price for location, everything you need!",
+      "text": "Great price for great location. Compact, but everything you need for a stay in the city. Would recommend also a big shout out to the cafe below as the staff were very friendly and super helpful when we needed use of a telephone!",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "LOUD",
+      "text": "I will start off my review stating that this hotel is in a great location, has friendly staff, and was very well priced. I 100% understood that it was a \"boutique\" hotel and that the rooms were super small and many without windows. I travel often so i am only interested in something that is posh, clean, with a comfortable bed. A room with a view is not high on my list. Peace and quiet, however, is. Unfortunately when the Beverly Hotel was renovated, they completely forgot to sound proof, anything. I mean it, i could hear the receptionist every time she answered the phone, checked in a guest, or typed on the computer. Verbatim. Even worse, i could hear the bar music from the restaurant on the first floor. Saturday night happened to be a private event and i could not tell you how loud my room was. I complained to the front desk, and just the fact that they had a large box of earplugs to offer was a big indication that this is a constant issue. My room was literally a night club, even with the earplugs in i could still feel the bass vibrating my room. It continued until 2am. Even worse (in my opinion) is that i could hear the guest in the room next to me using the restroom. It is very unfortunate because i thought the hotel was super cute and well designed. Unless they fix this unacceptable sound proofing issue, i would not recommend staying in this hotel; unless you can absolutely confirm that you will be in a room far from the receptionist and not directly over the bar. But then there is still those who will stay in the rooms next to you, and you will hear them. Sorry Beverly, i needed you for one thing, to sleep, and unfortunately that wasn't possible.",
+      "rate": 2.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "With so many choices, its impossible to recommend this hotel",
+      "text": "I could get past the small rooms, but the air conditioning doesn't work and it was quite noisy making it difficult to get a good nights sleep.  The staff however is amazing friendly which makes the stay a bit nicer.  But again, too many other choices.",
+      "rate": 1.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "Just Awful",
+      "text": "We stayed at \"boutique\" hotels in many cities like, New York, Hong Kong..etc. before but this one is shocking!!! Shockingly small room, shockingly small and uncomfortable bed, poorly air conditioned room; we were just Shocked at what we paid for!!! We bought an airline package for a 2 night stay at this hotel and my math tells me this room costed us at least $250-$300 and may be more!!!  Last night was our first night here and am praying for better sleep tonight!! Or may be we should just move on.....",
+      "rate": 1.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Just move on to another hotel!",
+      "text": "After 32 Hours of travelling, we got to the hotel and..... nobody to help carry the luggage.So we get in the elevator.. and it literally takes 50 to 60seconds to go up 1 Floor!!! We get our room.. and takes us around 7m to get to our floor, because the elevator is busy going up and down..Opening the door to our Double room, we noticed an opaque windows! (really?) and it is literally impossible to have 2 bags opened, because it is sooooo small... makes you feel claustrophobic. The A/C wasnt working properly either..We decided to have a nice warm shower after a long trip.. to our surprise this was something of a big mission. During the shower, there were moments that the water came out boiling, and suddenly a jet of ice cold water...I complained about the AC and they put in a small noisy fan to help circulate the air in that matchbox room. I also complained about the shower and the next day we had the same thing happening, so we requested for something to be done.The receptionist was very friendly and helpful, and directed the complain to the manager. She did suggest moving to another room. However, after talking to the manager, suddenly there was nothing that could be done and the plumber would have to come the next day...The manager on duty did not even make an effort to come and speak to us, so as we didnt want to be constantly complaining, we decided to move to a real hotel..We still paid for the night that we stayed though..I do not recommend this hotel at all... Resuming this experience:- Small and claustrophobic rooms with an opaque window with no space to open luggage- AC doesnt work properly- Shower with a defective output of hot water- Manager doesnt bother to give his face- Nobody to help with luggage- Elevator is a joke",
+      "rate": 1.0,
+      "tripDate": " July 2014"
+    },
+    {
+      "title": "No, no, no.",
+      "text": "So having read reviews it sounded great and just around the corner from people we were visiting.  Booked a suite which at best is the size of a normal hotel room - but no sofa - no coffee/tea, just a small desk.  But most bizarre thing is theb HUGE window from the room into bathroom and no door, just a curtain!! There is no opportunity to use the loo, shower or clean your teethwithout the other person in the room spectating - or the people facing you on queen/Beverley!Clearly the hotel thinks it's very hip but unless you've been in a relationship for a very long time and are completely cool with watching your fellow guests' every move in the bathroom, then is suggest you go somewhere else!  Photos to follow!",
+      "rate": 1.0,
+      "tripDate": " February 2014"
+    },
+    {
+      "title": "Substandard Experience",
+      "text": "I stayed at the Beverly because it was I was told it was in a great location and it had a cosmopolitan clientele. Living in NYC and LA, this sounded good to me. I walked in the front door and saw some fashionable looking folks walking out, but that was where it started to go downhill:1) The elevator in this 5 floor hotel did not work, I am not sure if it ever worked2) Wifi did not work in my room, which does not sound like a big deal but if you are a business traveler and you are traveling intentionally is can be expensive, it cost me $150 in roaming charges to get work done.3) The toilet ran all night, from a slow trickle to a loud squeal of the pipes on 15 minute intervals. I asked for a repair in the morning and it was still running when I came him the second night. I turned off the water in the room so I could sleep. 4) Construction started at 7am right outside my window each morning.5) The rooms are very small here, enough room for a bed with some room on the sides.6) The walls were thin enough that I  could hear the couple 2 rooms down having sex.7) my room had a window, but very few of the rooms in the hotel have windowsI am an easy going person, and don't have the time to write a lot of reviews. I just had to do something, so others don't make the same mistake. Look, if the wifi had worked and I could have gotten some work done I would have been ok. Maybe that do that so you cant write online reviews.On a positive note, the TV location was cool. I could not see a TV in the room when I walked in, which was odd,  but there was just no place for it. I though it impossible in a modern hotel room not to have a TV. Then I saw a clicker on the on the nightstand, I hit power and a crane like noise starts, as I see the TV unfolding from the ceiling (cool)",
+      "rate": 1.0,
+      "tripDate": " January 2014"
+    },
+    {
+      "title": "No privacy, impossible to sleep",
+      "text": "Room 21 is basically in reception. The rooms have no sound proofing, so I hear every phone call, every check in, every time the receptionist coughs, just like she's in the room with you. This also means every sound you make in the room can be heard by people in reception. So no privacy. Also right next to the lift which is noisy, and when the bar downstairs is open you may as well be trying to sleep on the street it's so loud. Staff are very friendly and helpful. The rooms are tiny which can be fine but they're not designed as well as they could be. Nowhere to put a suitcase which is a pretty basic requirement for a hotel room.",
+      "rate": 2.0,
+      "tripDate": " September 2014"
+    },
+    {
+      "title": "Hosteling for adults",
+      "text": "I was in Toronto for a conference and was looking for a place close to the University and not too expensive. I reserved a deluxe room. The Beverley reminds me of a cross between a youth hostel and a Japanese capsule hotel with a slick modern design. First impressions were alright, but The longer I stayed at the Beverley, the lower my opinion got.ProsCleanDecent price for downtown TorontoConsClaustrophobic and  smallTelevision is on the ceilingMy room did not have a window which added to the sense of claustrophobia.Noisy - on the second floor, I could hear everyone coming and going. I could hear the reception phone every time it rang. I could hear people chatting in the stairwell.No place to sit or do work. No chair or desk in the room, no chairs in reception.Shower never got hot.I don't think that I will stay here again. The hotel is most definitely not suitable for families and the rooms are quite compact for a couple. For someone on business, there is no place in or outside the room to work. Finally, I could handle the tiny windowless rooms if they afforded a peaceful night's sleep, but I was awoken multiple times during the night. I would probably pay $50-$60 more somewhere else.",
+      "rate": 2.0,
+      "tripDate": " May 2014"
+    },
+    {
+      "title": "Not my kind of hotel",
+      "text": "No chair, no place to put luggage,tv on the ceiling that can only be watched laying down, no privacy in the bathroom, it has a glass wall. The view from our window was a fire escape with a brick wall beyond.  Parking was thirty dollars a night and was a three block walk hauling luggage.",
+      "rate": 2.0,
+      "tripDate": " September 2014"
+    },
+    {
+      "title": "Don't expect much",
+      "text": "The location of the hotel is excellent however the hotel itself..so so. I checked in about 3:30 or tried to check in only to find the door to the reception locked. This was the middle of the afternoon mind you. I went back downstairs went to lunch and came back 20 minutes later(yes I carried all my bags with me). I came back and was able to check in. The Deluxe room is very small and I am not complaining because it does tell you on the website how big it is but for those who are having troubling picturing it imagine your college dorm room....yeah that small. TV is basic cable and if you are a light sleeper I feel sorry for you because you will hear everything. I would stay here again but only if I had business in the city but if you are looking for a weekend getaway this is not the hotel for you. I have paid less and received more at other hotels in the city.",
+      "rate": 2.0,
+      "tripDate": " February 2014"
+    },
+    {
+      "title": "Small rooms",
+      "text": "Excellent location in the center of Toronto. Very small rooms and pricey, windows with no view. Beware no elevator. On the plus side very clean, great service, nice cafe on the bottom and a nice rooftop bar.",
+      "rate": 3.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Nice, Quiet place in the heart of Queen St.",
+      "text": "Was really happy with our stay. Super convenient to the Horseshoe Tavern where we were seeing a concert. Room was quiet and well appointed. I had an issue the second day with our keypad entry not working, I reached out through the app and they took care of it quickly!",
+      "rate": 5.0,
+      "tripDate": " March 2023"
+    },
+    {
+      "title": "Great price and location",
+      "text": "Small rooms, but we only showered and slept in them. For the price you cannot beat it and the location is also great. 10 minute walk to AGO. 15 minutes to Eaton Centre. 10 minutes to Kensington. 5 minutes to subway station street car right below you.",
+      "rate": 5.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Perfect spot for a city weekend",
+      "text": "We stayed here during our stay in the big city to celebrate an anniversary. This place is so conveniently located. Shops are just outside your doorstep.  Everything was as pictured. Clean, spacious, comfortable and very convenient. The Ration restaurant downstairs is amazing! Would stay here again.",
+      "rate": 5.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Intro to Toronto",
+      "text": "Our 1 bedroom on the 3rd floor was spacious, clean, and comfortable.   Queen St. is a real piece of life in Toronto and it was exciting to watch it continually evolve.Easy check in process, main street, but quiet enough to get sleep, and food at Ration was amazing!",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Don't give your money to these clowns!!!",
+      "text": "The point of paying for a hotel room is to sleep in it. It is currently 1:10am and we are wide awake. It actually sounds like we are in the bar / club below the hotel. The same song playing for the last two hours. We have complained to the guy at the desk but he had no solution and apparently all other rooms are fully book. Which I find hard to believe!!! We have asked to speak to the manager who has still not turned up for 20 minutes. Tip: steer clear of The Beverley Hotel spend your money on somewhere you can actually sleep.",
+      "rate": 1.0,
+      "tripDate": " September 2014"
+    },
+    {
+      "title": "Disgusted by the Beverley Hotel Staff",
+      "text": "I'll just get to the point of it - DO NOT stay here if you value your time and safety. As soon as I arrived I noticed that the heat in my room did not work. When I asked for a space heater the first one provided did not work. Luckily, the second one worked - the young lady at the front desk was very nice and apologetic. While this was very frustrating the young woman at the front desk handled it well. However - as soon as the late night staff came in any semblance of respect and customer service went out the window. Around 11:30PM one of their employees knocked on my door - when I did not answer he continued to bang loudly. I had to get out of the shower and rush over to see what was going on. As you can imagine, I was extremely distressed and demanded to know why it was necessary to bang on my door. This man first of all - blamed me for opening the door in the first place. Second of all - he said that I \"freaked out\" on him. I'm not sure who wouldn't \"freak out\" at the fact that a stranger was banging on their hotel room door as they showered in the middle of the night. Especially a young woman traveling by herself. He then gave me a half hearted apology yet still had the nerve to BLAME ME for \"freaking out\" or opening the door in the first place. The fact that this man was \"apologizing\" yet still assigning blame to me is not only extremely frustrating but disturbing.Furthermore, when I expressed how frustrated I was that this was happening at nearly midnight the young man at the front desk said \"well it's downtown Toronto people don't go to bed that early\" I happened to have been there on a business trip that required me to wake up at 5:45 each morning. Although, regardless of the reason for my stay his comment was an extremely ignorant and offensive. I'm paying hundreds of dollars to stay here....I should be able to have peace and quiet whenever I damn well please. The staff here is incredibly disrespectful and at one point the man from the kitchen laughed at how distraught I was. What if this had been his sister or your mother? What if someone made her believe she was going to be raped and then laughed at how distraught she was? Or blamed her for opening the door in the first place? After about an hour I decided that I did not feel safe in this hotel and checked out somewhere around 1AM. As I was downstairs waiting for an Uber the very same employee who had been banging on my door was making fun of me and laughing at my situation with his friends at the bar. At the time, he could not see me. Not only has this man made me feel extremely unsafe, at fault for doing so but he has now made me feel humiliated. This kind of behavior is unforgivable and again, extremely disgusting. A couple of my colleagues were also staying here and the next day they told me that they did not get any sleep due to the fact that there were several drunk people standing in the hallway loudly arguing. When asked to be quiet this ensued in more yelling and arguing. Needless to say the front desk did nothing to put an end to it. Had the staff been extremely apologetic and accommodating and showed at least a shred of respect to me I could have forgotten about the incident and moved on. Quite honestly I hope that this hotel folds...they have no business hosting overnight guests. Of note - the manager gave me a \"direct line\" in order for me to call and/or e-mail him. I e-mailed him two days ago and as of today have not received a response. Once again...the Beverley Hotel in Downtown Toronto shows its true colors.",
+      "rate": 1.0,
+      "tripDate": " November 2014"
+    },
+    {
+      "title": "STAY AWAY. WORST HOTEL EXPERIENCE EVER!!!!",
+      "text": "i rented a suite from them this past sat. i showed up shortly after check-in. the door to reception was locked and we had to walk down to the bar and found the concierge chatting with a bar tender while guests were trying to check in. he showed us to our room. tiny little \"suite\" with no couch or anything. not even a queen sized bed. though all these things i could have tolerated but the heat was broken in the room and it was literally below freezing. there was a tiny space heater in the room that was also broken. i should have never been shown a room that had no heat let alone expected to spend a night in it when the outside forecast was -16. i wouldn't stay in a room that cold for free. we went down to the concierge a half hour after check in and asked for our money back. there was no manger on site and the concierge had no authority. A hotel with no manger on site on a saturday night???? crazy right? he kept insisting he would put us in another room(a smaller, barely warmer room.) frankly at this point i did not want another room. i wanted my money back. any hotel that puts you in a room with no heat in the middle of february in canada does't deserve a second chance. i demanded to speak with the manager. the concierge gave me his cell phone number on a post-it and expected me to call him from my cell phone!?! it just kept getting weirder. he also told me he could't refund the hold he had taken on my card but he would not put the charges through. two days later not only did the hotel run the charge for the room but they charged me an extra hundred dollars for incidentals that i now have to dispute through my credit card company. i have called the manger 7 times on his cell from various phones with no answer and he has not been physically present at the hotel in 3 days. i have reported these crooks to the ministry of consumer services and the better business bureau. avoid this place like the plague. no doubt in my mind they'll be out of business within the year anyway but by far the worst experience i have ever had in the hospitality industry. complete hackery. total fail. STAY AWAY",
+      "rate": 1.0,
+      "tripDate": " February 2014"
+    },
+    {
+      "title": "What a disappointment and waste of money.",
+      "text": "I am really sorry to report that this hotel is really not a decent place to spend the night or one's money.  I walked into the hotel very late at night after a grueling business trip in the US, once I arrived in the hotel bar, I waited for the lift for at least 10 minutes before I had to ask the bartender what was going on.  While I was sitting in a loud bar, exhausted, and anxiously awaiting checking in the hotel manager has been there the whole time and then offers to take my bags as he has now realized the lift needs to be reset. So let me make it clear, the manager was sitting at the bar having a drink, while I sat with my luggage waiting for an elevator that wasn't coming and was only attended to once I sought out help.  I thought not off to a great start but whatever.  I checked in easily and had a nice herbal tea courtesy of David's Tea while at reception.  I was lead to my room, which was very small but nicely decorated.  Certainly nice enough for a good night's sleep and a shower.  However, this was not the case, first I went to draw the drapes only to realize they don't shut completely and let light stream in from the street.  Then I realize the room totally lacks any soundproofing.  As has been reported below, I could hear everything from the reception area, I have terrible hearing and could hear the front desk attendant type on a computer.  Every conversation had at reception, every time someone requested the lift, literally everything.  I got no sleep obviously.  When I checked out the next morning and made the front desk attendant aware of the situation, she said she was shocked and has never  heard such complaints.  After reading this site, you can tell a lot of people have complained about the noise and she was likely lying.  They did give me $30.00 off the room which in no way rectified the situation. Even if this noise problem just pertains to the room I stayed in, there is no way management is not aware of the situation and the fact that they continue to place guests in that room displays a total lack of respect for their clients.  I strongly urge anyone to not book this hotel and look into other options.",
+      "rate": 1.0,
+      "tripDate": " September 2014"
+    },
+    {
+      "title": "ALSO TERRIBLE",
+      "text": "WHAT AN AWESOME EXPERIENCE TO HAVE ON YOUR BIRTHDAY!!!I TRIED to stay the same night as the reviewer CHRIS P (read review titled “STAY AWAY. WORST HOTEL EXPERIENCE EVER!!!!”We had the exact same experience (our room was FREEZING) although our authorized transaction was not put through as a final charge.Shame on THE BEVERLEY HOTEL.  They knew the rooms were unsuitable to rent yet they did nothing to prevent anyone from renting them.  Chris P had already complained before I even checked in.  If the hotel knew that their rooms where uninhabitable,(after talking to another worker they did know about the frozen rooms) the hotel should could have called their guest list for the night and informed them of the problem.  This might have happened if the hotel was staffed with a manager.Since I was informed that the whole building was cold, I also had to cancel my dinner and brunch reservation I had in their restaurant.  There's nothing like trying to find Saturday Night dinner reservations ON SATURDAY NIGHT!I have stayed at the HOTEL twice before and ate their countless times.  It’s a real shame as I have enjoyed my past experiencesBoth Chris P. and I were both informed that our pre-authorizations would not be put through as final charges.  According to CHRIS P.  his was.   On that fact alone I will not be taking my business back to the BEVERLEY HOTEL unless they reimburse CHRIS P.",
+      "rate": 1.0,
+      "tripDate": " February 2014"
+    },
+    {
+      "title": "Great location, amenities need some work",
+      "text": "Great location with friendly support via text (and in person).  The room was clean and met our needs, with a comfy bed, a coffee maker, and a kettle.The problem was with the supply of hot water:  the supply ran out on the last day, leaving us with having to take overly cool showers!",
+      "rate": 3.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Great location, very clean, friendly staff",
+      "text": "Very happy with the hotel.  It's essentially unmanned, but provided easy to follow instructions for access and clear information about what to expect.  Room was compact, but very clean and well appointed with everything I needed.  Location was excellent - Local area was full of bars and shops and it was an easy walk to other locations such as downtown, CN Tower, etc.  Would recommend",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Great location and beautifully furnished",
+      "text": "On the beautiful queen st west, tons of food and bars and shopping around! And it was nice because even though we were only on the 3rd floor it wasn’t very noisy. Note that this is a walk up (maximum 4 floors though) and there’s no baggage storage in this building. There is a beautiful rooftop bar on the top floor though.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Very bad value, avoid this place!!",
+      "text": "Good location, but very dirty (room and corridor/stairways), no room service, noisy and extremely small rooms. There is no window and the room looks very different from the pictures of the website. The rooftop bar was closed all the time. Very bad value, if not rip-off!!",
+      "rate": 2.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Excellent room",
+      "text": "Stayed for business for 3 nights.  Location was close to myoffice. Bright modern design.  Excellent use of small space. Had everything I needed.  Sonder App was great and easy to use for checkin.  Kettle in room was nice touch and small fridge tucked away was useful. Handwritten note and bottle of water to welcome me.  It was quiet despite being on Queen St in Toronto.",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Zero stars!  Nasty!",
+      "text": "Smallest room ever. Poorly cleaned, poorly maintained. Found another hotel within two hours of checking in. Left without any refund. The room was a tiny, windowless box with a big TV mounted to the ceiling. Floor was sticky. The bathroom was tired and beat up… with chips in the tile floor and a crack in the composite sink. Overall condition of the room was a solid D minus.The only nice thing was the Nespresso machine.I contacted support. They acknowledged the floor was sticky… and blamed the cleaning solution, but didn’t offer any options for a cleaner room. So we left.",
+      "rate": 1.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Great location, peaceful vibe",
+      "text": "A great place to stay centrally in downtown Toronto, easy access to universities, Metro Toronto Convention Centre, and hospitals (as well as entertainment, shops and restaurants :-)).The simplicity and scandi vibes of the room made it a very peaceful retreat at the end of hectic work days! As everything was provided and I experienced no issues, I don't know about the service if anything had come up - the level of service that is provided so I didn't have issues to begin with is wonderful!",
+      "rate": 5.0,
+      "tripDate": " February 2023"
+    },
+    {
+      "title": "Can’t beat the location and lovely room",
+      "text": "I had a cosy second-storey room and my friend was in a larger room on the third floor. Both were beautifully furnished and suited each of our needs and budgets. Check in process was smooth although we never did see anyone if there were any problems. Great location, we tried a number of restaurant suggestions on the app. Great for public transport. Highly recommend.",
+      "rate": 5.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Avoid",
+      "text": "No front desk, sit on the phone for over an hour to talk to someone, check in is a joke. Takes 20-40mins to get hot water. Uncomfortable beds. Noise, no room cleaning during your stay. Only 1 garbage can in bath- small. Don’t bring take out home.",
+      "rate": 1.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Comfortable and good location",
+      "text": "I had a very pleasant stay at the Shining Star Hotel. While there were a few minor issues, such as occasional noise from the street, they were quickly addressed by the staff. I would definitely recommend this hotel to both business and leisure travelers looking for comfort and convenience.",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    }
+  ]
+}

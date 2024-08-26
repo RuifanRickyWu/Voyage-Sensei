@@ -1,0 +1,88 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "St Annes Suites",
+    "url": "/Hotel_Review-g155019-d21203365-Reviews-St_Annes_Suites-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 4
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 Saint Anne's Rd",
+      "addressLocality": "Toronto",
+      "postalCode": "M6J 2C1",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/7d/75/e8/upper-suite.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Situated in the Dufferin Grove district of Toronto, a short walk from Trinity Bellwoods Park and Dufferin Mall. University of Toronto, Toronto Western Hospital and many more amenities all within walking distance. St Annes Suites features furnished accommodations with free Wi-Fi. The famous Kensington Market is just around the corner All units are fitted with air conditioning, and have a flat-screen Smart TVs, washing machine, a kettle, complete with a kitchen. The Royal Ontario Museum is 3 km from the apartment, while Four Seasons Centre for the Performing Arts is 3.2 km from the property. The nearest airport is Billy Bishop Toronto City Airport, 3.5 km from St Annes Suites Couples particularly like the location — with a Walk Score 95",
+  "featues": [
+    "Paid private parking nearby",
+    "Street parking",
+    "Free High Speed Internet (WiFi)",
+    "Adults only",
+    "Baggage storage",
+    "Private check-in / check-out",
+    "Clothes dryer",
+    "Self-serve laundry",
+    "Wifi",
+    "Non-smoking hotel",
+    "Washing machine",
+    "Air conditioning",
+    "Desk",
+    "Private balcony",
+    "Separate dining area",
+    "Coffee / tea maker",
+    "Dishwasher",
+    "Cable / satellite TV",
+    "Bath / shower",
+    "Separate living room",
+    "Sofa",
+    "Iron",
+    "Private bathrooms",
+    "Microwave",
+    "Oven",
+    "Refrigerator",
+    "Stovetop",
+    "Electric kettle",
+    "Kitchenware",
+    "Flatscreen TV",
+    "Hair dryer",
+    "City view",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Great stay",
+      "text": "Our stay at your property was wonderful. Very clean and comfortable and the location was perfect. Bedrooms are large, beds very comfortable and quiet for sleeping. Supplying us with coffee was a treat in the morning. Thank you for waiting for our arrival after our flight was delayed. Definitely will stay again if the need arises. Thank you.",
+      "rate": 5.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "Great Neighborhood, Amazing Place",
+      "text": "A quiet place with lots of charm, on a residential street with a lot of greenery in every direction. Walking distance to chain stores as well as cool specialty shops and markets. Good food all around.The apartment was inviting, clean and organized, with basic household supplies all stocked up already. Couldn't be happier.I arrived later than expected the first night, but Nick and his wife were there to let me in, welcome me to town, and answer any questions that I had - even at that late hour. That first interaction speaks volumes for how nice they are as people.Will definitely be back the next time I'm in Toronto.",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "St. Annes Suites-Walking Distance to Everything",
+      "text": "Great place to stay! Lots of great places all within walking distance. Beautiful rustic suite, clean and very spacious.  St. Annes Suites highly recommended.  Nick had excellent restaurant recommendations and was of great help. He went way beyond to make our long-weekend comfortable and memorable.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "St. Anne Suites",
+      "text": "Great place to stay! Clean and cozy with lots nearby, all within walking distance. Overall, a great experience and exceptional service. I would definitely recommend staying at St. Anne Suites. Thank you!",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    }
+  ]
+}

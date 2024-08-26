@@ -1,0 +1,274 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Arise N Shine Toronto B&B",
+    "url": "/Hotel_Review-g155019-d611880-Reviews-Arise_N_Shine_Toronto_B_B-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 45
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "110 Pape Ave",
+      "addressLocality": "Toronto",
+      "postalCode": "M4M 2V8",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/04/28/2b/jays-stadium-from-the.jpg?w=500&h=-1&s=1"
+  },
+  "description": "We are located in the film district on trendy Queen Street and only a 10-15 minute Street Car Ride [available 24/7 at your doorstep] to places of interest. To the East is the Beaches with unending cafes, fine-dining restaurants; boutiques and the summer jazz festival; To the West Shop at the famous Eaton Centre; attractions like Nathan Philip’s Square; CN Tower; Roger’s Centre; China Town; Museums; Art Galleries; Entertainment District; Distillery District; to name a few. In short: we are at a prime location in the vicinity of downtown Toronto’s tourist attractions.",
+  "featues": [
+    "Free internet",
+    "Wifi",
+    "Non-smoking hotel",
+    "Air conditioning",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "A Lovely Place to Stay",
+      "text": "We stayed at Arise 'n' Shine for our 5 day stay  in Toronto and loved it. With only 3 rooms, you can be assured of personal attention. Joseph is a very attentive host, with a good knowledge of Toronto and tips/advice. As a trained chef, his breakfasts, cooked to order, are a real treat. The house itself is spotlessly clean and relaxing. We occupied the Sunlit room, which is well appointed, with a dressing room and an outside deck - a real bonus for a leisurely evening drink as the sun goes down.",
+      "rate": 5.0,
+      "tripDate": " July 2011"
+    },
+    {
+      "title": "A Nice Case of Serendipity",
+      "text": "I've recently returned from a conference in Toronto and was fortunate enough to  stay at this lovely establishment. I was  having a difficult time finding lodging near the convention centre but due  to high demand I was  having to look at places that  I felt were not  conveniently located  to  downtown core. Well I settled for this  house and was very pleased that I did.The house was  grand and just newly constructed. The room was large and the bed was ever so comfortable. The host was nice and helpful and the breakfasts were  good and filling. They had free intertnet and best of all the Queen Street tram a 2 minute walk from the house got me to the  convention center in about 15 minutes.All this, and the price seemed  very reasonable to boot. I won't ring up anyone else if I plan to visit Toronto again. I was also pleasantly surprised by the city, the people and just how much there was to  do.",
+      "rate": 4.0,
+      "tripDate": " May 2006"
+    },
+    {
+      "title": "Heartily Recommended to All Travellers",
+      "text": "You'll find Arise 'n Shine a neat brick house on a quiet street in downtown Toronto. Our bedroom was spacious, clean and comfortable, with wide windows overlooking a small back garden and neighbouring gardens. Joseph is a  most gracious and helpful host, who prepared a delicious and healthy breakfast  and gave us helpful advice on  tourist  attractions  and travel and transpo routes.Joseph's kindness helped to make our stay in Toronto a success.  Arise'n Shine is the best deal in town!",
+      "rate": 5.0,
+      "tripDate": " September 2010"
+    },
+    {
+      "title": "Arise N Shine B&B – Highly Recommended!",
+      "text": "My girlfriend and I spent 3 nights at the Arise N Shine B&B on our recent trip to Toronto. Joseph, the proprietor, made us feel extremely welcome in his home from the moment we arrived, and was happy to give helpful advice on directions, attractions and anything else that we were interested in!The Arise N Shine is in an excellent location, less than a minutes walk from Queen Street East, with its easy access to the efficient tram service, which will have you in downtown Toronto within 10 minutes.We stayed in the \"Starlit Room\", which was newly decorated, modern and very comfortable. Our breakfasts were a treat, cooked individually to order and absolutely delicious.Overall, we couldn't have been more pleased with our stay at the Arise N Shine. The location, the room, the breakfasts and the exceptional service we received from Joseph all added up to a brilliant experience – we’d love to go back again!",
+      "rate": 5.0,
+      "tripDate": " May 2006"
+    },
+    {
+      "title": "Lovely Getaway",
+      "text": "Would highly recommend this bed and breakfast .  Joseph went above and beyond to make our stay pleasurable. We needed an early start and a 7 a.m. breakfast was no problem.  It was delicious. The rooms are spacious and attractively decorated.  Very close to downtown Toronto with many restaurants within walking distance.  I had to call probably 10 places before I was able to find this bed and breakfast that accepted a one night stay.  Most want you to stay for a lengthier visit. Good value for the price.  If in Toronto again I would return.",
+      "rate": 5.0,
+      "tripDate": " August 2010"
+    },
+    {
+      "title": "Wonderful stay",
+      "text": "Trying to find accommodation during conference season in Toronto can be quite a challenge, but the hard work ended up leading me to Joseph's doorstep at Arise N Shine and I'm very happy it did!  I stayed in the Sunlit Suite on the top floor; it was lovely-comfortable and quiet with a great bathroom, a walk in closet and outdoor deck space.  Breakfast was a highlight in the morning, Joseph, as a former chef, can whip up a great meal!  Thank you Joseph.",
+      "rate": 5.0,
+      "tripDate": " October 2011"
+    },
+    {
+      "title": "Perfect - spotless, peaceful, delicious breakfast, helpful host",
+      "text": "I had to spend two nights on my own in Toronto and was really happy here.  The place is spotless, the rooms are spacious but also homey.  Joseph was so helpful - directions, suggestions, taking messages etc. He is also an excellent cook and made delicious breakfasts where the guests sit together which is nice.  I also really liked the neighbourhood - out of the intense city centre - with some nice shops,  bistros (Joy Bistro) and coffee shops.  The tram at the corner takes you into town or in the other direction to the Beaches to relax.  So much nicer than an impersonal hotel.",
+      "rate": 5.0,
+      "tripDate": " July 2010"
+    },
+    {
+      "title": "Had a great stay at the Arise n' Shine B&B",
+      "text": "Lovely B&B close to the Beaches area in Toronto - it was very clean, well maintained and the hosts were very accommodating.Enjoyed the breakfast thoroughly and would have no hesitation recommending this place to anyone looking for a better alternative to a hotel in Toronto.Place is brand new!",
+      "rate": 5.0,
+      "tripDate": " June 2006"
+    },
+    {
+      "title": "Lovely home,wonderful host,great start",
+      "text": "to our holiday from the UK.We took both the Moonlit & Starlit rooms and shared the bathroom for a three night stay.We were delighted with them and thought they offer great value for money.Joseph was  welcoming & helpful from the moment I contacted him.He was happy to meet all our  needs upon arrival and for the duration of our stay.An excellent host.Breakfasts offered a variety of  well made tasty choices and Joseph was pro active in fitting around our schedule for each day.The accommodations are very comfortable, in a clean environment, near to local shops and Tram line into Toronto centre.I would not hesitate in recommending Arise n' Shine B&B and would certainly return there myself.",
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "High quality B&B",
+      "text": "We were two people staying in this quiet B&B for five days in October 2006. It lies about ten minutes by tramway from the city centre,  a hundred metres from Queens street where the tram stops. We felt safe in the neighbourhood, which has some good restaurants/cafés, and a drugstore.  It is run by Joseph, a helpful former chef, and his wife.The rooms and the furniture seemed brand new. High standard bathrooms. Linens and towels were changed every day. A moderate amount of laundry was done for no extra cost. Wireless internet in the rooms (slow). Breakfast was excellent and consisted of fresh fruit salad, yoghurt, and eggs/cheese/ham omelet.",
+      "rate": 5.0,
+      "tripDate": " October 2006"
+    },
+    {
+      "title": "Friendly, warm and cozy!",
+      "text": "My sister and I recently stayed here while on a weekend getaway (we're both from the States).  We couldn't have asked for a better place to stay!  Joseph is a WONDERFUL host - very warm, nice and helpful.  The house is beautiful and immaculate!  Our breakfasts were AWESOME!  He catered to our every need!  It truly is like a home away from home.  I highly recommend this place and look forward to staying there again on my next trip to TO!",
+      "rate": 5.0,
+      "tripDate": " November 2007"
+    },
+    {
+      "title": "Great Time",
+      "text": "We stay at there 4 night and since the first time everything was perfect. The house is beautifully and is located very near to down town. The room and bath room was extremely clean. And the importan, the breakfast was excellent, Joseph is a very good chef and we ate very good.  so I have to say thanks for everthing and we look forward to stay there again. Last think, Joseph is a very nice person.",
+      "rate": 5.0,
+      "tripDate": " August 2007"
+    },
+    {
+      "title": "Great place to stay in Toronto",
+      "text": "Between the two of us this is the third time we have stayed at Arise N Shine B & B.  My wife and I were there separately last summer and fall, and this time we were there together, visiting our son who lives in Toronto.  Situated in the Leslieville / Queen St. E. area of Toronto, I can't imagine a nicer or more reasonably priced place to stay for a few days.  The B & B is on Pape about 30 seconds from Queen St. E, where there is 24 hour street car service.  You can get downtown in about 10 minutes.  This is a rapidly gentrifying part of Toronto, but Pape St. is already very nice, and the B & B was only built about 6 years ago on the site of a church, so everything is in super-good shape.  The owner, Joseph, is a really nice man.  He is a retired Red Seal chef, so expect a great breakfast.  The rooms are very comfortable, and the place is immaculately clean.  We will definitely stay here many times in the future.  Highly recommended without any reservation.",
+      "rate": 5.0,
+      "tripDate": " April 2012"
+    },
+    {
+      "title": "could it be friendlier , cleaner and cozier than this?",
+      "text": "This place is really awsome. It is a brand new house(two years old) on east toronto downtown. The area is queit and safe. The owner is so friendly and gives you all kind of helpful info about the city. also, you will be wlecomed with a free map of toronto. The bathrooms are so clean and  tidy. The breakfast that he made for us was more compelte than any hotel we have been so far. If you are going to Tornoto just stay at his place. you will never regret it.",
+      "rate": 5.0,
+      "tripDate": " August 2008"
+    },
+    {
+      "title": "Family from Europe LOVED it!!!   So clean and comfortable",
+      "text": "I booked my uncle from Germany, who is a senior, so naturally I was very concerned for his comfort and surroundings.  He absolutely loved his stay. We have nothing but great things to report about this Bed & Breakfast!!The most gracious, and accomodating host! Fantastic breakfasts, made to order.  The most flavourful & freshest fruit selection ever!The entire property is *meticulously* clean.  The room was very tastefully decorated and the bed most comfortable.A very comfortable and relaxed, quiet atmosphere...great for seniors.Convenient location on a quiet street in a nice neighbourhood.Very accessible to Queen streetcar etc. Definitely recommend this lovely property.",
+      "rate": 5.0,
+      "tripDate": " May 2008"
+    },
+    {
+      "title": "2 days trip",
+      "text": "A newly built house in a nice Toronto naborhood. Its located on the east side next to Queensstreet. The streetcar route 501 takes you in 15 minutes downtown. B&B friends will like it. Its a very familiar place, thanks to Joseph. He is the owner and housekeeper -if you are lost in Toronto, don't worry you are in good hands!The rooms are cleaned up every day. Its nice and comfortable equipped, you won't miss anything. I hope to come back one day,Nils from Hamburg, Germany",
+      "rate": 5.0,
+      "tripDate": " February 2008"
+    },
+    {
+      "title": "Absolutely the best!",
+      "text": "We stayed at Arise N Shine for 6 nights in May and I would totally recommend it to anyone. The owner (Joseph) was so accommodating, friendly, helpful and an amazing chef! Joseph had so much great advice and helped with so much without us even asking. He made our stay very enjoyable and has changed my whole outlook on staying at B&B's. The room was spacious and felt quite luxurious. The room and washroom (toilet/bathroom) were so clean. We really felt spoilt and it was definitely amazing value for money.",
+      "rate": 5.0,
+      "tripDate": " May 2015"
+    },
+    {
+      "title": "Best French Toast In Toronto",
+      "text": "My wife and I have travelled a fair amount and stayed in quite a few hotels and bed and breakfasts over the years but Arise N Shine tops them all. The owner/host Joseph is one of the nicest people you will ever meet and just happens to make the best french toast you will ever have. He was so accommodating and helpful in explaining how we can get to and from some of the city's landmarks. Away from the wonderful service, Arise N Shine is also very quiet, clean and close to everything the city has to offer. We cannot recommend it highly enough. Great price, Great room, Great everything !!! Thank you Joseph.",
+      "rate": 5.0,
+      "tripDate": " May 2015"
+    },
+    {
+      "title": "best B&B in the Beaches area of Toronto",
+      "text": "Just a short note to say we fell in love with Arise and Shine B&B in the Beaches area of Toronto.area - lovely hospitality – we immediately felt at ease and the room/suite was perfect.Breakfast was a favorite- best fruit salad I have had for decades and the Omelette was without fault and most tasty.Close to all attractions and many excellent bars and places to visitJoseph was an excellent host!Cannot wait to returnBernie and Jacaline Reilly",
+      "rate": 5.0,
+      "tripDate": " January 2014"
+    },
+    {
+      "title": "Wonderful!",
+      "text": "I am an older single woman who was passing through Toronto to move my daughter. I stayed here for two nights. This has to be the cleanest place I have ever stayed in. Parking is only available on the street and Joseph had a parking permit ready when I arrived. I took the Queen St. street-car down town and back one evening which was easy and quick. I had the fruit bowl for breakfast one of the mornings and it was delicious. Joseph is available for any requests. What a lovely gentleman. Strongly recommend, a 10 PLUS!",
+      "rate": 5.0,
+      "tripDate": " July 2013"
+    },
+    {
+      "title": "Pristine and Perfect",
+      "text": "Sunlit room on third floor very large, elegantly appointed, generous lighting, walk-in closet, large bathroom with jacuzzi bath, spacious tiled shower, all impeccable.Very large balcony, private, open sky.Stayed there for 7 nights and returned to fresh linen and towels every evening.Host retired chef, delicious breakfasts.Host also courteous, thoughtful, attentive to specific needs, discreet.Host family lovely and friendly, yet unobtrusive and discreet.House quiet, in residential neighborhood.A few steps away from Queen street streetcar and ten minutes from downtown.Ten minutes on streetcar in the other direction to the Beaches, restaurants, parks, and the spectacular, long beach with boardwalk.Arise N’Shine serenity and happiness.In a 5 star rating system, I give it 10, along with the moon and the sun.",
+      "rate": 5.0,
+      "tripDate": " August 2006"
+    },
+    {
+      "title": "Arise N Shine couldn't be better!",
+      "text": "Arise N Shine B&B is in a wonderful location, with the heart of downtown Toronto easily accessible, but it is still quiet and peaceful. The house was immaculately clean and our party had the whole floor (Moonlit and Starlit rooms) to ourselves, which made for a very nice and cozy feel.Breakfast was a delicious fruit/yogurt parfait to start with, followed by wonderfully prepared eggs and toast.Joseph was extremely helpful in offering advice, directions and suggestions for getting around Toronto. He provided us with lots of information but also wasn't nosy like some B&B owners. He really made us feel at home--and I do mean that I literally felt at home at times!As an added bonus, the shampoo and soaps supplied in the bathroom smelled really nice. What more could you ask for?",
+      "rate": 5.0,
+      "tripDate": " September 2008"
+    },
+    {
+      "title": "Great value and service",
+      "text": "A lovely, clean and immaculately presented suite in a newly built town house with easy access by tram to the City Centre.Joseph, the host was exceptionally helpful, even using his own car on 2 occasions to run me to town or for a car hire pick up.Made to feel really welcome and he is an excellent breakfast cook to boot.Recommended if you have a budget to work to but still want high quality.",
+      "rate": 5.0,
+      "tripDate": " September 2008"
+    },
+    {
+      "title": "Highly Reccomend the Arise n' Shine to anyone staying in Toronto",
+      "text": "I was incredibly impressed by the Arise 'n Shine B&B.  It had everything that we were looking for in a location to stay in Toronto.  Reasonable price, easily accesible from the major highways, quiet location and close to the downtown core and public transit.Once we arrived it only improved more.  The B&B itself was immaculate and very well kept.  Joseph (the proprietor) was an exceptional host who had great knowledge of the surrounding area, and provided a wonderful sense of comfort and home in a place far from our own.Our room as beautiful, clean and spacious. Perfect for a wonderful relaxing night after some fun in the city.  Joseph went above and beyond and provided an extra personal touch after he found out that I had just proposed that day.  It is that kind of service and caring that made me absolutely love this place.I highly recommend the Arise 'n Shine B&B to anyone, and we will be visiting there again.",
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Beautiful & Romantic!",
+      "text": "Amazing B&B in beautiful Toronto!! We stayed in the fabulous Sunlit Room \"penthouse\" and *LOVED* every second of it!! The room is perfect with a lovely private patio deck and gorgeous bathroom! This B&B is fantastic (and so sparkling clean)!! Our host Joseph was the icing on the cake---very welcoming and an excellent professional chef serving you wonderfully homemade hot breakfasts!! Joseph really goes the extra mile to make you feel comfortable and he even gave us a tour of the city and drove us to pick up our rental car at the downtown Enterprise office! Such service! This is THE place to stay if you're looking for a fun spot by downtown Toronto city. We went down to the beaches every morning for our runs.....the waterfront boardwalk should not be missed! Don't forget to check out Niagara Falls and Canada's Wonderland amusement park! Joseph will help you find your way & point out all the yummy places to eat!!xoxo,Clare & Steve (newlyweds from San Diego, CA)",
+      "rate": 5.0,
+      "tripDate": " August 2008"
+    },
+    {
+      "title": "Had a Great Time on Our 20th Wedding Anniversary at Arise N Shine",
+      "text": "We greatly appreciated the cleanliness of the facilities, the friendliness and helpfulness of Joseph the host; the breakfasts were cooked before our eyes, and the location was central to our desires of seeing the Taste of the Danforth, the Beaches, and Downtown's Entertainment area (with a little help from the TTC).Also the Chinese Festival was very nice. We would recomend Arise N Shine to anyone wanting to see Toronto for an extended stay.",
+      "rate": 4.0,
+      "tripDate": " August 2007"
+    },
+    {
+      "title": "Convenient, clean, friendly",
+      "text": "My wife and I were in Toronto to visit family and stayed 1 week at this B&B, off Queen St near the beaches area.  Great location for galleries, restaurants.  Easy to get down town by car or Tram, and many many options for shopping.  Joseph our host prepared great breakfasts and the room, house and WC were super clean. WiFi good, small but OK TV, closet, mini fridge.  Small room.  Overall good value for money and we would come back.  Two rooms share one toilet which is not horrible but can be a bit inconvenient.There is one room on top floor that hs own toilet.",
+      "rate": 4.0,
+      "tripDate": " September 2011"
+    },
+    {
+      "title": "Great place to stay",
+      "text": "I stayed here for two nights and it was a great place near all these small little design shops and cafes within walking distance.  The street car stop is also a few steps away which will take you into Downtown Toronto within 10-15 minutes.  The place was extremely clean, and Joseph the host was very hospitable and helpful.",
+      "rate": 4.0,
+      "tripDate": " August 2008"
+    },
+    {
+      "title": "Wonderful B & B",
+      "text": "This was our first visit at Arise & Shine B & B recommended to us by another B & B in Toronto.  If you are looking for a immaculate, warm and cozy place to stay that feels like home, then I would recommend staying at Arise n' Shine.  The hosts Joseph and his wife were extremely welcoming and kind.  The rooms were modern and clean and the breakfast each morning was delicious.  We were served fresh fruit and yogurt and a hot item.  Joseph made us feel at home.  We will definitely be back next year!",
+      "rate": 5.0,
+      "tripDate": " August 2008"
+    },
+    {
+      "title": "Excellent Bed & Breakfast...Perfect Experience",
+      "text": "I am 80 years old, so choosing a place & staying away from home can be an overwhelming challenge. My stay at Arise and Shine was absolutely perfect in every way. I had booked a room for a few nights, sight unseen and I am happy to report that choosing Arise and Shine was a brilliant move. It is located about 1/2 block from the train/bus to downtown Toronto, so  it was extremely convenient.The proprietors, Joseph and his wife June could not have been more welcoming & helpful. They helped me with my every need, kind of 'adopting'  me for the length of my stay. They helped me with the internet, with directions and suggestions and even helped me call my daughter to say that I had arrived safely!The Arise & Shine is squeaky clean, modern and generously appointed. The breakfasts alone are a thing of beauty. Joseph is a former chef & he cooked absolutely delicious breakfasts to order. I was treated like a king.Joseph & June are gentle, spiritual people and their attention to detail on their establishment could be felt everywhere. It was a joy for me to stay here & I would encourage everyone traveling to Toronto to check out Arise & Shine to discover the real meaning of an perfect bed & breakfast.",
+      "rate": 5.0,
+      "tripDate": " October 2007"
+    },
+    {
+      "title": "Shining in Toronto",
+      "text": "In East Toronto, 110 Pape Avenue to be exact, we found a brand new B&B in a rather genuine neighbourhood, completely different from downtown Toronto's steel and glass buildings.We came to the city for a conference, stayed 6 days, and enjoyed every one of them.  Both the beds and breakfasts deserve top ratings. Arise'N Shine is located less than 50 m from the tram going downtown from East Queen Street. Quiet, nice rooms overlooking a backgarden. Their phone no: 647-207-1777 or email: arisetoronto@rogers.com",
+      "rate": 5.0,
+      "tripDate": " October 2006"
+    },
+    {
+      "title": "Great, Clean, Affordable!!",
+      "text": "This is a great place, location was great near streetcar downtown or the southside. It is very safe and quiet.Also Joseph makes delicious breakfast!! The house is brand new, so everyone is recommended to stay hear looking for a nice B&B.This was our first B&B ever, and it was an absolutely fantastic experience!!Oh btw, the picture is from the moonlit room. We had shared bath, but it was great and had it for ourselves the first two days.Bye Joseph and we will see you again someday!Marko and Karen",
+      "rate": 5.0,
+      "tripDate": " September 2006"
+    },
+    {
+      "title": "Joseph made our trip!",
+      "text": "The place is very new, very clean, and very close to different areas. Joseph made the most excellent breakfasts and he always knew the best way to get everywhere. I had a loose idea of what I wanted to see. He took a look at my plans and advised us to get day passes for the public transit...on weekends two people can use the pass. And since it was Labor Day weekend, the pass worked on Monday too. Although Toronto isn't hard to get around, Joe helped us tremendously with our plans. Next time I visit, I'm definitely booking here.",
+      "rate": 5.0,
+      "tripDate": " September 2009"
+    },
+    {
+      "title": "Great way to start your visit to Ontario",
+      "text": "This was my first visit to Ontario, from England. I only had one night, going up to Haliburton the next day. I could have stayed at an airport hotel or some other similarly anonymous hotel but thought I'd get a warmer welcome and a little insight into Toronto if I went to a B&B. Joseph proved me right. His welcome is genuine and everyting about his B&B is professional and sincere. The house is new and everything sparkling clean and comfortable. He was couteous and his cooking is lovely. I particulatly appreciated his flexibility and responsiveness. Go there!",
+      "rate": 5.0,
+      "tripDate": " September 2006"
+    },
+    {
+      "title": "Stayed almost a year ago BUT still memorable!!!",
+      "text": "It's been almost a year since I stayed at the Arise N Shine B&B with my sister, JC0721 (see her review below). Like her, I had to get out of my norm and spend a weekend stress free, relaxing and fun. And with the hospitality of our host, the feeling of home away from home and his homemade breakfast...really helped achieve that weekend I was looking for. By the time I came back to Chicago, I was rejuvenated and ready to tackle the world. Thanks again!!!",
+      "rate": 5.0,
+      "tripDate": " November 2007"
+    },
+    {
+      "title": "Excellent place to stay in downtown with friendly host",
+      "text": "My friend & I highly recommended this newly open B&B in Toronto downtown. Arise N Shine is operated by a very friendly host, Mr Joseph Long and a good cook as well. We were greeted with a warm welcome on our arrival and we felt so at ease and comfortable staying with this Asian family and in a safe surrounding. Joseph was very helpful and provided us a good city map and briefed us on how to travel around with the public transportation (subway). We can easily catch the street car just 1 minute walk from the B&B and took the subway to the various shopping centre and attractions. This B&B is nicely decorated, well equiped with modern ammenities and very clean. Joseph is so nice to chat and give us lots of travel tips. We truly enjoyed our stay there. Thank you so much.... Joseph!",
+      "rate": 5.0,
+      "tripDate": " June 2007"
+    },
+    {
+      "title": "Very pleasant stay",
+      "text": "We originally had a reservation with Toronto Townhome but the B&B (I think it was Tan) cancelled our reservaation in the last minute. We were told that a mistake was made and the room was not actually available. Arise n Shine is owned by Tan's brother Joseph. So he made us a reservation here instead at a lower rate. We got the upper deck suite and it was a huge room with a balcony deck, a walk-in closet and large master bathroom. This B&B is CLEAN. Not a speck of dust anywhere. Joseph is a very friendly guy. He was really helpful with directions and suggestions. The breakfast was great.In the end we were happy to be staying here. Would definitely recommend it. Location is not too bad. A street car from the corner took us right into downtown. Safe and peaceful location.",
+      "rate": 5.0,
+      "tripDate": " May 2009"
+    },
+    {
+      "title": "Great B&B",
+      "text": "My wife and I stayed in the Sunlit suite for one night. The room is lovely, clean, bright, very modern. The bathroom is large with a very nice walk in shower, a large bath tub and a window that lets in plenty of natural light. There is a great walk out balcony with a table and chairs. The location is great, one block from Queen St E with all it's cool shops and eateries. Being so close to Queen St there is excellent access to the TTC with 24 hour street cars.Our host, Joseph, was great. Very warm and friendly, the breakfast he prepared was fresh, delicious and more than enough for our needs. I highly recommend this B&B to anyone coming to Toronto for a long or short stay.",
+      "rate": 5.0,
+      "tripDate": " October 2008"
+    },
+    {
+      "title": "Very considerate host",
+      "text": "My friend and I stayed here the night of Sept 5th and left on the morning of Sept 8th, 2009. Initially we were concerned about sharing a bathroom. Our fears were groundless, as we shared with only one other room and the bathroom was spotless each day. Another concern was the loaction, again we neddn't have worried. AriseNShine is located about 20 mins from downtown. Don't let that put you off, as it's in a nice neighbourhood, and there's plenty of things around. There are many quaint shops and eateries, plus the Greek and Indian neighbourhoods. Getting downtown is easy as the Redline tram stops is very close, and it runs 24 hours. All this we learned from Joseph, our gracious host. And that is not an exaggeration. He gave us great tips on what to see and do, woke up very early (5am) to ensure we had a cooked breakfast when we left early, and dropped us off downtown when we were running late - he did all this despite our protests. I throughly enjoyed my stay here, and am happy to recommend and return.",
+      "rate": 4.0,
+      "tripDate": " September 2009"
+    },
+    {
+      "title": "Excellent quality and spotlessly clean",
+      "text": "This is a modern (2-3 years old) 3 storey townhouse built in keeping with surrounding architecture. Joseph the host is a retired chef who left singapore 30+ years ago. Needless to say the breakfasts were delicious, perfectly cooked to  order.Property and rooms are spotlessly clean - for this cleanliness you can live with the house rules of removing outdoor footwear on entry. My wife was a bit nervous about sharing bathroom facilities - not a problem (there was no-one occupying the other room the 2 nights we stayed).Joseph was extremely helpful - giving directions and advice. B&B is a little out of town - but street car (tram) can be caught less than 50 yards from front door and takes about 8 minutes to  drop you on Younge Str (main North to South street)Good restaurant - Joy's just around the corner.Would definitely stay again - got the holiday off to a good start.",
+      "rate": 5.0,
+      "tripDate": " June 2007"
+    }
+  ]
+}

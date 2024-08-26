@@ -1,0 +1,40 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Lovely Viii Space Share Rooms Per Month East York Canada",
+    "url": "/Hotel_Review-g155019-d26532914-Reviews-Lovely_Viii_Space_Share_Rooms_Per_Month_East_York_Canada-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "1.0",
+      "reviewCount": 2
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "317 Gowan Avenue",
+      "addressLocality": "Toronto",
+      "postalCode": "M4J 2K7",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/43/9c/d1/caption.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "Stay in hell, they ruined my vacations",
+      "text": "I don't recommend renting this place, the ads are misleading, I had a horrible time there. They claim to have a maximum capacity of  5 adults, and that's not true, the place is filthy, and full of noise at really late hours, it's a old house, that's been painted, but still doesn't smell good. The place is unsafe, the emergency exit is not how it's mandatory to be. Also the place has spiders, by law the place needs to be fumigated.I have more bad things to say of how unsafe it is due to my personal experience, but the page is not allowing me to do so, only keep in mind to avoid renting here.The lack of communication with the place is terrible, they don't reply calls, texts or emails, once you already paid.",
+      "rate": 1.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Stay in hell, they ruined my vacations,  DO NOT BOOK HERE!!!! SCAM",
+      "text": "DO NOT RENT HERE, BY THE WAY THE DATES ARE WRONG AND NOT EVEN BOOKING CHANGED IT nobody is taking any responsibility when you have a problem there. You need to know that booking is an intermediary so is up to owner to solve the stuff and they don't pick up the phone, reply emails, or booking.com chat, when booking tries to contact them. Is not a safe place, don't be fool by the pictures they post, they keep reposting the ad, to appear as new to booking.com, but they aren't new, they just don't like bad reviews. Everything on the ad is a lie, the maximum capacity is not 5 grown ups,  they even have people in the baseman, not to mention the \"manager\" lives in the shed in the backyard. The baseman is like something out of American Horror Story, filthy, smelly and dangerous, because if there's fire going on, you won't be able to get out, not to mention, is like a corridor and next to the kitchen you have a curtain with a bed behind it, that honestly smells like, let's say horrible. Filthy house, full of noise, people running through the house at 2 a.m barefoot half naked, slamming all the doors he ran into, turning on all the lights, kids running up and down the stairs, locks are not safe, the owner told me it wasn't a safe place for me to stay and that i had to leave, talking about that there been rapes, fights and all kind of felonies, also that some people can take it and some people can't. There were vomit on the bathroom sink, knots of nappy hair on the stairs, the emergency exit is chaotic, in front of it is the washing machine and the dryer, so you run into that, is blocked by a bathroom door if it's open, no proper fire extinguish, Smoke detectors with batteries,  and carbon monoxide detectors. You even have a step in the middle of a corridor marked with yellow duct tape, not even reflective tape",
+      "rate": 1.0,
+      "tripDate": " August 2023"
+    }
+  ]
+}

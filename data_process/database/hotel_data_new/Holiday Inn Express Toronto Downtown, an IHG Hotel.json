@@ -1,0 +1,318 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Holiday Inn Express Toronto Downtown, an IHG Hotel",
+    "url": "/Hotel_Review-g155019-d183077-Reviews-Holiday_Inn_Express_Toronto_Downtown_an_IHG_Hotel-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 317
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "111 Lombard Street",
+      "addressLocality": "Toronto",
+      "postalCode": "M5C 2T9",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/00/f3/7f/adelaide-street-entrance.jpg?w=500&h=-1&s=1"
+  },
+  "description": "You are part of it all when you \"Stay Smart\" at the Holiday Inn Express Toronto Downtown, featuring a combination of Fresh, Energetic and Engaging elements created to meet the evolving needs of our Business & Leisure guests. Located in Toronto's vibrant downtown, our 100% Smoke-Free hotel is minutes from Toronto Union Station, Billy Bishop Airport (YTZ) or easily accessible from Toronto Pearson International Airport (YYZ) by hopping aboard UP Express. \"Canada's Downtown\" Awaits You!Steps away from the Business, Financial, Entertainment and Shopping Districts Holiday Inn Express Toronto Downtown is also within short walking distance to over 50 unique dining experiences and major attractions such as Ripley's Aquarium, CN Tower, Hockey Hall of Fame, The Distillery District, St Lawrence Market, Scotiabank Arena, Rogers Centre, the Harbour Front and many more - including Toronto's largest shopping mall, the CF Toronto Eaton Centre!",
+  "featues": [
+    "Paid private parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Free breakfast",
+    "Kids stay free",
+    "Children's television networks",
+    "Taxi service",
+    "Business Center with Internet Access",
+    "Parking garage",
+    "Wifi",
+    "Breakfast available",
+    "Breakfast buffet",
+    "Complimentary Instant Coffee",
+    "Vending machine",
+    "Highchairs available",
+    "Baggage storage",
+    "Non-smoking hotel",
+    "First aid kit",
+    "24-hour check-in",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Dry cleaning",
+    "Blackout curtains",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Sofa bed",
+    "Walk-in shower",
+    "Interconnected rooms available",
+    "Safe",
+    "Sofa",
+    "Telephone",
+    "Wardrobe / closet",
+    "Clothes rack",
+    "Iron",
+    "Laptop safe",
+    "Wake-up service / alarm clock",
+    "Refrigerator",
+    "Flatscreen TV",
+    "On-demand movies",
+    "Radio",
+    "Bath / shower",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Nice hotel - we plan to stay here again",
+      "text": "We stayed here for 4 nights and were very pleased with our experience overall. The rooms were clean and the beds very comfortable. There were three of us in the room and we did not feel cramped at all. We were on the 8th floor facing the courtyard where vehicles drop guests off and found it to be quiet. All of the staff were very friendly. The complimentary breakfast was a mixture of hot and cold foods, offering something for everyone. It can get very busy there in the mornings but there is a lot of seating in the breakfast area.  As well, the staff were consistently topping the food up so that things did not run out.  We found the free WIFI to work well. We plan to stay here again the next time we visit Toronto.",
+      "rate": 5.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Great central spot for jazz lovers",
+      "text": "We have stayed at the Holiday Inn Express Downtown a few times as it is central enough for inexpensive cab/Uber rides and the rooms are recently renovated. Breakfast was included in our stay and it's a good mix of hot and continental. However, this time we were going because it is central to the Jazz Bistro and Reservoir Lounge. It's great when your hotel is surrounded by incredible restaurants/markets/unique clubs.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Decent stay",
+      "text": "I had to stay at a hotel when the place I was previously staying at had a potential COVID exposure so I couldn't return for a week until they were cleared.This hotel was the best price and very close to where I needed to be for the 2 nights I was in Toronto.  The initial check-in was a little different but this was the first time I was staying at a hotel since the pandemic started.  It was all contactless and while they normally offer a breakfast bar during the stay they had prepackaged foods like granola bars, yogurt cups, etc. for breakfast due to the restrictions.The room I stayed in was on the 16th floor and had a partial view of the CN Tower which was nice.  It was a quiet room and quite clean overall.  The bathroom was very bright and had a nice shower in it.  There was a microwave and mini fridge and safe in the room with a small workspace and TV.  I was able to connect to their internet with no trouble. (I used wifi but it looked like there was a spot for a wired connection)  The one thing I didn't like was the lamp on the worktable I had in the room was an odd touch lamp, I prefer ones with a switch.  Otherwise though the stay was nice and I had everything I needed.The staff were friendly and there is underground parking available (I already had parking nearby from my previous accommodation).  The main lobby area is secured by keycard or buzzer through the main entrance.  Overall, if I needed to stay for a couple nights in the same area I would have no problem going back to this location.",
+      "rate": 4.0,
+      "tripDate": " October 2020"
+    },
+    {
+      "title": "Overall Great !  ",
+      "text": "Great Stay !!!    From the check-in desk, to staff service, to cleanliness and location, this hotel earns a 5 🌟 in my opinion.   We had a slight mix up with our Hotels.com reservation, but not to worry - the assistant manager quickly & professionally took care of the issue and we were on our way. The room is clean and comfy with all expected comforts.   I appreciate the less waste in the room toiletries with wall mounted bottles of lovely JR Watkins shampoo, conditioner and shower gel. Breakfast was typical hotel breakfast - but everything was bright, clean, well stocked and hot/fresh.  Overall,  our stay was perfect for our Toronto getaway during Christmas market season. Well done Holiday Inn Express !     You done fantastic for service, comfort and professionalism.",
+      "rate": 5.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "Excellent location - 25 Aug to 28 Aug 2022",
+      "text": "We reserved for 3 nights at the Holiday Inn Express. We arrived around 1 PM and got our room even though the check in was at 3 PM. We also took the underground parking option (30$/day - taxes included). The room (#802) has the typical amenities (safe, fridge, dryer, coffee machine (Keurig), soap/shampoo, etc...). You also get free Wi-Fi. The beds were very comfortable and the room was clean. The hotel does not do any room service during your stay unless requested 24 hours in advance.We had breakfast included with the package we took. The breakfast items were mostly the same every day : eggs, sausages, make your own pancakes, fruits (orange/banana), cereals, yogurts, small muffins, orange/apple juice, etc...The front desk members and other staff were always friendly, helpful and courteous. The room was overall very good as well as the breakfast. The location is great as everything is at a small walking distance. There is a park next to the hotel too.Overall, everything was excellent. We look forward to staying again at this hotel.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Nice Stay in the Centre of Toronto Downtown",
+      "text": "Our stay @HolidayInn made us feel comfortable and happy. This is quite near to Toronto financial district and we were able to spend our time by walking, biking and sort of seeing the downtown. Rooms are very tidy and staff are very supportive especially @Ravish Kumar has specially allocated a room with city view which is certainly worth to each penny. This hotel is in a great place and well connected with public transportation , restaurants and supermarkets.I finally felt my choice is good after cancelling another hotel and moving here.",
+      "rate": 4.0,
+      "tripDate": " April 2021"
+    },
+    {
+      "title": "Exceptional Service In A Crisis",
+      "text": "We needed to make a quick exit from the nightmare AirBnB we were staying at at 11pm on a Thursday night. We needed accommodations for my fiance and I plus our 16mo daughter.The two nightshift staff, Arul and Willie, were exceptional in helping set us up in a two queen room isolated at the end of a hallway to ensure a quiet space for us and especially our daughter to sleep. They extended our check out time until noon to give all of us plenty of time to get in a really good night's sleep and sleep in, which our daughter badly needed after two horrible nights. I hope Arul and Willie are rewarded by management because they went above and beyond to help make it a quiet, restful night for our family.",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Excellent",
+      "text": "This property is located at the center of downtown and at a walkable distance from many of the tourist destinations. The rooms are very spacious, clean and well maintained. The staffs were very helpful, I would like to thank Mr. Sugu at the reception, who was very kind and welcoming. He guided us with the information which a tourist or an immigrant is looking for. As a suggestion, I would request the hotel management to have some changes in the breakfast menu as it gets bored, if a tourist is staying for more than four days.I would give a five star rating for my six nights stay in this hotel.",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Great value for money downtown",
+      "text": "Recently stayed for 4 nights. Room a little dark as windows not very big but spacious and very clean. Lovely, comfortable large bed with good quality linen. Large shower and nice towels .Asked for extra pillows and they were delivered immediately. The breakfast is included. Although not extensive it was plentiful and tasty. Cereals, pastries , fresh breads , bagels and muffins . Hot egg dishes with bacon and sausages , fruits, yoghurts etc all the staff welcomingApprox 15 min walk to Eaton Centre a little longer to harbour side.  Complimentary tea and coffee in lobby also able to make in room which also had fridge and microwave.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Amazing place to stay",
+      "text": "Clean, clean, clean.  Great location.  No restaurant in the hotel, but there are lots of local restaurants and shops nearby.  Room price  included a hot breakfast with a large array of food items from cereal, to eggs, sausage/bacon, yogurt, fresh fruit, pancakes, muffins, warm cinnamon buns, etc.  and it was constantly being replenished. Room also included a mini fridge and a microwave.  All the team - from reservations to housekeeping to breakfast service to maintenance were terrific and moral seemed very high. Friendly, knowledgeable about the area, directions, etc.  We stayed here two nights and  will definitely be back.",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Excellent stay",
+      "text": "Locations is great...walking distance to many bars and restaurants. Check in was quick and staff friendly. Room was fine no issues. Breakfast in the morning was basic scrambled eggs and sausages, pancakes, fruit and yogurt. Would stay there again.",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Great location",
+      "text": "Stayed here for three nights and the first thing we noticed was the location and secondly the very friendly and helpful staff at check in. Fast check in was appreciated.Room was fine however we could hear outside noises including one night we had someone yelling at the top of his voice at 1 in the morning. There was also private fireworks at 2 in the morning. Not a criticism of the hotel but double glazing would assist.Breakfast included was basic but delicious.Great location for all the sights and would stay again.",
+      "rate": 4.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Great Hotel",
+      "text": "Great hotel for our visit to Toronto.  Within walking distance of many sites, transit not far, and parking under the hotel.Room was a good size, very clean, with very comfortable beds/pillows.  Staff throughout the hotel was extremely friendly and welcoming.  Breakfast was very good, with a good sized breakfast area, and coffee and tea are available throughout the day.  Breakfast is offered for three hours, but can get crowded closer to closing.If back in the area I would definitely look to stay in the Holiday Inn Express.",
+      "rate": 5.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Great choice in Toronto ",
+      "text": "Booked via ihg for 108$ goc rate.Checked in early before noon and room was ready. 9th floor room was decent sized, king bed, large lcd TV, fridge, microwave, keurig coffee machine. Bathroom was with shower. Nice view of area, especially at night.Breakfast had to be ordered the night before and delivered to the room or picked up. Scrambled eggs, bacon, sausage, fruit, cereals, yogurts. Only thing was no toasts.There is a gym on premise but did not visit.Lots of dining choice in walking distance.Would come back.",
+      "rate": 4.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Wonderful stay!",
+      "text": "Slipped to T.O. for a concert at Massey Hall. This location was perfect and just a short walk away. Very clean room with ample amenities. Very friendly front desk staff and the complimentary breakfast buffet was exactly what we needed before checking out. Highly recommend!!",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Nice and clean, but expensive.",
+      "text": "I traveled here with my kids for a quick visit to Toronto. We were suggested this location as the Holiday Inn closer to the waterfront was booked. This hotel was clean. The room was nice, the bathroom spacious. The hotel did not offer cleaning during the stay because of Covid, which I don’t agree with. I feel this is more cost saving for the hotel and not really a Covid thing. We asked a cleaning lady in the hall for location and we’re told to go all the way to front desk. Only 2 elevators which proved to be challenging during busier times. The breakfast space was too small for a hotel of this size. The lineup for eggs and bacon was not worth it. Can’t complain too much as it was free. The rate was high I felt for it’s location and amenities.",
+      "rate": 4.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Not very satisfied",
+      "text": "We were not very satisfied with our stay, as the room was quite small, noisy (we were on the 4th floor and in the evening we could hear street noise) and also had a bad musty smell.Especially not having paid little.Breakfast was normal, croissants only muffins, and one morning the pancake machine was broken.",
+      "rate": 2.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Bad place and smells bad not respectful",
+      "text": "If I can put no star, I will be the first one doing it at this place. I will never go back to this place. First of all it was very dirty place. Second customer service was very bad. Even their manager was trying to cover for his employees I booked a room there for three nights. When I went there to check the room the room has hair all over the bed went to the bathroom was very very dirty did not even clean when I opened the drawer. There is a still some stuff in there Housekeeping left a lot of stuff when I went down and spoke with the manager. He said if you don’t like it, you can leave I will cancel your reservation. He was Indian. I couldn’t even understand his accent very very strong most of the word I don’t even know what he was saying. They don’t respect customers with all that they were very dirty again I’m saying they were very dirty. I will never go back to any Holiday Inn just because that bad experience I had in this Holiday Inn.",
+      "rate": 1.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "City break",
+      "text": "Good location, 5mins walk from amazing market and 15mins walk from the station and had a lot.of sockets in the room. These are the only good things oh the staff are friendly and the lobby looks cleanThe rooms are terrible, we were shown 3 rooms, they all smelt like alcohol or feet. The room we ended up in on the 11th floor was the best of the worst, the beds were so soft it felt like you were sinking, the air con was so loud and vibrated it stopped you from sleeping, it felt like you were sleeping under a plane. The toilet was hanging off the wall and shook every time you used it. The towels were old frayed and darkI only had a bagel for breakfast and didn't have a look at the other food.I would avoid this hotel at all costs",
+      "rate": 1.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Location",
+      "text": "Good location.   Food delicious and well done.   Parking is a complete gouge. Room air conditioning poor and front desk only offered to change rooms.  Cramped but passable. Disappointed overall. Housekeeping unhelpful with no service and no extra towels for multi day visit.",
+      "rate": 2.0,
+      "tripDate": " August 2020"
+    },
+    {
+      "title": "Great Stay",
+      "text": "Check-in staff was super friendly, quick and easy  check in process. Room was very clean. Bed was like sleeping on a cloud! It was also very convenient for us that we could leave our car parked there after we checked out the following morning.",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Good Central Hotel",
+      "text": "The property was good. Cleanliness was good. Upon checking we noticed fridge warm. We unplugged, and replugged but still nothing. Called desk and they sent maintenance right away. He basically did the same thing and got it going. Only thing is it took until next morning to be cold, so bit disappointed. Went to turn on TV in evening and no remote. Had to call for one. I am happily the hotel is pet friendly but when a doggy barks on and off all evening and through the night, that is not pleasant. Finally at 2 am I called desk they said they will definitely look into it and find room. But unfortunately it didn’t stop. Maybe if I was a heavy sleeper I could have got through it, but I was actually more concerned about the dog as someone had obviously left it unattended and I was worried it was distressed. Anyways that was the 2nd night, 1st night was okay. Hit breakfast isn’t something that I can eat, but good they have it for those that would enjoy that style of food. Parking was good, felt secured being underground. I loved the area. Great walkability for sure and good price for what it is. I would stay again. Things happen and overall is was a comfortable hotel with nice staff.",
+      "rate": 4.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Excellent location",
+      "text": "We stayed 3 nights at this hotel for the great location near downtown. Nice and clean spacious room , exactly described at the website. Comfortable bed , washroom is a bit small but clean and updated.Walking distance 20 minutes from Union Station , very convenient.  Lots of restaurants and coffee shops nearby. Friendly and helpful staff at the front desk, much appreciated their cheerful attitude to the guests. Housekeeping was at the request no problem! Done, thank you. It’s good to have clean washroom during the stay. Thank you !Free breakfast, lots of choices, that was  enough for the basic breakfast . Coffee, tea, breads, sausages, scrambled eggs, scones, bananas, oranges, milk, yogurt etc. Also a pancake machine for making pancakes , but I didn’t like the texture of pancakes, it’s tasted different from the normal pancakes. Check in and check out are very efficient and fast. Will come back again next time. I recommend this hotel to friends.",
+      "rate": 4.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Great location & value",
+      "text": "We booked through a Porter Airlines package.  Check in/out process were quick and smooth.  Room was clean and nicely updated.  The convenience of this hotel is terrific.  We grab Porter Airlines shuttle from City Airport to Union Station & walked (20 mins).  Despite the bitter cold, the walk was manageable.  We took Uber to our dinner & back just because we were dressed up & it was cold but only 12-15 CAD each way which wasn't bad.  Parking was cheaper than other hotels for my family who drove in.  Breakfast was plentiful & had everything needed to start your day.  Staying here again in March & April when we come in for weekend trips.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Good hotel, very well located",
+      "text": "Well located basic hotel in downtown Toronto. The St Lawrence Market is two blocks away. Many excellent restaurants are nearby. The hotel itself is basic, but clean and a very good staff. The breakfast is little better than the average free breakfast, but can be quite crowded. I saw a comment about the area being a little worrisome. Did not find that to be the case. Took the obvious care walking around at night. Saw a few homeless folks, but no aggressive panhandling or other issues. Would stay here again.",
+      "rate": 5.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Good room good location",
+      "text": "We stayed here for one night in August. It was an older hotel but updated for modern decor. Beds were comfortable, rooms were average North American size. Union Station is within 2km walking distance and there are a bunch of restaurants nearby. Air Conditioning was old style and did not work the greatest in the heat of the day. The air-conditioning unit needed to be cleaned. It appeared as to never have been vacuumed out since installation.",
+      "rate": 4.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Terrible wifi",
+      "text": "The wifi was the worst. The hotel said they had free wifi but it takes ten minutes to load a page. When I called the front desk, they transferred me to IT where I had to restart my phone several times. It takes forever for pages to load and I can’t even check my email. It’s 2023, the bare minimum is good wifi.",
+      "rate": 1.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Great staff and location, average but smelly room",
+      "text": "Location was good for exploring the city and it's always nice to have breakfast included. All staff we encountered were extremely helpful and friendly to us and to other guests. Room (1205) was just okay. It was small and could have been a little cleaner. Neither of those things would have bothered me but it smelled really bad. We got used to it, and didn't spend much time there anyway, but every time we returned the odor hit us when we walked in the door.",
+      "rate": 4.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Good hotel for the price",
+      "text": "Toronto hotels can be very expensive.  The rate at this hotel was reasonable. Check in was efficient. However the 1st room I was given was not good. The room smelled musty, like an old ashtray.  The next morning I brought this to the attention of the front desk and the representative was very understanding. Sent someone up with another room key and that room was perfect. No odor and everything worked. I was quite pleased.  Breakfast was adequate. Check out was easy.  Hotel is on the fringe of an area one might not want to venture in at night.  But during the day, it was a simple walk to the theaters, arena's or other tourist areas.",
+      "rate": 4.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Great stay!",
+      "text": "We enjoyed the breakfast buffet! Very attentive Food Runner, nice and hot coffee, tasty breakfast sausages, warmed oatmeal, fresh bananas/oranges, cinnamon rolls. While the scrambled eggs were too dry, the pancakes machine was fun, loved it!",
+      "rate": 5.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Fantastic!",
+      "text": "Stayed here as part of a Tui package holiday for 6 nights, including breakfast.  Room was a reasonable size with two queen size beds which were very comfy.  Lovely, high quality bed linen.  Rooms had a mini fridge, microwave and coffee maker, which were very useful. The hotel lobby sells frozen ready meals for you to microwave which is a nice touch.Bathroom was very modern with Dove toiletries.  Concealed lighting in the room made it feel very cosy, with a nightlight in the bathroom.  We were on the 16th  (top) floor which was very quiet.  Excellent large, fast lifts - never had to wait more than a minute.  Very helpful staff.  Breakfast was fine with bacon, sausage, scrambled eggs, juices, hot drinks, toast, bagels, muffins, warm cinnamon buns, cereal, yogurts etc.  The hotel is also in a great location, about a 15 minute walk from Union Station where you can catch the UP Express train to the airport.  I would definitely recommend this hotel.",
+      "rate": 5.0,
+      "tripDate": " November 2023"
+    },
+    {
+      "title": "Great Location! Great Stay!",
+      "text": "This was a first time visit to Toronto.  I admittedly was a little hesitant at first. Graffiti was on an outer wall, and vines on the building needed to be trimmed. I checked in at a busy time, but the front desk agents were still very courteous and friendly.  The room was typical HI Express, shower pressure was great, bed was comfortable, room felt fresh and clean.  I had a corner room and the view was amazing. This is an excellent and walk-friendly location. You will not need a car or Uber to go to any downtown location.  I actually walked with luggage from Union Station to the hotel. I loved that a park was across the street. Food was typical HI Express but the attendant made sure that the food was plentiful.  She could use another hand to help with keeping the eating areas clean.  Also, the business center carpet, sofas and chairs definitely need to be deep cleaned or updated.  All in all, this is a great location with clean rooms and exceptional customer service.  We will definitely be back.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Great location and close to major Toronto downtown area",
+      "text": "Travelling with family (Aug 22 thru 29) to explore Toronto major downtown attractions: Union station (travelling to/from airport by Union Express), CN Tower, Ripley's Aquarium, Toronto Eaton Centre, Yonge-Dunda Square, Entertainment district (Soho), St. Lawrence Market, Distillery District,  Royal Ontario Museum, Eataly (famous Italian dining and supermarket), Casa Loma, University of Toronto (constantly ranked #1 or #2 in Canada), Spadina, University Blvd, Jack Layton Ferry Terminal for heading to Centre Island, Harbourfront Centre, etc.Most of attractions above are within few blocks walking distance. You could explore thru massive underground mall (PATH) to and from the hotel, and/or with Ride Hailing (Lyft or Uber) would average range between $8 to $15. This is a great value hotel, clean, spacious, free hot breakfast (love that cute automated pancakes maker -> push 1 button for 2 pancakes). Both front desk staff and breakfast area are cordial and attentive. The WIFI at night could sometime be slower at night, understandably with increase usage when the hotel guests are mostly back in their room, but reasonably fast in the morning. Likewise for the shower water pressure. These 2 areas perhaps could be improved.Would love to come back again in the future.",
+      "rate": 4.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Great place to explore Toronto from.",
+      "text": "We choose this hotel because of its location and it was pretty much perfect. Right beside a small green space park near the Flat Iron building.  The rooms are excellent and have heating/AC as required. Got a room with a view on the top floor which was spectacular.Room comes with fridge and microwave which is a nice bonus. There is a local store, plenty of restaurants and the St Lawrence Market to help feed yourself.Breakfast was good with plenty of options and enough ‘portable’ items to helps with daytime snacking.The location allows for easy/moderate walks to all of the downtown areas including Harbour front, Distillery, Corktown, CN Tower, Kensington, Chinatown.",
+      "rate": 5.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "If you looking for a great deal in a great location you got it !",
+      "text": "Nicely located a walking distance fromDowntown, shopping malls Mirvish theatre etcParking - secure , self park and priced about 20 dollars less then some other establishments.Front desk and hotel personnel- super friendly and welcoming .The biggest plus - rooms are super clean and bed are super comfy . Window opens for fresh air which is a big plus :)Microwave, small fridge and coffee maker provided.Breakfast is included with lots of seating accommodations, self served with nice choices . It a smaller room that we are used to but not cramped and it has all you need on a quick get away .Congrats to the management . Well done .",
+      "rate": 5.0,
+      "tripDate": " February 2023"
+    },
+    {
+      "title": "Enjoyed stay, would definitely return to this hotel.",
+      "text": "I really enjoyed my stay at this hotel for a 4 night work trip and would definitely stay again next time I'm in Toronto. The staff were all great and v accommodating to my requests. My room was spacious (by European standards) and the bathroom and shower were good, decent toiletries and no problem with hot water. It's only a 15min walk from Union station, and I really liked the location just on the edge of the main downtown area so that there are some smaller more 'local' feeling restaurants around (Cafe Oro di Napoli just across the road was great for pizza), but you are still close to everything downtown. St Lawrence market is v close by too. Great tram and subway connections. My room had a nice view on onto the St James's park and church in front. Lifts were quick and efficient getting up and down. Breakfast was fine, although 'scrambled' egg appeared to be chopped up cubes of hard omlette which was odd, and it was a real pity that we had to eat on paper plates and with disposable cutlery. As a tea drinker I would have liked a kettle in my room as the hot water that came out of the coffee machine in the room wasn't hot enough to make decent tea, however, there was v hot water (and more coffee) available in reception 24/7 if you needed it. In spite of these small issues I would definitely stay here again.",
+      "rate": 5.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "Fantastic hotel!",
+      "text": "We arrived as part of a USA & Canada trip from Ireland. My second visit to Canada and my partners first visit. This hotel was fantastic. We had started our trip in San Francisco in a holiday inn express so we hoped this hotel would mirror the experience we had there and it did! We were greeted as we entered by a gentleman on the desk. This was Easter time and the hotel had chocolate treats at the desk for guests. Thoughtful little gesture.  The guy was very friendly and welcoming. He made sure that we would have a nice room and also that we would have a room up high to enjoy a nice view.  Breakfast was included and we were again very impressed with the service and the selection that was on offer for breakfast just like San Francisco hotel. We arrived in our room which was great. The room had all the essentials and was very clean and Modern.  The view was amazing overlooking the park across from the hotel and a view of all the sky scrapers in downtown Toronto.  The hotel was very close to a metro supermarket for food and snacks for the room.   We checked out a lovely restaurant called HOTHOUSE which we enjoyed the food and the service. Please check out a few coffee shops nearby including the black canary, Fahrenheit, b espresso bar and third wave coffee. Just a few mentioned. The hotel is near St Lawrence market for all the foodies.  This market has so much to offer. Lots of local produce and fresh food market stalls for everyone. What a great city and what a fantastic hotel.",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Good hotel but with important caveats",
+      "text": "Its a nice hotel and makes a good value. The breakfast is great. The rooms are small, but are clean and reasonably modern. Location is good (in terms of distance), on the edge of downtown and is an easy walk or trolley ride to anything you want to see downtown. There is a wonderful park with a kids playground half a block away. However, that \"on the edge\" part is where it gets interesting. A block north or northwest, things quickly look like a different zip code and not a better one. There is a homeless shelter directly across the street, with everything that entails. You constantly see half naked mentally ill or drugged out people sitting near the hotel entrance or walking down the street yelling at no one in particular. Often walking through the wonderful little park.  One evening there was a bag of syringes with other injection accessories spilled all over the ground around the corner. There is clean looking marijuana store next door.  There is another not so clean looking marijuana store a block away. Across the street of that store, there is another homeless shelter or low income housing unit with half a dozen individuals hanging out doing drugs right out on the sidewalk. Its a tough break for this hotel, as it is quite nice, but these are all very important consideration to keep in mind when booking. This is not a family friendly location.",
+      "rate": 3.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Nice View from our Hotel room",
+      "text": "This is our second time staying at this hotel the first was during New Year 3 years ago.We were able to check in early at 1pm instead of the standard 4 pm check in time.Unlike the Holiday Inn Downtown Toronto the rooms at this hotel are more spacious and newly renovated. The hotel corridors are twice wider compared to the other Holiday Inn  downtown Toronto hotel.Breakfast was so so but at least its free.We had a good view  of a park and the Toronto skyline in our room.We would stay here again",
+      "rate": 4.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "Elderly Couple forced to drive home at 2 AM",
+      "text": "We have stayed here before and use to be happy with the service. This time March 24/2023 we had a reservation booked 4 months ahead of time. They new loyal elderly IHG member where coming. At midnight we called to complain about the loud hallway yelling and slamming of doors. At 1:45 AM we had enough and wanted our money back. Front desk said; Was a large group of university students just blowing off steam and having fun. OK. even a new manager would put them on 2 or 3 floors all to themselves. you have 16 floors. We only live 2 hours from the hotel and come into Toronto for Mirvish shows. So we drove home at 2 AM. Dead tired and jet lag as I am writing this.",
+      "rate": 1.0,
+      "tripDate": " March 2023"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "The Yorkville Royal Sonesta Hotel Toronto",
+    "url": "/Hotel_Review-g155019-d155566-Reviews-The_Yorkville_Royal_Sonesta_Hotel_Toronto-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 380
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "220 Bloor Street West",
+      "addressLocality": "Toronto",
+      "postalCode": "M5S 1T8",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/e2/48/6b/toronto-yorkville-exterior.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Valet parking",
+    "Wifi",
+    "Pool",
+    "Fitness Center with Gym / Workout Room",
+    "Bar / lounge",
+    "Patio",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Taxi service",
+    "Paid private parking on-site",
+    "Paid wifi",
+    "Pool / beach towels",
+    "Pool with view",
+    "Indoor pool",
+    "Heated pool",
+    "Fitness / spa locker rooms",
+    "Restaurant",
+    "Breakfast available",
+    "Breakfast in the room",
+    "Complimentary Instant Coffee",
+    "Kids' meals",
+    "Outdoor dining area",
+    "Special diet menus",
+    "Wine / champagne",
+    "Business Center with Internet Access",
+    "Conference facilities",
+    "Banquet room",
+    "Meeting rooms",
+    "Photo copier / fax In business center",
+    "Couples massage",
+    "Full body massage",
+    "Massage",
+    "24-hour security",
+    "Baggage storage",
+    "Concierge",
+    "Currency exchange",
+    "Newspaper",
+    "Non-smoking hotel",
+    "Outdoor furniture",
+    "Sun deck",
+    "Sun terrace",
+    "ATM on site",
+    "Doorperson",
+    "24-hour front desk",
+    "Dry cleaning",
+    "Laundry service",
+    "Ironing service",
+    "Shoeshine",
+    "Allergy-free room",
+    "Blackout curtains",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Walk-in shower",
+    "Bathrobes",
+    "Room service",
+    "Safe",
+    "Telephone",
+    "VIP room facilities",
+    "Iron",
+    "Laptop safe",
+    "Tile / marble floor",
+    "Wake-up service / alarm clock",
+    "Minibar",
+    "Flatscreen TV",
+    "On-demand movies",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Landmark view",
+    "Bridal suite",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "A Great Stay in Toronto ",
+      "text": "This is a lovely hotel.  The staff at the front desk are so very pleasant and helpful. The rooms are beautiful - very spacious, clean and comfortable.  The location is perfect, within walking distance to so many places. Great restaurants in the vicinity as well.",
+      "rate": 5.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Nice Hotel, Great Location",
+      "text": "Terrific location on Bloor Street, the heart of Toronto’s upscale shopping and museum district. This is a friendly hotel with attractive public spaces and nicely updated rooms. We had 4 restful nights in very comfortable accommodations. The lobby level restaurant has very friendly wait staff and good food. The fitness room is on the small side for a hotel of this caliber and one of the machines was not working. Valet parking is expensive ($50/night) although given the location, probably fair value. The frustration is the long wait to bring cars around or dropped off; ICH needs an additional staff person on duty to support. All in all a pleasant stay and a nice hotel. At the right rate, a great choice for this area.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Hotel Stay",
+      "text": "Hotel is very nice as is the staff. Do not agree with the sensors in the bar fridge. We merely picked up the  bottles and put them back without consuming them and charges for consuming two bottles were on our bill. We had these removed. How many guests dont even check? More care for the guest should be in place.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Needed a place for New Year's Eve.",
+      "text": "My kids had a party at our house so I needed a nice place to say.This one really checked the boxes.Walking distance to our dinner plans.This place is very nicely done and well thought out.The common areas and the rooms are taken care of and make you feel good being here.Our room was done up nicely, clean and a comfortable bed too.This is a good option for staying.My only small complaint is the hefty $50 valet charge.The room was already inflated for New Years $50 was a bit much when the parking lot is right next door for $22.It's a small thing but other downtown hotels do not charge $50 which might just make me stay elsewhere.The $20/ea breakfast was convenient.",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Convenient location with excellent service",
+      "text": "My husband and I stayed here for two nights while I recovered from eye surgery at the Bochner Eye Institute which is only a block away, so it was the perfect location for this trip. The Concierge service was excellent as they texted me immediately upon check in to ask if I needed anything. Once they learned about my surgery, they were super accommodating and offered me extra pillows and additional bottled water. It was a very nice touch and I appreciated the treatment. The breakfast goes until 11:30 and can be ordered to the room. The later breakfast during the week was a nice difference as we travel frequently for business and have never seen a breakfast offered past ten. We ate dinner in the Signatures restaurant which was delicious. The prices are high, but that's to be expected for a Yorkville hotel restaurant. I had the Lamb Sheohards Pie and my husband had the burger.The bedding was very comfortable and the climate control was very good. The room was spacious and I would definitely stay here again.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Deserving of the excellent reviews",
+      "text": "I stayed here with my sister for four nights in mid February. We requested a room with a view and were kindly given a top floor room with an excellent view of the Toronto skyline. The hotel is located in Yorkville an affluent neighbourhood close to The Annex with lots of food options. Toronto is very walkable but there a multiple subway stations nearby. The hotel overlooks The ROM. The room was spacious and had everything we needed. Everything was spotless. The shower could have better water pressure but okay. Toiletries are provided including conditioner. The beds were comfortable and the room was warm. Staff were friendly and always greeted us as we came and went. The service was 5 star and we would definitely make the Intercontinental our first choice if we returned.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Big room; big bathroom; big shower, big bed; big TV",
+      "text": "The InterContinental in Yorkville was great.  It's great for a vacationers and for business travellers.There are USB ports and power outlets on each side of the bed.  There are more ports and outlets at the desk.  And there are even more on the side of the chest of drawers.  Can't make it any more convenient than that.The room was very quiet, everything was generously sized (see my review title), and all of the staff was super nice.  There is a nice desk for working at and plenty of closet and drawer space to unpack into.  The mini-bar is very well stocked!The location is right by several museums, and there are two subway stops less than a block away.  Lots of restaurants all within two blocks, plus restaurants, fast food, and a pharmacy all on the same block as the hotel.The only complaint would be the incredibly sad water pressure in the shower, as well as the hair dryer barely pushing any air at all even on its highest setting.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Amazing!",
+      "text": "Hotel was located downtown in front of ROM and RCM. Service was great and the people at the desk and housekeepers were fantastic. Was just a little disappointed with the housekeeping aspect that sometimes they do not come when you need condiments, toilet paper and more but not a big deal. Room was very clean and the gym was good. Crowd control and COVID protocol was greatly observed! Also, I wish the place is sound proof because I could hear some wild noises from the upstairs neighbours and it was hard to fall asleep.",
+      "rate": 5.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Best Toronto Hotel I've Stayed At",
+      "text": "Stayed for two nights in a standard king room.  The room had adequate space unlike many other Toronto hotels I've stayed at.  During Covid times, I have made a habit of bringing wipes to disinfect high touch surfaces.  This hotel provided them! The hotel also provided a phone number that patrons could text if they had a question or needed something.  What a fantastic idea!  The reviews about the beds are true, they are super comfortable.  The staff was helpful and friendly.  I am a forgetful person and left a jean jacket hanging in the closet.  This is the only hotel I have ever visited that had a system in place for returning lost items.  We used the valet because my husband has a truck, and underground parking was not an option for us.  Given the great location, our vehicle remained in the lot our entire stay.  I would recommend this hotel to anyone.",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Valentine Day fun",
+      "text": "We had tickets for the ROM After Dark event “Desire” and decided to stay the night at the Intercontinental Yorkville due to the amazing proximity to the ROM and the fact we’ve had an incredible experience at this location in the past. The renovations are lovely. The rooms look great and are very comfortable. We always enjoy the pool, fitness area and saunas. The Breakfast buffet the next morning was delicious and we also loved the upgraded decor in the breakfast area. It is calm and relaxing. The staff all around were happy, friendly and efficient. Will definitely look to return again.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Terrible Service. I would give this hotel a 2 star rating. Room was dirty no water in the room. No minibar/ fridge.",
+      "text": "Dirty Room, cups in room are dusty. Shower water pressure is very low. Minibar not available not an empty fridge to put something in it. Guests can’t come upstairs must pick them up myself. Food delivery not allowed. Staff very grumpy and rude. Definitely a last one for me",
+      "rate": 1.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Excellent Stay!",
+      "text": "Did the booking last min and were pleasantly surprised by the quality of Yorkville Royal Sonesta Hotel.  The room was very well furnished and the services rendered by the reception and housekeeping were of tip top standards.  However, the bed was a tad too soft for me.  Overall,  a highly recommended accommodation for its vicinity to subway and quality service.",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Family staycation",
+      "text": "The front desk staff were incredible. They texted me several times the week prior to our stay to ensure we felt comfortable and our rooms were exactly as we requested. I mentioned we were there to celebrate my kids' birthdays and they even sent up a complimentary personalized birthday cake, card and balloons! The rooms were beautiful, very spacious and clean. We had a perfect stay! Thank you to Aline especially from the front desk for the amazing service.",
+      "rate": 5.0,
+      "tripDate": " October 2020"
+    },
+    {
+      "title": "Not as Good as Before - Conference",
+      "text": "I have stayed at his hotel (formerly IHG’s Intercontinental) three times previously for conferences.  Although the rooms and facilities are the same, the food quality for conferences has gone down quite a bit.  The staff at the conference services are very friendly and helpful, so the issue is not with the friendliness of the staff.  The rooms lack the “little things” that they used to have.  I understand because of COVID, the snacks and other amenities, free and paid, cannot necessarily be available in the rooms any more, but you dont even get a free bottle of water or a robe to use.  Seems like they’re cutting the little things that make the difference between a moderate or budget hotel and a “luxury” hotel.  Hallways were quite noisy, children crying and running down the halls, etc.  The quality of food and menu choices at the on-site restaurant, and the lack of small conveniences in the room make this hotel only an average rating from me.  Previously I would have rated it much higher.  Not a luxury hotel any longer.",
+      "rate": 3.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Pricey, but great location",
+      "text": "We booked here for the location and the prices were more affordable than other hotels that were nearby. Self-parking is available and the parking lot is directly behind the building. (just pull ahead and turn right to get to it. Easy!) Both outdoor and underground parking available. You are able to leave your car there and only pay daily fees - or there is an option to leave/return, but it seemed that you would be charged for every 30min. parked. It seemed cheaper to leave the car parked for our time there. We were within walking distance to the things we planned on doing, so that worked for us.Staff was pleasant & helpful. The hotel lobby is nice. Busy at times. The kids really liked our room keys - had pictures of animals dressed in clothing. We didn't have a chance to check out the pool, but did visit the rooftop lounge area briefly to see the view.We didn't use, but noticed signs that a discount was applied if you bought tickets to the ROM across the street from hotel.",
+      "rate": 4.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Service needs improvement",
+      "text": "The hotel is very nice. It is expensive. Based on how expensive it is service should be much better. They don’t have room service late, so if you want food you just order it out. However they don’t allow for delivery people to come to your room. So you must meet them in the lobby, This is not hospitality. I understand your policy and I also understand that your food service ends early; but why would you not escort the delivery services up to your guests rooms or better yet let them leave it with your staff at the front desk and your staff deliver it to your guests room. If you want to charge $500 per night act like this a the type of service that is expected for that kind of money. Furthermore it’s time for some new pillows. They are flat and beyond use. Who is checking? Who is insuring quality services?",
+      "rate": 3.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "A very good stay",
+      "text": "A very nice hotel excellently located. We could not have asked for a better view of the city from our room!! We would have given a 5-star if bottled water, for free or for sale, were available in the room. A self-service coffee bar in the lobby, made available in other similar-priced hotels, would have added value to our stay.",
+      "rate": 4.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Couldn't fault the hotel or service.",
+      "text": "We came here and had seen some average reviews but we absolutely loved our stay. We had a preferred king studio room and it was amazing. Massive room, lovely bathroom, long hallway and most importantly it was clean and modern.We arrived and noticed the fridge was locked and off and we had medication that needed to be in the fridge so they kindly brought one straight up for us to use. But just be aware the rooms don't have fridges.The room was made up everyday and did a lovely job.Couldn't fault the front desk and help with our luggage.We loved the location but it was further away from the shopping mall and restaurants we wanted to see but it was a nice walk and the hotel was quiet.Definitely recommend this hotel.",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Family stay with pet",
+      "text": "The location is perfect, across from the ROM and RCM. I stayed with my 2 adult kids and a pet. The double Queen beds were so comfy, the room spacious, and zero traffic noise, facing an inner courtyard. Overall much better than expected during Covid times. Will stay again!",
+      "rate": 4.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Couples trip",
+      "text": "We had a lovely experience and this hotel. Friendly attentive staff to start with, then a sparkling clean modern room with a nice view from our 5th floor king room over Bloor street and ROM. The rooms are very quiet with no street noise. We used the valet parking, yes it’s pricey but that’s true at most hotels in Toronto. Breakfast was a substantial top notch meal. We were glad we opted for the breakfast included price since breakfast options in the area seemed slim (plenty open for lunch and dinner). The area is very nice, lots of college students, museums and upscale shops. A drug store is right next door where we purchased public transportation tickets. Chinatown, Kensington market, Queens West are an easy streetcar ride away. Close to subway stops too. Definitely a place I’d return to!",
+      "rate": 5.0,
+      "tripDate": " April 2023"
+    },
+    {
+      "title": "Rubbish",
+      "text": "This place was not my first choice from the beginning. I specifically chose this place because I was visiting my son who attends U of T, which is only five minutes away.Here I had several bad experiences. Coming from Dubai I am familiar with good service, but as soon as I stepped in I realized that this place is well below any motel.1. When my cabbie dropped me off, the first thing I noticed was that there were not any doormen or porters present. So I had to both open the door and drag my two suitcases to the lobby myself, and when I asked if there were any porters available, the answer I got was “yes, they are somewhere”. Unless I had asked I would not have gotten the help I needed, and when I did ask they appeared to be reluctant to fulfill my request.2. Once I got into the room, I noticed that the mini fridge was locked and not functioning so I called to inquire about it and the receptionist told me that because of Covid 19 they turned off all mini fridges and that if I wanted to use one I would have to pay $25 per day?This I found ridiculous. As a frequent traveller, I’ve stayed at numerous hotels even during pandemic, and have never encountered a place like this.With the poor service and the situation with the mini fridge, I do not think it would be right to refer to this as a hotel.3. The hotel staff, specifically the receptionist, was not attentive nor friendly.4. The only positive part was the housekeeping, the lady who did my room during my stay was the only saving grace.5. Your time and money are important so do not risk having a bad stay.",
+      "rate": 1.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Great overnight downtown",
+      "text": "We came into Toronto for some appointments downtown and booked Intercontinental on Expedia. Checkin was smooth and fast and were able to check in early. Room very clean and comfortable.We had an early light dinner in the Proof bar - food good and service excellent! Relatively quiet in the hotel. We ordered room service breakfast - despite other reviews noting slow delivery, ours came fast and food was very good and hot.Our only small quibble was the Wifi which was weak to nonexistent in our room but very good in the lobby and bar.Note that restaurant is closed with Covid but bar opens at 4 PM and there is room service for dinner and breakfast.Would definitely stay again and recommend!",
+      "rate": 5.0,
+      "tripDate": " October 2020"
+    },
+    {
+      "title": "Perfect Stay when Visiting ROM or Royal Conservatory of Music for a concert",
+      "text": "This hotel truly met all our needs. Super comfortable, quiet and spacious room with all the conveniences ones needs, very good view of area, a bar with great pub food, valet parking in an area of Toronto where parking is limited and more. The staff are very friendly and helpful. We will be back. Photos from our room show how close we were to the Royal Ontario Museum (ROM) and the Royal Conservatory of Music (Koerner Hall). Great on a very snowy weekend.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Many disappointments with this hotel",
+      "text": "This hotel is very overpriced. The quality and attention to detail does not match the expense and it does not seem to be their priority. The hotel is very aware of their WIFI issues (which also impacts their TV service) but there was no mention of that. Even if you want to use your cell data to watch something (e.g. Blue Jays which was not available on their TV service) it is blocked. The fridges in the rooms have been de-commissioned and they are locked. If you want a fridge you have to call for a mini fridge to be delivered to the room - none of this is communicated at all. I am not sure how many mini fridges there are for the guests that would like to use one. Our curtains did not close fully and the food was below average. We were very disappointed. Many hotels do a much better job. Our response from the hotel was to come back and they would work to do a better job.",
+      "rate": 2.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Hard beds, hot room and cool showers made for an uncomfortable stay",
+      "text": "Unfortunately we had a very uncomfortable stay at this beautiful hotel. 1. The beds were so hard we couldn’t get a full night’s sleep on them and when we raised the issue, we were told all the beds were replaced with new foam mattresses recently and changing rooms would not help. No mattress toppers were available and no other solutions were proposed. 2. Although the sink water was hot, the shower on full hot setting was only warm at best. 3. The thermostat in the room did not control the temperature and despite us setting it at 18.5 degrees, the room was too warm. The problem worsened when the weather turned cold and it was a stifling 25.5 degrees in the room when we checked out. The windows, of course, don’t open. I completed the survey they sent me and have heard nothing back. I will say the hotel and room were clean and quiet, the linens were nice and the staff was friendly. We were able to rent a fridge for $25 for our whole 10-day stay, which we appreciated but would not have known about without asking. Sadly, we came home from our stay very tired. We will not return to this hotel.",
+      "rate": 2.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Very friendly service",
+      "text": "We requested an early check in due to being there for medical appointments and Emma at the front desk was extremely accommodating. We requested toiletries one evening and they arrived within a few minutes. Overall service was outstanding. A little pricey considering everything is closed for lockdown but overall a great stay",
+      "rate": 5.0,
+      "tripDate": " April 2021"
+    },
+    {
+      "title": "Long Weekend Well Spent",
+      "text": "My girlfriend and I decided to spend a night in Toronto for Labour day weekend and chose the Royal Sonesta. We booked the Yorkville Romance King Bed suite which was to include a bottle of wine and late checkout. When we arrived we received vouchers for breakfast (which were not to be included?) but the wine wasn’t there in our room. However, one call to the front desk to explain this resolved any issues, we received a half bottle of Veuve Cliquot and we’re able to keep the vouchers! Great service and was very prompt in resolving the issue. The room itself was spacious and had an amazing south facing view of the city, including the CN Tower and the football field. Bed was clean and very cozy, and the bathroom was also clean and had all you need to keep yourself clean and smelling good. All in all, great service, great room and view, would come back to stay again!",
+      "rate": 5.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "Great location, very clean room, comfy bed",
+      "text": "We stayed here overnight when we came to Toronto to pick up our daughter from college.  Excellent room at a reasonable rate.  Very central location, steps away from the St. George subway stop.  Note that there is a \"Green P\" parking lot that can be accessed from Belmont.  This parking lot is under the hotel and allows you to take an elevator right into the lobby.  Another parking tip.  If you're staying overnight on a Saturday night, pay for street parking unitl 9 PM and park for free until 1 PM on Sunday.  Street parking is $3 per hour versus $6 per hour in the Green P parking lot.",
+      "rate": 5.0,
+      "tripDate": " March 2021"
+    },
+    {
+      "title": "Needs some improvements",
+      "text": "The room AC sounded like a drone allNight and nearly kept it cool. The mattress had a large “ sink hole “ depression in it. Overall dark , dim lighting.  The breakfast . Food was decent , however they host large party’s of over 30 in the same room so it was extremely loud. Servers we’re running and over worked. Front desk didn’t ask me how our stay was upon checkout. Management was advised of the issues on day 2 and nobody from hotel management reached out at all during our stay  There are better choices in the area.",
+      "rate": 2.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Great location, service was lacking",
+      "text": "Self parking was easy (Green P under hotel) with elevator to lobby. Booked a room for a family of 5 and only was give 3 towels, asked for extra blankets and towels multiple times but only got poor quality scratchy blankets for the extra cot and was never given extra towels.  The bathroom products (shampoo, conditioner, body wash) were not nice, left a waxy film on your hair and body. The pool was fun for the kids but quite small and had someone \"doing swimming lessons\" in it both times we went. The location was excellent though. ROM across the street, Casa Loma about 25 min walk, and right next to subway station to the CN tower, Ripley's Aquarium area. Overall not worth the price per night for this hotel.",
+      "rate": 2.0,
+      "tripDate": " March 2022"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Atlas Suites - Mariner Furnished Apartments",
+    "url": "/Hotel_Review-g155019-d4697849-Reviews-Atlas_Suites_Mariner_Furnished_Apartments-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 66
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "35 Mariner Terr",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 3V9",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e5/02/f3/atlas-suites.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Located in the city centre of Toronto, Atlas Furnished Suites features a communal rooftop terrace with BBQ, fitness centre and 24-hour concierge. Modern and self-catered accommodation opens out onto a balcony. Offering free Wi-Fi, the stylish apartment consists of an open-plan seating, dining and a well-equipped kitchen area. Air conditioning, a flat-screen cable TV, laundry facilities and CD/DVD.",
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Children Activities (Kid / Family Friendly)",
+    "Non-smoking hotel",
+    "Clothes dryer",
+    "Washing machine",
+    "Air conditioning",
+    "Desk",
+    "Seating area",
+    "Iron",
+    "Kitchenette",
+    "Dishwasher",
+    "iPod docking station",
+    "Complimentary toiletries",
+    "Wake-up service / alarm clock",
+    "Refrigerator",
+    "Kitchenware",
+    "Hair dryer",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Tremendous",
+      "text": "Great location, 2min walk to CN Tower,5 min walk to Union Station. Bars and restaurants all close by. Fantastic views from the 39th floor of downtown Toronto. Very clean well presented apartments. Only downside is the parking as we had booked a space but there was none available. Pay parking is close by.",
+      "rate": 5.0,
+      "tripDate": " November 2014"
+    },
+    {
+      "title": "Great Location",
+      "text": "The suite was very functional and the location is great.   Your a 5 min walk to the CN Tower and Rogers Center. The waterfront is a 10 min walk.  The security/front desk people are not friendly at all but in all fairness this is not a motel. The suite comes with a washer and dryer which was helpful on a weeks vacation.  We could wash clothes and etc so we limited our packing a little bit.  I would recommend this place to others.  One foot note reference the area bring some money as everything is expensive except the coffee shops.",
+      "rate": 4.0,
+      "tripDate": " May 2014"
+    },
+    {
+      "title": "Great Experience.",
+      "text": "The location of the apartment was fantastic!! The view looking out over the lake towards the islands and in particular Billy Bishop Airport was amazing. Watching the planes leave and arrive was an added bonus. The suite was also brilliantly situated for all the tourist attractions and the commercial areas. The suite was immaculately clean and fresh. The kitchen was well equipped for preparing food if eating in. The suite was warm and comfortable even with temperatures of -17. Also being able to arrange a later checkout was very much appreciated. I have already recommended the suite to friends and family.",
+      "rate": 5.0,
+      "tripDate": " February 2014"
+    },
+    {
+      "title": "NOT A HOTEL Dirty, Misrepresented, Unprofessional",
+      "text": "I arrived at the Yorkville Atlas Suites location at around 10:30pm April 17th. There was no signage on the outside of the building and it was completely hidden by the current construction. Nearby hotel's and restaurants had no knowledge of the hotel, nor did any residents leaving the building who told me I was mistaken and it was actually an apartment building. Residents leaving the building were not able to direct me to a hotel lobby, or a front desk of any kind. I finally was able to locate the concierge of the building through entering the \"hotel\" in a very round about way. The lobby of this residence was also under construction, and there was no management present, only two men working at the concierge desk who seemed to know little about the property. They handed me a key in an envelope and wrote down the number to the \"front desk\" on a post it note incase I needed anything. This did not feel like a proper hotel at all.I went upstairs to the room only to find it absolutely filthy - scuff marks all over the walls, hair on the walls, dirty kitchen and stove, stained furniture, smeared finger prints on all cabinetry in the kitchen, and stained curtains. This is not a legitimate hotel at all and seems to be independently owned suites acting as some kind of bed and breakfast under the Atlas title.",
+      "rate": 1.0,
+      "tripDate": " April 2016"
+    },
+    {
+      "title": "Great view, good location but dirty and needs maintenance",
+      "text": "Started with debacle of checking in, no reception but just security. Arrived early knowing we wouldn't be able to check in, but needed to leave our luggage. Alas they don't do this. Not able to contact owners to arrange this. Phoned number but went to voicemail!!! No return call.Booked for 2 adults and 2 children.  Sofa bed wasn't able to be slept on, head of the bed dipped down no way pillows would have stayed on bed. Not a hint of tea and coffee? Surely a complimentary cup of tea is not too much to ask?Carpet on living room floor was putrid. There was hair in my bed, bathroom wasn't clean. When we arrived back in the evening the lights did not work in the main bedroom,  lights beside bed also didn't work until we switched powerpoints??? Obviously very dubious wiring.... then blinds did not work, so was awake at 4am as it got light. TV wasn't easy to work - no instructions and not being from this country not au fais with how things work. Remote control fire - interesting.Even though it was very handy for all sights in Toronto I would never recommend anyone to stay there. Very poorly managed and disappointing start to our stay in Toronto.",
+      "rate": 1.0,
+      "tripDate": " June 2015"
+    },
+    {
+      "title": "Not my idea of a nice accomodation",
+      "text": "The good-------------- Great location, walking distance to almost anything you want to see over a long weekend in Toronto- Nice kitchen with some coffee provided (Folgers)The bad------------ Parking is $22 on top of the already very steep daily rent- Noisy construction zone right at the window- Forget about the \"great views\" they want to sell you on - the view simply sucks big time.- The living room table almost falls apart, the curtains are filthyThe ugly------------ No air condition and a too small window to get the temperature to an acceptable range. It was between 24 and 27 (upper level) Celsius all day, without any heating on and with the window open. This is just not acceptable and the nights were a nightmare. Outside it was around 4 Celsius.... When complaining, besides \"we will get back to you\", nothing happened which shows how much of a service you can expect.- Overpriced for what they provide- The carpet is so dirty (stained) that I would have replaced it probably 10 years ago. - The bathroom door lock upstairs was broken and you cannot lock the door- Overall not a great job on the maintenanceBottom line---------------I would stay here again in the winter, when the lack of an AC would not matter and 27 Celsius may feel better.... and if the rate was 50% of what they charge you right now, $225 or more per night is a very bad joke for the (lack of) quality they provide.",
+      "rate": 2.0,
+      "tripDate": " April 2014"
+    },
+    {
+      "title": "Mis-sold.  Does NOT have access to pool or leisure facilities",
+      "text": "This building is all about location, location location and it doesn't disappoint in that regard.But that's where the positives end.  Negatives for my family of four with two kids ages 8 & 11 were:- REALLY unfriendly concierge; more like security- no access to pool and leisure building (next door) was a big blow.  We were told that only leaseholders could use the facilities, so went to building managers to be told that apartments were not supposed to be let on short term basis! Called number on the booking confirmation to get voicemail only (unsurprisingly no one called us back)- Suite was dirty, carpets were badly stained- Second 'bedroom' was a mattress on the floor in a hallway just inside front door- Bathroom door was loose - either would not lock, or not unlock.- Washing machine was very noisy and pretty poor - everything came out a bit tacky.All in all, could do better I would say.",
+      "rate": 1.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "FILTHY",
+      "text": "PROS: Great View, Great LocationCONS: Extremely filthy.  Spent the entire first day cleaning.  Used an entire bottle of Windex All Purpose cleaner and 4 rolls of paper towels.  The bed squeaked in the 2nd bedroom every time you moved.  Management promised to change it and never showed up.  The water pressure was non-existent in the 2nd bathroom.  There are no hand towels, had to purchase rolls of paper towels to dry our hands in the bathrooms.  The worst of all the CONS though is just how extremely filthy the place was.  I mean it was SERIOUSLY FILTHY.  After the first day doing the cleaning staffs job for them the place was tolerable.  But one shouldn't have to spend the first day of their vacation cleaning!!!When you're paying over 350$ a night (US$) you expect more.",
+      "rate": 1.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "WORST PLACE EVER!",
+      "text": "Atlas Suites Bay and College - WIll not recommend this appartment to anyone! You get a filthy apartment and then have to pay $70.00 for cleaning services? You can't sleep on the beds either - worn out mattresses. All the dirt has been swept into a corner on the balcony. Rude service and no place to leave your bags after check out. If you like sleeping on the floor this is the place for you!",
+      "rate": 1.0,
+      "tripDate": " June 2015"
+    },
+    {
+      "title": "One Major Complaint",
+      "text": "We just stayed at the Atlas Suites on 35 Mariner Terrace from August 3-9. This is a great location and convenient to everything. The suite itself wasn't bad, but we have one major complaint. They advertise a pool and a fitness center. There is a pool and fitness center located in the building next door, but it is NOT available for these short-term rentals. It is only available for permanent residents. When my kids and I went to use the pool, the front desk person at the pool/fitness center informed us of this fact and said that the management renting these units is very aware of this, yet continues to falsely advertise these amenities. Both the pool and the fitness center were major reasons we decided on this rental, so I'm very disappointed that this was intentionally misrepresented to us. Another complaint is the fact that we went to use the oven one day and it gave off a strong gas odor like the pilot light was not igniting. We called the management and left a message, but no one ever responded to us. In a high-rise of 50+ floors, it seems like a potential gas leak issue would be important, but apparently not. So, we could not use the oven all week (kitchen facilities were another reason we had chosen to rent a condo as opposed to a standard hotel room).",
+      "rate": 2.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Stylish place, inadequately managed ",
+      "text": "The apartment is located in one of these condos that spring out like mushrooms in Toronto. It has great views over Lake Ontario and the furniture is nice and modern. Also, it is quite close to the city centre. This I suppose could justify the high price, were it not for the many disadvantages we experienced during our stay:Firstly upon arrival, there was no explanation offered on how to access underground parking. Later when trying to go online via WiFi, again no explanation, i.e. no code provided. The bedding for the (rather uncomfortable) sleeper couch was hidden away and incomplete, and there are only see-through curtains in this east-facing(!) apartment. The highway and city airport did not help either with sleeping in...So all in all, we were disappointed by the lack of effort put into the apartment! Why is there no welcoming note explaining things? Luckily Toronto is such a fun city that we did not spent too much time there...",
+      "rate": 2.0,
+      "tripDate": " October 2013"
+    },
+    {
+      "title": "Disappointing",
+      "text": "\"The Art Of Meeting The Highest Expectations\"When we checked in after the indicated check in time the room was a mess. The bed unmade, laundry piled on the couch, laundry in the machine, the floor unvacuumed, dishes in the dishwasher. The walls were covered in black and grey scuff marks, scratches, handprints, and scrapes, which was because they weren't actually painted, they were just covered in primer. There was a massive hole cut into the bathroom ceiling, presumably from a plumbing repair job which they couldn't be bothered to patch up and paint (along with the rest of the room) before scheduled visitors arrived (we booked on May 4 for August 8-12). The cheap roll-up blinds were as dirty as the walls, but also had squished bug remains smeared across them. They were also wrinkled, had small holes, and otherwise looked like they came from a yard sale. The luxurious furnishings included a cheap table and mat (far to small to be called a rug) that were very likely purchased from the As Is section at Ikea. The tiny kitchen table and chair are also low-end Ikea items. The couch, which is also a fold-out bed, had no structural support under the seat cushions so they always slipped below the metal frame. The television was nowhere near an HD unit as advertised, and was set haphazardly on a small table with the cords splayed across the floor. The bed had no headboard, and was very squeaky, sounding like a cacophony of rodents whenever one turned over which didn't exactly lend to a good sleep. And if you sat on the foot of the bed, the whole thing tipped forwards.The bathroom light fixture was missing a shade, and the shower handle came off in my hand as it wasn't actually attached, and the disc behind the tap spun freely. The bathroom supplies also included only one washcloth, and with no on-site housekeeping there were no additional ones to be requested. Remember, we were booked for 4 nights; two adults, one washcloth. While having a washer/dryer in the room was nice, it was a pretty sad device that took in excess of three hours to wash and dry a very small load of clothes. The kitchen area was nice, and included a coffee maker, with no coffee. A single lone and battered tea bag sat on top of the coffee maker, along with an envelope imploring tips for the professional housekeeping staff. Lastly, the room door handle was loose, and there is no extra lock security like a chain or bar, which is a bit unsettling.",
+      "rate": 2.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "Misrepresented, no access to any amenities, NOT a luxury apartment. AVOID.",
+      "text": "We booked this apartment through a company in Toronto called Atlas Suites, who books through CanadaStays. We were coming for the Blue Jays playoff games and wanted to spare no expense to stay in a beautiful luxury apartment near the water and Rogers Centre, truly making this a once in a lifetime experience. We had no major plans other than the Blue Jays game, so having an amenities centre with a pool and gym was a must for us. We arrived Friday around 11 a.m. and dropped off our bags with their off-site office, which went relatively smoothly aside from one somewhat rude security guard at the building's desk, who did not work for Atlas Suites. When we arrived at the suite at 3 p.m. after the \"cleaning\", it didn't look as though much had been done aside from a surface wipe, re-making of the beds and re-stocking of toilet paper, etc. There was no gift left for us upon arrival, contrary to what the listing says. But no matter - we were excited to be in Toronto and could deal with a few discrepancies/a little dust. It went downhill from there, however. There was no luxury to be seen. When we walked in, the front closet with mirror was completely dismantled/broken and the doors were caved into the closet, rendering it useless. The blinds fell off the window sill when we tried to open them, and instead of looking out at the water as the listing portrays, we faced Spadina Ave and looked at the Gardiner Expressway from the balcony. No water views from any room. The furniture is cheap, uncomfortable and worn-out. The main living room has a dirty red shag area rug that is matted together and has an unpleasant smell. The television is definitely not HD - the cable box looks to be from about 2004 and only 30 of the channels work. No extra sports channels, no A&E, no TLC, no Slice, no HGTV, etc. When we did watch the Oilers and Canucks game, it was impossible to discern the players from the ice because the picture quality was so bad. So if you're looking for a relaxing night in on the couch with a good movie at the end of the day, look elsewhere. The main reason we booked this \"luxury\" apartment was for the amazing amenties centre. The listing mentions that you get access to the pool, hot tub, gym, bowling alley, pool tables, barbecue, etc. It's true - the building does have a lovely amenities centre. Unfortunately, when you arrive at their security desk, the guard will inform you that suite 802's FOB has been de-activated, you have no access, and the company, Atlas Suites, is breaking the condo complex's rules by providing you with a short term rental. Basically, you could be evicted and out of a place to stay, should they choose. When we attempted to contact Atlas Suites about this, we received zero response, other than calling the \"emergency\" line, which a quick Google search revealed just went back to their offices. The on-call employee informed us that nothing could be done to rectify any of the issues until Tuesday, our check-out day. We were extremely disappointed in our stay with Atlas Suites, having paid $300 a night for a very sub-par experience in a dingy, worn-out apartment with no extras to speak of. We could have stayed at a much nicer hotel for the price, had we known. Please, if you enjoy comfort and a few small luxuries like being able to see the puck on your TV while watching hockey, stay elsewhere.",
+      "rate": 1.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "Affordable Home away from home",
+      "text": "Was really nice to have all the back home conveniences instead of a hotel stay at a fraction of the cost. Was here for a couple of Blue Jays games. It was very close to CN Tower, and Stadiums. Has security to let you in if you have a late night arrival. Has a full kitchen for those with dietary issues. With your longer stays laundry is also in house.",
+      "rate": 5.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Nice private appartment, value for money",
+      "text": "We went to Atlas suites in May this year.  This appartment is fully furnished and very homely which is located in the financial district and very closed to the CN tower and other entertainment sites.  Only about a 10 minute walk to the main train station.the kids were able to use the communal but very small heated pool upstairs.The only downside of this appartment is that the appartment needs some TLC as the furtniture are a bit used and headboards by the beds are not very sturdy.Good value for money and I do recommend this appartment for family and friends",
+      "rate": 4.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Great Experiance",
+      "text": "very nice apartment. i would highly recommend. very well equipped and centrally located. we had a one bedroom apartment on 30th floor with great view of toronto skyline restaurants and theaters just a short walking distance.",
+      "rate": 5.0,
+      "tripDate": " June 2016"
+    },
+    {
+      "title": "Luxury in the heart of the city ",
+      "text": "I recently visited the Atlas Suites in Toronto. We stayed in room 2009 which was a very spacious and luxurious apartment, centrally located to all major stores and tourist sites. Excellent service! Would definitely recommend this place! :)",
+      "rate": 5.0,
+      "tripDate": " December 2015"
+    },
+    {
+      "title": "Amazing experience",
+      "text": "Had an absolutely amazing stay , awesome service , cleanliness and comfort ! Location was very central and convenient , would definitely recommend atlas apartments to anyone travelling for business or leisure .",
+      "rate": 5.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Amazing stay",
+      "text": "Very well located. Apartment was very clean, amazingly furnished, Very comfortable bed, was a lighted apartment, host was very helpful. Will definitely stay with Atlas suites next time. I strongly recommend Atlas suites.",
+      "rate": 5.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "excellent experience for furnished Apartment in Downtown Toronto",
+      "text": "we stayed in Atlas Suites Apartment in 35 Mariner location , its was awesome apartments , We liked the staff and the their services , all the amenities around you , we recommend this apartment to everybody   .",
+      "rate": 5.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "Brilliant",
+      "text": "I usually stayed in a hotel when I had to visit Toronto. One time it was booked out so decided to try Atlas Suites. I have since stayed with them 3 times and won't be going back to hotels. The apartments are great, with all the required amenities. Whenever I needed something, Atlas Suites was always fast in their response and met every single request. If I had to give just one recommendation it would be to possibly provide some basic essentials like sugar/salt/extra toilet rolls so that one does not have to buy everything for longer stays. Other than that, I thoroughly recommended them and will definitely use them again myself. Location is great, the apartments are clean and beautifully furnished.",
+      "rate": 5.0,
+      "tripDate": " January 2015"
+    },
+    {
+      "title": "location location",
+      "text": "Stayed at 35 Mariner - A dream-location - parked the car (ask for the parking!) and didn't really need to use it afterwards as there is lots to do in walking distance.Overall there is great value in staying here compared to expensive downtown hotels. Travelling with an infant made the full kitchen and living room worthwhile.A few enhancements would have made this a 5 star review: -Beds could be better- Atlas' relationship with apartment security at front needs to be reconciled :-) as check-in was very akward- place was clean but a few things could be fixed: carpet, bathroom lock and ventilationif these few things were improved I would be shouting this place from the rooftop! I still strongly recommend",
+      "rate": 4.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "great view, ok apartment, rubbish service",
+      "text": "Arrived having booked for 6 people to find two bedrooms. Having hunted in every cupboard finally found a couple of mattresses. Not what you would expect. Pre booked parking but was told by security guard who gave us our keys (as there's no reception, so no one to deal with problems) that we had no parking so had to find public overnight parking. Phoned the number given but only got voicemail and never got reply. Eventually discovered we had parking but as we only had a security guard to talk to this wasn't cleared up immediately as it could have been had there been someone from the company there. Otherwise nice apartment with kitchen and fab view from balcony. Definitely location made this apartment",
+      "rate": 3.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Stunning views of the CN Tower from your balcony!",
+      "text": "If you come to Toronto to see the CN Tower - then this apartment is a must! One block away - literally the Rogers Centre, Aquarium and CN Tower entrance is across the road! The apartment was set out ready for us in a special and welcoming way - stocked with appliances and good crockery etc for 6 including microwave, dishwasher and washer/dryers, as well as a couple of dishwasher tablets and washing up liquids etc - very helpful for travellers. The view from the balcony was superb - must be one of the best in the city with the CN Tower i full view one block away - so close it was hard to take a picture with the ground and the top in one frame!! Watching it change colours at night while having a drink on our balcony was such a joyful experience; and the accessibility to the tourist hop on hop off buses which take you all round the central area for 72 hours on one ticket, was just round the corner. Union station is very close and the Rogers centre was across the traffic lights, less than a block away! We didn't have time for the gym or swim but there was a pool and gym if we wanted. Our only criticism was the pre-information; we thought it was in the CN Convention centre from the description so tried to park in that area to be swiftly but politely told it was not there. It is actually opposite the Rogers centre - which gave better views than the actual convention centre; but I was initially disappointed as thought  from the description that it was in the convention centre complex. The pre information how to get to the apartment with useful info you need to print out was not sent till a few days before which meant we couldn't print as we were travelling. This with no wifi while travelling to check emails on the phone meant that we had a problem getting into the building as we tried to park first which you cannot do without having been to reception first to pick up your key fob etc. They were helpful at reception after we have blocked the parking up!! And they let me use the wifi there to check the details; but it could have been easier with more advance  information. We also had problems having only one key between two couples; but managed. Otherwise - it was a great stay and we would stay there again if in Toronto.We travelled all around South Eastern Canada staying in a variety of places - this and Niagara were our luxury choices - not cheap but god value for the location and size of apartment, sleeping 2 couples comfortably with a private bedroom and comfy sofa bed.",
+      "rate": 5.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Good location, poor service",
+      "text": "Unit 932 - 36 Blue Jays Way.Positives for this place are the location and comfy beds.  Unfortunately, the positives didn't do enough to make our stay enjoyable.  Looking at other reviewers, I'd agree that not all rooms (or stays) are created equal.  For us, cleanliness of the room could have been better.  We found hair on the main floor and the carpeting was quite dirty as well. Cable for the TV's comes with only basic service.  The biggest issue we had, though, was service after we noticed there was no shower curtain (or rod) in the bathroom.  Management dropped off a new shower curtain next day but wasn't helpful since there was no rod.  Mopping up water with two of the four towels didn't help with a family of four.  I asked for a partial refund on our stay but none was provided.  The explanation was that the shower curtain and rod were housed in the bedroom closet.  Apparently it's standard protocol for guests to have to rummage through the closets and install themselves.  Put quite a damper on our stay, and the fact they saw no need to make up for it afterwards was disappointing.  Given rates are comparable to other hotel properties in downtown Toronto, next time I will stay in a hotel for better service when needed.",
+      "rate": 2.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Atlas Wellington Suite 1131 -not all suites are equal",
+      "text": "Unit 1131 - 36 Blue Jays Way (Soho complex). Bad condition. Ceiling in main floor bath appears that it may collapse at any time (pics avail if you like). Rugs need replacing, painting required, never did get TV operating (plus more items needing repair). For the price stay somewhere (anywhere) else. This unit is in the same building as the Soho Hotel, stay hotel side. That way if you did need anything, there would be someone able to help you out. Location is fantastic. But there are a lot of accommodations avail in this area. Did contact owner, .... did not appear to care. ....",
+      "rate": 2.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Best Apartments in Downtown Toronto",
+      "text": "I always use to stay at a 5star hotel when ever i use to visit toronto but somehow this time couldnt find a room in any of the nice hotel , a friend of mine who lives in toronto suggested me to try Atlas Suites , So i called  them up and made my booking there , The best thing i liked about atlas suites was the location and the interior , the interior is done really professionally and tastefully , you feel like you're  staying at 5star hotel,  Checking in and Checking out is totally hassle free and fast track, after staying at atlas suites i feel like ive wasted my money all these years by staying at these lavish 5star hotels , Atlas Suites is Absolutely Value For Money now when ever im in toronto next , i'm definitely going to stay at Atlas Suites .",
+      "rate": 5.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "Fun to Stay at Atlas Suites",
+      "text": "Simple but fun place, good quality for the price. Location is very convenient and parking is available. Rooms are big, comfortable, and generally clean (although bathrooms are a bit tiny). Walking distance from Union station and all the amenities. I'd definitely stay here again!S.Anwar",
+      "rate": 4.0,
+      "tripDate": " May 2014"
+    },
+    {
+      "title": "Excellent Apartment",
+      "text": "Stayed with family on my visit to Toronto. It was excellent apartment, great location in downtown. Very close to everything in the city we had rented a car but did not use it much as the location is fantastic every thing was close by, Just a few minutes walk to cn tower , ripleys aquarium, theaters restaurants and shopping. Apartment was very clean fully equipped. I must say it was our moneys worth. I highly recommend atlas suites to anyone visiting Toronto",
+      "rate": 5.0,
+      "tripDate": " April 2014"
+    },
+    {
+      "title": "Excellent place to stay in toronto",
+      "text": "The appartmnet was exactly as advertised - clean, tidy, quite with flat screen TV, free telephone service and excellent WIFI - nice kitchen - washing machine - location is excellent - A fantastatic gem. is also avialble - We were also offered a free parking for our car which was very helpful - i will definitly stay there on my next visit to toronto.",
+      "rate": 5.0,
+      "tripDate": " April 2014"
+    },
+    {
+      "title": "Filthy sauna style apartment...",
+      "text": "This was a big disappointment for me and my family. The apartment was cleaned, but filthy dirty. Curtains were stained, the carpet looked like it was 20 years old and urgently needs to be replaced. Many of the light switches have zero function and you have to go to the actual light you want to switch on to get out of the dark. Especially inconvenient in the bedroom where the lights are exactly on the other side of the room and you have a tough time even finding them at night.The curtains did not close easily and it almost took a 200 lbs guy with the complete weight to get them moving.The worst thing was that there was no air condition at all. Even though it was cold outside, the bedrooms were at 25 Celsius (75F) and there was no way to get them to a reasonable temperature. The small window that the apartment has, brings almost zero fresh air inside.We got an apartment with the amazing view of a new construction zone - nothing facing anything worth looking at. The noise there starting at 7 am did not make the stay nicer either.The bathroom does not have a lock... sleeps 6-8 and then no privacy in the bathroom? That is idiotic.On the positive side, the kitchen was pretty new, if they now can find somebody who can buy fitting coffee filters for their machines (coffee was provided which was nice), the rating would even be half a star higher.Bottom line, at a nightly rate of over $200, I would never stay here again.",
+      "rate": 1.0,
+      "tripDate": " April 2014"
+    },
+    {
+      "title": "Location,Location,Location!",
+      "text": "7 of us went to Toronto for a wedding. my first time every staying at airbnb . this building was amazing, right in downtown Toronto, 6 minute walk to CN tower and the famous Toronto aquarium. 10 to 15 minute walk to all the shops and restaurants. the building has a pool, a big gym, very safe. brand new, it has 56 floors. one minute walk to 3 restaurants, convenience store and a dry cleaners. The particular unit we stayed at, we had to take our shoes off and can smoke in the balcony.",
+      "rate": 5.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "Trip to Toronto",
+      "text": "I recently visited Toronto and stayed at Atlas suites, 20 Bluejays building, in the heart of downtown Toronto. The suite was  clean, tidy, cozy with two  bedrooms, a balcony with view of CN tower from all the rooms. Courteous staff, underground convenient parking. I enjoyed my stay and would recommend it to family and friends.",
+      "rate": 5.0,
+      "tripDate": " January 2016"
+    },
+    {
+      "title": "Fantastic Apartment ",
+      "text": "Stayed here for two weeks - was on the 39th floor and views were amazing, first time to Canada and loved it - apartments are in a fantastic location - easy access from the airport and felt safe we loved Toronto. Checking in and out was easy and the apartment had everything we needed there are no minuses and if we came back this is where we would stay.",
+      "rate": 5.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Superb apartment. ",
+      "text": "Excellent service and the place is very good to reach anywhere around the down town. Rooms are very clean and all the comfort you desire to have in your stay. I strongly recommend to all my associates & friends. And surely I will book them for my future trip to Toronto ON.",
+      "rate": 5.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "Wow!!!",
+      "text": "I recently visited Atlas Suites and what an amazing apartmentIt has a great view of the city and is very clean.The host was very friendly and accomadating.We traveled from South AfricaDef one of the best apartments to stayI would recommend this to anyone and everyone",
+      "rate": 5.0,
+      "tripDate": " June 2015"
+    },
+    {
+      "title": "Better than a hotel, far beyond expectations!! Five stars!",
+      "text": "Beautifully furnished apartments in mint condition! Even though this isn't a formal hotel, my family was welcomed with a personal note and a basket of sweets in our apartment. The apartment was well-equipped with everything we needed, from dishwashing soap to FREE telephone calls across  North America, which was godsent since we didn't have Canadian cell phones and roaming costs an arm and a leg. WiFi was included, which isn't the case in many traditional hotels. The kids loved the open space and the view. We had an unobstructed view of the water from our high floor and could see planes landing and taking off from the Island airport. You can't ask for a better location in Toronto - close to public transport, steps from the CN Tower, Rogers Center, and so many restaurants. We landed at the island airport, and this was a five minute cab hop away... We later found out that we could take a streetcar to the airport as well, which we did on the way back (would only recommend this if you have very light luggage as streetcars aren't very spacious). This is an excellent option for family travel; we'll be staying in furnished apartments for all our future travel with our kids now that we've had a taste of this... Let's hope we can find the same standard of quality and service as Atlas Suites in other cities!",
+      "rate": 5.0,
+      "tripDate": " May 2015"
+    },
+    {
+      "title": "Excellent",
+      "text": "Had a lovely stay at atlas suites. Very nice apartment. I would recommend this place to everyone. We had a lovely stay in lovely city. Atlas suites staff was very helpful. Amazing view from apartment.",
+      "rate": 5.0,
+      "tripDate": " May 2015"
+    },
+    {
+      "title": "Could find better...",
+      "text": "Pros:  Location is excellent, since this was my first ever time in Toronto, being kind of in-between the CN Tower/Rogers Centre and Lake Ontario, it was easy to find your way back.That's where it ends unfortunately.Not a very good welcome to get things started.  We arrived quite late after flying from Vancouver.  When we arrived the lady on the reception desk was on the phone.  She managed to pull away from the phone for a moment to apologise to us there was someone in one of the rooms that had an accident and they were waiting for the ambulance.  I completely understand the urgency of an accident but as this is a condominium with people living here AS WELL AS short stays, surely there would be an extra person on hand, not just the security guard?  I believe the lady on the phone was the security guard and was the only person at reception at that time of night, yet the complex knew the time we were arriving, so they should really have someone available.  We had to wait close to ONE HOUR before we could even check in, we were so ridiculously tired by then we were nearly falling off the chairs in the lobby not to mention bogged down with all our luggage, starving and desperate for a toilet.Then to add to it all we (3 women) were presented with only ONE key.  The people I travelled with were attending a fan expo and I was doing sightseeing, all at different times of the day so how was any one of us to come back whenever we wanted to rest and freshen up if someone else had the key?  Luckily we were able to leave the key at reception each time the last person would leave the complex.  However for the rooms which are used for short stays there should be multiple keys or a keycard system.I can't speak for comfort of this place as I had to sleep on a mattress on the floor.  The place was spacious enough though for us when getting ready in the mornings etc.I have to say I will look elsewhere if I ever return to Toronto.",
+      "rate": 3.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Just what i was looking for",
+      "text": "had a lovely stay. interiors were beautiful, atmosphere was clean and luxurious. i've stayed in Toronto before, it felt meh for some reason. staying here gave a completely different experience of the city: beautiful location, amazing restaurants around the area, and the apartment had everything i needed while feeling pristine. 10/10",
+      "rate": 5.0,
+      "tripDate": " March 2015"
+    }
+  ]
+}

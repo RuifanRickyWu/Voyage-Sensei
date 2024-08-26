@@ -1,0 +1,61 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Chinatown Inn Toronto",
+    "url": "/Hotel_Review-g155019-d1199227-Reviews-Chinatown_Inn_Toronto-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "2.0",
+      "reviewCount": 4
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "525 Dundas St W",
+      "addressLocality": "Toronto",
+      "postalCode": "M5T 1H4",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/52/74/57/525-inn-main-door.jpg?w=500&h=400&s=1"
+  },
+  "description": "Chinatown Inn Toronto is a no-frills, budget priced Chinese style guesthouse located in the heart of Chinatown West. ​This great location close to many Toronto destinations is just steps west of Spadina Ave. and across the street from Kensington Market.",
+  "featues": [
+    "Paid private parking nearby",
+    "Parking garage",
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Non-smoking hotel",
+    "Laundry service",
+    "Air conditioning",
+    "Clothes rack"
+  ],
+  "reviews": [
+    {
+      "title": "Wrong picture, no communication no service! no go!!!",
+      "text": "This was a not really enjoyable booking. The place is hidden and has a very bad descritpion, which is mainly wrong of where and what is provided. Never again, and worth hotel i have ever been! Why such a bad service, such misleading informations???\"??????????????????????",
+      "rate": 1.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "Doesn't exist",
+      "text": "Hell..Some chinese psychopath ruin my first ever trip to toronto.I was totally new in town.I booked it online.When we reach there---- there was nothing.It took 15 minutes to confirm wether it exist or not.Only thing that exist is signboard.We called up on number dat was mentioned in signboard. Lady picked up phone and only thing she did --- gave number of someone else.We called dat guy at 9 pm. he picked phone and ask us to wait for half an hour.He came and then bring bedding and blanket from somewhere put them in car and ask us to sit in car.Than we ask him where is 525 inn????He told the lady who picked ur call is owner and she is my mother's friend. she ask me to do a favour for you. you came with me and stay at my home.We were helpless at 9 pm, in new city. we dont know where to go. We agree with him. When we reached his home. A african lady with her 2 daughters also waiting there. then he took all of us to his home's fungal stinky basement. and ask us to spend night there.We all decide to leave that place immideately. We called up taxi. In around 3-4 hours we found another place to spend night.Horrible horrible experience..",
+      "rate": 1.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "Vacanza iniziata male ",
+      "text": "Vacanza in Canada. Arrivo a Toronto in Aereo. La sera sono stessa visitiamo il DownTown di Toronto. La mattina decidiamo di fare un giro in Chinatown. Delusione totale: malavita, sporcizia, ristoranti che non si poteva mangiare da brutto odore che si sentiva, ed in più arrivata alla fine, andiamo mangiare a Panera dove mi sono accorta che non Avevo più portafoglio con tutti i miei documenti e soldi(italiani e americani). Dopo un giorno praticamente la mia vacanza è FINITA. Vi ho raccontato ciò per tutti quelli che andate la, per fare non attenzione di più. In quanto io nn riesco spiegarmi L’ accaduto perché io sono di solito molto attenta alla mia borsa. Dunque, ATTENZIONE IN CHINATOWN.",
+      "rate": 1.0,
+      "tripDate": " August 2018"
+    },
+    {
+      "title": "Chinatown Toronto is second only to San Francisco!!",
+      "text": "Toronto has a wonderful Chinatown! I rate it second only to Chinatown San Francisco! Outstanding restaurants, a safe atmosphere, vegetable markets with shockingly LOW pricing! Pricing at these Chinatown restaurants is a bargain!! There are so many interesting sights in this Chinatown, this is a must see!",
+      "rate": 4.0,
+      "tripDate": " June 2016"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Havinn International Guest House",
+    "url": "/Hotel_Review-g155019-d585674-Reviews-Havinn_International_Guest_House-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 80
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "118 Spadina Rd",
+      "addressLocality": "Toronto",
+      "postalCode": "M5R 2T8",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/1f/4a/d4/our-bedroom.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Paid private parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Non-smoking hotel",
+    "Shared bathroom",
+    "Shared kitchen",
+    "Air conditioning",
+    "Kitchenette",
+    "Non-smoking rooms",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Best B&B in Toronto",
+      "text": "I am a seasoned traveler and have stayed at hundreds of inns, motels, hotels and B&B's  throughout North America. Havinn B&B is, hands down, the best place to stay in Toronto. And surprisingly affordable, too.My travel companion and I stayed at the Havinn B&B just shy of two weeks over the summer. We had a wonderful stay and will book there again next summer. Innkeeper Gary and his Japanese wife Emiko could not have been more attentive to our needs. Our unlimited breakfast buffet featured fresh fruit, fruit juices, fresh brewed coffee, bagels, cream cheese, all types of pastries and warm home-made muffins (try the blueberry muffins; they're out of this world!). If a problem came up during our stay, Gary or Emiko attended to it pronto. For example, I wanted a fluffier pillow. The next day, Gary came back with a brand-new feather down pillow just for me. The location, within walking distance  to all the downtown places of interest, saved us lots of cab fare, too.A B&B is clean, friendly guest HOME, not some cookie-cutter chain motel or hotel.  During our stay, we got to know the other guests. Some of them were repeat customers. Everyone remarked upon the excellent value and warm family-style atmoshere. And don't forget the muffins!Thomas Wentworth, Ph.D.Upper Saddle River, N.J.07458",
+      "rate": 5.0,
+      "tripDate": " July 2005"
+    },
+    {
+      "title": "Nice B&B in Toronto",
+      "text": "We stayed at Havinn International in April. Havinn located Annex area which is very convenience and safe, close to U of T. The rate was $65.00CAD per night for two of us which is very reasonable price as a guest house in Annex area. Our room has comfortable beds and there are shared bath rooms which are clean and neat. We had lovely breakfast like muffin, bagel, fresh fruit, coffee and etc. Those were more than we expected. Hostess is friendly and spoken Japanese. Especially my Mom was glad to talk to her with same language from.",
+      "rate": 5.0,
+      "tripDate": " April 2006"
+    },
+    {
+      "title": "I am home now!",
+      "text": "I arrived in Toronto  at 6 am in the morning exhausted. I called Havinn and heard a friendly voice of a man on the phone. He helped carry my lugguage and prepared a nice bright  clean room for me.  What impressed me most is the art.in the lobby -- the dark brown round roof and pillars. I slept well that night. on a queen sized bed and I will never forget  the warmth deep in my heart on a cold winter morning when I open my door  the next day --- orange light shed from the kitchen with the floating aroma of coffee provailing the whole house. After the a croissant, a bagel, some yogurt and orange juice in the morning, I was always ready to enjoy  the convenient shopping in downtown two blocks away. My life transition in Canada began in Havinn. My lucky experience as an immigrant right started there. The pleasant small talks with other guests and the nice man taking care of the house.are unforgetable.                                                         Ning from Mainland China",
+      "rate": 5.0,
+      "tripDate": " March 2007"
+    },
+    {
+      "title": "Bad experience",
+      "text": "My friend and I arrived at Havinn B&B in Toronto on a Friday at 11:00pm (at the beginning of October), and found the key and directions to our room hidden in the place where we were told, as we were arriving late. When we got to our room, we found it to have only 1 double bed, instead of 2 twin beds, as requested. When you go somewhere, you expect to get what you asked for, right? So we called Havinn 3 times. No one answered the first 2 times, and the 3rd time, a man answered the phone, and I explained the situation to him. When he replied \"So you're calling me at 3 in the morning or whatever to tell me this?\", I was speechless and said \"It's 11pm\". And he said \"Hold on\" in a grumpy voice. After a few minutes, he came back and said the best he could do was give us an extra mattress to put on the floor, and that we could move to another room the next day and I said \"Ok, that's fine.\" He didn't say anything. And I said \"Thanks.\" and he hung up. That's not the kind of service you expect when you go to a bed & breakfast, motel or hotel. I wouldn't have minded staying there the whole weekend, even on the Friday with the mattress on the floor, but his rudeness was so intolerable that we couldn't stay there the whole weekend and didn't want to give them the business they didn't deserve. So we made some phone calls to try to find somewhere else to stay, after leaving a note to the owners of Havinn. It was really frustrating because a lot of places were fully booked because of the long weekend and many others were very expensive (since this was so last minute). This almost completely ruined our plans in Toronto. Havinn's location is close to downtown so no driving would've been required. We found a Super 8 in Toronto East (Scarborough), which was very nice, and ended up getting there at 1am.The next day, I received an e-mail from the woman that also owned the B&B apologizing for what had happened.As for the place, it looked ok. The location is good, it's close to the Dupont subway stop, near downtown.",
+      "rate": 2.0,
+      "tripDate": null
+    },
+    {
+      "title": "Wonderful experience",
+      "text": "It's really good price to stay near downtown! Five minutes walk to the subway station. The beautiful Victorian style house which is my favorite has clean, cozy room. Love bagel and muffin at breakfast. Friendly owner help me out sightseeing plan. Thank you for great hospitality!",
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "It's really a great place to stay",
+      "text": "I feel so lucky that I could stay at Havinn, B&B when I was in Toronto. The beautiful house, a clean, comfortable room, and a nice host-Gary.Every morning, we always expected our delicious breakfast. It gave us more and more energy to start our journey. On the same time, we also could talk to our roomates, they all came from different countries, we could shared our experiences in Toronto.Besides, Thanks to Gary, when we asked questions, he always gave us a lot of information to solve them.We stayed at Havinn just like stayed at home. It is important for travelers.Next time, when we go back to Toronto, we hope we can stay there again.",
+      "rate": 5.0,
+      "tripDate": " August 2007"
+    },
+    {
+      "title": "Fantastic, Clean,Comfortable place to stay",
+      "text": "My husband and I really enjoyed our stay, great people, clean place, great location, great breakfast. Our room was very nice and I was very happy there are 3 washrooms,  so you rarely had to wait to get in. Highly recommended!!!!",
+      "rate": 5.0,
+      "tripDate": " June 2007"
+    },
+    {
+      "title": "Really recommendable",
+      "text": "I´ve been for a week in the Havinn, it really is a perfectly clean place to stay. Silent during the night, favourably and just a short walk to Dupont subway station. Also pretty close to downtown Toronto. Most certainly will stay there again my next vacation in Toronto.",
+      "rate": 4.0,
+      "tripDate": " June 2007"
+    },
+    {
+      "title": "Loved it",
+      "text": "Very homely and accommodating B&B in a great location in Toronto. Breakfast was included in the rate. Bear in mind that you do share a bathroom with the other tenets located on the second floor (actually, two bathrooms, but only one has a shower). You also have access to a kitchen with a fridge and microwave should you choose to eat-in. Overall a very good deal and environment. Perfect for a traveling couple or student(s).",
+      "rate": 5.0,
+      "tripDate": " May 2007"
+    },
+    {
+      "title": "Warm atmosphere and great value!",
+      "text": "My landlord was going to renovate my bathroom and asked if I could find  reasonably priced accommodation for a few days and he would cover the costs.   While searching the internet, I discovered three places in close proximity.  I visited all three and was given a tour.  I chose to stay at Havinn for a couple of reasons, the rooms were clean and bright, the owner was very friendly and parking was onsite and free.  For $54 a night, I had cable TV with free movies, wireless internet service and a great breakfast.  The subway station is only five minutes away and is staffed. Good value for this neighbourhood and location!",
+      "rate": 4.0,
+      "tripDate": " February 2007"
+    },
+    {
+      "title": "For value and comfort in the city, can't be beat!",
+      "text": "The Havinn is in the Annex area of Toronto, near where many students live.  It's very near a subway station,  as well as a liquor store (you need these in still-puritainical Toronto), cafes and a big drug store.  For about $65 Cdn I had a big room on the top floor with a futon sofa, king bed, lots of nice oak pieces, and a TV.  The breakfast (served on the second floor) includes yummy danish pastries, nice wholemeal breads, although a bizarre fact is that there is no milk for coffee, just a tiny thing of coffee cream.  Still, a minor complaint, and there is a fridge to keep your milk container in!  You can use the kitchen to cook in and there are two and a half bathrooms to serve six rooms.  So there's always somewhere free.  It's a bit like a hostel because they don't do your room up every day, but at this price whaddya want?  I've already recommended it and will again.",
+      "rate": 4.0,
+      "tripDate": " October 2009"
+    },
+    {
+      "title": "havin heaven on earth",
+      "text": "After trying several hostel experiences in Toronto with mixed results i opted this time for a b&b. Gary the owner once actually started as a hostel then grew into what i would call a hybrid hostel/b&b. It was quiet, clean, and had a friendly vibe that hotels don't and hostel cliques discourage.Gary and i had many great chats and i simply found the experience exceeded my expectations. Location was superb for my research work at the Robarts library. Breakfast was sufficient and you had a fridge to leave food too.I certainly would recommend it and already have . For the price ,conveniences, ambience , etc  it offers a superior travel stay experience. Dave Brydges poet/independent scholar",
+      "rate": 5.0,
+      "tripDate": " January 2009"
+    },
+    {
+      "title": "Good value accommodation",
+      "text": "The B&B was a large town house kept very clean, although run more like a hostel than a home. On the top floor we had a very large room, probably also used as a family room, with bedside table each, dressing table and large wardrobe with a shared bathroom just down the hall. This wasn't usually an issue as there was only one other room on our floor sharing the bathroom. We were probably first down and had the pick of breakfast, comprising cake, croissants, orange juice and yoghurt, which was adequate. The location was a short walk from the tube and a slightly longer walk to shops and bars. We had to pay cash on arrival, which wasn't mentioned in previous correspondence and was a little inconvenient, but Gary was helpful and friendly during our stay.",
+      "rate": 4.0,
+      "tripDate": " October 2008"
+    },
+    {
+      "title": "Friendly and Comfortable",
+      "text": "I have just returned from my eighth but definitely not last stay at the Havinn at 118 Spadina in Toronto.  Gary, the owner, has been remarkably accomodating, kind, and friendly during each of my visits. This clean, character filled Victorian house provides many great benefits for the Toronto tourist and/or student. The two rooms I have stayed in have been tastefully decorated with older furniture and the beds have been extremely comfortable, Breakfast (included in the very reasonable rates) arrives in the common kitchen every morning, complete with always fresh, often still warm baking and breads, fresh fruit, yoghurt, juice,and coffee.  The three washrooms are always clean, and all are situated close to the rooms.  The house itself is in a great district...very close to subway, busses, ROM, U of T, and every amenity...and a lovely area to walk through, sightsee, and/or shop.  I would highly recommend a stay.Vicki ReynoldsManitoba, Canada",
+      "rate": 5.0,
+      "tripDate": " September 2008"
+    },
+    {
+      "title": "Thank goodness for Havinn B&B!",
+      "text": "My hubby and I just returned to the USA from an absolutely delightful one-week visit to Toronto where we stayed at Havinn B&B. I could hardly wait to write this review. We are happy we listened to the many positive reviews here! Anyhow, Gary and his lovely Japanese wife couldn't have been more kind and gracious. Very relaxing atmosphere, just like being at home. And the price was a steal. Shhhhh....  Comfortable room, clean shared bathroom.  Basic but very clean. I'm allergic to dust mold so I was very happy there are only bare wooden floors everywhere. My husband liked free WiFi internet.  They had free parking for our VW. That's a big moneysaver. We did get up early every morning and ate a big breakfast. The freshly ground coffee was so amazingly good. (I asked Gary where he buys it, and we bought 6 pounds of that coffee in Kensington market before we left) The home made muffins that Gary's wife bakes are much better than mine. ;-) Yogurt, bagels, cream cheese, fresh fruit and different teas. We were stuffed until late lunchtime! Toronto is a great city--friendly, safe, exciting. Havinn is very convenient to all the places of interest like Kensington market (fruit stands and fish markets and scads of restaurants... try the free cheese and homemade bread samples) , Chinatown, the big Museum, CN Tower, Korea town etc. Hubby and I walked almost everywhere, except we took the subway to the zoo. Best food ever in Chinatown. Also check out  Vietnamese restaurants and \"pho.\" It's a delicious soup that's a meal.  Well, if you like to visit Toronto and want a very homey place to stay for not much money, my husband and I say don't even think  about staying anywhere else!",
+      "rate": 5.0,
+      "tripDate": " August 2008"
+    },
+    {
+      "title": "Great location and friendly host",
+      "text": "We stayed at Havinn for traveling in Canada, It was reasonable price and nice owner advised us how to get sightseeing points. Breakfast was excellent. And location, just 5min to get subway station. ( Dupont or Spadina )There were only shared bath rooms but, clean. I will recommend to stay there for someone wants to stay with good price.",
+      "rate": 4.0,
+      "tripDate": " August 2008"
+    },
+    {
+      "title": "Not too bad - good value for money",
+      "text": "I stayed at Havinn last year based upon all the glowing reviews. It was my first B and B stay - since then, I have been to several others. It is definitely a great value - you get a good clean room with a comfortable bed in a trendy, safe, area. I never felt unsecure walking back late at night alone (as a single woman.)  This is not the place to spend a honeymoon by any means of course, but as a budget place to base your travel it is a good one. Breakfasts were filling and good, if unspectacular. The only thing was if you are last to the kitchen, then unfortunately, you will be out of luck for a lot of the yummier things! Just a word for those late risers out there. Nonetheless, a very nice stay.",
+      "rate": 4.0,
+      "tripDate": " May 2007"
+    },
+    {
+      "title": "Cheap but good quality place to stay",
+      "text": "This B&B is definitely cheap for the location and a great quality place to stay in Toronto. Subway (TTC) station Dupont is very close (5 min) from the hotel and station Spadina is also walkable. Gary the owner is very friendly and nice. He answered a lot of newbie questions I had about Toronto. I was actually surprised to see the great quality room for that price. I paid around 59 (taxes inclusive).  I was also lucky enough that there were not many people staying with him and could get a room for myself. I stayed in the Room 1 on the ground floor and it was very spacious and well maintained. The bathrooms/toilets were on the first floor and they were quite clean as well. The next morning breakfast was arranged between 8 and 10:30 and it was okay. Some bread, butter, yogurt, juice and fruits. It could have been better, but I guess this could also be because of not many people staying on the particular occasion.  The wireless  also worked fine for me.I think it was very good experience of being at Havinn B&B",
+      "rate": 4.0,
+      "tripDate": " May 2008"
+    },
+    {
+      "title": "Good value, great place",
+      "text": "I would have no trouble at all recommending this excellent well run B&B.  Gary was helpful and the room was perfect, with a big bed and well furnished.  It did not have air con but there was an electric fan which worked just as well.  It was scrupulously clean.  The bathroom was just across the hall.  With TV in the room and good Internet connection I didn't need anything else.  There is a kitchen/dining area for guests to use.  My boys were higher up the house and their room seemed just fine too.",
+      "rate": 5.0,
+      "tripDate": " August 2013"
+    },
+    {
+      "title": "Somewhat unfair criticism",
+      "text": "I stayed at Havinn mid March and I do not completely agree with my fellow travellers. Sure, this is not a luxury inn but for the price I believe it offers rather good value. I had a very nice room, no complaints about the cleaning and a good breakfast. Perhaps the owner has improvided things following the somewhat negative comments here. Whether I was lucky or things have improved, its hard to tell. But my stay was well worth the money.",
+      "rate": 4.0,
+      "tripDate": " March 2011"
+    },
+    {
+      "title": "Loved Havinn",
+      "text": "Just back from a trip to Ontario.  We stayed in Havinn for a couple of nights at each end of our tour and totally loved it.  The house is in a fantastic location and is within walking distance to most downtown attractions and is also close to the subway.  The house is a beatiful old Victorian style house with lovely original features.  It has excellent big bedooms, but you should be aware that you need to share bathrooms (which was actually OK).  The breakfasts were extremely good and wholesome (nice coffee, juice, bread, muffins, fruit, etc).  I would say that the top floor is the best as no one else has any reason to be there.  The second floor seemed a little busy, as this is where the main kitchen and breakfast area is.  This is a nice, clean family run hotel.  We totally loved this place and would definitely recommend it.",
+      "rate": 5.0,
+      "tripDate": " July 2008"
+    },
+    {
+      "title": "Great B&B!",
+      "text": "I can't really add a lot to the other reviews on here, only to say that this has to be one of the best value accomodation options in Toronto! Gary is a very friendly host.. My room was a good size and had a nice comfortable double bed. The breakfast buffet is good, a nice range of things to eat, which vary from day to day. It's in a good location, it's 5 minutes walk from Spadina subway station and from there you can be in the city centre in about 10 minutes. It's near the University, in nearby Bloor St there's lots of good places to eat and drink to cater for the student population - mostly cheap and cheerful studenty sort of places, but with a few more upmarket options as well, e.g. Serra, a really nice Italian restaurant.The only negative thing I would say is, it's on a fairly busy road, although it's not so busy during the night. Even so, if you're a light sleeper and you get one of the rooms at the front then you might want to bring some ear plugs.",
+      "rate": 4.0,
+      "tripDate": " June 2008"
+    },
+    {
+      "title": "Great Choice!",
+      "text": "At just over $50 a night (including taxes) this really is one of the cheapest ways to stay in Toronto.  You'd expect at that price, that luxury would start to waiver ... but you'd be wrong.Upon arrival, I was greeted by Gary who's demeanor offered a very friendly and welcoming introduction to Canada.  I stayed in Room 1 on the ground floor.  Extremely large room, stylish decor which fit the building perfectly, a large comfortable queen bed and a 3-seater sofa next to the bay-window.  Each room also offers cable TV & wireless internet access, which is more than most Hotels in the city, never mind other B&B's!  I found the bathrooms to be clean and adequate in number - I think only once did I have to wait to use one.  There's a kitchen with the basic utilities, allowing you to cook your own food if you want to (I didn't bother, given the amount of places locally to eat out) and breakfast is served daily between 8am-10.30am.  One of the other things I loved about my stay here was how non-intrusive it was.  If you need any assistance during your stay, there's nearly always someone on-hand to help, but you'll only need to vacate the room for cleaning/linen change if you're staying longer than one week.In terms of location, it's ideally situated in a quaint leafy suburb, just north of the main Downtown areas.  Public transport is accessible at either end of the street, however I preferred to walk into the city every day.  It took me around 45 minutes to walk to the CN Tower - I'd guess 2.5 to 3 miles.  If you take the subway from Dupont, it's a matter of minutes.From start to finish, this is a 5-star B&B in my book.  Prior to staying here, I'd had 5 nights in the Days Inn Hotel in the heart of Downtown, and it's no small statement to say that Havinn was a far nicer place to stay...at half the price!  I really couldn't recommend this place enough - if you're planning to come to Toronto, then look no further.  You won't regret it.",
+      "rate": 5.0,
+      "tripDate": " April 2008"
+    },
+    {
+      "title": "Pleasant inexpensive place",
+      "text": "Havinn is located very close to main attractions in the downtown, and a 10-15 minute walk from the University of Toronto. It is quite inexpensive place to stay which has all the essentials.The room that I got was very spacious. It had a bed, a comfy sofa, a coffee table, and a chair. The lighting was provided by three lamps. The minor inconvenience is that there is no switch by the door to control any of the lamps. There was also a bookcase with two full shelves of books, some of which are quite good. There was also a TV in a room, but I have never tried using it. There is wireless which works quite well.The Havinn itself is a bed and breakfast with six guest rooms: one of the first floor, three on the second floor, and two on the third floor. There are bathrooms on the second and third floor, but not on the first. In addition, there is an additional washroom on the second floor that does not have a shower, but has a sink and a toilet. It is a strange overlook on part of the owners that the there are no hooks for the clothes in the bathrooms.Breakfast is served daily from 8am to 10:30am in a spacious kitchen on the second floor. It includes orange juice, toasts (two different breads), jam, bananas, apples and other items that vary from day to day (such as danish). There is also coffee that I did not try. There is a creamer, but no milk, which is sad for someone  like me who starts off a day with a cup of milk. However, there is space in the fridge that you can use. As the kitchen lacks stove, you cannot make yourself eggs even if you wanted to. There are two microwaves though. The dishes and silverware are provided, but you have to wash them after yourselves. There are signs on the cupboard saying that there are paper dishes for those who do not want to dishwash, but the paper dishes are not actually there. Unless you are in a hurry, I recommend to take public transit from the Toronto airport to Havinn since it is by factor of 7 cheaper than the next cheapest option, which is only barely faster. It is all explained on Havinn website with two minor details which take some time to figure out.  First, the bus stop at the airport is not easy to locate, as there are no signs to it. Thankfully there is a helpdesk at airport, stuffed by helpful volunteers(!). Here is how. To reach the bus stop, leave through exit B (all the exits are lettered). Above the curb there are signs. Look for \"C12\" (it is in the middle of the street). That is where the bus 192 stops. The fare is 2.75 canadian dollars, and the driver has no change. The fare covers the transfer to the subway. The second detail is that the subway has two platforms. Neither of these platforms is marked, but the trains from both of the platforms go in the same direction, and you can take either of them.",
+      "rate": 4.0,
+      "tripDate": " April 2008"
+    },
+    {
+      "title": "WARNING!!",
+      "text": "We made a reservation in Havinn Guest House by email and got a confirmation. It was supposed to be our second time in this place. However, when we tried to check-in, the owner said he had already gave the room to someone else. We showed him a confirmation email, but he just explained that someone had walked in explaining that they do have an reservation as well. So, this guy gave them our room without asking even their names, reservation, ID`s, nothing. It was the last room. We got there from Europe, tired, and ended up paying 300 dollars the first night In Toronto. And this guy did not even say SORRY! IF you make a reservation on this place it means NOTHING. The first to walk in got the rooms, with or without the reservations.",
+      "rate": 1.0,
+      "tripDate": " September 2018"
+    },
+    {
+      "title": "Great",
+      "text": "Really convenient location just north of the University of Toronto downtown, right in between two train stations. For a small fee, the bed and breakfast owner lets you park your car all day, which saves on parking cost downtown Toronto and on the struggle of finding a parking spot. Very friendly host too.",
+      "rate": 4.0,
+      "tripDate": " May 2015"
+    },
+    {
+      "title": "Guesthouse in Toronto",
+      "text": "I stayed in Havinn for two nights - chose this guesthouse mainly because of its price and location, but I was really lucky to find this nice, small place to stay in an interesting neighborhood (some beautiful Victorian houses, a lot of restaurants, subway stations, many shops and banks, etc.). The owner gave me a precise instruction in advance how to get there by subway and how to get the key to the house (he was usually not in the house between 12:00 and 16:00). Stress-free arrival. The room I got was so big. The shared bathrooms were clean, and I used this almost as my private bathroom. The shared kitchen was also clean and functional - it was really nice to make a cup of coffee whenever I wanted. No reason for me to stay at a proper hotel in Toronto - I shall certainly stay in Havinn again.",
+      "rate": 4.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "A home away from home",
+      "text": "We stayed here for the first few days of our year long stay in Toronto and our hosts couldn't have been more helpful and welcoming. The rooms were really nice, clean, comfortable, peaceful and felt safe. The beds were huge, comfy, the rooms were nicely presented and Gary got us air conditioning hooked up when there was a heat wave. Breakfast was tasty and always plentiful. The area is very convenient for the subway and walking distance to a wealth of shops, cafes etc on Bloor St. Havinn later became fully booked and we had to stay elsewhere (College Backpackers Hostel) - the room was pretty much the same price but our stay was far inferior and it really brought home how good Havinn was! We went back to Havinn and instantly felt like we had returned to a home away from home. Gary was so helpful, genuinely kind and full of advice to help us get settled in the country. We couldn't recommend Havinn strongly enough - a definite choice for anyone looking for a nice place to stay in Toronto.",
+      "rate": 5.0,
+      "tripDate": " June 2011"
+    },
+    {
+      "title": "DISGUSTING",
+      "text": "I have been to a few other B & B's before and they were great, but this place was disgusting.  When you walk in, it is very dark and creepy and there is no tasteful decoration at all.  It is in kind of a bad neighbourhood.  The host isn't overly friendly and when talking to him it is kind of awkward.  Our room had no sense of decoration what so ever.  There was a piece of food on the floor with hundreds of ants surrounded around this food (disgusting).  There were dirty towels in our closet.  We weren't given enough towels and only 1 washcloth for 2 people.  There is no air conditioning so it is very hot in there.  The bed didn't seem to be clean and had hair and bugs in it.  We had to share a bathroom with everyone else that wasn't clean and the only shampoo and soap were little bottles that look like they had taken from other hotels (that everyone was using).  The breakfast was not what you are supposed to get when staying at a B & B.  It had been sitting out in the dirty kitchen for hours and was only rotten fruit, hard cinnamon buns and danishes.  There was some peanut butter, nutella and jam sitting out still in their same containers from the store.  There was warm juice and you were asked to make your own pot of coffee.  The WORST part is that you were required to wash your own dishes.  That likely violates a health code.  I have stayed at other B & B's and paid the same price and it was way better than this place.  Overall, I was very unhappy and felt itchy when I left.",
+      "rate": 1.0,
+      "tripDate": " August 2010"
+    },
+    {
+      "title": "I won't be back!",
+      "text": "I really wanted to be fair and hesitated to write this because I know it will affect the business negatively.  However, something should be done - and a fair chance given for improvement.  I am accustomed to good hotels, so I tried to bring down my standards.  I took a room on the basis of location.  I had read the reviews, but decided to take a chance.  On arrival the entrance looked somewhat deserted, but ok.  Not really a friendly looking meeting place.  A bedroom was to the right.  I'm glad it wasn't mine!  The front door was self locking and there was a bell to notify the owner/manager.  The BandB gave a modest impression - a somewhat tired home, but acceptable.  The second floor washroom was clean and adequate, but some damaged areas in the tub were repaired in a light manner - nothing that would interfer with a shower!  A low budget for repairs was evident.  The kitchenette had two small tables and a fridge - not much to find in the cupboards.  Morning breakfast was quite adequate with bread, fresh baked rolls, cereal, coffee and tea.  I think there was orange juice. - No complaints.  My room was spacious.  On pulling down my covers I noticed a strand of dark hair, and an eyelash - possibly happened while the bed was made, but it made me wonder if someone had slept on the sheets.  I was forgiving.  The sheets are also tired, and need to be replaced.  I pulled out the pillows from the shams because they appeared to be much more firm.  The pillows that I removed from the pillow slips were very stained!  Not good.  How much does it cost to replace pillows once in a while!!!!  I recommend you do this!  I was not impressed.  The lamps and shades were dirty and so was the window sill.  Perhaps a little more cleaning could be expected when you have a business happening.  The mattress was adequate.  My suggestion is - a really good overall cleaning of the premises, get rid of those bed bugs that I didn't see (hope I didn't take them home with me!).  I feel badly for you.  Buy some new sheets and towels - since the old ones are very worn looking.  The towel that I got was not clean!!!  Someone may have used it to clean their shoes for all I know.  I didn't use it, and I didn't complain either!  Do yourselves a big favour and fix these things, otherwise business will not improve.  Once in a while, some inexpensive fresh flowers and a small chocolate bar on the bed would do wonders!!  I wish I could come to help out.  Overseas students may be accepting, but if you want different clientelle, ie. couples, retirees etc., I suggest you put aside your pride, open your wallet and do a little shopping - the returns will be well worth it!  Oh yes, and then advertise that you've made improvements - on this site!!!!  Someone who care for people who need to survive!Good luck.",
+      "rate": 2.0,
+      "tripDate": " May 2010"
+    },
+    {
+      "title": "It's like I am home.",
+      "text": "I'm sure I'm lucky finding this place, Havinn B&B.The location is great, just 3-5 min. from subway stations - Spadina & Dupont -, big streets, stores and restaurant.  The well organized beautiful house, awesome breakfasts and a wonderful host-Gary.  He is always nice and friendly to everybody, but not too much.  And also I can talk to another gests, they all come from different countries.  It is nice to have conversations with people from all over the world.  We can share our experiences and about Toronto as well.This B&B is highly recommended for every travelers!",
+      "rate": 5.0,
+      "tripDate": " September 2007"
+    },
+    {
+      "title": "Really pleasant stay",
+      "text": "We had a nice two night stay at the Havinn.  Some other reviews mentioned dirty linens and things but we had only pleasant experiences.  Clean bathrooms, clean and very comfortable beds, clean well kept kitchen, beautiful rooms.  The hosts Gary and Ekimo were friendly and nice.  It was like a hotel really except for sharing a bathroom and kitchen- the rooms are quite big.  In a nice part of town with old houses and trees.  Not too far to subway and bixi bikes and local crepe restaurant.  Very good value too, I think.  We will surely return!  Thanks for a great stay and delicious scones.  There is a place at the back to park your bike.  The floors are squeaky is my only complaint but that is what happens in an old house :)",
+      "rate": 4.0,
+      "tripDate": " May 2012"
+    },
+    {
+      "title": "Oasis of calm",
+      "text": "Many times over the years have I been to Havinn, visiting friends and family. Have enjoyed the sights and sounds of Toronto, as it changed to an international city of renown. To be able to park the car on site and travel by foot and subway is so relaxing and stress free. So much of the city is near to Havinn - U. of Toronto, Bloor St. shopping, Chinatown, Casa Loma.  Do I mind a 100 year old Victorian home with high ceilings and spacious rooms? Do I mind some tiredness in the painted surfaces? Not so much when I consider that for my economical dollar I get a breakfast that will suit me for a morning. That for that dollar I will have the use of 3 no waiting washrooms to share with only a few other guests. And I have watched the Moodies clean their washrooms and I know as a professional home renovator and project manager that they take very great care in the cleanliness of their place. And, if there are problems, as they do everywhere happen, then the Moodies are immediate in response and concern. For myself,  I would rather have a stay in a warm, caring Victorian home. Tourists go to hotels but if you are a traveler and wish to experience Toronto as a traveler, then try the Havinn  experience.",
+      "rate": 4.0,
+      "tripDate": " June 2011"
+    },
+    {
+      "title": "3 x GOOD",
+      "text": "3 x GOOD = good location, good price, good accomodationI stayed in Havinn in September. As someone has already mentioned the breakfast is nice ( I loved the brown, poppyseed bread they have :-) and it is good to be able to use fridge and microwave. Now few words about the rooms - yes they also did not clean my every day but I didn't mind as I had all my stuff all over the floor ;-) As long as they are cleaned at least once a week it's ok. So:Room 1 - just by the main entrance door on the first floor. I bet you can hear people coming in and going out.Room 2 - with 2 double beds on the 2nd floor, overlooking SpadinaRoom 3 - one double bed, on the 2nd floor (my favourite room) and even though it is also ovelooking Spadina it is quiet.Room 4  - also on the 2nd floor, one double bed, big room but next to the toilet, opposite bathroom and kitchen; so if you like to sleep long I don't think this room is ok because you can hear people in the morning fe. if they have a conversation while having breakfast.I had to change the rooms while I stayed there so that is how I a little bit about them ;-)I think there are 2 rooms on the 3rd floor but I can not say anything about them.I hope it was helpful and I hope you will enjoy your time in Toronto.",
+      "rate": 4.0,
+      "tripDate": " September 2008"
+    },
+    {
+      "title": "Convenient and clean",
+      "text": "Stayed a few days but was quite comfortable.  Within walking distance to Bloor-Yorkville, Bata Museum, cinemas, eating places, etc.  Value for money.  Safe neighbourhood and easy to find.",
+      "rate": 4.0,
+      "tripDate": " October 2007"
+    },
+    {
+      "title": "We liked it. Comfort, location, breakfast--@ budget price, plus parking.",
+      "text": "My wife and I enjoyed our week at Havinn. It was fine. We drove up to Toronto from Illinois for our son's wedding and were grateful to find a place like Havinn (so close to downtown) with free breakfast and speed wi-fi incl. Worry-free parking very cheap. For price and location (with lots of trees around but so near to downtown), you really can't beat this B&B. We saved plenty of money compared to the big downtown hotels and liked the homey family style atomsphere.   B&B just a block away from the TTC, but since we like short walks, we just set off down Spadina to the restaurants and shopping. Everything convenient to TTC subway and trolley cars; it's really crazy and unnecessary to use a car. There are many different eating places close by, but make sure you try the Chinese steamed and stuffed bowza (sp?) with a bowl of sweet and sour soup. It makes a real good  lunch.   Gary the innkeeper and his wife Emiko were very nice to us. I don't understand the negativity. Everything we asked for like extra towels and pillows, Gary provided. The breakfast was quite adequate. We enjoyed the self-serve and homey family style atmosphere. We slept well. We ate well. It was friendly and comfortable. We parked our big van right in the back yard. And the price for the week was a bargain.  If our second son ever gets married to Canadian from Toronto, we'll be back! LOL",
+      "rate": 4.0,
+      "tripDate": " July 2010"
+    },
+    {
+      "title": "NICE AND GOOD LOCATED!",
+      "text": "This place is on of the most pleasant B&B hotel that i ever vivited in my trips!It is clean,good located and very comfortable.But also i will say that one best think is the nice and very human owner of this hotel!!Because i'm trying a lot and i like always to be in contact with the locos and take informations about the city who i am,this man gived me a lot of this.In some other simular B&B somebody must try a lot to find good human contact as i had in Havinn.",
+      "rate": 4.0,
+      "tripDate": " August 2010"
+    },
+    {
+      "title": "Good value, no frills",
+      "text": "This is a budget B&B, and the owners do a lot to keep the costs down.  For example, the rooms are not serviced every day (and not at all during our 3-night stay).  Much of the furniture is old (some of the handles were broken on the dresser in our room).  There is some chipped/peeling paint.  Breakfast (which is continental: fruit, yogurt, pastries, bread, tea, coffee, and juice) is not served to you, but is set out in the kitchenette for you to serve yourself.  (The kitchenette has no stove/oven, but does have a refrigerator, microwave, toaster, coffee machine, plug-in kettle, and dishes for you to use whenever you want, not just at breakfast time.)  Also, you are asked to remove your shoes at the door.If any of these things bother you, this is not the place for you.  But it's a clean, comfortable place to stay in a safe and convenient location (one block from the Dupont subway, a slightly longer walk from the Spadina subway), and the price was just right ($60 for one person, $76 for two people, including tax).  All in all, an excellent place for the budget-conscious tourist to stay in Toronto.",
+      "rate": 5.0,
+      "tripDate": " August 2008"
+    },
+    {
+      "title": "good value for your money",
+      "text": "i stayed at the havinn for six nights and had a completely restful time when i was there.  it is indeed a very convenient homebase when visiting toronto and its many attractions.  bloor st. with its many restaurants, Honest Ed's, ROM, and the Bata Shoe Museum are a short walk south as is Casa Loma to the north.  dupont station is just a block away, and the subway takes you to everywhere else you would like to go.  (i recommend getting a weekly pass if staying in toronto for a number of days.  it works as a buspass to get onto buses and streetcars, and a quick swipe will get you on the subway.  i took the transit so much i definitely got my $35 worth.)the room itself was very roomy and the bed was nice and clean.  i even had a  little sitting area with a couch, a wingback chair and a coffeetable.  i stayed in the first floor room right by the entrance.  you definitely hear people come and go in the house so if you like peace and quiet i'd recommend the third floor rooms where there is much less traffic.  the wireless was working off and on in that room but when there was no signal in my room (which only happened twice in 7 days) i simply brought my laptop to the second floor to connect then went back down to my room.  the tv had satelite so there were lots of channels to choose from but the tv itself had no remote so whenever i wanted to turn it off and on i had to get out of bed.  the air condition was fairly noisy since i had it on full blast but it didn't phase me at all.the bathroom on the second floor was clean which was good since it was the busiest one.  on most days i had to go up to the third floor bathroom and shower there but it wasn't as clean.  the second floor bathroom was much better maintained.  there is also a half bathroom on the second floor which is also very clean.i found breakfast to be very decent.  fresh fruits everyday with baked goods.  there was a variety of breads for toast, different kinds everyday.  also, coffee, tea, juices, yogurt are available.  on sunday, my last day, there was this baked dish which i can only compare to a kind of bread pudding made with fruit and you could top it with what i think is a really thick, heavy creme fraiche.  it was heavenly.overall, i enjoyed my stay at the havinn.  for budget conscious travelers like myself, havinn is the place to stay.  gary, the owner, was very nice whenever i bumped into him.  he was very accomodating and very friendly.  i will definitely stay here again when i return to toronto.good job, gary, and keep up the good work!!",
+      "rate": 4.0,
+      "tripDate": " August 2008"
+    },
+    {
+      "title": "What a horrible place with a horrible owner!",
+      "text": "Short review:  The Havinn bathrooms are disgustingly dirty and Gary, the owner, is a complete jerk.Long review:I stayed at the Havinn with 4 other people, one of whom was disabled and could walk only with the help of crutches.  When we first got there it seemed ok.  We booked two rooms and my friend and I were planning to stay on the one on the first floor until we found out there was no bathroom there.  So we ended up having to take the 2nd floor room and let the rest of our group switch to the first so that she could access the bathroom easier.The first thing I noticed about this place was that the bathroom was DISGUSTING.  The entire 2nd floor bathroom with shower was moldy.  It looked like they hadn't done a proper cleaning in years.  The inside and outside of the shower curtain along with the grout on the tub and between the tiles were completely moldy.  You'd think from a place that requires you to take off your shoes before you enter, that they'd care about clean bathrooms.  That was wrong.Gary seemed nice at first but he turned out to be a complete jerk.  He made us pay in cash up front for our entire stay.  But after realizing my friend couldn't really access the shower, she went to him the next morning to explain the situation and ask for a refund so that we could find a place that was more accessible.  I heard him yelling at her from the first floor, taking no sympathy on her situation.  He was only concerned that he'd be stuck with an empty room.  The most he could do was offer to refund $15 for the next two nights and she could go find another place to stay by herself.  What complete BS.  I would NEVER EVER stay at this place again and I would NEVER recommend it to any one.And I learned one good lesson from all of this - never pay up front in cash for an entire stay.",
+      "rate": 1.0,
+      "tripDate": " August 2008"
+    }
+  ]
+}

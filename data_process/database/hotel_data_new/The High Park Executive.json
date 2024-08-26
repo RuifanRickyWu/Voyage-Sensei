@@ -1,0 +1,40 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "The High Park Executive",
+    "url": "/Hotel_Review-g155019-d1485558-Reviews-The_High_Park_Executive-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "1.0",
+      "reviewCount": 2
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "105-107 Quebec Ave",
+      "addressLocality": "Toronto",
+      "postalCode": "M6P 2T3",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "Nice rooms, but be aware of the Owner!",
+      "text": "The owner doesn't treat her customers very politely. We traveled all the way from Finland to Toronto and stayed in this place for 7 nights. She made us pay everything beforehand, plus 100 CAN cleaning deposit (which she will retain if for instance you don't take out the carbage, so READ the room-manual carefully!!). She also allowed us to check-in 22 hours late, due to previous occupant's flight problems. We had to stay in her apartment for the first night....wasn't comfortable...2 towels for 5 people there...We stayed in the Amber-suite (3/3 floor). NOTE: It does NOT have A/C as advertised! A/C is building-optimized, so none of the suites have any controls in place. The top floor apartments are the hottest of course. The apartment itself was okay in furniture/appliance-ways. Towels are provided, but NO toiletpaper, so be sure to take some with you when settling in, otherwise you'll need to run quickly to the local store ;) (missing of the toilet paper is not mentioned anywhere).The owner is not available for the customers to contact during weekends, she made this very clear to us. She is an British woman in her fifties, and quite stiff in her manor and communication.At the end, we had to send an reclamation to her about the breach of contract on her part (the late check-in), and she refused to compensate anything else beyond 100CAN. She actually blamed us for it (for not corresponding via email soon enough. She never called us, which we expected a person would do in case of urgent matters), and quite frankly wrote that she would not be missing us if we would decide to leave earlier than agreed, and stay somewhere else. So IF you for some reason end up staying here, please please, confirm EVERYTHING (dates, arrival/departure times to the minute, payments, deposits, returning of the deposit, currency, taxes, who pays the money-transfer fees, reclamation procedure, contact information, help-line for using appliances for instance etc) beforehand IN WRITING etc emails. Do NOT go for her explanations and suggestions, know and defend your rights as a paying customer. Demand what is agreed upon, and be firm.She brought really an interesting twist in a negative way to our stay in Canada, but unfortunately she made us miss a whole day in our plans (causing extra-work and costs to re-plan and schedule) with the late check-in mess. Furthermore the correspondence via email throughout the rest of our stay just to agree upon compensation took 5 days all together, and that caused really negative feelings and vibes among us to have to defend ourselves and our rights as customers who just wanted what was originally agreed upon.Would NOT RECOMMEND this establishment to anyone due to the owners attitude and behaviour. There are many other ones offering the same services in Toronto with A LOT LESS hassle, I would turn to them.",
+      "rate": 1.0,
+      "tripDate": " July 2010"
+    },
+    {
+      "title": "Rude owner, tries to scam you out of deposit",
+      "text": "Our experience was very similar to the other post. The owner was rude, gave us keys that opened other apartments( not safe at all!!!!) and moved my family's belongings into another apartment without their permission. We had rented two apartments for a week one from Sunday and the other from Monday. Both were reservations were made and confirmed at separate times however she rudely insisted that they were not even though we had email confirmation of dates. We wasted quite a bit of vacation and family time having to deal with her. This woman is a crook and I would not  recommend this place to anyone.",
+      "rate": 1.0,
+      "tripDate": " September 2010"
+    }
+  ]
+}

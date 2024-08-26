@@ -1,0 +1,103 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Annex Loft",
+    "url": "/Hotel_Review-g155019-d21397701-Reviews-Annex_Loft-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 5
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "473 Dupont St",
+      "addressLocality": "Toronto",
+      "postalCode": "M6G 1Y6",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/d0/d0/bc/annex-loft.jpg?w=500&h=-1&s=1"
+  },
+  "description": "The Annex Loft Suites is a Boutique Style four-storey residence located near the corner of Dupont and Bathurst Street in Toronto’s Annex, University of Toronto Neighbourhood. The building has an elevator, parking and contains all the finishes of a fully modern loft style urban living home. The property is best known for the quality of its individual suites rather than its exterior curb appeal. Consisting of two-bedrooms, all the suites offer spacious layouts with nine-foot ceilings, bright hardwood floors, stainless steel appliances, gas-fireplaces, and private balconies.",
+  "featues": [
+    "Free parking",
+    "Free High Speed Internet (WiFi)",
+    "Complimentary tea",
+    "Adults only",
+    "Baggage storage",
+    "Private check-in / check-out",
+    "Clothes dryer",
+    "Washing machine",
+    "Secured parking",
+    "Wifi",
+    "Air conditioning",
+    "Desk",
+    "Dining area",
+    "Fireplace",
+    "Coffee / tea maker",
+    "Dishwasher",
+    "Cable / satellite TV",
+    "Walk-in shower",
+    "Private balcony",
+    "Seating area",
+    "Separate dining area",
+    "Separate living room",
+    "Sofa",
+    "Wardrobe / closet",
+    "Clothes rack",
+    "Iron",
+    "Private bathrooms",
+    "Tile / marble floor",
+    "Microwave",
+    "Oven",
+    "Refrigerator",
+    "Stovetop",
+    "Electric kettle",
+    "Kitchenware",
+    "Flatscreen TV",
+    "Whirlpool bathtub",
+    "Bath / shower",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Landmark view",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Thank you Nick!",
+      "text": "Everything you need is there. Perfect for both short and long term stays, will definitely go there again and recommend friends and families to go too. Host Nick is very generous and friendly. He’ll accommodate your needs as much as possible.",
+      "rate": 5.0,
+      "tripDate": " April 2023"
+    },
+    {
+      "title": "Great apartment!",
+      "text": "Great and spacious apartment. Very clean. Kitchen was well equipped. Both bedrooms had their bathroom. There are a lot of restaurants and shops just around the corner. We used our car to go downtown but public transportation is close by. Good communication with the owners.",
+      "rate": 5.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Spacious and Comfortable Stay ❤️",
+      "text": "The unit was spacious, beautiful, and comfortable. it made for a great base to visit family and enjoy Toronto.The host communicated with us to ensure an easy checkin and check out. He provided everything we needed and we would definitely stay here again.Thanks",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Amazing Stay!!",
+      "text": "This apartment was walking distance to so many amazing places! Booking was so easy. Nick was amazing to work with. One of the cleanest cities I’ve ever been to. Beautiful views in a beautiful city. This apartment is a gem! No car needed! Walk and view a lot beautiful sites!",
+      "rate": 5.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Amazing Airbnb !!",
+      "text": "Loved staying at this premium location ! It was conveniently located and the space itself was super nice ! It was spacious and super clean and the beds were cozy ! 🥰 Will definitely be staying again!!",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    }
+  ]
+}

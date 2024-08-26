@@ -1,0 +1,230 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "1 Hotel Toronto",
+    "url": "/Hotel_Review-g155019-d1456256-Reviews-1_Hotel_Toronto-Toronto_Ontario.html",
+    "priceRange": "$$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 541
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "550 Wellington St W",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 2V4",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/29/13/0d/city-lounge-king.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Your sustainable sanctuary in downtown Toronto, inspired by the city's diverse natural environment and the tranquil expanse of Lake Ontario.",
+  "featues": [
+    "Valet parking",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Bar / lounge",
+    "Evening entertainment",
+    "Airport transportation",
+    "Conference facilities",
+    "Paid private parking on-site",
+    "Wifi",
+    "Fitness / spa locker rooms",
+    "Fitness classes",
+    "Pool / beach towels",
+    "Infinity pool",
+    "Rooftop pool",
+    "Pool with view",
+    "Outdoor pool",
+    "Heated pool",
+    "Restaurant",
+    "Breakfast available",
+    "Breakfast in the room",
+    "Complimentary Instant Coffee",
+    "Complimentary tea",
+    "Outdoor dining area",
+    "Snack bar",
+    "Special diet menus",
+    "Wine / champagne",
+    "Rooftop bar",
+    "Car hire",
+    "Taxi service",
+    "Banquet room",
+    "Meeting rooms",
+    "Rooftop terrace",
+    "24-hour security",
+    "Baggage storage",
+    "Concierge",
+    "Non-smoking hotel",
+    "Outdoor furniture",
+    "Sun loungers / beach chairs",
+    "Sun terrace",
+    "Doorperson",
+    "Umbrella",
+    "24-hour front desk",
+    "Dry cleaning",
+    "Laundry service",
+    "Ironing service",
+    "Allergy-free room",
+    "Bathrobes",
+    "Air conditioning",
+    "Desk",
+    "Dining area",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Walk-in shower",
+    "Housekeeping",
+    "Interconnected rooms available",
+    "Private balcony",
+    "Room service",
+    "Safe",
+    "Seating area",
+    "Separate dining area",
+    "Separate living room",
+    "Sofa",
+    "Telephone",
+    "Wardrobe / closet",
+    "Iron",
+    "Laptop safe",
+    "Private bathrooms",
+    "Tile / marble floor",
+    "Wake-up service / alarm clock",
+    "Minibar",
+    "Flatscreen TV",
+    "Bath / shower",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Landmark view",
+    "Bridal suite",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "A respite from a busy, noisy city",
+      "text": "I thoroughly enjoyed my stay at 1 Hotel Toronto. It’s location to the water, Queen street shopping and the Stackt market was convenient. The hotel lobby and my room offered a breath of fresh air from the noise and the busyness of the city. I was warmly welcomed by several of the staff. After a long period of travel that left me dehydrated and hungry, there was fresh fruit and flavored water to enjoy while I checked in. My room was an oasis of calm. Though I was street side, the noise didn’t penetrate the space and the interior design of the room made up for the lack of a view. Everything that the hotel offered that I took advantage of was a positive experience. I borrowed a bike and the concierge provided me with a safe and easy path to the bike path that runs along the water. After a long day, I decided to order room service for dinner. There were several excellent vegan, healthy options. The carrot soup was amazing. It was delivered by an extremely friendly staff person and in a timely manner. My room was equipped with a bathtub. The hotel provided bath salts so I decided to end the evening with a bath. It was a very calm environment and perfect way to end a busy day. The bathroom has everything anyone could need. The toiletries they provide are high quality and smell amazing. The hair dryer was also of high quality. It was a Dyson. I usually travel with my own hairdryer when I check luggage because the hotel hair dryers usually fry my hair. I recently stayed at a Ritz Carlton property assuming they would have a really good dryer but they surprisingly had a super cheap one that made my hair frizzy for the whole trip. Since I was only doing a carry-on, I left my hair dryer at home and was so excited to see that the 1 Hotel stocks their rooms with such a nice hair dryer. . Never underestimate the importance of these small details. The other cool feature of this hotel is that they have Tesla house cars that can take you places in the city within a certain radius. Even though I didn’t take advantage of this, it was nice to know that it was an option.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Fabulous girls getaway!",
+      "text": "Stayed here for 3 nights recently with two of my girlfriends and we had a fabulous time! We stayed in a two queen room which was plenty of space for the 3 of us and included a lounger and side tables. The toilet was separate from the shower/sinks so it made getting ready easier. The bathroom counter is a bit small and there isn’t a ton of room - so give yourself lots of time for getting ready!  All of the staff were extremely friendly and the location is amazing! The city is so walkable from the hotel. The pool was amazing, the drinks were so good, and the staff were attentive and friendly. Only small complaint about the pool is that the food menu is extremely limited - hard for anyone with any dietary restrictions to eat! As the pool is right outside of Harriet’s rooftop it would make sense for the hotel to offer the same menu poolside!  Also… adding a few more mirrors around the hotel and hotel rooms would be an appreciated extra touch!   Still despite all of this, 100% a 5 star experience and would stay again! It was the perfect getaway… the mattress was sooo comfortable and I slept like a log each night!",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "1 Hotel Toronto is one of my favorite hotels of all time!!",
+      "text": "I have stayed in my fair share of hotels and 1 Hotel Toronto is now one of my very favorites. The service, property, and amenities are impeccable. Brooklyn Lambert, the front office supervisor, and Robin Elliott, the chef concierge, both could not have been more helpful and such a pleasure to meet. They went above and beyond to make sure my son and I had a wonderful week at their hotel. The hotel is VERY enviromentally conscious. I have never stayed at a hotel where all of the water is filtered. Being able to fill up a water pitcher and have cold fresh water during our long stay was definitely a nice feature. And, the location can't be beat! They are just a couple of blocks off of King West and Queen West streets. Which means you are a short walk from a ton of restaurants and shops. The restaurants in the hotel are also all amazing! We ate at 1 Kitchen the majority of our time in Toronto! The hotel is also walking distance to the CN Tower and Rogers Centre, where the Blue Jays play. We walked to a game and were there in 15 minutes. In addition to the prime location they also have compimentary Teslas to take you places, within a certain distance from the hotel. There is also a grocery store a very short walk away.We did take advantage of having a very nice gym and pool. If you have kids you need to be aware of the age limit for the pool. Even with the age limit, they were very accommodating for my 15 year old son to go to the pool during the day. There are personal trainers you can book time with, however I didn't have the opportunity to do that. I look forward to staying at any of the 1 Hotels. I certainly wouldn't stay anywhere else in Toronto. And, a huge thank you to Brooklyn and Robin for helping make my 50th birthday stay in Toronto wonderful.",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Would certainly recommend for single, female travellers, I felt safe and had a positive experience!",
+      "text": "I really enjoyed my stay, especially the perks like the complimentary tesla car service provided by Evolve Limousine & Rentals for guests, this service alone is great value and would certainly secure a future stay just for the added benefit of getting around the city (big thanks to Richard and Anthony).  I appreciate the small details ex. rock to show \"do not disturb \" and the berry water in the lobby, also love the text concierge service.  The espresso martinis from the lobby bar are delicious, special thanks to Beth for the quality service and DJ Kori Hall for a great Saturday night. The only constructive criticism I have is the rooftop pool - operations seems a bit unorganized, and guests of the hotel aren't necessarily prioritized over random walk-ins for the limited seating available. It was difficult to order a drink by the pool and I had to seek out a server several times for water, drink order and seating on the pool chairs. The service was excellent once I found a server and pool attendee (they were kind, polite and tried their best), but I felt like they were overwhelmed or lacked proper support/direction.  Would certainly recommend for single, female travellers, I felt safe and had a positive experience!",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Home away from home",
+      "text": "I booked a suite for the night before our wedding and our wedding night. It was spacious and airy and had all the comforts of home. The kitchen had dishes and glassware and the bedroom had a portable speaker which came in handy to play music while the bridesmaids got their hair and make up done in the morning. Love the focus on sustainability (I don’t think anything was in plastic packaging or came in a plastic bottle) and recycling. The location is great and so close to transit and King West restaurants, though there’s plenty of dining options onsite as well. Would highly recommend this hotel (and we didn’t even get to use all the amenities!).",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Needs work to be a luxury hotel",
+      "text": "The hotel promotes itself as a luxury hotel but the service is poor and it’s amenities are lacking.  If you ask about the hotels amenities, menus or services most staff won’t know the answer or worse, will simply make up an answer.  When asked if a house car was available and we were told that they didn’t know when it would be available or if it would be available.   As we walked out the door there were two house cars out front (30 steps from the person who had no idea when they would be available) that were empty and waiting to take guests wherever they needed to go.  The hotel itself is beautiful and tastefully decorated but staying there is like giving the keys of a Ferrari to a someone learning to drive.   They don’t appreciate what they have, they have no idea how to use it, and so they can’t help others to enjoy it.  The hotel was opened in August 2021 and promotes sustainability.  They even use Teslas as their house cars.   One small problem with this is that if you actually drive a Tesla (or any EV) you can’t actually charge it at this hotel.   Most luxury (and even standard) hotels have at least a few electric chargers at this point as automakers roll out more electric cars but this “eco/sustainable” hotel has exactly zero chargers.  It’s actually shocking (no pun intended). The night life in the main lobby and roof was lively and had a “club” feel but if you want to experience real luxury and the service that comes from staying in a luxury hotel you may want to try the Ritz, Park Hyatt, Four Seasons, or one of the many other fine hotels in Toronto.  We wanted to give this one a try as we liked the whole sustainability concept but the service was a real let down and we won’t be back.",
+      "rate": 3.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Love, love, love this place",
+      "text": "Our connecting flight from Toronto to NYC was canceled and we were stranded for a few days. We arrived exhausted and miserable about our plight, but all that turned around within minutes of walking into this hotel. We’re checking out two days later and are almost sad to leave. The staff are welcoming and highly attentive, the hotel room is beautiful and well designed, and the hotel bars and restaurants are terrific (though not cheap). The entire hotel is an aesthetic delight!There is a heavy focus on environmental sustainability, from using only recycled wood throughout the building to providing a lobby fruit stand containing less than perfect but perfectly edible fruit that would otherwise have been discarded at grocery stores. We did not use the gym or pool but we were told the gym includes Peloton bikes. Judging from the rest of the place, I’m sure both are gorgeous. Our studio room with a king size bed is spacious, very clean and bright, and well appointed with a Nespresso maker, tea, filtered tap water and snack bar. The bathroom is gorgeous and has a rainfall shower head and the shower gel, shampoo and conditioner smell heavenly. Even the hair dryer is much better than average.The hotel is located in the fashion district, and although there is a lot of construction going on, it offers some nice dining options within walking distance. The hotel’s restaurants (including rooftop restaurant) are popular with non-guests of the hotel, so that tells you something. Plus, the hotel offers free Tesla rides within a 4 km radius, which gets you to several key areas such as downtown. In short, we love this place and we hope to have an opportunity to come back. In fact, we already asked if we can come back if our flight tonight is canceled. Again.",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Top notch experience!",
+      "text": "Our 1 Hotel stay was exceptional!  We would like to thank Steven Dagenais who helped us get discounted corporate rates. He provided outstanding service and ensured that we were happy with all aspects of our visit!  Also, we had great assistance from Stephanie with finalizing the booking and she addressed any questions we had along the way. We experienced 1 Kitchen for brunch and dinner, Flora Lounge for cocktails, Harriet's Rooftop for dinner and we also utilized room service for a meal!  The food and drinks are so fresh and delicious. We just loved all of it.The rooms are so clean, unique and beautiful.  Sustainability was designed in everything from beautiful furniture, live plants everywhere and even the small items in each room.  Thanks again to Steven, Stephanie and every single team member who were attentive, pleasant, happy and extremely quick to address all our requests!!!",
+      "rate": 5.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "A brilliant stay",
+      "text": "From the moment I arrived the experience was excellent. The staff (more like brand ambassadors) were friendly, accommodating and just lovely. My dog was welcomed with a dog bed, dishes and a bag of treats. The room was fantastic. Due to lockdown I had to have most of my meals in suite and room service was fast and attentive, keeping my room clean of dishes post every meal. The food was outstanding. Thanks to the entire team for making my stay so pleasurable.",
+      "rate": 5.0,
+      "tripDate": " January 2022"
+    },
+    {
+      "title": "Exceptional Experience!",
+      "text": "The customer service at 1 Hotel is second to none. As soon as we drove up to the entrance we were greeted by friendly and efficient valets who took care of our vehicle and luggage with a smile. The front desk staff was amazing and made sure we had everything we needed for a comfortable stay. We made a few requests via text message and they were promptly responded to without question. After relaxing in our eco-concious rooom (gorgeous!) for a couple of hours, we headed down to Kitchen 1 for a delicious meal served by attentive staff who made sure we were well taken care of. After a comfortable sleep and luxurious shower, the check out experience was seamless and the front desk staff even took the time to send us off with a delicious coffee and tea. I can't say enough about this hotel and the amazing staff. Definitely consider 1 Hotel for your next visit to Toronto, the experience will exceed your expectations.",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Fantastic guest service",
+      "text": "The rooms are beautiful and the whole place is very accommodating, spotless, and full of great people that works there that made my staying impeccable. I had a fantastic dinner at Casa Madera highly recommend. Nadine was exceptionally good 🙏🏽",
+      "rate": 5.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Amazing Getaway!",
+      "text": "Our experience was excellent from start to finish. We thoroughly enjoyed two nights of bliss. We were treated well by all staff from when we arrived until we left. Our room was beautiful, complete with high-end amenities. The beds and linens were so comfortable, and we appreciated the turn-down service in the evenings. We enjoyed room service and brunch from 1 Kitchen. The bar on the main floor had delicious food and drinks. Dinner at Harriet's Restaurant at the top of the hotel served terrific food and beverages with a fantastic view of Toronto. We can wait to visit this hotel again. It is definitely a 10+ !!!",
+      "rate": 5.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "Fantastic Hotel!",
+      "text": "Loved staying here. The colour palette was calming, the shower was spacious with great pressure and the bed was so comfortable. I loved the little sitting area with the couch as well. Overall I had a fantastic stay and definitely recommend!",
+      "rate": 5.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Unbelievable  birthday stay.",
+      "text": "Stayed here for my girlfriends birthday and everything was incredible. Everyone from Front desk (special shout out Adrian), Concerige(Alisha) and bellstaff (Omar) made our stay perfect.Conceirge helped me set up some flowers and balloons in the room, communication was very easy and it turned out so good.Dinner and Casa was amazing as always, the duck tacos 👌Finished the night with a cocktail on the rooftop, still the best view in the city.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Beautiful space and exceptional service",
+      "text": "It was the perfect home away from home during our stay in Toronto. The welcoming and friendly staff made our stay extremely comfortable. The rooms were super comfortable with beautiful decor with everything needed for your stay, and anything additional needed was only a phone call away. Loved the Flora lounge and rooftop pool and the gym was amazing! Thanks to our favourite staff member Zoe for going above and beyond to make sure our stay was great. We will definitely be back, thank you!",
+      "rate": 5.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "Don’t know how to address complaints.",
+      "text": "Great hotel, nice ambiance, very high end and nice folks (especially the concierge). But I got trapped in the bathroom - the sliding door got derailed and it took two guys to lift and pry it open from the outside. Hotel staff responded by sending a text and offering a free dessert on the house. Not sure how I feel about an apology over text (maybe I am too old school) and then downplaying being trapped in a bathroom to something that is addressed by a $10 dessert (although I did not deny the free dessert). In any event, I think I will stick to the brands that I like who really know how to take care of their guests… not just being nice when things are fine but making it up (really making it up) when things go wrong. Staff should learn what their competitors do.",
+      "rate": 2.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Customer Service at the highest level",
+      "text": "WOW 1 hotel Toronto, let me just say that I am so grateful for one amazing customer service experience from the moment I was picked up at the airport in one of my absolutely favorite car (Tesla) to all the tinniest things like the water, cheese, cured meats, seasonal jam, house pickles, sourdough fruits and the thanks notes from Director of Front Desk Melinda when I arrived in my room, to chief Concierge Robin that made me realize how small the WORLD is since I lived in Sweden and I got to brash my Swedish for a few second with him  To Anastasia and Alisha for all those emails corresponding trying to get my trip to Niagara Fall situated to everyone who made me feel like home and super welcome.You guys have made me realize that customer service matter and you have all done a great job. I know there are a few people here I didn’t mentions names but it due to I don’t remember all the name but know that you all made a difference in my stay at this hotel and that are all super special.I am 1 hotel Toronto loyal for life because of you all. If I have made it back here again, mark my words, I am staying at this establishment because of the top-notch customer service where it’s not forced but comes natural as the peaceful hotel you guys have created. I know now that everything starts from the top and the management has done an amazing job keeping the standards and the customer services at the highest level.The room was amazing with a great view of the city and I also got an upgraded, soft pillows, perfect bed not too hard or soft, great lighting in the room and the ability to change temperature easily. I did try 1 kitchen for all my breakfast, Flora Lounge meeting friends and drinking coffee or glass of immune drink, Harriet’s Rooftop for the amazing oysters I tried.There are so many things to say about this place but at the end of the day people who works here makes the place move smoothly because I have never experienced anything like it and I have traveled around the WORLD. The customer service here was amazing and just the ability to be friendly to people and always giving the service with a smile. But I also realize as a guest you must give people who are around you the same energy. We are here to treat everyone with respect and to make sure it’s always two sided. I saw this written in one of the stone in Niagara Fall “Have you made someone’s life better today” Cheers 1 hotel Toronto for making my stay be one of the best.",
+      "rate": 5.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "Staycation in Toronto",
+      "text": "The 1Hotel team always raises the bar!  The atmosphere transports all guests into a sanctuary far  away from all the normal daily tasks and chores. The rooms are designed to make you feel like you are one with nature with a beach not to far away. We had the pleasure of dining at Harriet’s RoofTop for dinner. You can see almost a 360 of the toronto skyline. We ordered sushi, waygu, burrata and a multitude of mixed drinks. Nothing disappointed. We also dined in for brunch and had their eggs Benny and focaccia French toast. All the flavours were amazing. Crazy enough the potatoes and in-house cured bacon stole the shop for me. 1Hotel has definitely won me over from the other luxury resorts. They will become by home away from home from now on.",
+      "rate": 5.0,
+      "tripDate": " December 2021"
+    },
+    {
+      "title": "A+ Wedding Experience",
+      "text": "I attended a friend's wedding reception here earlier this month and have nothing but good things to say about the hotel, food and staff. The Casa Madera restaurant is such a beautiful, intimate space and was the perfect setting for such an incredible night - would highly recommend if you're looking for a venue for your own special event. Food was so delicious, I would come back just to have the miso cod again. Maureen and her team of servers and bartenders were the best - thank you for adding to the already fantastic atmosphere by being so attentive, friendly and fun. It's hard to find a place that checks off all the right boxes, but 1 Hotel definitely does that.",
+      "rate": 5.0,
+      "tripDate": " December 2021"
+    },
+    {
+      "title": "Beautiful spacious rooms, unmatched service",
+      "text": "I stayed at the 1 hotel in March for the night before and after my wedding. My room was gorgeous, spacious, clean and had a fully equipped kitchen which was really handy.  People say you don't sleep well the night before your wedding, I slept like a baby. The bed was so comfortable and luxurious. Service -  The service at 1 hotel has been nothing short of incredible.  When walking into the hotel you are always greeted in a very friendly manner and they make sure you know that if there is anything you need, it is available to you if you just ask. They provided us a phone number to text them if there was anything we needed to our room and we always received prompt responses and they were always helpful.  Food -  THE FOOD.  When planning our wedding we had several meetings at the hotel.  The food at 1kitchen is always fantastic. The burger... wow!!  Again, all the staff are so friendly and want to ensure your experience is great.  The lobby bar makes a fantastic espresso martini for my martini lovers, and has a really great vibe in the evenings.  I couldn't believe how busy it was on a Saturday night!  The rooftop restaurant is not only beautiful, but also has fantastic food and drinks. Overall - great hotel, great rooms, fantastic staff and I cannot wait to go back time and time again.  I have already recommended the hotel and the restaurants in the hotel to so many people.",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    }
+  ]
+}

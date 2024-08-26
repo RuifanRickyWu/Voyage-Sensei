@@ -1,0 +1,285 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Canadas Best Value Inn Toronto",
+    "url": "/Hotel_Review-g155019-d647815-Reviews-Canadas_Best_Value_Inn_Toronto-Toronto_Ontario.html",
+    "priceRange": "$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 221
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "650 Evans Avenue",
+      "addressLocality": "Toronto",
+      "postalCode": "M8W 2W6",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/93/30/fb/exterior.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Free parking",
+    "Parking",
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Free breakfast",
+    "Breakfast available",
+    "Wine / champagne",
+    "24-hour front desk",
+    "Vending machine",
+    "Air conditioning",
+    "Housekeeping",
+    "Safe",
+    "Microwave",
+    "Flatscreen TV",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Pleasantly surprised!",
+      "text": "I had a concert at Budweiser Stage September 24 and all the hotels in and around Toronto were ridiculous prices.  We arrived about half an hour before check in and the front desk agent was able to get us a room that was just cleaned.  We had a room with two queen beds and soon as we opened the door it all we could smell was CLEAN!  The window is small but I'm not there to look out the window.  We were about halfway down the building so noise from the expressway was not an issue.There was a bar fridge and a microwave which came in handy (the bar fridge for us).  The bathroom was updated and very clean.  The beds and pillows were comfy and we slept well.I went down to the lobby to get some water from the dispenser, which was turned off as it's normally only on until 11AM for the juice options.  The front desk agent turned it on so I could get some water.PROS:  Great price, comfy beds/pillows, great location, friendly staff.  Tim Horton's next door!CONS: only saw one ice machine on the first floor by lobby.  No shower chair for disabled people to use in the shower.  They ask for a $200 hold on your CC upon check in which I think is excessive.Overall, this is a great, affordable option for a trip to Toronto.  Right off the expresswa & very close to shopping.  A no frills place to stay that won't break the bank!",
+      "rate": 4.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "A motel style place but with a new building that seems a little smarter.",
+      "text": "Economy place suited for those with flight connections at Pearson International.   This is a motel style place but it has a new building that seems a little smarter.  Showers are good and beds are comfortable.  Check out is 11am and there's a free late checkout until noon.",
+      "rate": 3.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Don't judge a book by its cover",
+      "text": "In Toronto for a wedding, I wanted to book a hotel that would be close to the banquet. Hence, I chose to check out Best Value. While my first impression of the hotel was not way up there, I nevertheless went forward in asking to see the rooms. Surprisingly, the rooms were quite big and the bathroom of reasonable size!  The furnishings appeared to be relatively new, decorated with good taste. The room  was spotless. The staff is really nice. The pirks include free internet access and coffee.Disadvantage: Sleeping in a smoking room the first night...I'm a little sensitive to the smell. Stayed two days for 70$ a night. Staying alone, I felt really safe.",
+      "rate": 4.0,
+      "tripDate": " June 2007"
+    },
+    {
+      "title": "Great sleep and value by Toronto Pearson",
+      "text": "Checked through Booking and this was $100 or more less than other airport hotels, although 2 Uber trips lessened the difference.Check in staff were very good, room was quiet, bed and pillows very comfortable, nice bathroom and everything was clean.Had a great sleep.Check out was very easy and the hound staff person at 6:00am, originally from Nigeria, was very pleasant to talk to as I waited for Uber.My best compliment is that I would gladly stay here again.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Great value for the price!",
+      "text": "The hotel was extremely well priced for the value.  The reception area person was very friendly and provided free coffee/tea/juice.  The room was very basic as expected but it was clean, well equipped and the bed was very comfortable.    We requested an extra pillow which the cleaning lady promptly provided.    We would definitely recommend this hotel and also go back if we are in the area.",
+      "rate": 5.0,
+      "tripDate": " April 2023"
+    },
+    {
+      "title": "Extremely Disappointing Stay",
+      "text": "I am writing to express my extreme dissatisfaction. I encountered several issues that significantly impacted my stay:Rude Staff: The behavior of motel's staff was unprofessional and unwelcoming. They were dismissive and unhelpful when I raised concerns, which left a negative impression.Water Issues: Upon entering my room, I discovered there was no water. When I approached the staff they addmitted there were prolonged periods with no water supply, which is unacceptable. It was especially frustrating that staff was aware of these issues but failed to inform guests in advance. This lack of communication is highly inconvenient and shows a lack of consideration for all guests.Refund Refusal: Despite the significant inconvenience caused by the water issues, I was not offered a refund. Instead, I was told to \"wait patiently\" for the water to resume in 4 hours. This response was inadequate and added to the frustration of an already unpleasant situation.I am very disappointed with the service I received and the overall management of the motel.I strongly advise against staying at this motel. There are many other good and affordable options nearby that offer better service and amenities.",
+      "rate": 1.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Hit by a truck",
+      "text": "You are literally right up against the highway. The room itself is nice but you cannot get a good night's sleep. The airconditioner was right up against the bed so we did not use else would be like a freezer. We were more tired leaving than when we arrived. The security deposit was not mentioned so hopefully I get it credited back.",
+      "rate": 2.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Great value for the money",
+      "text": "Good location (Queensway and 427). Quiet hotel with clean rooms, comfortable bed and reasonably priced. Check in easy. Had Coffee/Tea available all day and juice in morning. Would definitely stay here again if staying in Toronto.",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Stay for work",
+      "text": "I have been staying there for quite some time for work and I have to say it is always great . Rohan greets me with a smile and is always helpful and Julia keeps the rooms top notch and very clean...... \\i won't stay anywhere else when I'm in town.....Thanks",
+      "rate": 5.0,
+      "tripDate": " February 2021"
+    },
+    {
+      "title": "Please don't stay here",
+      "text": "They charged me 3x as much as what was listed on the website. Hotel was filthy, and very bare bones, despite not even being cheap.  There was no reason other than the supposedly cheap price that I would have stayed here. I was charged before even checking into the hotel, and then charged again just to get into my room upoj arrival.",
+      "rate": 1.0,
+      "tripDate": " February 2024"
+    },
+    {
+      "title": "Worst place I've ever stayed",
+      "text": "First off i called this place to confirm they had a crib we could use they said yes we do sir i said great and booked the room. We get there go to desk and they tell me when we get back from our wedding we were attending they would have a crib. We get back to our room no crib call down and they say we don't have one. Next my wife gets a drink and we get up in morning to see the glass has coffee in it we don't drink coffee. The breakfast was awful not worth 110 we paid I'll never go back there",
+      "rate": 1.0,
+      "tripDate": " April 2016"
+    },
+    {
+      "title": "Good for what I paid",
+      "text": "Supposedly recently renovated, however the shower in my room was awful - it had a very low pressure from it.Good sized room, with a large flat screen TV and fridge. No coffee/tea making facilities in the room, however they did offer it free 24/7 in the reception lobby. However bit of a pain first thing in the morning.Good free fast WiFi and ample free parking. They offer a free breakfast however it's very basic - toast, cereal fruit juice.Pleasant staff and very friendly.It's located between a highway and a busy local road, however I didn't hear either from the room. A good quiet stay to be fair.Good links to Toronto. If you don't have a car, or don't want to pay the ridiculous Toronto parking charges, there's a bus stop across the road that will take you to Kipling subway station. The buses run every 15/20 mins and take around 20 mins to travel. Kipling station also has a park and ride facility that costs just $5 for the entire day with ample parking. The train journey to Toronto is around 30 mins and costs around $3.50 one way.",
+      "rate": 3.0,
+      "tripDate": " March 2016"
+    },
+    {
+      "title": "Toronto 2 night visit",
+      "text": "The room was very small but it served its purpose. It had a microwave and fridge, a small breakfast was served until 10am.We had a car that we drove and park at the metro station (8 minutes from the hotel) and took the metro to downtown Toronto. Staff was friendly and gave us tips to where to go in downtown.",
+      "rate": 4.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Free parking, good value",
+      "text": "If you want a clean hotel with free parking for less than $100 a night (2 people) that is within a 15 minute drive of downtown, then this is the place for you. This place is about a 2 minute drive from the Gardiner Expressway which shoots you right down to the CN Tower, St. Lawrence Market, etc. Staff was friendly, surrounding area was quiet enough, and there was plenty of on-site parking. For my style of travel I couldn't really ask for anything more. Definitely recommended.",
+      "rate": 5.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "Nice place",
+      "text": "Apart from the really noisy air conditioner, this place is nice and rooms are silent. I liked it, and they offer breakfast. Prices were reasonable, less than imagined. The only problem is the air conditioning...",
+      "rate": 4.0,
+      "tripDate": " July 2015"
+    },
+    {
+      "title": "Great Value and Well situated",
+      "text": "I travel to Toronto on business frequently. This hotel is very well situated for visiting the downtown area or the West end : either area is a quick (well - quick for Toronto) trip on a highway.  The hotel is clean and well appointed.  There is free Wi-fi, my room contained a microwave, little fridge, ironing board & Iron as well as all the usual things one expects in a hotel.  The room is quiet, clean and very comfortable.  I have stayed at this hotel several times now, and always been very happy.  There is also a nice continental breakfast included!",
+      "rate": 4.0,
+      "tripDate": " July 2015"
+    },
+    {
+      "title": "This Is Budget?",
+      "text": "I usually say you get what you pay for but here you definitely get more. Clean, newly renovated rooms, great staff and for less than $100. I try and rate every place I stay based on what I'm expecting according to whether it's budget, 4 star etc.... I don't go looking for 5 star hotel lodgings when booking budget lodgings but once you walk into one of the rooms here, you'll forget it's budget. Deep tubs, full size ironing boards, new irons, bedding to rival the 5 stars, high comfy bed...",
+      "rate": 5.0,
+      "tripDate": " March 2015"
+    },
+    {
+      "title": "Lives up to its Name",
+      "text": "Stayed here in February and got a winter discount so an excellent value. Rooms were very clean and decor was as nice as many more expensive hotels.  The exterior and lobby could use some updating so the rooms were a nice surprise.  Service was helpful and friendly.  The breakfast was very basic but as much as could be expected for the price.  Coffee is available in the lobby at any time which we appreciated.  Located next to a busy expressway so we were concerned about it being noisy but it was not an issue with the windows closed.",
+      "rate": 5.0,
+      "tripDate": " February 2015"
+    },
+    {
+      "title": "Very good at an excellent price",
+      "text": "Stayed here in order to get to a very early appointment the next morning in Toronto.  Choose this hotel based on reviews, price, free parking and the less than 20 minute drive to our destination.  The neighborhood is nothing to write home about, but don't let that put you off! The room was impeccably clean, and both it and the bathroom had obviously been recently renovated.  The front desk staff was very pleasant. The convenience of the Gardiner Expressway and Hwy. 427 make it easy to get just about anywhere, but there is a low traffic hum, which did not bother either my husband or me, but might be noticeable to the very sensitive. Very close to excellent shopping and some good dining.  At under $100 all in, this place is the bargain of Toronto.",
+      "rate": 4.0,
+      "tripDate": " January 2015"
+    },
+    {
+      "title": "Smells and horrible service",
+      "text": "This hotel smells so bad. We got a room that smelled so bad like marijuana and the man wouldn't give us a different room we complained and they went and sprayed the room with something that smelled equally as bad. I couldnt even breathe it smelled so bad. Horrible service at the front desk. Not accommodating at all. Very frustrating",
+      "rate": 1.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "Nice place, away from city center",
+      "text": "Stay in Canadas best value inn was ok, nice renovated rooms, fridge, hair drier, good quality mattrasses, wifi and free parking ... for a breakfast there is just donuts, muffins and bread but at about 9 AM everything was gone :) .. but they ve got good orange juice ... across the highway there is a shopping mall ... kinda far away from city center .. hotel was really quiet when we realize its next to highway",
+      "rate": 4.0,
+      "tripDate": " July 2014"
+    },
+    {
+      "title": "BEWRE. Rudest and worst staff in the world and rooms smell with PEST",
+      "text": "I have stayed here more then 30 times and this hotel has some of the rudest staff members I have ever seen. I stay at this horrible motel only cuz its close to the highway and it saves me lots of time. Check out is 11 am with no grace period and by 11:20 if you are not out they threaten their gonna call the police....There is about 1-2 good people that work here and they r here only nights. They do not want to hear it from u when u get an 11am wake up call like ur in the army and they call, are very unprofessional when doing so. None of them even know proper english......the room cards alway deactivate too.....BEWARE OF THIS HORRIBLE MOTEL.",
+      "rate": 1.0,
+      "tripDate": " July 2013"
+    },
+    {
+      "title": "Terrible",
+      "text": "I would not recommend this place to anyone! The place smelled of urine and cigarette smoke, the rooms are tiny and look nothing like the website advertises. As well as the so called lite breakfast looked like day old pastry and horrible coffee",
+      "rate": 1.0,
+      "tripDate": " March 2013"
+    },
+    {
+      "title": "Great location, very reasonable",
+      "text": "This property is tucked into a small quasi-residential area between the \"East\" and \"West\" malls on the east side of Toronto.  It is a very good location to access the Toronto downtown via the Metro Kipling Station.  The room we had (with a AAA discount) was quite reasonable - $100-150US less expensive than the downtown properties.   The rooms aren't anything special but our was clean and user-friendly.  The microwave/'fridge is a nice touch.  (The also have kitchenette studios.)  The staffing was a little light and American English is definitely not their strong suit.  But then again, we sometimes have a hard time with Canadian, eh?  They were quite helpful when they appeared.",
+      "rate": 4.0,
+      "tripDate": " September 2011"
+    },
+    {
+      "title": "CLEAN, CONVENIENT AND VALUE",
+      "text": "My husband and I stayed here 3 nights in August and we were very pleased with the location, the price and our stay.   The rooms are a decent size, clean,  flat screen TV, microwave and fridge.  No fancy soaps but who really needs them?  There were on-the-wall shampoo and soap dispensers that worked just fine for us.  Front desk and cleaning staff were very friendly, good coffee provided 24 hours a day.  Complimentary continental breakfast (donuts/muffins) but we didn't have a chance to try these.  Did not hear any noise at night but did notice the traffic noise a little bit in the early morning, but not excessive.  Parking right outside the door.  No elevator so if stairs are a problem ask for ground floor.  Free internet and mall right next door as well as many eating places.  Drive to downtown approx. 20 minutes if not excessive traffic.  We would definitely stay here again.",
+      "rate": 4.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "It really is the \"Besr Value Inn\"",
+      "text": "I was expecting a shabby run down place at that price. Was I pleasantly surprised! My room was very much like one you'd find in a new Holiday Inn etc. Extremely clean, nicely decorated, with flat screen TV, fridge, and microwave. The bathroom was modern with even a rain shower head. No shampoo, lotions etc. But how much do you expect for that price? It is in a combination commercial/residential area. Very quiet at night. Public Transit at the door. Within walking distance of Sherway Gardens -  a great mall. Convenient to highways, but not close enough to hear the traffic. Must drive to a restaurant for breakfast though.",
+      "rate": 3.0,
+      "tripDate": " February 2010"
+    },
+    {
+      "title": "Unbelieveable value for this price",
+      "text": "Stayed in building that is separated from the main building. Looks new or newer, all contemporary design. Flat screen TV, rain shower, granite countertop, espresso-colored furnishings. Really felt like a more upscale hotel. The rate on the sign visible from the highway was $5 lower, but once we saw the room we were happy to pay the extra. Fantastic value for budget travelers to Toronto. Free wifi and parking.",
+      "rate": 5.0,
+      "tripDate": " November 2009"
+    },
+    {
+      "title": "Checked all the boxes for me!!",
+      "text": "Price, Check! Convenience, Check! Location, Check! This very value priced hotel was a pleasant surprise, I had booked it the night before based on price and proximity to PIA and was a little nervous on the location, but my worries were unfounded upon arrival. Very clean and quiet considering it is almost right next to the Gardiner Expressway, the room was very clean and well appointed, no frills, but exactly all I needed for a quick stopover. It is close to the Sureway Garden Mall and has a Tim Horton's right beside it which was very handy come morning! The staff were very pleasant and they had a lovely continental breakfast on offer as well. I'm not sure if I would bring the family but for the solo traveler it is very convenient!",
+      "rate": 4.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "Great for a couple of nights",
+      "text": "We booked this place last minute as we read reviews for the Knights Inn we had booked and they were awful.Whilst the outside appeared a little bit 'Motel' the inside was very different. The rooms have just been updated and what a little gem we had found. The rooms were clean, modern and just what we needed after a long flight from the UK. The beds were very comfy and there was a fridge and a microwave in our room but our relatives in another room had a full kitchenette and a dishwasher! TV was a large flat screen too along with a desk and aircon/heater. Showers were modern and had a good flow and all in all, we could not fault it.",
+      "rate": 4.0,
+      "tripDate": " October 2018"
+    },
+    {
+      "title": "Pay up front",
+      "text": "My friend and I were staying for one night May 12. When we attempted to register we were told that we needed to put down a deposit and also pay for the room immediately. I told Charlene the desk clerk that we usually pay at the end of the stay the next day. She responded that this was the hotel policy. I told her that this policy was never included in our emailed reservation confirmation. We decided not to register and went to another hotel instead. Charlene treated us as if we were delinquent patrons even before we were registering. And she took my government issued ID and made a photocopy. I'm a RN and my friend is a social worker but were treated like homeless clients. I will never stay at your hotels. I will tell my family and friends not to book rooms with you",
+      "rate": 5.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Cheap on the wallet, big on quality!!",
+      "text": "The rooms are beautiful. All re-done and so very affordable. The staff was friendly and prompt with requests. I was seriously impressed with the room for the price. New mattresses, new paint, new fixtures. Microwave, fridge, hair dryer, iron...deep, deep tub.",
+      "rate": 5.0,
+      "tripDate": " April 2014"
+    },
+    {
+      "title": "Belligerent check in clerk",
+      "text": "No, I did NOT enjoy this.  In fact the desk clerk, when I tried to check in, became belligerent and denied the fact that I had requested a ground floor room and told me that my wife and I (both of us are 71 and have mobility issues) would have to use a smoking room if we wanted a ground floor room.I had to persuade her not to charge us for 1 night.We went to another motel nearby where we were treated much better.",
+      "rate": 1.0,
+      "tripDate": " November 2014"
+    },
+    {
+      "title": "bed bugs ?",
+      "text": "Room 22First appearence can be deceiving. The staff seemed very friendly .They told us how they had done all kinds of work improving the Inn. Up grading the room new decor . It looked and sounded good.Entering the room it looked great ,  comfortable. Nice and quiet. We stayed for two nights.But look out.  After the first night I started exsperiance some itchy spots. They puffed up , simmilar to misquitoe bites .Thinking that was what it was , I gave it no more thought.  After  the second night I seemed to have far more bies and when telling my roomy she to had the same excperiance . She  had also noticed small bugs in the room..   Then strating to wonder we had not seen any mosquitoes anywhere.Guess what  BED BUGS. It was confermed at my Dr. the next day. . .   after the bites began looking almost like  blistors. I had a very bad reaction to the bites.So beware looks are not always what they seem.If it wasn't  for the bugs it wood have been a great place.M+G Kingston Ont.",
+      "rate": 2.0,
+      "tripDate": null
+    },
+    {
+      "title": "Worst experience ever",
+      "text": "Worst hotel / motel I've ever dealt with. They lost our reservation and then tried to charge a 500 night deposit fee. On top of that the clerk decided it was ok to yell at me and told me it was my fault. How is it my fault when they lost the information. I even had a reference number. Which she told me didn't exist and there was no way the computer would ever loss anything. Will be the last time I use a Best Value Inn location. If you decide to stay here my advice is don't.",
+      "rate": 1.0,
+      "tripDate": " February 2017"
+    },
+    {
+      "title": "2nd Time and Still a Charm",
+      "text": "This time we stayed in the building adjacent to the main. It was just as stellar. Staff again was polite and friendly. Room were just as comfy and elegant. I can't believe how beautiful they are for the price!!",
+      "rate": 5.0,
+      "tripDate": " November 2014"
+    },
+    {
+      "title": "Poor Customer Service",
+      "text": "Last year I stopped at this hotel because I wasn't feeling well to see if they had a room, it was pretty late at night and I didn't have a reservation, they did and I told them I had my dog with me and they said that was fine, it was an alright stay, basic room but clean enough and close to the highway so this year when I had to return to Toronto for a medical appointment I looked online for them, joined their 'value club' which allows late check outs and booked a room. checked in around dinner time, first thing I did was take my dog for a walk because we had been in the car hours, stopped with him right in front of the office where three other guests were just standing around talking so they could pat my golden retriever, the office is all glass so I could plainly see the girl at the desk and she could see me, nothing was said about the dog. The next day I checked out, again nothing was said, when I got my credit card bill I noticed they had charged my room fee of 111.00 then charged me again for 100.00, when I called they said it was because I had a dog and they don't allow dogs,  I explained they allowed the dog last year so I had no reason to think the dog was not allowed this year. I went and checked the paper she had given me at check in to see if I had missed the no dogs note and and it isn't even readable the printing is so faint, I have included a picture of it. Its so faint she had to hand write the wifi pass on it and change the check out time to 12 from 11 for me being a value club card holder. Had they said something to me when I was walking the dog I could have left him in the van or found a different hotel. They should of very least told me at check out they were going to double charge my card. I am very disappointed. On my way back I stayed at the Motel 6 instead, no problem with the dog, the rooms were nicer and cleaner and it was 36.00 cheaper (136.00 cheaper if you count the dog charge), They have lost a customer over something that should have been handled on check in and over a gentle dog that caused no trouble and no damage. Not the way to do business.",
+      "rate": 2.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "Sleazy People",
+      "text": "We reserved room online and they charged us something more for each night.Staff is very rude. We checked-out about 1 hr late and front desk clerk didn't stop calling and knocking at the door until we gave her some money.",
+      "rate": 1.0,
+      "tripDate": " April 2014"
+    },
+    {
+      "title": "Simple,confy and Amazing!!",
+      "text": "Staff- All the staffs are very nice and helpfull !Location- Amazing place to stay ,15 minutes by car to downtown,1 hour e and 15 minutos to Niagara falls.Clenning- Very good , nothing to say just amazing!Free good wi-fi,free parking lot and a Thin Horns just in the same plaza.A good shopping mall 2 minutes by car or 10 walkingThe breakfast is very simple but is ok .IF you do mind about luxury this is your HOME away from HOME!LOVEEEE this hotel !",
+      "rate": 5.0,
+      "tripDate": " January 2018"
+    },
+    {
+      "title": "Clean and convenient",
+      "text": "We stayed here one night before our early morning flight out of Toronto.  The price was excellent, the room very clean with an updated bathroom. It was also very quiet.  The staff were friendly and helpful as they printed out our boarding passes for us.  I recommend this if you're looking for basic accommodation with no unwanted \"surprises\". The free breakfast is cold cereal and toast, coffee and juice with 2 seats so it's a quick bite to start the day but it suited us.",
+      "rate": 4.0,
+      "tripDate": " April 2015"
+    },
+    {
+      "title": "Don't judge a book by its cover",
+      "text": "We stayed one night at the toronto location. We were unsure when we arrived and checked in but were shocked when we opened the door to our room. The room was beautiful, very modern and clean. It felt like we were in an expensive hotel. Only dislike was the contract workers staying at the motel. Doors left open to see beer cases piled to the ceiling, and smoke coming from the room. Which I'm sure will not be an issue once Reno's are complete.",
+      "rate": 4.0,
+      "tripDate": " August 2014"
+    }
+  ]
+}

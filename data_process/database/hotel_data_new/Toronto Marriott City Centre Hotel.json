@@ -1,0 +1,270 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Toronto Marriott City Centre Hotel",
+    "url": "/Hotel_Review-g155019-d155586-Reviews-Toronto_Marriott_City_Centre_Hotel-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 2556
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "One Blue Jays Way",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 1J4",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/ff/c4/20/king-concierge-level.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Experience the pulse of the vibrant entertainment district at the Toronto Marriott City Centre. Located inside Roger Centre, Our Toronto, Ontario hotel is just steps from the CN Tower and Ripley's Aquarium. Take advantage of hotel amenities like a 24-hour fitness centre, a heated indoor pool, a lively sports bar and restaurant, and an on-site Starbucks®.",
+  "featues": [
+    "Valet parking",
+    "Free High Speed Internet (WiFi)",
+    "Pool",
+    "Fitness Center with Gym / Workout Room",
+    "Bar / lounge",
+    "Bicycle rental",
+    "Bowling offsite",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Paid private parking nearby",
+    "Wifi",
+    "Paid internet",
+    "Hot tub",
+    "Pool / beach towels",
+    "Indoor pool",
+    "Heated pool",
+    "Coffee shop",
+    "Restaurant",
+    "Breakfast available",
+    "Breakfast in the room",
+    "Outdoor dining area",
+    "Tennis court offsite",
+    "Business Center with Internet Access",
+    "Conference facilities",
+    "Banquet room",
+    "Meeting rooms",
+    "24-hour security",
+    "Baggage storage",
+    "Concierge",
+    "Currency exchange",
+    "Non-smoking hotel",
+    "Doorperson",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Dry cleaning",
+    "Laundry service",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Room service",
+    "Refrigerator",
+    "Cable / satellite TV",
+    "Sofa bed",
+    "Bath / shower",
+    "Safe",
+    "Telephone",
+    "Bottled water",
+    "Clothes rack",
+    "Iron",
+    "Private bathrooms",
+    "Wake-up service / alarm clock",
+    "Flatscreen TV",
+    "On-demand movies",
+    "Radio",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Landmark view",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Good but pricey",
+      "text": "I was here on a work trip and didn't actually realise at first that the hotel is connected to the baseball stadium. Very cool and I actually wish there'd been a game on while we were there. The service was great and the staff all lovely, but you are paying top dollar to stay here. The gym and pool are really big and well appointed, and the rooms are modern and spacious as well. Like many places in Canada, they won't give you the luggage trolley to use yourself - you have to wait for a staff member and tip of course. Please just let me use the trolley when I'm in a hurry - I promise not to hurt myself! The only negative of the stay was the considerable price for valet parking. $50 a night is the most I've ever paid - though I realise it is the centre of Toronto. But if I have just dropped $200 on parking, I don't expect the vehicle to be brought back with EVERY conceivable adjustment to the driver's seat changed! It can't be more than a 200m drive, and I literally couldn't get into the car based on the adjustments made by the valet who must have been 4ft tall. Such a weird thing to do to a car and to leave that way after changing it.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "GREAT HOTEL",
+      "text": "We stayed here for 3 nights while visiting our daughter in Toronto. This was our first travel since Covid and was somewhat unsure about staying in a hotel. Our stay here swept away any concerns! Stayed in a king city view and the room was very clean, comfortable and large. There was information in the room to let you know what extra steps they were taking in cleaning rooms. There was no daily housekeeping but you could call reception at any time if you needed anything. We had ample towels, coffee, plastic cups, toilet paper, kleenex etc and never needed for anything. Housekeeping was servicing an empty room a few doors from us when we arrived and gave us extra bottles of water in case we needed them. The bathroom was large, super shower and sparkling clean.We has a breakfast package and our waiter Alex, was phenomenal! He was friendly, helpful and couldn't do enough for us. The first morning I had asked for a glass of skim milk which the hotel restaurant was out of that morning. There's a Starbucks in the hotel so he went there to get me a glass and the other mornings would let me know the hotel restaurant had it if I wanted some. He was so pleasant and a great start to our day.The hotel is about a 20 minute walk from Billy Bishop Airport and is surrounded by restaurants and attractions and of course the Blue Jay games.Staff we came in contact with were all friendly and helpful. This will be our hotel any time we stay in Toronto.",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Baseball fan's paradise!",
+      "text": "Visited May 18/19 with my elderly parents to enjoy a Jays game in the comfort of a hotel room. Upon arrival and before we could even unload our luggage, a friendly bellhop came and securely held it while we waited for our room to be ready (arrived well before the 3pm check in). Happily, we enjoyed lunch, libations and fantastic views and service in the attached SportsNet Grill until the room was ready. Our luggage was promptly delivered once we checked into our room. Watching a game in the hotel has been bucket list my entire life and I nearly fainted walking into our two-level executive suite. Two upper windows open (floor to wall windows the entirety of the one wall)  and the ballpark is immediately in your room. We ordered room service and were eating ballpark treats (hot dogs, chicken fingers) on the couch in our pjs within minutes. The staff actually care and go above and beyond to ensure you're having the time of your life. The ballpark was transformed into gala seating for a Jays charity event while we slept and we noticed neither lights nor sound all night. It was mind-boggling to open the curtains and see the field completely changed. The next morning, we enjoyed brunch in the SportsNet Grill. There was plenty of choice and the food was fresh and delicious and service outstanding. Bonus if you are a hardcore Jays fan, you will run into players/coaches/tv personalities. That thrill was almost too much to handle!",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Exceptionally Friendly Staff - Covid-quiet",
+      "text": "I know this review will be a little skewed by the covid thing going on, but the hotel was a really nice place to stay. It's located right by the Skydome and CN Tower. and an easy walk to shops, entertainment and restaurants.What made the hotel so nice centered the people; both the presence of professional and helpful staff but also the absence of too many other guests to be blunt. The hotel was so quiet because of the whole covid thing; I only ever saw a few other guests.There is a Starbucks and a restaurant, a bar too.We stayed on two separate nights a week apart and both times they stored our bags for us while we were tooling around town after checking out. The staff was very personable and REAL when giving advice about places to get breakfast etc.They upgraded our room because we're Marriott rewards people and we scored a fantastic room: large, modern, and clean.  I would recommend a room on the side not facing the train tracks if you're a light sleeper.",
+      "rate": 5.0,
+      "tripDate": " September 2020"
+    },
+    {
+      "title": "Amazing staff!!",
+      "text": "I had already been in toronto for 2 nights at the sheraton for work, and switched to this hotel since it was over the rogers stadium and my boyfriend was flying in for the weekend. Unfortunately his flight was delayed until the next morning so i spent the first night alone. As a solo female traveler I always try to be vigilant about my surroundings and be aware. Room: LOVED it. Truly spacious and was even better than the photos. There were stairs in my room and it overlooked the field. So breathtaking even for someone who isn’t a baseball fan. I slept really well at night and it was quite modern. My room also had two tvs and a pull out couch!Location: really the best. We were able to walk in 5 min to cn tower for dinner on a very cold february night. I was also able to walk to a yoga studio, and dozens of restaurants nearby. There’s also a starbucks in the lobby. Staff: now this is where this hotel really sets itself apart. On friday night at 6pm i was leaving my room and saw a strange backpack in front of my door. I shut my room and then saw a suitcase 2 ft from tbe backpack. I turned to my left and saw a really large man pressed against the hallway wall, looking like he was eavesdropping. I actually said hi to him and he did not respond. I ran downstairs and the most kind staff member at the front desk listened to my concerns and immediately went upstairs with his manager. I really loved that he took me seriously and made it a priority. For a moment I was concerned about my safety. I left to go to eaton mall and upon my return, the same nice gentleman let me know the guest was ill from drinking and everything was okay. I was reassured and the staff did a great job handling the situation!! Thank you so much :)",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Great location and indoor heated pool but dated-looking hotel",
+      "text": "Amazing location! We had come to stay here as there were several conveniences that were offered in this hotel, including fast check-in; a full service restaurant open all throughout and facing right into the Rogers Centre stadium; and a Starbucks to grab a quick breakfast, coffee or snacks. Also, we had mainly come here to use the indoor pool over March break and were not disappointed. While the pool looked a bit old and the hot tub was closed due to repairs, the pool has heated water, is spacious and never crowded. The change rooms were perfectly clean, never crowded and plenty of fresh towels were on hand.I was also surprised by how spacious the actual hotel room & bathroom was and the bathroom had a very efficient flush toilet. And my kids loved the view facing the GO train tracks. So if you are travelling with young kids, ask for the rooms facing the train tracks and/or the skyline and on the higher floors, it’ll keep the kids entertained. Now for the cons: the hotel bldg is old. So expect some funky smells in the hallway; the bathtub looking old; the beds being small and uncomfortable; no comfortable seating; the rooms looking dated; and the worst part, the room being freezing cold with a noisy AC/fan running the whole night.",
+      "rate": 3.0,
+      "tripDate": " March 2023"
+    },
+    {
+      "title": "Weekend in the metropolis",
+      "text": "It’s been a tough and extremely slow time for Toronto amenities etc being allowed to re open. We stayed 2 nights and the service and staff were fantastic. Continuous cleaning protocols carried out, safe distancing enforced in an unobtrusive fashion. We dined on the patio and inside at the Sports net grill. Excellent service, food good, no price “gouging” We’re already planning our next long weekend getaway !",
+      "rate": 4.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Very friendly staff who are trying their best",
+      "text": "The Marriott City Centre has a lot going for it.  It’s located inside the Rogers Centre (previously the Skydome), the massive baseball stadium and event space that’s the Toronto home of the MLB Blue Jays.  From that location a guest can easily walk to the CN Tower, the aquarium and the Scotiabank arena (home of the NHL Maple Leafs and the NBA Rapters) as well as the convention centre.  This is all within just a few blocks.  In the winter this is all connected by The Path, an enclosed walkway.This is on the waterfront. A nice place in the summer with lots of open parkland and restaurants.  The more cultured part of Toronto is a few blocks north where you could find the Theatre District, the Museum and the AGO art gallery.  And a lot more restaurants and other interesting places.Our room was just fine cosmetically.  Typical high-end surfaces and finishes befitting a multi star hotel.  Everyone was friendly and helpful.But, from the rating, there was a problem.  The Rogers Centre was built in 1989, that’s 34 years ago.  For a while there was some discussion around tearing it down, but the more realistic action was to spend something like a half billion dollars to massively refurbish the place over two years.  The first half of this is underway right now and it appears to involve jackhammering the 100 and 200 levels to massively reconfigure the stadium.  The pounding propagates perfectly through the concrete into the hotel. Starting at 7am, it sounded like the jackhammers were right overhead.  I measured mid 70 db, peaking at 80 db just after 7am.  This is way above what a Marriott hotel guest should have to endure.The hotel was built inside the stadium, and although it has been cosmetically updated, the structure is as it was designed 35 years ago.  The hotel has individual room HVAC units for cooling, heating and fans.  This is an old design and it cranked into action all night long.  Modern HVAC design uses a fully integrated building system that delivers cool and warm air silently.  The elevators are noisy and I’m sure there’s other issues the maintenance staff has to deal with. Perhaps the mechanical systems of the Marriott should have been refurbished during the work on the rest of the building.  But that would have been expensive.This hotel might be ok for baseball season but next winter when levels 300, 400 and 500 are reworked it will be not fit for purpose again.  I commend the management and staff for trying, but perhaps you should find something else.",
+      "rate": 2.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Avoid this hotel they will literally steal your things!",
+      "text": "I stayed here from December 25 to 27 in room 839 and before booking I called to make sure the hot tub in the pool area was working and I was told over the phone that yes it was operational. I arrived and was told that no in fact the hot tub does not work... When my kid and myself checked out in the 27 we forgot a few items (which we realized at the airport) - I called the hotel to advise them to please hold them and I would arrange to have them picked up. The person on the line said they would call me back and never did - I had to call back and when I did, I was told that no Housekeeping says they found nothing when I know for a fact I left it in the room and they said nothing they could do and goodbye... so unprofessional and will never again stay at a marriott ever again... croocks",
+      "rate": 1.0,
+      "tripDate": " December 2021"
+    },
+    {
+      "title": "Disappointing customer service",
+      "text": "The hotel overall was fine. We stayed 3 nights. The first night in a field view room ($$$) and the other two in a regular room. The morning after our field view room stay I asked the front desk about the possibility of moving into our new room since we needed to vacate the field view room by 10am. At 9am I was told that even though the hotel was at full capacity they would have a room for me by 10am. At 10 I was told they had nothing for me and didn't know when they would. The frustrating aspect is that they could have told me that at 9 or even that they'd try without a guarantee and I would have planned for that. I have two young kids, planning for the day is crucial when traveling. And they genuinely seemed to not care in the least. I guess spending $1,000 for a single night in a hotel room doesn't include courtesy.",
+      "rate": 3.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "A new experience…staying inside a stadium",
+      "text": "It was really cool to stay inside a stadium. We stayed when the Jays were away, but we can imagine that the place must rock when there are home games! The room, towels, bathroom was clean.  Those who cleaned the rooms do a great job!Location of hotel is next to CN tower.The staff at the Sportsnet Grill were generously friendly and pleasant.  They let my son visit the restaurant multiple times to take pictures of the stadium as it was being  prepped for upcoming baseball games.  The lady we had at check in could be more welcoming; she seemed bored. Thankfully, she’s a one of as others who were checking in groups were more animated and smiling and everyone else we met at the hotel were great!Hot tub was closed and appeared to be that way for awhile. Layout of pool vis-a-vis shower/dressing room not convenient.Staying in a hotel such as this is overall conducive to enjoying oneself.We would definitely stay here again and next time it will be while the Blue Jays are in town.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "awesome Canada Day weekend",
+      "text": "We stayed in a field-view room for the Canada Day weekend and it was amazing!  It was very expensive but so worth it because we were able to see the Friday night game as well as a double-header on Saturday before checking out Sunday morning.  Everyone was so organized and helpful and the room and view were spectacular.  We had an awesome weekend!",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Comfortable hotel, excellent location",
+      "text": "I have stayed here on a few occasions and have enjoyed myself each time. The location cannot be beat (near the train station, inside the Rogers Centre, next to the CN Tower and Aquarium), while the service is very good.While there are definitely fancier or more renowned hotels in Toronto, for me,  this is one of my favourite places to stay in the city. Would definitely stay here again.",
+      "rate": 5.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Another AMAZING stay!!!!",
+      "text": "My wife and I stayed at the Marriott Jan 2023. I had taken my wife to stay here for her 30th birthday back in 2018 which was our first time in Toronto. We had such an incredible experience at this hotel in 2018 that we couldn't wait to come back We were not disappointed. We had become good friends with Anton who works in the sports net bar and he looked after us better than we could have imagined. Our room was on the 11th floor and was the biggest room we have ever stayed in with the comfiest bed known to man (or woman). The bathroom was spotless and the shower was glorious. The room was freshend up every day. The staff at the Marriott are exceptional and it was once again great to see Jennifer at reception who is always smiling and we had the pleasure of meeting Bobby in the bar who was absolutely fantastic. Toronto is a special place at the best of times but this hotel is one of the best we have ever stayed in for the level of comfort, quality of the rooms, view from the bar and the staff who just make you feel so welcome.We cannot remember being as disappointed to have to leave as we did on this trip. Thank you to everyone at the hotel who made our stay so special and especially Anton who went over and above. We won't forget it! Ryan and Sarah",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Great hotel especially if attending a Toronto Blue Jays game",
+      "text": "I was traveling with a group. We arrived on a travel coach. the bell staff assisted with unloading the luggage and check in was easy. I especially liked the fact that you needed your room key to access your floor on the elevator. The hotel was clean and the staff friendly. I did not need any special assistance. Our room was clean. Towels were changed each day as well as room tidied up. I was able to eat at a breakfast buffet and the food was good. Plenty of choices. I did not use the pool or room service.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Very central location",
+      "text": "Great location.  Big clean rooms.  Friendly and helpful staff.  We are a family of 4 ( with 2 small children) and stayed in the double bed suite with separate living area.  I was hoping there would be a closed off bedroom with a door but this isn't the case.  There is a half wall separating the 2 areas.  I wish hotels would think of families a little more and have rooms with separated bedrooms so hubby and I could watch some tv while they slept!  We went to the indoor pool and were the only ones there.  The water was warm and the kids had fun.  Hot tub was broken at the time.",
+      "rate": 4.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Excellent location, comfortable hotel",
+      "text": "I stayed here for three nights during a work event. My stay was very pleasant, the bed comfortable and the room and bathroom extremely spacious and functional. The location is great and I was able to walk to the office very quickly. Getting to the hotel from Union station was also very easy, just a short walk and most of it sheltered by a tunnel in case of rain or snow!",
+      "rate": 4.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Good Choice",
+      "text": "We spent a week at the hotel,location is pretty good, clean hotel, everyone is super friendly and trying to make your stay the best as possible.The room is nice and also clean as suppose to be, the bed is comfortable,renovated bathroom.At the restaurant we made friends with the staff that is extremely kind and super welcoming and so do they adjusted some dishes according our needs plus you have a very nice view from the Roger Center Baseball StadiumMine very big thank you to everyone and specially to Alex,Alrick,Matthew,Dylan,Halley,Stephanie and Janice they are an awesome team that made us feel like home.I strongly recommend stay there.",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Nice hotel, fantastic location.",
+      "text": "Nice hotel perfectly situated for exploring downtown Toronto. The room was clean as was the rest of the hotel. The pool was a nice addition to our stay. The breakfasts were good and the view of the bluejays stadium while eating breakfast was just amazing. Our room backed onto railway tracks, but the trains go past so slow, we never heard them. The CN tower and aquarium are less than 5 minutes walk. The train and bus station were a 10/15 minute walk. Taxis were easy to catch out the front of the hotel. We stayed B&B and we had local take away food in the evening after eating out at lunch. There were plenty of food options to choose from and a couple of supermarkets nearby too for drinks and snacks. The staff were friendly and helpful.",
+      "rate": 4.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Kentuckian Takes On Toronto",
+      "text": "I made my first trip to Canada as part of a group bus tour. Our trip included lodging at this Marriott, which is connected to Rogers Field. The rooms were very large and comfortable. It was quiet at night. The employees were very friendly and helpful. The hotel is right next to the CN tower, which is something I highly suggest experiencing. It’s also walking distance to the waterfront and to numerous shops and restaurants. We ate in the  Sportsnet Grill for a late snack after a game, and for a breakfast buffet that was included with our package. The views inside the stadium were really cool. The flatbread and beer were good. The breakfast was standard hotel food. I didn’t want to take any stars away, but there were a couple things. The fan on our AC didn’t work the whole time we were there. You could hear it try to come on but it didn’t work. We reported it to the front desk but it wasn’t fixed while we were there. We set the AC on 64 and could feel a little cool air but it wouldn’t circulate. Also, if you want your room made up you had to request it. We weren’t told that, but we didn’t check ourselves in since we were part of a group. They brought us towels when we called ask why the room wasn’t refreshed.",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Toronto 2022",
+      "text": "Our original plan was a trip to Niagara Falls, which btw, we loved.  Toronto was a last minute thing for a quick 2 night trip. The city is very clean and busy but walkable and feels completely safe even at night. We did the city bus tour which is good if you're short on time but definitely not cheap at $60 per person. You can use the ticket for 24 hours as a hop-on hop-off transport but the busses wind down around 4:30 pm. A trip to St Lawrence Market is a must for good food, and a half mile walk from there to the distillery district has great little shops, restaurants and live music. In all, we're happy we made the trip and could see another visit someday.",
+      "rate": 4.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "International fencing championnionship in toronto",
+      "text": "Excellent experience , the personal was very helpful, kind and careful, even if it was in the middle of a Pandemic Covid 19. The room was big and clean, the beds and sofa were very confortable. The sportnet Grill restaurant had a very wonderful location on the field on the Roger center. The team of the Sportnet was wonderful , we are welcome like a Very VIP guest each day for breakfast, lunch or dinner. A special thanks to Alex from the restaurant who was very kind for us each day, taking care of our time in Toronto, very helpful.Thank also to MOnika the concierge who helped with the visit in NIagara Falls and the differen geographic information .A good and a Great Team i wish to all the best in the future",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Above and Beyond Customer Service",
+      "text": "The hotel is nice, but the service is amazing. My family and I stayed here last year and we forgot to write a review right after our stay, but now that we plan on returning it reminded us of the wonderful service we had. So much so that my young daughter instantly asked about Lady Rose. Lady Rose is one member of a team of delightful people that care for the guests. We hope she is still there and look forward to seeing her again. I could give many examples of the detailed attention we received, but here is one that really stands out. There was a water damage issue in the lobby when we were there and the way to the garage was confusing so the general manager walked me to the hotel garage to make sure I didn't have the inconvenience of navigating the confusing path without a guide. I found this type of attentiveness and initiative in every employee I met there. I have traveled to over 45 countries and stayed in 5 star hotels from time to time and the service at this hotel is on par with the best.",
+      "rate": 5.0,
+      "tripDate": " February 2019"
+    },
+    {
+      "title": "Gorgeous view",
+      "text": "Came here for Valentine’s Day as we go a great deal online. Was not expecting a nice hotel like this one! I had a really good experience here and I would highly raccomand. The staff is really nice and even house keeping is! The hotel room we had in the 4th floor had a beautiful view overlooking the CN tower and the aquarium ! Room all in all was clean and big but could use a few touch ups.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Apparently loyalty means very little",
+      "text": "Prior to checking in I asked about a paid upgrade to a field view room. I was told that I could ask inquire on arrival day. I messaged through the app on arrival day and was told they were sold out of field view rooms but I could still reserve one for that night on the app. When I arrived no mention of my Titanium loyalty status and the room is less than impressive. My loyalty got me a first floor room overlooking the train tracks and a dirty overhang from the higher floors.",
+      "rate": 3.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Best Seats in the House",
+      "text": "Took the spouse to see her beloved Blue Jays by booking a king room with field view. Even though this was the first day that one had to prove that they were double vaccinated to attend the games, or use the hotel, I wanted to do this feeling safer in our own room versus being crammed together in the stands. This is a bucket list item if you are a baseball fan and want to watch the game as it is a brilliant way to do it. The rooms with a view are very expensive and the amenities don't quite match the prices, but decent enough if you are there mainly for the game anyways.  Be aware that there are lots of noises coming from the dome and the air systems, so if you are a light sleeper bring ear plugs. The bonus was that the Jays spanked Tampa, so it was a win/win.",
+      "rate": 3.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "Amazing location and experience",
+      "text": "We had a wonderful stay. Loved the city view, great location we went to a jays game, dinner at vagabond which was a 5 minute walk, and went to Ridley which was a 2 minute walk. Will definitely stay here again even if we don’t go to jays game. Kids loved running around the outside and it was great not having to walk far or take transit. Lauren at the front desk was warm, inviting, and welcoming. It was very convenient having breakfast restaurant in the lobby we didn’t have to search for somewhere to eat. They don’t take reservations which was fine, no wait and ample tables. Very fair prices for buffet, but would like to see better quality scrambled eggs and the pastries were quite stale. But great selection for kids and very fresh fruit and delicious coffee we enjoyed.",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Meh just ok.",
+      "text": "Was okay. Not great, not terrible, could be better.ProsLocation. Close to restaurants, CN Tower, Ripley’s Aquarium.Starbucks in buildingComfy bedHousekeeping comes dailyQuietConsNot all rooms have couch/sofa bedBathroom door doesn’t have a lock, it’s a sliding doorNo blackout shades so room gets bright as som comes up$50 to valet and 35 to park at a lot around the cornerOur bathroom didn’t feel clean, had a smellHotel seems more for business not for couples or familyPool area is in lower level, doesn’t look like pictures, no windowDirty dishes from room service from another room was in the hall for 3 days and no one picked it upI had requested a higher floor room, asked for a room with a sofa bed…and extra towels. I got none of the requested. Was offered a cot. Sometimes you get back from excursions you want to kick off your shoes and relax on couch with your other half not get in the bed all sweaty and dirty…we got a room with a single chair. The cot was so uncomfortable with a huge dip in the middle. Room on 2nd floor had a view of valet. No extra towels provided. Only gave you new water bottles on first day. I felt like the room was overpriced. Bathroom had a smell to it. Mildew maybe? Couldn’t pinpoint the smell.",
+      "rate": 3.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Trevor set my mind at ease!",
+      "text": "Kudos to Trevor, the Senior Guest Services Agent who helped set my mind at ease.In December 2022, I made a reservation at the Marriott Toronto City Centre Hotel for a Stadium view room for June/July 2023, and was concerned regarding the charge on my credit card.Trevor was able to verify that my reservation was indeed correct and the charge to my card would also be correct. \tHe was great in resolving the issue which had me worried that my room would be cancelled.He was professional, efficient and very pleasant to deal with.Thank you Trevor.",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Disappointing",
+      "text": "Maybe hotel is clean and nice smile on staff face. But:1- Rooms over rail road too noisy when train pass or Construction ongoing2- Never use valet. They damaged my car and accusing me for false statement!!!! Hotel management washes their hand saying staff of vaelt has no relation to the, and works for Roger center although they are in front of hotel door and have desk inside hotel!!!!!!Will never use this hotel and never recommend.",
+      "rate": 1.0,
+      "tripDate": " July 2022"
+    }
+  ]
+}

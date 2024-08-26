@@ -1,0 +1,293 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "The Omni King Edward Hotel",
+    "url": "/Hotel_Review-g155019-d183071-Reviews-The_Omni_King_Edward_Hotel-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 4603
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "37 King Street East",
+      "addressLocality": "Toronto",
+      "postalCode": "M5C 1E9",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/19/44/2a/exterior.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Valet parking",
+    "Free internet",
+    "Fitness Center with Gym / Workout Room",
+    "Bar / lounge",
+    "Kids stay free",
+    "Highchairs available",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Taxi service",
+    "Paid private parking nearby",
+    "Wifi",
+    "Fitness / spa locker rooms",
+    "Restaurant",
+    "Breakfast available",
+    "Breakfast in the room",
+    "Kids' meals",
+    "Special diet menus",
+    "Wine / champagne",
+    "Vending machine",
+    "Business Center with Internet Access",
+    "Conference facilities",
+    "Banquet room",
+    "Meeting rooms",
+    "Spa",
+    "Body wrap",
+    "Couples massage",
+    "Facial treatments",
+    "Foot bath",
+    "Foot massage",
+    "Full body massage",
+    "Hand massage",
+    "Head massage",
+    "Manicure",
+    "Massage",
+    "Massage chair",
+    "Neck massage",
+    "Pedicure",
+    "Salon",
+    "Steam room",
+    "Waxing services",
+    "24-hour security",
+    "Baggage storage",
+    "Concierge",
+    "Currency exchange",
+    "Executive lounge access",
+    "Non-smoking hotel",
+    "Shops",
+    "Doorperson",
+    "First aid kit",
+    "Umbrella",
+    "24-hour check-in",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Dry cleaning",
+    "Ironing service",
+    "Shoeshine",
+    "Blackout curtains",
+    "Bathrobes",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Walk-in shower",
+    "Room service",
+    "Safe",
+    "Seating area",
+    "Telephone",
+    "Wardrobe / closet",
+    "Iron",
+    "Laptop safe",
+    "Private bathrooms",
+    "Tile / marble floor",
+    "Wake-up service / alarm clock",
+    "Refrigerator",
+    "Flatscreen TV",
+    "On-demand movies",
+    "Radio",
+    "Bath / shower",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Feel Like Royalty",
+      "text": "This hotel rates in my top 5 of great experiences.  It started with the valet recommending we park around the corner in the garage based on the description of our weekend plans (without making us feel \"cheap\").  Check in was easy with a nice room upgrade - a beautifully designed king mini-suite with one of the nicest working desks we've had in a hotel.  Breakfast in the dining room was elegant and made me glad I hadn't dashed down there in my workout clothes (speaking of which - their gym is awesome!).  But the best part for us was our after-dinner time in the Consort Bar.  Kenny was our waiter (be sure to ask for him!!) and he made the experience something to remember.  He was engaging and friendly with great recommendations.  We would go back to this bar for drinks and dessert again even if we weren't so fortunate to be able to stay at the Omni!",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Wonderful - especially the staff",
+      "text": "Fantastic!  The staff I encountered were all kind and empathetic -- it seemed like they really cared about the guest experience.  Air Canada lost my luggage, and the hotel was helpful in supplying me some toiletries and directing me to the Eaton Center shopping mall to buy clothes.  I was attending a conference that took place off-site, but we had nightly cocktail receptions and a gala dinner on the last night, which was truly amazing -- live jazz music, amazing food beautifully presented, and an elegant setting.  Room service was also amazing - fast and extremely tasty.  The bar is upscale and I was pleased they have a good selection of non-alcoholic drink options.I requested a quiet room, and received 1044.  This room sort of faces an alley, so there wasn't much street noise.  It is located next to the elevators, and I could hear the motor move all night, but I think it was still better than having to deal with street noise, given how busy the area is. Next time, I would love to try high tea and the spa.",
+      "rate": 5.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "What a perfect time in Toronto",
+      "text": "Went to Toronto to attend an event. We needed a place to stay and the King Edward was just up the street. We decided to stay, what a fantastic idea. The hotel is beautiful in everyway. The thing that jumps out is the people of the hotel. From the minute we arrived to the moment we left they were there to make our stay memorable. Thank you",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Two different events",
+      "text": "I recently stayed at the King Edward for a wedding held there and as accommodation for an event held elsewhere. I was impressed with everything at the wedding. The amount of work that was done to change the venue from the ceremony to the dinner was massive and done in a timely fashion and top notch. The entire event was done perfectly. When we stayed there as a group for a recent event we were all treated very well and made to feel at home. The rooms were all excellent and seemed to be recently renovated. Thanks for a great time!!",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Great Hotel",
+      "text": "1st visit. Very nice. Non Descript frontage so keep an eye out for it. Staff are great. Rooms are great. Well situated. Walkable everywhere.",
+      "rate": 4.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Toronto Tourist",
+      "text": "Excellent!!  Great location.  Close and accessible to tourist attractions.  Attentive and responsive staff from beginning to end.  There is a good variety of good ethnic restaurants in the area.   Highly recommend to anyone visiting Toronto.  Only disappointment was weather which prohibited us from visiting the CN Tower",
+      "rate": 5.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Wonderful Experience",
+      "text": "Grand old hotel with all the modern amenities.  Excellent and attentive service.  Very special experience.",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Fabulous experience at the Omni King Edward",
+      "text": "Staff were friendly and very accommodating! Food was excellent. The hotel was exceptionally clean and elegant. And as an added bonus it was conveniently located to many attractions.",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Excellent Property!",
+      "text": "The “King Eddy” is a historic downtown hotel, convenient to tourist sites, restaurants, and public transportation. It is elegant, quiet, and comfortable. We stayed for five nights and didn’t have even a minor complaint.",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Great stay! Great Experience!",
+      "text": "We had a really great stay at the Omni King Edward, and the staff was amazing. The concierge recommended the best food based on my request and was incredibly helpful, and even made sure we had plates, napkins, and silverware in our rooms for a delivery.  The location was very central to the places we wanted to visit...although in Toronto, everything is within reach via transit. The Room was bigger than I had thought and gave us lots of space for a few late nights inthe room. I would stay here again on our next trip.",
+      "rate": 5.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Nicest smelling hotel in Toronto!",
+      "text": "Stayed here on business! When you enter the lobby you are greeted with the most pleasant scent.....it makes you want to just stay there! Excellent check in with smiles. Room well appointed with everything  you need, excellent quality soaps/toiletries.Lobby bar bartenders are excellent, engaging and quick. Highly recommend.",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Great Stay!",
+      "text": "We stayed for one night a family of four. This hotel is classy all the way. Friendly door staff and front counter personnel. The room was absolutely spotless. Cleanest room I have seen in a long time, so kudos to the cleaning staff. There was some confusion about the package and how many people were included with breakfast, but after corresponding with the hotel, it was taken care of easily. Just check the package details thoroughly when booking as there was some confusion. Breakfast was superb and again amazing and attentive staff. We also used the gym which is really large for hotel standards, a great amenity. We have stayed in other Toronto properties including the large historic Fairmont property. None beat the King Edward and we will return!",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Wonderfully opulent hotel in a great location",
+      "text": "I have wanted to stay at this hotel for many years and can finally tick it off the list.  The hotel is opulent, beautiful, historic.  The room we had was beautifully decorated, clean with lovely comfortable beds.  We travelled with our 8 year old and it was a great location for seeing Toronto.  Easy to walk to most things including Union Station.  We had breakfast here on our last morning and service is impeccable - just enough attention, food was delicious (try the French toast!).  The staff are very polite and accommodating for your every need.  We struggled to locate parking initially but a quick stop in front of the hotel to ask the doorman and he was able to direct us.   I can easily recommend the hotel.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "No reimbursement for spills",
+      "text": "One of their banquet servers spilled strawberries on my white blazer when I was having breakfast at the hotel. She didn't even notice until I brought it to her attention. She brought out soda water but the stain did not come out. I had to get it personally dry cleaned. The Assistant Director of Food and Beverage, Nitish, and the Accounting Supervisor, Humberto, refused to reimburse me for the dry cleaning. Worst customer service from a hotel I have ever experienced. I shouldn't have to leave a hotel with my belongings damaged.",
+      "rate": 1.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Beautiful Hotel",
+      "text": "This is a beautiful hotel. The lobby is a wow!  Getting there was interesting with all the construction. Our room was spacious and beds were comfortable.  The shower and toilet were in different rooms, but since they both had sinks it came in handy in the morning. On the 8th floor, it was very quiet. Not impressed with breakfast at hotel. Very expensive and eggs in Benedict were cooked too long. Croissant was cold and coffee was very strong. We did eat a delicious short rib pappardelle in bar/dining room. Staff were outstanding from front desk to valets.  Short walk to St. Laurence Market (amazing) and Distillery District (touristy).",
+      "rate": 4.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Amazing! ",
+      "text": "Chris at the bell desk was absolutely fabulous! He took care of everything from beginning to end! Valet parking was quick and efficient. With in and out privileges. Not that it’s needed since the location is perfectly located in downtown Toronto The front desk staff were super friendly, and quick at checkin and checkout The rooms and hotel itself are beautiful! The omni will now be my go to hotel in Toronto! I will also be recommending my clients stay here as well",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Falls short of luxury",
+      "text": "Great location, beautiful old lobby, large and comfortable room. But no reading lights beside the bed, terrible cheap coffee and Keurig machine, shower fixtures poorly installed, and visibly dusty surfaces left a bad impression. Would not return given the high price paid.",
+      "rate": 3.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Return visit - and still wonderful!!!",
+      "text": "We hadn't been here since 2014 (though we won't be waiting that long for our next visit) and were pleased that the hotel was still tiptop. Our king room was large, with a separate sitting area and large beautiful bathroom; in all - more than enough room for 2 adults and a growing teen. Though we were close to the elevators, we didn't hear any noise from the hallway. Self parking was super easy - we grabbed the directions from the website. My only suggestion is that they keep the front doors clear. There was a huge pile up because an entire wedding party tried to squeeze into the revolving door and it was stuck and there were no other doors nearby to exit though. I've never seen a revolving door without a side door. The wedding party should have had someone helping them so they could get out for their photos without clogging the entire entrance/exit for several minutes. But that was a MINOR issue. Thanks, King Eddie!",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "No services.  Terrible stay.  Terrible customer service.",
+      "text": "I booked the Executive Suite for three nights starting Aug. 3/21. Upon arrival, I was informed that the restaurants, bar, pool, and fitness facilities were all closed for my stay. I was also told that there was no room service. When I got to my suite I also discovered that the mini-bar was empty and was also not being serviced. This was not made clear when I boooked. There was nothing indicating this on my receipt. I did find a link later on the website and if one looked very carefully, hidden down a long page it indicated these closures. However, it was certainly not prominent.The hotel cited Covid restrictions as the reason for no services. However, all the nearby competing hotels are operating with virtually full service.I checked out after one night, but was charged for two nights. I asked that the manager contact me. I heard nothing. I contacted them and he said he couldn't credit me the extra night because I checked out late but would have someone for Omni Corporate contact me to resolve this. No one has ever contacted me.So, I paid roughly $1,000 for one night with no services.Worst experience ever. I will never set foot in an Omni Hotel ever again.",
+      "rate": 1.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "all was good but this kind of hotel should somehow go even a bit further",
+      "text": "This is the oldest luxury hotel in Toronto. There are still good reasons to call it a luxury hotel: to name a few is the grand reception area and very \"polished\" service. The room was comfortable enough and the bed quality excellent. It was also meticulously clean which brings to my mind the most positive service experience in the hotel: the lady who cleaned our room left us a personal and warm, handwritten, note. It felt genuine and personal which is something that I would expect the others to try to achieve as well. I do not complain about the service in any other area (in fact I did enjoy the breakfast room service in particular), but the feeling of it was rather like a polished and polite machinery rather than really attentive and warm. There are luxury hotel that achieve this - and for those I give five points.",
+      "rate": 4.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "Lovely hotel, great location",
+      "text": "We travelled to Toronto in December and this hotel made our trip! The location is fantastic and central and our room was large and modern, comfortable beds and we all slept well. The hotel has a lovely hair salon and very nice coffee shop which u highly recommend. Only disappointment was not being able to eat at the bar on a day when my children were exhausted and it was freezing outside. Concierge who wasn't the usual lovely one was rude and told us room service was the solution... Him and the bar made no effort to find a solution so we had a meal a few doors away which was wonderful but I was disappointed.This doesn't impact my view if the hotel we are back in February and have chosen this hotel again for comfort, location and friendly and kind staff (bar the 1 young concierge).",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Historic Hotel, with Large Rooms and Excellent Location",
+      "text": "Pros: Great location, Large Clean rooms, Very helpful staff, Good gymCons: Some rooms are a bit dark, with poor viewThe Omni is a beautiful historic hotel in the centre of Toronto, and the best feature is the size of the rooms, which are quite spacious for such an old hotel. Although old, the hotel has been kept up to date, and has a luxurious feel. The only downside is that many of the rooms are dark and have a poor view because of the surrounding buildings and the architecture of the building itself.  However if this doesn't bother you the Omni is a great option Note: The gym at the Omni is excellent, with plenty of cardio machines, weight machines and free weights",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "A great hotel to spend the weekend at!",
+      "text": "We checked into the Omni on a Friday afternoon and checked out on Sunday morning and had a great stay.  Upon arriving a bride was having wedding pictures taken on the front steps and it was her wedding day, like ours 32 years ago the same day!  Check in was quick and easy and being an Omni Rewards Member we were given a coupon for a complimentary drink each at their restaurant or bar.  We used it for a glass of house wine the same evening prior to going out for the night.  The next morning after working out at the hotel gym (spacious with a TV per machine so we could watch Sportscentre), I stopped back at the front desk and our excellent host Miles gave us another set of drink coupons for our second evening, and again we stopped down for a glass of house wine before setting out for the night.  The next morning coming down for coffee (which is served free in the lobby each and morning and is pretty darn good) Miles was sure to greet us with a warm “Good morning!”  We checked out a few hours later and were very pleased with our weekend escape to the Omni King Edward.  The hotel is quiet, yet centrally located near the Eaton Centre and multiple coffee shops, restaurant and stores, and we look forward to coming back! Parking tip - the lot at 65 King Street East (the building is the future home of Google Canada) is around the corner and is the hotel’s designated parking lot; upon parking opt for the parking garage fees versus the hotel parking fee as it will almost always work out to much less of an expense, for us it was about half the cost for the two days!  And the lot is very easy to get to and upon exiting you are across the street from the hotel side entrance.",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Gorgeous Hotel and fantastic staff!",
+      "text": "Stayed here for one night at the beginning of August with my friend, and right off the bat we were blown away by the luxurious feel of the hotel.  Our room was huge (King Premier) and everything was super clean. The staff was knowledgeable and very friendly! We will 100% stay here again when travelling to Toronto. One tip I have is if you're staying one or two nights and you don't plan on using your car, park in the garage they tell you to park in (literally across the street), but pay for parking at the garage when you leave instead of the hotel front desk. It was cheaper for us to do it this way since we didn't need in/out privileges.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Omni King Edward Sunday Brunch",
+      "text": "This is my favourite brunch in the city. The food selection is second to none. I prefer mostly traditional breakfast fare, but it was nice to dabble in a seafood table, beef wellington and the mushroom pasta was a MUST. The healthy juice selection and mimosas with freshly squeezed OJ were also a fav. Fair price for what you get. Go hungry.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "The location and overall presentation is fantastic very friendly staff",
+      "text": "The staff are super friendly and accommodating to all of our needs. The hotel was clean, I felt safe with the extra precautions they are taking, and we had excellent service with respect to take out food that we ordered from the hotel restaurant. The bed and pillows were super comfortable It’s everything you can ask for during these challenging times. And it’s an awesome location with some great views to boot!",
+      "rate": 4.0,
+      "tripDate": " April 2021"
+    },
+    {
+      "title": "Another great stay at the",
+      "text": "We were staying at the King Edward while celebrating my son's birthday in Toronto. The hotel staff, in particular Myles Costales and YoungMI Lee went out of their way to welcome us with gifts and kindest service. Thank you for their attention to detail and welcoming us. My younger son was even able to play their piano in the main reception area to perform for his brother. The rooms were all wonderful and breakfast was great.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Only one night but a great hotel!",
+      "text": "My experience with the Omni began with pre-arrival texting with Madeleine.  She asked for any details that hadn’t been included when I reserved etc… she answered questions and fulfilled the request to be on the same floor as a family member (which ended up being right next door to each other!)We arrived at the valet station to determine what worked best for our parking needs and the attendant was extremely helpful.  I’ve experienced in other properties some condescension when valet services are declined but not with this person.  He advised the best economical options for us as we were only staying one night.  Thank you valet person!Check-in was smooth; Alex recalled that my daughter was unable to check-in before me (she doesn’t have a credit card at the moment…).  Remembering this was impressive as I’m sure he had checked in countless people during his shift.We received a complimentary upgrade to a corner room.  Room was very clean with appropriate amenities.  Shampoo, conditioner, shower gel and lotion are very nice compared to other property items of this nature.  Beds are extremely comfortable, and the TV has chromecasting abilities, so we were able to stream some of our favourites shows from our preferred streaming services.Wifi set up was a bit confusing as it says there is a charge but wasn’t actually charged for it… but it worked and had zero issues.Contactless checkout was easy and checkout is also at 12pm (instead of the traditional 11am).  Housekeeping did knock on our door prior to checkout, to which she was unnecessarily unapologetic. Of course, that did not hinder our overall experience.  Sad to say we didn’t have any cash for a tip… they certainly deserve a lot of credit as the hotel is spotless!Didn’t enjoy the restaurant at all, but the menus look great and is priced accordingly for a luxury hotel such as this.  I’m sure the food is amazing.I have worked in hospitality in varying levels of types of service for over 20years with the later half in upper management.  Having this insight into what it takes to maintain guest satisfaction on this level allows me to appreciate this is an extremely demanding level of service/hospitality with so many moving parts behind the scenes.  I will be recommending to all of my family and friends.  I was truly impressed and completely satisfied with my entire experience.",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Timeless Charm and Outstanding Service",
+      "text": "I've been a patron here since childhood, continuing the tradition with my husband. Tina, the room divisional supervisor, consistently goes above and beyond, ensuring our room is impeccably maintained. Her kindness is unmatched, and her dedication is the key reason for our repeated visits. The hotel's aesthetic appeal, ideal location, and consistently cloud-like beds/pillows make it a delightful experience year after year. It's a truly great spot that I wholeheartedly recommend. Thank you, King Eddy, and most importantly, thank you, Tina! Can't wait to go back.",
+      "rate": 5.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "a true luxury hotel",
+      "text": "very nice hotel located downtown toronto. We found a parking for 20$ right in front of it and a good beerbistro right in front of it as well. Theres also a cozy breakfast place downstairs and the hotel is only a 10 minute walk from the ScotiaBank Theatre. The check in was very efficient as well as  the check out. The room was so spacious , well insonorisated and had high ceilngs , maybe 12-14 '.  Last time we went in Toronto few months ago we stayed at the Hilton and let me tell you this hotel makes the Hilton feels like a cheap HolidayInn.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Elevate Rooms near Allan Gardens",
+    "url": "/Hotel_Review-g155019-d14905562-Reviews-Elevate_Rooms_near_Allan_Gardens-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 6
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "23 Homewood Ave",
+      "addressLocality": "Toronto",
+      "postalCode": "M4Y 2J7",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/8b/32/9d/elevate-rooms-near-allan.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Bar / lounge",
+    "Children Activities (Kid / Family Friendly)"
+  ],
+  "reviews": [
+    {
+      "title": "Nice location and very friendly",
+      "text": "We stayed here for 4 nights. Jeannie was very helpful and friendly. The room was good, with a really comfortable bed. The communal  kitchen was very clean and handy for tea, coffee and somewhere to eat the takeout on our first night.The location is great, right in between Downtown and Cabbagetown. We can recommend Chew Chews diner for breakfast and The Tilted Dog on Parliament Street for beer and good food in the evening. Thanks Jeannie.",
+      "rate": 5.0,
+      "tripDate": " March 2019"
+    },
+    {
+      "title": "Toronto stay",
+      "text": "Nice clean room and spacious clean bathroom  near centre of Toronto ( 7 minute walk to Yongestreet).Breakfast facilities like coffee/tea,coocker, fridge, cutlery available in seperate room. Nice quiet street. Allen Garden park next door! Thin walls but didn't bother me! Good value for your money",
+      "rate": 4.0,
+      "tripDate": " May 2019"
+    },
+    {
+      "title": "Nice clean room for a short stay",
+      "text": "We had four nights here. We had a private room with our own bath. The room and sheets were clean and comfortable. The bathroom interior was clean and Nice, except for in the shower cracks. Also the shower had very low pressure, making it a little difficult getting enough water thorugh the pipes. I really liked that the bathroom had an air dryer availiable. All in all a good room for a short stay. The Staff was very good in communication information that we needed for booking and gave us all we needed.",
+      "rate": 4.0,
+      "tripDate": " November 2019"
+    },
+    {
+      "title": "Great Location, Price and Experience!",
+      "text": "As a first time guest I was extremely impressed with its quality, cleanliness and value.  It did not have a tv in each room, but a large one in the sitting room. Also, it has a very simply decor thus lacks a personality. For the $ it was a great value.",
+      "rate": 4.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "Excellent for the price",
+      "text": "Super clean room and bathroom. Nice location within walking distance to Yorkville and downtown Toronto. The room was nice, with a nice big shower. Our only negatives were that the heating seemed to be on permanently and we couldn’t work out how to turn it down so had to open the window which wasn’t ideal as we were on the ground floor at the front. However the street outside was super quiet so no noise issues at all. Also we had originally thought there was parking available, but when we arrived we realised you couldn’t park on the road. The owner was super helpful though and said we could park in the neighbours drive for $15 dollars a night. We just gave the money to her and she contacted the neighbour to sort it out. My only other slight problem was that the outside door relied on people locking it as they left, we were right next to the front door so noticed that fairly often people didn’t lock the front door. Each room has locks on it but just for extra security it would have been better if the front door locked automatically. Would definitely recommend especially given the price and location.",
+      "rate": 4.0,
+      "tripDate": " April 2019"
+    },
+    {
+      "title": "Great Value",
+      "text": "We booked 2 rooms here and stayed 2 nights (Wed-Thur). The staff is friendly and helpful. I liked the way they had coded door locks so that you could check in at odd times. I reserved parking with their neighbor for $15 a day, but some limited street parking is usually available. It says 1 hour parking 9am - 6 pm on the streets. The rooms were nothing special but the price was of good value. There is a small shared kitchenette. The street was quiet and in a good neighborhood.",
+      "rate": 4.0,
+      "tripDate": " November 2018"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Apartment Iceboat Terrace",
+    "url": "/Hotel_Review-g155019-d15188852-Reviews-Apartment_Iceboat_Terrace-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "1.5",
+      "reviewCount": 13
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "21 Iceboat Terr",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 4A9",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/07/72/1a/caption.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Kitchenette"
+  ],
+  "reviews": [
+    {
+      "title": "STAY AWAY 21 Iceboat terrace",
+      "text": "HORRIBLE!! We had apt 933 at 21 iceboat terrace and we didn’t even stay! The pictures are not what is advertised, the listing says free parking.. no! They tell you they day of arrival that you need to pay for parking 59$ CAD or you park on the street! Reason why we booked was the free parking! Walked in, half the lights were not working, there were dirty dishes left on the table, there was hair all over the floor, the bed was a futon that was not made and once we lifted the covers there were the previous guests dirty underwear still in the bed, towels thrown on a chair, one of the windows was broken and would not close. Check in was 5pm, early check in was 59$ cad extra. Check out is 10am.. when we called the ‘manager’ they first said well someone will come clean in 30mins… as the call went on it was 1hr to clean. Zero concern about hygiene.. do not stay there..",
+      "rate": 1.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "It’s a scam",
+      "text": "I travel a lot and have stayed in a lot of places .This is the first time where I have been scammed . Let me begin I booked it on the day and the cancelled my original booking so naturally I assumed they couldn’t accommodate me shortly after I received an email claiming that it was the website that cancelled my booking and that I should book again 180 dollars later . I asked for my original payment back but I have yet to receive it . Whilst in contact with the property they claimed I needed to pay 250$ for a damage deposit most hotels just ask for your credit card on file so I found this concerning. I looked up this hotel and saw immediately awful reviews saying guests have been scammed and do not stay here . When asking for this 250$ they claimed a cleaner would come by and collect it . Lastly in the email they claimed that I wasn’t allowed to speak to building security all very suspicious",
+      "rate": 1.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "STAY AWAY",
+      "text": "Stay away!!SCAM!! We stayed for one night last oct9-10, Paid 600cad. booked directly through Waterfront Property Management as it keeps cancelling through Booking.com, everything was fine even through the room that we got was far from what they advertised. I was required to e-transfer a 300 security deposit which until now i never got back. For a month they couldn’t give me an answer why they are still holding my money until yesterday that they messaged me that we broke a lamp and it’s a policy that they will not refund me. What a SCAM!!! They couldn’t even prove it. Everytime i called them they will say they will call me back but they never did!Then they hang up or wont answer. Big Joke!",
+      "rate": 1.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Avoid this building",
+      "text": "Over heated.. the unit was 78 degrees. Informed the property managers and they did nothing to make air conditioning available to residents. We were informed it wasn’t turned on yet… Elevators took a very long time and had to wait 20 minutes every time we left the unit.. one was broken.  Amenities are tiny, overcrowded. Fire alarm kept going off and we were told it was a false alarm.",
+      "rate": 1.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Book at your own risk!",
+      "text": "Horrible!!! Book at tour own risk… owners are in it only for the money not to help nor clean apparently. The persons you will talk to for help and everything is very rude and  disrespectful. Its a shame for the beautiful city of Toronto. Im thinking its operated by really bad humans",
+      "rate": 1.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Do not stay here",
+      "text": "1. No parking2. No cable TV as advertised 3. Not super clean for the price 4. Not kid friendly 5. Blinds dont work6. Thermostat didnt work7. Limited dishes8. Pool was cold9. I would not stay here again",
+      "rate": 1.0,
+      "tripDate": " July 2019"
+    },
+    {
+      "title": "I do not recommend it",
+      "text": "Very bad experience this place is dirty unperfational and very crowded location. The picture showing in web site booking.com is different than what you get in real apartment. There is bugs and spiders crawling all around you. The windows are so old that the noise from street won't let you sleep.",
+      "rate": 1.0,
+      "tripDate": " July 2019"
+    },
+    {
+      "title": "Canceled 5 days notice (no-refund)",
+      "text": "They did not advertise a no refund policy, I canceled well in advance and they stole $900 from me. They have no business charging when you are not at the property be aware the customer service is horrible.",
+      "rate": 1.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Luxury apartments right ontoronto downtown and they even left an ice cube tray full!",
+      "text": "Really nice high rise buildingnewKitchen bathroom and living room plus bedroom and a washer and dryer tooClose to everything, I stay in Toronto often and this is my favorite so far! I loveWhen they leave an ice cube tray in the freezer because you get here thirsty! Great view, drapes are light could use a nicer bed and a TV in the bedroom if you like that sort of thing.",
+      "rate": 4.0,
+      "tripDate": " September 2018"
+    },
+    {
+      "title": "15 Iceboat Terrace-  Bad management",
+      "text": "Loud construction drilling for hours- with no notice for residents. Water was shut off in my unit, with no notice , loud fire alarms with no fire and broken elevators that don't get fixed for months. There are only three elevators for 43 floors and there is always at least one elevator needing repair most of the time and one that gets booked for freight- property management does not communicate anything to residents about the repairs.",
+      "rate": 1.0,
+      "tripDate": " March 2023"
+    }
+  ]
+}

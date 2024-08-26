@@ -1,0 +1,61 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "O'Canada Guest House",
+    "url": "/Hotel_Review-g155019-d10326416-Reviews-O_Canada_Guest_House-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "2.5",
+      "reviewCount": 4
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "230 Shuter St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5A 4M9",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+  },
+  "description": null,
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Private check-in / check-out",
+    "Air conditioning",
+    "Desk",
+    "Clothes rack",
+    "Hair dryer"
+  ],
+  "reviews": [
+    {
+      "title": "Me lo pensaria para volver...",
+      "text": "Es una casa regentada por chinos donde al parecer alquilan las habitacioes. Nosotros nos tocó una habitación con cama de matrimonio y con el baño compartido.  Justamente delante de la casa hay un parque donde se encuentran bastantes mendigos. Los dueños del negocio nos dijeron al dia anterior que no se podia pagar en tarjeta ya que se habia roto el datáfono. Solo querian en efectivo, pero al cabo de tres dias, tenian el mismo problema. No saben cuando se va arreglan el lector de tarjetas, tal vez nunca funcionó o probablemente que no hayan tenido. Las habitaciones no estáb mal por el precio, pero tienen un olor peculiar.",
+      "rate": 2.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "not a normal guest house",
+      "text": "We had a double bed room. It was clean. But this is not a guest house, it's just a house and they rent 3 rooms in there. It is 25 minutes walking from downtown, but it's situated in a bad area, plenty of homeless. They told me the day of my arrival the credit card machine was not working...but I am wondering if it works anytime. I wouldn' stay again if I find a place for the same price.",
+      "rate": 2.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "My stay",
+      "text": "Excellent location for Stanley Park and Downtown Vancouver.Very good breakfast and pantry for its guests.Property requires an update.Old and worn furniture, worn carpets and bathroom requires an upgrade.Staff very helpful.",
+      "rate": 4.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "NEVER STAY here. Please be Aware!!!",
+      "text": "The place it's super dirty difficult to find and had hookers inside. This is a townhouse with very narrow stairs that you will need to climb up with your suitcases. The space is really limited. They only have 3 nasty bedrooms upstairs and a very rude Asian woman as the administrator.On March 26 we arrived to Toronto and caught a cab from the airport. By the time we got to O Canada Guest house we realized it was in a really bad neightbourhood,with lots of gangs and homeless. When we finally managed to find the townhouse, there were instructions on the door to call someone to give us a code to open the door (you will need to have credit on your phone and if it's not local,you will need to pay extra fees). As we had nothing else reserved somewhere else and no choice we had to go inside. in spite of that, we arrived 10:30am. and the rude woman asked us to leave the suitcases upstairs in a really tiny hallway and come back at 1 pm as that is their check-in time.We decided to leave them and walk (about 7 blocks) to the closest cafe to try to find something else. Luckily we found rooms available in Super8 in China town,therefore we made the reservation and went back in a taxi to pick up all our luggages. As soon as we arrived the rude Asian woman told me that she wouldn't give me back the suitcases if I was not paying her $20 Cad. Due to the taxi waiting outside and the anger of the situation I told her to F..  herself and gave her the money so she would open the door.The reservation was made through booking.com, I wrote to them to allow me to leave a review but they didn't allow it as I didn't stay there. I also don't know why booking.com have such bad places advertised on their website. Please be aware and never consider to stay at O Canada Guest House Toronto.",
+      "rate": 1.0,
+      "tripDate": " March 2017"
+    }
+  ]
+}
