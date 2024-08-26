@@ -1,0 +1,47 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "The Bay Suites - City Place",
+    "url": "/Hotel_Review-g155019-d26521300-Reviews-The_Bay_Suites_City_Place-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "1.5",
+      "reviewCount": 3
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "151 Dan Leckie Way",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 4B2",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/a7/d3/15/caption.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "Fantastic Location With Sub standard amenities",
+      "text": "If you’re looking for a perfect location for less than hotel prices, this place is perfect.  But don’t expect much in ways of amenities.  Firstly the instructions from the owner direct you to their parking garage.  Only problem is that the garage isn’t accessible for airbnb clients so we had to park elsewhere.  The room itself is dated. Things are broken or not working.  One of the toilets didn’t have a handle to flush. The blinds are missing slats so the sun shines into the bedroom at sunrise.  If your expectations aren’t high and you just want a place to lay your head at night, then this place will meet your needs. You can’t get much better for location",
+      "rate": 2.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "They have a very good bus/coach station and an efficient service for travel",
+      "text": "Unaware of exactly where we were staying, until we got there. Ended up in an apartment in a block of high rise flats. First apartment we were given, there was no key available. So after complaining to the ‘ reception desk’ we were moved to the next block.We were given a two bed apartment, on the 51st floor.For me this was totally unsuitable. I could not relax and found the height and atmosphere unbearable. I do not suffer with vertigo but I definitely did not feel right. I could not even look through the windows. A two night stay was too long and we only used the place to sleep. I would not look forward to visiting Toronto again. This experience turned me off the city.It was all built up buildings, a lot made with glass like materials. No greenery, nothing natural about this area",
+      "rate": 2.0,
+      "tripDate": " February 2024"
+    },
+    {
+      "title": "I promise you don’t want to book here.",
+      "text": "Some friends and I booked with this facility for 3 nights. I would give this place zero if I was able to. ABSOLUTELY DISGUSTING. Missing floor boards, dirty walls, tubs that don’t drain well, just a complete dump. We were disappointed but since it was a busy weekend and we are from another province we had no other options to stay. We decided to clean up ourselves and just never book with them again… that was until the 3rd night of our stay we decided to go sit out in the balcony since it was a nice day and we found a DIRTY DRUG NEEDLE on the balcony. I called and asked to have a house keeper sent to clean up the BIOHAZARD on the balcony.  I was told that someone would come then was sent an email that said I “Should have reported it the day we arrived”..",
+      "rate": 1.0,
+      "tripDate": " March 2024"
+    }
+  ]
+}

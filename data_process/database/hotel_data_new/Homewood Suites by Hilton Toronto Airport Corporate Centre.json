@@ -1,0 +1,311 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Homewood Suites by Hilton Toronto Airport Corporate Centre",
+    "url": "/Hotel_Review-g155019-d1747697-Reviews-Homewood_Suites_by_Hilton_Toronto_Airport_Corporate_Centre-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 1277
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5515 Eglinton Avenue West",
+      "addressLocality": "Toronto",
+      "postalCode": "M9C 5K5",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ef/5e/b1/exterior.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Make yourself at home at the Homewood Suites by Hilton® Toronto Airport Corporate Centre. This upscale residential style hotel is ideally located on the border of Toronto and Mississauga, minutes from Toronto Pearson International Airport. We've perfected the extended stay hotel experience by combining all the comforts of home with our passion for making our guest feel welcome. Whether you're traveling for business or pleasure, our friendly staff takes pride in satisfying your needs. Come and Make Yourself at Home® and enjoy our:~Complimentary Suite Start® Hot Breakfast~Complimentary Welcome Home Dinner Reception, Mon - Thurs Evenings~Spacious Suites with Kitchenettes~Mini-Putt, 24 Hour Fitness Centre and Swimming Pool~Executive Centre, Suite Shop and BBQ~Complimentary Wi-Fi internet access~Complimentary Airport Transportation.",
+  "featues": [
+    "Parking",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Free breakfast",
+    "Bowling offsite",
+    "Books, DVDs, music for children",
+    "Children's television networks",
+    "Wifi",
+    "Pool / beach towels",
+    "Indoor pool",
+    "Heated pool",
+    "Breakfast available",
+    "Breakfast buffet",
+    "Free airport transportation",
+    "Free shuttle or taxi services",
+    "Airport transportation",
+    "Shuttle bus service",
+    "Business Center with Internet Access",
+    "Conference facilities",
+    "Banquet room",
+    "Meeting rooms",
+    "Baggage storage",
+    "Newspaper",
+    "Outdoor furniture",
+    "Shops",
+    "ATM on site",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Dry cleaning",
+    "Laundry service",
+    "Self-serve laundry",
+    "Air conditioning",
+    "Safe",
+    "Kitchenette",
+    "Microwave",
+    "Refrigerator",
+    "Flatscreen TV",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Homewood excellence",
+      "text": "Loved the special Wed night social.  Staff is welcoming.  Breakfast is a full meal deal.  Shuttle is scheduled and on demand at times making it very convenient.  Rooms are large.  Wish they had stranded air passengers rate.",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Wonderful hotel!",
+      "text": "The rooms were clean and comfortable. They had a sticker on the crack of the room door at check in letting you know the room has been sanitized. The beds were comfortable. The room is the same as other Homewood Suites. I like having a kitchen..especially traveling with kids.Because of Covid-19, there was no breakfast served. Instead, you were given a paper bag with breakfast food inside. It was great!I would definitely stay there again!",
+      "rate": 5.0,
+      "tripDate": " July 2020"
+    },
+    {
+      "title": "Pleasant stay",
+      "text": "The hotel is about ten minutes from Toronto Airport. There is a shuttle bus but you have to contact the Hotel direct and after a long delayed flight a taxi was best about $35. Reception staff were very  welcoming . The suites have everything you may need including a fully equipped  kitchen and a separate bedroom. All very comfortable but beginning to show its age. There is no restaurant but they do have frozen meals which you can microwave in your room. Daily cooked breakfast was limited but good and all Covid precautions were in place with plenty sanitisers and gloves for handling serving utensils. The reception staff were excellent able to recommend places to eat although there is very little near to the hotel. However you could arrange for food to be delivered. Only stayed for two nights which worked out splendidly.",
+      "rate": 4.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "COVID Stay",
+      "text": "My first stay at a hotel since mid march,  I was not sure what to expect due to current Covid 19 situation.Face covering is required in common spaces for everyone's safety, as well as enhanced cleaning protcol in the rooms.In lieu of the self serve breakfast (currently \"buffets\" are not allowed), a selection of fruit, drink, snack and sandwich were provided in individualized packages.As for the hotel, it is just a 5 min drive to YYZ; and if required a shuttle is available.The facility was spotless and the room was comfortable.I will stay here again when in the Toronto area.",
+      "rate": 5.0,
+      "tripDate": " July 2020"
+    },
+    {
+      "title": "Fantastic property close the airport",
+      "text": "This location is very close to the airport and many restaurants are within 10 minutes.Very clean property. Excellent free breakfast in the lobby every morning. Wifi worked well.  Staff were very courteous and accomodating.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Great experience!",
+      "text": "This hotel is clean and well kept. Absolutely  amazing mattress which provided a very comfortable sleep. The children enjoyed the pool and the breakfast area was adequately stocked. The breakfast area was well tended and very clean. Staff were friendly and thoughtful in every area the entire stay. I only have two suggestions 1) hand sanitizer for use on entry and exit of the fitness area and breakfast area 2)a quick clean of the top of the ceiling fan blades, we didn't use as it was dusty. An excellent  stay and the kitchen/fridge/stovetop was wonderful.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Everything as expected, my favorite brand",
+      "text": "Here for a couples weekend, everything was clean and quiet. Breakfast was good, crowded with a girls hockey team, but they were no trouble.shower was hot,   Great bed, no funky smells or things needing repair.  We had no trouble getting there,  easy to find, I’ll come back!",
+      "rate": 5.0,
+      "tripDate": " October 2019"
+    },
+    {
+      "title": "Pleasant stay sans a few issues",
+      "text": "Our stay was largely pleasant and we found the following pros and cons with the hotel:Pros: 1. Very spacious and clean rooms2. Hospitable and helpful staff: everyone was very friendly and the staff at the breakfast counters was exceptional in their service and support. They ensured the food counters were always filled and even accommodated our special request for our 3year old.3. Very good kitchen facility: had almost all commonly used items including pots, pans & cutlery. They even brought us a few additional pots we requested.4. Ample onsite free parking: there is ample parking both in the front and back of the property for convenient parking.Cons: 1. slow shuttle service (usually 30-mins to pick)2. conditional room cleaning (must be requested a day ahead)3. slow room service (frequent follow up required)",
+      "rate": 4.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Outdated and Filthy",
+      "text": "This Homewood Suites is outdated and not that clean. I noticed upon entering my room that the floor was not vacuumed, the kitchen and bathroom counters were dirty and the floors in the bathroom and kitchen were filthy.  There were debris on the floor, dust everywhere, and including food left in the refrigerator from previous guests.    I basically vacuumed and clean my own room.  I had to wipe everything down with Clorox Disinfectant wipes and Lysol spray.  There is no way they thoroughly clean rooms between guests.  Even the back of the toilet had dried up urine on it. Gross!   The positives are the location, free parking, nice staff, and spacious rooms.  If you do not mind cleaning your room, then this is the place for you.   Also, the hotel is in desperate need of updating their rooms.    I will never stay here again and I will not recommend it.  I am a Hilton Diamond member. I can honestly say the Hilton brand is going downhill.",
+      "rate": 2.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Friendly staff and a nice clean room.",
+      "text": "We stayed just one day and had to fly out the next afternoon. The staff behind the front desk:  Sarah and Jen were very helpful and nice.  They made sure that we could get the shuttle to the airport at the right time and allowed a late checkout so that we could enjoy our stay without having to wait hours in the airport.",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Meh.",
+      "text": "Bathroom had a terrible smell of curry and onions that stayed the entire time. Booked the hotel expecting to swim only to find out after I asked about the hours that it was closed. Breakfast was typical continental breakfast. Stale breads, over cooked hashbrowns, greasy sausages.",
+      "rate": 3.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Great",
+      "text": "The room was comfortable.   Staff was terrific.   Everyone from front desk to housekeeping wonderful.   Small glitch with our room receiving  a telephone wake up call everyday between one and three in the afternoon even with us not requesting it",
+      "rate": 5.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Tremendous Front Desk Staff - Roberto",
+      "text": "I have been back and forth for business since September.  Front desk Roberto always makes you feel welcome and appreciated.  Rooms well appointed, clean and very soft sheets.  I will continue to stay there every time!",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Cleanliness Concerns",
+      "text": "Mold/mildew under the wall soap holder in bathtub, discovered when I lay back in bathtub. Also around the grab bar in the shower. Between back of toilet and wall, the floor was full of dirt and debris .The kitchen cupboards in our suite were streaked with dirt and stains. The fabric underneath our sofa was ripped away and hanging off onto the floor. These details made me question the thoroughness of cleanliness.",
+      "rate": 3.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Spacious rooms with great access to public transit and food options",
+      "text": "It was a good stay as I needed a quick staycation. The continental breakfast was as you expected just okay and not that great. Plenty of selection but can have you feeling rushed to order. Hotel facilities are shared between Homewood and Hampton so couldn’t really enjoy all of the facilities. Rooms were more than spacious it was fantastic. No ovens in the rooms but honestly comes with everything. For the price it was a great staycation",
+      "rate": 4.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Unsatisfied with my stay",
+      "text": "My credit card was charged. The customer service was rude. I spoke to an agent on phone he said no charges. I explained toThem what happened they said just cancel the room. I had to argue then they agree to charge $30. Then my roomWas not good mould, bug, smell. They did not change my room.",
+      "rate": 3.0,
+      "tripDate": " April 2021"
+    },
+    {
+      "title": "Hotel review",
+      "text": "The room was not the cleanest room I’ve stayed at. I feel like for the daily rate and the reputation of Hilton associated hotels, they could have done a better job woth room preparations. Just a bit of disappointment on my end when it came to the room and the overall rate that was charged for that room’s cleanliness.",
+      "rate": 2.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "HOTEL CLOSE TO THE AIRPORT",
+      "text": "Nice hotel for business, well located next to the airport. It has a subtle with service to the airport or any other place in a same airport's radio. Big rooms, with dinning room and kitchenette. Professional staff.",
+      "rate": 5.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Nice hotel near the airport for a short stay",
+      "text": "I stayed here for a night during a layover and the hotel is nice and clean. The front desk staff were super kind and friendly. They offer free shuttles to the airport so that was great. The only thing I’d say is there’s no much around, so buy so food and beverages at the airport and take it to the hotel. They offer a couple of snacks, but not much more.",
+      "rate": 4.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Great Stay",
+      "text": "Hospitable Staff, good breakfast, comfortable rooms, good locationFull kitchen a plus. There also was a nice pool and gym area. Will stay at this brand again. About 25 minutes from Downtown Toronto (Eaton Centre, Kensington Square, and more). Many stores and restaurants less than 10 minutes drive away.",
+      "rate": 4.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Average",
+      "text": "I was not satisfied with my stay. The breakfast was boiled egg and bred. The dinner and supper was not high value meals. Not much effort was done to give good food. The Tv was not working and could not be fixed on the same day. In 2021 the hotel can also have mayonnaise",
+      "rate": 3.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Averaged hotel with scams",
+      "text": "The breakfast was average. We stayed in Detroit homewood suites and their breakfast was much better. No hot pool in anyone of them. Didn’t know we had to pay for parking till we got the bill. Oh yea we had a call from unknow person in our hotel room who claimed to be a house keeping staff who wanted to give us 20 percent off on incidentals. Have no clue what he was asking about but he wanted my credit card information. I told him to ask front office staff to credit us the discount. He said that I should see it in 20 minutes the changes on my credit card. I didn’t give my details. Didn’t know there is a scam in the hotel. Told the front office staff and they said they were going to advise the manager  and I didn’t hear anything from the manager at that time.",
+      "rate": 3.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Bed bugs July 2023 7th floor",
+      "text": "I’m am beyond disappointed with the manager Ramires. I had reached out to him regarding a recent stay for my employee and her experience. She sent me photos of the BED BUGS bites she acquired during her two night stay. It was evident that she did indeed receive these bed bug bites from her stay in room 706.After discussing this with the front manager he was very dismissive and went on to say that our employee brought the bed bugs with her the the room. In all my years of management I am extremely disappointed that they wouldn’t care to take this seriously nor offer a refund. I would never ever recommend any other staff or family or travellers to stay here… I wouldn’t risk the bed bugs and bringing home new friends. Also the manager told me to have fun with our review which shows how unprofessional he is and this establishment.Homewood suite by Hilton do better!We are waiting for our refund.",
+      "rate": 1.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Excellent Hotel",
+      "text": "Excellent hotel close to the airport, restaurants within walking distance, excellent fitness and swimming pool.  Rooms are large with all amenities.  Breakfast is included with a wide selection of food choices.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Wonderful Option for Families",
+      "text": "We booked a 2 bedroom suite for the 4 of us, and it worked out great!  Parking was free and the hotel was easy to get to, despite the heavy traffic around the city and airport.  Breakfast was pretty good with a lot of options.  However, it would have been nice if other guests weren't taking ALL of certain food items at a time (as in EVERY. SINGLE. BANANA.) and would've left some for the rest of us.  However, the rooms are spacious and it's nice to have a full refrigerator/freezer and some dishes, especially when traveling with kids.  The best part was traveling to downtown Toronto.  We took the hotel shuttle to the airport and caught the UP Express (train) downtown.  It took about an hour to travel from the hotel to downtown.  Getting back took a little longer as we had to wait for the shutter, about 90  minutes or so.  Not bad though, considering we didn't have to drive or find parking.  The beds are comfortable and the front desk staff was phenomenal.  Incredibly helpful and friendly.  Also, there are several restaurants within walking distance, less than a half mile, so even less driving!",
+      "rate": 5.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Kevin Maye",
+      "text": "I felt I was important.  I was very satisfied with the booking arrangement and also the fact I was remembered upon entry was a very warm and satisfying feeling. My room house keeping was always outstanding and the daily gifts where well appreciated.  Well done  to all.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Not as advertised",
+      "text": "We stay at Homewood Suites often but I would never stay at this one, it does not live up to the brand standards, it seems they are starting to cut corners. One of the selling features is having the nightly socials. They now only do it as this one Wednesday nights, although the website says Mon -Thursday. We came here without a car expecting that we would have this. The say it’s due to covid which makes no sense considering there are no restrictions. The first night we came expecting this after a long day of travelling. They will tell you it says it on the key card, which does no good after you book and come expecting it. The one night they had it when we were here it was not replenished and they charge for drinks. Airport shuttle not super handy. We always had to wait close to an hour, they don’t do regular routes. It’s too far from airport and no where to walk to once you are here. I’d definitely choose a different hotel next time. This is a cheap version of the brand I would not recommend staying here. Staff were nice and rooms were clean, except some mold in bathroom.",
+      "rate": 2.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Disappointed stay at Hilton",
+      "text": "Air conditioning was not working and later on my complaint room was changed. There was power outage for 9 hours and we had to sit in dark with kids for hours till the power was restored at 3 15 in the night. By far this hotel is much below than Hilton standards",
+      "rate": 2.0,
+      "tripDate": " April 2021"
+    },
+    {
+      "title": "Good stay",
+      "text": "Clean hotel, friendly staff and good location. Staff take extra care to ensure hotel is safe. Breakfast is not the best but acceptable due to covid Need electric charging for cars to help support the environment similar to many other Hilton hotels",
+      "rate": 4.0,
+      "tripDate": " March 2021"
+    },
+    {
+      "title": "Stay elsewhere",
+      "text": "Hotel is in poor condition and the service matches. The breakfast is unimpressive with low quality items. Night staff at the front desk were rude. Nothing Hilton about this location. Many less expensive options nearby with better service and value.",
+      "rate": 1.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Felt like a cheap motel",
+      "text": "- We had booked a suite long ago specifically because it had 2 bedrooms with 1 king and 2 queens. However on arrival they told us they had run out of these rooms and couldn't accommodate us with it. If we had known that we would have picked a different venue. Classic bait and switch.- The Wifi in the hotel never worked the entire duration of our stay and they kept claiming they are working on it.- We were woken up after midnight by teenagers playing pranks, knocking on doors on the 7th floor of the hotel. They seemed to be playing a dare game. We called front desk for help but they ignored us. We went down to plead with them to intervene and stop this but they said there is nothing much they can do and there are no cameras on the floors to stop the perpetrators.",
+      "rate": 1.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Do not select this hotel for Breakfast reason, it was awful",
+      "text": "The hotel is in a very nice location just few minutes drive to the airport but they do provided transport back and forth form the airport when needed. My wife and I used public transportation which was very easy to figure it out and cheap. we always end up at the airport and we called the hotel shuttle to come pick us to back to the hotel. The shuttle service was very plus service on the hotel. The breakfast was TERRIBLE  for us. They offer dry pancakes, ham and eggs may be potatoes on other days but it was nothing to look forward for. after day we stopped waking up early in the morning for breakfast. The complementary coffee and hot water for teas was always luke warm.if your booking the hotel for the breakfast service this is not the one. The room are very spacious but we had a suit, so thus good. The staff are very welcoming and friendly. We are planning to go back to Toronto we will try the Hampton inn next door hotel to this one.Also when you arrived at the airport you have to call the hotel for shuttle to come pick you up, and it within 15 minutes wait at Terminal 1 -S5 for the pick up spot",
+      "rate": 4.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Hilton has lost all sense of responsibility and service.",
+      "text": "there was mass confusion with my reservation and Hiltons Honor status even with them booking my stay. The check-in staff made me and my guest extremely uncomfortable with the treatment and unwillingness to honor specific arrangements, the service in all was terrible as the condition of this location. Spending years and dollars to support a brand is a thing of the past, as this brand has lost any degree of Honor as the brand had shown in the past. Forgoing excellence in service and honoring any agreements online or upon arrival. In the end they with their infinite wisdom and greed charged my credit card the full amount, making the stay that much more expensive and uncalled for!",
+      "rate": 1.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Spectacular Vacation Experience",
+      "text": "The Front Desk, Breakfast service, room cleanliness and staff courtesy were highly commendable. The Hotel was located in an easily accessible area to shoping malls, airport and restaurants. The swimming pool was properly cleaned. I strongly recommend this hotel for maximum value for money to people especially with big family 👪 and they would be glad they did.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Stress-free",
+      "text": "Easy to find with lots of parking- set back on a golf course.  Courteous and friendly reception staff made the check in fast and simple. Our room was ready and nicely appointed. All we needed was ready!  The indoor pool after 8:45 pm was lovely (and all kids were in bed, so we had it to ourselves on a Friday night).  Breakfast was great - go before 8 am if it's the weekend as there were lots of teams there between 8 and 9. We went back for another coffee after 9 and it was quiet, and there was still lots of selections - fruit and granola , bakery goods and hot choices.  We were in Toronto to sight see and although this is a bit further from the core, we could afford the one bedroom suite.  The extra space with teenagers makes it pleasant for everyone.  A Saturday trip to the waterfront was 25 minutes in smooth traffic. Overall, it was a perfect location and excellent mini vacation.",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Scammers trying to scam hotel guest BEWARE",
+      "text": "I get this call from my bedroom land line phone. This man pretends to be a house keeping staff who says that there was outage of some power and for our inconvenience he wants to refund 25% discount to our room. So this guy was very professional and wanted my card number to refund the money back. He also said that within 20 minutes it show in your credit card. I smelled something fishy and I told him to ask front desk for the details. I immediately called front desk and asked them if there was an incident like that. The staff said No and it was a scam. Staff said do-not give any personal information to anybody. I want to know what type of organization gives our hotel guest room number to outsiders or is it inside job.",
+      "rate": 2.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Cost me an extra $250 in parking expenses.",
+      "text": "parking lot was dangerously crowded so front desk person came outside and told me where to park. Next morning there was a $250 ticket on my car and many others. They refused to give me a refund in the amount to cover my $250 and have not done anything for me as of yet.",
+      "rate": 1.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "Pleasantly surprised",
+      "text": "We stay 4 nights while our house was being shown.  Super happy with the spaciousness and cleanliness of the room.  The kitchenette was great since, because of COVID, we had to eat all of our meals in our room.  Unfortunately, again because of COVID, the gym and pool were closed which was a shame - would have enjoyed using those.  The breakfast service was not available but a very generous boxed breakfast was provided.  A small tuck shop is on site for purchasing beverages and snacks.  I was happy to have a ceiling fan as well.  The bathroom was clean and large with nice Neutrogena toiletries provided.  Ice machine down the hall.  The hotel was clean, quiet, comfortable and reasonably priced - what else can you ask for?  The only very minor complaint was that the extra blanket was a bit old and ratty (although clean).",
+      "rate": 5.0,
+      "tripDate": " April 2021"
+    },
+    {
+      "title": "The best customer service consistently!!",
+      "text": "The staff here is always welcoming and friendly including the shuttle drivers.  The breakfast and room quality make it hands down our go to hotel when landing at Toronto airport for an overnight. The later check out makes it worth paying a little more than room sales at competitors.",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Opportunistic pricing!",
+      "text": "The room maintenance was very poor!Cleaning was dreadful, we found old food under the bed left from the previous occupants !The water pressure in the sink was a trickle and it took several minutes to get warm!The toilet seat was not secured on it's base!The food provided in quarantine was pretty much a tv dinner. It was ok but not enjoyable!I feel that the hotel satisfaction guarantee was not honest or represented. When we told the check out receptionist of the issues, she appeared disinterested and barely acknowledged anything as a concern! I feel we are honest & fair in the above comments and now realise we should have created more of a fuss, and we should have asked for the hotel guarantee to be acted upon!",
+      "rate": 2.0,
+      "tripDate": " July 2021"
+    }
+  ]
+}

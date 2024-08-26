@@ -1,0 +1,283 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "One King West Hotel & Residence",
+    "url": "/Hotel_Review-g155019-d573658-Reviews-One_King_West_Hotel_Residence-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 3591
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 King Street West",
+      "addressLocality": "Toronto",
+      "postalCode": "M5H 1A1",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/26/71/76/tower-deluxe-suite.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Immersive and inspiring, One King West Hotel & Residence invites you to a uniquely vibrant place to stay. Enjoy genuine warmth and gracious service at this unique oasis of hospitality. Indulge in architectural grandeur, sophisticated comfort, and personalized service at One King West. Connect yourself to the city's core business, entertainment and shopping districts from this premier address. Come and see why One King West is a hotel to call home. Join us at our restaurant, Teller's Bistro & Bar, for an unforgettable experience with gourmet cuisine, exquisite cocktails and exceptional service. Teller's Bistro & Bar is open daily from 12 PM to 1 AM.",
+  "featues": [
+    "Valet parking",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Bar / lounge",
+    "Kids stay free",
+    "Car hire",
+    "Conference facilities",
+    "Banquet room",
+    "Paid private parking on-site",
+    "Wifi",
+    "Fitness / spa locker rooms",
+    "Sauna",
+    "Coffee shop",
+    "Restaurant",
+    "Breakfast available",
+    "Complimentary Instant Coffee",
+    "Complimentary tea",
+    "Happy hour",
+    "Kids' meals",
+    "Vending machine",
+    "Taxi service",
+    "Meeting rooms",
+    "24-hour security",
+    "Baggage storage",
+    "Concierge",
+    "Newspaper",
+    "Non-smoking hotel",
+    "ATM on site",
+    "24-hour check-in",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Laundry service",
+    "Self-serve laundry",
+    "Allergy-free room",
+    "Blackout curtains",
+    "Air conditioning",
+    "Desk",
+    "Coffee / tea maker",
+    "Flatscreen TV",
+    "Sofa bed",
+    "Walk-in shower",
+    "Housekeeping",
+    "Room service",
+    "Safe",
+    "Seating area",
+    "Separate living room",
+    "Sofa",
+    "Telephone",
+    "VIP room facilities",
+    "Wardrobe / closet",
+    "Clothes rack",
+    "Iron",
+    "Laptop safe",
+    "Private bathrooms",
+    "Wake-up service / alarm clock",
+    "Kitchenette",
+    "Dishwasher",
+    "Microwave",
+    "Oven",
+    "Refrigerator",
+    "Stovetop",
+    "Electric kettle",
+    "Kitchenware",
+    "Radio",
+    "iPod docking station",
+    "Whirlpool bathtub",
+    "Bath / shower",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Bridal suite",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Solid hotel with great staff",
+      "text": "I've stayed at One King twice this year. I orginally booked because the price was reasonable and the location was great. After staying there in April I returned because I was so impressed with the hotel. It is very well kept and clean. Both of my rooms had great views of the CN tower and city.  The beds are comfortable, more on the firm side, which I prefer.  I bought food and used the kitchenette every day for breakfast. Front desk and the bell staff are courteous and attentive. I found all the staff, regardless of if they were helping me, to be exceptionally kind.  Whenever I was in the elevator with someone they would smile, greet me and strike up a conversation. The location is a short walk to the arena, train station, and there are so many great restaurants within minutes of the hotel. I loved going to the Daily Ritual Cafe (which is attached to the hotel)  in the morning, grabbing a coffee and walking around the corner to Berczy park to people watching.  Overall it's just solid hotel with great staff. I look forward to my next stay.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Good experience",
+      "text": "I stayed at this hotel for 2 nights over the weekend and definitely enjoyed the stay. I initially booked a suite that I found for a good discount compared to the prices standard rooms were going for around the area (which is well located downtown, literally a few steps from the subway and streetcar). However, when checking in they gave us a complimentary upgrade to a slightly bigger suite which I did not expect considering the discounted rate I already paid. So that was a nice bonus!We ended up staying in the Tower Premium Suite (originally booked the Tower Deluxe) and the room was very clean, spacious with a little living area and floor to ceiling windows which made it very bright. We had a corner room so  had a great view of the lake and surrounding skyline. The bed was also big and very comfortable.  If you had to twist my arm to find a negative, my only criticism which is a very minor, niche complaint is that there were no bathrobes provided in the room which I do tend to use when visiting hotels. I'm sure if I asked for them they may have been provided which I just didn't bother to do myself (they do send you a text when checked in to welcome you and reply with any requests you have), but it would be nice if they were there already considering it was a suite. Again it wasn't a big deal, but sometimes the smaller things can make the difference. Overall, it was a great stay and would certainly recommend it.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "On Yonge Street: Central At King",
+      "text": "I stayed 4 nights over Christmas and paid $184.22 CDN/night including taxes. The room was well appointed with a king bed, office table, office chair, cloth chair, stove range, microwave, refrigerator and dish washer. Very good sight in the bathroom with enclosed shower with fairly good shower pressure. Free wifi with plenty of power outlets. Partial carpeted floor so don’t need to worry about bed bugs getting in your luggage. I wasn’t able to turn off the blowing air. If I turned the thermostat off the temperature would rise to 27degrees so I turned the ac on overnight.",
+      "rate": 4.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Good",
+      "text": "3 nights for about 1100 CAD.It is about 30m and 50 dollars from the airport with an uber if there is little traffic.Had a very nice room on the 44th. It was clean; there was a kitchenette with refrigerator, microwave, dishwasher, coffee, safe and such. Good wifi. A bit small but decent bathroom with some amenities. Good bed and good AC. Can also crack some windows open.Staff was very friendly at check in.Location is walking distance (if 30m is not a problem for you) from a lot of sightseeying; cn tower, chinatown, brewing district with a lot of galleries, the mall at dunda and a couple of decent places to eat such as cest what and overeasy.An inconvenience was that there is noise from the airflows in this room (perhaps not all rooms). There was a draft from under the front door; inwards; so it whistles a bit; dampened it with a towel; something above the microwave was making noise like a kitchen hood but without a button for it (perhaps connected to the light switch) and the AC itself also but at least that’s functional. Better sleep with earplugs if you are sensitive to such sounds; it grows on you by the day.",
+      "rate": 4.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Perfect for a change of scenery",
+      "text": "I live in Toronto, but I decided to spend three nights at One King just to get out of my apartment. I chose a room in the historical part of building, but was upgraded to a 32nd floor tower room on arrival. Considering the circumstances, I felt very safe at the front desk and with all the precautions that the hotel implemented, such as no room service or maintenance during my stay. The room was clean, had very large windows overlooking the city, and was well-equipped with a cooktop, microwave, dishwasher, coffee maker with coffee and tea, and various utensils, cups, glasses and plates. The WiFi was very reliable, and the king-size bed was perfectly comfortable. There was a shower stall in the washroom, which I prefer to a bathtub, so it was perfect for me. There is a restaurant that provides takeout; you can order and pick up your food downstairs. However, I chose to use some of the many interesting restaurants within walking distance that I was familiar with and where you can order takeout online and just drop by to pick it up: Richmond Station, Kupfert & Kim, Sukhothai, and Terroni. You can also get snacks at the Shoppers Drug Mart across the street. One King gave me a welcome respite from my usual locked down life. I highly recommend it to fellow Ontarians and Torontonians, especially now, when rates are considerably more reasonable than usual.",
+      "rate": 5.0,
+      "tripDate": " May 2021"
+    },
+    {
+      "title": "Stinky hallway, poor housekeeping, noisy",
+      "text": "We spent over three weeks at One King West, in a historic superior suite. There is nothing \"historic\" about the suites, other than that they are in the older part of the hotel and look quite dated. The hallway between the elevators and our room had a bad, musty stink to it. When a manager came to investigate, he agreed that the smell was bad and he would have housekeeping address the problem. However, instead of properly cleaning the carpet and airing out the hallway, all they did was spray a lemon scent to try to disguise the odour. It did not work, and we continued to have to navigate through the stink each day as we walked to our room. The windows in the room were nailed shut, so there was no way to get any fresh air onto the floor at all. Housekeeping was generally poor; the room was not regularly vacuumed; sheets were not regularly changed; the kitchen garbage was not regularly emptied; a clean kitchen towel was not left unless we specifically requested it. The automatic dishwasher did not fully clean the dishes, so we frequently had to scrub them ourselves. Housekeeping often happened very late in the day, and one day they forgot to clean our room at all. Another minor point: the toiletries all look exactly the same, so you have to read the small print on each item to determine whether it is shampoo, conditioner, body wash, or body lotion: this is a nuisance in the shower. Also, there was lots of noise from the hallway and from the streetcars on King Street. If you are looking for a clean, quiet hotel, do not stay at One King West,",
+      "rate": 2.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Excellent experience",
+      "text": "During this pandemic it is expected to feel unsafe checking-in into a hotel. However, One King West hotel is well cleaned and prepped with sanitation. Every time we would pass by the front desk, there’s always a staff cleaning around the front desk. There are sanitizers before coming in, at the front desk, before entering the elevator, and most importantly IN the elevator. Overall the experience was great and it’s safe to say that hotel stay-in is still “doable” during this pandemic.",
+      "rate": 5.0,
+      "tripDate": " July 2020"
+    },
+    {
+      "title": "Amazing guest service experience",
+      "text": "Our stay here was incredible. I was able to stay at one king west in November for a little escape. It was a great couples experience and the guest services was incredible. I was greeted at the from door by Muhammed, one of the concierge/valet staff. He was very thorough and helpful about how to check in and provided me general instructions on the covid guidelines in the hotel. He also recommended me places to eat including the tellers bar in the hotel that I decided to try and am very happy I did. The truffle fries are to die for. At the front desk I had an interaction with Joana and Justine who helped me with the check in process and were able to upgrade my room with late check out. This was five star service. The hotel room itself had a spectacular view and their sanitation practices made me feel very safe with the current COVID climate. I would highly recommend this hotel based on my experience. I will be coming here again.",
+      "rate": 5.0,
+      "tripDate": " November 2020"
+    },
+    {
+      "title": "Exceptional, Keep Doing What You Are Doing",
+      "text": "This was our 3rd stay at One King West Hotel, each time spending a day/night in Toronto experiencing the great attractions and to unplug, so far we have enjoyed the Winter Festival, Aquarium and River Dance. The location is excellent, being attached to the underground shopping and services of the PATH.  When one enters the OKW, you are treated as their priority; check-in was courteous, efficient and informative, ensuring our needs were being met to the fullest. Rooms are well appointed and clean, we had a one bedroom suite with a well equipped kitchenette on the 47th floor, beds extremely comfortable, all linens and duvet were spotlessly white.  The sitting area was spacious with a stunning view of the lake. We had, as always a very quiet, restful sleep!Before our dinner/show we stopped into Tellers lounge for a cocktail and chatted with a fellow who travels to Toronto frequently, has stayed at many hotels downtown, he continues to book OKW now. All staff (front and back of house) acknowledges and greets guests, they are mindful their required duties may be disrupting one but absolutely did not.  When asked on a survey what could OKW improve? My reply was “keep doing what you are doing!”We will absolutely find another destination downtown again maybe sports event, art gallery or concert, whatever we choose; our stay will be at One King West Hotel.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Downtowns Best Hotel",
+      "text": "Hands down the best Hotel in downtown, these guys have the best team and they go all out to ensure that we have an excellent stay each and every time we have stayed here. Excellent COVID-19 protocols in place, really makes you safe and comfortable, suite has a card which states clearly how the room has been cleaned and the safe chemical that has been used to disinfect, no other hotel does that. Great front desk team and the food is fabulous as well, we ordered the steak frites and mushroom risotto, it was delicious and a great selection of wines at a very discounted price. You guys rock, can’t wait for our next stay in may.",
+      "rate": 5.0,
+      "tripDate": " January 2021"
+    },
+    {
+      "title": "Excellent in every category",
+      "text": "I would and do recommend One King West Hotel to anyone who asks. The service is exceptional the facilities are beautiful the rooms have more than you need with a kitchen that allows you to bring in your own food all utensils even a dishwasher. The beds will make you feel like your sleeping on a cloud. The staff goes above and beyond to make your stay perfect. I have stayed here many times this last was when my dad was flown to Toronto for surgery and they made me feel like I was at home. Oh and don’t forget to sit at the bar or enjoy the food from their restaurant.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "has a comforty/homey feel",
+      "text": "I was surprised to see the room comes with a kitchenette equipped with numerous plates, cups, and cutlery, with a washing machine and dishwasher! Nice view of the city, great location (close to union station and eaton centre), and really warm and welcoming staff. I was greeted and helped by Muhammad and Wonde on valet service, and Joana at front desk was the best at checking us in. The most memorable stay I've had so far.",
+      "rate": 5.0,
+      "tripDate": " August 2020"
+    },
+    {
+      "title": "Amazing hotel and experience",
+      "text": "My wife and I stayed here on a weekend during the pandemic and I must say the staff and management are taking extra steps to ensure guests safety, staff were consistently disinfecting high touch areas, many hand sanitizer stations available for people to use. We had an incredible room, very clean with an amazing view.Thank you again we enjoyed our stay!",
+      "rate": 5.0,
+      "tripDate": " December 2020"
+    },
+    {
+      "title": "How come everybody here is so nice?",
+      "text": "Lots of small things add up to the best imaginable hotel stay. I drove three hours to spend an evening with my girlfriend. We were greeted very warmly by the Manager Dipali she helped us with check-in and gave us the most beautiful corner room with a great view. Valet guy Mo was helpful with parking our car even he was busy he made sure to guide us to the desk for check in. We ordered food from their take out menu, I was confused about the wines and Jerome and Dipali helped me pick up a wine never making you feel like you're asking too much. I must say they were so busy but they all made sure to have smiles on their face. Covid protocols followed promptly, clean rooms, good for value. Keep up the good work.We will definitely go back!!",
+      "rate": 5.0,
+      "tripDate": " November 2020"
+    },
+    {
+      "title": "Not worth it",
+      "text": "We were expecting more based on the price and ratings of this hotel. The room (tower deluxe) had a terrible layout including the bathroom door being right beside the bed and the light switch was outside so you had no way of avoiding light pollution from the bathroom in the room at night. The bed was uncomfortable with inadequate bedding (The “comforter” seemed to be a plastic-feeling sheet with crunchy flat sheets surrounding it with lacklustre pillows). The staff were mediocre with the exception of a gentleman who was on our floor a couple times and was lovely to speak with (could not see his name tag). Expect to wait for an elevator for a while as there are only 4 and 1 was always broken down. There is no actual room service available, you have to go to the lobby to get it. We stayed in a 3 star hotel the night after leaving one king west in a rundown town in upstate New York and it was much cleaner, comfortable with nicer staff and provided more amenities than one king west did. Overall just a 2 star hotel at 4 star pricing.",
+      "rate": 2.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Perfect Getaway",
+      "text": "Our recent stay at One King West Hotel was most enjoyable. All the staff from the front desk, room service, cleaners and bar/restaurant were friendly and attentive to our needs. They all made you feel very welcome.The suite had everything that anyone would want and the bed was most comfortable. ever. We found The Teller’s Bar/Restaurant had delicious food and attentive service. Great location. Only a short walk from Union station. Would stay there again in a heartbeat!",
+      "rate": 5.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "Amazing service and even better accommodations",
+      "text": "The hotel was conveniently located downtown Toronto, the room were spacious with very soft bedding. In particular, our concierge, Dakshay, who checked us in, was outstanding. He was very professional, warm and even gave us complimentary late check out as we were celebrating an anniversary!",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "A great short stay in Toronto",
+      "text": "We overnighted in One King West to take in a show in Toronto's theatre district.  On arrival, we went through a quick but thorough Covid screening process, were greeted warmly by front desk staff and were soon on our way.  Our room was large, well appointed and very clean.  The theatre was a short subway ride away, and we came back for an enjoyable nightcap with friends in the ground floor bar.  We were impressed at the friendliness of every staff member that we met.  They invariably smiled and greeted us, offering help if needed.  We came away with the impression that this is a very well managed hotel that sets and maintains high standards in everything they do.",
+      "rate": 5.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "One King really is being at the hotel to call home",
+      "text": "Staying at One King really is being at the hotel to call home. I really like to notice small things that are indicative of a really well run service establishment. The aspect of One King that really stands out is the continuity of staff. The front desk, the service people, the people I deal with in bookings all have a remarkable degree of continuity. That tells me that One King is a good employer, the staff are genuinely happy to be there and in turn, this relays into a comfortable, welcoming and relaxed atmosphere. Oh, and the location if fantastic, right beside the subway and barely a 10 minute stroll to the Up Train from Pearson, the food and bar service are top notch and next door at the Daily Ritual serves up a delicious sandwich or wrap, soup, coffee or a perfect latte!  Don C - Winnipeg",
+      "rate": 5.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "A room with a view",
+      "text": "The lobby gives the impression that you are about to stay in a very beautiful, elegant, luxurious hotel. That's the façade. The horror begins when you pile up into the tiny elevators. I have travelled all over Canada and eastern Europe and never have I seen such tiny and uncomfortable elevators. The rooms we got after checking in were nightmarish; nothing like pictures in the advert. They were dark, small, and cold. How were they so cold? We were there in August. The insanely high ceilings give the false sense that the rooms are larger than they actually are. Everything about this \"hotel\" screams repurposed office building. There is nothing like going on holiday and feeling like you are still at the call center. The office-chic cabinetry in the rooms add to the ever appealing call center atmosphere. But at least it had those huge windows peering out onto beautiful downtown Toronto! No. That was also falsely advertised in the ad. Upon opening the curtains, we discovered that the only \"view\" we had was of an interior wall and a darkened window. No light could come into our room. If I had to find one redeeming factor of our stay, it would be that the staff at the garage were friendly and professional.",
+      "rate": 1.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Excellent one night staycation!!",
+      "text": "I booked the Historic Superior Suite - Interior View for one night as a surprise for my boyfriends birthday. Due to a small error and quick switch of rooms, with an upgrade to a room with a gorgeous view, we had a spectacular time at One King West! The room was beautiful, it had a separate living area with a couch, a small kitchenette, spacious and clean bathroom, super comfortable bed and a television in each room. The breathtaking view of the city, the lake and the gorgeous CN Tower definitely enhanced our experience in the Historic Superior Suite. We felt confident to stay at One King West during COVID19 as they did a fantastic job of disinfecting all areas. We noticed staff spraying disinfectant in all the “busy” areas in and around the lobby. There was also a notice in our room informing us that the entire room has been disinfected. The staff at the lobby also followed protocol, there was a screening process and rules for following social distance within the hotel - this gave us peace of mind. Overall, my boyfriend and I had a lovely time at One King West hotel. Would highly recommend staying here. Our experience was definitely a memorable one and we hope to be back in the future. Thank you to the team at One King West!!",
+      "rate": 5.0,
+      "tripDate": " December 2020"
+    },
+    {
+      "title": "Outstanding!!!",
+      "text": "Although times feel like we are at a stand still, scary and worrisome, it’s amazing to see that we still have customer service agents going above and beyond to make guests feel welcome, safe and comfortable. My girlfriend and I visited one king west last weekend and I have to say that Sayara Ashory was an excellent example of unwavering service. From welcoming us, helping with current situation and making us feel comfortable and also showing great awareness by always cleaning hands and offering sanitizer. I’ve come to this hotel before and I’ve always enjoyed my time here but I have to say that this visit was special because the service got better at a time where some might be scared to speak to guest or offer usual service. Amazing visit and I will always remember sayara!!",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Exceptional!",
+      "text": "My experience at 1KW is always satisfactory. Check-in is easy and fast, with hotel staff are always willing to go up and beyond for their guest. Everyone is nice and friendly! On our previous stay we had an issue with the room and I remember the concierge telling us it was no problem and that we’d be relocated to a new room. The new room was a Tower Suite!! The view of the city was incredible! The upgrade was amazing and we weren’t charged extra. During our current stay we were in a Historic Suite and the layout was different based on the previous Historic Suites we’ve stayed in while at the hotel. The arrangement was really cool and the room was very clean. Upon check-in we were greeted by a friendly guest service representative, Justine who even remembered us from our last stay a couple of months ago! Overall I have nothing bad to say about 1KW. The hotel is fancy and I always feel welcome. Every time we stay here we discover something new and interesting about the hotel. For instance, the path connects right to the hotel so you can exit the subway and go through a corridor straight to the hotel without having to go outside. A blessing especially in the winter time. Overall it’s such a beautiful space! 1KW has set such a high standard that whenever we stay elsewhere it just doesn’t feel the same. Whenever we are booking downtown 1KW is always my top choice! Highly recommend booking here. Keep up the great work 1KW team!! :)",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Most Terrible Hotel Experience EVER!!!!!",
+      "text": "My boyfriend and I stayed at this hotel this past weekend. When we first arrived, the check-in was pretty simple so we then proceeded to go up to our hotel room. We first noticed that there was hair in the bathtub. Although this was not sanitary we let it pass since it did not seem like a big issue. Later on in the evening we noticed more hair on the bathroom floor and in the shower. During these unprecedented times, One King West had promised that they would be cleaning the rooms and leaving 48 hours between guests visits. After being disappointed with the first room, we called guest services and they upgraded us to another room. After moving all of our belongings in the middle of the night we moved to our second room. My boyfriend and I were now frantic that the room would not be cleaned and to come to no surprise as we walked into the washroom there was a dirty towel hanging off of the shower curtain rod. We noticed that it had hair on it. When we called guest services again to alarm them of the unhygienic room they told us that the manager was going to call us shortly. After we waited for 20 minutes the manager still had not called. We decided to pack up our bags and go to the front desk. We talked to the manager and he had given us two options: to take another room or to get a refund and check out of the hotel. For a 4-star hotel the service was awful and we will not be returning.",
+      "rate": 1.0,
+      "tripDate": " July 2020"
+    },
+    {
+      "title": "Once again, excellent ",
+      "text": "We stayed again at this hotel as a result of our exemplary previous experiences and they outdid themselves again. This is by far one of the best things about One King West, consistently great customer service. The staff are very knowledgeable, prompt and courteous from checkin to checkout. The rooms are well appointed and very clean, always. The location is perfect for any excursions in the downtown core and we will not bother staying anywhere else. In fact, we’re heading back in February. The restaurant and bar are an added bonus if you don’t want to venture too far. The valet service upon arrival and departure are very prompt and there is always a staff member readily available for whatever you may need. Beyond the location and the quality accommodations the staff are really what makes the difference. You always feel welcome.",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Excellent location with WOW factor for a large group event!",
+      "text": "This unique venue offers everything a large group could possibly need or want and expertly adjusts to assist in making your event memorable. The significant history of the property and grand spaces can accommodate any kind of meeting or gala event. The Fifteen Hundred Suite is absolutely spectacular and makes you feel like a rock star! It serves well for meetings or parties and our group used it for both (day/evening). The guestrooms are attractive, modern and clean with spectacular views of the city. The service at One King West is top notch and every request is fulfilled above expectations with the very best prompt, friendly service. The wonderful Sachin is definitely the best Catering/Banquet Manager I have ever had the pleasure of working with and Conference Service Manager Lynn is fantastic in the planning and overseeing the execution of the event. She is pleasant, professional, frank and honest, which is a winning combination to ensure your event takes place without a hitch!  The food is delicious and the group menus provided variety while accommodating all types of dietary requirements: vegan, dairy-free, gluten-free, kosher... The dinner at our special gala event in the stunning Grand Banking Hall  was nothing short of amazing and everyone was talking about it for weeks afterward. The layout of the meeting areas is a challenge but this small issue did not outweigh the benefits and WOW factor' of this special venue, which I highly recommend.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Consistent and Courteous",
+      "text": "I stayed here for 4 nights recently and thoroughly enjoyed my stay. The rooms are a good size and mine had high ceilings and a kitchenette which made it feel even larger. Despite the many covid precautions in place the staff were welcoming and friendly and willing to provide support in any way they could. I had drinks at the bar and the staff there were wonderful as well. Housekeeping was not available, again due to covid, but anything you needed was brought to your room. I especially appreciated the cool door pulls that you access with your foot... so clever!",
+      "rate": 5.0,
+      "tripDate": " August 2020"
+    },
+    {
+      "title": "Excellent as always",
+      "text": "Always amazing and the staff goes above and beyond to  to exceed your expectations. Beautiful suites with awesome views and cleanliness is top notch. Hopefully stage 3 opens up the beautiful restaurant and bar, miss the amazing food and service. Great protocols in place for COVID-19, sanitizers everywhere, properly placed sings on the floor to ensure everyone can follow social distancing. Can’t wait to come back next month for another awesome weekend, don’t change a thing and continue doing what you are.",
+      "rate": 5.0,
+      "tripDate": " July 2020"
+    },
+    {
+      "title": "Best value for upscale hotel with full kitchen and access to TTC subway ",
+      "text": "This hotel reminds me of Le Square Phillips Hôtel & Suites in Montreal! It is value priced but has luxurious touches, such as bathroom toiletries made by the amazing Canadian fragrance brand Byredo Bal d'Afrique. Wonderful scent! Unfortunately, the shower stall seal was a little open and the bathroom floor flooded. The carpeting in the room is a little worn.Women's dry sauna, men's dry sauna, and large coed hot tub (that easily fits 12 people) on the 17th floor were nice amenities, but the locker room itself was pretty abysmal. Front desk staff were excellent. Upon request, they put me in a tower king suite with a partial view of the lake, facing East. Unfortunately because the tower suites vary in size, I ended up with the smallest version, but it was fine for one person. I suspect if you have two people then this particular layout would be too small. The bathroom is tiny!It was great to have a half-sized fridge, although the freezer was frosted over. The kitchen also has a large microwave, kettle, cutlery, plates, mugs, glassware, wine glasses, can opener, pot, pan, spatula, etc. There is however nowhere to eat. No dining table. So again, if you are just solo, you can eat at the desk. But if there are two people in a tower suite, then you cannot do in-room dining.There are mirrors everywhere, including a very large full-length mirror near the front door and the world's best magnifying mirror in the bathroom. The shower head has great pressure and can be changed to a different setting. The bed and bedding are quite comfortable, with feather pillows. There are two bedside tables with a telephone but no clock radio. There is also an armchair, ottoman, and tiny side table. For the life of me, I could not get the casting and streaming to work on the TV from my phone and there were no instructions in the room. I heard front desk mentione room service but there is no menu in the room either.I didn't end up eating or drinking anything in the hotel, and the tap water ran a little bit cloudy but was definitely drinkable. There is a water bottle fountain refill station in the fitness room on the 17th floor if you have your own container.Be sure to go to the basement level to see the vault and to the north side of the hotel to see the wedding venue staircase. It's an old bank, and the details are gorgeous and very photo worthy. Plenty of elevators, so there was never a very long wait. If you are taking TTC there, go up the escalator at the far left of the platform and you will exit right in front of the main entrance to the hotel. To take TTC from the hotel, exit North and you will see the stairs going down into the station immediately outside.",
+      "rate": 4.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Nice hotel in a great location of Downtown Toronto",
+      "text": "We have stayed here a few times and always find a decent deal on booking.com We loved the Quick Check-in and that we could cast to the TV from our phones to watch a movie and chill. Great location and walking distance to everything. Comfortable, clean and quiet. Easy access to pool area.  We booked a 1-bedroom suite and it was  a lot smaller than anticipated. We should’ve selected a suite that’s open concept instead. No bath towels. Noisy. No room service menu (found an incomplete one on the TV which wasn’t useful). There’s an automated hand sanitizer dispenser in the elevator… It’s motion censored, so keeps going off if you happen to have more than three people in the elevator together (it was funny the first time). So we had to clean my daughter’s jacket several times lol. the one downside is that in the past I never had any trouble getting late check out (normally there was no charge and once I paid $25). This time when I emailed her request I was told I would have to pay $100 to check out at 1 PM. Disappointed for a mid-week request.",
+      "rate": 4.0,
+      "tripDate": " December 2022"
+    }
+  ]
+}

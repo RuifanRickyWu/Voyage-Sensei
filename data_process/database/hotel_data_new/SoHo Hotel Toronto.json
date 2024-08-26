@@ -1,0 +1,284 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "SoHo Hotel Toronto",
+    "url": "/Hotel_Review-g155019-d259397-Reviews-SoHo_Hotel_Toronto-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 1276
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "318 Wellington St W",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 3T4",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/73/2c/fa/so-chic.jpg?w=500&h=-1&s=1"
+  },
+  "description": "SoHo Hotel Toronto is considered the OG for hosting celebrities and industry leaders. This chic boutique hotel features unique pop art throughout just waiting to be discovered. With only king beds, the hotel appeals to those singles and couples looking for a serene relaxing experience amongst the hustle and bustle of Toronto's Entertainment District. Discriminating travelers will appreciate the refined service offered by the ClefsD'Or Concierge. The SoHO offers a refreshing amount of class and modern sophistication and may be one of the better-hidden gems in the city.",
+  "featues": [
+    "Valet parking",
+    "Wifi",
+    "Pool",
+    "Fitness Center with Gym / Workout Room",
+    "Bar / lounge",
+    "Babysitting",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Car hire",
+    "Hot tub",
+    "Indoor pool",
+    "Heated pool",
+    "Saltwater pool",
+    "Fitness / spa locker rooms",
+    "Personal trainer",
+    "Sauna",
+    "Coffee shop",
+    "Restaurant",
+    "Breakfast available",
+    "Breakfast in the room",
+    "Complimentary Instant Coffee",
+    "Complimentary tea",
+    "Special diet menus",
+    "Wine / champagne",
+    "Conference facilities",
+    "Banquet room",
+    "Meeting rooms",
+    "Photo copier / fax In business center",
+    "Steam room",
+    "Baggage storage",
+    "Concierge",
+    "Currency exchange",
+    "Non-smoking hotel",
+    "Outdoor furniture",
+    "Doorperson",
+    "First aid kit",
+    "Umbrella",
+    "24-hour check-in",
+    "24-hour front desk",
+    "Dry cleaning",
+    "Laundry service",
+    "Ironing service",
+    "Allergy-free room",
+    "Blackout curtains",
+    "Air conditioning",
+    "Desk",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Sofa bed",
+    "Walk-in shower",
+    "Air purifier",
+    "Bathrobes",
+    "Housekeeping",
+    "Interconnected rooms available",
+    "Room service",
+    "Safe",
+    "Seating area",
+    "Sofa",
+    "Telephone",
+    "Wardrobe / closet",
+    "Bottled water",
+    "Clothes rack",
+    "Iron",
+    "Laptop safe",
+    "Private bathrooms",
+    "Tile / marble floor",
+    "Wake-up service / alarm clock",
+    "Refrigerator",
+    "Flatscreen TV",
+    "Bath / shower",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Very nice hotel",
+      "text": "The hotel is very nice, very spacious rooms, luxurious bathrooms. The rooms are also very clean! The restaurant is a bit on the pricey side but offers a good selection of Italian dishes and is quite delicious.As a business traveler this is the hotel I always stay at in Toronto due to the location, friendliness of the staff and the rooms make it feel like a home away from home.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Excellent Location",
+      "text": "I stayed in this hotel in November 2019 for a week with my wife and a large wedding party. We loved our room which was tastefully furnished and decorated in a modern design.  However, our room was somewhat dark and despite my best efforts, and repeated request to reception, I couldn't obtain an extra room lamp. Whilst certain staff members on reception were diffident in their manner and attitude, the remainder of the staff were very warm and friendly, especially the concierge staff who helped us with our excellent trip to Niagara Falls and the surrounding wine region. I made good use of the gym, small swimming pool and large spa bath in the hotel. The resident fitness instructor was particularly helpful.The hotel restaurant Morretti's was very convenient. We found the service variable but the food (Italian) consistently good quality at breakfast, lunch and dinner.  The hotel is conveniently located and there's lots of choice locally in terms of nearby restaurants with food to suit all tastes. We had a good stay at this hotel and would return - in warmer weather.",
+      "rate": 4.0,
+      "tripDate": " November 2019"
+    },
+    {
+      "title": "Super clean, super comfy!",
+      "text": "Bed is amazing - comfiest bed ever. Bathroom is immaculate. Everything was SO clean and the bathtub and heated floors and separate shower is worth every penny (wish there were jets in the tub). Most of the staff were helpful. Wish there was Netflix on the TV so we didn't have to bring our entire laptop and HDMI cord...",
+      "rate": 5.0,
+      "tripDate": " May 2021"
+    },
+    {
+      "title": "Soho Stay",
+      "text": "Spent two nights here, out first hotel visit since COVID started.  Felt very comfortable with their COVID protocols.  The room was very nice, especially the heated floor in the bathroom, and we didn’t hear any of the usual hallway noise of other guests, which made for a good night’s sleep.  Easy walking distance to lots of places.  This was a good choice for us!",
+      "rate": 5.0,
+      "tripDate": " December 2021"
+    },
+    {
+      "title": "1 night stay",
+      "text": "I booked a room for one night online the booking was very easy and upon arrival the check in took just minutes.  The room my husband and I got was to be a very beautiful And spacious.  There was a walk in style closet with a large bathroom with a stand up shower and deep soaker tub The room was very clean And the beds were very comfortable.  We chose this hotel because it was very close to a lot of restaurants and the waterfront so that we could just wander around the city I would definitely stay there again I definitely recommend it",
+      "rate": 5.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Disappointing",
+      "text": "It was my hubby’s birthday and I wanted to make it extra special with a romantic gateway in our home city Toronto. I chose The SoHo’s Romantic gateway package witch promised a sparkling wine in the room upon arrival I also added to the special requests chocolate covered strawberries and hypoallergenic bedding. I thought we can order room service for dinner. Their website does not offer dining in their restaurant or spa services or hut tub and pool usage at this time which is noted. However their is nothing about room service on their website. The first rude awakening was the lack of greeting at the front desk which I pretended not to notice. When asked about room service, she said there is none unless we want to call the restaurant to order food but will have to go downstairs buy ourselves to get it and it will be in boxes but they might be able to give us cutlery. Hello? Do we really want to do that when we are out for a romantic gateway? I don’t think so!When we entered the room  there was no sparkling wine or strawberries as a matter of fact that was extremely disappointing. I went down to reception and the front desk person said that there are no special request with my reservation I found it quite strange and she said she does not see the Romantic gateway package in my reservation. Wow! There’s a big discrepancy in the system. I asked her if we can make the adjustment. She said she’ll try, they might have the sparkling wine but not the strawberries. I almost gave up even on the wine when somebody knocked on the door and there was the wine which I was great full for with a bag of trail mix which was kind of insulting. I am a former five star Toronto hotel employee and if something like this would have happened in the hotel I worked would be ashamed of. At the checkout I wasn’t even asked how was my stay. And for all this wonderful service I paid $450.It’s Covid, There are restrictions but does not entitle your employees to forget their manors or their training and just be straight forward rideAlso get your facts right on your website.",
+      "rate": 1.0,
+      "tripDate": " January 2022"
+    },
+    {
+      "title": "Fantastic expereince",
+      "text": "This hotel is one of a kind and close to everything downtown Toronto. We stayed in a king suite with a separate living area and walk in closet, it was huge! The bathroom was beautiful with a tub and shower as well as heated floors, the floor was amazing. All the little amenities from the nespresso coffee to slippers to a bathrobe were a nice touch. They even had automatic blinds that close and open with the push of a button. With the click of a button you turn on do not disturb, no more placing a paper sign on the door. The soft king bed was so comfortable to sleep in. The suites are such a big size and overall such a luxurious and beautiful room. Overall a wonderful experience and I would definitely stay again.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Nice Place",
+      "text": "This place is more then just a room. Awesome experience. Bathroom had a deep soaker tub and separate glass wall shower and bathrobes provided for use. Storage for clothes was abundant. Now i know why celebrities chose this place during TTIF.",
+      "rate": 4.0,
+      "tripDate": " March 2021"
+    },
+    {
+      "title": "I would go back for sure!",
+      "text": "First timer and I liked it. TORONTO was quite busy and while it is a ways from downtown, it was worth the $12 UBER ride. Very efficient and polite though the 2 restaurants could have been a notch higher on service and choice",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Will definitely return!",
+      "text": "Fabulous stay at the Soho for a birthday weekend. Warmly greeted upon arrival, we were pleasantly surprised to receive a room upgrade. Room was clean, spacious and had all of the necessary amenities.The bed was super comfortable. Bathroom was excellent with heated floors, excellent lighting and a make-up mirror. We had a separate living area with a couch and second flat screen television. The location is excellent, only steps from both the theater district and Rogers Centre as well as a diverse variety of restaurants. What stands out most though is the friendliness and professionalism of the staff. This will definitely be my hotel of choice for future trips to Toronto.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Condo masquerading as a luxury hotel",
+      "text": "Located in the entertainment district of Old Toronto, SoHo is a short walk from a subway stop and the main train station. Guests have access to a gym and pool shared with condo residents, as well as an Italian restaurant and café courtesy of the Montreal chain Moretti. Keep in mind that such amenities come with an automatic facility fee, and any room service includes a hefty delivery charge paid to the restaurant, which could explain the limited in-room offerings. Our luxury king did come with high ceilings, dressing area and a window wall with great street views, but the bathroom had linty towels, a tiny shower with faulty fixtures, and a sink that made it hard not to splash water everywhere. Despite the empty minibar and lack of glassware, turndown service kept filling our ice bucket while failing to empty all the waste bins. Ultimately, a luxury hotel should, at the very least, provide a good night’s rest, but even that was challenging due to a saggy mattress. Should you end up staying at SoHo, being metres away from a well-stocked liquor store and pot dispensary may hopefully serve as some consolation.",
+      "rate": 2.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "HIGHLY RECOMMEND",
+      "text": "The hotel is located in the perfect spot downtown. Rogers Centre is visible from the hotel and everything you need is within walking distance. Tim Hortons, grocery stores, Shoppers Drug Mart, restaurants, LCBO, you name it. Check in was great. Scott was very nice and allowed us an early check in. Booked a corner suite. He even let us pick if we wanted a tub or no tub in our room. (picked the no tub). The room was huge! Very clean and had all of the comforts of home. 2 T.V.s, a living room, a dressing room/closet and a big king bedroom. The bathroom was beyond nice. Heated floors, HUGE shower. We even came back to the room to find a complimentary bottle of champagne in the room! Super classy. The restaurant in the lobby is really nice as well. The price outweighs the location and the service. A+++++",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Another Great Stay",
+      "text": "Just arrived from another great stay at the Soho Hotel & Residences.  Despite being in a second floor room facing the street, once the drapes were closed, couldn't hear a sound.  The bed and luxury bedding gave me some of my best nights' sleep in a hotel setting.  The large luxurious bathroom is always a treat but I truly wish I could take their walk in closet and all that space home with me.  The friendly staff assisted me with all my queries and the responses were quick and efficient.  I highly recommend this hotel to anyone travelling to Toronto - no matter the reason.",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Beautiful Hotel Room",
+      "text": "Hotel room was beautiful with lots of cool features such as motorized blinds, heated bathroom floors, stand-up shower and deep bathtub. The restaurant by the lobby was by far the best food I have ever eaten. I would stay again at this hotel if it were not so expensive.",
+      "rate": 4.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Elegant venue - close to all downtown amenities",
+      "text": "The hotel is exceptional - elegant and close to all downtown amenities and sports venues.  The only reason that it did not get a 5-rating on sleep quality was that the mattress was a bit too soft and sunken in the centre.  Other than that, the service and amenities are top notch!!  A full 5-star for the housekeeping staff who pay attention to the small details (like leaving a kettle and assortment of tea bags when I lost my voice one evening). Always my first choice when visiting Toronto!",
+      "rate": 5.0,
+      "tripDate": " November 2023"
+    },
+    {
+      "title": "Great service , location and very good dining experience",
+      "text": "Staying at the SoHo was an overall very positive experience with great font-desk service and dining experience. The facilities were also excellent.  This was for business so the cost per night is not cheap if you were thinking of staying for a personal trip to catch the Blue Jays were is walking distance as is Union station. During my stay there was construction so you should ask for a room facing Wellington street.",
+      "rate": 4.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Best place to stay in downtown TO",
+      "text": "Can't say enough good things about the hotel and staff. Walking distance to great shopping and restaurants. Easy access to the Rodgers Centre. Will definitely stay there again. The app makes booking a room, checking in and out simple and making special requests no problem.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Wasn’t impressed.",
+      "text": "We have stayed at many 5 star, was looking forward to a relaxing time. Pool was out of order, wasn’t told this until we read a small sign posted for residents to see on a pole. Pool was freezing and unusable.  Mentioned this to the staff and was told oh well sorry! *thanks The Chromecast didn’t work on their network, so TV was out. $36.00 to rent a movie? So we used our phones… Elevator was broken so there were many people using just the one with line ups. The temperature in the room would change by the minute and air blown into the room sounds so loud. Wasn’t able to get it comfortable. The front door would sometimes open sometimes you opened it. It was confusing because as you went to open the door the other door just randomly opens. There is no coffee in the rooms just espresso machine. (Didn’t need that first thing AM. Ordered from Skip and had it delivered!! We did go for the coffee the first morning $10.00 two cups of coffee. Got 2 breakfasts and two coffees delivered for that the next morning. Asked for another house robe as there were two of us. Never came.. we gave up. Seeing there are Hotels everywhere downtown, I would chose another place. Zero view, zero pool, check out didn’t even work, front doors opening and closing randomly, broken down elevators… Didn’t feel or act like a 5 star.",
+      "rate": 2.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Fabulous downtown hotel!",
+      "text": "The SoHo hotel in downtown Toronto was fabulous! We stayed in room 503 which was a huge executive suite with a separate living room and private outdoor rooftop patio.The bathroom was outstanding with a wonderful shower and separate bathtub.The bed was so comfortable and the suite included an in-room safe, small refrigerator and kitchenette, amazing coffee maker, TVs in the bedroom and living room and a small work desk area.The staff were brilliant and so accommodating. Self parking is available for a fee. The hotel is close to many downtown restaurants, bars and attractions. The only slight disappointment was the Moretti restaurant which was average and expensive. We will definitely stay here again next time we are in Toronto and highly recommend this hotel!",
+      "rate": 5.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Stay here if location is important for you.",
+      "text": "It's a very good hotel with 2 major perks: its location and the service. Rooms could be bigger for the price, and the view is not always good. When you face the street, it can be noisy at times. Information to use the app arrived late and didn't work, but it's a great idea if they can implement it properly. I asked for hypoallergenic bedding and to dust off because of my allergies. They did their best to comply. The other amenities in the room don't have price tags, nor do the ones in the mini-fridge, which is a shame because I might have been tempted to go for them if I knew how much I was paying for them. Checking in and out was seamless. The front desk team is fantastic!",
+      "rate": 4.0,
+      "tripDate": " February 2023"
+    },
+    {
+      "title": "Unacceptable levels of construction noise",
+      "text": "We absolutely love our room here at the Soho and have been staying here for a few weeks now. The problem is that we’ve been woken up at 9am for the third time now due to the most horrific construction drilling and banging .Today has been non stop and it’s unbelievably loud and unsettling. What makes it worse is that we were not told that we’d be experiencing this and when we spoke to management about it, they downplayed the whole thing and acted as though it’s perfectly normal to woken up to by drilling and banging when you’re meant to be on a romantic getaway with your partner! They didn’t even offer a solution. So my advice is AVOID this location at all costs, unless you want to be traumatised by construction noises!",
+      "rate": 1.0,
+      "tripDate": " February 2021"
+    },
+    {
+      "title": "The Heated Floors in the washrooms start my day with that warm feeling",
+      "text": "I love staying at the SOHO, I think I choose this hotel because I love the washrooms heated floors which I find very comfortable and enjoyable. The room layouts are well thought out where you can dress near the washroom and have access to your wardrobe away from the actual room.  I also enjoy the work desks as they usually overlook the windows and the activities outside.  The furniture is well laid out for short meetings and make working away from the office simple and efficient. SOHO is one of my favorites in Toronto because of the proximity to the business sector in addition to the shopping district should my better half tag along during the stay.",
+      "rate": 5.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "Great location & parking",
+      "text": "Loved the location, close to all downtown attractions. Walkable area, close to CN tower & bell arena. Walkable area with many restaurants and patios. Parking is easily accessible and it’s covered on a 24h basis.",
+      "rate": 4.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Great location and comfortable large rooms",
+      "text": "Staff were very attentive and friendly.  The rooms were very comfortable and the washrooms with heated floors felt very spa like and definitely not what i was expecting for my trip.  The location cannot be beat as well.  10 minute walk to CN Tower, the arena and many other amenities. Easy walking distance to many great restaurants.",
+      "rate": 5.0,
+      "tripDate": " November 2023"
+    },
+    {
+      "title": "Not recommended",
+      "text": "Me and my husband just had a stay at The Soho Hotel Over the past weekend and I can not say anything good about the hotel. There are definitely not enough spaces for all guests underground. We had to park on the public area. We arrived shortly after check in time on Saturday to have a couple of hours before a Blue Jays game that we were going to watch later on Saturday evening and firstly, they could not find our reservation, then after several back and forths, the reception was able to locate it to only advise us that the room is not ready and will not be ready for another hour or so as many people checking  out late although check out is at noon and check in is at three. All they could propose at that moment is to wait and they will cover our parking. This was not acceptable by us and certainly it affected our whole picture of the hotel. Then “magically” they found a room available, but it was smaller than we reserved and paid for, so the difference in price they proposed to settle over the parking cost. Again, no one cared about inconvenience and stress that we went through. The “manager” that we spoke to, although we are not even sure who he was as the gentleman never introduced himself, was extremely rude and even made the reception guy feel ashamed of the customer service that he provided. We felt absolutely disrespected and rushed in “taking what we are proposed with”. Lastly, they forgot to take our licence plate for parking, so we had to remind them about it and all they did, they just wrote it on a piece of paper without even a room number beside it. The room that we received was certainly worse that the one we reserved and much smaller, the view from the window was on to residence, so awful as we could not leave curtains open due to lack of privacy and the room was extremely cold.  Overall, we expected a much better attitude towards guests at the downtown hotel that is charging quite a bit of money for a nightly stay. Instead, we received a “terrible “ experience and will never come back nor we can recommend this place to anyone.",
+      "rate": 1.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Great spot for a weekend getaway",
+      "text": "Concierge set up a bottle of wine and rose petals for us for my girlfriend's birthday and gave us a free donut cake which was delicious. Heated floors and light switches for lamps in the room did not work which was disappointing. Otherwise the room was very nice. Comfortable bed and the pool/hot tub wasn't busy at all. We went three separate times and only had to share the pool with another couple once. Great location as everything downtown is within walking distance. Tried the Cafe for breakfast, was really good.",
+      "rate": 4.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Hotel ok but DO NOT USE THE GYM",
+      "text": "Overall good stay with good service from Scott but beware of the gym aka “health club”. No one checks vaccinations papers, young attendant doesn’t even acknowledge your presence when you come in and honestly not sure when they last cleaned the gym. Hair and dust everywhere. IT. WAS. GROSS. With Covid, you would think they would be making more of an effort of cleaning protocols. I think they purposely made the flooring speckled so you can’t see the hair balls and dirt. Basically tried not to touch much and kept it limited from using much. And what is up with the set up? You have the treadmills staring away from the TVs and their treadmill monitor don’t even work. You can’t watch any tv! Go at your own risk. For a boutique hotel I expected better.",
+      "rate": 3.0,
+      "tripDate": " December 2021"
+    },
+    {
+      "title": "Lovely pool and room.",
+      "text": "Had a good time. Slept well. Enjoyed the pool and the smaller hotter pool. Got to say the bathroom was the high light from the bathtub, (which is becoming a rare sight), to the heated floor. Quality.Unfortunately Chromecast wasn't working so couldn't stream to the tv which was a tad disappointing but nothing to tear your hair out over or beat your chest and wail at.",
+      "rate": 4.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "A little disappointed",
+      "text": "We were really disappointed to find out our room wasn’t ready on time. We had to wait around an hour and push our plans back because of this. A coffee/tea was offered as compensation but we were not interested as it was 3:30 in the afternoon. The AC in our room wasn’t working well either so it was warm at times.",
+      "rate": 3.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Great room, don't ask for anything",
+      "text": "I stayed at the soho with my boyfriend. We are not from Toronto and planned a one night stay for my birthday. Room was nice, staff were nice. We asked for a microwave and forth and were charged 25$ for a microwave and 20$ for 2 forks. For the amount the room costs a night it felt like a money grab.",
+      "rate": 3.0,
+      "tripDate": " April 2023"
+    }
+  ]
+}

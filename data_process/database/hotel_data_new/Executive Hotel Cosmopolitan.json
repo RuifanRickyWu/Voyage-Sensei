@@ -1,0 +1,323 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Executive Hotel Cosmopolitan",
+    "url": "/Hotel_Review-g155019-d565977-Reviews-Executive_Hotel_Cosmopolitan-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 1440
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "8 Colborne St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5E 1E1",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/62/71/f3/executive-hotel-cosmopolitan.jpg?w=500&h=-1&s=1"
+  },
+  "description": "An urban oasis in the heart of Toronto's financial district, the Cosmopolitan Toronto Hotel & Spa is a leader in the newest trend in lifestyle hotels and is recognized for its exceptional design concept, service and ambiance. A stay at the Cosmopolitan is the ultimate in intimate, modern comfort. With only 5 suites per floor, the amenities are generous and include windows & balconies that open to spectacular views of the city, hardwood floors, full kitchens, washer/dryers, 55 inch flat screen televisions.",
+  "featues": [
+    "Valet parking",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Bar / lounge",
+    "Kids pool",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Meeting rooms",
+    "Spa",
+    "Paid private parking on-site",
+    "Wifi",
+    "Restaurant",
+    "Complimentary Instant Coffee",
+    "Massage",
+    "24-hour security",
+    "Baggage storage",
+    "Concierge",
+    "Non-smoking hotel",
+    "Umbrella",
+    "24-hour check-in",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Private check-in / check-out",
+    "Dry cleaning",
+    "Laundry service",
+    "Self-serve laundry",
+    "Ironing service",
+    "Allergy-free room",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Coffee / tea maker",
+    "Flatscreen TV",
+    "Sofa bed",
+    "Walk-in shower",
+    "Private balcony",
+    "Room service",
+    "Safe",
+    "Seating area",
+    "Separate living room",
+    "VIP room facilities",
+    "Iron",
+    "Private bathrooms",
+    "Wake-up service / alarm clock",
+    "Kitchenette",
+    "Dishwasher",
+    "Microwave",
+    "Refrigerator",
+    "Stovetop",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Lovely hotel, great staff, ideal location",
+      "text": "We loved our 2 night getaway in Toronto at this hotel. It is the first time we have stayed there, but we have stayed in the neighbourhood before. Right from the moment we walked in the door, we were treated with kindness and hospitality. Valet parking is available. However, we chose to use parking at a garage nearby. It was only a two or three minute walk away and prices were reasonable for downtown parking. There are a number of parking garages close by at a similar price point. We could have driven to the door of the hotel, unloaded our luggage and then parked but it was so close, even on a cold winter day, walking from the garage with our luggage was very doable. We arrived a number of hours ahead of check-in, so we were not able to get in our room. However, the woman at the reservation desk secured our luggage so that we could head out and enjoy a full day in Toronto. This service was appreciated. When we returned, Leo at the reservation desk was very personable and chatted with us amiably before we went to our room. We chatted with Leo a number of times during our stay. It always felt like he was going the extra mile to make sure that our visit was enjoyable. His going the extra mile very much seemed to be his natural way of being rather than something he felt was mandated to do because of being in the hospitality industry. Clearly, he is a good fit for this role and sets a tone for the hotel. We also spoke with Rahid when we were there.  He too was welcoming and anxious to please. Another staff member, whose name we unfortunately did not get, made a breakfast recommendation for us that was perfect for our needs.We stayed in one of the “family suites“. It was modern with fantastic day and night views of the surrounding tall buildings. Our suite had a kitchenette with cooking facilities. We used the microwave, sink and refrigerator but, did not use the cooktop or dishwasher. However, having these facilities available, is a handy option particularly with the St. Lawrence market being so close (a 10 or so minute walk) to bring back delicious food and eat it and/or cook it in the room. The room was meticulously clean. The bed was very comfortable. The room temperature was easy to adjust. Even though there were large windows and a balcony, we did not experience any draft in spite of the extremely cold temperatures outside. The water pressure was great and the bathroom was roomy with good lighting.While we did not use it on this occasion, we did check out the gym facilities for future reference. A full workout would have been possible with the equipment provided.The hotel is located in the financial district and feels very safe for people who might be hesitant to stay downtown in Toronto. There are lots of restaurants to eat in or take out that are nearby at price ranges to suit every budget.Check out was easy with the same hospitality that we had experienced throughout our stay. I have no trouble recommending this hotel and look forward to staying there again. Thank you to the staff and management for a wonderful stay.  We left with many happy memories.",
+      "rate": 5.0,
+      "tripDate": " January 2024"
+    },
+    {
+      "title": "Nice boutique feel. ",
+      "text": "Front desk check-in was simple and efficient had my room within 10 minutes (checked in at 3pm).  Hotel was clean and trendy not large so very nice boutique vibe.  I had pre booked a Signature suite via hotels.com with a kitchenette and living area and room recieved was exactly as booked. Clean, spacious and comfortable.  Kitchen was stocked with glassware and dishware as well as some pay per use beverages in the fridge (cans of beer, smaller liquor bottles and wine). There is a washer/dryer in the room nice for longer stays.  Large LG tv with good channels which is wall mounted but can be angled to the bed or living area or kitchenette. Closet had robes and slipper.  The one slight disadvantage was the balcony was not quite suitable for standing on as it was a sliding door with a railing right across it about 10\" in depth from door to railing.  But that was not a problem for me but may be for some.  All in all I would definately recommend and stay here again. Great location with many local amenities a walk away.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Cool vibe and delicious food",
+      "text": "I really appreciated the decor and the vibe. The restaurant was impressive. Great service! The location is idea for work and also for leisure. It is set just off Yonge which offers easy low stress arrivals and departure.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Mostly good, although weekend housekeeping needs work",
+      "text": "Staff were very friendly and responsive. We loved the room (although wondered why a place with a kitchenette had not one pot or cooking implement). Bed was pretty good. Daily breakfast offerings were fantastic. Friday housekeeping was great. Weekend cleaning was an issue. Saturday’s was late (we came back at 3 having been out most of the day) and our room was just being done. Since we were back the cleaner worked quickly - did the bathroom, changed some towels, and made the bed. Floor wasn’t done, but we didn’t make an issue of it. Went out Sunday just before lunch; came back at 3, saw the cleaner on the floor and went to the lobby to wait for him to finish. Came back up 25 mins later and found our room not done, despite the ‘service please’ sign left on our door. Concierge did send someone up right away who changed the towels, cleaned bath and made the bed, although floor still not done (salt stains and grit from previous day still there). Coffee table & desk had finger prints so I cleaned them myself. Bedding not changed; we didn’t mind, although the card by the bed states that bedding was to be changed on third night of stay (it was our third night). There are some great things about this hotel, although the weekend cleaning (schedule or staff, cannot say which) does need work.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Almost perfect",
+      "text": "Location cannot be beat. Period. The people working there are all so professional, courteous and friendly, from the front desk to the service people you bump into in the halls. The setup of the rooms are perfect, with everything you need, including a kitchenette to cut costs. Everything seems recently refreshed in terms of upkeep. Stylish without being fussy about it. I booked at the last minute, through HotelTonight. Got a great price. When I was there, they had a promo so I also got an amazing deal on their breakfast buffet, which features a wide range of options, hot and cold. The gym is small but has everything you need, in good repair  (including a Peleton, which I didn't use, but was surprised to see). There is free use of a jacuzzi pool in their spa (which you have to book ahead of time) but no pool. When I was there, they were about to begin their Winterlicious offerings of prix fixe lunch and dinner menus at a reduced price at their in-house restaurant, Viv. The food looked very good. They were very attentive and made sure you had everything you need, even suggesting things that might make your stay, or your foray into the city, better. The absolutely only downside of this stay was that some nearby building was doing some renovation and, unbelievably, was doing some of that renovation in the middle of the night. That has to be against the law. I was up quite high in the building. You can't hear it from the lower levels, apparently, but up high, there are a lot of equivalently tall buildings  creating sound canyons that reflect and amplify every noise. So every truck that is backing up, every I beam that is being dropped into place, every yell from a worker or fire engine siren reverberates through these spaces and makes it very hard to have an undisturbed night's sleep. But, in truth, that's not the hotel's fault. They really did a great job of creating a terrific oasis in a remarkably handy corner of a fantastic, and fantastically interesting, city.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "false advertising regarding room features",
+      "text": "After doing my research on the different hotels in the area I came across this one. As we wanted a quiet night in I read on their website that:\"Every room also comes with a modern 55” Flatscreen LED TV that allows you to cast your own media from any mobile device\". When I called the front desk I was told that this hotel doesn't have that feature and they would have to call their marketing team to get that description removed from their website. As of this review, it is still up. Not to mention, all the TV's are locked down with tamper proof hardware so no one is able to utilize the TV's in the room except for basic low res cable. I'm disappointed at the blatant false advertising and it's no wonder why people are more inclined to booking Airbnbs that don't try to limit their customers.",
+      "rate": 2.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Poor Service",
+      "text": "We arrived at the hotel shortly after midnight due to delays in our flights that day. We arrived to what appeared to be a very annoyed front desk manager who didn't even acknowledge me when I walked up. After I said hello he told me that the other person would help me. Neither of them were friendly, and we did not feel welcome at all. They did not explain the parking, and coldly told me the that it would be $50 when I asked how it worked. We were satisfied with the cleanliness of the second room that we were given however the first room was not made up or ready for us, and we had to transfer rooms. We were \"upgraded\" to a room with a pullout couch because of this transfer, however, we only had two people staying in our room and did not require a pull out couch so did not feel it was a real upgrade.Overall, I would recommend one of the other nearby hotels over this one strictly due to the staff experience.",
+      "rate": 2.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "New Year’s Eve stay",
+      "text": "Given it was New Year’s Eve we were expecting it to be very busy and loud but it was the complete opposite. There was a bit of noise from a room on our floor but it didn’t last long so it really wasn’t a big deal. Our stay was ok... the location is great although the hotel is tucked away on a tiny side street which isn’t necessarily a bad thing unless you want a view from your window. Views are basically nonexistent unless I assume you’re in a very high floor. If not you’re either looking at a wall or an ally with some garbage bins. I’ve stayed at the hotel quite a few times over the years and can’t ever remember having any sort of view. It’s not an issue for me since I live just outside the city but a tourist may not look at it the same way. Room service wasn’t cheap but surprisingly very good. The rooms are a good size with have a kitchenette which is nice but they do look a bit tired so they could use a bit of a refresh. Beds are small and not the most comfortable but not the worst either. Overall I think hotel is good for someone looking for a value hotel stay in Toronto but there are also a lot of other options to choose from.",
+      "rate": 4.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Wet fresh towels",
+      "text": "Getu and Liam front desk staff very friendly. Could not ask for kinder treatment from them. The housekeeping team kinda sucks sadly. As they're not doing daily room cleaning due to COVID, I asked for new towels. Someone brought be some new ones however, upon realizing they were wet I went back to the hall stopped and asked him why they were wet. \"There's nothing wrong with them he replied,\" and walked off. Do they not have dryers? You cannot gives guests half dried towels. I has a suite, yet it was not equipped with pots pans plates etc. When I called asking for a kettle, knife forks etc. they explained that they had removed those items in order to properly sanitize them. Fine to remove them but put them back. I had to call down so many times and continually ask for things. They also do not have kitchen paper towel. I used kleenex and bathroom towels as kitchen towels. I suspect my room was not properly cleaned/wiped either- saw strands of hair from previous guest. By the way it can be quite noisy as its in the heart of downtown and they do really loud street cleaning at night- be mindful of this. Opt for higher floor to avoid loud street noise. Finally, I saw what seems to be a dried blood stain on blanket (see photo). Overall, I was not impressed by housekeeping.",
+      "rate": 3.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Very Attentive",
+      "text": "Although the room was dated and unimpressive, it was some what comfortable. The location was very central down town Toronto and close to all transportation options, including walking distances to major entertainment attractions. The staff was very help and attentive and responded quickly to all of our needs. Especially Mr Demetrios who quickly arranged a executive cap to the airport first thing in the very early hours of the morning. Thank you Demetrios. Also our package included a very nice continental breakfast in the restaurant / lounge right on the main floor of the hotel. This would be a reasonable place for a short business stay in Toronto.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Very quaint and professional hotel",
+      "text": "First time here and was very impressed. I will be back. Just off of Young street tucked away down a small lane way. Very quiet and staff were all very professional and made me feel at home. The valet parking was also handy but didn’t have to use it.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Long term stay - excellent",
+      "text": "We rented a room in the hotel for a long term stay of  month and was extremely  happy with aspects of the stay.  The room was large, bright and well appointment with modern furnishings.  The staff at the front desk were extremely helpful and always attentive.  The hotel is in a superb location, very safe and close to all that downtown has to offer.",
+      "rate": 5.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "I highly recommend this hotel",
+      "text": "My experience was absolutely perfect. From the moment you make a reservation to the the moment you check-out , their goal is to make everything as comfortable and seamless for you. The location is undeniably the greatest for all amenities Toronto has to offer , but yet the hotel is quiet enough you forget that you are in the city center.The room itself was extremely clean and had all you would need for great stay.The staff was very professional , courteous, and sure to make it known they were available 24/7.",
+      "rate": 5.0,
+      "tripDate": " January 2024"
+    },
+    {
+      "title": "Uncomfortable bed, pictures don't reflect true state of this place",
+      "text": "Very uncomfortable stay. This hotel is rundown - don't be fooled by the pictures! The bed mattress was uneven, bedsheets were itchy and the pillows felt like sleeping on bricks - very uncomfortable. Walls are very thin too!Views were looking into an office building and then an adjacent room and balcony (we were on level 20). Room service is only upon request before 6pm the day prior. Only plus is the location. Other than this, I don't recommend staying here, unless you want to punish yourself.",
+      "rate": 1.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Great Hotel",
+      "text": "The hotel was very clean.  The staff was very helpful.  The continental breakfast buffet was very good.  We had dinner at the hotel which was delicious.  The hotel is within walking distance to Meridian Hall which was the reason for our stay as we were going to a concert there.  Would definitely stay there again!",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Price is not matching service",
+      "text": "Here are some points I was disapointed about : Dirty towelsRoom maintenance service was poor. They didn't fix my sheets and change my towels on 2 out of 6 days. The view was nothing near a city view.Price was not matching service",
+      "rate": 3.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Doesn't Quite Live up to the Photos",
+      "text": "The photos of this hotel are beautiful, and the rooms are well decorated for what the hotel is, but it's not  quite as elegant as the photos would lead you to believe.We were on the 18th floor, which appeared to be under some renovations. The hallway was half painted, there was a plastic bag cover flapping off the vent in the hall.  It looks like an old apartment building that was renovated to be a hotel - popcorn ceilings would indicate circa 1970's.  The rooms were ok, there were several nail pops and marks in the plaster.  The \"balcony\" overlooked a garbage dumpster and the sides of some office buildings.There was a large TV in the studio, but the content was all stretched from a full screen input to widescreen, so it all looked pretty odd.The shower was nice, but the faucet was leaking consistently, had to keep the door closed to avoid being kept awake by the constant drip.Overall it was fine, but given the option on another site for the Hyatt Regency for the same last minute price, it wasn't the best value.",
+      "rate": 2.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "What a wonderful hotel- staff were truly truly incredible!",
+      "text": "Last month I had the absolute pleasure of staying in this wonderful hotel. We arrived quite late because our drive was from Northern eastern Pennsylvania. We only stayed for the one night and had planned to spend the day in Toronto and then return home. Particularly the staff that had greeted us in the morning were absolutely wonderful. By far the best hotel staff I’d had the pleasure of meeting with. The staff very kindly allowed us to leave our bags with them and even watched our car for a few hours longer so we could have our day in Toronto. All the praise is deserved to these staff members!! ♥️ The hotel itself was extremely clean and comfortable. Our room was huge! The staff tried to give us a room with a view and they did not disappoint! I’ve included two panorama shots that I took from the balcony- one at night, one in the morning. It was amazing to watch the skyline that night as neither of us had ever been to Toronto before (I myself had come from England to the US). The room even included a laundry area! We had previously stayed at a Executive Hotel in New York City and was equally as impressed by the hotel quality and service. I would recommend this hotel infinitely - easily one of my best experiences at a hotel. Thank you for such a lovely introduction to Canada. We will absolutely be back to stay again. Amy & Israel :)",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Lovely Accommodations",
+      "text": "The Executive Cosmopolitan staff were lovely and very kind. The room was clean, and perfect for any type of getaway - whether you’re staying overnight, or for an extended period - they’re spacious, and have a kitchenette for those who are looking to avoid eating out for every meal. The hotel also has great amenities and it’s in a great location. Definitely recommended!",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Overall, A Great Experience",
+      "text": "Spacious one bedroom suite with a kitchenette at a good rate.  Loved the the Kuerig coffee machine.  Very stylish.  The staff were amazingly friendly.  I only gave a 4 instead of a 5 based on my wishes for creamers for the coffee, that the restaurant was open,  the patio was bigger and that 2 bed rooms were available rather than one bed and a sofa bed.  Otherwise,  the good far outweighed my wishes.",
+      "rate": 4.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Comfortable, modern and welcoming",
+      "text": "Spacious modern well equipped rooms/studios.  The staff were exceptionally gracious and warm, from the restaurant manager to the lovely housekeeping staff who greet you warmly in the hallways. The breakfast is quite delicious: not the standard overcooked scrambled eggs! A buffet of cheeses/Brie, warm croissants, meats ... very impressed!",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Stay away",
+      "text": "Honestly this was a pretty bad night out arrived at 11pm on Valentine’s Day. After being in the room 15 minutes turned on tv and it didn’t work I called the front desk and manager said nobody was available for maintenance at this time I said okay. Then afterwards no water in the mini fridge so I went down to main lobby to buy some and the manager said they have no bottled water to buy or give and to walk to 7 eleven at midnight which was ridiculous. Went to bed and woke up at 4 am freezing the room heating was not working. Didn’t sleep afterward told the manager at the front desk after and received a 30 dollar credit would never recommend or return",
+      "rate": 2.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "Amazing place!",
+      "text": "+ Located in the city centre; you can walk around easily; it is near the train station to go to the airport or anywhere. + It has a kitchen with all the essential utensils, soap, bags and a Nespresso machine with capsules. There is also a washing machine and a drier. There were two televisions, one in the bedroom and another one in the kitche-living room. The bathroom was fine. + We booked a cot for our baby, which was already in the room when we arrived. +There is also a bar-restaurant on the floor. +The people at the front desk were really friendly and helpful.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Very convenient and comfortable",
+      "text": "We stayed for 3 nights and everything was splendid. The staff is very nice and helpful, the location is very central and convenient and the amenities are very comfortable. The rooms are like little houses, very well equipped with kitchen, cutlery, washers and drier and everything you may need. I definitely recommend and would stay again when in Toronto.",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "An Awesome Hotel to Spend a Weekend at",
+      "text": "Fantastic hotel for experiencing downtown Toronto extremely close to the PATH system, we didn't need a coat to get to the PATH. Breakfast was more than we expected. We used the jacuzzi tub in the spa which was a very nice bonus to relax in after a day of exploring the Hockey Hall of Fame",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Rude Staff",
+      "text": "I recently stayed three nights here with three of my friends to ring in the new year in Toronto. The hotel itself was beautiful and clean and the room fit our needs perfectly. However, the staff, particularly the valet and front desk, were extremely rude and condescending. I was disgusted when I left that a paying customer could be treated with such disrespect. I was not comfortable being around any staff and felt as if they were annoyed by our presence and instead of a paying customer I felt more like an inconvenience.If you are seeking a hotel that makes you feel welcome and comfortable during your stay, this is not the place.",
+      "rate": 2.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Perfect location to enjoy a night in Toronto",
+      "text": "We chose to stay at The Executive Cosmopolitan Hotel for its convenient location to take part in  Winterlicious. We were very impressed with the seemless check in and valet parking ( we felt 45$ was reasonable as it afforded us the luxury of not having to find parking , walk and also have peace of mind that our vehicle was secure.) We were assured all we needed to do was request access to our car and it would be accomodated. There was no wait and staff were very friendly and courteous.  We took advantage of the complimentary 45 min relaxation/ spa room and thoroughly enjoyed being pampered by Jacquie, who made sure we didn't even have to move of the huge jacuzzi to refresh the jet timer! The facilities are immaculate, fresh towels.. sauna already prepped and heated , complimentary herbal tea and water. We had the whole place to ourselves:) Jacquie spent time with us and made recommendations for exploring restaurants in the area.My husband ordered a drink in- room.pre dinner..which was delivered promptly by Greg from The Wildfire Steakhouse. He also made great conversation and reassured us we would not be dissappointed in choosing this restaurant's winterlicious menu. The Steakhouse is easily accessed from the hotel lobby. The food was absolutely scrumptious.We enjoyed the easy walk to Piano Piano for after dinner drinks..as well as live music and dancing at the Irish pub  PJ O' Brian's. The room was clean. Kitchenette and separate bathroom w shower. Very clean and beautiful view of the neighboring architecure.Checkout was again seemless. Unfortunately there was no complimentary breakfast available.",
+      "rate": 5.0,
+      "tripDate": " February 2024"
+    },
+    {
+      "title": "I would try this hotel again for sure, a bit pricey but very nice, more like an apartment than a hotel. ",
+      "text": "The front counter staff very nice, i was not able to use the flexipass, so was given a room upgrade. the balcony was small and just overlooked other buildings, but but gave great light and there is a privacy screen. The bathroom looks great and the bedroom small but comfortable for one person. There's a  keurig in the  room as well as a mini fridge freezer microwave large screen tv and a smaller one in the bedroom. My room is near the cleaners cupboard so a bit noisy... Louisa and Nasreem were very welcoming at the front desk. I was unable to use the QR code unfortunately it woukd not open the link.",
+      "rate": 5.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "bring your own dinner",
+      "text": "This hotel was perfectly adequate, and room had a kitchen, laundry etc; staff were helpful especially Rafi (sp?) with my bags. But the restaurant was closed for Sunday and Monday when I arrived (because nobody eats then)?  The rather indifferent guy at the front desk told me there were lots of restaurants 'over that way' but in fact the few accessible through construction debris were all closed. I walked for almost an hour on dark gloomy streets near Yonge Street  (as a lone woman) asking people and other hotels (which were much more helpful) where to find a restaurant, but finally could find only one Japanese place (yay but it was jammed full) and a sports bar open. And that was just by accident. My point here is that if you are going to close your restaurant for heaven's sake have the decency to do some research so you can accurately advise guests as to alternatives.  Won't stay here again in this sketchy area.",
+      "rate": 3.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Not at all what I expected. Misleading online representation, poor quality \"hotel\".",
+      "text": "I booked this hotel for a work trip and based my choice on the online photos and reviews expecting a lot from this hotel. My friend and I walked in and immediately questioned everything we had been expecting from our stay. The staff barely acknowledged us when we walked in, it was dark with poor lighting and the signage was difficult for our uber driver to find. After we checked in and made our way to our rooms (my friend and I had separate rooms), we were immediately turned off as we walked into room 1. The room looks very much like low-income housing/a dorm room (we had Studio rooms). The bedding in my friend's room had stains and the room did not look like it had been actually cleaned. Both rooms had dust and dirt built up on the corners of the rooms and behind the headboard (I didn't really want to take my shoes off). Throw pillows had stains. The bed sits awkwardly with the headboard against a sliding door and the room is all floor to ceiling windows/sliding doors, making the bedroom extremely cold and no duvet was provided, only providing what I would describe as a couch throw blanket (the heat was turned off as well). All the bedroom furniture (both rooms) were in pretty rough shape and beaten up, it looked as if it had all been donated or bought second hand. After seeing the rooms, we spoke to the front desk and inquired about their cancellation policy, which luckily because we hadn't booked through a third-party website, we were able to check out the following day. The front desk staff simply shrugged and had no issues with us checking out after one day (instead of the 5 days we were supposed to be there), as if it was a common occurrence. After we left and had dinner, we returned to the hotel to call it a night and went to our rooms. My room had lights that flickered non-stop, and the shower door would not close. My blinds in my bedroom did not reach to the end of the window, and I was unable to even get dressed in my room without being on display for all the other facing windows to my room. My friend's room had a door which did not latch properly and constantly rattled, so it sounded like someone was attempting to enter the room all night. Also worth mentioning, you can hear anything and anyone in the hallways from your bed, which also did not help trying to sleep in this environment.All in all, I think this hotel would have been decent if I knew what I was walking into. It would be no more than a 2.5/ 3 star at BEST and should cost no more than 149 a night, and not the 329 before taxes. DO NOT trust the photos posted by the hotel. Other than its location, I would not recommend this hotel.",
+      "rate": 2.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "3.5 Last Min. Stay",
+      "text": "Booked this hotel very last minute for NYE. Rooms have an odd layout but Queen bed was comfortable really large tv with lots of channel. Appreciated the small kitchen but did not use except for refrigerator and microwave which worked fine. Balcony is a nice size but no view at all. The windows surrounding the entire bedroom were also something I could of done without as you don’t want all the people from all the surrounding building looking inside your entire room so kept the window shades down the entire stay. No place to really store luggage or clothing (only 3 really small size draws at the tiny desk). Best amenity was the use of the indoor jacuzzi at the spa on the 4th floor. Gym is super small but each time I visited I was the only person so it was okay but more than 4-5 people the gym would be uncomfortably small.I’ve stayed at better locations in the city and wouldn’t put this on the top of my list next time I’m in town.",
+      "rate": 3.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "A horrible, uncaring staff person, and windows that don't block any noise.",
+      "text": "Construction was being done in a building across the street - buzz-sawing and hammering all night long.  In desperation, I called the front desk at midnight to ask about noise bylaws.  The first person was sympathetic and said \"If we can find a room on the other side of the building, would you be willing to move?\"  Keep in mind for later in the story...a hotel representative is offering me another room.  I said yes because I desperately wanted to get sleep before the work meetings I had flown in for.  He said okay, I'll transfer you to reservations.  The reservations guy was HORRIBLE.  He found a room, but told me it would be a $40 upgrade.  I said I'm checking out in the morning, so I get no advantage from an upgraded room.  He said \"You're getting an upgrade, so you have to pay for it\".  I said \"Why, nobody else is going to check in tonight to that room at midnight, you're not losing money by moving me\"  He said, \"I have 13 people who say they are arriving tonight\".  I said, \"Yes, but you've already booked rooms for them.\"  He said, \"well, one of them might want to upgrade\"!!!!   I couldn't believe it.  The illogic of it was bad enough...but I think what really got me is you could tell he just didn't care.  Didn't care about my discomfort, didn't care about the customer.  To add insult to injury, on the way out in the morning the front desk clerk said \"We're sorry about the noise issue you experienced\".   Well, one of you wasn't too sorry at all.All the other reviews about this hotel's windows not blocking any sound are correct.",
+      "rate": 1.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Spa Zen Experience",
+      "text": "My daughter and I visited Spa Zen for a mother-daughter getaway.  Booked our spa package on Travelzoo.  Great value of $120 each for a 30 min facial, 30 minute massage then manicure (although we upgraded to a pedicure for just $15).  A little bubbly too!  Very relaxing massage and facial and thorough pedicure by Yamura.  Excellent customer service.  We will definitely go back!",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Everything you need",
+      "text": "I had occasion to stay at the Cosmopolitan again, after a long period of not travelling, for a business trip in recent weeks. I was there for five days, and some of my team also stayed there off and on during that time.As usual, the reservation process was seamless and the General Manager was very helpful in accommodating a special request upon booking.The staff is also extremely accommodating. Take a moment to get to know them - they are all kind and interesting folks who will do everything they can to help you. They are extremely professional and will match the energy you bring.The hotel is centrally located, very clean, well kept, very quiet (apart from the city noises no one can avoid) and having the amenities of a washer/dryer, stovetop, dishwasher, etc makes the trip even easier. The balconies made all the difference in the world, and helped us all feel less 'cooped' in. Despite the fact that I had innumerable zoom-type meetings, the wifi never failed me. The convenience of having a drop off table for UberEats. etc. orders in the lobby makes deliveries easy and safe. The beds are comfortable, and the shower water pressure is incredible.The staff at Wildfire (hotel restaurant) are very easygoing and accommodating and the food is great.I won't hesitate to stay there again - nor will I hesitate to recommend it to anyone.",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Stay vacation",
+      "text": "I was in Executive View Suite for 5 nights and it has everything as what you have in your apartment like kitchen, laundry and balcony. It made me feel like home as a independent person. The most bonus about the room is the view when I look out the window especially after wake up in the morning and night. The sun really brighten the whole room. On my first day, I was expecting the pot, pans, tablewares, cutlery and utensils but it was all empty because of COVID. I salute them for taking it seriously to protect the staffs and guests. It did made me feel extra comfortable in my stay. I did request to bring those in my room because I wanted to cook and they brought it no problem. They don't bring everything because they weren't sure what I need but they would bring it if I requested specifically. The staffs were very nice and professional. I felt very welcome. I'm hearing impaired and the front desk was willing to repeat it for me while she has mask on. As a hearing person while other person wearing mask don't mixed well together.I enjoy my stay overall and I will definitely come back.",
+      "rate": 5.0,
+      "tripDate": " September 2020"
+    },
+    {
+      "title": "Not even close to how it use to be…",
+      "text": "I threw a surprise birthday party with me and 3 daughters. We stepped out for dinner but the rain and traffic was bad. I called the hotel to let them know we might be 3 mins late for valet. The guest services desk stated I couldn’t park valet after paying $45 because the staff working will be done his shift at 12. I repeated that it would be a few minutes because they’re valet closes at midnight, for their guests who pay $45 for valet (I also offered to park it and didn’t really think that I would be refused a service I paid for). We weren’t able to eat anywhere so we ordered 5 star Asian fusion (175$) for take out and only had to wait 4 more minutes to get it. I tried to explain that to the front desk … and this was his response; “Are you asking me to keep that employee longer than his shift because he’s done at 12 and he needs to go home. You want me to go find him and tell him to wait for you and not send him home to his family?… he has a family at home waiting for him”. I said “no, I am not asking you to do that..how can I park valet otherwise at the hotel?” His response: “oh so you think you can park your car here at the hotel? No you can’t….. alright is there anything else I can do for you?” This call was approximately 2 minutes. I then asked if he happens to see the employee .. could he ask him and to let us know. He said if he sees him he will but he doubted he would because he couldn’t even see around now and suggested he’s getting ready to go home and probably in the locker room. I said ok. Got off the phone and my daughter called back and asked me said she would be there in 4 minutes and just ask the guy to hang around. We pull in and he sees my daughter (now 18) and he’s in his car outside the valet and off course he parked the car. The 2 front desk grown men gave us dirty looks the whole night when we left and came in about 3 times. I found the staff to be very rigid about rules with no exceptions, they did not accommodate our needs. The staff that night were also heard by my children making negative remarks about us as we walked by. It ruined our Saturday night mood after our plans fell apart and we were trying to make the best of it. I feel really awful and hurt but mostly embarrassed that my children heard every word that was said because I was on speaker from the car. They were really sad that someone treated me badly. We stayed in the whole night with our Pj’s watching tv. It was really hard to celebrate after that. It really doesn’t hurt to be kind. Why be rude and unprofessional? We will not be supporting The  Cosmopolitan Executive . Nothing executive about this.",
+      "rate": 2.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Memorable Stay",
+      "text": "When we arrived we were greeted by friendly staff who immediately guided us to some parking. The beds in the room were comfy, really enjoyed having a kitchen right in the room and the view from our balcony was breathtaking. I can’t remember the name of the gentleman who was working the evening of July 17th, however he was so helpful with directions and getting us set up with a different tv remote as our wasn’t able to set up the Xbox. Everyone working was so friendly and easy to talk to. The hotels safety features really make your stay feel more comfortable. I’d recommend this place to anyone who wants to stay in the heart of downtown as you can walk to dining, bars, attractions and just about everything else. We’ll be looking into staying here again.",
+      "rate": 5.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Not a great experience",
+      "text": "I got at least 5 texts and emails prior to arrival.  You're not my boyfriend.  Quit contacting me over the same stuff, especially AFTER I downloaded the app \"required\" for checking in and getting a digital key.I still had to check in at the front desk, but the nice man spent about 15 minutes trying to get the digital key to work, even though he'd already asked me how many (hard) keys I wanted.  After I'd been in the room for about an hour, I got another text saying that my digital key was ready.  I placed an order at the bar for a hamburger and fries.  All I asked for extra was mayo and ketchup and it took this guy about 10 mins to ring it up!  After he clicked and clicked and clicked, I finally asked him if he was typing a love letter or something.  It was a bit annoying, too that I couldn't charge it to my room.  Well, maybe weird is a better word.  I guess the restaurant isn't really part of the hotel, even though it's open next to the lobby.The room itself was very old-fashioned.  VERY much in need of an update.  This is downtown Toronto!  Not a roadside motor lodge from the 1970s.  I liked the separate kitchenette area, and very much appreciated the Keurig and the cold AC.  However, the AC blew on the shades and they rattled all night.  Again, not a big deal but it isn't what I expect for the amount I paid!  Also, the shutter needed about 4\" more to keep light out.  I definitely won't be staying here again.",
+      "rate": 3.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "A special thanks to Annu!",
+      "text": "I recently had the pleasure of staying at this hotel, and I must commend the housekeeping staff, particularly Annu who attended us during our stay. The attention to detail in maintaining the cleanliness of the room was truly outstanding. Every day, we returned to a well-organized space with the beds impeccably made, the bathroom sparkling, and even the smallest details were attended to. Thank you for making our family’s stay so comfortable and enjoyable.",
+      "rate": 4.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "Feels like home",
+      "text": "This hotel makes you feel like home. With a full kitchen and laundry in room, you can easily stay for a while. I stayed in the studio suite and it felt like a small one bedroom condo! Very comfortable. The rooms are very dry and you get a lot of static electricity, so be careful when you touch the door handles! No carpet made it feel fresh and clean. My only complaint was that the in-room Keurig did not work.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    }
+  ]
+}

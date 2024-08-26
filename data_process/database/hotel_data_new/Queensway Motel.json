@@ -1,0 +1,146 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Queensway Motel",
+    "url": "/Hotel_Review-g155019-d1472395-Reviews-Queensway_Motel-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "2.0",
+      "reviewCount": 20
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "638 The Queensway",
+      "addressLocality": "Toronto",
+      "postalCode": "M8Y 1K5",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9f/3f/58/queensway-motel.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Hot tub",
+    "Vending machine",
+    "Non-smoking hotel",
+    "24-hour front desk",
+    "Air conditioning",
+    "Refrigerator",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Worst . Stay . Ever!",
+      "text": "The most uncomfortable motel experience in my life, Queensway Motel is possibly the worst motel on earth!  The staff promised us working internet and a non-smoking room but neither was the case.  An ashtray was supplied for heaven's sake!  The TV was set on an adult channel when it was turned on, and the room was infested with mosquitoes and the like.  We chose this motel since its location wasn't too shabby (although it was located near a busy road), and it was one of the cheapest motels in Toronto. Overall, I would never recommend this motel to anyone and would never visit again!",
+      "rate": 1.0,
+      "tripDate": " August 2008"
+    },
+    {
+      "title": "A cardboard box would be more accommodating than this dump!",
+      "text": "I must have lost my mind the day I booked a reservation for this shame of a \"motel\". They make you pay up front before you are even allowed to see the rooms, which are absolutely disgusting. When you open the door, you are greeted with an overpowering smell of mouthwash and disinfectant which does nothing to cover up the fact that it's still dirty. The bathroom didn't look like anything had been washed off in ages and the shower looked like it needed to be replaced years ago. The air conditioning barely works, but most importantly: the window hardly opens! The room I had booked was on the 2nd floor, so if by chance there were a fire, I would have no way to jump out the window. I don't think a newborn could even fit through it. To add to that, there is also no labeled fire exit so again, you're likely in trouble if you were ever caught there if there was a fire. When I went to make a complaint to the front desk staff, the man working there was extremely rude and would not listen when I tried to voice my concerns. He told me I was not allowed a refund as per the \"policy\", which they also do not inform you of until after you have paid for. My boyfriend tried to tell him about the fire hazards and all he said was 'well, there's no fire so there's no problem here\". He argued that the room was perfectly clean when anyone else who were to look at it could clearly see otherwise. When I said I would not be staying at this dump, he laughed in my face. Now I am out 300$ because of this shady dump. Some reviews I had seen prior to this claimed the hotel was cleaning itself up but I certainly disagree. We left and went to a Comfort Inn, which was 1000x better. AVOID AVOID AVOID.",
+      "rate": 1.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Absolute trash",
+      "text": "STAY AWAY!!! We picked the hotel after driving hours and seeing it on the road, I was traveling with my wife and two year old. The room was absolute filth! My son found a syringe and needle in the drawer, thankfully we saw it before he could stick himself with god knows what kind of disease. I took it to the front desk and demanded my money net back, and despite having a needle in my hand, they said no refunds. There was gum on the bed, bathroom was dirty enough set my son's crib and didn't let him walk around out of fear of the disgusting room. The floor seem like it was done in house and had nails sticking out, the fridge smelled like it had a freon leak so we unplugged it. We then learn the hotel offers hourly rates, it's a crap hooker hotel, there was activity going on outside as well as the rooms all night. We even found an used condom outside our door by the parking spaces.  We spent a very uncomfortable night, and couldn't wait to leave in the morning. STAY AWAY!",
+      "rate": 1.0,
+      "tripDate": " November 2016"
+    },
+    {
+      "title": "The Queensway Motel",
+      "text": "Avoid this place like the plague! Dirty, smelly, cigarette burns on furniture & toilet seat & no hair dryer! Disgusting. We left & got no refund for unused day. What more can I say about this terrible place?",
+      "rate": 1.0,
+      "tripDate": " September 2018"
+    },
+    {
+      "title": "Worst hotel EVER! Do not stay here!!!! Prositiutes and johns!!!",
+      "text": "Horrible!  Blood stains on the mattresses! Cigarette burns in sheets....u have have to give a deposit on top of the $100 A night rate?!? What? I had a bad feeling when we pulled the the parking lot and I saw what looked like a drug deal happening by a dumpster in the parking lot at 2 pm in the after noon!The lobby is disgusting, looks like they don't own a vacuum! They showed us 3 rooms that were \"just remodeled \" no way! The mattresses all had stains,Sheets were stained and burnt by cigarettes or what ever....the furniture in the rooms is all damaged.  Used ash trays... in non smoking rooms...the rooms all reeked of smoke...the last room they tried to give us smelled like they spayed a whole can of air freshener too cover up the smell of smoke!They refused too give back the money....we are fighting with Amex too get a refund...While we were trying  to our money back and older couple, who also checked in when we did. Came down to Get their money back because their room was a horror story also....they told them too bad ...no refunds and they paid cash..So they had no way too fight it...I felt bad for them! Nothing like ripping people off!While we're were literally having a yelling match with the owner...a \"couple\" checked in... we are from NYC.... and she definitely looked like she was \"working\" .  they didn't even flinch when I said too them the rooms are disgusting....just check in and went on their merry way! Also found some joints in the parking lot.",
+      "rate": 1.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "SMOKING ROOMS!",
+      "text": "This is a clean motel with old furnishings, new flat screen tvsCurrently doing some renovationsThere are smoking roomsOne room has a jacuzziYou can call to have food delivered to your suiteGreat ice cream and burger shop next door (only open during the summer)Great chinese restaurant and polish restaurant near by.Only convenience store around for munchies, drinks, cigarettes and morning coffee is the gas station not even 10 minutes away",
+      "rate": 3.0,
+      "tripDate": " February 2016"
+    },
+    {
+      "title": "Bad bad bad avoid!!!",
+      "text": "Quick rundown:  The sheets were stained as were the pillowcases. The comforter was stained and had long hairs on it. The bathroom vent was covered with dust bunnies. The room was  anything but soundproof so one could hear the sound of high heels coming and going from adjacent rooms through all hours of the night and into the early morning. There was strange cars coming and going at all hours, creeping three feet at a time in circles, feet from the window. I was so hopeful my car will still be there in the morning.  This hotel is rundown, filthy, and possesses not one redeeming quality. I wanted to drive home at three in the morning after enduring hours of noise and filth.",
+      "rate": 1.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Awful",
+      "text": "Do not stay at this motel.  It was dirty and towels were dirty. Price was $75.00 and I should have know by the price.  Stay away from this place. Not even a level one star. This was not a place to stay.",
+      "rate": 1.0,
+      "tripDate": " July 2014"
+    },
+    {
+      "title": "Great cheap place.",
+      "text": "I was looking for a bed to stay in for a good price. Nothing bad about this place. Everything was clean. Nice staff. Obviously not a high end place but if you're just looking for a cheap bed this is great.",
+      "rate": 5.0,
+      "tripDate": " July 2015"
+    },
+    {
+      "title": "Disgusting!!",
+      "text": "The motel was 85$ and near the hospital my daughter was at. The rooms are nothing like advertised on their site. Mattresses were ripped and stained, everything was dirty and reaked of cigarette.  Sheets were burnt and there was grass in the bed. Awful place!  After being told \"no refund policy\" i did have him call the manager and got a full refund.",
+      "rate": 1.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "good quality service",
+      "text": "i was really impressed by the way the motel is set up.....Lcd t.v, fridge, microwave in the room and also free coffee.The room are really neat and clean with clean sheets and towels.there is no noice or disturbance during night time......had a very good experience......hope to visit again.",
+      "rate": 5.0,
+      "tripDate": " April 2013"
+    },
+    {
+      "title": "Great Motel !!!",
+      "text": "I stayed at the Queensway Motel in Toronto for 2 nights and I must say that the staff was very friendly and helpful. The staff has the best customer care in that surrounding area. They are very respectful, and were responsive to all my needs and concerns. The location of the motel is also convenient for me. I think the prices for the rooms were very affordable and the rooms were in great condition with furniture and up-to-date facilities.Loved my stay !!!!!!! will be visiting very soon",
+      "rate": 5.0,
+      "tripDate": " March 2013"
+    },
+    {
+      "title": "Worst experience",
+      "text": "The worst experience ever ……. Don’t ever go … and check the uploaded photo …… The place is not suitable for sleeping... The bed is broken... The rooms are not clean... The covers are dirty... The smell of smoking everywhere... Drinking water or soap is available...",
+      "rate": 1.0,
+      "tripDate": " April 2023"
+    },
+    {
+      "title": "Close to home with homing neighbours",
+      "text": "I've stayed here several times over this past year on reccomondation through a close friend/  business partner,  I feel like their theme was understated and almost felt regurgitated on the patron, with words and sentences either real time or taped making the patron maybe perhaps do an action or feel an inuendo was true ; when only becoming real through their reaction to the words heard....You can also receive a room without such a treat...whereas it is just a relaxing room to unwind and sleep..( my kind of fantasy)Price is a little high and like all hotels make sure you are billed properly and not double billed.Overall,. Not bad...I'm indifferent, I think the neighbourhood and people had me coming back, knowing alot of the society in the neighbourhood...made me feel like I was home sort of.Know what your quality that your residing in even if the neighbourhood feels familiar.K.T. Sly💋",
+      "rate": 3.0,
+      "tripDate": " May 2021"
+    },
+    {
+      "title": "Where to start",
+      "text": "Filthy, old, sketchy, filthy, walls creak, can hear people walking up stairs like the roof is gonna cave, walls super thin no sound deadening, smells awful, bathroom cabinets broken, wire hanging from all, trim missing, paint falling off the walls. Don't stay!!",
+      "rate": 1.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Do NOT go here",
+      "text": "This motel is absolutely disgusting. There's hair everywhere on the bed sheets and in the showers. The wall paper is torn and there's many wholes in the wall. You can hear everything that goes on in the motel. The whole motel smells of smoke (cigarette and weed). Nothing is clean at all. The hotel staff are okay, sometimes rude and sometimes nice. The only thing I like about this hotel is the area. It's close to many restaurants and the movie theatres. I also like how they can charge you for certain hours staying there instead of one whole night. It's convenient when you have a flight and need somewhere to stay for a couple hours. But all in all, I will never stay at this hotel again.",
+      "rate": 1.0,
+      "tripDate": " July 2015"
+    },
+    {
+      "title": "dirty and over priced",
+      "text": "Washroom had tiles missing, waiting for things to crawl out, centre was clean but the corners were caked with dirt, box spring was stained, pillows were brick hard TV was ancient. Room so small just enough room to get between bed and TV.   Definitely over priced.",
+      "rate": 1.0,
+      "tripDate": " December 2013"
+    },
+    {
+      "title": "best affordable place near downtown",
+      "text": "When i went to the Queensway motel, i looked at it and it didnt really seem all that decent. When i went in, it looked really beautiful and when i asked for the rate, it was affordable. The rooms looked very nice and clean and i had a very good experience at the motel. I would recommend this to anyone who wants an affordable rate near downtown and the airport.",
+      "rate": 4.0,
+      "tripDate": " April 2013"
+    }
+  ]
+}

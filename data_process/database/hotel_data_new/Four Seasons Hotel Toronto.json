@@ -1,0 +1,331 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Four Seasons Hotel Toronto",
+    "url": "/Hotel_Review-g155019-d155564-Reviews-Four_Seasons_Hotel_Toronto-Toronto_Ontario.html",
+    "priceRange": "$$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 3112
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "60 Yorkville Avenue",
+      "addressLocality": "Toronto",
+      "postalCode": "M4W 0A4",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/23/25/b7/four-seasons-hotel-toronto.jpg?w=500&h=-1&s=1"
+  },
+  "description": "A warm welcome framed by spacious, modern design awaits you in the heart of Toronto's historic Yorkville neighbourhood. Enjoy authentic French cuisine paired with one of our 350 wine labels at Café Boulud, and specialty craft cocktails at our spirited lobby lounge and bar. Enjoy the serenity of our Forbes Travel Guide Five-Star rated Spa, or step out and explore the vibrant character of Toronto's most glamorous shopping and restaurant district.",
+  "featues": [
+    "Paid private parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Bar / lounge",
+    "Bicycle rental",
+    "Babysitting",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Parking",
+    "Wifi",
+    "Fitness / spa locker rooms",
+    "Sauna",
+    "Hot tub",
+    "Indoor pool",
+    "Heated pool",
+    "Restaurant",
+    "Breakfast available",
+    "Breakfast in the room",
+    "Special diet menus",
+    "Airport transportation",
+    "Car hire",
+    "Taxi service",
+    "Business Center with Internet Access",
+    "Conference facilities",
+    "Banquet room",
+    "Meeting rooms",
+    "Spa",
+    "Couples massage",
+    "Facial treatments",
+    "Full body massage",
+    "Massage",
+    "24-hour security",
+    "Baggage storage",
+    "Concierge",
+    "Currency exchange",
+    "Newspaper",
+    "Non-smoking hotel",
+    "ATM on site",
+    "Butler service",
+    "Doorperson",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Dry cleaning",
+    "Laundry service",
+    "Ironing service",
+    "Shoeshine",
+    "Allergy-free room",
+    "Air conditioning",
+    "Additional bathroom",
+    "Fireplace",
+    "Housekeeping",
+    "Minibar",
+    "Refrigerator",
+    "Flatscreen TV",
+    "Room service",
+    "Safe",
+    "Iron",
+    "Laptop safe",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Excellent stay",
+      "text": "Four Seasons Hotel in Toronto is located in the heart of Yorkville, an upscale shopping, dining area downtown. We had an excellent dinner at Cafe Boulud, the main dining room. There’s also a busy street level bar. Our modern room was large and had a very comfortable king size bed. Bathroom was also large with a soaker tub and separate shower. The hotel was very quiet considering it’s location near heavily travelled streets. Room service was excellent and our order was delivered very quickly. Hotel staff are friendly and obliging. We visited the spa and pool area, which are very upscale. The change rooms have lockers and toiletries so you don’t need to travel through the hotel in your workout clothes or swimsuit. This hotel meets all the expectations we had for Four Seasons and we had a great stay.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "best service every received in my lifetime",
+      "text": "I have never experienced such an amazing, customized and friendly service like did during my most recent stay at FS Toronto.i took an Uber from the airport and Jean Baptiste Melet (spell?) opened the door and greeted me by my name. even if he had seen my photo, how can he memorize and remember me instantly when open the car door??? never seen before and what an amazing welcome.  the rooms are fantastic, housekeeping and turn down service was very attentive and before i had to ask for something it was already there. 6 star service. FS chat works amazing, i had not to wait once for more than 30 seconds to receive a friendly and efficent answer. its so easy to communicate!Rachel from Concierge was very helpful and so friendly and the Hotel should be proud to have her on the team, amazing attitude and always with a beautiful smile.drinks at D Bar were great and reasonable priced given the venue and location. over all the best urban stay ever and I cant wait to get back. i had issues with my credit card and upon check out the front office agents (i wish i could remember the names) offered to use his Uber account to get transportation. and then he got me a special rate with the taxi as i had only little cash. where in the world do people do this anymore?Thank you Four Seasons Toronto",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Staff like no other property in North America",
+      "text": "Full disclosure. I spent over 100 nights a year in this property for the past two years, so I'm not exactly an average guest. That said, I think I know the place pretty well, and can truly say I've experienced every aspect of the property.The hotel itself is situated in what I consider the absolute ideal spot in Toronto. Yorkville is close enough to downtown that it's a quick Uber, but the dining and shopping in the area is far better than downtown. Of course, you don't need to leave the hotel for great dining, with Cafe Boulud on site, and the DBar for lighter meals/drinks. Both are amazing. The hotel itself is like other 5 star properties - luxurious and well appointed. The spa/pool/fitness area are amazing and well worth a visit.But what really sets this property apart for me is the staff. From the moment I arrived to when I left from my last trip, I've been treated like family, always with a smile and a personal greeting. I know this might not be everyone's experience, but it certainly was for my wife and I. I'm still amazed that when my wife showed up only for her second visit (unannounced), she was greeted by name when they opened her car door, and then again by a staff person on her way to the elevator. I know how that works, but it's still very impressive. I always say that all I really need when on the road is a clean room, a good bed, and a strong shower, but the reality is that staff like those at the FS Toronto make life on the road much more pleasant, and if you travel a lot, you know that's saying something.",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Misguided, self-important staff, 2 breaches of privacy, 3 failed requests, lack of responsiveness",
+      "text": "As someone having stayed many times at this hotel, as well as other comparable hotels, I am very disaapointed. Our suite, they acknowledged, was breached when the privacy sign was on and we were in the other room. Room service delivered major incomplete meal, then came back and breached our privacy a second time with the rest of the order. They were unable to arrange a time at the lounge, later said it was arranged, ut when we confirmed we'd attend it said it was no longer available till another time, so we cancelled. They acknowledged their fault and shelfully offered my wife half-off on laundry, which she turned down and told them just to focus more on service. So then they called us the next day offering another big concesion, a late checkout, which we didn't need. However, due to their gracious gesture, while I declined the late checkout I asked them to arranged a limo for early in the morning for my wife and me. So they truned me over to a concierge! Then, this person phoned, inquiring about out needs and I asked for an SUV limo given the amount of our baggage. They said they were on it and would call back momentarily. when I didn;t hear for over an hour I called them back and said if they were having trouble finding an SUV limo, then to get a sedan as long as it could accomodate the luggage. Again they said they were on it and would revert to me imminently. I asked them to come by the suite once done so I could tip them. Again I didn;t hear for over an hour. So I cancelled the limo, shared my views with the front desk manager conversant with the details, and asked her simply to make sure a taxicab is there when we need, which we will find out soon. Most disappointed.",
+      "rate": 1.0,
+      "tripDate": " June 2021"
+    },
+    {
+      "title": "Not luxury at all, don’t waste your money.",
+      "text": "For starters, I ordered several of dishes from their restaurant for 3 guests. Instead of bringing out several condiments they only gave me one bottle of ketchup for a meal that costed me $250.00... disappointing. The receptionists are very interrogating and lack luxury customer service that four seasons is supposed to value. For a front desk that has 3-4 people working you’d thought they would pick up your calls when you call from your room but no.. it would go straight to voice mail throughout the day. I wish I stayed at the hazelton or ritz Carlton instead, I truly regret staying at the four seasons especially for the 3 days I had booked it for. It’s not worth your money at all, I had asked them for extra toiletry for my boyfriend and I and they only gave us one bar of soap, one shampoo and one conditioner instead of a set. Theyre very stingy of bathroom replenishments. Never again!",
+      "rate": 1.0,
+      "tripDate": " February 2021"
+    },
+    {
+      "title": "Unremarkable in many ways",
+      "text": "This was my first stay at the Four Seasons and for whatever reason I always believed that the hotel chain was supposed to be first in class among luxury hotels. It may just be the case at the Four Seasons Toronto but the finishings (engineered wood floors, wallpaper, bathroom tiles, etc.) all felt cheap and akin to many new construction condo projects built within the last 10 years. The hotel did not really feel like it was a 5-star hotel and the service was average. When I called for housekeeping prior to leaving my room, the person who answered my call asked several times what I needed without providing clarification that 'housekeeping' is not specific enough to know that I needed the room to be serviced. I am not sure if the hotel keeps records of which rooms have been cleaned each day but I did not understand why the employee felt the need to ask 'what housekeeping do you need'.  Overall, mediocre finishings for a supposed 5-star hotel, less than impressive attitudes from the staff and above average room fares even when compared to other 5-star hotels in desirable locations means that I would need to heavily reconsider ever staying again at the Four Seasons especially when other options are readily available and also recognize brand loyalty.",
+      "rate": 3.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Property and service are fantastic",
+      "text": "The rooms are large and spacious.  They also balance perfectly being modern yet comfortable.  Bathrooms are particularly great (two sinks, big tub, etc.).  Our room was also wonderfully quiet, we could not hear any neighbors, and the bed was a dream of perfect comfort.Room service was consistently stellar.  This was everything we'd ever want in a hotel.  The only disappointment was food at brunch.  Prices were better than similar hotels in the US.",
+      "rate": 5.0,
+      "tripDate": " April 2019"
+    },
+    {
+      "title": "Outstanding Experience!",
+      "text": "After getting married at the Four Seasons Yorkville last year, I reached out to see if they could accommodate some special requests to relive the moment (or as close to in today's current conditions) on our 1st anniversary. I was connected with Connie (catering manager) who was extremely responsive, detail oriented, and accommodating to all of my requests. She was able to get me booked into the same room we had on our wedding night, accommodate my tight arrival timeline to accomplish a surprise for my wife, got us booked into the spa for massages, spoke to the chef for me to recreate our full wedding menu just for the two of us, and to truly put everything over the top... when we arrived our room was filled with framed pictures of us from our wedding date which simply put blew both of our minds and truly made us feel special. If that wasn't enough, we also had a hand written congratulations card and some desserts to share, along with some other gifts from friends of ours and our amazing wedding planner and florist which were set up perfectly with the rest of the surprises. Thank you so much Connie!! truly amazing and so thoughtful! I'd also like to say that the entire staff from the valet, front desk, spa, and room service also greeted us by name every time, treated us very respectfully and graciously, while also ensuring complete safety during COVID. The room and hotel was spotless with extra precautions taken for overall cleanliness and in no way were there any concerns. Great job FS team!!Would highly recommend staying here even without all of the amenities available right now, it was truly a great \"stay-cation\" and amazing time! Thanks for the whole team, but especially again to Connie for all of the thoughtful gestures and quick responses :)",
+      "rate": 5.0,
+      "tripDate": " January 2021"
+    },
+    {
+      "title": "Excellent birthday staycation at a five star hotel and award winning cafeboulud restaurant! Great stay and experience",
+      "text": "Excellent five star hotel and visit for bday staycation!I decided to visit Fourseasons Toronto hotel for my husband's birthday this week.Besides obvious reasons as this hotel is five star and have an award winning chef cafeboulud for French fine dining and casual fare Dbar as well it was a great staycation!  If you want a great experience and luxury facilities fitness centre and spa/pool with great dining experiences book the Fourseasons hotel!We arrived with a nice personalized in room amenity and for his official birthday a very nice dessert I ordered personalized with happy birthday on my husband's official birthday.Strong recommendation besides the beautiful hotel rooms, facilities, and dining the location is perfect walking distance to Yorkville, Bloor Yonge and Bay Street areas",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Perfect adult Staycation!!",
+      "text": "⭐️⭐️⭐️⭐️⭐️ Staycation destination. Our first staycation in our city, Toronto since the pandemic. We arrived on the first day of stage 3 in Ontario’s plan of reopening. Highly recommend  if you’re thinking of taking a much needed staycation (break from the kids) or hotel for out of towers. The hotel truly makes you  feel “away” from home in our case. 1. Hotel and staff have all been polite, welcoming and following all Heath and safety protocols. Keeping your Heath and safety is their priority. But also enjoyment top of mind. 2. Room 1614 premium King room ( west facing) had a great city view (Yorkville view), it was spacious and clean. A safety kit with mask and sanitizer is left for guest should they require it. Love this attention to detail. Lovely room. 3. Could9 restaurant on 9th floor has a north facing view. Construction site is directly across but you’re high enough to be able to see over and past this. Great for lunch with a view, then a swim in their indoor pool. Just wish there was more natural light in the pool area. 4. DBar patio has a good atmosphere at night for that late night cocktail and conversation. Overall. It’s pretty perfect and will come again.",
+      "rate": 5.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "What a disappointment ....",
+      "text": "I'm giving it 2 stars because it has a fantastic restaurant and a health center.Lodging + hospitality =0I stayed 4 nights at this flagship location from 7/31 to 8/4. Pre -arrival, I have requested to have toiletries in the room given I was packing light. When I checked in, there was nothing - along with a plate with cookies with someone's name on it. A little disturbing especially during COVID time... That night- we were woken up numerous time by other guests chitchatting and the \"Ding\" sound from the elevator. Same thing happened the 2nd night, so I requested for a room change. The only other room available was a room next to Downtown Toronto construction? Really? this is the best you can do? We were told to pack up and they will switch out rooms for us when we returned from site seeing. Needless to say... none of it took place and we went back to our old room and waited for an hour for someone to fetch us. We planned on exploring the health center, but we missed our window waiting for the staff to give us a new room. I was shown 0 hospitality and will not return again. I feel like a completely spending that much $ for 0 service.",
+      "rate": 2.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "A great place to stay",
+      "text": "A good experience, staffs are all extremely nice and passionate, the design of room is great. However, I hope the hotel could provide some travel bottle shower gel and shampoo that I can bring home for my other vacations. Also, the top floor is relatively low(21 floor), cannot really see any fancy city views.",
+      "rate": 4.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Best Service Ever!!",
+      "text": "I needed to send a gift back home that needed some extra personal love.  The team personally went out of their way to assist me in purchasing extra items to add to the Festive basket.  Ayleen and Deniz were outstanding!  They offered suggestions and kept me updated every step of the way.  During these difficult times, it's great to be able to connect to loved ones back home and it wouldn't have been possible without their thoughtful help.",
+      "rate": 5.0,
+      "tripDate": " December 2020"
+    },
+    {
+      "title": "an outstanding weekend in an outstanding hotel",
+      "text": "simply the best. The Four Seasons Toronto lives up to the Four Season reputation as the best hotel chain in the world. Impeccable rooms, very big, great bathrooms, excellent bed, clean carpets. Staff is VERY much up to Four Season standard and the concierge delivered a great performance too. Hands-down one of the best hotel experiences ever. At standard prices not cheap, one can expect good value for money. It is worth the buck if you are looking for outstanding hospitality.",
+      "rate": 5.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "A lovely customized experience",
+      "text": "You get what you pay for .... service and room were superb.  We felt they went the extra mile to make our stay memorable - everything from assuring we had a newspaper in the room to a welcoming glass of wine to front desk responsiveness",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Comfort in Style For a Couples Culinary Getaway",
+      "text": "We decided to stay at the Four Seasons because of its location and reputation.  We were not disappointed.  The room was comfortable and stylishly well appointed.  The food and service were great at both the Bar Lounge and the main dining room, Cafe Buloud.  In particular our servers Lucas @ D Bar Lounge and Shay @ Cafe Buloud looked after us very well.  The location was perfect as we could easily walk to all the places we wanted to go to during our 4 day Yorkville culinary adventure.",
+      "rate": 5.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Like Coming Home",
+      "text": "We travel home every year to Toronto to visit family and the city we love. Staying at the Four Seasons has been part of that tradition. As new hotels spring up we keep returning here because of the service and attention to detail, especially through COVID. We always get a spacious corner room that has ample space for an extra bed for our daughter. The food and drinks at both Cafe Boulud  and D|Bar are great and we always end up hosting family and friends throughout our stay.  The spa services are top notch, definitely worth a visit. During our visit, we always celebrate our daughter's birthday early and the hotel team always remembers and makes her feel special. It is this attention to detail that keeps us coming back.",
+      "rate": 4.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Exceptional experience!",
+      "text": "Honestly, we had the most incredible experience with our recent stay for a staycation for my son's birthday.  We were there to celebrate our 7yo son's birthday and from the moment we arrived, the staff were exceptional. The valet began joking with our kids, giving us water bottles and taking care of our bags seamlessly. Check in was easy and they rolled out gifts and a candy machine, which was a huge hit with our littles. In our room, there was a full dessert spread with birthday messages and gifts for both of our children. The pool is warm and beautiful and the kids didn't want to leave. We came back the next day with a cake, which we were going to leave in our car, but no, the valet noticed right away and offered to put it in the room service fridge, complete with a tag to have it brought out on our check out. Last stop was brunch at Cafe Bouloud, which was exceptional. We had the most wonderful 48 hour stay and will not hesitate to stay at the Four Seasons again and again for staycations in Toronto!",
+      "rate": 5.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Great staycation ... but missing that something extra that makes the FS the FS",
+      "text": "We decided to take our oldest son to FS to celebrate this birthday since he is a big fan of hotels. The hotel was fantastic and the accommodations and facilities are great, however, the one thing that was surprising was the inability of the hotel to accommodate my youngest son with his allergies. When we stayed at FS Maui, the kitchen staff was able to provide egg-free pancakes for breakfast but when we called Cafe Boulud they told us that would not be possible and our options were home fries for a 5-year-old with an egg allergy. This was odd just because of our amazing experience at the FS Maui and their ability to accommodate an egg allergy for a young child.  This is quite a common allergy and you would think the FS would be able to handle such a request. So what we did do is take the kids to McDonald's for breakfast and my wife and I grabbed brunch. It's something small, but also very surprising for a hotel like the FS to not be able to accommodate such a request especially since it was done in Maui.",
+      "rate": 4.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Wonderful Stay for our Culinary Adventure in the Big City",
+      "text": "We are foodies and love to spend a few days in Yorkville for a culinary adventure in the big city and the Four Seasons is the perfect location as our hub to do this.  Not only are there many great restaurants within walking distance, but the hotel itself offers DiBar and Cafe Boulud as culinary destinations.  We love the warm and inviting feeling of the hotel from the moment you arrive at the front door.  Checkin was great as we arrived early, before the standard check in time, to start our culinary vacation with a nice lunch so did not expect our room to be ready yet but it was.  As we have been there several times, the front desk recognized us a repeat clients, as did everyone in the hotel throughout our 4 night stay.  We upgraded to the Yorkville Premium room to get a nice view of the city from a higher floor.  This time the room contained an extra fridge which was a great bonus to store any leftovers from our culinary adventures, and there were some.  As usual the room was very comfortable and the housekeeping service was great.  We had lunch everyday in the DiBar, as well as afternoon cocktails and nightcaps.  Our server most of the time was June who was excellent.  Other Dibar staff (there were so many it is hard to keep track of all the names) were great too and even if they were not serving us directly, always stopped by our table to say “hi” and welcome us back.  We had dinner one night at Cafe Boulud and once again Shay was our server and immediately recognized us from our previous trips there.  He even remembered what we’ve had before and those occurrences were months ago (actually a year for one).  Even the gift shop person recognized us from our previous trip.  It was a very relaxing and enjoyable stay.  We’ll be back and in fact have already booked our next stay for our Spring Time culinary adventure in the big city.",
+      "rate": 5.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Bad Service and worse concierge",
+      "text": "In four seasons standard, Toronto one was below average. There is a construction area just near hotel, when we checked in and mentioned it to reception; reception staff provided an upgrade option for us, asking for 80CAD for higher level; we decided to pay and got a room be right faced to the construction and heard noise in the next morning. Eventually, we asked room switched next morning, they gave us a room quite far from the construction side. I don’t understand their arrangement, why they wanna make a try to test our sound sensitive? Moreover, we asked some information about CN tower, and concierge told us we don’t need to buy tickets in advanced and no line there. And then next day, we arrived CN tower about 2pm, and there was two hours line we should wait. I can’t believe this was the quality of four seasons concierge. We had to make reservation for CN tower’s restaurant on next day by ourselves, and wasted half hour walking in about 32F cold weather. I was so disappointed in the service of four seasons Toronto.",
+      "rate": 2.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Not coming back",
+      "text": "For a hotel of this stature we were very disappointed overall. There was a mix up at the front desk right off the bat when checking in where they got us mixed up with another couple. Gave us the wrong room, told us where the wrong wedding was and then sent out bags to another room. We had to wait almost two hours for our luggage that we could have just brought up ourselves...Then they charged us the wrong amount, rescinded it, called to ask for credit card details again so we could pay for our less than ideal experience and rub it in a little more. Then they send an email which they used the word 'refund' in however, when I asked they ignored it and said they had to charge me. Our room was just shy of $800 total which was HALF PRICE because of the wedding we attended. We 100% will not be coming back, very heartless staff who not only wouldn't offer a refund but not even a credit or anything of any nature but an emailed apology. I will say Stephanie at the front desk was very delightful and friendly.",
+      "rate": 1.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Nice location for upscale exploring",
+      "text": "I stayed at the 4 Seasons Toronto for a girls weekend to see SIX and it was a solid experience.  While further from the Theatre district, its location in Yorkville was lovely for strolling, shopping and dining.  The service at the hotel was exceptional, as many other reviewers have pointed out.  My main rating of 4 instead of 5 is based on the overall tired look of the hotel.  The lobby area was an uninviting maze of sterile corridors and wood panels and the rooms were tired.  At this high price point, I expected to be completely blown away and I wasn't.  Our two rooms were not available when we arrived, which is fine as we were there around lunch, but our matinee show made getting ready a bit rushed when we finally received the keys. The rooms were on the same floor but not connected, so we were constantly walking back and forth when getting ready and hanging out at the end of the night.  The breakfast was good but over priced at the Cafe Bouloud, and the lobby store did not have the 4 Seasons stuffed toy for purchase to bring home to kids.  While the staff were all wonderful to interact with, the hotel itself was underwhelming for the price point.",
+      "rate": 4.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Simply Excellent in every way",
+      "text": "The entire team at the hotel could not have done any more to make our stay better or more memorable. They went out of their way to be helpful, everyone was incredibly friendly, and they just couldn't have done any more. The room was fantastic, and all those little touches from the chamber maid team just made it that little more special, the concierge team just sorted anything you needed, and the front of house team were absolutely excellent. Throw in the amazing spa and you have a great combination!",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Amazing stay",
+      "text": "From the moment I called for a reservation until o departed , I was made to feel welcome . The staff were very kind, generous and professional. I asked for my laundry to be cleaned upon arrival including my favourite cashmere sweater which had holes in the elbows from moths . I asked that they try to repair it and the next day it came back with invisible mending- amazing! The food was delicious and the pool divine . The safety precautions for Covid -19 are superb. If Toronto is the second best city post pandemic according to the @BBC last week then @FSToronto is the best hotel in the world for a safe and a delightful post pandemic stay. Go now!",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "4 Seasons Toronto",
+      "text": "We have spent a great deal of time traveling this fall and service everywhere is generally way down due to shortages of staff after covid, but this is not the case with the 4 Seaons Toronto, possibly one of the most well run hotels I've ever come across.  Their health and cleanliness protocols are evident and they always do their very best to accomodate your needs.  A well earned 10/10",
+      "rate": 5.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "An exceptional stay",
+      "text": "From the moment we arrived we received a warm and friendly welcome. The hotel & service received was exquisite overall. Our suite was prepared in advance of arrival and we were welcomed with personalized amenities to recognize our anniversary celebration. Overall everyone we encountered from check in, concierge, dining and spa - was friendly and attentive to our needs. Personal touches and attention to details, plus an incredible view of the loveliest area of the city. I travel extensively -  The Four Seasons Hotel Toronto exceeded expectations. I highly recommend.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Excellent birthday celebrations",
+      "text": "Francis is always quick to greet me and remembers my name even when I am not staying there.  No different this stay where he gave me a warm welcome.  Abdul too remembered me from a stay quite a while ago and ensured to greet us warmly each time we returned to the hotel. Sonia at the gift shop is always so lovely, she was forthcoming as usual in assisting us with our purchases.  The Front office led by Umberto were so lovely in welcoming us and were quick to wish us \"happy birthday\"  and generously upgraded us to a suite.  Thank you to all who had a hand in giving us the first upgrade to the Premier rooms and consequently the upgrade to the  suite with connecting room.  Made the stay that much \"suiter\":) Thank you to the concierge who helped us in making reservations for patio dining at Blu. The food was delicious even though we chose to go on a very cold night.  And most of all thanks so much to Yolanne who is always so lovely and helped to set up the reservations even though she was off. Thank you for everything Yolanne, much appreciate it!",
+      "rate": 5.0,
+      "tripDate": " January 2022"
+    },
+    {
+      "title": "This property does not deliver the Four Seasons promise",
+      "text": "There always seems to be a problem at the Four Seasons in Toronto. The check in and check out is never smooth. We have been there three times in the past few months and our reservations never matched what we got (breakfast credit). The property is nice despite its 13 year age. Staff is generally nice. The food at the restaurant Cafe Boulud or at the D-bar on the main floor is forgettable. Probably the lousiest food of any Four Seasons we have been to recently. All in all, it's not the greatest hotel stay. At the prices they charge one would expect quasi-perfection. This property does not deliver.",
+      "rate": 3.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Excellent weekend at the Four Seasons Toronto!",
+      "text": "We had a wonderful stay at the Four Seasons Toronto.  We came up to celebrate my husbands birthday.  From the moment we arrived until we left, we were really impressed by the service.  Everyone working at the hotel was always incredibly quick to help us from holding the door to bringing up our bags.  We asked our bellhop for an extra phone charger and he delivered it to our room in less then 5 minutes.  That’s just a small example of how helpful the staff wants to be.  They take Covid very seriously up in Toronto and the hotel seemed to as well.  Everyone wore masks.  The pool and gym are open but they monitor the number of people in each which I appreciate.  Upon arrival we got upgraded to a bigger room which was a really nice touch.   The room was big, beautiful, and modern.   We definitely will be back to the FS Toronto and will recommend the hotel to others.",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Great Location",
+      "text": "We stayed in a one bedroom corner suite. The room was very quiet and the floor plan was really good. There’s a second bathroom in the main area with a shower, so you have two showers to use in the suite, making this a good choice if you’re sharing a room with your kids. The location is excellent with world class shopping and restaurants within minutes, you can walk to them. The streets are beautiful and safe. We took the yellow line 1 subway from Yonge/Bloor (a 4 minute walk) to Union Station. Then you’re right at Scotiabank Arena and Rogers Centre. So if you’re going there, it’s really easy to get to your concert or game. And I did not see a taxi stand after the concert, so unless you booked a ride, the subway is the way to go. The staff were great at the hotel. My only complaint is that the repair to the carpet in our room looked exactly like that, a repair, and isn’t good enough for an elite hotel. Also, our  room was very clean but not perfect, but the staff were quick to solve it.",
+      "rate": 4.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "The best place to stay While in Toronto",
+      "text": "We visited the Four Seasons Hotel while on a quick business trip and this place did not disappoint. We booked with Amex Travel a special deal that included breakfast and late check out and the front desk staff made sure to offer all what the package included. The rooms are spacious with a very modern feel to them. The service at breakfast and the lobby bar were impeccable. Don't look elsewhere when visiting Toronto.",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "We loved it!",
+      "text": "Stayed on a weekend for a girls weekend and we loved it! We booked 2 rooms and the team was able to get us an early check in for 1 room which helped a lot! I communicated with the hotel via the FS App prior to arriving and during my stay and they were very responsive.We went to the spa on day of arrival for 8 girls to have a treatment, Gabriella at the spa was very patient and also attentive to our needs. The spa at this hotel is huge and screams luxury! All of us had a great time with our treatments and spa experience. I also liked that they had a spacious lounge and that there was a separate waiting room area for those with appointments soon.The rooms were nice and had a bluetooth speaker and ipad in the room. The bath amenities were Le Labo and as with everything scented, it is based on personal preferences. It was not my favorite however.D Bar was really really busy on a Saturday night, we waited for 10 minutes to get in. Once we did, the bar was 3 rows deep and decided to leave. We did not dine at the hotel as we dined at the many restaursnts around Yorkville instead. I also like that this hotel is close to the newly opened Eataly!",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Perfect time at The Four Seasons Toronto.",
+      "text": "We had the most wonderful long weekend at the Four Seasons Toronto. Everything  was impeccable from a seamless late arrival check in at 9.30pm to a late 1pm checkout.Food from room service was, delicious  perfectly delivered ,always on time and at a good temperature.Using their messaging app for anything we needed was perfect, prompt and efficient. Really makes things so much easier.This was our first travel since COVID hit and it was truly a stress free pleasure. Thanks for all the care you took of us. We will be back in December.",
+      "rate": 5.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "Four Season staff makes the difference",
+      "text": "Rooms are always cleaned , world class , first class service . I stayed in Four Seasons for Canada Thanksgiving , Oct 10 , the rooms are always refreshed , every one always greets you with a smile . Their concierge Harry made it possible for me to throw a surprise for my friend who stayed in Four Seasons the week after . Gary ensured all the amenities are placed in the room for the surprise . I will always stay in Four seasons no matter which region or location! Highly recommended !",
+      "rate": 5.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Another Amazing FS Stay",
+      "text": "My 2 boys and I spent a wonderful 4 nights at FS Toronto. The hotel is in a wonderful location with lots of great restaurants nearby. The staff were all extremely professional and in typical FS fashion, went out of their way to help with anything you needed. The concierge staff organized our trip to Niagara Falls and restaurant reservations prior to our arrival and it was all perfect. Toronto is a fun, safe city to explore and FS is in the best spot.My husband had to cancel at the last minute and upon our arrival to the hotel we realized our Deluxe double had 2 very small full beds. The rooms are very spacious and queens beds could easily fit. I think had my husband come, it would have been very difficult for the 4 of us to sleep in the 2 full beds. Besides the bed situation, this hotel is perfection!",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Amazing customer service",
+      "text": "I loved staying at the Four Seasons Toronto. If you're looking for a five star hotel experience, you'd be hard pressed to find a better hotel (except the Ritz). Every single thing I needed was attended to immediately. I always felt taken care of. Special shout out to the front desk attendant, Umberto, for going above and beyond with every single request. The pool and hot tub were incredibly relaxing and I felt safe with not too many other people around me. It was easy to distance. My spa experience was lovely, I would definitely recommend getting a massage.The restaurant/room service was good, but not exceptional. I ordered room service 3 times - twice for dinner. The breakfast I ordered from room service was probably the best meal I had. The only think I would caution is that the hotel is located in the heart of the city, in close proximity to a fire station. My first night was loud, but as soon as I mentioned it to Umberto, he moved me to a room higher up not facing the main road. Of course I was also helped with some earplugs, which were useful in dampening the noise. The only other thing that the hotel should consider is that they should allow guests to log in to Netflix through a smart tv. The app they use to connect your phone to the TV was terrible, I wasn't able to connect Netflix from my (Android) phone at all. It was by no means a deal breaker, but it would have been nice to be able to use the TV to watch what I wanted. Every single thing you need is there for you (extra toothpaste, bottled water, coffee pods in the room). The only thing I'd bring is milk for your coffee if you don't like using those little milk cup thingies hotels give you. All in all, my stay was luxurious and relaxing, which is just what I wanted. I will definitely be back.",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Best Concierge Team!!!",
+      "text": "I recently spent two nights at Four Seasons Hotel Toronto on a business trip, and being a pet friendly property, I brought along my Yorkie dog. The recommended local dog walking service was not available, which ended up being much to my favor as the PHENOMENAL hotel concierge team took incredible care of my pup while I attended a conference during our stay.  I can’t thank Carolina, Harry and the whole concierge team enough as I surely couldn’t have done it without them. Staff can make or break any guest experience and the team at Four Seasons Hotel Toronto went above and beyond to exceed expectations.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Outstanding",
+      "text": "We had a fantastic 6 day stay here over Christmas and it was home from home. Upgraded to a corner  suite ( via our Centurion membership) we had lots of space with separate living area ,shower and loo. The fittings are superb and the bed the most comfortable ever with lovely bed linen. Only tiny gripe - I wish the bathroom floor was heated!Staff are extremely kind and helpful. My daughter and grandson stayed in another room and they were equally well looked after and we all had Christmas Day and dinner together for a memorable Christmas. Huge breakfasts, beautifully  prepared .My second stay here and hope to be back .Gluten free ,no problem",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "High quality hotel...all around great experience!",
+      "text": "We stayed at few nights over Easter weekend in 2019.  This property is modern, luxurious, beautifully maintained and delivers high quality service. We had a very pleasant stay. The property sits in the heart of Yorkville neighborhood, walking distance from high end retail and museums, although a little far from CBD and all the new and cool restaurants. It has an exclusive and seclusive feel given it is well tucked in the neighborhood. The hotel is relatively new. So the common areas and rooms are very modern, well maintained, and luxurious.  The rooms are very spacious, beautifully designed in  modern and luxurious hues and generously filled with thoughtful amenities and Le Labo bath products. The restaurant Cafe Boulud was good! Food and service was pretty good with bustling environment. Staffs were great and very helpful! We had a great experience... the property lived up to being the flagship property at the hotel chain's home city.",
+      "rate": 5.0,
+      "tripDate": " April 2019"
+    }
+  ]
+}

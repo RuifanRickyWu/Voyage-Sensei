@@ -1,0 +1,308 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Novotel Toronto North York",
+    "url": "/Hotel_Review-g155019-d183103-Reviews-Novotel_Toronto_North_York-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 1244
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3 Park Home Avenue",
+      "addressLocality": "Toronto",
+      "postalCode": "M2N 6L3",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/ac/9f/aa/exterior-view.jpg?w=500&h=-1&s=1"
+  },
+  "description": "The Novotel Toronto North York is a 3 star hotel located in uptown Toronto with easy access from major highways. Ideal for a business trip or short break, the hotel features nine meeting rooms for conferences and seminars, an exceptional restaurant and bar, fitness facilities and a direct indoor access to subway and shopping mall.",
+  "featues": [
+    "Paid public parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Bar / lounge",
+    "Kids stay free",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Business Center with Internet Access",
+    "Conference facilities",
+    "Parking garage",
+    "Wifi",
+    "Coffee shop",
+    "Restaurant",
+    "Breakfast buffet",
+    "Banquet room",
+    "Meeting rooms",
+    "Salon",
+    "24-hour security",
+    "Baggage storage",
+    "Non-smoking hotel",
+    "Shops",
+    "ATM on site",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Dry cleaning",
+    "Laundry service",
+    "Air conditioning",
+    "Housekeeping",
+    "Room service",
+    "Safe",
+    "Refrigerator",
+    "Flatscreen TV",
+    "Bath / shower",
+    "Complimentary toiletries",
+    "Telephone",
+    "Iron",
+    "Wake-up service / alarm clock",
+    "Hair dryer",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Location, location",
+      "text": "Pros: Excellent location on top of a mall, across a street from another, and on top of the North York Centre subway station.  Easy access from 401.  Good sleep quality and room comfort in general.  Welcoming staff. Cons: Very small rooms (below average for this comfort level).  Perfectible soundproofing (even more important for our room which was near the elevators and ice machine).  Hard to get fresh towels especially Sundays.  WiFi sub-par for this day and age.The room we got was very small and rather noisy, but it was well appointed with good sleep quality and plenty of light.  The hotel is a bit older and it shows in the room amenities.  Indeed, the well-placed power plugs all have USB plugs but in our room many were broken.  The bathroom is also kind of dated, though all fixture work well enough.  Some might remember those mid-90s \"efficient\" toilets that require holding the lever for a full flush and seems in continuous danger of plugging (I remember them too well, having one at home).  If you do not remember them then you might just get a chance to see them in action at this hotel.Staff was great, with the exception that towels seem to be a hot commodity.  We felt like pulling teeth in our quest for obtaining more towels (though we did get them in the end).WiFi is available and it kind of works most of the time, though the bandwidth is well below today's standards.  Video streaming in particular is kind of painful.  They nag you when registering toward a paid WiFi option, which I did not appreciate since in this day and age (and at the rather high room rate) I fully expect good WiFi included in the room price.We did not try the breakfast buffet since it is on the expensive side ($30 per person) and the restaurant did not seem well frequented.  Beside, there are plenty of good dining options nearby.For us the best feature of the hotel is the location.  The hotel is dab in the middle of the commercial area of North York.  It sits on top of a shopping center and another mall is just across the street.  There are many eateries nearby and at least two nice green areas.  Furthermore the subway station is in the same building.  You can get from your own room to Union station in 30 minutes flat.  It is hard to get better than this.  Access by car is also painless, just a few blocks on Yonge from the 401.  The underground parking is rather expensive (a bit more expensive than downtown Montreal as a comparison), but that seems to be the norm in the Greater Toronto Area.Overall we enjoy our stay and we see ourselves staying there again when visiting Toronto.",
+      "rate": 4.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Typical Novotel Standard",
+      "text": "For us the location was great, we didn't have to contend with driving into the city as there was a subway station attached to the shopping centre that the Novotel was also apart of, it was easy to find driving from Montreal and easy for us to depart for our drive to Sault Ste Marie. Check in was efficient, typical Novotel decor, room was quiet, bed was comfortable, air-conditioning worked well, bathroom clean, good shower pressure. Secure parking underneath the building. Another shopping centre across the road with an excellent supermarket for food supplies. Subway trip into Toronto city was $3.25 each way, the subway trains were clean, not overcrowded and took about 25 minutes each way. Perfect for us. Nothing else to really add - a typical Novotel.",
+      "rate": 4.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Quite a deception for a Novotel",
+      "text": "Hotel location is good but rooms are getting old together as furniture and service is limited to the basic. We were leaving in one suite but were quite disapointed with it.Cleaning is made each 2 days and All added value are limited to their limit (i.e one drink whatever the number of people standing in the room)",
+      "rate": 3.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Great staff convenient location",
+      "text": "Great location, interior connection to line 1 of the Toronto metro so we could be on the train downtown in 5 minutes without stepping outside. Very nice well equipped room.  Good breakfast, appreciated that the restaurant was open for tired travellers while a number of other restaurants were also available within a couple of blocks on Yonge Street (but the actual hotel was on a side street and quiet at night),  Most memorable were the staff.  When I called about a burnt out light first housekeeping then maintenance were up in minutes to investigate.  And the front desk staff member who checked me in asked if I would like help getting luggage up to my room.  I hesitated, not having cash handy to tip a bellman, and while I was thinking she turned, signed out the front desk to a fellow staff member, took hold of my suitcase and escorted me, suitcase handle in hand, to my room!  Thank you C! (I will email hotel my thanks also).",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "loud noise",
+      "text": "To Management,I am writing to share my experience at the Novotel Hotel (3 Park Home Avenue, North York) during my stay from 12/31 to 1/1. I must start by stating that the employees at the reception desk were very welcoming and professional, and our interaction with them was very warm and smooth. However, our stay at the room was very disappointing, due to the noise level from the occupants in the adjacent room. The guests in that room were extremely loud, that I had to contact the front desk around 1:00AM and request their intervention. I must admit that the response from the hotel staff was quick as they sent someone to ask the guests to keep it down. Unfortunately, this did not resolve the noise issue, as those guests continued their loud activities until a very late hour. I was not able to have a good night rest due to this unfortunate event, and unfortunately, my stay at the Novotel Hotel did not meet my expectation.Thank you for the understanding, and I hope this can help the management anticipate more effective resolutions to similar future issues should they arise.Regards,",
+      "rate": 2.0,
+      "tripDate": " December 2021"
+    },
+    {
+      "title": "Recent Visit",
+      "text": "We stayed here for three nights recently.             We have stayed here in the past,while visiting family.       Our room on the 16th floor was clean and comfortable.Check in was quick and easy.I want to thank a special waiter,   named Adam,   for his help in making sure I hada safe, Gluten Free breakfast.        I have celiac disease and get sick very quickly ifmy food is not safe.           He has total understanding of this situation and is reallyhelpful.            He helped me when we stayed here in the past too,   and I looked forhim,    knowing he would help.I do wish Novotel had a designated Gluten Free area,  like many other hotels,a small toaster and even one cereal would go a long way to help people with thiscondition.I strongly recommend you ask for Adam if you need help with food allergies.we like the location of this hotel,    it is conveniently located,  parking is available,underneath the hotel,      our room was quiet,  clean and restful",
+      "rate": 3.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "room's tv & toilet air conditioner",
+      "text": "the hotel is very mean & greedy.  the conditioning fan in toilet is too weak to refresh the air quick & soon enough. when someone uses the toilet or shower or bath, it takes few hours to get ride of the smell & the steam & in this long time period( in this case) smell & steam spared all over the room that badly disgust if there is or are any other gust(s) in the room, specially if the eating or drinking, also  a gust can't  use tv to connect their phone, tablet or laptop to tv, even if they just want to have a bigger screen, unless they pay for it. another some staffs don't know how to react or response to much of niceness  from someone, as if they've grown up in a village , not in a town.",
+      "rate": 1.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Difficulties in paying, lack of silence (repair work)",
+      "text": "The hotel does not have terminals for paying with Apple Pay; you need a physical card (plastic).  They cannot take funds through the booking account (the card is linked there).  They have a deposit >50$/night. They do not accept US dollars, they do not take deposits in US dollars. They do not exchange currency.  Since early morning they carry out repair work, it is very noisy.  They start drilling the walls in the morning at 08.00.  The breakfast cafe opens late, there are no lunch boxes for early breakfasts.",
+      "rate": 2.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "Great value and amazing staff",
+      "text": "I've been staying here consistently for the past year and can attest to the following - management is swift to deal and troubleshoot any reasonable requests, the quality of rooms are above average for a hotels in this peer group (3 star equivalents) and the pricing is competitive. The staff here is really the shining star. They truly go above and beyond in accommodating you - from management down.",
+      "rate": 4.0,
+      "tripDate": " January 2022"
+    },
+    {
+      "title": "Convenient location average hotel",
+      "text": "For the most part we enjoyed our stay at the Novotel. Room was small but comfortable and The AC worked great and was very quiet. They had decent amenities in the room including a nice cozy bath robe. Location is in walking distance to shops, restaurants and the subway.  We enjoyed the Aroma Espresso bar right across the street in the morning. The downsides: - Room gets cleaned every other day and you have to remember to ask for more towels if you want fresh ones. Carpet in room had stains. bathroom sink drained slowly. Hotel Lobby is a bit shabby. Someone vomited in one of the elevators during the night and instead of cleaning it right away or shutting down that elevator they put cardboard over it and had the elevator continue to operate  - truly gross....",
+      "rate": 3.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "GLUTEN FREE in North york",
+      "text": "Stayed for 2 nights, getting to know the city. First time in Toronto. The subway is located conveniently in the building. I had a room on the 16th floor and the size was perfect for my needs. Wi-fi connection worked fine. They have a beautiful pool on the 3rd floor which I had to myself (bonus 😀). I couldn't find towels but a phone was by the pool and a lovely lady from housekeeping brought me towels. A small gym well maintained., right beside the pool. I can't say enough about the breakfast buffet. The chef clearly has a passion. On both mornings I was served fresh, homemade couissant's, fresh fruit and lovely French toast.  The buffet is spotless and well maintained.  I would definitely recommend this hotel to my friends and family.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "A great hotel in a great location (with really lovely staff!)",
+      "text": "As the title says, this is a great hotel in a great location. As first time visitors to Toronto (from the UK), we couldn't have been happier with the location of this hotel and the convenience of the subway to get Downtown within half an hour. There are some shops and a food court in easy reach of the hotel (without even having to go outside). We chose to eat in the hotel restaurant a few times and took advantage of the hotel bar facilities. We highly recommend both due to the quality of the food and service - it really deserves to be busier than it was! Special thanks go to Ghenet and Peth who were friendly, welcoming and an absolute credit to this hotel! Thank you so much ladies for ensuring a memorable stay for all the right reasons! Overall, a friendly, clean hotel which we would definitely come to again in the future.",
+      "rate": 5.0,
+      "tripDate": " March 2023"
+    },
+    {
+      "title": "Location is the only reason to stay at this hotel",
+      "text": "The first night we arrived the fire alarm went off late in the evening. Fortunately there was no fire in the hotel but apparently in an adjoining building. So a bit of an unsettling start to an 8 night stay.Only found out at check in that the pool was being renovated and could not be used. This was disappointing.The room itself is in desperate need of refurbishment. The carpet was badly stained. The bathroom shower had black mold. The finish on the hand held shower head and hose was peeling and sharp, as can be seen in the picture. I reported this to maintenance after I cut my hand on it and it was replaced promptly but the water tap below was coming out of the wall, also reported to maintenance, making the shower difficult to use. This was never repaired.There were two light switches, one near the door, one near one side of the bed, which did not turn on or off any lights. So the only light operated by a switch was one pot light near the room door. One arm of the desk chair was badly damaged as can be seen in the picture.There was no full length mirror in the room though there was indeed space for one. I found this odd.The air conditioning unit was loud. The room darkening drapes did not close properly leaving a large gap on one side and in the middle. But the worst part of my stay was hearing the guest in what sounded like a room above mine go the toilet. How can walls be this thin. Mine was not an adjoining room.The morning I was checking out I dropped a charging cable near to the bed. When I had to reach to retrieve it, I was fairly horrified to see the dust behind the night stand and headboard. There was also a significant amount of dust next to the room safe, beside the room fridge, and along the base of the bed, along with a piece of candy on the carpet which was not mine!At times there was a very long wait for one of the three elevators.The only reason to stay at this hotel is the convenient location with good access to public transport.",
+      "rate": 2.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Do not stay here",
+      "text": "Had a horrible one-night stay. Hotel is very centrally-located in North York in a busy area of Yonge & Sheppard. Lots of shops and restaurants nearby. Unfortunately the property itself is deplorable. Very unclean, broken basic amenities, and relatively unfriendly staff. I booked a Superior King room and was given an extremely small room with a queen (possibly even a double) bed. TV was broken, toilet paper holder just barely hanging off the wall, stained sheets and there were bugs in the room - please see video screenshot attached. I did not raise these issues with hotel staff during my quick stay because I felt that uncomfortable with them, especially given that they were pulling their masks down behind the front desk. I warn anyone away from staying at this property.",
+      "rate": 1.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Mostly good - would stay there again.",
+      "text": "The hotel was great!  Good location, parking was reasonable and in a garage.  Subway was also accessible without going outside.  Since we were traveling with a car but didn't plan to use it, it was perfect.  The only caveat - the room was warm no matter how much we used the AC.  We came to think that the fridge in the room was putting out heat.  I'd reccomend unplugging it if you don't need it.",
+      "rate": 4.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Hot air blowing from room AC vents",
+      "text": "There is a serious problem at this property. I am going to be speaking to someone at the Accor Executive team (parent company of Novotel). This property has not switched from its central heater to its central chiller. As such, the rooms facing the Sun during the day are practically a sauna. Front desk is apathetic. After two hours of fighting I was able to get another room where the AC worked. Strangely, it was a renovated Executive room which was a paid upgrade but the front desk relented and allowed me to move. Front desk representative Mukarar is aware of this issue.",
+      "rate": 1.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Hospitality at its Best",
+      "text": "So we stay in Vancouver and I was traveling to Toronto. I always prefer booking hotels in Downtown but this time since I was traveling with my girlfriend she choose to book Novotel North York. I was really upset as I wanted to stay in downtown but I was surprised with the Service that Novotel provided. From my arrival until my departure the service was seamless and Exemplary. We went for the dinner at Trio, let me tell the food over there was so delicious. I would want to put a special mention for the lady working at the front desk (Aynaam) who displayed an amazing hospitality and was on her toes throught and always went extra miles to ensure that we are having a great time. After having such a lovely experience, whenever I am traveling to Toronto, I would stay in Novotel only. Thank you Team Novotel and Aynaam for show casing the best hospitality that I have aware experienced. 😊",
+      "rate": 5.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Incredible event staff and an overall awesome experience",
+      "text": "I recently hosted a conference at the Gibson Ballroom and the staff were incredibly flexible and attentive. Catering was amazing and the event staff made sure our every need was taken care of. I worked with Cathy, Kimia, Alla, and Kuga, and they were all very kind and professional. Despite there being an issue with heating, the hotel made sure proper measures were put in place to solve this issue. The event was a huge success!",
+      "rate": 5.0,
+      "tripDate": " February 2023"
+    },
+    {
+      "title": "Wedding Venue - EXCEPTIONAL SERVICE",
+      "text": "We celebrated our wedding at Novotel North York. From the start of the wedding planning process, Cathy Oreal, along with Kimia, and their team, have been supporting us with answering any questions and concerns, giving recommendations, and accommodating us with all of our requests to make our wedding as personalized and memorable as possible. During our stay at Novotel, the rooms were prepared, clean, and was ready on time of our check in. The check in process was seamless and staff were friendly. The hotel staff were also accommodating to our needs during the stay such that they were able to provide us extra blankets. During the wedding, the itinerary was followed by the hotel staff and organized to how we wanted it presented. The food for the reception was exceptionally flavourful and abundant. The late night snacks were also amazing. After the wedding, the staff even prepared a nice touch in our room. It included a fruit and chocolate platter, and the bed was decorated with petals and heart and swan shaped towels. Overall, our experiences with Novotel far exceeded our expectations, and will be recommended for other occasions.",
+      "rate": 5.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Very nice hotel and very courteous, professional staff",
+      "text": "Very nice hotel that offers underground parking, has direct access to the subway (which allows you to get to the downtown core in about 30 minutes), and is located close to many restaurants. You will be very comfortable at the hotel, and will not go hungry in that neighbourhood!Check in was very easy and fast thanks to an efficient staff.Special thank you to the gentleman (I think he was the manager on duty - I did not get his name) who helped me find the wheelchair accessible entrance to the subway. He left the reception desk and walked to the station, using the non accessible entrance, and made his way back to the hotel using the accessible exit to the station, to make sure he would give me the right directions. This is really going above and beyond what I would expect from hotel staff.A great stay, and I am looking forward to going back!",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Great location to the transit",
+      "text": "The only reason I gave 3 stars rather than 2 is because you do not have to go outside to access the subway / transit. The first room we were put in was made up but not cleaned. The staff was good about it and moved us to another room but at first impression it was run down. It looks like they recently renovated some of the room but the tub was painted and peeling, also very slippery with the paint. the towel bars were loose a coming off the wall. The overall room was okay but not what we expected from a midscale hotel as they proclaim.",
+      "rate": 3.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Super Pleasant Stay",
+      "text": "The location of the property is right at the center of North York. It is very convenient to do everything. There are many restaurants with all kinds of cuisines within just five minutes walking distance. The service here is really professional. The front desk staff and restaurant servers are very friendly and helpful. The room is very quiet even though the building is right at the center of the town.",
+      "rate": 5.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Fantastic business stay",
+      "text": "Overall a great business stay, would definitely stay again. Wonderful front desk staff who really anticipate your needs, a special shout out to Maria who made my stay feel personable from the very start. Even housekeeping staff is lovely and friendly, always greeting you in the elevator and asking what floor you're trying to get to.The room was renovated, so it was quite nice in comparison to the pictures shown. I was on the 18th floor - very clean and nice views.  I quite liked the layout of the room, it was both functional and versatile with a cushioned bench that doubles as a luggage rack. You can easily move the table in the room around to make more space if you need to do a work out and the desk in the room allows you to face both ways. Would have loved more USB outlets though. In terms of area, lots of coffee shops and restaurants around to pick from and a 15 minute walk from the TTC to get down town. Feels quite safe too.",
+      "rate": 5.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Good hotel should be given 4 stars",
+      "text": "Excellent hotel except for the location.  it’s food choices available within 10 minutes. Great variety.  The only hotel we visited the provide us with slippers and the charging ports are good and available in room.  Breakfast is decent and the waiter is good although it’s a one man show as he has show patience to all customers even though it’s 1 day after Christmas.",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Got locked out of room despite paying in advance for late check out.",
+      "text": "The hotel is near a lot of things like restaurants, shopping  and public transport, and I would have given it an ok review except that I got locked out of my room after 12 noon even though I prepaid directly on the Novotel site for late check out and reminded the staff on check in that I would leave in the later afternoon. As a Novotel/Accor Silver member I am used to late check-outs around the world and this was the first time this happened. Then when I complained they asked me for ID which I locked in the safe as is my usual global practice. Luckily I had an old picture ID in my wallet that I carried to do some banking in case I was asked...Novotel/Accor should investigate the management and staffing of this place. It brings down the Novotel/Accor name compared to global standards I am very familiar with.",
+      "rate": 3.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Bed bugs in room 916",
+      "text": "Live bed bugs on the bed in room 916. I had the most traumatizing experience staying at this hotel. Went to bed to see a bed bug crawling across the duvet. I found 2 and killed them. It was after midnight and I packed up to stay somewhere else. I have had to incur expenses to discard of anything that had exposure in the room and that had close contact to the bed as well as steaming, dry cleaning and sanitizing washing everything to avoid an infestion in my home. I was under the impression by the hotel specially the Housekeeping manager that they would rectify the situation knowing how stressful the situation was. I have been given the run around for a month since I have submitted my incurred costs to deal with staying at their hotel. At this point I have received no resolution and the general manager's email address generates an automatic reply with another person's email. This new email sends back an error message saying the email can't be sent. It is very unfortunate that this is how the hotel is treating the situation. I will never stay at another Novotel hotel and I traveled for weeks this summer staying at half a dozen hotels and have never experienced bed bugs. The negligence in housekeeping to not have inspected the bed is not acceptable. It took 3 months with a lot of back and forth and following up with different employees to receive partial reimbursement for the costs incurred to avoid bringing the bugs into my home. The hotel indicates that they have dealt with the bed bug situation in the room. I had asked for the report confirming this so other guests don't have to go through this however they did not provide it.",
+      "rate": 1.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Not a good hotel",
+      "text": "I have stayed in  a lot of hotels and this was not a good experience, We stayed here because it was close to Holland Bloorview, as we had to go there in the morning. We asked for an accessible room with bars in the washroom and we did not get it. The room was mediocre at best. The cost for the hotel does not include the cost of parking and the staff were not overly friendly. I'm not sure about the rest of the chain but this location is a no go.",
+      "rate": 1.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Professional Service",
+      "text": "Last week we had occasion to take one of our coworkers out for a retirement breakfast.  We chose to do it at the Novotel restaurant (Trio) since it was conveniently located for our group.  We were all quite impressed at the level of professional service we received from our server, Adam.  The food was very good but, Adam showed us what a big difference a professional server can make to the experience.  His quick wit and subtle humour was very impressive and entertaining.  He made a simple breakfast turn into a memorable experience.  You can tell that he’s been doing this for some time and, that he takes pride in doing his job well.  I do also want to give big thank you to the Sales Manager Bridget.  She was instrumental in organizing our event and she followed-up to ensure it was successful.  Both Adam and Bridget saw to every detail, making sure that our event was a big win.  No matter how large or small your function may be, I strongly recommend you try to get Bridget and Adam to take care of it for you.  They’re both true professionals at Novotel North York!",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Mixed feelings but not good value for the cost",
+      "text": "Overall while the staff were very friendly and helpful and the hotel was well kept I felt it was over priced and wouldn't go there again, just didn't feel it was good value for the cost.  The room was small, especially the entrance the door kept banging into the closet which had very hard to open doors (maybe from the constant banging).  Felt like I was constantly climbing over the beds, etc to move around.  The tub was slippery not having any non-skid surface or matt and while the water pressure was good the temperature was not constant (jumping from warm to hot to cold).We had booked through \"Bring Fido\" as we needed a pet friendly  hotel and the info provided was just wrong about what was included (we were counting on having dog bowls for water and food so didn't bring any with us).  Though I think this is BF's fault and not Novotel's I don't know how they got that information, Novotel claimed they've never offered those items.Parking was a pain, as not owned by the hotel they did provide a convenient parking pass but you had to exit the hotel and in to the mall and a short walk around the corner to get to the elevators to the parking level.  The parking lot driving entrance/exits were narrow and confusing to navigate.",
+      "rate": 3.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "Best Location , Excellent Staff",
+      "text": "Stayed at Novotel North york  recently. The location of this hotel is as prime as it can be. Direct access within the building to subway, groceries , banks , food court and restaurants all around within 100mts .The staff at the front desk are very warm and welcoming. Special mention for Mr Mukharam who was very accommodating and understanding and went the extra mile to ensure that we have a pleasant stay. This is the kind of Customer centric approach that drives you to Accor hotels.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "OK hotel, great breakfast",
+      "text": "I am a  frequent traveller ­(> 50 nights / yr x > 10 yrs).  First time staying at an accor property since their aquisition of Fairmont a few years ago.Staying at this particular Novotel because it was selected by my employer for a multi-week stay.  I normally am brand loyal to Marriott.   The hotel is well located in North York with proximity to several restaurants.  Intervariability between rooms: very different layout, furniture and level of renovation between rooms.Breakfast spread is really the highlight of this hotel.  Great spread with fresh pastries baked in-house daily with good selection of hot, fresh food and high quality coffee.  Not your typical free continental breakfast.  Service at breakfast has also been consistently excellent.Pros:Breakfast included in our rate features a great spread and amazing service.Cons:rooms have a < 1 cu ft 'cooler' (not fridge) set at 15C.  No bar fridge/microwave available for extended staysgym is very smallpool/hot tub/sauna closed for 'maintenance' for several monthsAccor has what I consider to be the absolute worst loyalty programme of any major hotel chain",
+      "rate": 4.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Not much choice in North York hotels",
+      "text": "The beds were uncomfortable.The in-room coffee maker was cheap and the coffee provided unpleasant in flavour.  Couldn't drink it.It is difficult to access the parking garage from hotel and vice versa.",
+      "rate": 3.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Spoil yourself",
+      "text": "This is such a great hotel. I was a little bummed when I found out the pool was closed for renovations but honestly, there is so much to do in the GTA that we wouldn't have had time to use it anyway. The staff was incredibly helpful and kind. There is always lemon water on tap in reception and games for the kids. Also free computers to check your emails, etc. Our room was on the ninth floor and we had a lovely view of the park across the street. The room itself was lush and the mattresses were so comfy. Very good air con as well which we really appreciated after a hot summer day. I was a little apprehensive about the $22 breakfast, but when you take into account the exchange rate and the fact that kids eat free it is a fantastic value for Toronto. One or two coffee takeaways nearly cost this much and you get free tea and coffee with refills with the hotel breakfast. They also provide a fabulous spread of not only pastries, pancakes, yogurts and cereals but also hot cooked breakfast items such as bacon, eggs, hash browns and sausages, etc. I'm vegan and I was able to find a few items that worked for me but my daughter (who isn't) found loads that she liked. Both the breakfast and dinner staff were personable and would go out of their way to make sure you have everything you need. We had dinner takeaway from the restaurant a couple of times and I can honestly say that the falafels were out of this world. A must try. The hotels location is also fab, line 1 one the subway and get off at North York Central station and you are there.",
+      "rate": 5.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "An average hotel….",
+      "text": "We stayed at Novotel North York when we came to Toronto for a few days. The check in was pleasant but there is no one at all to take your luggage to the room. The room itself was clean, nice hot water but a little on the small side and slightly dark too. However, it had all of the amenities despite its size. If you want to travel into Toronto to see the sights then this is affordable and the hotel is connected to the subway. However, it will take you over half an hour to get to places like the CN tower. The hotel is close to many fast food places and in that way it is good. On our final day we asked if we could use tje scales to weigh our suitcases. The staff at the front desk could not locate them because a second guest had used them for over a day- they told us we can wheel our luggage all the way to the gym to weigh. We felt this was rather poor and when we questioned it, the front desk were rather rude.This hotel served its purpose, but I would not stay here again. It is very average and is only reasonable for one or two nights.",
+      "rate": 3.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Missing a few key elements ",
+      "text": "This hotel is in a very convenient area, with lots of shops, restaurants and services nearby.  Room is on the small side, but as expected.  The restaurant, Treo, is not terribly busy, but we actually had a very nice dinner there one evening.Mattress was very comfortable and water pressure in the shower was great, which is so important.  The things that would make me not want to return there?  Powdered coffee creamer (why bother putting a Nespresso machine in the room if you’re not going to provide proper dairy?), sad, little bathroom towels, and very budget style bathroom, toiletries.",
+      "rate": 3.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Easy, quiet and clean. Helpful front desk.",
+      "text": "Easy end to end experience.  Quiet clean room. Helpful front desk staff, appreciated. Accessible to subway, walking distance to Starbucks, Aroma Cafe, nice restaurants and shopping. Whole Foods a 15 minute casual walk or 1 subway stop. Paid parking  on site, reasonable for location, yet preferred to have complimentary parking or a reduced rate.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Great location, attached to 2 malls and subway station ",
+      "text": "Great location, felt very safe to travel with kids on the subway the hotel is attached via the mall to public transit, security was in the mall after hours, 30 mins to Union Station or less if your stop is closer, friendly,  clean and a big shout out to Adam on the wait staff for a great morning greeting and the chef who made fresh pastries. Adam shared his cheerful disposition and brought smiles to my 3 teenages faces and they looked forward to breakfast with him every morning and it became a thing every day (we stayed for 7)  that if the kids weren't down he would have me text them and get down for the 'fuel' needed to explore the city since 2 of my kids ate for free. He became a big part of our story when calling home.",
+      "rate": 5.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Always satisfied",
+      "text": "Always happy to stay at this NOVOTEL whenever I need to go in the Toronto area. Rooms are always very nice, the ladies at housekeeping are always very nice and the people at the reception desk always helpful. I had trouble with printing documents I needed while working from my room and Ishita went out of her way to help me out with that. She is always very pleasant to deal with, very professional. Many restaurants options around as well.",
+      "rate": 4.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Our amazing breakfast experience ",
+      "text": "I was at the North York Novotel Sunday October 22 for a breakfast with my family and friends and I had an amazing experience with the best service I have had in Toronto, that’s not a joke. Chef Isa made us an amazing personalized Mexican breakfast and all the food was extremely fresh. Our waiter Adam was the nicest, most caring, funniest and most generous waiter we’ve ever had. From the moment we walked in he was already getting our coffees and juices and would constantly come to refill our drinks. I can’t express enough how good this breakfast was and would recommend it to everyone.",
+      "rate": 5.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Frustrating stay",
+      "text": "I stayed at the Novotel in North York during a family wedding in Toronto. The first room I got smelled of smoke (room 1017). The bed in this room also was so flimsy that when you sat on one side… the opposite side would flip up.I shared this info and asked the concierge to switch my room. They assigned me a new room, but were unbothered and not apologetic at all. The key card didn’t work, and I had to go down to the lobby for a second time, to have it re-magnetized. Again, no apology, and I was told to call them if it didn’t work again.The second room was good (no smoke stink, solid bed), but you can tell the quality of materials just isn’t great. The headboard was falling apart and the iron did not work properly. But the lighting around the mirror in the bathroom is good for getting ready / putting on make up, you can see every detail on your face (for better or worse…).My sister stayed in another room and got locked out because the door battery failed. They had to wait about 30 minutes to get back in. We were on a schedule to get to the airport so it was frustrating and inconvenient.The restaurant wait staff was friendly. The place was busy, and food was average Continental breakfast. The first day I got a coffee and some breakfast and had a nice experience with the waiter and few other customers around. The second day I had to wait a while for two coffees to go because it was so busy, and the waitress acknowledged the wait and offered the coffees on the house. I appreciated it a lot. I did not get the same understanding and warmth from the concierge staff throughout the stay.The location is good but I would not stay here again or recommend to others because of all the inconveniences and the frustrating lack of acknowledgement from concierge staff.",
+      "rate": 2.0,
+      "tripDate": " March 2022"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Jet Furnished Suites",
+    "url": "/Hotel_Review-g155019-d17635286-Reviews-Jet_Furnished_Suites-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 8
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "155 Yorkville Ave",
+      "addressLocality": "Toronto",
+      "postalCode": "M5R 0B4",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/25/34/f0/street-view.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "Excellent location in one of the best Toronto neighbourhoods",
+      "text": "Excellent location in one of the best Toronto neighbourhoods, Yorkville. Due to the coronavirus pandemic, all stores were closed, but you can still survive: there is a large grocery store \"Whole foods\" nearby, virtually across the street, and a korean supermarket \"Galleria\" at walkable distance. The room was spacious enough and very cozy, all the amenities were present. We asked for a mailbox key and were kindly provided with one. The host was very helpful and it was easy to contact her by email; she kindly extended our stay for two nights for free, given the exceptional circumstances. I highly recommend Jet Furnished Suites for staying in the very heart of Toronto, especially during the \"normal\" times as usually there is a lot of things to do.Everything was alright. The only thing was the drying function of the washing machine which seemed to be broken. Please note that their condominium rules prohibit concierges to accept parcels for temporary guests, making no exceptions even during the pandemic when ability to get delivery is of vital importance. However, this is a fault of the condominium management, not of Jet Furnished Suites.",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Fantastic Housekeeping Suites with Superb Location. Recommend Jet",
+      "text": "I was nervous about booking having read bad reviews about Avalon Suites that owns/operates properties in the same building but was pleasantly surprised with a delightful, modern, well maintained two bedroom/two bath suite #3208. Our stay was two nights but with the kitchenette stays of weeks or a month would be easily managed. Housekeeping is not daily but linens etc are changed once a week if I recall. The only downside is no parking in the building. 24 hour public parking is close by but expect to pay downtown prices. My recommendation is leave the car at home (if you can) and use Uber.",
+      "rate": 5.0,
+      "tripDate": " May 2019"
+    },
+    {
+      "title": "If in Yorkville, stay HERE!",
+      "text": "I stayed here from Oct. 17th to 20th, 2019. I was unsure at first but upon walking in (it's self check-in) I felt comfortable and at home. They supply you with EVERYTHING in this updated and beautiful suite. You just need to bring or buy your own food. Uber Eats and Skip the Dishes easily delivered to the building. Just had to meet them in the lobby. There are plenty of shops and restaurants within walking distance. Parking is also easy (underground, I believe). The view was awesome! There are other residents and renters in the building. But it is quiet and everyone seemed quite nice. Lots of help if you asked for it (directions, etc). There is a small mall across the street.I have absolutely no complaints and will stay here when I return!",
+      "rate": 5.0,
+      "tripDate": " October 2019"
+    },
+    {
+      "title": "Beware - do not book with Jet Furnished Suites or Booking.com",
+      "text": "We booked an apartment with Jet Furnished Suites through Booking.com.  We cancelled the reservation on the Booking.com site 2 months before the cancellation deadline.  Jet Furnished Suites had already taken full payment by credit card five months prior to the reservation and has still not issued a refund.  We contacted Booking.com and they have not helped at all.  They referred us back to Jet Furnished Suites because they couldn’t contact them by phone and neither could we. Jet Furnished Suites takes your money and will not give it back. Beware.",
+      "rate": 1.0,
+      "tripDate": " April 2020"
+    },
+    {
+      "title": "DO NOT STAY HERE! Apartment operator ripped me off for over $600.",
+      "text": "I booked 2 apartments in November 2019. On arrival late in the evening, both apartments were overheated with one registering a temperature of 92F. It was like a sauna and uninhabitable. Turns out the heating was broken and couldn't be turned off or turned down. We called the Jet after hours number and no one answered or responded. We landed up having to rent a new apartment in the building at our own expense. The next day, the duty manager at Jet said they would refund us....but never did. I emailed and rang on over 10 occasions. They just had the duty cleaner take a message but never called me back. They never responded to emails either. The apartments themselves were ok in terms of the fitout and furniture. But we had to sleep with the windows open due to the heat and it was really noisy on the main road. Also, the concierge in the building wont hold bags or provide any support, because its actually a residential building where Jet just manage some short term stays. Jet are not onsite. Overall, a really disappointing and frustrating experience. There are better places to stay in Yorkville - its a nice little precinct if you want to be out of the city.",
+      "rate": 1.0,
+      "tripDate": " November 2019"
+    },
+    {
+      "title": "좋아요",
+      "text": "직접 호스트와 만나지는 못했지만 체크인&아웃하는데 전혀 문제 없었어요. 깨끗히 잘 관리가 되어있고 방에서 보이는 풍경이 매우 멋졌습니다.",
+      "rate": 5.0,
+      "tripDate": " October 2019"
+    },
+    {
+      "title": "Super Apartment",
+      "text": "Wir waren mit Freunden im Apartment und waren wirklich zufrieden. Das Housekeeping kommt einmal pro Woche. WLAN und TV ist in super Qualität vorhanden. Es war sehr sauber und die Aussicht war klasse. Der Küche hätten ein paar schärfere Messer gut getan aber es war alles da um gut zu kochen. In der Umgebung gibt es direkt eine U-Bahn-Station somit ist die Anbindung ebenfalls klasse.",
+      "rate": 5.0,
+      "tripDate": " October 2019"
+    },
+    {
+      "title": "Buen alojamiento",
+      "text": "Estuvimos 12 días entre agosto y setiembre. Como el viaje lo hicimos con nuestro hijo de 9 años y ya sabemos las limitaciones en cuando a la comida con las que vas a encontrarte en un país como Canadá, decidimos buscar un alojamiento que nos permitiera solucionar las comidas, o la mayor parte, sin tener que recurrir a restaurantes o similares. estuvimos en el piso 11, disponíamos de un salón-cocina, el recibidor, un baño y una habitación en la esquina del edificio. El apartamento , con aire acondicionado, estaba bastante bien equipado, con lavadora-secadora, que por cierto funcionaba de maravilla, lavavajillas, microondas, cafetera, frigorífico y menaje suficiente para poder arreglarte. Tiene un sistema de seguridad que impide que se pueda subir en el ascensor o entrar en el edificio si no dispones de la llave del apartamento, con independencia de una clave que puedes poner por tu cuenta y que está en el recibidor. Buen estado de conservación, daba la sensación que tiene mucho tiempo. Está bien situado, en lo que podíamos denominar parte alta de la ciudad, con estación de metro muy próxima y acceso a un centro comercial con supermercado con tan solo cruzar la calle. La zona es segura y al atardecer tiene bastante ambiente, ya que hay unos diversos tipos de locales para comer o tomar algo en la misma calle y al lado del edificio. La recepción, cuando llegas, la hacen los vigilantes de seguridad que están en el lobby, aunque con ellos puedes contar para casi nada, lo mejor que se hace es enviar un correo a los responsables del negocio y ellos te solucionan y atienden en lo que necesites. El personal de limpieza, de habla española mayoritariamente, es de lo más amable.En general la estancia fue agradable y tranquila en todos los sentidos y la zona no tiene algunas servidumbres que puedes encontrar si te alojas más hacia el centro de la ciudad. A tan solo 5 minutos tienes la calle Bloor, en el mejor tramo en cuanto a equipamiento y urbanismo y estás cerca de las calles Yonge y Bay, arterias que te llevan directamente al centro de la ciudad si te gusta caminar. Es una buena alternativa a los hoteles si no te molesta comprar y cocinar, al menos para la cena, y así no echas tanto de menos nuestra cocina.",
+      "rate": 4.0,
+      "tripDate": " August 2019"
+    }
+  ]
+}

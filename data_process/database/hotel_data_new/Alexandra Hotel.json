@@ -1,0 +1,285 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Alexandra Hotel",
+    "url": "/Hotel_Review-g155019-d184515-Reviews-Alexandra_Hotel-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.0",
+      "reviewCount": 230
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "77 Ryerson Ave at Queen Street West",
+      "addressLocality": "Toronto",
+      "postalCode": "M5T 2V4",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/86/3d/45/alexandra-hotel.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Paid private parking on-site",
+    "Parking",
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Children's television networks",
+    "Non-smoking hotel",
+    "24-hour front desk",
+    "Laundry service",
+    "Air conditioning",
+    "Housekeeping",
+    "Kitchenette",
+    "Microwave",
+    "Refrigerator",
+    "Flatscreen TV",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Bad neighbourhood? Give me a break!",
+      "text": "OK, if you are looking for five-star luxury, steer clear of this place. If you are looking for an inexpensive option in a vibrant neighbourhood, consider the Alexandra.All I can say is that those who have complained about the neighbourhood have misread the signs. This hotel is just off Queen Street West. Our taxi driver knew exactly where Ryerson street was. It's between Bathurst and Spadina. Queen Street offers a vibrant café culture and great boutique shops. The Alexandra is a stone's throw from Chinatown on Spadina, and within walking distance of the Roger's Centre (Skydome) and even downtown. The Queen streetcar is 100 metres from the door. There aren't many \"dangerous\" neighbourhoods in Toronto, and this is certainly not one of them. It may appear a bit frayed at the edges, even rundown to some. But it is as safe as any large city area can be.As for the hotel, we stayed a week and had a great experience. Even the staff were friendly to us, although we might have been lucky. Indeed, we had a major problem that was quickly and amicably resolved. In one of the rooms (we had three) there was a strong smell of what seemed to be urine in the bathroom. We assumed that it hadn't been cleaned. It turned out that it was someone cooking something very smelly in the next door room, and it was filtering through the air vent. We were quickly and courteously moved to another room.Which brings me to another issue. You may see this hotel advertised as offering \"suites\" or \"apartments\". Suites these are not, and they are definitely not apartments. They are two-bedded rooms with a kitchenette in the room. In some rooms (we saw four and all were slightly different) the kitchen is only a few inches from one of the beds. It would be very cramped for more than two adults and one child. Still you can cook (although there are cheap options for eating out, especially in Chinatown) and the fridge is useful.All things considered, if you were staying a while in Toronto, this is a good option. Normal precautions are all you need to stay safe in this or any other part of Toronto.",
+      "rate": 4.0,
+      "tripDate": " August 2004"
+    },
+    {
+      "title": "Great value!!",
+      "text": "What more could you want? For a rate way less than most downtown Toronto hotels you get 2 beds, a kitchenette, TV, air conditioning, a decent sized bathroom, and everything you could want in a hotel room. Not too fancy, but everything you'd need. A little hard to find, especially if you're from out of town, but well worth it. Would definitely recommend it and would stay again.",
+      "rate": 4.0,
+      "tripDate": " August 2005"
+    },
+    {
+      "title": "Great experience",
+      "text": "It's about 100 ft up a side road from Queen Street West which is where the action is in Tee Town - tonnes of live music (Rivoli, Jeff Healey's place etc), book shops, guitar shops, 24 hour food etc. Completely safe area, some reviewers made it sound like Lagos but it's virtually crime free yet without the soul squeezed out in the process. Taxis are plentiful and as cheap as chips if you want to head over to the CN Tower (which is actually ace) and chain stores etc, it's really a short distance, I walked it every time without a second thought. Being a short way up a side street from \"Queen West\" means you are within a stone's throw of the most vibrant and interesting neighbourhood in the city, but with just enough real estate between you and it when you're going to sleep.The hotel offers decent sized rooms with en suite bathrooms, cooking facilities (for lighting cigs mostly), fridge, on-site laundry, parking, what more could you want for the price? And the location really is great. My only complaint would be the staggeringly hostile staff, although they got the job done. I suppose that makes my group sound like the guests from hell but we are a low-maintenence crowd - the most polite and simple inquiry was met with at best a glowering silence or a curt \"in a minute\".So, location 10/10, price 10/10, facilities 10/10, attitude 1/10 (so if you can stand a traumatic stand-off with the woman on reception just by asking for directions to a cashpoint, it's a winner).",
+      "rate": 4.0,
+      "tripDate": " June 2005"
+    },
+    {
+      "title": "UNFORGETTABLE",
+      "text": "We came with my wife to the Alexandra hotel to relax... and we were not wrong.The love and pride of its owners for making us feel comfortable, for paying attention to the details that make your stay unforgettable makes us definitely think of coming back.Very good breakfast and excellent dinner!A real pleasure to have known this place.Thanks, Tasoula and Alexandra!",
+      "rate": 5.0,
+      "tripDate": " March 2023"
+    },
+    {
+      "title": "Central Location - Very Clean",
+      "text": "Budget hotel..very clean room and comfortable.  Great front desk service.  The area is sketchy at best….used also as city housing …having said that…it is heartbreaking.  Residents are respectful…as a brave solo female there for a night..I was comfortable.",
+      "rate": 5.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "good bargain",
+      "text": "For the price, you can't beat it. And the fact that its not in a very touristy area makes it more interesting. I dont know why everyone is complaining about the area, its like any downtown, its fine to walk around during the day time, probably ok at night time - as long as you don't start chanting bible quotes or so forth. The staff were the only real complaint, they seemed lazy and unwilling to assist you. But compared to the pricey joints closer to Yonge and King St, this place is a no-brainer for the tourist with low cash flow. Btw, the hotel is just south of the charming Kensington Market area which is very eclectic and pedestrian-friendly, its worth checking out.",
+      "rate": 4.0,
+      "tripDate": " April 2004"
+    },
+    {
+      "title": "It was good until... BED BUGS",
+      "text": "I am a torontoian but was having work being done on my home so I found a hotel for a few nights I knew this place looked ghetto but I wanted to stay downtown for a low cost and didn't see any reports of bed bugs online. When I got to the room it was okay, I really loved the kitchenette. And everything was good. I was enjoying my stay until I stayed noticing bites on my family and I. Then we flipped the mattress and bam bed bugs everywhere. We caught one and showed the front desk they didn't care at ALL. I was shocked, It was 2amSo going anywhere elseWith my five year old was impossible. So I had to stay up all night and protect her while she slept it was the worst night of my life.  When we checked out in the morning there was another employee there and i told her and she didnt seem to care either. After We had to wash all our stuff and dry. To ensure we don't bring them home with us, that night has ruined me I can't stop thinking of it and feeling itchy. STAY AWAY NOT WORTH THE CHEAP PRICE. PLEASE",
+      "rate": 1.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "Very Disapointed",
+      "text": "On May 29 I phoned and booked two rooms, I was given confirmation numbers and they also emailed as requested the confirmation numbers. We went to check in and were told they had no record of the rooms being booked, yet one of the men there did admit to remembering the phone call. After a little while we were offered one room for a party of 4 to share as they stated they were fully booked. They were told that was not acceptable and suddenly they offered us two rooms, when questioned as to why their was now a second room one of the gentleman said he would take his chances. We proceeded to pay and after we payed we were asked for a further $100 per room each as an additional fee of some sort for the room for the night, which I thought was rather odd as this cost was not mentioned when booking the rooms . It seemed very shady to us and I did tell them that had this charge been mentioned at the time of booking the rooms it would not be a problem but the timing just made it seem rather shady to me. We requested our payment for the rooms be returned. The only reason this motel was even considered was the fact that it was recommended by a nearby Hospital, the hospital was informed as to what occured. I will not recommend this Hotel to anyone.",
+      "rate": 1.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "It's for those who enjoy simplicity.",
+      "text": "My boyfriend and I stayed at the Alexandra from 8/3 to 8/7.  I requested an early check-in because we were driving from NYC after work and arrived at 4am.  Michael at the front desk was very helpful and he had the early check-in note on file and there was a room available for us which was a blessing.  As others have said, the rooms are simple but efficient with a small fridge, microwave, toaster and mini stove. The air conditioner worked wonderfully.  The T.V. worked with no problems. The wifi was spotty, I brought it to the attention of the front desk and they were very attentive in getting the issue resolved.  Even the coffee at the front desk was great.  The linens and towels were very clean, no bedbugs here (yes, I inspected).  The area is quiet, I didn't feel threatened on any streets at any given time of day or night.  The shops in the area were great and the sole purpose of this trip was to party at Caribana so we really didn't stay in the room much.  I did do laundry before we checked out and ironed clothes as well, everything worked with no problem.  We slept well, it was quite peaceful.  I'd stay here again, I don't need the big name hotel rooms to have a good time, besides, when you're in town to party, that's what you should do! We were in walking distance to Simcoe St. where our friend lives so that was a plus!Kudos to the staff for being so pleasant and housekeeping for being so trustworthy. We left our iphone, iPad, money and canon T3i camera out and nothing went missing. Alexandra, you will see me again!",
+      "rate": 4.0,
+      "tripDate": " August 2012"
+    },
+    {
+      "title": "Good combination of value and location",
+      "text": "We pre-paid for this hotel on Expedia. It was the only budget option we could find that was cheap and was anywhere remotely near the centre of Toronto and had acceptable reviews on Tripadvisor. We found out that it falls somewhere between the categories of upmarket hostel and budget hotel.We arrived early but checked in without problem. The rooms were small and ours overlooked a school play yard, which got quite noisy during the day when the children were out playing. We booked a twin room and got one double bed and one single bed, both sleepable-in. The kitchenette is a sink and a couple of electric rings and there were enough cooking and eating utensils to make a basic meal; it could be useful if you are trying to save money. The room had cable TV. The bathroom's air vent system seemed to be broken (or missing?). Maid service was fine.The Queen Street environment was, I thought, quite lively, entertaining and certainly safer than the Camden area in my hometown London, which I would compare it with. The hotel was a 5 minute walk from Queen Street down a road that initially looks dodgy but it is really a residential area and there are plenty of nice cars parked on it.I would recommend this hotel for younger, budget and independent-minded travellers who want to be near the attractions of Toronto and don't mind basic bedsit-style rooms and slightly snooty staff. Do not book into this hotel if you want comfort, great service or isolation from others. Otherwise, it’s perfectly acceptable.",
+      "rate": 3.0,
+      "tripDate": " June 2006"
+    },
+    {
+      "title": "Bad experience Sept 2015",
+      "text": "Stayed there for one very terrible night Sept 2015 - room smelled really bad and I should have just left but it was a long day and I had early morning meetings at the U of T.  Big fat bed bug crawled across my bed after I got up in the morning.  Packed my bags and checked out!  They did give me a refund after I spoke with the manager.  He told me \"he had it fixed by 1000\" - absolutely not possible in that time frame - where there is one, there are more!  Hopefully they have truly fixed this problem appropriately.",
+      "rate": 1.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "DONT STAY HERE !!!",
+      "text": "Dont try an be cheap to save an extra few bucks like I did,spent 85.00 a night before taxes,parking fee etc.110.00 a night total for a dump apartment complex,No hair dryer,no coffee maker,they still use keys for locks,in the worst section on Queen st. food and restaurants in the area SUCK and are over priced like everything else in the city of Toronto.For 175.00-200.00 you can stay in luxury at the Radisson water front downtown",
+      "rate": 1.0,
+      "tripDate": " November 2015"
+    },
+    {
+      "title": "Good hotel",
+      "text": "Good hotel near downtown good price fix wifi when I ask them right away but find one lil hair in the shower but most of all this hotel is very good for hotel I payed 150$ stay just for my last nigh there next time I will come back here I think  not from the hockey hall of fame",
+      "rate": 4.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "Economy hotel in Toronto",
+      "text": "The Hotel Alexandra is an economy hotel located near the Chinatown section of Toronto.Its amenities include a fridge and kitchenette.  Quiet neighborhood.  The hustle and bustle of Chinatown is within walking distance.  Staff is friendly and courteous.  Note to the editors of Trip Advisor:  In some other instances (such as where I have been): you have Toronto incorrectly listed as being in Ohio, United States.  Please take note: Toronto is located in Ontario, Canada!There seemed no way to contact you directly, so I have found it necessary to write this brief review.",
+      "rate": 4.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "Great value",
+      "text": "The room was clean & comfortable.  Well-equipped kitchenette, complete with sink, fridge, 2-burner stovetop, microwave, utensils, dishes, pots & pans & clean dish cloth & cup towel.  Free wi-fi & TV reception were good.  The dining table & chairs were handy.  Location was handy to public transit, Kensington Market & Chinatown shops & restaurants.  Borders on a large park in a quiet residential area.",
+      "rate": 4.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "Good value in Great Location",
+      "text": "ProsRoom rates are very low Comfortable bedsMicrowave and small refrigeratorVery cleanClose to chinatown- 1 mile from theater district$7 parkingGood free wifiConsmotel 6 type room and amenities",
+      "rate": 5.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "Good night sleep",
+      "text": "Our room was very clean and tidy.  Comes with everything you need, tv, microwave, sink, burner, dishes, fridge.  The bathroom was also very clean. I will definitely stay here again.  Service was great and friendly.",
+      "rate": 4.0,
+      "tripDate": " May 2014"
+    },
+    {
+      "title": "for a downtown location, it's great!",
+      "text": "stayed for 2 nights.  Location is great walking distance to download.  I used the bixi bike (there are two station near by) I have no problem walk around at night.  it's next to park / school.  you can park at the hotel for $5 (CAD).  At first we got a smoking room on 4th floor... the lady told us it wasn't smoking, but my wife couldn't stand so we ask to for another room.  To our suprise the room faces south got awesome view of the downtown.   if we ever visit Toronto we'll stay here again and request a south view, if you want a view of the CN tower.",
+      "rate": 4.0,
+      "tripDate": " October 2013"
+    },
+    {
+      "title": "Great Location! Amazing service! Sparse, but great value.",
+      "text": "My son and I stayed here two nights. The hotel is sparse, but it has everything you need.  Each room has a fridge, stovetop, dishes, and utensils.  My only \"complaint\" is that you pay per person, and I felt that my son (age 4) didn't merit the \"full\" person charge.  Otherwise, this was a bargain, and the location is a DREAM!  We were able to walk almost everywhere, and used transit for the rest.  This isn't a fancy hotel; it's very basic, but a great value. Yes, the building and its interior are \"tired\", but I've stayed in worse and paid much more for a location on the outskirts of the city, so this is still a bargain.  The area is very safe; we even walked back to the hotel in the dark after dinner at Kensington Market, and I would do so again.  Very vibrant local community (on the fringe of Chinatown), so we saw lots of activity in the park while we were there; tai chi, ballroom dancing lessons, sports, and more.  Most memorable was the SERVICE!  Granted, we didn't need much, but the staff was very responsive, and even let us leave our car there for the entire day after we checked out; this alone saved me $30, which I would have had to pay elsewhere.  I will stay here again, especially in warmer weather.  If travelling alone, I would hesitate in the winter months, as the room is too small for a child to spend a lot of time in.  And yes, parking is a measly $5 a day... But I've stayed at other high-end hotels while in Toronto, and they charge $20+ a night for parking, on top of the room rate... $5 a night?  Yes please!",
+      "rate": 4.0,
+      "tripDate": " August 2013"
+    },
+    {
+      "title": "Cheap hotel good location",
+      "text": "This is the kind of hotel you want to be close to downtown. It offered us a 5$ daily parking. It has a free wifi. There was a strange odor in the corridor but in the room it was ok. Dont plan a St valentine day in this hotel! It is a good hotel with all services and well located. The room had a small Kitchen area.",
+      "rate": 3.0,
+      "tripDate": " March 2013"
+    },
+    {
+      "title": "Good deal close to downtown",
+      "text": "All the hotel rooms in the city centre were booked so I looked a little to the west and found the Alexandra. It's on a quiet cul-de-sac and backs onto a park but is just a few minutes' walk from the restaurants on Dundas and Queen streets, not to mention Theatre Passe-Muraille. The reception was friendly and efficient and the room was clean and comfortable. It had a tiny kitchenette that would be useful for longer stays (mine was just one night). At $99 it was very good value.",
+      "rate": 4.0,
+      "tripDate": " June 2015"
+    },
+    {
+      "title": "Not enough money-There was nothing written about that when I booked",
+      "text": "I stayed at the Alexandra Hotel on July 26 to the 27 2014. I booked online and arrived at the hotel at 3:40 pm on July 26, 2014. I was informed of an extra $100.00 dollar charge because I was paying by debit which I did not have to give them. They therefore requested for me to leave my ID which I think is illegal but we will be letting the Better Business Bureau know about that.  They then were willing to let me cancel my reservations if I gave them $50.00 which I did suggest. The proper thing would have been to let me cancel at no charge because there is no mention of an extra $100.00 dollar charge. In the end, I had no choice but to leave my health card or go to a show carrying a bag with clothes and toiletries. I did not end up sleeping there because I missed the last train to union station and therefore only used the shower in the morning. I checked out at approximately 9:00 and I had to wait for someone to check my room before my health card was given back. I showed up at the hotel sober and I checked out sober so there was not reason to treat me like someone that was going to trash the place. As well, I showed them my license when I checked in and they had my health card that really at 35 years of age what did you think I was going to do to your room. I choose this hotel because my ex-husband and I had stayed there numerous times when we were together but in 6 years things change and the treatment I received was uncalled for. It might explain why my ex only rented a room here once for his visit with his son and has since changed to a different hotel. I will not rent a room here again and I have a few more shows to go to but then based on the note posted at their front desk not to take reservations but peoples names and numbers so they can rent to U of T students first they don't want tourist business anyway. Just to note I am a single mom just starting a career so I am not making a lot of money yet and that is why I didn't have an extra hundred dollars. I paid $157.00 for my room.",
+      "rate": 1.0,
+      "tripDate": " July 2014"
+    },
+    {
+      "title": "neither good or bad, ok",
+      "text": "We stayed here for 1 night. We had read the comments on tripadvisor and were a bit sceptical, but needed a cheap place to stay in Toronto. the hotel itself is in a back street with its own (paying) parking lot. their are safetycamera's which is a plus. Once inside you get the feeling of being in an appartmentblock instead of a hotel. the lady at the counter was nice and gave us some directions on sights to see in the city. The room itsself was outdated but clean. there is a kitchenette with dishes and cutlery. and 2 -small- beds, a double and single. You kind of get the feeling of bein in a hotel of the 80's that hasen't changed one thing. Ok for the price but I get the feeling that their are better hotels / motels in Toronto for the same price",
+      "rate": 3.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "very good",
+      "text": "I found the hotel to be clean and pleasant although not fancy. I would go there again as I thought the place gave good value for the price. the rooms were plain. the location was close to the hospital. I would have liked to have a coffee maker in the room without having to go get one from the office.",
+      "rate": 4.0,
+      "tripDate": " May 2014"
+    },
+    {
+      "title": "Ok place to stay",
+      "text": "CONS- not an actual hotel, I expected more like shampoo and conditioner. the room was not clean, there was hair and urine in the toilet seat when we arrived, stains and more hair on the bed sheets. PROS- excellent location for getting around downtown Toronto, and from desk lady was super nice and informative. the shower had good pressure.I'd recommend this hotel more towards a backpacker then to the average traveller.",
+      "rate": 3.0,
+      "tripDate": " August 2013"
+    },
+    {
+      "title": "Clean, quiet, comfortable, practical",
+      "text": "If you're looking for a clean, quiet room in a decent hotel in downtown Toronto, within easy walking distance of frequent public transit, with a functioning kitchen, all at a cheap price, this is the place to stay.  I spent three nights there this month, having driven up to Toronto (the hotel has ample parking and was easy to get to from the Gardiner Expressway) for a long weekend, and will be staying there again for almost a week this July.  As a practically-minded traveler, not looking for or needing fancy trimmings, just wanting everything to be functional, the Alexandra was perfect.This is not a flashy, fancy, lots of frills kind of place, but for its price you shouldn't be expecting that.  The rooms are basic, but they're practical and clean, and everything in my room worked.  There was plenty of desk space; the internet access worked flawlessly (I used both wired and wireless); the kitchenette had a small fridge (slightly larger than a normal hotel bar-fridge) with a freezer space, a two-burner stove, a microwave, and a random assortment of cutlery, plates, bowls, glasses, and an old-fashioned tea kettle; the building was very quiet despite the hotel being mostly full during my stay; the bed was comfortable; and the air conditioning worked.The hotel is between Dundas St. and Queen St., both of which have a streetcar line that as far as I know runs 24-hours a day.  To get to Dundas St. you walk between a park and a school; that was usually the direction I went and the park was always busy with people getting exercise or just playing on the grass, and there was occasionally a softball game going on.  I made frequent use of the streetcar line, which runs every 10 minutes or so, and have no complaints for it.There's a Loblaws supermarket maybe 5 minutes away on foot on Queen St, just next to the intersection with Ryerson Ave (the street the hotel is on), so stocking the kitchenette couldn't be easier.The house staff were courteous and pleasant to deal with.  I can't speak to their ability to provide assistance for directions, recommendations, and such, because I didn't ask for any.This hotel gets 5 stars because there was nothing about my room, the hotel, or the staff, that I had an issue with.  If you want a clean, quiet space to sleep, with the advantage of a kitchenette, and you don't need the modern trimmings expected in a name-brand hotel, you can't go wrong with the Alexandra.",
+      "rate": 5.0,
+      "tripDate": " June 2012"
+    },
+    {
+      "title": "An okay place for a one night stay",
+      "text": "This hotel is in a slightly shady neighborhood off of Queen Street.  A pretty good value for the money but very tired rooms and you do need to bring your own alarm clock.  There is a kitchenette that you can do microwaving and making tea/coffee in.  Queen street is within walking distance and there are several convenient shops selling simple foods  as well as a lot of ethnic places like Thai food.  I would have felt sad if I was here for days but for a place to sleep and eat a couple of meals it was fine.Kate",
+      "rate": 3.0,
+      "tripDate": " October 2006"
+    },
+    {
+      "title": "The staff & people there were racialists",
+      "text": "$115.00 a night & bad attitude. The white guy and the Cantonese both looked down upon their neighbors and people lodging there.",
+      "rate": 1.0,
+      "tripDate": " June 2005"
+    },
+    {
+      "title": "Very disappointing location and element...",
+      "text": "I was very disappointed with this hotel. I chose this hotel because the price seemed pretty reasonable. It is in a terrible location, it took me 3 hours just to find the hotel, and the locals that I asked for assistance never heard of this hotel or ryerson st. This should have been a sign for me :( When I finally found the hotel, I was very uncomfortable with the location. I drove my a luxury car, and I noticed that as I went into the hotel there was a group of young guys looking into my car. It is located in a kind of runned down neighborhood and its not on a main street. It was pretty late and I had already payed for one night,prior to arriving so I spent one night in that dive. The next morning, I woke up at 5 am and checked out of there. All I have to say is, Please don't waste your money.",
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Place",
+      "text": "My boyfriend and I were on a one night getaway....we're on student budgets so this was perfect. Room was clean, staff was very friendly, building was not sketchy like some that we had looked at. Parking definitely a plus. Definitely will stay again if in Toronto!",
+      "rate": 5.0,
+      "tripDate": " January 2017"
+    },
+    {
+      "title": "Not as bad as it seemed at first",
+      "text": "I was appalled at first by the run-down neighborhood and the ... spartan ... facilities offered by this hotel. Very reminescent of a college dorm. But the neighborhood, which looked like a high crime area by night, turned out to be mostly occupied by immigrant Chinese families in the calm light of dawn, so it is probably okay. The linen was threadbare but serviceable, the high speed connection was both actually high speed and free. The staff was not professionally trained but cooperative. In retrospect it was not a bad experience for the money. But don't stay here if you value appearances. It ain't got any.",
+      "rate": 2.0,
+      "tripDate": " September 2004"
+    },
+    {
+      "title": "Close to Toronto Western Hospital",
+      "text": "Our son needed emergency spinal surgery and we live 2 hours away.  I found this hotel on the internet and it is a 5 minute walk from Toronto Western Hospital.  We were able to leave our car in the hotel parking lot for only $5.00 per day (a bargain in the city) and we could walk easily back and forth from the hospital and cut through Victoria Park.  We felt very safe, even at night.  This hotel looks like it used to be a dormitory but it was very clean (could use some bigger, thicker towels).  There is even a kitchenette with a fridge, sink, 2 burner stove and microwave.  If you want the Hilton, then stay at the Hilton.  This hotel is very basic but met our needs and I would recommend it for anyone needing close proximity to the hospital.  The staff were very helpful and friendly and I would stay there again.",
+      "rate": 4.0,
+      "tripDate": " March 2013"
+    },
+    {
+      "title": "Not fancy but sufficient",
+      "text": "I stayed in the Alexandra while in town for a conference and could not afford to stay in the conference hotel. I had a wonderful experience. My room was clean and very comfortable. Queen St., just a few minutes' walk away, has terrific public transportation to downtown. The neighborhood made me nervous at first but after venturing out I realized that it was a wonderful ethnic area with lots of interesting shops and restaurants. I was not afraid to walk around after dark (I was cautious, but no more than I would be anywhere).  It's not fancy, and the neighborhood in the immediate block is a little edgy, but my experience (3 days) was terrific.",
+      "rate": 4.0,
+      "tripDate": " November 2004"
+    },
+    {
+      "title": "Very bad",
+      "text": "The total charge for 1 night was about CAD 110. The same people also run GRANGE Apartment hotel, which is only a block away.. I had booked my room in Grange Hotel and was directed to Alexandra when we arrived to checkin.All cons, no pros1) The room had a very bad smell of some dog/pet2) The bed and other stuff in the room were very old. 3) The guy at reception was very rude, when asked for direction to nearest scotia bank location4) Though they claim the hotel is at the heart of the city, The area where the hotel located is shady/fishy. One will not feel very safe stepping out of hotel in the night. I am not some one who used to 3* facilities and got shocked seeing a small scale hotel. This stay was really a worst experience by any standards.",
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "OK rooms, shame about the location...",
+      "text": "The room we got in this hotel was compact but had everything that we needed... the kitchenette, although not looking the safest, did mean we had a large fridge to keep the drinks cool in :-) Some staff members were helpful, and the laundry machines on site proved very useful. The room rates were by far the cheapest we had found in Toronto and appeared to offer the best value for money....However, the hotel is situated in downtown Toronto and is approximately a 30 minute walk to the main shopping area / CN tower etc. Much of this is through an area that could at best be described as dodgy... so much so, that we didn't feel safe walking back at night.In summary, the room was ok but small and a little dirty... location is awful! Definitely not for families, but good for anyone on a tight budget (just don't leave your room at night time).",
+      "rate": 2.0,
+      "tripDate": null
+    },
+    {
+      "title": "HUGE MISTAKE ",
+      "text": "It has been by far the worst experience I have ever had in my life, speaking in terms of traveling. I booked and payed in advance for this hotel believing it was \"normal\". However, when I first arrived I was so disappointed: I had payed so much for a place worth half the price. As I checked in, I had to sign a paper saying 1)I understood I was host not a tenant, 2)I understood nor I could do anything illegal neither have dangerous things in my room, 3)I had to leave by checkout time, otherwise my room would be locked and my things would be taken away. Plus, I had to pay a $200 deposit!! What kind of place would do this?? What kind of people do they accommodate?? I got a pretty good idea not only when I read their terms but when I payed with my credit card: \"I have never seen a platinum card before!\" exclaimed the front desk officer.I wouldn't be complaining if I had payed half, because I would he known what kind of place I was going into. It was the worst money-quality balance I have ever experienced.",
+      "rate": 1.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "you only get what you pay for",
+      "text": "We stayed here for one night.  We chose it for its close location to public transport and fairly close accessibility to the theater district by walking.  The price was also very reasonable for downtown Toronto.  My first impression was it was a nickel and dime operation.  When checking in, I observed an interaction whereby a visitor of a guest staying at the hotel asked about parking in the lot for two hours and was told he had to pay the full price for parking ($5. 00 + plus tax) whether he spent 5 minutes or 12 hours.  As a plus, this hotel did have an elevator, but when I went upstairs to our unit, the place reminded me of a low rent long term residence with  multiple cooking scents in the hallway and somewhat noisy environment. In terms of our unit,  It was difficult to navigate around the room, as the kitchen area, dining table and bed were compressed into one little room.  The bed was about a foot or two away from the kitchen area, so you would literally roll out of bed into the kitchen area. The room was clean but very antiquated in terms of the tv, window coverings and smoke detector device.  I would say the room furnishings and bedding were below standard.  The room had a musty smell.  With the window open we used the stove and the fire alarm went off.  We tried to turn it off but could not figure out how to do so.  When we called reception, they did not seem to know where the smoke detector was and therefore were not helpful in helping us turn it off.  Someone from reception did come up on our request and fiddled with it, but by this time, I believe the air was clear and the alarm shut down on its own.  He said that when you use the stove you should leave the window and door open to avoid the alarm going off; if this was the case it should have been posted to alert you.  When we checked out, the reception clerk accused us of breaking the fire alarm detector.  She also did not know about the location of the fire alarm in the room as she said it was by the window but in actuality it was by the front door.  I believe some of the units were upgraded and this may have caused the confusion.  Staying here one night was tolerable but I would not recommend a longer stay.  I found it to be depressing and would not recommend it.    The location was a plus.  Another plus was sufficient on site parking.",
+      "rate": 2.0,
+      "tripDate": " October 2013"
+    },
+    {
+      "title": "BED BUGS",
+      "text": "The employe are very nice. But a soon as we got inside the room with the flip the matress and we saw 2 big bed bugs. We received a refund and leave the building, that took al together 10 minutes. DO GO THERE.",
+      "rate": 1.0,
+      "tripDate": " March 2017"
+    },
+    {
+      "title": "No complaints",
+      "text": "Everything you need on a budget.  Not a new place but if you're not a snob, it is great. Room was clean. Used the shower, it had hot water.  Didn't hear any other guests. Check-in was efficient and fast.  There is parking for a small fee. Spent an hour in the adjacent park Sunday morning watching people do tai-chi while having a coffee.  I really enjoyed the stay.  I'd stay here again and again.",
+      "rate": 4.0,
+      "tripDate": " May 2015"
+    },
+    {
+      "title": "Get the maximum of your money!",
+      "text": "OK, this is not a palace, but for 70 canadian $, you have TV, kitchen, clean room, bathroom, WOW! The place is central, quiet, perfect for low budget who expect a bigger room. I loved my stay there, and would return anytime.",
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

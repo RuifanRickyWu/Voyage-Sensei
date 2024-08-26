@@ -1,0 +1,237 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Hotel Victoria",
+    "url": "/Hotel_Review-g155019-d155573-Reviews-Hotel_Victoria-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 1307
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "56 Yonge St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5E 1G5",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f6/02/40/caption.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Hotel Victoria has stood the test of time on Yonge Street (more than 110 years, to be exact). The Hotel Victoria evokes the soul of Toronto: vibrant, welcoming and modern, with a sense of lived-in history. We’ve got the kind of stunning architectural appeal you’d only find in an original 1900s hotel—and we show it off across every inch of our 56 beautiful rooms and gorgeous shared spaces. We know you’re here to have fun, and with buzzing spaces for dining and gathering, newly revamped rooms and friendly service, we’re here to help make that happen. Think of us as your springboard to adventure—and a welcome retreat at the end of a long, unforgettable day.",
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Restaurant",
+    "Baggage storage",
+    "Newspaper",
+    "24-hour front desk",
+    "Dry cleaning",
+    "Laundry service",
+    "Complimentary Instant Coffee",
+    "Complimentary tea",
+    "Non-smoking hotel",
+    "Ironing service",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Telephone",
+    "Coffee / tea maker",
+    "Electric kettle",
+    "Cable / satellite TV",
+    "Hair dryer",
+    "Clothes rack",
+    "Iron",
+    "Private bathrooms",
+    "Wake-up service / alarm clock",
+    "Flatscreen TV",
+    "City view",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Great Hotel in a Perfect Location!",
+      "text": "We only stayed one night - just for a show at the Meridian Centre.  We tried to check in early and the front desk staff were more than accommodating!Right from the beginning of our conversation, Tamara made us feel very welcome!  She was friendly, warm and had such a wonderful personality. We joked and laughed about the fact that if we couldn't get into our room early, we might have to sleep in the lobby - until my husband asked if we could camp out on her couch!!!Tamara was hilarious!  Her laugh was infectious and she made us feel very welcome!The room was small but cozy and clean - we really only needed a comfortable bed and a bathroom so that was all that mattered.Thank you Tamara for being such a shining light and making us laugh!!!",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Charming boutique hotel, great location & service",
+      "text": "Weekend trip for a show at the Royal Alexandra Theater. We love this location, tons of restaurants within walking distance. Eaton Centre area about 10 min walk. Walk to theater also 10 min. Easy check in with a delightful staff member. Rooms and bathrooms are tiny as with all hotels of this type, but when you're not there much who cares? We were also three adults so could manage sharing one small bathroom (full length mirror outside the bathroom helped). Mini fridge was an unexpected perk; due to small hotel, no ice on every level, have to go to basement - easy or someone from front desk will bring to you. We blew a fuse with hairdryer; a maintenance person came up within five minutes and problem solved. Sadly we forgot a pair of shoes in the closet; happily, hotel kindly accommodated and sent the shoes to us for $25. Love that service! There is no parking specifically at this hotel but there is a structure just around the block on Wellington St (Indigo Pkg Garage), for $30 (American) per night, AND lots of spaces for charging electric vehicles, a pleasant surprise. Would highly recommend this lovely place!",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Excellent value and location",
+      "text": "This hotel is a hidden gem. It states it’s a 3 star but I would regard it as a 4 star. Excellent staff and rooms in a superb location, quite close to Union Station. Me and my girlfriend got off a flight with many many items of luggage and paperwork because we were moving to Canada. Upon arriving we found out that we had been upgraded to a premium room free of charge. This was just what we needed with all our heavy bags and paperwork. Thanks for this it was really what we needed to hear. A very nice room and bed.Thanks to the staff. We would stay again and will be recommending family stay here when they visit.It is very close to very premium and expensive hotels but there is not much point staying there when you can stay in Hotel Victoria.",
+      "rate": 5.0,
+      "tripDate": " April 2020"
+    },
+    {
+      "title": "Bad",
+      "text": "Horrible. I booked a room online and upon arrival after spending 30 minutes looking for parking because the hotel does not have parking that I will be moving hotels. Apparently they had overbooked rooms. The person at the front desk had a list of names of people they were sending away. The hotel had my phone number through the online booking yet made no attempt to call and let me know this in advance. They were not even going to cover the cost of a cab to get to the other hotel they were then sending me to. They wasted my time and money. I had already done a payment for the public parking I had to find only for it to be a waste because I had to drive to a new hotel. This was very unorganized and unprofessional. The hotel should have called me in advance to let me know I will not be staying there on their fault for overbooking rooms. I had plans that were in the area hence booking a hotel in that area just for my plans to be rearranged last minute because the hotel was unorganized and at last minute when I went to check in sent me to a completely different hotel. This was a horrible experience and never again will I be booking with this hotel. They have no respect for their customers time.",
+      "rate": 1.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Not good. Old, not all rooms were renovated.",
+      "text": "The hotel was NOT FULLY RENOVATED! Our room on the 6th floor was not looking like the photos. There was green/blue wallpaper in the room and the walls and the ceiling were dark blue!!! The bathroom was very small. I am 5’2 and I couldn’t sit straight on the toilet. I had to bend my body sideway every time I used the toilet. The room had only 2 dark red color bedside light and a weird lamp. Very dark overall. The tiny desk was painted black and blue and was dusty when we checked in. I had to wipe it down myself. The linens on the bed  were not soft. The noise from the old window AC and the noise from the street (busy street downstairs) kept all my family awake the whole night. For the money we paid $400/night, it’s not worth it.",
+      "rate": 2.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Nice boutique hotel!",
+      "text": "This boutique hotel was very nice. Everything was super clean. The room was a little small but fine for us since we were only staying one night. We were able to check in a little early which was nice. There is no parking but they directed us to a municipal lot a couple blocks away. We parked there overnight and paid about $38CAD when we left the next day, which from my understanding is pretty decent for downtown Toronto. It was nice to be right in the city and be in walking distance to a lot of things. Overall a great value, I would definitely stay here again.",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Great location poor hotel.",
+      "text": "Great location poor hotel.The hotels location as great within walking distance of most if the tourist locations in Toronto.but the hotel look like it's been renovated on the cheap. Our door to our room you could see through the gap when closed as the lock was poorly fitted and you could hear when anyone walk in the corridor,our TV didn't work I asked the staff to fix it but they didn't fix it even though I asked repeatedly.wifi was poor.and we couldn't use the Aircon as it was like a jet engine in the room The room has poor lighting and very expensive for what is a very small room. This place is best if you want a over night stay just sone where to sleep if you have been to a game or concert but not a long stay.no restaurant/breakfast facilities 2 star a best",
+      "rate": 2.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "Ok hotel…with good location",
+      "text": "Stayed at this hotel for 2 nights…the location is very good with lots of eating joints, the metro station very close, access to the path, right in the financial district, st Lawrence market is walking distance etc. The hotel is a boutique hotel with a lot of history. Place is kept clean.The downside is that the rooms were very small..the lighting in the room was very dim and made the rooms feel very depressing…the room didn’t have a full length mirror..the only mirror was above the bathroom sink…the towel holder in the bathroom was broken.Overall the rooms need a lot of work…there are definitely better options nearby  …maybe a few dollars more expensive but much better.",
+      "rate": 3.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Central gem!",
+      "text": "Stayed a few nights and it’s location is great absolutely amazing! Walked to scotiabank arena for ice hockey game, CN Tower, Ripleys Underwater World, St Lawrence Markets etc. Great cafe just down to he street. Room compact but big enough! Very clean! And for you Pokemon or Wizards Unite fans my avatar flitted between 3 Pokestops and a couple of inns.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Hotel with perfect location, but rooms with big limitations",
+      "text": "The location of this hotel in downtown Toronto can't be beat.  There are stores and restaurants and museums all around, and of course, the Lake isn't far.  We were pleasantly surprised by how quiet our rooms were.  (We stayed in two different rooms on two separate stays.)  We didn't hear noise from adjacent rooms or the street.  And the hotel is right on the Yonge street subway line.  The rooms were perfectly clean.  Many reviews of this hotel mention poor lighting in the rooms.  The hotel must have added lamps recently because, with the lamps and the overhead light turned on, the lighting was certainly adequate.  The front desk staff were very pleasant and helpful.  But there were some drawbacks.  The rooms are very small, and they don't include a chair.  Neither of our rooms had a real chair, although the second one had a low leather stool.  Not comfortable for sitting on.  There's no fridge or microwave in the rooms.  Also, there was no closet in either room.  There was a metal rod about 12 inches long in a corner, with a few hangers on it.  If you travel with a lot of clothes that you like to hang up, this hotel is not for you.  The view out the window in both rooms was of a brick wall.  Don't go to this hotel expecting views of downtown Toronto or the Lake.  The elevator is very slow.  And there was no restaurant or snack shop in the hotel, so we had to go out every morning for breakfast.  But there are plenty of places for breakfast within a few blocks.  All in all, the drawbacks are minor if you're going to Toronto to see the sights.  Just be prepared for the limitations.",
+      "rate": 3.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Customer friendly hotel",
+      "text": "This is a budget friendly hotel near to all major attractions in Toronto. You can even walk to all point of interest from this place. Price is basically affordable. Rooms are small but cute. If you’re not choosy about size this works for people on budget. They have a small lobby and a famous restaurant where they served good food at a low price. Staffs are very good and friendly. They are not too strict on check out time, and you are allowed to leave your luggage with them.",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "fabulous, I'm returning for a second stay",
+      "text": "A couple of years ago, I stayed here for the first time for one or two nights. It was by far the best-value mid-range accomodation I've stayed in in Toronto, because it's downtown, close to the train station and comfortable. I've travelled the world and have stayed in a wide range of accomodations, and the room where I stayed in the Hotel Victoria stands out in my memory for its cushy bed and nice bathroom.  Other places I've stayed in the city were overpriced and far-flung, or merely far-flung and cheap but not worth it. Since I'll be travelling by rail between Montreal and Windsor, I've decided to give the Hotel Victoria another go.",
+      "rate": 5.0,
+      "tripDate": " October 2003"
+    },
+    {
+      "title": "Major Disappointment",
+      "text": "We stayed at the Victoria in September 2005. After booking a room with continental breakfast, we were told the that there was no breakfast because the dining room was closed for renovation and unless we could prove in writing we were promised such, ther would be none.. After much arguement with the manager we were finally given breakfast passes to a resaurant nearby. When we got to the room the carpet was filthy. In the night they were working on the building next door drilling holes in the concrete until 11:30 pm and the work began again the next morning at 7am. After discussions with the staff it turned this work had been going on on and off for months.  During all of this the manager was very dificult to deal with and we couldn't find another hotel because the film festival was that week. After much discussion with the manager we were finally moved on the third day to a room that was away from the noise but was just as dirty as the first. After the all discussions they finally did reduce our room rate to that of thier smallest room. Small consellation for not being able to sleep.",
+      "rate": 1.0,
+      "tripDate": " September 2005"
+    },
+    {
+      "title": "Diappoointed",
+      "text": "We had booked a 4 night package with breakfast in August. Upon arrival, we were told that the breakfast room was closed for renovations and the front desk staff was unhelpful with our baggage. There was no doorman. Our bedroom was tiny. We checked out after 1 night and treated ourselves by staying around the corner at the King Edward.",
+      "rate": 2.0,
+      "tripDate": " August 2005"
+    },
+    {
+      "title": "Hotel Victoria-(small but great Location)",
+      "text": "We spent two nights at the Hotel Victoria aug 5-6. We had a queen room and like previous posters have said the room was very small. The location was great as the Wife being a shop-Alcoholic had a short walk to the Eaton Center and I being a avid baseball fan had less than a fifeteen minute walk to the Rogers Center. Lots of great dining choices near by and the noise from Yonge Street wasn't a problem, just the odd siren like any other downtown hotel. As there is no onsite parking We parked about 8 minutes away on the esplanade at a manned parking lot at the end of church street. $30.00 for two and a half days which wasn't too outrageous. Would We return to the Victoria? Likely if the price was right but We like to try different places so not likely anytime soon.",
+      "rate": 3.0,
+      "tripDate": " August 2005"
+    },
+    {
+      "title": "Best location Ever",
+      "text": "We just returned from Toronto and stayed at the Hotel Victoria on Yonge Street from June 11th-June 15th. I was hesitant at first because of the other reviews posted but from past experience I decided to go with my gut, and with what Frommers had recommended. I made the reservation online and received a prompt response. About a week before we left I emailed them and asked to ensure we received a non-smoking room. I just didn't want to take any chances and all was perfect upon arrival. We checked in about one hour ahead of schedule which was nice b/c we wanted to get out and about asap. The staff behind the reception desk seemed to change often which we found amusing. They were all pleasant, not overly, but pleasant and easy to deal with. As indicated in other reviews, the room was small but clean, and this was more important to me. Clean is a must. The bathroom was quaint and our view was, well, a brick wall but we spent very little time in the hotel room so we weren't worried. The temperature rose as the week went on and the air conditioning worked well. Each day we returned to find our room spotless. The one drawback was the lack of a munchie machine in the hotel. This sounds silly I know but when Game 5 of the Stanley Cup is on you need your munchies. There was a pop machine and ice machine in the basement though. Next door to the hotel was a little newstand/convenience store. We only noticed it on day 3 or so and wish we had found it earlier. It was called International News. The woman there was so nice and welcoming and very chatty. It was great. She asked where we were from and where we were going, etc. This was a great place to grab snacks to sneak into the Jays game. The only problem is it closed around 7pm, but that's ok. The woman there made up for it. This hotel is all about location, location, location. It was about a 5 min walk from the Eatons Centre. Yonge Street is incredible, full of shopping and restaurants. I highly recommend Eggspectations just up the road and Shopsy's across the street. Yum. It was also practically right next door to the Hockey Hall of Fame. This made it easy to run around, come back and rest a minute, and then keep exploring. The one thing I really liked about Hotel Victoria is that they were not all gushy over us. We would come and go, they would say hello, and that was about it. The night before we checked out I was stressing b/c our flight was only at 8pm and the thought of dragging our luggage around terrified me. I asked the girl at the desk (I think her name was Carla?) if they would keep our luggage after check out for the day and she said it was no problem and it would be locked up until we returned. Fantastic. This was a big help and a huge relief. One more thing...we never heard a sound from the other rooms or even in the hallways.If you want a pool, a fabulous in house restaurant, and lots of room....do not go here but if you want good value in a great downtown location then this is the place for you. And I'm picky so trust me.",
+      "rate": 4.0,
+      "tripDate": " June 2006"
+    },
+    {
+      "title": "hotel victoria, toronto",
+      "text": "We stayed at the Hotel Victoria for 3 nights during an amazing holiday in Canada. The hotel is in a perfect situation for exploring the city, as it is steps away from the subway (king), and an easy walk to Union Station. From the airport we took an airport bus to Fairmont Royal York (opposite station) and walked to Hotel Victoria.We has a King room with a huge comfortable bed, fridge and coffee making facilities. Everything clean and tidy, and most important to us at the time good air-conditioning, it was 35 degrees at the time..phew.No complimentary breakfast, as there were alterations being made when we were there, but there are places just down the street to eat, Richtree market being the best.",
+      "rate": 4.0,
+      "tripDate": " July 2005"
+    },
+    {
+      "title": "A very pleasant stay",
+      "text": "Hotel Victoria has a great location near many of Toronto's attractions, if you are looking for the fast pace of downtown Toronto. Our family booked two rooms and both were very clean and beautifully decorated. A continental breakfast is included, and the croissants were delicious! The hotel staff is very friendly. The only drawback is that the hotel does not have parking facilities. The closest public parking lot is about 3 blocks away and it will add up if your stay is longer than a night. Overall, staying at Victoria Hotel was very pleasant.",
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "A hidden treasure!",
+      "text": "Unobtrusively tucked away on Yonge Street,  the historic Victoria is what I would consider to be a little gem.  We spent only one night here while in town for a concert, but we would definitely come back again! Our party occupied two Deluxe Twin rooms - one on the seventh floor, and one on the 2nd floor. The one on the 7th floor was definitely the better of the two (much larger, and with a better view), but both rooms were clean (the bathrooms scrupulously so), and the atmosphere was an oasis of quiet in the middle of the hustle and bustle of a big city. In the case of the Victoria, \"old\" does not mean run-down -- indeed, it was much better maintained than many slick new establishments. While lacking in some of the amenities ~ such as a heated pool, a workout center, an in-house restaurant, and room service ~ that some people might consider necessities, we found the Victoria to be charming.  The Victoria is an excellent choice at a very attractive price point. It was within reasonable walking distance from parking and many downtown attractions. The continental breakfast was light, but ample; the staff congenial and helpful.",
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Superbly located for Hockey Hall of Fame visitors!",
+      "text": "My wife and I enjoyed our stay at the Hotel Victoria.Pros1. Hotel is clean and well maintained.2. Staff were polite enough - they could be warmer and friendlier but nonetheless acceptable and par for the course in a big city.3. Compares favorably against other establishments of similar rating and room rates in both USA and Canada. 4. Room is well-decorated, spacious and extremely comfortable with clean and new linen and towels, cable TV, iron and ironing board, coffee maker and free WiFi internet (which works!)5. Conveniently located to shopping, restaurants and, for those keen on walking, within walking distance of the business district and many tourist attractions including the Hockey Hall of Fame, the Waterfront, Air Canada Centre (Toronto Maple Leafs), Roundhouse Park, CN Tower, Rogers Centre, Wayne Gretzky's, Roy Thomson Hall, Canada's Walk of Fame, Eaton Centre, etc.6. Hockey Hall of Fame is only a 2 minute walk away.7. OverEasy, the onsite restaurant, serves fantastic food for breakfast and lunch, at reasonable prices.8. Great Burger Kitchen is a 5 minute walk away at 9 Church St. Possibly the cheapest food within walking distance of the hotel, yet the burgers were fantastic! Especially important as most restaurants in the immediate area are costly.Cons1. No on-site car parking. Note that there is a City of Toronto (Green P) municipal parking facility nearby at 2 Church St. It is a covered and secured parking station for about $14 per day. While the carpark is nearby, it was slightly inclined uphill and very inconvenient with large luggage bags.2. On-site restaurant, OverEasy, is not open for dinner (wish it was!)SummaryI have no hesitation in recommending this hotel, particularly at the discounted room rate I was lucky enough to secure, plus the convenience of location to the primary attractions we wanted to visit eg HHOF. Would we stay again? Yes definitely.I am giving the Hotel Victoria 4 Stars, not as any suggestion of hotel star-classification, but as a reflection of our satisfaction with the establishment. A thumbs up!A humungous thanks should you rate this review as helpful. Happy travels!",
+      "rate": 4.0,
+      "tripDate": " November 2013"
+    },
+    {
+      "title": "Good downtown Toronto option",
+      "text": "The room (2 queen beds) was very comfortable. The location was fantastic. The service was friendly. The price was among the best I could find downtown.The only issue was that I never received an email confirming my booking. When I called about this, the lady confirmed my booking verbally and said she would try to send the confirmation by email. Another guest I spoke to had the same situation. Oddly, I received an email after my stay asking for feedback about the stay.A couple small things to note. The elevator is very slow, just be patient. And there was no fridge in our room, which was unfortunate as we had leftovers from dinner to keep refrigerated.All in all, I would definitely stay there again when visiting downtown Toronto.",
+      "rate": 4.0,
+      "tripDate": " November 2023"
+    },
+    {
+      "title": "Excellent downtown Toronto location at a reasonable price",
+      "text": "A hidden gem in downtown Toronto.  Selected a deluxe queen, and it was just as pictured.  8-minute walk from Union Station, and walking distance to many downtown attractions such as Hockey Hall of Fame, restaurants, and shops.We arrived early, and after a brief wait, we were able to check-in.We will definitely be back.  Thank you Hotel Victoria for a great experience.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Boutique hotel in great location. ",
+      "text": "Hotel Victoria is a nice hotel in a great location. The boutiquiness is also quirky. Some of the charm is a pain, and some of the shortcomings can’t be overlooked. The room that we had was small. The TV small. No HD. Creaky floors too. And an uncomfortable mattress. Also the single elevator can take a while to arrive. But it was charming enough. And cost was very reasonable although the $150 security deposit seems steep. Finally, we like the hotel, and we will be back, and we would recommend staying there, but there are some quirks that could be fixed.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Comfortable & convenient ",
+      "text": "Stayed here for a night while attending a concert nearby. Location itself is central & close to entertainment & restaurants. We were fortunate to have good weather and were able to walk everywhere. Reception staff were great. Our room itself was comfortable, clean & bigger than I expected for a boutique hotel. The decor is modern. My only complaint would be the noise from early morning street traffic below which I’m sure is typical for downtown Toronto. I would stay here again.",
+      "rate": 4.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Visiting Toronto to see Il Volo concert on Jan 28th, 2020",
+      "text": "I was so impressed by the front desk staff who surprised us with an upgraded room at check-in! The hotel is beautiful, with so much character. Clean, quiet and close to our venue, restaurants and the Go Station. It was a perfect stay and we will certainly be back to stay here again!",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Great location, comfy bed",
+      "text": "We were very happy with Hotel Victoria.  The location is close to so much and easy to find.   There is a fantastic restaurant across the street (Irish Emassy pub) and the hotel has a great breakfast restaurant attached...not cheap but excellent food.  Our room was very small but nice and the most comfortable bed i have ever slept in.  Our friends had a king room so they had a bench and a couple of chairs so thats where we visited.  The staff were lovely.  We felt the value was great and will stay here again.  Parking is expensive and awkward but that's Toronto.  All in all we were very happy with our choice.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "A Favorite place",
+      "text": "We have stayed here several times, and have always had a good experience.Staff are great. Location is great. Easy walk or subway ride to everywhere in downtown - entertainment district, Union Station, restaurants, The PATH,",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "a great stay",
+      "text": "The staff here were all attentive and sincere in their services. I loved the sense of history and the blend of old and new in the interiors. The room of course was smaller than new hotels but very functional. I mentioned to staff the lighting could be a bit brighter. The location in Old Toronto is excellent being a few steps from King Subway station.",
+      "rate": 5.0,
+      "tripDate": " January 2024"
+    },
+    {
+      "title": "Great location",
+      "text": "Great location, close to everything in Toronto, a short walk from Union station. A quiet boutique hotel with very patient and helpfull staff, great for us as we just got off a transatlantic flight. Clean all over with everything you need. Good breakfast with a good selection of food to chose from. A bit small rooms, but still we wanted for nothing.",
+      "rate": 4.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "My Birthday Baseball Trip",
+      "text": "Clean facility, Courteous Staff, the bed was overly comfortable! Just a fabulous base to work from for Hockey Hall of Fame, Rogers Centre, CN Tower, Eaton Centre walking distance to ALL! I will Happily Return!",
+      "rate": 5.0,
+      "tripDate": " August 2023"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "The Strathcona Hotel",
+    "url": "/Hotel_Review-g155019-d186946-Reviews-The_Strathcona_Hotel-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 2226
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "60 York St At Wellington St.",
+      "addressLocality": "Toronto",
+      "postalCode": "M5J 1S8",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cc/82/cb/suite--v14971979.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Welcome to The Strathcona Hotel Downtown Toronto. Come home to the best location in Downtown Toronto. Imagine all the comforts of home combined with one of the best locations in downtown Toronto and you’ve got The Strathcona Hotel. Stay.Play.Work.Meet.Explore. We can handle it all. And just outside our doors is the best of downtown Toronto. Our downtown Toronto hotel is across the street from the historic Fairmont Royal York Hotel, Union Station / VIA Rail and within two blocks of the Air Canada Centre, Rogers Centre, Metro Toronto Convention Centre, CN Tower, and more located in the midst of the theatre and financial districts. The guest rooms and suite accommodations at The Strathcona Hotel downtown Toronto combine style and substance and have been designed for the contemporary wireless world. We provide easy access to all you need to do by day or night including dining at The York Street Café, dinner and drinks at The Strath Pub, or a workout followed by a massage at the Wellington Fitness Club located right next door. Life here is fresh, functional, friendly, and fun. Sure you can work here, but you’ll do it with a smile. As an independently managed hotel, the good news is that we can break all the rules to do what it takes to make you feel warm, welcome, and worry-free. We get that it’s all about best value for dollar, well-maintained rooms, functional meeting and event space, accommodating staff, and, of course, location, location, location! Come to play. Come to meet. Come to get down to business. We’re more than happy to welcome you home.",
+  "featues": [
+    "Valet parking",
+    "Wifi",
+    "Bar / lounge",
+    "Business Center with Internet Access",
+    "Meeting rooms",
+    "24-hour security",
+    "Baggage storage",
+    "24-hour front desk",
+    "Paid public parking nearby",
+    "Restaurant",
+    "Breakfast available",
+    "Breakfast in the room",
+    "Snack bar",
+    "Special diet menus",
+    "Vending machine",
+    "Newspaper",
+    "Non-smoking hotel",
+    "Dry cleaning",
+    "Laundry service",
+    "Ironing service",
+    "Air conditioning",
+    "Housekeeping",
+    "Room service",
+    "Safe",
+    "Coffee / tea maker",
+    "Flatscreen TV",
+    "iPod docking station",
+    "Complimentary toiletries",
+    "Telephone",
+    "Iron",
+    "Wake-up service / alarm clock",
+    "Hair dryer",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Close and Comfy",
+      "text": "If you are looking for walkability in Toronto, The Strathcona Hotel is perfect.  Just around the corner from Union Station, you can walk to many of Toronto's attractions including The Metro Toronto Convention Centre, Ripley's Aquarium, The CN Tower, City Hall, The Eaton Centre, Queen Street and all of the wonderful restaurants just steps away.  The rooms are small but have all the amenities, including a night light in the hairdryer rack and an iron and board conveniently stored behind the bathroom door.  There is an extra blanket and a suitcase stand; two items that are often missing in small rooms of other hotels.  I especially liked that shampoo and shower gel is provided in a dispenser in the shower with font large enough to read unlike many of the small bottles that make using them a mystery.I've attached photos of the bedding which is very comfortable, snacks that were made available, and the closeness of the Hotel to Union Station.The staff were wonderful, very professional and knowledgeable .... and a whole lotta fun once you get to know them. Rubino and his co-workers provide excellent service!",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "STAY HERE!!!",
+      "text": "My boyfriend and I had a truly wonderful stay at the Strathcona Hotel. The staff were incredible pleasant and helpful. Our room was great and very clean. Excellent location - walk everywhere. We ended up trying the breakfast they offer ($20pp). It was VERY high quality, great selection and you could tell it was prepared fresh. They even cook your eggs for you, just the way you like them! I would definitely recommend it - perfect fuel for a long day out in Toronto.This will be our hotel of choice whenever we return to Toronto.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Hidden Gem in the Heart of Downtown Toronto ",
+      "text": "I love The Strathcona Hotel! I’ve stayed there the last few times I visited Toronto because it’s a great hotel.This time, I stayed in one of the penthouse suites on the top floor. It was gorgeous! A beautiful grey leather sectional set the stage. It was perfect for watching tv or working. The bedroom was well appointed, with a comfy queen bed and nice bedding.And the bathroom...almost as big as an entire room, it had 4 shower heads - two regular and two massaging rain heads. Michael checked me in, letting me into the room early (not expected but sincerely appreciated). He made sure I knew where the shopping mall was and some local restaurants. Excellent service! And when I was leaving, the front desk staff were kind enough to hang on to my luggage for several hours so I didn’t have to drag it with me. Also, its a couple of minutes from:The train from the airport The Metro Toronto Convention CentreStadiums ShoppingTons of great restaurants If you want an affordable hotel that’s clean and well appointed, check out this hotel. It’s small but mighty!",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Great Hotel & staff in a central location.",
+      "text": "Stayed just two nights here in a family room which, although felt a bit on the small side, was very clean & cosy with very comfortable beds. The Strathcona is pleasant, well maintained hotel, located a convenient 2 minute walk from Union Station (from which the UP Express train runs to/from Toronto airport). There are restaurants very close by and the hotel is only 5-10 walk away from the Toronto Eaton Mall. We had to adjust our travel plans as the Covid-19 restrictions increased, resulting in a late night flight back to Ireland. The hotel allowed us to stay on in our room til 3pm and looked after our cases while we went out to get something to eat (with no extra charge). The staff were very friendly and helpful, giving us some bottles of water  when we finally left. Highly recommended and would defintely stay again if ever in Toronto.",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Amazing service",
+      "text": "My friends and I headed to Toronto for New Years Eve and (thought) we had booked a room with two doubles through Expedia. Turns out it was two singles and upon going to the busy front desk, we were greeted with great and flexible service. Tiffany offered us a good deal and we got to tour the King Suite with a housekeeper then, Michael, the manager, were told that we could upgrade for donating money to the food bank. What a great idea and win-win situation. The Suite was very nice and overall it was a very pleasant stay!",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Perfect location!",
+      "text": "Have always stayed at a neighbouring hotel but then learned about the Strath. Original room was extremely small with little hobbit sized beds but we approached the front desk and they upgraded us to a Queen and all was good in the world again. Best location! We were attending a concert and could walk there in 3 min. Tim Hortons across the street for your morning fix.Staff were lovely and very helpful!!",
+      "rate": 4.0,
+      "tripDate": " October 2019"
+    },
+    {
+      "title": "Great stay great staff",
+      "text": "Great staff, great stayThis hotel stay surpassed my expectations! Staff are very attentive and helpful specially the guest services manager zelika . We ere upgraded to a executive room, which was spacious and comfortable. The decor was nice and everything was in good condition. The beds were comfortable and the linens and pillows very nice. The bathroom was spotlessly clean. It really seemed that the housekeeping staff take a great deal of pride in their work, which I really appreciated.York cafe was wonderful - nice decor, great staff, really nice buffet-style breakfast in the morning. I loved the morning coffee in the room .It was a wonderful stay looking forward for the future stay.",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "High costs do not match room quality but it does in location",
+      "text": "I recently stayed here for one night for business. The hotel lobby and restaurant were beautifully decorated. The hotel itself seemed a bit dated but overall very clean!It’s unbelievable how costly rooms are especially when you get the smallest (which I had) which was the Smart Queen. It’s like a New York bachelor apartment in that it’s basically a bed the size of the room. But the room was clean and had all the necessary room features so it was a comfortable stay. I think the significant price reflects the location which can’t be beat especially if you work in the financial district.",
+      "rate": 4.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Best brunch in a long time",
+      "text": "Reading negative reviews mainly focused on the size of the room. I was surprised as well to see how small the 'Executive Queen' room was (the ironing board took up any spare space). Having travelled  bit, it reminded me of hotels in NYC and Chicago to name 2. What are we to expect right smack downtown close to everything? Prime real estate. Once I adjusted to the room size I was fine. The room was clean, had a coffee maker (tea for me) and a fridge which are 2 things that makes my stays more comfortable. We don't normally splurge on paying for breakfast but since we had plans that day, we figured it might be our only good sit down meal. Thank goodness we did. Don't let the small buffet setting fool you. They have a bit of more than you would expect. Enough to appease any diet. They cook your eggs fresh to order.  They have standard bacon, sausage, hashbrown (best ever) but also fresh breads, fruits, smoothies, granola and oatmeal to name a few. They had these delicious little pieces of cinnamon bread topped with banana and  strawberry.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Great place to stay",
+      "text": "An excellent place to stay with amazing customer service. Tiffany at the front desk was super friendly and very helpful with getting checked in. we had very noisy neighbours and she was able to help us switch rooms without a problem. Great location right beside union station, would recommend.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Average",
+      "text": "I was moved here by Airbnb after my rental had issues. It’s very tiny, the room also had a strange smell, the elevator buttons and door knobs also shocked me occasionally (maybe because of the cold). If you’re a lover of fine things, you will not enjoy this place.",
+      "rate": 2.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Extraordinary Customer Service for Cancelled Reservation",
+      "text": "At the end of February our VIARail reservation on The Canadian was cancelled because of the indigenous peoples protest blocking the tracks.  As a result we needed to cancel a pre-paid reservation at the Strathcona made through a third party.  The third party refused to credit me and said that I needed to deal with Strathcona, who had already credited the third party for my reservation.  To make a long story short, Michael Kashan, the Front Office Manager at the Strathcona Hotel, worked hard on my behalf to get my refund.  It took a number of emails and significant time to make me a very satisfied customer.   So \"hats off\" for a job well done by Michael and the Strathcona.  I look forward to personally meeting him on our next stay!",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Staff was great...hotel not so much",
+      "text": "Rubino checked us in and he was fantastic!  Once in the room, which was tiny, the ratings went down. Bed was uncomfortable and the room had wear and tear (gaps in floor board for one). Location was ideal. I would recommend looking elsewhere for a weekend getaway hotel.",
+      "rate": 3.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Pretty good",
+      "text": "Front desk staff are not friendly or really attentive. The elevator was not working the day we checked out and staff didn’t seem to care. We were lucky we were booked on the a/c and quiet side of the building, but heard other guests complaining about the lack of a/c and noisy from nearby bars. Bed is fairly hard but comfortable. Pillows very large. Room was very clean. Good wifi.",
+      "rate": 4.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Miss",
+      "text": "Once we finally got here Walid at the front desk was more than accommodating. Wasn’t in a good mood when I got here. He was patient, he explained everything and he even upgraded us to a queen size bed instead of twin beds. You made our night.  We will be back.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Location, but not much else",
+      "text": "This hotel is located very close to the Union Station, the CN Tower, Rogers Center etc. and has a Tim's across the street. Very convenient. Other than that, we did not much care for the place. The room was clean, but very small. The TV was undersized too, the toilet paper roll was almost impossible to reach, and from the window you could only see a wall towards other rooms. There was no safe. There was a lot of noise from the hallway. For almost $250 you'd expect more. Only one elevator worked, there's ice and vending only on the third floor. Just to get into the lobby was difficult - no doorman, and small, stiff doors to pull open. No breakfast included either. I've reviewed well over a 100 hotels, and this is one of the biggest disappointments thus far.",
+      "rate": 3.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "No hassle refund from Jonas at Strathcona Hotel",
+      "text": "At a time of precedented anxiety and hassles about almost everything, I'm happy to tell you that Jonas cancelled my reservation quickly and politely. First class. I will definitely stay at the Strathcona in the future (once the pandemic passes). Thank you Jonas.",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Nice hotel, close to Scotiabank arena",
+      "text": "Booked this trip from a 3rd party, Should have booked directly with hotel. The room I expected was for 4 adults with 2 queen beds. What I received was an extremely tiny room with 2 double beds overlooking a roof. The room only had 2 towels and absolutely no room for stay over. I went to front desk and spoke with a very nice gentleman Jonas. He was very understanding and agreed to give us the room I expected at no extra charge. Jonas was very helpful. I would recommend this hotel, and Jonas if you have any issues. Jonas saved our stay here. Thank you. Do not book from a 3rd party!!!!!",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "FYI before you show up",
+      "text": "If you have an upcoming stay at this hotel I would suggest you call ahead and see where you are staying. I showed up to the front door to be told this has become a homeless shelter and my reservation was at another hotel 3 km away. No calls or emails were made to me prior to my showing up. Had I known my weekend arrangements would have been different. They offered to pay my cab fare since I was on foot.",
+      "rate": 2.0,
+      "tripDate": " September 2020"
+    },
+    {
+      "title": "Awesomeness! This Roque is happy.",
+      "text": "I spent a night at this hotel for new year's and I'm so glad I chose Strathcona.Tiffany had really good energy and Michael not only caught me on time give me my phone in which I forgot, he made sure to put a smile on my face and set this new year in the best way possible.I recommend anyone to accommodate at Strathcona!Happy new year!Ps: Sergey (I couldn't read his name well) last night was great too.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    }
+  ]
+}

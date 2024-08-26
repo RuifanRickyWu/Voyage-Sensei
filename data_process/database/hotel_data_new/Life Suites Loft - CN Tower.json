@@ -1,0 +1,308 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Life Suites Loft - CN Tower",
+    "url": "/Hotel_Review-g155019-d12034975-Reviews-Life_Suites_Loft_CN_Tower-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 50
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "20 John St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 0G5",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/41/1d/7a/life-suites-loft-cn-tower.jpg?w=500&h=-1&s=1"
+  },
+  "description": "A Luxury Loft with french balcony in a Super Location to the Entertainment District’s most popular attractions. Located directly across the CN Tower, Metro Convention, Union Station, Rogers Centre, Ripley's Aquarium & surrounded by finest dining, shopping & nightlife. HIGH END EXECUTIVE LOFT - DOWNTOWN TORONTO ***THE SUITE*** This is a high-end executive suite, fully furnished 1 bedroom (550 sqft/49 sqm) in Luxury State of the Art Tridel Building. Excellent Layout with modern décor. Ceiling to Floor glass in Living area. The master suite is equipped with very comfortable queen size bed. Separate living area to relax in. One full bathroom and a quiet FRENCH balcony for your enjoyment. ***INCLUDED IN SUITE*** 1 Comfortable Queen bed (sleeps 2) Clean bedsheets, blankets & towels 1 pull out sofa bed (sleeps 2) Stainless Steel: Fridge, Stove, Dishwasher, Microwave Cutlery & Basic Kitchen cookware En-suite Laundry Washer & Dryer Iron and Iron Board Bathroom essentials",
+  "featues": [
+    "Paid private parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Children Activities (Kid / Family Friendly)",
+    "Business Center with Internet Access",
+    "24-hour security",
+    "Concierge",
+    "Secured parking",
+    "Wifi",
+    "Sauna",
+    "Hot tub",
+    "Non-smoking hotel",
+    "24-hour check-in",
+    "24-hour front desk",
+    "Clothes dryer",
+    "Laundry service",
+    "Washing machine",
+    "Air conditioning",
+    "Dining area",
+    "Seating area",
+    "Sofa",
+    "Kitchenette",
+    "Cable / satellite TV",
+    "Sofa bed",
+    "Bath / shower",
+    "Clothes rack",
+    "Iron",
+    "Dishwasher",
+    "Microwave",
+    "Refrigerator",
+    "Stovetop",
+    "Kitchenware",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "AirBnB in disguise ",
+      "text": "I made the reservation through Expedia. I thought it was a hotel, but it wasn't. It's actually condos inside a Tridel condo building. It's kind of like an AirBnB. I picked up the key from the concierge. Communication with the Life Suite Loft team via text and email was  pretty smooth and fast.This is my first time staying downtown since living in Toronto for 30+ years. Me and 2 of my friends had tickets to watch a musical at the Princess of Wales but because of the severe snow storm forecast , we decided to stay downtown. Nearby hotels like Hyatt, Marriott and Fairmont, 1 night was around $600. When we saw LSL 1 bedroom suite for $305 plus $25 for parking, we booked it instantly. Overnight parking at Marriott was $56!!!! The parking here is cheap.The building is 5 mins walk to Princess of Wales and lots of other restaurants. I would recommend this to my friends who visit from abroad for its proximity to many essential tourists destinations.The unit itself was spacious. The view was fantastic, we were on the 40th floor. Though the wait for elevator was sometimes long.The king bed in the master suite was comfy. But the double bed in the den was too soft, and no bedside table. The unit description said the can accommodate 6 people. But I think 4 will be max as there is only 1 bathroom.LSL has 2 and 3 bedrooms units . I will definitely tell my visitors to book this place",
+      "rate": 4.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "City centre stay in Toronto",
+      "text": "Great central Location with lots of amenities within walking distance including Ripley’s aquarium and CN tower. Easy access to public transport for more distant travel. Good flat clean and spacious. My Only issue was I expected a kitchen in a flat for 5people to have better equipment. The pots provided were tiny and I was not able to cook at all. I booked a flat with an equipped kitchen to give me the option to cook. If you’re not planning on cooking great flat. I f you want to cook, bring a wok or your own pot!",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Worth the frustration",
+      "text": "Overall it’s worth staying here. Just know in advance that it is clunky checking in at best. It took more than half an hour for the front desk to locate my room key. There was no fob for the underground parking, and although the front desk let me into the parking garage I did still get ticketed overnight. The pull out couch is not great for sleeping, it’s best to just leave it tucked in and sleep on the couch. The location, view, and room amenities are all fantastic, and for the price I would say it’s worth the frustration. I should also mention that although they say that your security deposit is returned after inspection on the day of your checkout, the email I received after inspection stated 1-2 weeks. I’ve been home for a week and still haven’t received my deposit back.",
+      "rate": 3.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "VERY UNSANITARY",
+      "text": "DO NOT STAY HERE! Absolutely disgusting! We checked in and found old opened food in the freezer. We tossed the food and moved on. When we were packing up we noticed one of the beds had blood stains all over the sheets and underside of the duvet cover. My friend had been sleeping in the bed and hadn’t noticed as she hadn’t opened the sheets  all the way and the stain was on the lower half of the bed and the pillows were covering the stains at the top of the bed. It was absolutely revolting and when we reached out to them they were not at all apologetic, offered no type of refund for the unsanitary conditions and were just rude and accusatory. I would absolutely NOT stay here, but if you do, make sure you do a thorough check of all bedding and the whole apartment at check in, as they clearly have very low standards for hygiene and cleanliness.",
+      "rate": 1.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Great location/ Not worth it",
+      "text": "personally look at reviews before I book a room so hopefully, this will help you! PROS- location is great. Secure building. Parking under building was reasonable.Its a condo.Communication was good. CONS-They needs tons of information including two pictures before you book. Confusing regarding a parking spot code (took us a long time). Need to obtain keys from a kiosk which was confusing. 2 bedroom condo has little living space.No plugs if you want to take a bath.Stains on rugs and blinds. Need to pay damage fee which took a full week to get back.",
+      "rate": 3.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "UNSAFE! NOT RECOMMENDED",
+      "text": "I was excited to try an alternative hotel accommodation for business travel, I've used Airbnb many times for personal travel and had great experiences. To access the flat,they email you a day before with the flat number and building code (no doorman), then the flat is totally unlocked for access. When I arrived at 11pm, the balcony screen door was broken and removed from the hinges and the balcony glass door was completely open. As a young women traveling alone, I was totally freaked out, not knowing who had been in the flat through either the unlocked front door or broken and open balcony access.I left and found a hotel with secure access. The Life Suites staff refused a refund for the unacceptable accommodations, didn't even apologize for the horrible experience, and were overall very rude. Not a safe or secure space, wouldn't recommend to anyone. By far my worse hotel, motel, or private home stay experience (and I've traveled on a weekly basis for the last 3 years).",
+      "rate": 1.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "Good location, bad support",
+      "text": "The hotel is good, very well located, but there are some problems at the unit and the crew that rented us didn`t answer any of our e-mails.There was a broken glass door when we arrived, the air conditioning was not working, and, besides it was announced as a non smoking apartment, there was a terrible smoke smell all over the place. We tried to reach them but no answer at all.",
+      "rate": 2.0,
+      "tripDate": " July 2017"
+    },
+    {
+      "title": "Location only",
+      "text": "I will list the negatives first. We are on a long holiday and I booked this apartment for 4 days as a break from Hotel stays and to get washing done and have some home cooked meals. For starters, there were no instructions on how to use the washing machine. only one big saucepan and two frying pans, no toaster and no plug for the sink. After several emails, a sweet young lass called Anna provided a toaster, washing machine instructions and a bucket as no plug was available.But the worst about this unit was the lack of window coverings. There are some flimsy see through curtains which dont even cover all the windows and two dark curtains at each side that are only about half a metre wide- on windows approx 4 mtres wide!! This meant that the sun streamed through the windows making it difficult to see the TV, heated the room up and made it very glaring. The thermostat seemed to be broken as no matter what temperature it was put to, it did not change. We ended up having the balcony door open all night to try and cool the place down. It made the small bedroom very stuffy and I ended up sleeping on the couch to get the breeze from the open door.The 2 couches are very low to the floor and I found it difficult (after a knee op) to get up from them- and very uncomfortable to sleep on. The TV screen is quite small for the size of the room and with no instruction manual was difficult to navigate.Now for the positives. Wifi was great, had no trouble logging inand no drop outs. The linen and towells were clean and adequate. There was plenty of supplies of toiletries etc. The location is fantastic. Surrounded by great eateries and across the road from the CN tower.I peeked over the balcony at other units and they seemed to be in better condition- at least had decent window furnishings from what I could see.I think its apalling that in this case, the owners can accept a high end fee for letting out their appartment without having some obligation as to the condition and amenities of it.For around the $250 per night that we paid, I'm sure we would have been better of getting hotel accom and using their laundry services.",
+      "rate": 1.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "City apartment for rent.",
+      "text": "Although this was not a hotel, it was managed well. There is no front desk, but detailed step by step check-in instructions are emailed ahead of time. Also follow up emails were sent to be sure there were no problems in getting in the room. There is a phone number to call with any questions or problems. There was a complete kitchen (oven, fridge, freezer ... ) equipped with cookware, utensils and dishes. Keurig (with pods), tea pot, toaster, etc. Everything else a hotel room has - ironing board, iron, toiletries, hair dryer. Even a cot, although, I can't figure where there would be room to open it up. Underground parking was available for $20. The location was super - very close to CN Tower and Air Canada Center, for example. They do charge a cleaning fee on top of the room rate. I do not think they clean everyday - only after checkout.",
+      "rate": 4.0,
+      "tripDate": " January 2017"
+    },
+    {
+      "title": "Shady organization, impossible check-in, no one to contact.",
+      "text": "Shady organization, impossible check-in, no one to contact. We have been sitting in the lobby for an hour. Apparently they send you a text, then you send them $300 extra dollars, then they are supposed to give you a room number. When it doesn't show up for an hour you are told to call Expedia (who has no involvement and can't do anything). If instead you call that original number that texted you what you believed was an automated text you might be able to get a room number. Give that to the concierge and they will call the property manager (what!???) who will come from somewhere at some point to let you into the room.NEVER BOOK HERE!!!",
+      "rate": 1.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Suite on downtown Toronto",
+      "text": "Great suite for multiple day downtown Toronto. Across the street from Toronto Conference Center and very close to CN Tower, big Sports and entertainment venues.My Suite #819 was a partial 1 bedroom. Quiet, easy, well appointed, private and functional.",
+      "rate": 4.0,
+      "tripDate": " November 2018"
+    },
+    {
+      "title": "Something Different",
+      "text": "The final leg of our rail trip from Quebec City arrived at Toronto’s Union station.   We chose to stay at the Life Suites Loft for two reasons – proximity to Union station (10-minute walk) and the promise of overlooking the CN Tower.   Life suites delivered on both promises - a location in the heart of the downtown entertainment district with easy access either on foot or by the metro to many of Toronto’s attractions and  eclectic districts.   This was the first time we eschewed a tradition hotel for a loft/condo experience.   To be honest, the property is probably more suited for a group of guys in town for a weekend event (Rogers Centre and Scotiabank Arena are both within blocks).  We missed the convenience of a 24-hr front desk, on-site luggage storage and a concierge. The room was quiet, the bed was ok but small for two people, the kitchen was adequate, and the bathroom lighting was a bit dim.  My wife may have said it best observing that the loft was most likely designed and decorated by a man.     The management, however, was very communitive via text and email and did make an effort to make our stay pleasant.   Special thanks to Moreal who helped us coordinate the pickup of our errant passports.  Finding out that the nearby Union station also had an express train to the Toronto airport made our choice of Life Suites worthwhile.",
+      "rate": 3.0,
+      "tripDate": " October 2018"
+    },
+    {
+      "title": "Good location on Front Street but Mediocre stay",
+      "text": "Booked for Canada Day night after the Blue Jay game, very noisy and definitely a young vibe, lots of groups going in and out with large coolers, not very welcoming for older people.  Suite was ok, no hand soap in dispenser, blind slats to balcony kept falling down and there were no chairs on balcony to sit out on very hot day.  Great if you want to show up with lots of friends and party  - against house rules of course,  would not return.",
+      "rate": 3.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Plenty of Hassle",
+      "text": "Unfortunately, the concierge Craig A. was not hospitable.  I'm not sure how we got off on the wrong foot but he seemed to be on top of us our whole stay (not in a helpful way).  Our group of 5 couples all paid to stay at Life Suites for a mini-getaway and we were treated like we were troublesome teenagers!  We are all close to 50 years old!  We tried to be nice but he is not a happy person.  He shouldn't be in the hospitality industry as he's condescending and doesn't seem to even like nice people.   There is obviously a communication break down as Hotels.com advertise online that we are able to use the cabana on the roof top terrace; not the case according to Craig A.  He promptly kicked us out even though they weren't being used and the pool area was quiet and basically empty.  We are all professional, easy going people, so it was a disappointment to keep having to be confronted by his unpleasant nature.  Well, we are all great friends so we made the best of it and still had fun even though it seemed like it was his mission to be in our faces! lol  We were hoping he would just have a day off but he was like the Terminator and just kept coming back!! :(  Not to be mean and I usually don't take the time to write reviews but this was warranted.  Maybe he should look for a different job where he doesn't have to work with people.  We won't be wanting to come back to this location ever again.  It's too bad as the area is close to everything.",
+      "rate": 1.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Horrified - rip off for the money!",
+      "text": "Booked for one night - thank goodness not any longer! Choose for the location. We pulled up, thought we were getting a decent place but when we entered, it felt like a horror show! Knife cuts in the leather couch all over it. Turned down the duvet on the bed and found a live baby cockroach on the pillow! Pool and patio area was filthy as were the elevator floors. I was so disappointed because for the money we could have stayed in a much better hotel. Was scared to sleep! Awful experience.",
+      "rate": 2.0,
+      "tripDate": " June 2018"
+    },
+    {
+      "title": "loved it",
+      "text": "These small but comfortable suites have it all.Very good location in the middle of tornoto. CN tower and Blue jays stadium just outside the window.complete kitchen, washing machine, dryer, dishwasher, coutch to wacht TV and enough closet spaceAnd to top it all off: a pool and fitness studio on the roof and parking in the building Parking in toronto is hell otherwise!!",
+      "rate": 5.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "Great location perfect for 2",
+      "text": "The location of this apartment is absolutely perfect for exploring Toronto! The apartment is great value for money as comparable hotels were a lot more expensive. The only downside is that the floor was a little dirty but the rest of the apartment was lovely and clean. I would recommend staying here if you’re in Toronto.",
+      "rate": 4.0,
+      "tripDate": " October 2017"
+    },
+    {
+      "title": "Great location....TOO HOT!",
+      "text": "Suite was nice, clean, GREAT location.  Check in/parking instructions were top notch and easy.  Quite painless really.  Building was well kept and quiet.  Great view of the CN Tour and Roger's Centre.  Our issue was that the building had turned off access to the air conditioning for the season a few days prior to our arrival.  The entire time we were there it was in the mid 20's (C) INSIDE the suite.  The lobby thermostat showed 27C (it was 22C outside).   We were on the 6th floor so impossible to sleep with the 1 window/door open.  We went to Canadian Tire and bought a fan...it helped a bit but it was a sauna in there.  Word of advice...if you're going here during a transitional season you might be left too hot or too cold based on when the building turns chillers/heaters off an on.",
+      "rate": 4.0,
+      "tripDate": " October 2017"
+    },
+    {
+      "title": "Good Location ! Easy Check in ....",
+      "text": "We stayed at life suites apartment condo at 300 Front St. Perfect location and central to rogers centre and air Canada centre. CN Tower is right beside building.  We had no issues with checkin and our unit was clean and cozy . Nice view of cn tower and 5 minute walk from Blue Jays game.",
+      "rate": 3.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Perfect spot",
+      "text": "Decided to stay in Life Suites Loft for two nights during my stay in Toronto. The location is perfect, really central and with a lot to do nearby. Convenient parking in-house. Few steps from the Roger Center, home of Blue Jays.",
+      "rate": 5.0,
+      "tripDate": " July 2017"
+    },
+    {
+      "title": "Great times in Toronto",
+      "text": "Great experience in Toronto. When I was booking the suite I was not sure if I was choosing correctly. But simce the first minutes in my suite, I realized the choice was the best I could have done. Great space, very clean and with all the items you will need to have a great time: confortable bed, nice view of the CN Tower and a great kitcheen. I recommend it!!!",
+      "rate": 5.0,
+      "tripDate": " March 2018"
+    },
+    {
+      "title": "Spacious and Cosy",
+      "text": "We stayed here on the 10th floor for 2 nights and it was a big studio apartment with a living room that can accommodate a sofa-bed and a dinning table. However, not all the rooms are the same size and our friend got a smaller apartment (without dinning table) although they paid the same price as us. So we were luckier to get the bigger apartment. This apartment location is also fantastic as it is within walking distance from union station and also has lots of food options around. We also tried to walk to Chinatown which took us approximately 30-40min walking with small kids. There are also rental car companies nearby like Thrifty or Hertz which you can choose to rent and return on the same day. Else you can also choose to pay CAD$25 to park the car overnight which we thought was too expensive.",
+      "rate": 4.0,
+      "tripDate": " March 2018"
+    },
+    {
+      "title": "Lovely apartment!",
+      "text": "Very good stay! We really enjoyed staying here. It is warm and cozy and a modern apartment with lots of facilities. We definitely recommend staying here. We asked to leave our suitcases after check out and they said that was fine.",
+      "rate": 5.0,
+      "tripDate": " October 2017"
+    },
+    {
+      "title": "Satisfactory",
+      "text": "Stayed here for two nights in August 2017. Stayed in a small apartment of the 22nd floor of the 300 Front Street complex. Very centrally located for CN tower, Rogers Centre Union Station and restaurants.Instructions were clear through good communication by email. Unit was clean and tidy and generally well stocked.Would recommend these units to others who would want to stay in Toronto.",
+      "rate": 4.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "So disappointing... could have been great ",
+      "text": "Oh dear. It wasn't off to a good start when had to email a few times to find out if there was a safe. Got in fine and the actual condo block is really nice. There is a lovely rooftop pool and gym and the location is excellent,literally right across from the Rogers Centre. That was excellent. Went up to watch the Canada Day fireworks from the CN tower. Sadly there were a number of things in the condo we were unhappy with. We emailed about these and received NO response. There was a cream footstool that was filthy, should be flung out, the extra fabric sofa was stained and covered in hair, so yuk, a broken glass in the cupboard, had to vacuum a dirty floor, the dishwasher was broken, and stains inside the duvet. I emailed asking for washing machine instructions and did not get a reply. Such a shame as could have been a lovely stay ...",
+      "rate": 2.0,
+      "tripDate": " July 2017"
+    },
+    {
+      "title": "Fly Condos - 352 Front Street West",
+      "text": "Best location if you are looking to stay in downtown Toronto.  It's literally minutes from the ROGERS centre and all kinds of restaurants.The building is secure, very modern, clean and easy to find.  Check-in instructions were easy to follow.The suite we stayed in was on the 6th floor on Front Street West.  It was a one bedroom, one bath. Small but very bright with one wall being windows and a balcony. The suite was modern and well kept.The suite has a full kitchen with coffee pot, pots/pan, dishes, microwave and dishwasher; washer/dryer; hair dryer; and iron/ironing board.  Lots of towels were availale for us to use. It really had everything we could possibly need.I would stay here again",
+      "rate": 4.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "A Great Place to Stay!",
+      "text": "This was my first time trying any kind of \"alternative\" lodging, either at home or abroad (I am truly a hotel girl), but due to its location and past ratings, we thought we would give it a try---so glad we did!  The atmosphere was modern and eclectic, the full kitchen helped us stay true to our Lenten observance, and the view--well the view from the balcony was nothing short of spectacular from the 22nd floor.  The staff friendly and personable, and management is truly representative of the highest level of customer service. Our bed was comfortable, the shower hot and refreshing, and it was literally steps away from several entertainment attractions and most importantly for this time of year, the PATH--Toronto's series of  underground walkways and skywalks, which keeps you out of the elements, and brought us from the UP Station (Toronto's metro which brings you from the Airport in a fast and easy 25 minutes) right to the CN Tower, Rogers Centre, and other great places.  I will definitely make Life Suites Loft my \"home away from home,\" whenever I'm back in Toronto!",
+      "rate": 4.0,
+      "tripDate": " March 2017"
+    },
+    {
+      "title": "The perfect location for a downtown stay",
+      "text": "We stayed at a 1 bedroom unit for 4 nights. Check in was very quick and smooth.  The unit we stayed in was not in perfect shape - scuffs on walls etc., but nothing that ruined our stay.  We had a leaking coffee pot the first day, and within 20 minutes, a new one was delivered to our door.  Pros:  quick and easy communication with host, perfect location by Rogers Centre, CN Tower, great restaurants, grocery store.  It's a very quiet building with great amenities - pool, cabanas, grilling area, steam room, hot tub - all wonderful.  Pool was open until 11 pm and had the perfect view of the CN Tower.  Wifi was very fast.  Felt very secure.  The price for this unit was well below a simple, basic hotel room in the downtown area.  Cons:  lack of extra towels, dish cloths.  The pull out sofa was a bit of a sketchy bed for our teens.  They slept ok on it, but I wouldn't have been able to.  There is no front desk so if you arrive early you'll need to leave your luggage at the Intercontinental Hotel just across the street for $5 a bag - wasn't a big deal and actually was fairly convenient for us.  We were just glad to have somewhere to store our bags before we could check in.  I would 100% stay here again and would recommend it to others to stay here as well.",
+      "rate": 4.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Luxury and clean apartment on great location",
+      "text": "During my time in Toronto I enjoyed this great apartment. Location is great and a lot of facilities in the condominium (especially the gym with the great view). The bathroom was clean, the kitchen included all equipment you need and the bed was very comfortable. I already recommended this place to my friends in The Netherlands.",
+      "rate": 5.0,
+      "tripDate": " February 2019"
+    },
+    {
+      "title": "Very wonderful Suite",
+      "text": "Life Suites Loft is really a home far away from home. The hosts are very approachable and kind. The suites are really comfortable to stay with. Very near to good places and shopping sites. We'll definitely be back here.",
+      "rate": 5.0,
+      "tripDate": " February 2019"
+    },
+    {
+      "title": "First Class Location, 2nd Rate Accomodation",
+      "text": "We travelled as a family of 6, we double checked with the agency the accommodation was suitable for 6 people. The accommodation provides one decent Queen bed in a bedroom with a sliding door, one queen in what is effectively the entrance lobby to the apartment and a small double sofa bed in the living area, all fine and serviceable for a prime location city living high rise. The issues were several, the sofa bed simply wasn't good enough to start with, it was a 'cheap' piece of furniture' that split 1/3 to 2/3 lengthways, the bedding for the sofa bed was part missing and the specification for what should be provided is inadequate, the sofa bed was a vinyl sofa where it is intended one single sheet provides the ground sheet, so inadequate for a proper bed let alone a vinyl covered mattress that has a 'deep grove' running lengthways through it. In spite of immediate protestations to the agent the further bedding material only turned up on Day 3. The apartment had a dining table with 4 chairs so we had to eat in 'shifts' washing up cutlery and crockery in between meal sittings too, as there were only 3 or 4 plates, similarly bowls and cutlery too. More crockery turned up on Day 3 after asking for this on Day 1 but still only 4 chairs. I could go on but sadly the apartment simply isn't 'up to the job' and the hassles / annoyance that arose cast a real shadow over our stay in Toronto with some very unhappy family members. Very poor.",
+      "rate": 1.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "Very disappointed with this place",
+      "text": "Before we checked in I wanted to ensure we could have two keys, they said we could.  When we checked in there was one key, we never did get two, the place was dirty, there was no hand soap, the TV wasn't working.  I emailed them and heard nothing.  After 5 emails they finally came to fix the TV but nothing else.  I would say your money is better spent elsewhere as the customer service or service in general is lacking with this place.",
+      "rate": 2.0,
+      "tripDate": " April 2018"
+    },
+    {
+      "title": "Great location - nice apartment",
+      "text": "Stayed one night only. Unit was very clean and had everything you would need. Small one bedroom apt - I was on 22nd floor. Only one of 3 elevators working so took awhile to get up and down at times.  Track lighting had only 1 out of 3 bulbs working and ceiling light in bedroom and living room did not work - suspect burnt bulbs.  There is a $55 service charge that you have to watch out for but I got a good deal on the apt. Close walking distance to everything you would need. Easy check in via email instructions.",
+      "rate": 4.0,
+      "tripDate": " November 2017"
+    },
+    {
+      "title": "Great location",
+      "text": "Stayed here for business mid week. We were connected next-door at 300 Front St. Easy check in, booked on Expedia. Received check in information a couple days prior and all information was correct. When we got to the hotel you buzz the code and go up to the room the door was unlocked and the keys were in the drawer as promised. We had a two bedroom unit overlooking Front Street with a nice balcony outside. We did get a call midway through the evening while we were out stating our music was too loud but we were not there so not sure what that was all about? One word of caution when booking online the final price was almost $50 more than advertised with all the extra hidden fees not including parking. After I realized this we probably could've booked at a better name hotel for around the same price. I don't know if we would've gotten the same size of unit though. Location is great.",
+      "rate": 4.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "Family stay",
+      "text": "5 of us stayed in Aug as part of our family tour.The accommodation was in a great location and it was everything that we needed.Loved the extras of the washer and dryer and dishwasher made life easy.Good size and therefore value for money",
+      "rate": 4.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "Cute but pricey for 1 night",
+      "text": "The start of our day was a disaster. The front staff did not give us the square key fob to open the garage doors (have to pay 25$ for underground parking) After calling the management of the life suites we found out that they gave us the wrong keys, to begin with. When we finally got the correct keys they told us the fob is upstairs, no fob there either. Luckily for us, a nice couple let us use their key fob to enter the underground parking. Beware it is a very tight squeeze in the parking. Finally, we made it to our loft. It was small and cute, perfect for what we needed it for. We quickly realized the thermostat did not work and was set at 25 degrees all night, HOT!!! Thank goodness for the sliding doors. If you want a balcony, request one. We stayed in 618 and did not have a balcony. The pull out couch was broken as well. In total there was four of us, two in the bed (Comfortable) and 2 on the pull-out. The pull out part did not connect so it was always sliding while we were trying to sleep. We probably would rent again as it is so close to the Scotia Bank Arena and lots of restaurants.",
+      "rate": 3.0,
+      "tripDate": " April 2019"
+    },
+    {
+      "title": "Total disappointment...",
+      "text": "Disappointments all the way... 1st- door was left unlocked by cleaner while our luggage was in room... 2nd- toilet constantly running had to turn water off... 3rd- ensuite smelt of urine... 4th... no running water on second day. No communication about problem from host or reception. 12hr with no water!!!!",
+      "rate": 1.0,
+      "tripDate": " October 2018"
+    },
+    {
+      "title": "Great Location but Lots of Hassle.",
+      "text": "We booked through Expedia.ca with the usual efficiency.  Our documentation told us that our room number would be e-mailed 2 days prior to arrival.  We did not receive it but had all of our confirmations so did not worry too much.  Indeed, the e-mail was sent but arrived an hour after we had left for our long drive to Toronto.  As we did not have data on our cell phone, we did not have access to it until we got to our room (too late).  The concierge told us that he did not have that information and that we had to call long distance to get it.  We did so.As per instructions, I went to the room to get the keys and the FOB for parking access.  The room key was there, as was the FOB for building access but not the one for parking access.  Back to the concierge - more instructions to call long distance.  However, he did buzz to let us into the parking garage.  As we were only staying one night and did not need our car, I opted to e-mail rather than call.  No response was ever received.When it came time to depart, I discovered that I could not take the elevator to our parking level, without using the room FOB but we were instructed to leave it in the room (and e-mail that we had left).  I had to use the FOB and have my wife hold the door on the elevator while I ran back to the room - very annoying.  The room was adequate, the bed comfortable and the location perfect so not all was bad.  That said, the experience was not good..I will not stay here again, unless there is no choice/",
+      "rate": 2.0,
+      "tripDate": " September 2018"
+    },
+    {
+      "title": "Excellent location and spacious room",
+      "text": "We booked this room for me, hubby and our nearly 2 year old toddler. The apartment was great.The bathroom was clean and spacious, but only had a shower. Shower gels and shampoo were provided. The kitchen was also nice and clean, we only used the sink and fridge mainly.We also had a washing machine and dryer, which meant that it was easy to wash our clothes.The best thing about this place, is the location! We were able to walk to a lot of the key places and make various visits to the canada sign. There are a lot of good eating options near by, some are pricier than others too.I would happily book this place again, due to the location and size and prices weren't bad at all.The only downside was that there was no concierge and security weren't always great to give advice about what to do there.",
+      "rate": 4.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Excellent Location",
+      "text": "People needs to be aware this is an apartment and not an hotel.So you do not have the services you will expect from an hotel (housekeeping, concierge, dining room....)However, we were very pleased with the accommodation, amenities and service provided.We requested higher floor prior our arrival and we were given an apartment on the 22nd floor (2203), beautiful view across Toronto.The location is the greatest asset: just across CN Tower. From airport you take UP express train to Grand Union which is 10min walk.LifeSuites advised us check-in was at 4pm and we will received check-in instruction prior. Which they did and it was well explain. They suggested a luggage storage company in case you arrive earlier. Actually, Intercontinental hotel can keep your luggage for £5 ! That was much cheaper than the suggested company. Intercontinental is 5min walk from LifeSuites.The concierge were very helpful and friendly.The apartment was good, modern and rather clean (a bit of dust in some areas). Kitchen was well equipped (oven, microwave, induction cooker, dishwasher, fridge/freezer), with everything you need to do self-catering; a separate room for washer/dryer. TV and WIFI works fine.Bathroom with walk-in shower. Suggestion to improve: there is nothing to hang your clothes.The studio was spacious and well comfortable (no noise). However, ours had no blackout curtain! So daylight in the bedroom from 4am !!! While, it is a recent tower block (nice & modern interior) in-keeping could be better:Door of the wardrobe had derailed, badly burn side table on the balcony, a broken footrest on the balcony, curtains not hanging properly. But hey those are just details. When we arrived it was 28 degress celcius in Toronto, the studio was facing afternoon sun and was very hot without blackout curtain, imagine floor to ceiling window. Turn the air-con right down to 18 degrees but after several hours nothing.We went to the pool but were told we could not use it on the weekend as you need to hold a wristband. We were extremely disappointed it was advertise we could use the facilities (same information were given in the flat). So we contacted LifeSuite by email regarding the air-con not functioning and about the pool being inaccessible.We receive prompt response and the next day in the morning air-con was fixed and we received the wristband for the pool! Immediate action and problem solved. On the 15th floor, there is a leisure facilities (pool, sauna, BBQ, gym, yoga studio, game room).Overall, we were very pleased with the service and the facilities provided. The studio overall was spacious, modern and best of all the bed was very comfortable!Truly recommend if you are staying downtown, although not sure what the other appartment are like.",
+      "rate": 4.0,
+      "tripDate": " May 2018"
+    }
+  ]
+}

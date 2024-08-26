@@ -1,0 +1,311 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Courtyard by Marriott Toronto Airport",
+    "url": "/Hotel_Review-g155019-d224671-Reviews-Courtyard_by_Marriott_Toronto_Airport-Toronto_Ontario.html",
+    "priceRange": "$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 457
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "231 Carlingview Drive",
+      "addressLocality": "Toronto",
+      "postalCode": "M9W 5E8",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0a/03/0e/the-bistro.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Paid public parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Bar / lounge",
+    "Free airport transportation",
+    "Business Center with Internet Access",
+    "Conference facilities",
+    "Parking",
+    "Wifi",
+    "Hot tub",
+    "Heated pool",
+    "Shallow end in pool",
+    "Restaurant",
+    "Breakfast available",
+    "Vending machine",
+    "Free shuttle or taxi services",
+    "Airport transportation",
+    "Shuttle bus service",
+    "Banquet room",
+    "Meeting rooms",
+    "Baggage storage",
+    "Newspaper",
+    "Non-smoking hotel",
+    "Shared lounge / TV area",
+    "ATM on site",
+    "24-hour front desk",
+    "Dry cleaning",
+    "Laundry service",
+    "Air conditioning",
+    "Housekeeping",
+    "Safe",
+    "Coffee / tea maker",
+    "Microwave",
+    "Flatscreen TV",
+    "Walk-in shower",
+    "Bath / shower",
+    "Refrigerator",
+    "Complimentary toiletries",
+    "Non-smoking rooms",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "A nice weekend away",
+      "text": "We seem to keep coming back to the same hotel each time we're in Toronto.  Why?  Quite simple.  We find it good value for the money spent.  Granted you have to pay for parking on site ($20 CAD/night), but all the hotels right near YYZ charge.  In the grand scheme of things, the parking price is pretty reasonable for where you are.The rooms are all recently renovated.  The bed we had was very comfortable, the room was very well cleaned except for the window (perhaps housekeeping should actually clean the windows instead of leaving the smudges and fingerprints on it).  The room we had with a single king bed and sofa was very large.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Not quite the usual welcome",
+      "text": "We arrived at the hotel around 14:30. Check in is not until 15:00, but when I checked in I was told because I asked for feather free due to allergies my room may not be ready. So he got on the radio and asked if the room had been changed to feather free. after they answered he said once again \"because you want feather freee it's not ready it'll be 30 minutes to an hour\".  I really didn't appreciate being told it's my fault that the room is ready because I asked for feather free. but he did all the stuff to get me ready to have room cards. Swiped my credit card and told me to sit or return in a while. So we parked the car and got our luggage out. when we came in with the luggage (about 3 to 4 minutes later) he excused himself and said he forgot to swipe my credit card. I told him he had already swiped my credit card and i really didn't want to give it to him again. He said if I didn't give it i could not get a room. I told him to check the account it would see it was already done. He refused. He looked like a slob, tie all crooked and dirty full of dust and short white hair like the cat slep on it and his name tag sad Team lead or something similar. He was in charge which was really sad. the lady beside just kept shaking her head. must not be the first time this guy is really confused. First time I was not greeted as a reward member. Rooms were average but clean. Not sure they should put him in charge of dealing with the public because he failed from start to finish",
+      "rate": 3.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Mike's January 2 & 3 stay",
+      "text": "Everything was excellent.  Great staff, very clean, great location (for my needs).  My only minor annoyance - which in fairness likely occurs at many hotels, is have to pay for parking when I am a paying guest.  They should issue the permit free.  This is just an unpublished (I didn't see it when I chose this hotel) cash grab.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "3 night Quarantine stay",
+      "text": "I had booked my stay(3 night mandatory quarantine) 4 months ahead and once I arrived to the hotel they charged me $700 extra. I had no choice but to pay and once I complained no one cared to answer. I have called them several times to talk to management and I haven’t been successful. In total it was very awful experience to book in advance but regardless of your booking or reservation you get charged extra. I will contact the consumer perfection to complain.",
+      "rate": 1.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "~~~  What  a wonderful stay ~~~",
+      "text": "One of the amazing hotel I stayed during  my two week east coast business meeting  , very convenient location  lot of Asian restaurants and shopping mall in walking distance ,  perfect for people craving for Asian food , friendly staff , spacious lobby and open 24 hours  , I have no problem with my room on the third flour , clean and comfortable , comfy bedding , not a spot or hair can find , what impressed me most is the Asian Lady who worked at the front desk , \"Peter \"  I am so impressed with  her Can Do Attuite , professionalism  beyond my expectations ,with all aspects every request I had  was happily fulfilled , special standing in the rain in the  parking lot to  shown the location of my restaurant I want to go  ! wow ! with my five  decade in hospitality and 7 restaurants under my belt  , I never meet some one like her so passion about there  work ! great job !  Thank you Peter our group very enjoyed the time we stayed !",
+      "rate": 5.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Would Not Visit Again",
+      "text": "Hotel was fine but a bit dated. Good location across from the Park & Fly. On returning from our trip I noticed an unexplained separate charge to our credit card on a different date for an unusual amount. Did not look like a \"hold\" amount. Called the hotel and was told to wait to see if the charge got reversed. Ended up having to call the credit card company to get it reversed. This also happened to our travelling companions who were in a separate room and their charge was for a different amount. No explanations given.",
+      "rate": 3.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Be very careful booking here, they don’t fully disclose costs",
+      "text": "Called hotel directly to reserve, was quoted a price, wasn’t told the quote was USD plus a booking service fee that was also USD. So a full $100 Canadian more than we were expecting to pay. Got in at 1:30am and was charged $25+tax to park my car in the hotel lot.",
+      "rate": 1.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "Not a bad stay",
+      "text": "Stayed here one night before a flight. Within walking distance of some good food places. Had everything we needed and it was quiet and clean. The room even had a Keurig. The shuttle runs every 30 mins and goes direct to the terminals.",
+      "rate": 5.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "THE airport hotel to stay at.",
+      "text": "Great hotel if you are traveling from Pearson Airport.The rooms are large and clean and modern.  We travel as a family of 5, more than enough space and charging ports!  IYKYKThe staff were so friendly and so helpful.  Only a pool, no hot tub but the pool is warm and large.  My teenage son said the workout room was very well equipped. I love that the car is locked up while we are away!!  Shuttle to the airport is very fast and comfortable. We got lucky and got a room where you saw planes landing up close.I recommend this experience if you are traveling with kids. The rooms must be sound proof, you barely hear their engines or anyone else for that matter.",
+      "rate": 4.0,
+      "tripDate": " February 2024"
+    },
+    {
+      "title": "Great service, convenient, and comfortable",
+      "text": "We were able to book our stay with very short notice (there was an error in our flight booking). They offer great shuttle service that can conveniently take you to and from the airport which is only about 5 minutes away. The room was clean and ready for our arrival.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Close to airport. Decent parking. COLD POOL",
+      "text": "Decent. Clean. Rooms are half decent size with mini Fridge. Fitness room is nice. Pool is very cold. Barely heated. Not good in winter. We complained a few times. Kids didn’t get in it was too cold. There are many hotels with pools that are much warmer. Good location, close to airport, and many restaurants.",
+      "rate": 3.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Fine for 1 night",
+      "text": "Only there one night for business, however the stay was good and the room was clean.  The customer service was professional as well.  Airport shuttle was timely.  Only down side is it is noisy in the room from the highway.   Get as high of a floor as possible.",
+      "rate": 4.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Great location near the airport and eating places",
+      "text": "We found this to be a Great overnight place near the airport.  We also appreciated the shuttle to the airport for our flight the next day.  Very clean and modern and some eating places within walking distance.",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Great airport hotel",
+      "text": "Great hotel for park and fly! We stayed the night before our vacay and left our vehicle for 10 nights. Hotel was nice, modern and clean. Vehicle was in the same condition we left it (which is always a fear when parking near airport). Friendly,  efficient staff!",
+      "rate": 4.0,
+      "tripDate": " April 2023"
+    },
+    {
+      "title": "Plane watchers heaven!",
+      "text": "Marriott's Courtyard properties are uniformly good. I've stayed in them throughout North America, and frankly can't understand why the average business traveler would pay more if the Courtyard is near other major hotels (who really NEEDS room service?).Anyway, the Toronto Airport location was great. If you enjoy watching airplanes take off and land, let the desk clerk know. The airport is right next to the runway, and Toronto's airport puts on a great show with aircraft from all over the world. If you're a light sleeper, don't worry. Aircraft take offs and landings are effectively shut down from midnight to 7:00 am (there's the occasional stray). While aircraft noise was audible from time to time, it wasn't a problem for the average sleeper.Also, the shuttle will have you to/from the airport VERY fast. It's about a five minute drive.",
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Stay...",
+      "text": "This review will be easy, because our stay was excellent! We have stayed here once before.  Both times our stay has been fantastic.   The rooms are immaculately clean, and modern.  (Hotel is fairly new.)The pool is on the smaller side, but the kids still enjoyed themselves..   Staff so friendly and accomodating.",
+      "rate": 5.0,
+      "tripDate": " June 2006"
+    },
+    {
+      "title": "Fantastic Hotel",
+      "text": "We just returned from a weekend stay at the Courtyard, I am impressed!I had looked at other hotels in the Toronto area, read the reviews and chose this hotel because of what others had written on TripAdvisor. The room requested was a smoking room, most hotels the smoking rooms have the “odor” this did not, the housekeeping staff was excellent, the room was cleaned completely and very well. I requested an extra coffee pack and received 3, very nice touch. The front desk staff was exceptional as well, friendly and  courteous. Mr.Greek's restaurant is just wonderful as well, something you have got to try!  If ever in Canada again we will stay there!",
+      "rate": 5.0,
+      "tripDate": " September 2006"
+    },
+    {
+      "title": "Almost perfect stay!",
+      "text": "We stayed here New Years Eve 2006, and the staff were so friendly, even though they had to work on the holiday. The hotel looks exactly like the pictures. It was very clean and well maintained. The pool is clean and ejoyable.The best part of our stay was the Mr.Greek restaurant beside the hotel, amazing service!Only downside was the day we were checking out, they insisted on checking our room before we left. I've never had that happened before, they have our credit card imprint, what more do they want?",
+      "rate": 4.0,
+      "tripDate": " January 2006"
+    },
+    {
+      "title": "close to airport,highways.",
+      "text": "stayed 2 nights in march 2012. The rooms were clean. Front desk is very helpful. Parking is $12/night. The pool is nice and big. The jacuzzi was kinda small and not much pressure.I definitely recommend this place.",
+      "rate": 5.0,
+      "tripDate": " March 2012"
+    },
+    {
+      "title": "Great Hotel near Toronto Airport",
+      "text": "The Marriott Courtyard Airport is perfect for a weekend getaway. The rate, 99 CAD, can not be beat. The hotel is located roughly five minutes from Toronto Pearson Airport and the hotel has an airport shuttle service which stops at the Marriott Airport and the Courtyard Marriott. The airport shuttle is clean and runs every fifteen minutes.Hotel Check-in was very quick and easy. The staff at the front desk is very courteous and knowledgeable about the Toronto area. In the lobby of the hotel, there is a restaurant that only serves breakfast and a bar. The breakfast buffet at the restaurant was really great; there were eggs, bacon, make your own waffles, fresh fruit, sausage, eggs, cereal, muffins, and an omlet chef. For $14 CAD a person, this wasn't a bad deal.I received a room facing the airport. I really enjoyed this because I could take the chair next to the bed and place it near the window and relax and watch the planes soar by. From around 10am to 10-11ish pm, you can hear the planes pass over the hotel. However, if you turn on the air conditioning, you won't even notice the noise. Perhaps the worst part of this hotel was the comfort of the bed. I found the bed to be stiff. Although I was so tired I fell asleep quickly, this could be a problem for other guests. But once again, for 99CAD, I was not complaining. Using public transportation, it will take about an hour to get to Union Station, which is where the CN Tower, Rogers Centre, Air Canada Centre, and Hockey Hall of Fame is. The cost to go downtown  using public transportation is about 2.75 CAD a person. Public transportation is probably the best way to get to downtown Toronto because a taxi will run you about 45 CAD.The area surrounding the hotel is very safe. However, if you venture too far from the hotel, it gets a little sketchy.  For dinner, there are three restaurants within walking distance of the hotel: Arizona Bar and Grill, Mr. Greek, and the full-service Marriott Airport which has three restaurants. Airzona Bar and Grill is NOT the place to go with children. However, the food at Arizona Bar and Grill was really great. I did not try Mr. Greek. Overall, I was very pleased with the Courtyard Marriott and would stay here again.",
+      "rate": 5.0,
+      "tripDate": " March 2007"
+    },
+    {
+      "title": "Poor Quality",
+      "text": "Poor quality, bad service, it looks like a one-star motel. It looks good at the advertised photos but it's not. Also, we were waiting more than 40 min at the airport for the shuttle bus and there was no seat available. When they carry us from the hotel to the airport the driver was over-speeding and he did many hard brakes.",
+      "rate": 1.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Well-situated for airport stay",
+      "text": "I selected this airport hotel for a combination of airport-proximity, price and previous ratings.Shuttle seemed to reliably come through the airport on a schedule, and the journey to hotel is a few minutes.Room was decently quiet, about the right size, and everything worked. I didn't get to try many of the other facilities.",
+      "rate": 4.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Park & Fly",
+      "text": "Staff was amazing! We originally planned to stay using the Park and Fly feature so that we could stay the night before flying out on a trip and leave our car at the hotel until we returned. Our return was delayed by a day, due to a mishap with our flight, and when we called the hotel to explain we'd be late picking up our car, they didn't even charge us for the extra day since it wasn't our fault. We will definitely stay here again! The rooms are clean and quiet and the location is just a quick shuttle ride to the airport.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Clean, Good Value, Convenient Shuttles",
+      "text": "I just needed to a place to stay near the airport after a long day of flying. Booked this hotel with my Marriott points. Good value. The shuttles run every 30 minutes. You don't have to call them if you arrive at normal hours. Just wait by the post 41 outside of the Only a couple of restaurants within walking distance from the hotel. Nothing else. The room is really clean. The shower is good. The bed is pretty comfortable. The shuttles are on time. The choices are the small marketplace are very limited. Wish they could have more food options. I'm a Marriott Gold member. No breakfast. I was given a bottle of water. The front desk staff was very friendly though. I may stay at this hotel next time if I just want an easy stay near the airport.",
+      "rate": 4.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Would stay again",
+      "text": "Close to airport.  Resturants within walking distance .  Shuttle worked smoothly and staff was helpful.  The pool was very cold and didn't seem heated to us, even though response to another review said it was fixed.   We wouldn't even try it.   Would stay again",
+      "rate": 4.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Great sleep",
+      "text": "Good sleep near airport. Great bed.  Clean room.  Restaurant/bar in lobby was good and friendly service. Had a tasty quesadilla. Very accommodating to let us check in early. Shuttle to airport runs every 30 minutes and only 5 minutes to get there.",
+      "rate": 4.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Will stay again",
+      "text": "Staff were excellent, rooms are very nice clean and comfortable.We booked online and were treated amazing. Had a couple of drinks and some of the best wings I have had in a long time. Small sports bar type environment but so welcoming and friendly.Airport shuttle was right on time every time.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Clean room",
+      "text": "I enjoyed my two night stay at the hotel. Lots of parking available, freindly staff and clean rooms. The food at the restaraunt was good and fresh. Close walk to hooters and other restaraunts. All in all will stay here agian!",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "5 star hotel at 3 star price 👍👍",
+      "text": "Had the pleasure to stay at this hotel while on stop over while  travelling  from BC to Dominican Republic  on two occasions.  Rooms were well appointed, staff helpful, airport shuttle on time and was a short ride.Will definitely stay at this place again.  Five star hotel, much less expensive than what you would pay in Vancouver.",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "1 night stay",
+      "text": "1 night stay after 1 week Caribbean trip.Fast check in, clean spacious room with many dinning options nearby.Beds are comfy and staff are courteous and respectfully . 2nd time staying here and will be back .Great job and keep up the great work.",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Great Hotel for Connections",
+      "text": "There are multiple Courtyards in YYZ area. Airport Courtyards tend to all be similar hard product-wise, this one was recently renovated but definitely didn't blow my socks off either. What stood out to me was the consistently attentive service by the front desk and housekeeping team, they were awesome during my short layover. The shuttle service was much more reliable than some other YYZ area hotels too. I think this will be my new go-to YYZ hotel going forward when I'm paying out of my own pocket.",
+      "rate": 5.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "A good choice for early morning flights",
+      "text": "We initially had a reservation booked at another airport hotel before our Christmas vacation flight.  I'm guessing they were overbooked as they moved us to another Marriott brand hotel, which we had stayed at previously.Solid hotel stay...beds were comfortable, bathroom was clean, shuttle ran on time (first shuttle at 3:55am) getting to both terminal 1 & 3 within 5 minutes of leaving hotel.Long term parking is \"off-site\", but is literally next door at the old Carlingview hotel.  Steel gates on either end of the front parking lot actually make your vehicle safer there that in the regular parking lot.Would stay here again.",
+      "rate": 4.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "Great hotel, super close to airport!!!",
+      "text": "Courtyard properties never disappoint.  I've stayed at properties in many areas around the world and they always are clean, professional and accommodating. This location was extremely clean and modern, with excellent front desk and bar/lounge attendants. Thank you for being so awesome and I look forward to coming back soon!!!",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Dirty toilet",
+      "text": "Checked in was not friendly at all. Gave us key cards with the wrong room number and when I called that the key was not working and the room number from my marriot app was different from what was given, I was just told to try the key to the other room. No apologies given.Dropped our bags and left right away to attend a concert no chance to look around the room. We came back around 2-2:30pm and found the outside of the toilet was covered with pee marks and had to call frontdesk and moved to another room.",
+      "rate": 1.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Still trying to resolve unexplained credit card charges",
+      "text": "I have a charge on my card that I can not explain, from a stay last week.  I have tried twice to resolve this issue, and though I feel I was very calm and courteous on the phone with the hotel representative, I ended up being hung up on. I now have no alternative but to try to resolve this issue by disputing the charge through my bank.  I would not recommend this hotel, as their staff seem unable to resolve issues in a businesslike manner.",
+      "rate": 2.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "The front counter staff is the best feature",
+      "text": "The front counter staff were helpful, polite, friendly and accommodating. The room was not cleaned or tidied during our two night stay; supplies were not replenished The rooms are clean but worn. The bathroom walls are dirty, tub is older style. There is a keurig and small fridge so those items were appreciated. The room is spacious.The food available was limited and overpriced.",
+      "rate": 3.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Perfect for our overnight layover",
+      "text": "Perfect for our overnight layover in Toronto. The shuttle was easy to find and came every 30 mins. Front desk was welcoming and friendly after a long flight and the bed was comfortable. No shampoo or conditioner provided in the shower though",
+      "rate": 4.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "Unexpected Surprise!",
+      "text": "We usually stay at the Marriot, but they had no room with a King.  They offered to book us at the Courtyard, which we always assumed was of lesser quality.  Boy, were we wrong.  The rooms were recently completely renovated.  Every detail was thoughtfully and beautifully and beautifully done.  I loved the new shower, no longer a tub.  The bed super comfy, bedding perfect, not too heavy.  A small couch for relaxing.  A table with wheels if you want to dine in.  Too many more options to list.  Including a white noise machine, if you want to mask the outside noise.  Will definitely be back.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Stay, play and park with ease",
+      "text": "Recently stayed at Courtyard by Marriott Toronto airport the night before traveling to Turks and Caicos‘s for six nights. We parked our car in a gated lot and used the free shuttle to go to the airport that was minutes away. Upon arrival back home we took the shuttle back to the hotel and retrieved our  vehicle. This was booked for us through AAA I highly recommend this hotel and parking plan to anyone that would like to stay, park and play😊",
+      "rate": 5.0,
+      "tripDate": " February 2024"
+    },
+    {
+      "title": "Good choice for early morning flight",
+      "text": "We had to over night close to the airport for an early morning flight.  Shuttle to the hotel was easy to find runs on schedule.  Check in was easy.Room was modern and very comfortable. Hallways were a bit noisy with people arriving on flights at late hours but there was a sound machine in the room that helped.  We were back to the airport in the morning fresh and awake!",
+      "rate": 5.0,
+      "tripDate": " August 2023"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Filmores Hotel",
+    "url": "/Hotel_Review-g155019-d616910-Reviews-Filmores_Hotel-Toronto_Ontario.html",
+    "priceRange": "$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.0",
+      "reviewCount": 41
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "212 Dundas St E",
+      "addressLocality": "Toronto",
+      "postalCode": "M5A 1Z8",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/5a/e9/0c/filmores-hotel.jpg?w=500&h=400&s=1"
+  },
+  "description": "Filmores Hotel is centrally located in the Downtown Core of Toronto, minutes away from all of the highlights our city has to offer. We provide budget accommodations for travelers on both short and extended stays.",
+  "featues": [
+    "Street parking",
+    "Wifi",
+    "Wine / champagne",
+    "Billiards",
+    "Nightclub / DJ",
+    "Adults only",
+    "Baggage storage",
+    "24-hour front desk",
+    "Paid wifi",
+    "Vending machine",
+    "Currency exchange",
+    "Non-smoking hotel",
+    "ATM on site",
+    "Laundry service",
+    "Air conditioning",
+    "Housekeeping",
+    "Safe",
+    "Bottled water",
+    "Clothes rack",
+    "Wake-up service / alarm clock",
+    "Microwave",
+    "Non-smoking rooms",
+    "Smoking rooms available"
+  ],
+  "reviews": [
+    {
+      "title": "Left with no Room to stay",
+      "text": "This is an iconic hotel of Toronto. I came to the ballet and forgot to make reservations and at the last minute all my choice hotels were booked. So I ended  up here as a last choice.Must confess that when I first saw it, I was dismayed by its appearance until I stepped in and was greeted by Megan, a very pleasant young lady. I requested a first floor room(no elevator). I was told these rooms have no A/C. I asked:does it have a fan? Yes. I’ll take it. The room was not that little, private bath and windows!!! Very important to air the place. Ran out and bought plenty of room freshness paraphernalia. Although we are in a heat wave, it was  a very cool room.They should get rid of the carpet and place laminated floors instead.It is a very basic hotel. They provided 2 soaps, towels in the bathroom(need to bring your own toiletries). No hair dryer. A fan, Big flat TV, a table and two chairs, Full size bed. Drawers. Night table with lamp(that is not working).For a night it was not bad.I discovered a new place through my window-Esra’s. I reviewed in another post.The hotel is a few blocks from Younge-Dundas Sq Downtown Toronto.I saw plenty of young people checking in for the upper floors.",
+      "rate": 3.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Exceeded expectations…",
+      "text": "We were sceptical of staying at this hotel. It was literally the last “resort”. Not finding anything reasonably priced at the last minute, booked this through CAA. Once we got over ourselves being put off by entering the same entry as the strip club, we were pleasantly greeted at the front desk. Our room was old, but clean, well painted, and had lovely sheets! Happily noted that the bed also had bed bug protection. It took almost ten minutes for hot water to reach our 2nd floor room, but otherwise it was a quiet and peaceful stay.",
+      "rate": 3.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Really noisy but cheap",
+      "text": "What can I say? You get what you pay for. I didn't read the small print and somehow missed this hotel is ABOVE A STRIP CLUB. Lol. I unfortunately was there on a Friday night and of course, the music was thudding until 4am. I probably slept about 3 hours. But hey, maybe I should have read the small print. But just be aware, it's very noisy. Staff were lovely and friendly when I was there. A couple of strippers walked into reception when I checked in which was an interesting experience. Took me a bit by surprise. Room was pretty basic - small table, sink, small window, bed was comfy. Nothing to write home about but then I barely paid anything so I'm not sure what I was expecting.",
+      "rate": 2.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Extremely poor value",
+      "text": "Stayed there before my morning flight to Saskatoon. Because it’s just an one night stay in Toronto, I was looking for cheap hotels in Toronto, then I found this one. Okay, where do I begin, the location was bad. I found homeless and sketchy people everywhere. It’s also located right above a strip club, yeah a strip club. It’s so loud at night. Very unfriendly staff. The wake up call was the most unprofessional way ever, like literally they came to my door and knocked. Save your money, go somewhere else!",
+      "rate": 2.0,
+      "tripDate": " April 2019"
+    },
+    {
+      "title": "rats",
+      "text": "They had a rat in my room, and it was chewing in the room at night. it ran around, and I saw it. big, black and white, with a long tail. They tried to tell me it might be a mouse, but I can assure you it was a rat. they wouldn't even give me a refund for the one night I asked for. STAY AWAY!!!!!!! HORRIBLE",
+      "rate": 1.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Just disguting - DON'T GO",
+      "text": "/!\\ READ ENTIRELY I am 21 years old (i love adventure) and traveling alone. The hotel is too expensive for what it offers.  Let me explain: In truth even $ 1 would be too expensive.Good points: - RELATIVELY pleasant staff. - For the most rowdy of you: Striptease club with dirty girls around the hotel at night.Bad points:- Striptease club with dirty girls around the hotel at night.- Very sketchy neighborhood- Unsafe atmosphere- Too expensive- Absurd regulations concerning visitors- Cold room, no windows, noisy- A LOT OF BEDBUGS WHO WANT TO EAT YOU  COMPLETELY (SUPPORTING PHOTOS)- A COACKROACH IN THE BATHROOMI spent two nights in this hotel. The second I did not sleep to avoid being eaten by bed bugs and I still was eaten.See the pictures and make your choice.",
+      "rate": 1.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "\"Filmores Hotel\" saved my stay in Toronto & made it comfortable",
+      "text": "Hi there readers ... PLEASE DO NOT listen to any bad reviews about this place ... Filimores has made my stay in Toronto very comfortable .....The Management here is absolutely out of this world ... The front desk staff, YOU couldn't ask for better ... The cleaning ladies are funny and polite all the way ... The rooms and hotel are as clean as any other and ever perhaps cleaner as I've seen the staff take very good care on how they up keep their property, including EXCELLENT security that makes this place a very CLEAN, quite and safe place to stay ...I would recommend any traveller or business person to stay here ... Location is fantastic and about 5 min walk to the Eaton Centre and all amenities, like Subway, restaurants, bars etc ...  So for my ending ... WHY pay $150 per night to be told to leave @ 11:00 AM in the morning for less than a 12 hour stay when you can come here @ Fillmores Hotel for a little bit more money and stay for the whole week with all the same accommodation ... If I was YOU, I'd come and try it out and see for yourself ... YOU won't be disappointed I myself am a professional and a business owner and have stayed in every hotel you can possibly think of. Honestly, in my opinion, this is a hotel of people, NOT snobs ... BIG BONUS ... Come check it out for yourself and make your own educated decision today ..... Don't let the area fool you. You'll find the homeless on every street corner of Toronto, so why would this be any different?Thank you Filmores, I will most definitely stay at your hotel again and will highly recommend it to anyone I meet.  Thank you for the safe and quiet stay ....Until next timeB.Fair",
+      "rate": 5.0,
+      "tripDate": " September 2013"
+    },
+    {
+      "title": "Cheap rooms - for a reason",
+      "text": "A friend and I booked this at the last minute as it was close to our evening plans and other hotels were sold out.  The price was very reasonable, and the pictures showed the rooms being very basic - almost like those hotels where people can also rent by the week there.  There is a strip club downstairs, but the noise did not travel from that.  We booked a 'large double' (queen) and got a double.  The room was very basic, but clean.  However, the bedspread had what looked like dried ejaculate in many spots (room 221, I think it was).  It was so gross that we had to remove it.  It was an economy sleep, no frills bed.  Front desk staff were very nice.  We felt out of place staying here, but it has a kind of skeezy charm.  Would potentially return.",
+      "rate": 3.0,
+      "tripDate": " November 2017"
+    },
+    {
+      "title": "Ok if you don't mind strip club...",
+      "text": "If you are a bunch of guys traveling about and don't mind a strip club on the first floor, and the smell of cigarettes if your window is open, then this is the place for you. Honestly, the rooms are fine, nothing fancy, they are clean and it is walking distance to downtown. I was going to give a higher rating as check in was fine, front desk guy was friendly. But we had to check out at 6:00 am due to a bus schedule and there is the issue of a $50 key deposit; Gerard told me I can charge it and he would refund it upon check out. This didn't happen, different guy at desk, hands me a $50 Canadian bill. I explain I'm leaving Canada now and want it back on my card. He said he couldn't do it and I would have to wait a few hours...really? I'm catching a bus now. So, really unhappy about that as I didn't have time to exchange the bill until we got back to New York... And they only gave me $23!!!",
+      "rate": 2.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "I'm writing this from the lobby of Filmores right now.......",
+      "text": "....and when I saw the last couple of reviews I had to put in my own 2 cents.I have been here for three weeks already while I look for an apartment in town. I am so happy I found this place. The price is so much better than other hotels downtown, I nevver would have been able to afford to stay at any of them for this long.....and I never would have found the apartment I'm moving into on Friday.There aren't any bugs....the rooms are really clean and well kept.I've been in two different rooms and I haven't had any problems like that.the neighbourhood ain't great but it isn't much different than the rest of the Downtown that I've seen when apartment hunting. But I haven't had any problems here....it's so quiet and the staff keep it safe.The only real complaint I would have is that I got woken up a few mornings( I like to sleep in) when they were redoing the walls and putting in new carpets.....but it looks so much better and everyone was so nice about everything I feel bad saying anything.The staff are great and always try to be helpful with any problems or questions....they really seem to care about the guests.I don't know what some of the other people writing here were expecting for these prices but I think this is a great bargain and I was really really lucky I found it. I would definitely recommend this place to anyone who needs a cheap place for a few days or a few weeks.",
+      "rate": 4.0,
+      "tripDate": " May 2009"
+    },
+    {
+      "title": "Filmores Hotel",
+      "text": "Bar and staff in lower level are experienced hosts of their establishment and city: George, Sue and all other lady bartenders are accommodating and experienced diplomats...go and enjoy the atmosphere.",
+      "rate": 3.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Quiet",
+      "text": "Quiet, affordable. Very nice location in downtown core. Suited our needs appropriately.  Will be booking here another time for sure. The staff were fantastic and knowledgeable. The hotel was very well kept.",
+      "rate": 5.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "FANTASTIC!!!",
+      "text": "FANTASTIC! We booked the room online for my friends 25th birthday and the staff went above and beyond to insure we had an amazing time and made great recommendations. They are incredibly friendly and generally concerned with your experience during your stay. 10/10 would recommend!   They have recently under gone some renovations with the rooms which were lovely. This place has a ton of character and is defiantly a unique experience.",
+      "rate": 5.0,
+      "tripDate": " November 2017"
+    },
+    {
+      "title": "Quite spacious room and bathroom, very welcome lady administrator",
+      "text": "I came way earlier the check in time, however, very pleasant and welcoming lady administrator allowed me to get in the room. It was heavenly great after almost 20 hours of hitting the road. I highly appreciate her gesture. Room is not small and bright. The bed is comfortable. The bathroom was full of daylight, white and clean. OK for a couple of nights. Staff was pleasant.-I didn’t like the location much (near the street with several shelters for homeless), though I read about it before booking. I used taxi in the evening. Be aware those with heavy luggage, there is no elevator, only stairs, just FYI.",
+      "rate": 3.0,
+      "tripDate": " August 2018"
+    },
+    {
+      "title": "Look for another option ",
+      "text": "I payed 149.00 for a night, they don't have hot water, AC or wifi. I don't mind the WiFi but no hot water, and I couldn't sleep  because it was hot in the room. They need to be honest of what they offer to people.",
+      "rate": 1.0,
+      "tripDate": " July 2017"
+    },
+    {
+      "title": "My first home in Toronto",
+      "text": "First things first: there is no pool, gym or fitness centre here.  This is a hotel that is rarely seen these days - while it is great for short stays, some of us are long term guests and consider it home.  You can rent for the night or weekly.  I found the desk staff and housekeepers to be very professional.  And yes, there is a strip club on the main level if that appeals to you.Now...while the neighbourhood is sketchy at night...it is gentrifying.  Many new condo towers are going up right, left and centre - I am hoping they don't buy the Filmores Building because I consider it my second home.  You just have to be careful at night as you would in any other large city.  There are plenty of places to eat as Eaton Centre is three blocks away.  If you are looking for a gym the YMCA is a 15 minute walk.",
+      "rate": 5.0,
+      "tripDate": " November 2015"
+    },
+    {
+      "title": "Fabulous, Freaky Filmores ",
+      "text": "First off, Filmores is as unique and quirkya place you will stay in Toronto but stay you must. Part halfway house, part decent 2 star hotel and part rather fun Gents Club. It's brilliantly located just off the main track so you see some real characters once night sets in. There are lots of reviews about the bed bug issue. I can only speak as I found it and I found none, no evidence on the bedding and no bites on my body so expect this is an old issue that has been soundly addressed. The Filmores staff are absolutely fantastic  chatty, helpful and friendly. The only downside is that there is no lift. Give Filmores a go, if only for a night.",
+      "rate": 5.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Best No Frills Value in Toronto",
+      "text": "I had a very different experience from the review I read on this site.  Hotel was surprisingly clean, staff friendly, area safe  (street peeps are harmless) and rooms were as advertised - no frills, contemporary renovated with cable TV, 24/7 security and cheap.  As a salesman who visits Toronto frequently, why spend $100's a night when I can spend $210/week.",
+      "rate": 4.0,
+      "tripDate": " December 2008"
+    },
+    {
+      "title": "No Frills",
+      "text": "Recently stayed at this hotel. It is in a very bad part of the city. The room was very clean and the staff were fantastic. But it is a no-frills hotel. No elevators, no air conditioning. We couldn't sleep, it was so hot. The price is excellent and the staff are more than willing to accommodate any problems you may have. Hats off to Gerard. Thank you for all you did.",
+      "rate": 3.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "REALLY BAD EXPERIENCE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "text": "It was the worst experience in my life. Upon my arrival at the alleged \"hotel,\" it seemed as though a dust storm had just swept through, leaving behind a layer of grime that even a crime scene investigator would shy away from. The sheets, resembled a modern art masterpiece - an abstract canvas adorned with stains that defied explanation, and honestly, decency.As I connect to the Wi-Fi, I found myself unceremoniously thrust into the world of adult content.Now, to add the pièce de résistance to this abhorrent experience, there was a strip club that seemed to have taken root right inside or perhaps parasitically attached itself to the hotel, much like a pesky barnacle on a sinking ship. I can only assume this was an attempt to distract us from the catastrophe that was the 'accommodation.'Summoning whatever courage remained, I checked out early and inquired Jessica about a refund for the nights I had not spent marinating in this pit of despair. Alas, Jessica, a master of interpersonal skills, opted for a dramatic exit, hanging up the phone on me. Should you ever consider visiting the Filmores Hotel, remember to bring a black light and a sense of humor drier than the Sahara. This establishment is truly a marvel – of audacity, if nothing else.",
+      "rate": 1.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "8 days of Hell",
+      "text": "Had the misfortune of booking this trash online. On reaching the hotel at 10 in the night, the receptionist told me that the booking was for 1 person in Queen room, while I had booked for 2 people. On contacting booking.com, as usual their response was delayed. On contacting his colleague(?), the guy let us go to the room without charging us. And yes, made us pay the entire amount for 8 days in advance. The guy took us to the 3rd floor on stairs (no elevators and creaky wood floor). On reaching the room, the room smelled as if a pesticide had been sprayed into the room. Changed the room, to the 2nd floor, where to my utter shock found that the music downstairs was too loud. It was then I discovered, that the hotel was above a strip CLUB... With a heavy heart, took the room feeling that it was better than the smelly rooms on 3rd floor. However, when the music didn't stop at 3 am, my old mother got agitated. Adding to it, the bed was not just small but rickety and maybe full of bugs as well. Tired and frustrated,she went to the reception, where a new guy gave us again 3 options on 3rd floor, each one more smellier than the previous. Utterly frustrated, we asked him if there was any other bigger room, which we went to and found was not smelling. Without any options, had to cough out 230CAD more and take the room. Just feel so cheated now, given that could have got better hotels at overall 118 CAD, a night. Some other gems about the hotel:1. There is no phone in room to call reception. You have to go the reception, every time for every minor thing.2. House cleaning happens once a week, if you are taking a room for a week+. Wtf! Have to ask for towel change and toiletries.3. Semi-clad girls are in a passage adjacent to hotel lobby and the music is super loud.4. The adjacent area is damn scary, and outside the hotel you end up meeting a lot of addicts, asking you scarily for 'change'.5. The walls are so thin, that if TV is on in an adjacent room, so you end up hearing the entire thing. For some wierd reason, had a loud talker in the adjacent room, who kept TV on for the entire night. To give some credit, yes the location is near to major attractions downtown and the receptionists were helpful. But the hotel is a trash-bag, to be avoided at all costs!",
+      "rate": 1.0,
+      "tripDate": " May 2019"
+    },
+    {
+      "title": "Cheap option in centre of Toronto",
+      "text": "Part of the hotel building is also strip bar, both parts are connected. We have been there for just one night during city visit. Price was very cheap comparing nearby accommodations. Wifi connection was fast and free. Staff asked for deposit, which was fully returned during checkout.",
+      "rate": 3.0,
+      "tripDate": " March 2018"
+    },
+    {
+      "title": "Value for money. Very recommended",
+      "text": "If you are looking for a good stay in the down town of toronto very near to the center with a cheap price, here you go. Good room, friendly staff, free wifi. 7 min to subway station inside eaton center.",
+      "rate": 5.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Clean Room, Old Fashioned Boarding House, Attractive Ladies in Club!",
+      "text": "I read the reviews prior to booking Filmores for 2 nights, a Thursday and Friday night.  Upon checking out on Saturday I encountered the same problem someone else reported.  I provided a $50 key deposit on my credit card and received my refund in Canadian cash.  If you think about it, when the bank processes the transaction, the process it based on the Canadian value of the dollar at the time. So actually it is even money...just a pain if you are leaving and have to exchange the currency.The room appeared to be clean and very basic.  I did put the Do Not Disturb sign on my door but the Housekeeping person made my room up anyway.  Not really a bad thing, just was not what I wanted at the time.  A TV in the room was not HD but had many cable channels to view.To gain entrance to the hotel you must enter the main entrance which is also the entrance to the nightclub.  Once inside the main entrance there is a small lobby with 2 separate doors...one leads to the club, the other leads upstairs to the hotel lobby where you check in.  No frills to the hotel but for my purposes this was functional.  If you have a boat load of luggage you will not be happy as there are more stairs to climb to get to your room.  If there was an elevator on the premises no one mentioned it to me and I had 2 suit cases and a carry on.  Toronto was a 2 day rest stop / sightseeing opportunity after a business trip in Halifax.As I noted, the room seemed to be quaint but clean. No frills.  I did not experience noise or cigarette smoke as some people have reported.  There are security cams throughout the hotel halls, lobby and exterior entrance.  I felt relatively secure with the hope that if some criminal activity were afoot, the perpetrator(s) would be identifiable from CCTV footage...if the cams were functional and recording.The Hotel is located just on the outskirts of the more aesthetically friendly bustling downtown tourist section.  Perhaps a block or two walk.  Several places to eat ethic cuisines within the two block walk. A few blocks further will lead you to Yonge street where all types of restaurants, pubs and fast food is found as well as various retail stores, even some larger brand name establishments.The Club.  LOL!  Well, your background and previous experiences of this nature you will weigh heavily into to your satisfaction level here.  This is where you want to have Canadian currency rather than US cash.  I must note my waitress change my U.S. 20 bill properly into Canadian funds. Thank you very much! ( I have forgotten her name but she was very nice!)  If you have never been to a gentlemen's club you will probably have a \"Shock & Awe\" experience for several reasons.  The ladies here are definitely attractive.  They definitely know how to shake and move what their mama gave them!  You have to understand the economics of a gentlemen's club otherwise you will be very surprised at the cost of things.  The club is providing live adult entertainment with no cover charge, yet the management has rent to be paid, inventory to purchased and payroll to make.  The DJ gets paid too.  That being said, if all you do is sit and watch the girls for an hour or two and drink a couple of adult libations that were priced as in a bar with no live entertainment, the House would make no money and would be out of business in a month.  Not to mention I am sure there has to be some monetary incentive to keep the all the attractive talent they have there!  The Donald would not turn any of these ladies away!I sat down, ordered a beer and in short order a very attractive young lady with a wonderful personality asked if she could join me.  Of Course I said yes!  I purchased a drink for her and we chatted about many things many of which I can not share here.  My point is this young lady, I think her name was Clowie, was very worldly.  She has traveled a lot and shared information.  LOL!  There is a VIP section of the club.  I was extremely tempted to take advantage of the perks of that amenity but I was not ready to upgrade my seat.  All that being said, it is a nice enough Gentleman's Club!  Your mind is like a parachute...it only works when it is open!Would I stay at the Hotel again?  Probably not because I am not a Boarding House kind of guy.  The mattress did hurt my back and I believe the heat had not been activated for the Fall season.  Its an old building and I suspect the furnace has to be turned on for the entire building to produce steam/radiator heat. The shower had good pressure and the hot water stayed hot.  Clean towels but no wash cloths.  Would I go to the Club again?  Sure!  I would just have to be mentally and financially prepared for the various upgrades!  Thanks Fimores for a definitely unique and relatively pleasant experience!  Next visit I will find the girl who can't do good lap dances and I will let her practice until she gets it right!  Rock On!",
+      "rate": 3.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "Ok but there are bed bugs",
+      "text": "I will just get right to the point.Clean to an extent. It is an old place. Bad area... and it is on top of a strip joint.There are bed bugs. Sorry just being honest.I admit it is reasonable... but they have odd rules.You must pay for friends to visit after 11. (per person)I think this place is more for a homeless person trying to get back on their feet. Not for someone visiting.The price is cheap. Lowest in town that is reasonable living.Best I could say.",
+      "rate": 3.0,
+      "tripDate": " December 2008"
+    },
+    {
+      "title": "I would Stay At filmores again and again with reccomendations.",
+      "text": "My partner and myself are currently staying at filmores, due to transition and we are both professionals,We have stayed at many highend hotels, and had worse conditions. Yes Filmores is an old building, but it is also historical, Great location, street people are harmless and you will find homeless everywhere in Toronto. I found the Manager Ian and all his staff to be friendly and helpful, and if you have any concerns, they are looked after immediately. I can say without a doubt there is no bed bugs here, and I have always had hot water when i needed it. we have enjoyed our stay here so much, We are planning to extend our stay. So if affordable accomondations and great location are what you are looking for, check out Filmores.Kudos to Ian and his Staff for making our stay a pleasureable one.",
+      "rate": 4.0,
+      "tripDate": " January 2012"
+    },
+    {
+      "title": "cheap but bleak",
+      "text": "Staff were friendly, but the neighborhood will have you clutching your wallet and running for cover. The place is mostly clean, but old and not well kept. Carpets are stained and smelly, beds are old, smells like old men. I wouldn't recommend it, unless you are in need of something cheap and temporary.",
+      "rate": 2.0,
+      "tripDate": " September 2006"
+    },
+    {
+      "title": "Great location! Value for money.",
+      "text": "We were a group of three friends. we choose the hotel primary for it's location. And we were right. We could go on foot everywhere in the centre.The hotel was clean and quiet. The staff was very friendly. The room was ok for what we paid!The bar downstairs never bothered us!Overall highly recommended!",
+      "rate": 4.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "wouldn't recommend!!",
+      "text": "Staff is friendly, helpful and accommodating, the price is excellent. but it has no elevators, air conditioning, the room is quite clean, but old. Carpet is smelly. I'm so dissapointed in internet quality. i wouldn't recommend it for anyone staying. i think i will not return here anymore",
+      "rate": 3.0,
+      "tripDate": " November 2013"
+    },
+    {
+      "title": "Friendly place",
+      "text": "I enjoyed my stay here, not like the last place I stayed in it was awful.The staff where great and helpful, the place a little old but in a great location a short walk to the main street in town. Had lots of restaurants around the area and things to do.Will stay here next time I'm in Toronto and you need to book early busy place.",
+      "rate": 3.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Not what we were looking for",
+      "text": "Do be advised that there is a gentleman's club on the main floor of the hotel. While the rooms were clean and well kept they were small and the beds were not terribly comfortable. As well the music from the club was a constant background noice all night. The hotel is with in walking distance of many attractions but the neighborhood is not a place you want to walk at night. The hotel staff was friendly and helpful but this was not experience we were looking for.",
+      "rate": 1.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Ghetto area, smoking bad smell, noisy and unsafe area.",
+      "text": "Checked in and the room had no A/C, dirty floor, old TV, had little fan next to Tv. Came down to ask for A/C, there will be another $15 charge for room with A/C.Ghetto neighborhood. Bad and unsafe area. Bad smell over the place inside hotel. Not recommend for any families. This is hotel just for people who comes for strip club. Not recommend for anyone else.Noisy area. There is street car( 505) track runs in front of Hotel. Noisy at night, strip club inside the hotel.Addition $2.00 for internet per device.",
+      "rate": 1.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Great place, great people, great location, great price, great stay.",
+      "text": "Forget any negative reviews you may have read about this place, probably from those with over expectancy, sure there are a few homeless people in the nearby streets but no more than the rest of Toronto or any other city (there is a Hilton two blocks away at many times the price and same ratio of street people). I have travelled the world and like to find hotels with a local experience touch, let me tell you Filmores didn't disappoint in any way.It's as central as you can get with Yonge/Dundas Square the subway and Eaton Centre only 4 blocks or 5mins walk plus the No 501 streetcar runs to the door.Room was clean and tidy with good TV and Wifi plus daily servicing (they don't do breakfast but I highly recommend the Mutual Street Deli just one block away which does the best ever Maple Syrup and Cinnamon French toast with Bacon under $5).Top of the list here are the staff, I've rarely met as friendly or helpful a bunch and we spent lots of time chatting.I will definitely be back and suggest you give it a go.",
+      "rate": 5.0,
+      "tripDate": " August 2015"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Rose Garden Bed and Breakfast",
+    "url": "/Hotel_Review-g155019-d4005885-Reviews-Rose_Garden_Bed_and_Breakfast-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 69
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1030 Bathurst St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5R 3G7",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/fa/64/83/queen-room.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Rose Garden Bed and Breakfast is a friendly guest set in the surroundings of an elegant century home. Like Toronto, we are culturally diverse, offering services in English, French and Mandarin. The cozy bed & breakfast is located in Toronto, a short walk to 2 subway stations, and within walking distance of Casa Loma, and the variety of shops on Bloor St and Mirvish Village.",
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Free breakfast",
+    "Non-smoking hotel",
+    "Bathrobes",
+    "Air conditioning",
+    "Wake-up service / alarm clock",
+    "Flatscreen TV",
+    "Bath / shower",
+    "Complimentary toiletries",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "A delightful stay in a lovely bed and breakfast",
+      "text": "The Rose Garden is a delightful bed and breakfast.  Although we were only able to stay one night Doug and Lisa went out of their way to accommodate all our needs.  We would have loved to have stayed longer.  The room was great and the breakfast was super.  We do hope that we will be able to visit them again for a longer period.  Thanks again from Carole and Roy, Matlock UK",
+      "rate": 5.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "Great days!",
+      "text": "We like a lot the place, the room and breakfast, Lisa and Doug been very nice and good for us, near of subway, only twenty minutes walking  downtown. It is a great opportunity for know the day by day of a Canadian family, different experience of a hotel.",
+      "rate": 5.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Great B & B",
+      "text": "We stayed for four nights and were wonderfully looked after by our hosts Doug & Lisa! Very homely and met some lovely other guests with Doug ensuring that we were all introduced! Good location short walk to Subway and down town",
+      "rate": 5.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "A one night stay in Sept 2014",
+      "text": "We were over from the UK in September, Toronto was our last stop before heading home. En route to the B&B from Algonquin by transfer people carrier I managed to leave my mobile phone in the restroom at a services off route 400. I didn't realise until we had been back on the road for 40 mins and there was no way of putting our fellow passengers out by asking the driver to turn around. When I arrived, I explained the drama to Doug and he couldn't have been more helpful in getting my phone back within an hour. From looking up the services stop on his pc, getting staff to find the phone, figuring out which taxi firm to use to collect the mobile, and providing a landline for calls (free to guests), he was a legend. Then loads more advice on best way to see Niagara Falls in our limited time the next day. We stayed in the double room on the front of the house, cosy bed, quiet room, close to the shared bathroom, breakfast was lovely, free wifi all over the house, lovely large balcony at the rear with table and chairs to enjoy a beer before heading out in the eve or finish your coffee in the morning (as we did). Nice area, transport links very close. Would definitely recommend to anyone staying in Toronto. Such a lovely couple. Light sleepers may need ear plugs for the mornings if a lie in is required as the walls are thinner than some places due to the age of the building (timber stud walls).",
+      "rate": 5.0,
+      "tripDate": " September 2014"
+    },
+    {
+      "title": "Great neighbourhood place to stay in Toronto",
+      "text": "Rose Garden B & B is perfect for anyone wanting to be in a downtown Toronto neighbourhood. Cafés, bookstores, restaurants, and a lovely park with a fabulous playground are located within walking distance, and galleries or shopping are a quick easy transit ride away. Use of a kitchen and outdoor patio are fantastic. They have a spa, so next time I'll take time to book a treatment. This is an excellent B & B for a solo traveller, and it's cozy with friendly hosts.",
+      "rate": 4.0,
+      "tripDate": " April 2013"
+    },
+    {
+      "title": "A Lovely Stay",
+      "text": "My wife and I had a wonderful stay at the Rose Garden. Bottom line, Vera made sure we were well taken care of. I e-mailed several times with questions before our arrival and she responded quickly. When we arrived she helped us park, asked if we had any questions, continuously asked if there was anything we needed, and made sure our stay was pleasant.      I enjoyed the breakfast each morning.      We stayed in the king bedroom. It was roomy and comfortable.     The location of the Rose Garden allowed us to get around Toronto easily. It is a short walk to transportation stations in either direction. We easily navigated the subway and the streetcar line. We started our visit with a 30-minute walk to the University of Toronto.      The Rose Garden is on a busy street but once inside the house, it was quiet for us. There are many restaurants around the Rose Garden. Bathurst, though busy, divides two quiet neighborhoods. We enjoyed walking in those neighborhoods and relaxing in their parks.",
+      "rate": 5.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "Small, friendly ,convenient.",
+      "text": "The Rose Garden  is a small house on a busy street,once entered, it is quiet and friendly. Vera is a fantastic hostess, ready to help in any way..an extra chair for the room, directions to places of interest and a simple ,complete breakfast each day. It is on a main trolley line and walking to places is also easy.",
+      "rate": 5.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "Like staying with family!",
+      "text": "Doug and Lisa are just the sweetest people. I was in town interviewing for a job. I needed a day in my room just to research and prep. I was able to do so in total comfort and quiet. I was so nervous and Doug was kind enough to give me a little pep talk and encouragement before I left to go to the interview that morning. It truly made me feel like I was staying with friends. (I got the job by the way!). The house, although older, is immaculately clean. My bed was so comfortable! Breakfast was fantastic. Everything you could need is provided, including a robe, towels, toiletries, hair dryer etc. You can grab a tea or coffee any time of day. The location is in an older part of the city called the Annex. I’m very familiar, having been born and raised in Toronto. I can promise you it is a safe area. It’s got a more eclectic crowd in that area, close to U of Toronto, and you’ll find some funky hip little spots to eat and shop very close by. Try the Grapefruit Moon restaurant just south on Bathurst. Walk to Bloor and you’ll find tons of restaurants of every type of cuisine as well as great little shops! I really couldn’t have been in a more relaxed and happy location for a stressful event like interviewing. So grateful!!",
+      "rate": 5.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Nice B&B, Nice people",
+      "text": "I have stayed here twice.  Both times it has been excellent.  I had the twin bed room with private bath the first time and the double bed room with shared bath the second.  The owners are friendly and the breakfast was very good.  It is about a 10 minute walk to the subway so it is a convenient location for getting downtown.",
+      "rate": 5.0,
+      "tripDate": " March 2018"
+    },
+    {
+      "title": "Wonderful B and B",
+      "text": "Stayed there for 2 nights last week.  It's conveniently located.  VERY nice room and bathroom.  We did not get a shared bathroom which was fine.  Room was cozy.  Breakfast was excellent.  Doug and Lisa make a great breakfast.  They are also both VERY friendly and helpful.  If we go back to Toronto again in the near future we will stay there.",
+      "rate": 5.0,
+      "tripDate": " November 2017"
+    },
+    {
+      "title": "Excellent all round",
+      "text": "A wonderful one night stay. Owners were very kind and helpful. Parking is a nice bonus. Breakfast was delicious. Room was small but had everything we needed. Would have liked a double but only had twin available. Loved the no outdoor shoes rule! Perfect stay.",
+      "rate": 5.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "Good B&B - great hosts",
+      "text": "We stayed 3 nights at Rose Garden. Doug & Lisa were wonderful hosts providing information and advice on the city and things to do. We found the location a bit far from the city centre although we did tackle the long walk in on several occasions. If you stay here make sure you visit Annapurna for Indian food just across the street and the Grapefruit Moon, a perfect bar with great food and atmosphere just down the road. The cooked breakfasts were a little disappointing as they were the same every day. We started in a small room with shared bathroom which had little room for us and our luggage but then moved to the top floor en suite room which was perfect.",
+      "rate": 4.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Fantastic hosts and a lovely B&B",
+      "text": "I stayed for 3 Nights, the rooms are clean, tidy and very pleasant. The B&B is nicely away from the center of Toronto in a reasonably quiet neighborhood, but is within easy walking distance of the metro station. The welcome I received was wonderful, Doug and Lisa are lovely hosts who are happy to help in any way they can and were  interested in all of there guests. Breakfast was filling and there was a great choice of things to eat and making the acquaintance of the other guest and putting the world to rights is a fantastic way to start the day.",
+      "rate": 5.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Wonderful Bed and Breakfast!",
+      "text": "A friend and I stayed in the room with twin beds and an ensuite bathroom while attending a seminar at the Metro Toronto Convention Center.  Owners Doug and Lisa are gracious and friendly.  Breakfast was filling and delicious: eggs anyway you choose, Canadian bacon, yogart, fresh fruit, cereal, croissants, coffee, tea and juice  Everything was extremely clean and well maintained.  We enjoyed our morning chat with Doug and another couple from France.  A great experience at a reasonable price.",
+      "rate": 5.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Beautiful home and room, wonderful hosts and guests, excellent breakfast!",
+      "text": "We stayed three nights and loved the experience.  Lisa and Doug are charming hosts and went out of their way to make our stay comfortable. The breakfast is delicious, eggs, Canadian bacon, fresh baked croissants, fresh fruit, yogurt, granola. And we thoroughly enjoyed the company of the other guests, it was a wonderful experience. We stayed in the King room on the 3rd floor and it was quite large, with a large walk-in closet, and large bathroom.  The furniture is beautiful and the entire house seems to have been recently renovated, it's a very lovely home.  Bathurst street is not a secluded side street, but it is residential and it's totally quiet inside the house.  Some of the neighboring homes aren't kept as well as the Rose Garden, but it's a safe neighborhood and we felt very comfortable walking. The gardens were also lovely.  We'd love to stay there again.",
+      "rate": 5.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "Gracious and Clean",
+      "text": "Stayed here for 2 nights in one of the rooms with a shared bathroom. The house was lovely, clean and comfortable with a quirky, zen kind of charm. Owners Doug and Lisa were gracious and hospitable, willing to go out of their way and wait for me when my train broke down and I had to check in late.They make you feel right at home. The full breakfast was hearty and delicious, and the location was a perfect walking distance for my destinations. I'm not much of a B&B user but Rose Garden definitely changed my mind.",
+      "rate": 4.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "Great Stay !",
+      "text": "Had a great stay over 2 weeks.  It was truly a home away from home.  The rooms were comfy and super clean.  The organically based breakfasts were great, copious and I thoroughly enjoyed talking to Doug about the world's problems, his environmental projects and the philosophy of life.The prices are reasonable -- and I will definitely come back -- the next time I come to Toronto !  James from Paris",
+      "rate": 5.0,
+      "tripDate": " February 2016"
+    },
+    {
+      "title": "Comfortable Place From Home",
+      "text": "The B&B was in a great location and within walking distance to attractions like the AGO, China Town and the ROM. The parking was also an added bonus, as it is only a few doors down. The room we stayed in was the double bed with a shared bathroom. In hindsight though, we really wish that the larger room had been available. I am a very light sleeper, so when guests walked upstairs, the floors creaked loudly and it was difficult to fall asleep. As the bedroom and bathroom are right outside the kitchen, it was a bit disruptive when another guest had breakfast at 7:30am. As soon as Doug was in the kitchen at 7:00, we were awake. In addition, it was a little awkward when I needed to use the washroom and other people were in the kitchen, I didn't want to be caught walking around in my pyjamas. With this said, the amneties were nice, the owner was very friendly, and the breakfast was delicious. Would recommend this B&B to others, and would stay again if we were in a different room :)",
+      "rate": 3.0,
+      "tripDate": " February 2016"
+    },
+    {
+      "title": "Wonderful B & B - very clean, great food, super hosts!",
+      "text": "We stayed for 4 nights in the king room on top floor - room was huge, super clean, very comfortable bed, delicious breakfast every morning - eggs, bacon, fresh croissants, yogurt, cereal, fruit, etc.  Close to subway, walking distance to U of T.  Friendly, accommodating hosts - we'll definitely be back!",
+      "rate": 5.0,
+      "tripDate": " November 2015"
+    },
+    {
+      "title": "Great B & B",
+      "text": "We stayed for 4 nights here and it just felt like Home. Doug and Lisa are great hosts and Lisa is a great cook and very pleasant. The location is good for the subway and local transport and restaurants within walking distance. The rooms are very good and clean and the communal living area is very homely.",
+      "rate": 5.0,
+      "tripDate": " July 2015"
+    },
+    {
+      "title": "You feel like home here!",
+      "text": "We spent two nights at The Rose Garden B&B. It is perfectly located in downtown Toronto, in a very nice area, and it is close to both subway lines (Dupont and Bathurst) Our room was big, spotless and really comfortable, and the bed was really comfortable too. The hostess, Lisa, is such a nice person. Her husband, Doug, was out of town. She was really friendly and we really enjoyed the conversations we had with her. Can't thank her enough for her hospitality!!!. Lisa cooked great and enormous breakfasts every morning with yogurt, fruits, eggs, bacon... Moreover, there is a kitchen, a dining-room, and a terrace for guests,  which adds a great value to this B&B. We highly recommend this place to stay in Toronto.",
+      "rate": 5.0,
+      "tripDate": " September 2013"
+    },
+    {
+      "title": "An oasis of peace where you feel like home",
+      "text": "The Rose Garden B&B is perfectly located in downtown Toronto, in a very nice area (The Annex), and it is close to both subway lines (the yellow and the green one).Our room was big, spotless and really comfortable, and the bed was really comfortable too.The hosts, Doug and Lisa, are such nice people, really friendly and we really enjoyed the conversations we had with them. Can't thank them enough for their hospitality!!! Besides, Doug gave us a lot of information about what to see in the city. Lisa cooked great and enormous breakfasts every morning with yogurt, fruits, eggs, bacon... Moreover, there is a kitchen, a dining-room, and a terrace for guests which adds a great value to this B&B. After 4 weeks travelling in Canada, this is the best B&B we have been to and we highly recommend this place to stay in Toronto.",
+      "rate": 5.0,
+      "tripDate": " July 2013"
+    },
+    {
+      "title": "A home away from home",
+      "text": "Classic home, great location, warm and helpful owners, breakfast just the way we like, parking included... Plus the deck out back .. We will be back! Easy walk to subway, parks, shops, and especially to our grandson's house",
+      "rate": 5.0,
+      "tripDate": " June 2013"
+    },
+    {
+      "title": "Nice stay",
+      "text": "The bed and breakfast is not very central but in walking distance to the subway system. Parking costs 10$ per day. Doug and Lisa are very nice hosts. The room was clean but the shower was a bit tricky to manage, it was either too cold or too hot. Breakfast was very nice, we got to meet and talk to the other guests and share travel stories. There is very good homemade granola, yoghurt and a choice of eggs that are prepared on your request with bacon and bagel or croissant.",
+      "rate": 4.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Great Stay",
+      "text": "The hosts, Doug and Lisa provide services (reception, breakfasts, clean rooms with all  the amenities) with professionalism and great care.  They are both second to none when it comes to making guests comfortable and very much at ease.  We enjoyed the food and the cleanliness of the Rose Garden.  We will never hesitate to recommend the Rose Garden whenever someone mentions that they will be visiting Toronto. We also enjoyed the conversations with people, at breakfast, from all over the world.",
+      "rate": 5.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Fortunate surprise!",
+      "text": "When looking for a \"standard business hotel\" I found everything fully booked. On TripAdvisor I came across this B&B, which was in close proximity to the place of my next fax meeting. Lacking other options I booked here...What a pleasant surprise! Clean, comfortable, quiet, Good breakfast wird real coffee  & absolutely friendly owners. Enjoyed this stay. Many restaurants in the neighbourhood. For me the nicest pick i've made in the past months.",
+      "rate": 5.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "Wonderful Stay",
+      "text": "We were in town for a concert at the Air Canada Centre. This B&B is within easy walking distance  to the metro station and to many tourist sites. The owners, Lisa and Doug, were very friendly and knowledgeable about the area. Breakfast was wonderful and the room was immaculate. Enjoyed our stay very much.",
+      "rate": 5.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "This is my third stay at The Rose Garden BnB.  Awesome experience as usual!",
+      "text": "Lisa and Doug keep the place clean and cozy.  The breakfast is tasty, hearty and healthy.  They have a nice patio for the guests to sit and relax.  It is close to most attractions and the beds are comfortable (I slept in different rooms during my three stays).",
+      "rate": 5.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "A lovely stay",
+      "text": "We had a lovely overnight in Toronto at Rose Garden B & B. Doug and Lisa are great hosts and very accommodating.We stayed in the King Room which is on the top floor. The room itself is very large, as is the bathroom (which has a shower not a tub). Being at the back of the house, the room was very quiet.We were particularly impressed with the fact that Doug and Lisa donate 10% of revenue (not profit) to the protection of wildlife.The only thing we feel we should mention is, that while it didn't bother us as we weren't there to watch TV, there are a limited number of TV channels available if that is important to you.",
+      "rate": 5.0,
+      "tripDate": " December 2016"
+    },
+    {
+      "title": "Not quite a bed of roses",
+      "text": "Staying at this B&B is like staying at a friend's or sibling's home - they offer eggs as you like it,  homemade yogurt and granola, bacon (Canadian, what else) and diced potatoes. But unlike staying at a friend's house, you may be relegated to your room. . We were told by our hosts that after hours we could get our bottled water from the refrigerator and that the coffee maker was all set up for either tea/coffee.  Well, the coffee maker was not set up properly for impromptu service and nothing was in the fridge other than leftovers from breakfast or a start-up for next day's breakfast. In fact, the entire downstairs was pitch dark at 8 p.m. so I just scurried back upstairs. I felt the  other B&B's we went to in Canada were more accessible.  This is the only thing that cost this B&B an excellent rating.",
+      "rate": 4.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "Stay one night at the B&B Rose Garden",
+      "text": "The owners are very nice,  excellent hospitality, the room was spotless and the breakfest very good.Short walking distance to the subway station and streetcars. There a parking place.Will recommend to family and friends.We enjoy our stay and will go back for sure.",
+      "rate": 5.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "Excellent hospitality!",
+      "text": "Stayed in the Rose Garden Bed and breakfast recently. The friendly hospitality by Doug and Lisa was lovely and the King room was worth paying extra for. When you make a booking they send you a detailed map of how to get to their place and the information is invaluable especially if you are arriving from the airport.It is quite easy to use the bus/ subway system from their home and don't miss visiting the St.Lawrence market on Front Street. It's fabulous!",
+      "rate": 5.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "DONOVAN AND ANNE",
+      "text": "What a great visit. Doug and Lisa are amazing people. We stayed one night for a concert and found this little gem B&B Close to all the amenities. We will be back. Great time. Looking forward to returning.",
+      "rate": 5.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Good Bed and Breakfast in Toronto",
+      "text": "The Rose Garden is a nice B&B in The Annex, close to various public transport options and a number of good bars and restaurants. The room was comfortable if a little small, and the breakfast was good; the owners are friendly and helpful.I would note that one issue we had was that the stairs are thickly carpeted and there's a no shoes rule - unfortunately I ended up slipping down the stairs as a result, it was quite hard to get a grip on them in socks.",
+      "rate": 4.0,
+      "tripDate": " June 2015"
+    },
+    {
+      "title": "Gem of a B+B in Great Location",
+      "text": "I have stayed at this property on 4 occasions and every time the service has been exceptional.  The owners are both lovely and the rooms and common areas were spotless.  The location is an easy walk from 2 subway stations - Dupont on the University line or Bathurst on the Bloor line.  There are plenty of restaurants less than 10 minutes away.",
+      "rate": 5.0,
+      "tripDate": " March 2015"
+    },
+    {
+      "title": "Cosy and friendly",
+      "text": "The host Doug and Lisa are very friendly, replied to our email very effectively. The room is ok, with everything what we need. The bathroom is big. Our room locates on the 3rd floor, which was a headache to carry with our big luggages to the room with the narrow stairs, Luckily Doug were very kind to do it for us. Lots of choice for breakfast, which Lisa cooked every morning. It was nice to share the travel experience with other guests during the breakfast gathering. Recommend it.",
+      "rate": 4.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "Good value B&B in Toronto",
+      "text": "We spent 3 nights at this B&B from 17th July, chosen for the trip advisor reviews which were pretty spot on. Our room was a good size with a large very comfortable bed and new traditional style furniture. Doug and Lisa are lovely people, excellent hosts and knowledgeable about the area. Breakfasts are plentiful and cooked freshly each morning to your liking.Having spent years staying in chain hotels that could be anywhere and paying much more in city centres its much more fun to find interesting smaller places that are individual and the experience is more personal. For example, breakfasts at the Rose Garden are taken sat round a large table with other guests. We met some very nice and fascinating people from all over the world and it added to our wonderful memories of our trip.The B&B is not downtown but Bathurst and Dupont subway stations are 7 and 12 minute walks away and Becks taxis are good value and plentiful.A couple of small points: 1. There is no lift and some of the rooms are up a couple of flights of stairs so try and avoid large heavy suitcases, if you can. 2. There weren't many hangers in the room so if you are there for a few nights and want to get your clothes out of the cases you might want to pack a few hangers. No big deal if you are staying for one or two nights.This B&B is highly recommended if you are staying in Toronto and looking for good value and not a 'corporate' chain hotel.",
+      "rate": 5.0,
+      "tripDate": " July 2014"
+    },
+    {
+      "title": "Perfect B&B in Toronto",
+      "text": "This little B&B is a jewel in the Casa Loma area.  When I booked, I spoke to Doug on the phone and he was so accommodating on short notice.  Myself and 2 teens stayed in the King Room, which was spotless, and had the private bathroom.  Everything was well stocked, which was so convenient since I had forgotten shampoo and soap.  The house was quiet and we enjoyed a very restful night.  I cannot say enough about the full breakfast that was served including organic fruits, homemade granola and then a hot course of bacon, eggs, home fries and bagel to follow.  My kids were still talking about how full they were for the entire day.  We chatted with another couple during breakfast as well as with the owners which was a lovely way to spend the breakfast hour, it felt like we were staying with friends.  Doug and Lisa clearly love what they do and go the extra mile to ensure you have a perfect stay.  We are now completely spoiled for any other overnight experience!",
+      "rate": 5.0,
+      "tripDate": " May 2014"
+    },
+    {
+      "title": "Great B&B",
+      "text": "The Rose Garden B&B is ideally located near downtown Toronto minutes from the subway. The rooms and facilities are exceptionally clean and comfortable. The hosts are friendly, congenial and make every effort to make your stay a pleasant one. A lovely breakfast is served to suit your schedule.",
+      "rate": 5.0,
+      "tripDate": " May 2014"
+    },
+    {
+      "title": "Great B&B in good location",
+      "text": "We just stayed here for one night but we were very well received, Dough was accommodating, responded quickly to e-mails and was there to welcome us when we arrived. Breakfast was great, the bed comfortable and the rooms very clean. All this for a very reasonable price.",
+      "rate": 5.0,
+      "tripDate": " October 2013"
+    }
+  ]
+}

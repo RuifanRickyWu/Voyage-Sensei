@@ -1,0 +1,237 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Glen Grove Suites at The Maple Leaf",
+    "url": "/Hotel_Review-g155019-d1803697-Reviews-Glen_Grove_Suites_at_The_Maple_Leaf-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 48
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "390 Queens Quay W",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 3A6",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/bc/6e/27/glen-grove-suites-at.jpg?w=500&h=-1&s=1"
+  },
+  "description": "The Glengrove at The Quay offers fully furnished, fully equipped 1 and 2 bedroom suites with full kitchens. Each of our suites offers spectacular views of Lake Ontario. Centrally located in downtown Toronto, you are within walking distance from the CN Tower, Rogers Centre, Ripley's Aquarium, Lake Ontario, Billy Bishop airport and the downtown core. The transit service at the doorstep makes it a breeze to move easily across the city.",
+  "featues": [
+    "Paid public parking on-site",
+    "Free internet",
+    "Fitness Center with Gym / Workout Room",
+    "Game room",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Business Center with Internet Access",
+    "BBQ facilities",
+    "Non-smoking hotel",
+    "Parking garage",
+    "Internet",
+    "Outdoor furniture",
+    "Picnic area",
+    "Shared lounge / TV area",
+    "Dry cleaning",
+    "Laundry service",
+    "Air conditioning",
+    "Kitchenette",
+    "Refrigerator",
+    "Complimentary toiletries",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "budget oriented",
+      "text": "Ordinary apartment, which is acceptable for families and to whom want a very good localization. the front desk service is poor and the common areas are not well preserved. This is an apartment without any service, so you will just receive the keys and have to manage everything by youself",
+      "rate": 3.0,
+      "tripDate": " May 2014"
+    },
+    {
+      "title": "Perfect Toronto base.",
+      "text": "Been to Toronto quite a few times and have normally stayed more into the city centre, decided to stay here which is right on the lake front and so glad that we did. The views from the apartment are simply stunning with direct views of the CN Tower, baseball stadium and partial lake view. The area where the apartment is located is currently being renovated and whilst it does mean that some areas of the block look unsightly, do not let this put you off. The apartment itself is a good size with full kitchen, cable TV and wifi. Once the renovation work is complete, I think this will be a stunning residence.",
+      "rate": 4.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "Staying in a friend's apartment without all the stuff you need",
+      "text": "We stayed in a 2 bedroom/1 bath suite.  This is part of a condo complex with permanent residents.  Thru booking.com we got a good price for a family of 5 to be able to stay in the heart of Toronto.  We had a corner condo with great view.  There was easy access to transportation and walkable to many places.  Parking is secure.  Access to help by phone was easily available and courteous before and during the stay.  It does not have hotel amenities.  Just finding where to check in was a little arduous - had to ask at the drug store to be directed.  You can't access the secure parking until you get the key fob to open the garage door.  Housekeeping is only once a week.  We asked for a 5th set of towels and never got it during our 4 night stay.  We paid for wifi but the router never showed up on our list of available access points and ended up using an unsecured wifi.  Rooms are good size and with clean linen and bathroom..  Scuffs on the walls and worn carpet was noted.  Kitchen was equipped but lacked paper towels, dishwasher detergent, extra trash bags, etc.  Basic set of dishes,utensils, drip coffee maker, fridge etc was available.  Dish soap to hand wash the dishes was available.  Starter packet of coffee was available.  Air conditioner was very noisy and no instructions for use were given.  Some lamps have broken switches and some bulbs were burnt out.  We did not have any noise issues other than street sounds being easily heard.  There is a laundry on the 2nd floor.  There are computers with printers on the 2nd floor but you need to take your own paper.  Groceries are available easily.  ATM is convenient.  The drug store has TTC tokens and day passes.Biggest plus is that it is about 1/2-2/3 of the price of getting 2 rooms at a regular hotel for a family in a great location.  But with the discount, there is a dropoff in services as well.",
+      "rate": 3.0,
+      "tripDate": " May 2011"
+    },
+    {
+      "title": "Great location is the highlight",
+      "text": "When I booked this hotel that is what I thought we were getting. It is actually an apartment complex, which is not a bad thing. The security guards were helpful and friendly. the location of the building is great and the view was amazing (when it wasn't snowing). We had an apartment on the 14th floor with a view of Rogers place, the CN tower and the lake. This would be an awesome place to stay if it was upgraded. The bathroom was in very rough condition, mold was starting in the shower and the cabinet was disintegrating from water damage. The kitchen was another area of concern, there was water damage on the counter tops and small ant like bugs were coming out of it. It was disappointing as the location was great. We were able to walk to several tourist areas and it was easily accessible from the highway.",
+      "rate": 2.0,
+      "tripDate": " December 2016"
+    },
+    {
+      "title": "Don't stay here...worst smell ever!!!",
+      "text": "We thought we would stay here because we wanted to be near to the Rogers Centre for this weekend's Blue Jays games. This property is directly across the street. However after walking into the hallways of this place, there was NO way I would have let my family stay in here. The smell was unbearable. So we decided to stay somewhere else so we wouldn't have to go through this. I asked for a full refund, partial refund or a room on another floor but management stated that there wasn't a smell and that they wouldn't be able to help me. This is a matter of negligence, theft and unprofessionalism. The entire conversation with management clearly showed that your stay wasn't important to them - simply your money was all they cared about. For a visit to Canada's #1 city, I would recommend staying anywhere else.  There are so many other locations we've stayed in Toronto that showed TO's hospitality and class. This residence is not a true example of what Toronto stands for. Just thought it would be an easy walk to the Rogers Centre for my kids. I would rather stay in traffic then choose this place. It stinks!!!",
+      "rate": 1.0,
+      "tripDate": " April 2016"
+    },
+    {
+      "title": "Substandard accommodations in hard-to-find building on active construction site",
+      "text": "A business colleague, duped by Glen Grove Suites at the Maple Leaf's deliberately misleading online photos, booked a two-bedroom apartment for our stay during a June 2015 convention. There was no online mention of the fact that the address listed is on an active construction site and that the building is inaccessible from the ground floor. Signs on the wire mesh fencing and scaffolding surrounding the entrance read \"DANGER Due to Construction.\" The locked front door had these signs posted: \"DO NOT ENTER\" and \"Head Protection; Foot Protection must be worn.\" Another sign advised, \"The security desk has been relocated to the 2nd Floor of 370\" (the building next door).\" At 370, the guard at the security (rather than reception) desk handed us keys but knew nothing else about Glen Grove Suites -- which turned out to be units in a high-rise, rental apartment building in poor repair. I pointed out to the guard the puddle of urine (presumably dog pee) in front of the security desk; two hours later, it was still there. although the guard was not. The second-floor hallways were full of orange construction-site poles and yellow \"CAUTION\" tape, and the wall paint was unfinished. The rooms in our \"suite\" had cheap, hard, uncomfortable mattresses; we both awoke with sore backs. The headboards, the wrong size for the beds, were not anchored or attached to the bed, wall, or floor; they had merely been shoved between the mattress and the wall. Similarly, the sliding closet doors were not in their tracks, and hung at odd angles. They could not be opened without falling. The bed linens were thin and cheap, and the towels had holes in them. The wall paint was unfinished and the baseboards rusted. The shower head was moldy and rusted. There was no Wifi, which had been promised. There was no management staff to whom to complain. After two miserable nights, we succeeded in finding proper accommodations in a hotel, for the remainder of our Toronto visit. Glen Grove's General Manager claimed to be unaware of the condition of our unit and was defensive and argumentative. Eventually, he granted a meagre 30% refund.",
+      "rate": 1.0,
+      "tripDate": " June 2015"
+    },
+    {
+      "title": "Stay away!!",
+      "text": "I don't usually write bad reviews, and to be fair; im pretty pissed off right now. But if you're here to have a good time, this will end your ambition. The place is run down. It smells bad. The guest directory is inaccurate. Glen glove forgot to give us a laundry card. The tv is old and the sharp sound will get you deaf before you grow grey hairs. Back to laundry, they need a card, and to reload the card; you need to buy a cheque or money order. After being told to buy one and where to buy one, walked a km just to find out the money order can't be used. Also, it costs a lot more and they just won't accept cash, or any form of cards (debit/credit) humans have since used. Etc etc oh, and don't bother calling \"reception\" after 5pm; you're on your own after that. And we have only stayed here for six hours. We are so looking forward to the awesome next three days!",
+      "rate": 1.0,
+      "tripDate": " January 2013"
+    },
+    {
+      "title": "Excellent Stay",
+      "text": "Great location on the lake front - close to CN Tower and Rogers Center - very quiet room with full kitchen - comfortable bed - parking available if required - very secure with 24 hour security on site - shoppers supermarket on site - would definitely stay here again",
+      "rate": 5.0,
+      "tripDate": " October 2018"
+    },
+    {
+      "title": "Deserves more the 3.5 stars",
+      "text": "I found this place when I was looking for a place to stay in Toronto for business. First, it should be mentioned that finding the place is quite confusing. I can't understand why the owners of the apartments don't send clear instructions/directions along with the reservation confirmation. I arrived with a taxi that left me at the exact address and for more then 15 minutes had to walk back and forth in a freezing temperature, with my heavy suitcase. I even called the number I had on the reservation, thinking that someone will answer the phone like in every hotel, but there was just a message that they don't work on Sundays... it wasn't solved until someone from a nearby supermarket helped me find the entrance. That mentioned - it's not a hotel, don't get it wrong. You get an apartment from a third party, in a private building.. Glen Grove suits is probably this third party name and you won't see this name on the building entrance or anywhere. The only person that will address you problems or concerns is the guard at the entrance. As for the apartment - big, nice, clean. good view, excellent location. Reasonable price if you compare to other options in this city. the building - corridors smell bad and it seems that everyone there has a dog or two, so if you don't like dogs going up and down with you in the elevator, it's not the place for you...there is a small grocery shop at the entrance and a supermarket with better selections in the corner. Both a bit expensive, so if you plan on having more then just a toast and eggs for breakfast, you might want to shop in a bigger supermarket. Make use of that since you have a full kitchen in the apartments.communications -  Free wifi worked great. There - only one tv screen, in the main room, i would prefer it in the bedroom. the screen is small and the selection of channels is bad - practically nothing to see.",
+      "rate": 4.0,
+      "tripDate": " March 2018"
+    },
+    {
+      "title": "Great location at a reasonable price",
+      "text": "The Positive: This establishment is actually a residence building, NOT a hotel.  It makes no difference to the comfort of the apartment, but be aware that there is no actual reception or hotel facilities.That being said, we were treated courteously by the security guard located on the ground floor and received our room keys with no issue (in fact, we were able to get an early check in, which we were really grateful for!).The apartment was a good size with a fully functioning kitchen, a spaceous lounge with couch, TV, table and chairs.  A separate bedroom with large comfortable bed lead off the lounge area and a small study area was positioned between the bedroom and lounge.  This was idea space for luggage.  A bathroom with bath, shower, toilet and sink ran off the kitchen.The best thing about these residences was the location!  Walking distance to the Rogers Centre, Observation Tower, Ferry Jetty, Union Station, Railway Museum, Steam Whistle Brewery, and many eating places.  A convenience store is located directly downstairs and a larger supermarket around the corner;  very convenient so that we could use the kitchen in the apartment for cooking.A tram stop is almost right outside the building which my husband and I used to get to Union Station (cost a few dollars) and we were then able to catch the train to the airport (cost around $15CA).Although the apartment isn't 5 star quality, it had everything that we needed (including wifi) and was in walking distance to most tourist places.  We even had a nice view out over the water (just a pity that the windows were quite dirty on the outside).The Negative:Finding the place is quite confusing.  There is a  building at 350 Queens Quay West, then to the left a large pond with building 370 behind the pond, then the residences/apartments are to the left of the pond at 390 Queens Quay West.The entrance is tucked away in the very corner, nestled between 390 and 370.  It is marked with street numbering, but if you are looking for it from the front of 390 you may have trouble finding the entrance.Be aware that it is a residence building NOT a hotel.  There is a 24x7 security guard at the front desk on the ground floor and he is the person you need to see for apartment keys.Dont be put off by this if it sounds confusing; simply get the tram or taxi to 350 Queens Quay West and then look across the pond to the left far corner and you will see the 390 signage and front door.During our stay, there were renovations happening on a few floors in the building.  There was a bit of noise during the day, but we were out most of the time exploring so it didn't affect us.  There was also a notice about water being cut off for 1 day, but again, we simply made sure we went out that day.Having no real point of contact was a bit annoying as we wanted a late check out and the only way that this could be arranged was to ring the actual owner of the apartment.  It was sorted though and no issues.The outside of the windows were filthy and made taking photos of the view impossible, however the view was actually really nice.The study area had pale blinds which didn't block the sun out and our windows faced east, so it was quite bright in the bedroom early in the morning.",
+      "rate": 4.0,
+      "tripDate": " November 2016"
+    },
+    {
+      "title": "The location is what makes this place",
+      "text": "Stayed here for a week while attending a wedding earlier this month and walked away  ambivalent. The location is really what gives this accommodation it's rating, despite it being mostly an average place to stay. It's on the quay and hence you can grab yourself a nice view (depending on the apartment you get).  The apartment contains most of the basic necessities but pretty much everything (including decor and furniture) would benefit from being updated/renovated which is why I wouldn't consider this a great spot.  In the warm Toronto summer, the second bedroom also received little to no air cooling, which made some of the hotter nights very uncomfortable.One point of note that lowered my overall rating to average (would have given it a very good based on location) was the awful customer service that you receive from 'reception'. There are in fact no on-site staff from Glen Grove and the security desk for the building functions as the reception. Zero customer service and we were generally made to feel an inconvenience and treated very abruptly and at times, rudely. There was confusion over protocols between the different staff members etc. as well, and generally just a poor outward interface with guests. Very poor.Overall, there would be better options in this area but if necessity calls, you will get the expected 'average' stay.",
+      "rate": 3.0,
+      "tripDate": " July 2011"
+    },
+    {
+      "title": "Basic and adequate facilities in an outstanding location",
+      "text": "This is not a hotel. It is apartment living. Great security access. Well stocked kitchen for self catering. Comfortable beds, good shower pressure. Needs a bit of basic maintenance and a hairdryer! Shoppers drug mart close by for food. Quick few minutes walk to CN tower. Tram out the front. Walking distance to down town. Perfect and would stay again.",
+      "rate": 4.0,
+      "tripDate": " March 2017"
+    },
+    {
+      "title": "Great Location",
+      "text": "We had a two bedroom with den.  More than ample room for three adults. We were right on the waterfront and about a block from the tower and aquarium and had a great view of the lake and the city.  About a twenty minute walk to Union Station.  Great restaurants and shops around us.  The ferries to Toronto Island was about a fifteen minute walk away.  The condo could do with a bit of updating, but condo was clean, the bed was comfy and the shower was good and also the price was right so we could overlook any chipped paint or fused light bulbs. Concierge were also very helpful.We were in Toronto for a wedding and we had also booked three other condos and all of the guests were also very happy with the location etc.We will definitely stay here again on our next visit.",
+      "rate": 4.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "Location, location, location",
+      "text": "Stayed here in August 2015, primarily went to Toronto for 3 baseball games.  The suites are located right on the newly revamped waterfront and adjacent to the Rogers Centre.  We were on the 8th floor with a wonderful view of the waterfront and islands just outside the city.  The suite had two bedrooms, one bath, living room and kitchen as well as a study.  Not much more you can really expect.  Internet was included and the speed was plenty fast.As noted elsewhere, this is not a hotel.  The apartment is located in a condo/apartment building with many full time residents.  On our floor ours appeared to be the only short term rental.  There is a laundry which requires a pre-loaded card to use (we did not).  We paid for parking (15 per night) and it is secure and safe.  There is also a fitness center in the building.Yes there is construction, but if you follow the signs entrance is simple and the security guard at the desk was very, very helpful.You are right on the waterfront with lots of activities going on, easy access to the hop on-hop off bus if you want to tour the town, boats/water taxis to the islands, etc.  Plenty of places to eat, Rogers Centre, CN tower, etc. all about 10 minutes walk.",
+      "rate": 4.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "What an amazing location",
+      "text": "We stayed here in August for our first visit to Toronto, and were delighted with the quality of the apartment and the location.The apartment we rented was well furnished and has all the amenities you should need for a short stay with a fully equipped kitchenette, cable TV, and air-con. The complex has a gym ,a laundry, a roof terrace, and its own parking. Some of the common areas of the building where in need of decoration or updating and some of the apartments where being refurbished with new windows leaving the outside of the building looking a little like a construction zone,but overall this didn't detract from the accommodation.All of this is good, but what really makes this special is the location. The block of apartments is on Queens Quay West which is the main road along Toronto's waterfront. The view from the front of the building is of Lake Ontario and the harbour front area with its hotels, parks, restaurants and attractions.The rear of the building overlooks The Gardiner Express-way (a very busy 6 lane highway) but the noise from this was minimal despite us staying during a very busy period. Within a 3 minute walk from the rear of the building is the Rodgers Centre (Toronto Blue Jays Baseball Stadium), The CN Tower, Ripley's Aquarium, and The Steam Whistle Micro Brewery.Most of Toronto's entertainments and attractions are accessible on foot from this location and it really made us feel pleased to have chosen such a great place to explore all the city has to offer",
+      "rate": 5.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "Impressive ",
+      "text": "The hotel was absolutely amazing the quality of the room was extraordinary great price and no complaints when my friends and I had music loud. For two days it felt like it was our apartment. They had their own pots and pans knives forks spoons as well as a microwave stove kitchen.",
+      "rate": 5.0,
+      "tripDate": " February 2015"
+    },
+    {
+      "title": "Great place and excellent location!!",
+      "text": "We had the best 3 weeks at Glen Grove Maple Leaf. The reservation staff are so helpful. We initially got a 2 berdroom suite on the first floor which was a bit noisy from the nearby streetcars, but Glen Groves so kindly moved us up to the 11th floor and this was great.  A fantastic view on the lake, marina, and Toronto island airport. The location is excellent, close to street car station, harbour front is a step away with lots of activities for kids there.All teh basic amenities, very clean, and regular housekeeping once a week.I would recommend this to anyone wanting to stay for a couple fo weeks or longer.",
+      "rate": 5.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "location best part of staying here",
+      "text": "our family booked 4 rooms for us all to stay for a wedding............the location was it's saving grace.  2 of the rooms had awesome locations and views, the other 2 had ok views.  2 of the rooms were filthy, needed painting and carpets cleaned or replaced........both units could have used a real overhaul to get them respectable for use.  The management of the building were not able to help us, we had to call a 1-800 number and then they would send someone over to see what they could do.  We had asked for a crib and when I saw the playpen with the broken arms and the huge rip, I called and asked them to remove it, as it was not safe to use and I was told that they couldn't do anything about it until after our stay.  I ususally am pretty easy to please and we did have a great time.  Restaurants were close by and the views/harbour area made our stay here pleasant.......We were able to accommodate several family members in each unit and this also helped make our stay good, as we all travelled some distance and so were able to spend lots of time together.  My only requests are clean and bug free and safe.........wasn't clean but all rooms were bug free !!!!! Price was also affordable for the area, all in all, we had a good time, just hope that they attend to some of the cleaning before the next renters arrive....",
+      "rate": 3.0,
+      "tripDate": " July 2011"
+    },
+    {
+      "title": "Maple Leaf Quay",
+      "text": "My husband and I just recently stayed at the Maple Leaf Quay and loved it! It was clean, quiet, close to everything, and friendly staff. It was reasonably priced and loved the fact of being able to cook some of our own meals as these are condo style instead of a hotel. We already are talking about staying there next year!!",
+      "rate": 5.0,
+      "tripDate": " September 2018"
+    },
+    {
+      "title": "Good Price, Good Location!!",
+      "text": "Better than Expected; Good Location - Next to everything Downtown at a walking DistanceThere's a starbucks close by and a store. Good Price / Quality / Care. Something that is important to check cause it happened to us, and I heard that is not the first time, is that the location/address is very confusing; and there's no clear instructions about it, I think the main problem is that the hotel sign says something different , a different name. We got there, and we stopped in the place that is right next to it, and the person that who we asked was more lost than us. But After finding it, it was Great!",
+      "rate": 5.0,
+      "tripDate": " March 2018"
+    },
+    {
+      "title": "not a place to be recommended",
+      "text": "We arrived from Australia late on a Friday night. It was hard to find but fortunately the security guard let us in. To start with the suite's airconditoning did not work  - and it was 0 degrees outside. The sheets on the fold out sofa bed were soiled and had been previously used without changing; the 'blankets' were no more than cheap polyester throw overs and the 4 pillows , the 4 thin towels for 3 people were of similar standard. The experience just went downhill from there - cupboards and wardrobe doors that almost fell off when you opened them; dirty kettles and cleaners and corridor disputes at 2 in the morning. The 'emergency' number finally responded on day 3 when the casual employees cared enough to contact the management. But by then one of the travelling party had caught a flu and the rest of us were just over it. We are not fussy travellers and usually dont make a fuss, but these apartments are tired, poorly built, badly renovated and in no way represent the quality luxury experience you hope to have. I cannot recommend against this place strongly enough.We will be seeking full refund of our rental;  it was that bad.",
+      "rate": 1.0,
+      "tripDate": " November 2012"
+    },
+    {
+      "title": "Great location but confusing ",
+      "text": "The location was brilliant. Close to hop on hop off bus and cruises, fairly close to Union Station and Rogers stadium. There is a supermarket next door which is super handy for an apartment. Pet friendly, we loved seeing all the dogs. One window in our apartment wouldn't open, the blinds were broken too. Very hard to check in and out. Would be nice if I was sent an email with the details outlining the produce. There is a Laundry on 2nd floor but was not given a card to use it the machines, luckily the residents are friendly and willing to help otherwise I would have been quite frustrated from time to time. If your looking for location, this is for you, if your looking for a well organised stay this is not the place to go. If your looking for cleanliness maybe wait until the building has gone through  all its renovations and see what it offers.Overall more happy times than not.",
+      "rate": 3.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "Great location!",
+      "text": "Really good location, and great views on the shore and CN Tower!Laundry and a gym on the second floor, beer store round the corner lol\"Corner shop\" downstairs   Supermart in a buildingWalking  distance to the city centerCar park  available - extra chargeHelpful concierge",
+      "rate": 4.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Now renamed 'Quay Apartments' - absolute waterfront",
+      "text": "When we arrived after a relaxing trip on Canada's famous Via Rail \"The Canadian\" train, security at the ground floor had our kes ready, so within five minutes we were in absolute waterfront room 1809.This had excellent views of Toronto's Queens Quay and surrounding areas and was easily reached via streetcar routes 509 and 510, the latter linking Toronto Union railway station with Spadina Avenue.The corridors had been recently painted; the room was OK in that regard, but some doors needed a touch up with a paintbrush.  The tiles were showing their age a bit.There was a good kitchen with supplied necessaries such as crockery and cutlery and a reasonable lounge room with a dining table, sofa and flatscreen television.The bedrooms had comfortable beds with fair quality linen.  The pillows were rubbery.  There was a small alcove between a window and one bedroom: it may have previously had a personal computer installed as there was a good desk.The bathroom was fine and had a low bath with shower that delivered instant hot water.  The room however did get quite hot despite an exhaust fan being there.Unfortunately there was some noise from traffic on the Gardiner Expressway, an ugly blight on Toronto that could perhaps be removed.  Investing in streetcar route development as well as GO Transit trains and more subway lines would be preferable.WiFi is apparently chargeable: this was not disclosed on the website if I recall.There was a Shoppers' Drug Mart downstairs as well as a Canada Post mailbox that I used for postcards, and a commercial laundry and smaller convenience store.  Restaurants were 300 metres along the streetcar route but strangely a Chinese restaurant was not one of the nearby offerings, although we solved that by hopping on the route 510 streetcar and visiting Chinatown at Dundas Street West and Spadina Avenue corner where we obtained an excellent meal for well under C$50.Checkout involved dropping off the keys to security.  Two sets had thoughtfully been provided.",
+      "rate": 4.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Nice location otherwise to be avoided unless you have dogs",
+      "text": "Its a apartment building for the sub 30 crowd. Smelly hallway,  carpet stained, furniture seen better days.I would rather stay in a hotel with amenities or an apertment style hotel. This is more of a vrbo type experience",
+      "rate": 2.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "Good Location",
+      "text": "This property is in a great location, just a 5-10 walk to the Roger's Center. The suites have great views of the lakefront and it is nice to have space. I stayed in a two bedroom with two coworkers and we were all able to have our own sleeping space.(there was a small den that fit the cot) Being able to bring your own food was also a benefit to us.But there are some definite negatives. It is very confusing on how to actually register, park and then get your luggage to your room. This is not an easy task. 3 other coworkers arrived ahead of us and it took them an hour upon arriving at the condo to actually get the keys, park and get into the room. Luckily they were able to help us when we arrived, but it was still very confusing. It definitely was not one of the cleanest places I have ever stayed. As health care workers we always travel with professional grade cleansing wipes lol and it was a good thing. They really should rip the carpet out when it is covered in stains. I am not a germiphobe but even I would not take off my shoes the entire time.Would I stay here again, I am not sure and I am not sure I would recommend this property to anyone else. I think I would probably look into Airbnb or VRBO first.",
+      "rate": 3.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Dirty, disgusted Apartment",
+      "text": "At first it looks nice, but the Apartment was very, very dirty. All things: carpet - extremly dirty, seats, couch, and the bedspread has a lot of undefined dirty dark spots. The bathroom moldy. On request by Service the Apartment was cleaned, but it needs a complete renovation. The Service was reachable, a change impossible. We stay 3 Days, it was so disgusted.",
+      "rate": 1.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Had an enjoyable stay with my family at the Glengrove suites",
+      "text": "I had a quite an enjoyable stay at the Glengrove suites. The place is very clean, has all facities needed and a wonderful view of the lake and at the same time close to downtown, CN tower and Ripley's Aquarium. The reservation team were excellent in their promptness to respond to any problems. The building has an excellent security system with courteous officers. The only problem we had was the constructions in Queens Quay that work till late and start early morning but it should be ending soon.I recommend this accomodation for families.",
+      "rate": 4.0,
+      "tripDate": " October 2013"
+    },
+    {
+      "title": "Great location and comfortable suites",
+      "text": "I highly recommand this hotel for its perfectly equiped suites and the amazing view of some suites on the lake. I had a noise concern with my first  room  and Brian, from the hôtel staff efficiently fixed the problem. Great stay!",
+      "rate": 4.0,
+      "tripDate": " February 2012"
+    },
+    {
+      "title": "Better Than Expected",
+      "text": "I had read a few of the other reviews for this property and was a little nervous going in but this place was so much better than I expected. I had screenshotted another review here on exactly how to find the check in desk (it's the last unit on the left next to the Loch Quay restaurant) and had no problems locating it once I got there. Checking in was easy - the security man on the desk checked my ID and gave me my keys in an envelope which also included information on the WiFi, telephone, TV etc. I knew before I had booked it that this wasn't a hotel and not to expect any amenities like luggage storage or frequent room service but I didn't care, this place was really worth it. The apartment was clean, had great air conditioning, comfy bed and a good sofa bed. It had lots of space and a fantastic view of the CN Tower - I felt like I was in the lap of luxury. The only three things that I had minor issues with were that there were no coffee filters with the coffee but you can get them at the convenience store at one of the ground level units and there were three lifts but they were all very slow (so if you're rushing out, give yourself plenty of time). On the last evening when I came home, the toilet sink made some very loud noises like it was either blocking up or being drained that went on for a while periodically and then stopped. Everything still worked fine though and I expect it was coming from another pipe rather than my sink as it hadn't been used all day. Other than that, I had a very pleasant three-night stay and would absolutely consider coming back for longer next time.",
+      "rate": 5.0,
+      "tripDate": " August 2018"
+    },
+    {
+      "title": "Better Than Expected",
+      "text": "I was nervous about booking Glen Grove for 3 nights after reading reviewsThe apartment check in was very confusing as other reviewers have mentioned. Look for the ShoppersDrug Mart facing Queens Quay and pull into alley on side of it and park in spaces behind the drug store while you check into the hotel.  Walk around the side of the building and you will see 390 Queens  Quay on the opposite side. The guard was helpful but did not explain how to get from parking deck to elevator that goes to the apartment. We had to go  back to lobbyfor additional instructions.There is locked door on the fifth floor parking exit that leads to elevator. You must have the fob and key to open. Our 2bedroom unit was a Deluxe unit at the end of the hall. Ithad a great view of the harbor from two large windows.  The condo had been renovated with nice fixtures and good lighting. There were two bedroom and one bath. The beds were both doubles  not queens.  One bed was so hard that it  was uncomfortable. That is the only reason that I am giving 4 stars instead of 5. Location was within walking distance to many sites.",
+      "rate": 4.0,
+      "tripDate": " October 2017"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Ace Hotel Toronto",
+    "url": "/Hotel_Review-g155019-d23972957-Reviews-Ace_Hotel_Toronto-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 103
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "51 Camden St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 1V2",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/b4/46/2c/guestroom.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Ace Hotel Toronto lives in the heart of the Garment District, within an outstretched arm of many of the independent and legacy cultural institutions that comprise Toronto’s multicultural mosaic. The hotel is adjacent to Queen West, Chinatown, and the Downtown business core, blocks from famed music venues Horseshoe Tavern and Velvet Underground, from the Art Gallery of Ontario and TIFF Bell Lightbox — Toronto International Film Festival’s HQ, and from the Bentway, the city’s artistic, cultural, and recreational public space. Ace Hotel Toronto reflects the city’s past through a prismatic and future-facing vantage — preserving its layered legacies and adding texture with considered design and feeling. Intentionally crafted as a civic space, the hotel stands both in homage to and in dialogue with the neighborhood it inhabits.",
+  "featues": [
+    "Paid public parking nearby",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Bar / lounge",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Business Center with Internet Access",
+    "Meeting rooms",
+    "Baggage storage",
+    "Street parking",
+    "Restaurant",
+    "Gift shop",
+    "Non-smoking hotel",
+    "24-hour check-in",
+    "24-hour front desk",
+    "Laundry service",
+    "Blackout curtains",
+    "Bathrobes",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Safe",
+    "Walk-in shower",
+    "Complimentary toiletries",
+    "Telephone",
+    "Wardrobe / closet",
+    "Iron",
+    "Private bathrooms",
+    "Hair dryer",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "A Delightful Birthday Stay",
+      "text": "Upon arrival, we were greeted by friendly hotel staff who made our stay extra special once we mentioned we were celebrating my partner's birthday. We planned to spend our entire stay inside the Ace as it was a cold, wintry day. Dinner downstairs at Alder was fantastic, followed by a night cap by the fireplace at the cozy rooftop bar, Evangeline. In the morning we enjoyed delicious coffees from the lobby bar, provided by the trendy, local coffee bar, Sam James Coffee. We stayed in the 'medium' room, which was nicely designed with a comfortable large bed, window bench seat, and soothing shower. Although on the pricier end, I'd highly recommend a stay, especially during the winter months when you can enjoy all of the amenities. Also, if you're an architecture fan, this hotel is not to be missed.",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Perfect hotel, Perfect location",
+      "text": "It would be easy to miss the Ace Hotel, tucked in a cozy residential area, until you step inside.Soaring ceiling, architectural touches everywhere, enormous windows to bring in the greenery from the local park.Friendly and welcoming staff made the hotel immediately feel very special.The \"small\" room was absolutely perfect.  Having stayed in numerous NYC hotels that are truly small, the Ace's room was incredibly well thought out and space efficient.Everything had a place...a hidden desk, tons of storage space, a shower and sink in a separate room from the toilet room created an ideal amount of space for one or two. The room had a window bench which was the perfect perch to watch kids and dogs playing in the local park.  Design wise, the room featured high concrete ceilings along with soft muted colors which while totally modern were also soothing and cozy.The lobby bar area was beautiful and a great spot to enjoy a drink and chat amongst the truly stunning architecture.The Ace will be my #1 hotel when staying in Toronto",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Our Toronto Favourite!",
+      "text": "We liked everything about this hotel. We are from Toronto but now just visit, but visit frequently, and this is our favorite hotel stay so far! The aesthetic was incredibly beautiful; the architecture of the building, the furniture choices, the quality of the bedding and bathroom supplies. It was just a pleasure to be there. We are both very tall and normally prefer a king sized bed, but the bed was so comfortable and the linens so nice that we found we did not miss a bigger bed at all. The room was small but perfect, we did not feel cramped at all. The design was immaculate, with closets to put your bags, hooks for your coats, a spacious entry, table and chairs and more. The designer of the hotel knows what they are dong, it all feels so thoughtful. The quality of the choices of fabric, furniture and construction are apparent. The room also felt very private, very well designed in this way. We ate breakfast there twice, excellent espresso and food choices at the bar, and we had snacks and drinks at the rooftop bar. I don't think Toronto has ever been that cool but it is now! :) The staff were so fantastic, all of them, at both the front desk and the bars, they were genuinely competent and caring. We almost did not stay here because when you call you get a generic answering service that basically shows you it is obvious that you are calling an American hotel chain. We were looking for something non-generic. We came anyway and wow are we happy we did. Why do these companies do it that way? It would be so much better if you talked to an employee actually invested in the culture of the hotel, who could personalize the answers to your questions. It would add a layer of service that would be on par with the genuineness of the rest of their offerings.We are hoping this will be our go-to place in Toronto if we continue to be able to access affordable rates. Thank you to Ace Hotel for giving us an experience of authentic quality in a world where this is harder and harder to find!",
+      "rate": 5.0,
+      "tripDate": " March 2023"
+    },
+    {
+      "title": "Home from Home",
+      "text": "We recently spent 4 nights here and loved every minute. We had a large double which overlooked the small park. The room was spacious with plenty of shelves and hanging to store things and also a lovely window seat which we actually used! The bathroom had a large bath which I used twice after walking many kms around fabulous Toronto. The hotel is in a great downtown location for exploring on foot. Staff are all amazing - friendly, helpful and knowledgable about the area. We had breakfast here every morning - a delicious pastry with very good coffee. Other dining options are just around the corner. The bed was so so so comfortable! I actually looked forward to going to bed every evening, which is rare in a hotel/being away from home!  There was also very little noise at night, which enabled us to get a good night's sleep. Linens were spotless and I thought having a black face flannel marked 'makeup' was a genius idea. The only tiny minor negative, which happens in so many hotels, is the lack of a mirror in natural daylight to do makeup. There is only one small mirror in the bathroom and no full length mirror. Apparently this is part of the hotel's ethos. Fair enough. We really enjoyed our stay here, and despite being decidedly un-hip and middle aged (!) didn't feel out of place and were made to feel welcome. Whether you're looking for a staycation or a hotel for exploring, we would definitely recommend this hotel and I wouldn't hesitate to stay here again.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Not the boutique hotel of my dreams",
+      "text": "This hotel values style over substance. In the quest for streamlined decor, my \"king\" room had one tiny bistro table and one uncomfortable wooden chair. That was it, that was the entirety of the surface area for my possessions. The enormous windows had no drapes for privacy or room darkening, just janky, thin blinds that wouldn't stay closed. The bathroom was comically uncomfortable; no place to put my toiletries, two tiny hooks, shower so close to the sink that water splashed everywhere. Towels in a basket under the sink because the bathroom was the size of a postage stamp and completely without useful storage. No horizontal surfaces in the water closet, either. The stylized coat hooks by the door were so close to the door that I had to remove my coat if I wanted to open or close the door. And one random weeknight during my stay, the music from the 2nd floor party space was so loud that, even several floors above in my room, it kept me awake. The hotel staff said they couldn't do anything about it. In my estimation, the number one job of a hotel is to provide a comfortable place to sleep, and they couldn't do it.So thanks for the help. I won't be back, and I'll get my company to remove the hotel from their list of preferred places to stay.",
+      "rate": 3.0,
+      "tripDate": " January 2024"
+    },
+    {
+      "title": "One of the best in Toronto!",
+      "text": "I've been coming to Toronto once a month for a few years, so I've stayed at my share of hotels in the city and i have to say that this hotel stands out in so many ways! I've stayed at other Ace properties and while they're all great, this one might be my new favorite. Aesthetically, the lobby and bar/restaurant are stunning. There was a DJ playing great music in the lounge. I truly didn't want to leave to hotel during my stay, which hasn't happened before! The absolute best part for my stay however, was the service. I was greeted warmly by someone every time i stepped in the door. Everyone in front desk/bar was energetic and friendly. I have to give MVP title to Victoria in front desk, who went above and beyond to ensure my experience at the hotel (and in Toronto) was the best possible. All of these factors, with a huge focus on service, will make it hard to stay anywhere else!",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Perfect Stay",
+      "text": "Very comfortable beds, well thought out rooms that have everything you need. Housekeeping and front desk staff went above and beyond to accommodate my very complicated late check out request. Very cool Lobby and rooftop bar. Would recommend for sure!",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Amazing staff. Not your average hotel",
+      "text": "First of all let me just say that this hotel is great. Its not like any hotel I've stayed at in Toronto. The lobby/restaurant/bar makes you feel welcome and doesn't sacrifice luxury for comfort. The rooms are modern and chic, they make you feel like you're at home if your home was designed by a famous architect. I'll certainly be staying here again. The staff was amazing. Gabriel and Selena were ready to help out at all times and seemed happy and excited to do so. Selena even accommodated us when we told her we were staying for a birthday weekend. We appreciate this kind of hospitality that you don't normally find at hotels. The location is great for a night out, but the bar is so well stocked that you might not even make it to King Street.  Highly recommend.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Great spot for a Toronto visit",
+      "text": "Great location, great service and great room. It may not be huge, but the design is very thoughtful to maximize the space you have. I ended up working in my room and it was very comfortable. The aesthetics of the space are also great - wonderful use of colour, textiles. Also appreciated the soap, shampoo etc provided -- nice quality, with subtle (but not overpowering) scent.",
+      "rate": 5.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Excellent location, stay and staff.",
+      "text": "Fantastic addition to the Ace Hotel line! The location was very central to anything you need. Parking was not yet available, but we ended up parking in a secure lot just one block away on King Street. You can pay hourly, for exactly as long as you need. Very convenient.You can already see the architecture and attention to detail in the photos. What you cannot see in the photos is the exceptional hospitality from the crew.Everyone was so friendly and accommodating. A hotel stay should feel relaxed and carefree. This is was absolutely achieved because of the staff.The hotel is brand new. I can only hope they maintain this level as it becomes more and more popular. Look forward to staying here again when the rooftop lounge is complete.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Nice and cozy place",
+      "text": "It is a nice and cozy place. The staff is really friendly and goes above and beyond to make you feel welcome and make sure that you are enjoying your stay. I will definitely choose Ace again for my next trip to Toronto, considering it was also a great deal.",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Another Superb Experience",
+      "text": "Every time I’ve visited the Ace Hotel Toronto, I can’t say enough about the greeting I receive from the dedicated staff in the Lobby Bar and Front Desk. So welcoming and warm. Like coming home every time. Evangeline, the rooftop bar was outstanding. Park view room was perfectly quiet overnight.",
+      "rate": 5.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "Ace Hotel Convert",
+      "text": "It's a beautiful hotel and the staff is absolutely amazing! They were able to help me out when my Airbnb felt unsafe and continued to check on me the entire stay. The rooms are great, the beds are comfy and the lounge/lobby is a great place to get some work done. I will be back next time I'm in Toronto!",
+      "rate": 5.0,
+      "tripDate": " July 2024"
+    },
+    {
+      "title": "Lovely stay",
+      "text": "Lovely experience. Everything was impeccable from check-in to check out. The table, service and ambiance at ALDER was memorable. We had the privilege to sit right across from the open cuisine which made the whole experience even better. I strongly recommend ALDER. I will return for sure. There was a guitare in my room… I played a bit and it made my stay even better. Room was small but well laid-out. The Shower had good pressure and wifi was good.",
+      "rate": 5.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Incredible stay",
+      "text": "I love this hotel!An incredible architecture and interior details, comfortable rooms and friendly stuff. Comfortable bed, really big tub!You can also enjoy a delicious dinner at a Michelin guide restaurant Adler that located downstairs.Location is perfect:close by the down town.",
+      "rate": 5.0,
+      "tripDate": " July 2024"
+    },
+    {
+      "title": "Everything was perfect, highly recommend Ace Hotel!!",
+      "text": "Wonderful new hotel, with its finger on the pulse of Toronto. The main floor bar was quite enjoyable for a couple early evening cocktails or a craft beer. The event space downstairs is charming. Check in was flawless and the rooms were perfect. Very comfortable bed! Would be happy to stay here anytime!!",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Loved it",
+      "text": "Loved everything about Ace Toronto. The design, the room, the food, the service, all of it was fantastic.The hotel has a trendy but not overly cool feel so we felt very comfortable.Went with a friend for a weekend and we will definitely return.",
+      "rate": 5.0,
+      "tripDate": " July 2024"
+    },
+    {
+      "title": "Incredible staff and perfect stay",
+      "text": "I could not have had a better stay. The large King room was beautiful, mini-bar well stocked - and the bathtub! The bathtub. The biggest reason to stay at the Ace is the people. Jenevieve in the Lobby Lounge was incredible. She was present, warm, genuine, and attentive; her work, and team behind the bar, made it a truly welcoming place, and led to surprising conversations. I'll be coming back.",
+      "rate": 5.0,
+      "tripDate": " February 2023"
+    },
+    {
+      "title": "A cozy time!",
+      "text": "With so many different levels in the hotel, you'll find a space that fits your mood throughout the day. Our favourite part was the rooftop bar with the cozy fireplace. The staff were super helpful and always attentive. Best hotel in the city by far!",
+      "rate": 5.0,
+      "tripDate": " February 2023"
+    },
+    {
+      "title": "On the money!",
+      "text": "We love the charm, ambiance and class of this property. A fantastic modern vibe for a repurposed building with character. Staff were solid and attentive, especially so for roof top servers and bar staff. The location could not have been better for where we wanted to wander on Queen West. The amenities  were perfect. Loved the big open shower in the room. We will be back!",
+      "rate": 5.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Thoroughly enjoyable and welcoming.",
+      "text": "Everyone I encountered at the hotel was hospitable and kind. From the front desk to the restaurant to housekeeping. I loved how easy ordering room service was and how quickly it arrived. Loved my room and view! The vibe of the hotel was chic without being stuffy.",
+      "rate": 5.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Good vibes, great hotel team!",
+      "text": "All the Ace hotel staff were absolutely lovely! While I was checking in I requested a room with a nice view and the wonderful woman on the front desk (I wish I remembered her name), stepped in and showed her colleague how to change my already assigned room, placing me in a room overlooking the park! The housekeeping staff we also very friendly and helpful throughout my stay! The only downside to this hotel is the space planning of the room, the wardrobe is in an awkward corner blocked by a bedside table and a hanging light that I kept bumping into.",
+      "rate": 4.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Love Ace Toronto",
+      "text": "Third time this year doing a staycation at Ace Toronto. We return because we love the location, vibe, food/drink and services. Previously stayed in the Large room. In July we stayed in the Ace Suite, in August the 1 bedroom suite. We actually preferred the 1 bedroom, although slight disappointments were no needle in the turntable and the 2nd shower head in the extra large shower wasn’t functional. Sandra at check out was again lovely. Great restaurants in the area, including Alder at The Ace. We’ve enjoyed our stay with Ace Toronto so much that we will be staying at Ace New York in October. Will definitely return to Ace Toronto",
+      "rate": 5.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Extraordinary experience - funky, accommodating and comfortable",
+      "text": "I have been telling my friends about the Ace Hotel ever since I got home. Entering later than we expected, we were welcomed with relaxed charm and blown away by the funkiness. But the casual professionalism began before we got there and while we were figuring out our plans. This 50 plus'er was made to feel cool and welcome.The space was also open and not cramped. The bed was very comfortable, we are considering buying one of the comforters for our bed at home. We loved the small touches like the turntable and choices of music. In our room, however, we were missing a dresser or shelving to put away our clothes. The room could also do with a safe.The bathroom was extra clean and the products are wonderful. I did buy some of the soap to bring home. My only complaint here was that as a short person, it was hard for me to do my makeup in the wall mirrors and the lighting was a little dim for that. An easy fix would be to simply provide a makeup mirror. Overall an exceptional experience and I will be going back.",
+      "rate": 5.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "T Dot Rock",
+      "text": "This hotel is nicely placed in the city center of Toronto and located out of the main streets but within walking distance of all the action. Going to the game was fun and the city was alive that Friday. Great for food and fun in a city center.",
+      "rate": 5.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "Over the Top",
+      "text": "Where do I start??Staff. Amazing! Fantastic service from this multicultural group. 100% committed to your perfect stay, beverage or dinner.G.M. Lyle Pauls is the consummate host.Rooms. Amazing beds, truly as good as it gets. Pillows and bedding top of the line, all set in a modern but warm design.The design. Simply the best! I will add one photo, you need to experience it in person, just like the many photographers, architects and designers who we noticed every day.  Food. Sam James coffee in the morning—Wow! So good. Drinks in the lobby bar to Alder for dinner all amazing!! A little more about Alder, reserve early, well before your stay or it might be a challenge to get a table. I’m always a little stumped when the waiter says “my favourite? Everything!” But truer words may not have been spoken! Menu is modest with every dish we had, perfect!  Rooftop lounge sadly for us opens in a couple of weeks, but we asked to see it. Will be back just for that. Tip - when you get up there make your way out the glass doors, go left and left around the corner for the best skyline view in the city!Just go!!",
+      "rate": 5.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Still Our Favourite!",
+      "text": "This is an update to a previous review. We travel a good deal and have decided to only write a review when we really think things are exceptional. This is just to say that since our rave review we have been back a number of times, both as a family and alone, and nothing about the hotel has let us down. The hotel and service staff are next level. The design, comfort, cleanliness, food/bar offerings and location are fantastic. We are sensitive to indoor air quality and that part is never a problem at the ACE.  Best of all we always have a great sleep. Thanks again Ace hotel for giving these ex-Torontonians a place we really look forward to coming to. It’s really our favourite hotel in the city.",
+      "rate": 5.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Hotel that listens to your requests",
+      "text": "Great hotel. I am extremely fussy about noise, and made enquiries in advance about ensuring we were allocated a quiet room. They delivered as promised and we had an excellent stay. Thanks for listening and helping Ace Hotel Toronto!  (Room was also very comfortable, good size, nice view)",
+      "rate": 5.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "All about the People",
+      "text": "It’s my number one in Toronto. Wonderful little spot by a park but right downtown, beautiful building, well appointed rooms with great details, and a fantastic restaurant, reception and bar staff. When you travel all the time, knowing you will be welcomed in a friendly and genuine way is such a comfort.",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Style and content",
+      "text": "A stylish, comfortable and convenient hotel. We loved the rooftop bar - it feels like a home from home with a stunning view and delicious small-plates menu. The breakfast in the lobby bar was tasty and fresh, and it’s easy to edit dishes to suit.",
+      "rate": 5.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Perfect",
+      "text": "Wonderful staff, really friendly and always happy to help. Amazing atmosphere and overall vibe. The rooms are super comfy and modern with a unique twist on decor. The hotel is fairly new so there were a few things that needed sorting, there were a few fire alarms during my stay - but at check out Constantino was nice enough to give me a discount on my next stay and a free breakfast and coffee voucher for the inconvenience! The area had tons going on around it, great dispensaries 3 min walk away (recommend Value Buds 👌🏾) tons of bars and restaurants and some really cute coffee shops too. Would totally stay here again, I’m a big fan of the Ace brand and this location did not disappoint!",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Funky hotel in a cool neighborhood",
+      "text": "We stayed here on the final leg of our Ontario trip. This hotel was a genuinely nice discovery: chilled atmosphere and a cool concept in this contemporary establishment. We loved the concrete and reclaimed wood design - our room was compact and well designed in all possible details to make it both functional and comfortable. We tried breakfast in the cafe on the ground floor: food was delicious and the friendly staff made our day start in the best possible way. I would definitely stay again at the Ace Hotel when back in Toronto.",
+      "rate": 5.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Ace Hotel is mint.",
+      "text": "Ace locations are always a sure bet. Their staff are always attentive and pleasant - the hotel has modern, Nordic inspired design that feels home. The quilts on the beds at Ace Toronto are amazing as well. Location is central and is walkable to many of the best sites/restaurants in the city. The price lies somewhere between chain hotels (delta/holiday inn) and luxury locations (four seasons/shangrila), but has so much more personality and warmth then both those options, making the price justifiable.",
+      "rate": 5.0,
+      "tripDate": " April 2023"
+    },
+    {
+      "title": "Wouldn't stay anywhere else in TO!",
+      "text": "This hotel is in an ideal area, walking distance to most places in DT but also located on a quiet street. Amazing rooms and beautiful architecture. The Lobby Lounge has some awesome cocktails and even better \"Vibe\". Elevators are super speedy and smell gorgeous. Huge selection of beverages/snacks in the in-room mini bar, majority of it is local! Bed is super comfortable and lots of closet space as well. On weekend evenings the Lobby Lounge has a great DJ, seems like its the hot place to be this summer.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Great weekend stay at the Ace Hotel",
+      "text": "The Ace hotel has a great location for walking to local restaurants and bars, a very cool design with cozy rooms, and friendly staff. We thoroughly enjoyed our stay and will definitely be staying again the next time we are in the area. The rooms make really nice use of the space - we stayed in the medium and it felt great.",
+      "rate": 5.0,
+      "tripDate": " March 2023"
+    },
+    {
+      "title": "Can't go wrong staying The Ace Hotel",
+      "text": "Great staff, friendly, seemed to treat everyone equally.  The atmosphere on a Saturday night was lively.  14th floor bar/lounge/DJ was a great spot to hang out at for awhile.  The room and amenities were perfect.  There seemed to be so much attention to detail and thought into the smallest things.  I'd definitely stay there again! Thank you Ace Hotel!",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Top notch staff, Unique & Comfortable Hotel",
+      "text": "My girlfriend and I just stayed at the Ace Hotel Sept 3rd 2022 and WOW. We've stayed at many hotels downtown Toronto and this one has to be the most memorable. We loved everything about it. From the moment you walk in you're greeted with friendly staff and very comfortable ambience. It has a completely different vibe then the standard hotel. It's very welcoming.The room has a vintage sort of vibe to it which was refreshing and the bed / pillows were some of the most comfortable we've ever slept on. Loved everything about it.We were heading out that night but decided to go down to the lobby for a drink before heading out and again WOW. The ambience was great for a casual drink and the live dj provided a great back drop to the whole thing. It wasn't over-the-top loud but just right so you could still casually socialize.We both give this hotel a solid 10/10 and can't wait to go back.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Relaxed, stylish and superior service",
+      "text": "Cannot recommend Ace Toronto more highly. Our room was extremely well appointed (as with all Ace hotels) with great design, and functional built ins. Bed, bedding and towels all top notch.Lobby will certainly become a busy hangout for guests and neighbours, but for opening week was welcoming with complimentary drinks, oysters, cheese etc.The team was all super friendly, exceedingly helpful and we were impressed by everyone we engaged with.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Hip, trendy hotel",
+      "text": "Interesting hotel.  The lobby was kindof a scene (which is good and bad).  Staff was almost too helpful.  Room had a tea kettle and some tea, but no sugar or coffee.  There was an ice bucket, but you had to call for ice.  They were very nice about brining me ice and sugar, but I was a bit uncomfy having to ask and having someone bring me things.  Comfortable and warm.  Lots of food options within walking distance.  Lots of wood (you'll see).",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Easy, great stay ",
+      "text": "Great looking hotel. Prompt, efficient service. Medium room was just the right size for a couple. Set up is convenient - toilet in a separate space from shower and sink. Space w shower and sink is small. Lighting in washroom not the greatest for applying makeup. Very clean. Great location - walking distance to restos on King and shopping on Queen and Ossington strip. Parking is not included abd there is no “hotel” parking persay. But there is a pay lot adjacent to the hotel which was $30 for 24 hours so totally reasonable.",
+      "rate": 4.0,
+      "tripDate": " February 2023"
+    }
+  ]
+}

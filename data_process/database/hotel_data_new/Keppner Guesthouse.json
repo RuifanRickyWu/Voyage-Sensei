@@ -1,0 +1,280 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Keppner Guesthouse",
+    "url": "/Hotel_Review-g155019-d4700555-Reviews-Keppner_Guesthouse-Toronto_Ontario.html",
+    "priceRange": "$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.0",
+      "reviewCount": 75
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 Huntley St",
+      "addressLocality": "Toronto",
+      "postalCode": "M4Y 2K9",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/cd/de/eb/img-20180920-151516-largejpg.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Non-smoking hotel",
+    "Air conditioning",
+    "Desk",
+    "Seating area",
+    "Microwave",
+    "Refrigerator",
+    "Complimentary toiletries",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "You pay for what you get.",
+      "text": "This guesthouse is very nicely located near the metro so it is easy to move around. the place is very small and in desperate need of renovation. the owner is very welcoming and always ready to help. It is quite cheap to stay here but it is also not the nicest place you will ever spend the night.",
+      "rate": 3.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Nice guesthouse",
+      "text": "We stayed several nights in this nice guesthouse during our last visit to Toronto. Our Room 7 was located at the fround level and had nice ceilings and a small bathroom. The staff was very kind and we enjoyed walking underneath the trees in the cosy neighbourhood.",
+      "rate": 4.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Basic but excellent price",
+      "text": "As with most things in life you get what you pay for. Keppner Guesthouse provides cost effective accommodation in a city where hotels cost a premium, and this is worth remembering when staying here.The room was clean and tidy, with en suite shower room which was immaculate. The owner was not on site when we arrived but he turned up after about 15 minutes to check us in and show us to our room.Although not central to Downtown Toronto a short 10-15 minute walk brings you into the livelier part of the city on Yonge Street but the area itself is still well served with convenience stores and some restaurants.My only grumble with the accommodation is the paper thin walls where a sneeze or cough can be heard in the next rooms, luckily this did not interfere at night and we managed to have a restful nights sleep.",
+      "rate": 4.0,
+      "tripDate": " May 2019"
+    },
+    {
+      "title": "Cancellation due to overbooking",
+      "text": "This place cancelled our room 1 week before our arrival. Room was booked 5 months ago.  Reason was :\"sorry we overbooked our place we cannot receive you\".Obviously they do not have any negative impact  even if this place has a cancellation fees If I was the one to cancel.I cannot give 0 stars unfortunately.",
+      "rate": 1.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "DISGUSTED",
+      "text": "Amazed this is called a guest house at all! The shower was useless, the room didn't feel very clean. Wouldn't recommend at all. Barely saw any staff and it definitely is not a B&B. Also unoble to contact anyone prior to arrival to ask about parking restrictions.",
+      "rate": 1.0,
+      "tripDate": " May 2015"
+    },
+    {
+      "title": "awful",
+      "text": "Unfortunately, our experience was that this guest house is to be avoided. The rooms look nothing like on the photos and the room we got was very dirty: gum on the walls, spiderwebs, generally the walls looked like they haven’t been painted or cleaned in years, the same goes for the bathroom, which had all manner of stains on the wall around the sink and toilet. To make things worse the sheets were also dirty and the room smelled very badly. For this price, we weren’t expecting any kind of luxury, but this is basically false advertising as the gap between the photos and reality is huge. We had booked three nights and we left after one. The manager reimbursed us for two of these nights and then tried to make it seem like we had never even showed up towards the booking service through which we booked, in order to avoid a bad review, even though we had spent one night there and paid for it.",
+      "rate": 1.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "Toronto Treat",
+      "text": "I stayed at Keppner Guesthouse for 1 week and it was brilliant.Room: Clean, comfortable, little fridge,microwave, and a nice bathroom with a sit down shower (I will be getting one of these when I'm older)Location: In Downtown so about a 20 min subway ride to CN Tower, Sherbourne station just 5 min walk away.Also it's on a side road off Bloor so no noise from the road.Price: I think for Toronto it was reasonably pricedStaff: Gary was great, always helpful and even booked a trip to Niagara Falls with his help.Thank you for a pleasant stay.",
+      "rate": 5.0,
+      "tripDate": " April 2015"
+    },
+    {
+      "title": "Great value for Toronto",
+      "text": "My husband and I stayed here for a weekend visit from Milwaukee. It was a great location, very quiet but close to the underground station for easy transportation. The building was old, but the service was excellent, and our room was clean and had all the amenities we needed. Would definitely recommend if you're looking for a reasonably-priced place to stay in Toronto.",
+      "rate": 4.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "Inexpensive guest house",
+      "text": "I thought that Keppner was quite expensive but compared to other accommodations in Toronto it's not that bad. It's not the kind of place that you'd want to spend a lot of time in though. Our room was basic, a liittle shabby, included a shower cubicle but the bed wasn't too comfortable and the room wasn't too warm overnight. There's also a microwave and fridge in the room but no plates or knives and forks. Good choice of channels on the TV. The surrounding area is great with some wonderful cheap restaurants and easy access to public transportation. Steve, the proprietor, gave us some money-off vouchers for the local Eggsmart restaurant and this was the perfect place for a filling breakfast",
+      "rate": 3.0,
+      "tripDate": " May 2019"
+    },
+    {
+      "title": "Did the job , just.",
+      "text": "The good points , good wifi ,clean bedding and towels,good location , near good eateries which were pointed out to us by the owner . Slept well , but room did not lend itself to feeling cosy , poorly decorated , made for short stays only . Used eggsmart for breakfast , and McCools on an evening  .",
+      "rate": 3.0,
+      "tripDate": " September 2018"
+    },
+    {
+      "title": "Good location, great price",
+      "text": "This is budget accommodation in old building. Big plus is it is close to subway station (2-3 blocks).The room I had was very clean and quite large (queen with a pull out couch too). The place is multi room, multi building so each room is probably different. I was on second floor 15- 20 steps up (also 8-10 to get into building). Property manager was very nice, showed me where guest house parking was (extra $10/day and limited spaces). Must vacate parking spot by 11 am on day you are leaving.WiFi worked ok, room lighting is dim, TV is budget package. No air conditioning. Places to eat within a short walk. Parking on street is max of 3 hrs during day. Other parking lot for going city rate within a few blocks..",
+      "rate": 3.0,
+      "tripDate": " July 2017"
+    },
+    {
+      "title": "Clean, close to transport but you get what you pay for!",
+      "text": "The accomodation is exactly what you pay for.  Room and lodging is not 5 star rating but there was some extra add ins like a fridge, microwave, kettle, TV with cable and free wifi that made this a good stay.Bathroom does have step up to but that was not an issue for me however the shower is set behind a dark curtin and no window so a little dark.  The shower itself was clean and there was soap and shampoo there.  I was not impressed about the water pressure but my husband said it was great.Had to ask the staff downstairs to come and turn air conditioning on for us and they wouldn't leave the remote so we couldn't regulate the temperature ourselves but it worked well.My only real complain was the bed.  It wasn't all that comfortable, we had no other bedding other than sheets and two pillows so I had to ask for another which took was just a little awkward.It is close to lots of restaurants and public transport.I agree that it seemed a little rough at night so wouldn't recommend staying alone.All up though I would go back.",
+      "rate": 3.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "Good value for price",
+      "text": "Safe and friendly place. Not very modern, but ok. The room was clean, although it has not been cleaned during out stay. (Maybe would have been done on request - I have not tried). Wifi sometimes has issues.Bed was ok, however I would have preferred a duvet instead of a blanket.Location is very good. The house is on a quiet street, very close to tube stations, shops, and main roads. Walkable distance from downtown. Good value for the money paid. I would stay there again.",
+      "rate": 4.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "Good location; you get what you pay for",
+      "text": "Our room was pretty basic and the beds uncomfortably hard as were the chairs.  If you want a good location and not going to spend a lot of time in the room, this works well.  We were able to spend two nights in Toronto instead of one if we were at a hotel.  Definitely bring extra towels and a blanket.  All they provide are two bath towels, no face cloth or hand towel and only one light blanket.  The room was clean and the area quiet.",
+      "rate": 3.0,
+      "tripDate": " February 2017"
+    },
+    {
+      "title": "Great little guesthouse in perfect location!",
+      "text": "Super location with a 5-10 minute walk to any downtown location!The room was clean, the bathroom is something to get used to as it looks like a big closet lol. Would love a few more pillows, but other than that staff was super friendly and helpful!!",
+      "rate": 4.0,
+      "tripDate": " November 2016"
+    },
+    {
+      "title": "Couldn't sleep! Absurdly loud bed springs....I mean LOUD!",
+      "text": "My biggest complaint that over-rided the positives is that the bed makes a VERY loud groan/squeak whenever you sit, lay down or roll over. I wasn't feeling great & needed some good rest. But that was impossible due to the bed. The location is good. The room had a fridge & microwave, which is very convenient.It was supposed to have a city view, but my view was of a shed outside.",
+      "rate": 2.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "~ A Hidden Gem ~",
+      "text": "A superb Location. Plenty of coffee shops, restaurants and shoppings that are just ONE block away. In addition, there's a grocery store named No Frills just a stone throw away. Above all, TTC Sherbourne Subway Station is only two blocks(5 mins.) away. As for the guestroom, it's secure and cozy. Bear in mind that, this is NOT a hotel. Rather, this is geared more for those that are looking for alternative accommodation and budget-minded folks. Happy staying!",
+      "rate": 3.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "positive side: good location",
+      "text": "Location was the deciding factor when I was selecting a place for a weekend in Toronto. I wanted it to be close to the city center and within short walking distance to the Subway station. Keppner Guesthose met those requirements and is a great  choice when it comes to location - the three star rating goes for that.As for comfort and standard of the place.... my preference was a BnB but none were available on those days, before booking Keppner I read the reviews and comments from other guests, so I did not have high expectations. Still, couple of things that (in my view) could get improved with not a big effort/investment are: light and cleanliness.There was no bed lamp on either side of the bed and the ceiling light was not very bright, evening reading was uncomfortable.The room had a fridge and a micro-wave but no electric kettle, we asked for one and were promised one but had to ask again (we got the following day). Still, I must say the people handing us the keys (and bringing the kettle eventually ;) were nice.",
+      "rate": 3.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "You get what you pay for.",
+      "text": "Most of the reviews are accurate. The beds are not comfortable, you can hear your neighbors and the A/C is marginal at best. There is parking on the street but it's a 3 hour limit so don't bother looking for a spot. There is a parking garage less than 50 yards from the property, the 24 hour rate was $16 (CA) per day on weekdays and $5 per day on weekends, this was on September 13th, it's probably more expensive in the summer and cheaper in the winter. Your other choices are stay 20 miles out of town and pay and pay twice as much or pay 4x as much downtown.",
+      "rate": 2.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Worst bed I ever laid on",
+      "text": "Although clean enough, the bed was so hard I slept poorly for the duration of our stay. The bed was so noisy as well, I woke my spouse with every roll over. Unbelievable!  The TV was not working in our room, and wasn't repaired during our stay although I left a message with the housekeeper. The bathroom was so small I sat sideways on the flush.  Whereas options were limited due to TIFF, and hotel prices at triple their norm, I probably won't stay here again.  Good location however.Air conditioning passable",
+      "rate": 2.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Simple for budget travelers",
+      "text": "The guesthouse is located at a resident building of Huntley street, about 5 minutes walking from subway station of Sherborne. From there one can walk 15 minutes to Queens Park (University of Toronto), ROM & shopping mall. One can find bars, café, & supermarket along Bloor street. The owner contact with us for the arrival time via mail in advance. When we arrived over 10:00 pm, he was waiting for us, prepared city map & other information. We booked double room,which is small but enough for us.",
+      "rate": 4.0,
+      "tripDate": " June 2018"
+    },
+    {
+      "title": "Great Price for Downtown - Nothing Fancy but Clean",
+      "text": "This is a 19th c. building converted into a guesthouse. It is located on a quiet, tree-lined residential street. This is not a B&B, so breakfast is not provided. There is a good selection of fast food restaurants for breakfast on Bloor,  just a 3 minute walk up Huntley Street. Booking is straightforward and registration takes only a couple of minutes. I had a queen room on the main floor facing the street. Although the furniture is used and somewhat battered, the bed was new and comfortable. Although a light sleeper, I had a good night's sleep with windows open. There is no street noise in this quiet neighbourhood. Room has private bath, AC, TV, free WiFi, and light blocking curtains. The hardwood floors, 12-foot ceilings and bay window make for an airy room.",
+      "rate": 3.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Good deal",
+      "text": "Room, bathroom, sheets and towels were clean. Some reviewers noted noise and mattress comfort. These were minor things in my view. It's not a five-star hotel. I got what I paid for. No surprises. No bugs. Quiet neighbourhood. No street parking at night. A few spots at the back for $10. That worked out for me. Book parking in advance to avoid last minute hassles.",
+      "rate": 4.0,
+      "tripDate": " April 2017"
+    },
+    {
+      "title": "Keppner guesthouse",
+      "text": "This a disgusting little place the curtains were ripped. It was in desparate need of a paint job there were watermarks on the walls. Only 1 blanket and pillow each. The bathroom required a 8 inch step up the shower was poorly done, the faucet was 3 inches off the ground. The room looked like something from your nightmares. People smoking 8n front of the door and yakking to all hours no phone to call anyone. The management lives off property. The neighbourhood was rough.",
+      "rate": 1.0,
+      "tripDate": " February 2017"
+    },
+    {
+      "title": "Glad it was only 2 nights",
+      "text": "The guest house was a 30 min walk from the town centre. The room was small with a working fridge a non working microwave no kettle, a tv with only one channel....an interactive fish tank. The radiator was on with no way of turning it off or down we were hot all night. The bathroom had winnie the pooh and snoopy tiles. The shower was actually really good and we had a supermarket near by but no way to cook food.",
+      "rate": 2.0,
+      "tripDate": " January 2016"
+    },
+    {
+      "title": "Guest house in good location with room for improvement",
+      "text": "This guest house is located in a pretty quiet area and felt very safe. The room in general was OK. Service and provided amenities are not comparable with a hotel (e.g. no soap or bath gel, no coffee maker etc.).There are some pain points though that should be addressed (some easier to fix than others...):- bathroom with shower is tiny and not well lit. Made morning showers a pretty bad experience.- \"bed\" for the third person was a couch with a super thin and uncomfortable mattress- - AC is available but the remote is kept by staff. Why?! After we asked to get the AC running we couldn't switch it off, even when leaving the room for the day... that is neither ecological nor a reasonable service to the guest.",
+      "rate": 2.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "Excellent value for money deal",
+      "text": "The room had everything I needed (tv, wifi, private bathroom, good bed, fridge, microwave, small desk) and was very clean. It felt like being home away from home. My room was on the ground floor, so yes sometimes I could hear some noise from people coming in or leaving, but it was ok. The location is very convenient: close to everything (metro station is really only 2 min walk) and the street is very quiet. I liked the old houses in the street, next to the tall office buildings. The room was an excellent value for money deal during my conference stay in Toronto. So much cheaper than the conference hotel! If I could give one suggestion: it would be nice to have some cutlery in the room for when you heat something in the microwave and to have an extra blanket for the really cold winter nights. But I'm sure I could have borrowed these things if I would have asked for them.",
+      "rate": 4.0,
+      "tripDate": " March 2014"
+    },
+    {
+      "title": "Ok but bathroom not so clean",
+      "text": "So the guest house is really two old homes a block apart. Each has a number of little rooms. The bed was firm...there was a tv although fuzzy reception...the sheets and towels were clean. The shower curtain was covered in mold/mildew and the shower and bathroom while they looked clean smelled of urine...so kinda gross. That was really the biggest issue I had...It was a very warm Fall night and there was no AC...not sure if there is in the summer...but it was a looooong hot night...not sure it was worth $100 with tax n parking...and no breaky.",
+      "rate": 3.0,
+      "tripDate": " September 2013"
+    },
+    {
+      "title": "Wasn’t what I expected",
+      "text": "When I arrived the door was locked and no one answered the bell. I called the numbers indicated on the door using the phone by the door but it didn’t go through I had to try so many times in the freezing cold whether. The roo was relatively clean and has nice layout but: #1)Wi-Fi signal is very weak, keeps going on and off all the time, very annoying. #2)The water in the shower goes burning hot to ice cold, no control with the handle. #3)Walls are very very thin you can hear EVERYTHING what’s going on next door and the hallway. #4)The microwave wasn’t working.",
+      "rate": 2.0,
+      "tripDate": " November 2017"
+    },
+    {
+      "title": "Cheap and not far away from the downtown",
+      "text": "We got a room with bathroom, which is I think, the best possible option in that hostel. They offered for 10 $ a parking space, on the rear of the house, and we also got it. It looks like a normal house adapted to use it as a hostel, they don't offer breakfast or something similar because nobody is there in the morning. The room was small and a little bit damaged but clean, and that was enough for us. We didn't expect a super room for a cheap price in that city",
+      "rate": 3.0,
+      "tripDate": " July 2017"
+    },
+    {
+      "title": "Start here for Toronto-Expedition ",
+      "text": "A historical, probably end of 19. Century, brickbuild house 6 subwaystations away from CN-Tower near the rainbow area. It has everything we needed. Shower, beds tidy. The rooms no doubt higher compared to those rooms in the tower buildings beside. Friendly and helpful staff. Parking in the courtyard possible.",
+      "rate": 4.0,
+      "tripDate": " October 2018"
+    },
+    {
+      "title": "Will definitely visit again",
+      "text": "I am giving this review 5 star as it exceeded my expectations. From the moment my friend and i got there we were greeted by friendly staff. The room was huge with a blanket and towels. Yes there is a step up for the bathroom. Parking was super convienent.  I was surprised to read a few reviews comment on not feeling safe walking in the neighbourhood- no issues at all-and we are two females.",
+      "rate": 5.0,
+      "tripDate": " April 2018"
+    },
+    {
+      "title": "Visiting my daughter ",
+      "text": "Hi, well this guesthouse was situated on a nice treelined road that has permit parking out front. I did see that it had parking available at the back but had no use for it as had no car. The hotel itself is clean and the staff are friendly. We had a couple of issues but these were sorted straight away so cannot complain about anything there.I would however say it would have been nice to have a Kettle in the room as a standard, I'm sure we would have been given one should we have asked.Location you cannot fault at all. You are right in the heart of it all without paying right in the heart of it prices.If you are travelling about you only generally need somewhere to sleep, wash and store your stuff which is basically what we done. If you want more of the homey, hotel feel then pay hotel prices. This guesthouse served it's purpose very well for us with the added bonus that the staff and area was lovely.",
+      "rate": 4.0,
+      "tripDate": " February 2018"
+    },
+    {
+      "title": "Clean, comfortable and convenient budget accommodation",
+      "text": "Stayed in one of the small queen rooms, which was bigger than it looks in the photos and there was plenty of room to move around. Room and bathroom were clean and the place was quiet when we stayed. No breakfast, but there is a clean fridge and a microwave in the room and there's a supermarket a couple of minutes walk away. Wi-fi was o.k. too.Guesthouse is located on the edge of the centre and there's a subway station about 5 minutes away, although you can walk to many places.The area around was quiet and felt safe.I would certainly stay there again.",
+      "rate": 4.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Terrific location",
+      "text": "Old home in residential area. Great location, 1 block from bike path going all the way to lakeshore. Few mins.walk to subway station. 1km from on-ramp to highway. Can easily walk to many places. Somewhat noisy from other guests but that is not the fault of the guest house. On site parking available for $10 per day. Pay street parking also available. Rooms are small, but clean and comfortable. Fridge in room. I think that some of the bad reviews are unfair. Great value for money. We stayed 2 nights over a holiday weekend. $200 including taxes and parking. Free wifi.",
+      "rate": 4.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "Awesome place!",
+      "text": "Really nice place, good situation in Toronto, about 40min walk to CN tower! Plenty of shops around, easy access too! Room was a decent size, spotless and it was nice and bright! We weren't troubled or hassled at all, the gentleman who was there checked to see if we needed any clean towels or anything and was happy to help at anytime! We were there for 5 nights in total and would 100% go back!",
+      "rate": 5.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Be Aware of what you are buying into. Good for low budget travellers.",
+      "text": "What does on get for $87 a night taxes included? Well, my room was compact. The shower was large enough but the toilet was hard to sit on without knees on one's nose. The electricity arrived by and went round the room by uncovered cabling. The furniture must have come from end of line stock at knock-down prices: my clothes hanging and shelving area was a wire-framed covered in green man-made fibre with a zip arrangement. One shelf only. The work table was irrelevant as the plug for the computer was too far away to allow charging during use. The mattress was single spring and I used the spare bed covering as an extra under-sheet padding to make it more comfortable. The room is cleaned only every second or third day. The small carpet by the work table had ingrained dirt perhaps from use of the microwave. If cooking was done in the room there is only the bathroom basin for washing things. I survived 6 days only because it was somewhere cheap to use as a base. Assistance is only available if one asks for it. The approach is minimum cost in staffing. It is in a quiet street but well away from restaurants and not as close to the metro stations as claimed by some. You get what you pay for.",
+      "rate": 2.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "Awful",
+      "text": "We've been travelling around quite some times but this breaks it all.Normally, referring to a Trip ratio of 4/5, according to previous experiences, we would expect a great place to stay. This is awful.Rooms are small, probably not complying with fire protection regulation. Air-conditioning is provided without remote control, you have to pay 10$ for parking but there is no place to park your car except by blocking another guest, coffee cups are there but nothing to make coffee nor tea, nowhere to put your luggage, etc...",
+      "rate": 1.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Warm, clean, and welcoming",
+      "text": "I stayed at Keppner Guesthouse with my mom in early May 2019 on a weekend visit to Toronto. Keppner Guesthouse was the only spot both affordable and available in the time crunch after an Airbnb booking turned out to be a scam. We arrived in Toronto and right away was able to check in with the lovely, kindhearted guesthouse owner. I paid extra to keep my car around back in the parking lot, which was well worth the (minor) extra expense. Keppner Guesthouse was quiet, clean, and well-situated. Please don’t be put-off by the homey appearance one bit; my mom and I were very much satisfied with everything from the bathroom (excellent shower pressure and more than plenty of hot water) to the amenities. Keppner Guesthouse is also well situated from Dundas Square, good food options in the neighborhood, and the nearest subway station. I would definitely stay again.",
+      "rate": 5.0,
+      "tripDate": " May 2019"
+    },
+    {
+      "title": "Inexpensive though ordinary",
+      "text": "Its OK located, not exactly downtown but round the corner from a couple of subway stations and that was fine.Its reasonably priced and Toronto is expensive.It was VERY clean and quiet but the rooms are on the shabby side and I did expect a little more. The guy, Stephen, couldnt have been more helpful tho. We just got on with it and it was more than OK.",
+      "rate": 3.0,
+      "tripDate": " September 2019"
+    }
+  ]
+}

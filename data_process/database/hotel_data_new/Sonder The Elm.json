@@ -1,0 +1,150 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Sonder The Elm",
+    "url": "/Hotel_Review-g155019-d23107136-Reviews-Sonder_The_Elm-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 15
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "159 Elm St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5T 3A7",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ce/da/1a/sonder-at-the-elm.jpg?w=500&h=-1&s=1"
+  },
+  "description": "The Elm offers the best of Baldwin Village. Your space features an elegant design with wooden accents and contemporary art pieces. Plus, there's a fully equipped kitchen, in-suite laundry, and Roku streaming. Ready to immerse yourself in the Toronto melting pot? Swing by The Art Gallery of Ontario to admire the impressive permanent collection and rotating exhibitions. Picnic at Queen's Park, or take your pick of delicious bites from around the world. We love Adega for seafood dishes and a taste of Iberia! And beyond Queen Street, explore the city's buzzing nightlife and entertainment scenes. Sweeping cosmopolitan spirit packed with hidden gems, vibrant culture, and activities galore — settle into \"The Six\" at The Elm. Please note there is no elevator, and guest spaces are only accessible by stairs.",
+  "featues": [
+    "Free internet",
+    "Complimentary Instant Coffee",
+    "Concierge",
+    "Non-smoking hotel",
+    "Express check-in / check-out",
+    "Private check-in / check-out",
+    "Clothes dryer",
+    "Washing machine",
+    "Internet",
+    "Complimentary tea",
+    "Seating area",
+    "Sofa",
+    "Iron",
+    "Private bathrooms",
+    "Coffee / tea maker",
+    "Kitchenette",
+    "Flatscreen TV",
+    "Bath / shower",
+    "Dishwasher",
+    "Microwave",
+    "Oven",
+    "Refrigerator",
+    "Stovetop",
+    "Electric kettle",
+    "Kitchenware",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Great location for walking!",
+      "text": "This was our 3rd Sonder’s stay. We appreciate the consistency in cleanliness and appeal. Location at 159 Elm St was ideal for walking. 20 min to the Royal Ontario Museum and 20 Mins to the waterfront.",
+      "rate": 5.0,
+      "tripDate": " April 2023"
+    },
+    {
+      "title": "Very clean and had everything I needed",
+      "text": "I stayed for 6 nights on business, so I was out and about quite a lot, but when I was at the property it had everything I needed. The kitchen was well equipped with the bonus of washing-up liquid and dishwasher tabs. There was also a washing machine and a separate dryer, which I didn't need to use but thought would have been useful if I'd been travelling with my family or for longer.The TV gave me access to music/radio as well as other streaming services such as Netflix, which was all I needed. The shower had good pressure and temperature and there were plenty of towels.",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Close to Hospital",
+      "text": "Exactly as it looked in pictures. Everything necessary was supplied, including individual sachets for the drip coffee, and dish and laundry detergent. Chat response was instant when a couple of issues arose. HVAC worked well. I do wish there was cable, as setting Roku was time consuming, but that was minor. It was a 5 minute walk to the Peter Munk Heart Centre entrance.        This leads to my only issue.  I was there for my husbands surgery. He was released one day earlier than originally expected. Although I notified 3 days in advance, no refund was given. In retrospect, for longer stays without a fixed end date (10 nights in my case) I would advise booking for a shorter period of time than might be needed, as stays can easily be extended, or a move to another hotel can be made.        If you have issues with technology, you may want to get some help with booking. There are a  number of online steps, including posting a video of your face, and digitizing and uploading 2 pieces of valid picture ID. You also need to download the Sonder app to your cell phone: definitely an issue for anyone who doesn't have one.        With all the above in mind, I would definitely book a Sonder in future, especially now that I have the App!",
+      "rate": 5.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Comfy and convenient!",
+      "text": "The Sonder at Elm is very conveniently located - easy walking distance to grocery stores, museums and restaurants. The suite was spotless, very spacious and well equipped. Check-in was very smooth.  One minor issue came up during our stay and was dealt with promptly and with great follow-up. This is our first stay with Sonder and it won’t be our last! I highly recommend the Sonder at Elm,!",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Great value in downtown TO.",
+      "text": "This was my second stay at a Sonder and it was great! Super clean and well stocked unit. The unit was so comfortable and the bed was amazing. Close to the subway, AGO, Eaton Centre and Kensington. I used the luggage storage on arrival and check out and it was super handy. Check in was seamless and the support on the app is quick and helpful.",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "I came to Toronto for a three days convention. The city is nice, clean, vibrant. Everything was close. I mostly walked.",
+      "text": "A great very small hotel in downtown. Walking distance from University of Toronto. The hotel was very quiet. Only 5 rooms. The room was like a small suite with a sleeping room. Everything was clean. Everything was comfortable. The surrounding was also quite and safe.",
+      "rate": 5.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Trendy apartment in a lovely neighborhood",
+      "text": "Just spent three nights at Toronto’s The Elm apartments. We had the one bedroom King bed unit #202.   Lovely unit, well stocked, had all the required amenities and then some lose to downtown and directly outside of the hospital  district. Will definitely stay again while in Toronto.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "VERY loud location, very hard bed, no elevator and limited customer service",
+      "text": "I booked the Sonder on Elm for one week while in Toronto on business. I arrived early and needed somewhere to leave my luggage. As I didn't want to pay the $40 to check in early (considering no hotel does this if the room is clean and available), and there is no elevator, I lugged my bag down two flights of stairs to the luggage storage area. Then 4 hours hour later lugged it back up 4 flights of stairs. I tried to get customer service to waive the fee as the room was available but customer service abides by the \"policy\" and won't help you. I should have knows there was an issue when I walked into the bedroom and there were two sets of earplugs sitting on the night stands! Room 202 has two homeless men with who live directly outside the window (this is only a 2 floor building) that woke me up nightly screaming very loud profanity for over 30 minutes at a time. In addition, this facility is across from a hospital so there are a lot of ambulances at all hours of the night. In addition, the heating and cooling system is very loud as it come on and off all night. The bed was extremely hard foam, very unlike the majority of hotels that use a comfortable pillow top bed. The sink in the bathroom clogged at every use - it needs to be fixed. Overall, it is a nice facility, fairy clean, but I wouldn't stay here again. I barely slept all week and wouldn't recommend this place if you value your sleep.",
+      "rate": 2.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Don't reserve on their app and don't stay here unless they do a major remodel.",
+      "text": "This place is extremely worn out, and is in dire need of repairs in some cases. I wrote a review under an old email by accident, but would like to place the review here under this ID, since I have a number of reviews contributed here. I would like others to know that this is a real review by a real person who has contributed to TripAdvisor before and that this Sonder was not a good place to stay.",
+      "rate": 1.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Solid Stay!!!",
+      "text": "Ideally located in downtown Toronto...easy access, clean space and comfy beds...plenty of space for 2 couples...great 24 hr. convenience store located below the Sonder.  Jimmy's Coffee down the street makes a fantastic brew!!!",
+      "rate": 5.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Comfortable but access difficult- not mentioned strongly enough  in the description. ",
+      "text": "After a trying journey from the airport at about 9 pm what we didn’t need to see was a front door which knocked you off the step when you opened it, and a flight of concrete steps up to our accommodation and no lift!  Probably something we’d missed in the description, (we’ve checked and it was mentioned) but nonetheless disheartening!Once inside we were pleasantly surprised- the accommodation was spacious and comfortable.  We had already experienced the Vancouver Sonder at Revival and its vast entrance area was in stark contrast, but the accommodation was basically the same and just as good The only small criticism we could mention was that we were expecting full sets of mugs and cutlery, but they were not complete.  A couple of teaspoons would have been welcome!On the whole we’ve had a good time here,",
+      "rate": 4.0,
+      "tripDate": " April 2023"
+    },
+    {
+      "title": "Amazing place to stay !",
+      "text": "We had to leave our home in PEI for a medical procedure in Toronto and booked 159 The Elm and hoped for the best … well … we got more than we hoped for !  The suite was so clean and modern … the king sized bed was welcoming with freshly ironed sheets … how often do you see that !  My husband was very comfortable and was ready to go back home in a few days.  I want to thank Sonder for taking the worry out of our “digs” … we were so very satisfied !Marie GilchristCharlottetown, PEI",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Toronto trip",
+      "text": "The accommodations were very clean and perfect for what we needed. Only thing missing was a recycle bin, had accumulated a lot of paper that needed a home. Other than that definitely would revisit next time we are in Toronto.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Very comfortable, clean and has all the amenities",
+      "text": "The apartment was very clean, had really comfortable bedding, and had a stocked up kitchen. This was our first trip with our infant and we had an amazing time at Sonder. In-apartment laundry was a welcome surpirse.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Due to the lack of maintenance I have to give a negative opinion, which otherwise would have been more than positive",
+      "text": "The Sonder formula involves renting a room or apartment in a sort of residence/building without a reception and direct contact with any type of staff (you don't see receptionists, cleaners, doormen). Room cleaning is not provided during your stay, but clean towels can be requested (in advance and via chat).Once you have paid for your reservation, you will receive the access code to the building and your home 3 days before arrival. You enter into autonomy and hope everything goes well. If you need something you have to write via chat on the app, to which they respond immediately, but the resolution of your needs, as there is no one on site, could take a long time.This Sonder in particular is also very small, I think it doesn't have 10 apartments.In the basement there is a common cupboard with the \"essentials\" (toilet paper, soap, kitchen paper towels, tea and coffee filters, sugar, salt, pepper, dish soap and dishwasher tablets) where you can take what you need you need it. Here there is also a space with bins where you can throw away rubbish. Unlike the rooms and corridor, which were clean and tidy, the basement was full of cobwebs and a few dangling spiders...Unfortunately there were no lockers for luggage storage and this can be a big problem.The unit we booked had a kitchen with good amounts of cutlery, plates and glasses in the room; there is a hob, microwave, dishwasher and a very large oven, a small table with 2 chairs, a closet with even a broom, a sofa and a coffee table in the same space as the kitchen. In a separate room (a little small) there was a double bed.The room was clean and comfortable for one/two people, even for medium-term stays. The area is quite central although, to reach the actual centre, you have to walk at least 10/15 minutes. A few hundred meters away, however, there is the metro stop.So far my review would have been 4 dots (not 5, right because in my opinion the rating is a bit too much because:- the dishwasher didn't work- the drain of the bathroom sink and that of the shower were closed and we were unable to open them (there was no classic plunger to squeeze behind the tap), even though we thought about it for some timeI immediately notified the staff of our arrival via chat in the evening, I was promptly told that they would send a technician for the dishwasher but they had no idea when! We were told nothing about the drains (wasn't a cleaning lady enough?).We needed to be given a time, at least indicatively. I therefore gave up on sending the technician and blessed the kitchen sink, which we used to wash the dishes, but also the face, the teeth and... the rest of the body in pieces for 3 days. A disservice that could very well have been avoided if whoever does the cleaning between one customer and another made sure that everything was in order, including the functioning of the appliances. I would like to point out that for this inconvenience, which is not insignificant, we were not offered any type of refreshment, not even symbolic.Free street parking at night, expensive during the day and with limited hours. However, next to the Sonder there is an expensive covered car park.In the same building there is a minimarket open 24 hours which has a peculiarity: no price is displayed and, if you ask the cashier, he will reply \"it seems to me that it costs more or less this amount...\", in short you have to get to the cash register at checkout to find out what you will pay. Many other supermarkets are present in the centre, but you will have to walk at least 20/25 minutes.",
+      "rate": 1.0,
+      "tripDate": " August 2023"
+    }
+  ]
+}

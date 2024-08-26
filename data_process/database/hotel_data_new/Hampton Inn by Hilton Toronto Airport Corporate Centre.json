@@ -1,0 +1,305 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Hampton Inn by Hilton Toronto Airport Corporate Centre",
+    "url": "/Hotel_Review-g155019-d1554329-Reviews-Hampton_Inn_by_Hilton_Toronto_Airport_Corporate_Centre-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 1343
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5515 Eglinton Avenue West",
+      "addressLocality": "Toronto",
+      "postalCode": "M9C 5K5",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/91/f5/1a/exterior.jpg?w=500&h=-1&s=1"
+  },
+  "description": "As you fly into Toronto, feel confident and secure knowing that you have a comfortable home away from home located just minutes from baggage claim at the Hampton Inn by Hilton® Toronto Airport Corporate Centre. Whether you're on business or up for a little fun, our airport area hotel in Toronto puts you in touch with Toronto.",
+  "featues": [
+    "Paid private parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Free breakfast",
+    "Free airport transportation",
+    "Business Center with Internet Access",
+    "Conference facilities",
+    "Parking",
+    "Wifi",
+    "Pool / beach towels",
+    "Indoor pool",
+    "Heated pool",
+    "Breakfast available",
+    "Breakfast buffet",
+    "Vending machine",
+    "Free shuttle or taxi services",
+    "Airport transportation",
+    "Shuttle bus service",
+    "Banquet room",
+    "Meeting rooms",
+    "Baggage storage",
+    "Newspaper",
+    "Non-smoking hotel",
+    "ATM on site",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Dry cleaning",
+    "Laundry service",
+    "Self-serve laundry",
+    "Air conditioning",
+    "Safe",
+    "Flatscreen TV",
+    "Non-smoking rooms",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Best Hotel in the city in my book",
+      "text": "When friends got stranded by a flight cancellation, I was frantic to book a hotel quickly and was so impressed with the hotel staff. Satvik took the time to explain where to catch the shuttle ( gate S5, sugar five) and entertained random questions about what the shuttle looked like. Stay there knowing you’re in good hands and say Hello to Satvik, (Toronto’s Shining Knight with Cookies) at the front desk! “Sugar Five” is our new catch phrase, meaning things will work out! Great job Hampton Inn living up to your slogan  “Making you happy, makes us happy” …perfectly demonstrated!",
+      "rate": 5.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Relaxing short-term stay during home reno ",
+      "text": "We stayed here for 4 nights during an extended home renovation and were completely satisfied with the accommodations. The beds were comfortable, the adjacent rooms quiet, and absolutely none of the riffraff that you typically come across over weekend stays at other properties near the airport. That being said, we did find the $15 / night parking fee a bit high and an obvious cash grab given the complete lack of any other options due to the industrial area.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Very clean!",
+      "text": "This hotel was great!We checked in for two nights in August. The service was quick and the employee (Raquelle I believe was her name) was very helpful and made us very comfortable!Due to COVID, we couldn’t use the pool for more than one hour and more than 6 people at a time. We had to book it in advance but still, it was fun to have it all to ourselves! Thank you to Drucila for helping us as well with the pool, she was lovelyThe room was clean and tidy, the bathroom as well. The beds are extremely comfortable and smelled clean! Room service was very quick, we ordered coffees and towels a couple of times and everything arrived very fast. The parking is free, you just have to register your car at the entrance. Due to COVID, we didn’t have a full breakfast buffet, but it was still delicious. The choice was between a turkey or bacon sandwich with an apple, a chewy bar and a juice box.",
+      "rate": 5.0,
+      "tripDate": " August 2020"
+    },
+    {
+      "title": "Great stay over",
+      "text": "Have stayed here before and for good reason. Online check in is a breeze, wifi is good and the rooms are very quiet, considering the runway is very close by. Beds are comfortable and rooms are spacious. Parking was $20 overnight. My only negative is the cost of the restaurant food but it is not a deal breaker by any means. Your paying for convenience and you can always eat off the property. Will definitely be back.",
+      "rate": 4.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Enjoyed My Stay",
+      "text": "I stayed at the Hampton Inn while visiting some friends in Toronto. I appreciated having a bottle of disinfectant wipes left for me in the bathroom so that I personally could clean heavily used services. I also appreciated the refrigerator (and microwave although I did not use it) in the room so I could keep drinks and water bottles cool. I liked the little market where I could buy bottles of water or some snacks with a credit card since I never carry cash and as a US traveler, did not have any Canadian bills on me. I would have preferred the free breakfast to stay open until 11am, but that's because I am never hungry in the early morning and prefer brunch to a true breakfast. I enjoyed my stay and I will be back.",
+      "rate": 5.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "Very accomodating",
+      "text": "Everything was great, Close to Airport, rooms were great, Evrything met my expectations except some 11-13 year old kids decided to make the eating area their personal playroom being very load while parents apparently were deaf to it all. Hopefully the kitchen staff stops it in the future making parents understand that the eating area is for customers trying to enjoy breakfast. Some parents just dont get it.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Older property but very clean and staff very very pleasant and professional",
+      "text": "The property was close to the airport.  The shuttle service arrived quickly after my call.  Staff at check-in were extremely professional and friendly.  Even though the property is a bit older, it was very clean and systems were in place to make one feel safe as a guest during the pandemic.  The complimentary breakfast was served to us from behind a plexiglass  which was a very nice tough to a \"buffet\" breakfast.  I would definitely stay there again when in need of a place near Toronto Pearson Airport.",
+      "rate": 4.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "Excellent Stay",
+      "text": "We found the hotel to be very clean, quiet and well appointed. We were picked at Terminal 1 last night by the nicest shuttle driver that we have seen in a long time. He took our mountain of luggage to our room ( we are offshore for four months). Check in was friendly and efficient. Reception even gave us a suggestion for Chinese take away (it was late) which was delivered to our room under 15 minutes as well!!",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Great hotel!",
+      "text": "Only stayed for one night but had such a good experience that we wished we stayed there the whole time. Front desk staff were very nice and helpful, beds and blankets were comfy and cozy, breakfast had a good selection and had gloves and sanitizer to use when grabbing your food. We arrived late and they had some frozen meals you could purchase and heat in the microwave in your room which was a relief for me with my daughter. Only downside was parking and how some stalls weren’t cleared of the snow- not enough stalls for amount of rooms.Would definitely come again!",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Great place",
+      "text": "My wife, grand daughter and I visited Toronto for a family visit and chose The Hampton Inn by Hilton as it was conveniently located between the airport and where we were to visit family. The front desk staff member that checked us in was Hanan who was very pleasant and accommodating. We had multiple interactions with other front desk staff that were just as pleasant until our check out which was with Hanan yet again. The room was very clean, clean sheets with a comfortable bed and pillows.  The breakfast ladies were amazing making sure that the supplies were always topped up. I would definitely recommend staying here whether travelling for business or personal reasons. The staff here made the stay most enjoyable.",
+      "rate": 5.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Quiet stay",
+      "text": "Quiet airport hotel. Not much in the vicinity. Hotel has a shuttle Van. Everything was great. I don’t understand why this hotel has to charge my credit card for a $300 deposit when rental car companies simply put a hold on the card.  Also the paperless world means I don’t get to see the charges before they are charged to my card. I dislike having a reading light only on one side of the bed. We both need it. Why not have a wall lamp cantered over the headboard?sheets and towels were excellent. If you have transportation, this is very convenient to the airport.",
+      "rate": 5.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Better than I expected.",
+      "text": "More satisfied than I expected. Spacious and clean room. Carpet in photo may be looks like old but it doesnt matter since is is well cleaned. Meals served are also good. You need to call directly hotel to use shuttle from Toronto airport.",
+      "rate": 5.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Great Location!  Great Service",
+      "text": "We stayed for one night as we fly out early the next day.  Rooms were very clean.  Front Desk staff were very helpful.  The bed was comfortable. The shuttle service to the airport was very convenient specially when we had an early flight.  The shuttle driver was very helpful!  Unfortunately we were not able to use the breakfast.  4 out 5.",
+      "rate": 4.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Great Pearson stopover.",
+      "text": "Reception staff were friendly and helpful, from when we called from Pearson about shuttle and throughout the check-in and check-out process. Clean comfortable  accommodations. Great shower! Hot breakfast items were kept in supply right up to closing, and included lots of choice. Thank you!",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Outstanding. A warm welcoming home away from home.",
+      "text": "Outstanding! We stayed a week during Thanksgiving. We had to relocate with our cats while our house was being shown. Originally we had stayed at another hotel and it was absolutely terrible. We finally found the Hampton Inn and we did not expect much based on our past experience. Upon entry we were made so welcome, Violet was so warm and friendly and did absolutely everything she did to accommodate us. Travelling with pets is stressful, especially skittish cats but from housekeeping to front desk everyone worked hard to keep our kitties safe and our stay happy.  The breakfast was wonderful, the staff in the dining room was very nice as were the housekeeping. The front desk staff ALWAYS had a friendly smile and a welcoming word. (I've forgotten all names but Mylanda? and Violet are names I remember) It seemed there was no such thing as the word \"no\" they did everything to accommodate us and make a difficult time so easeful. I would stay with them again in a heartbeat.",
+      "rate": 5.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Not an Enjoyable Stay",
+      "text": "I was disappointed with my stay here for the following reasons:1) on arrival no timings were given to us on when food would be delivered to our room . We had to ask for this Information from the room.2) Internet password was not given until we asked;3) Rug on the seventh floor where we stayed is old;4) Room decor was ordinary. The room looked gloomy. And furniture did not make it easy for two people to eat or work. We dragged the ottoman to the sofa  to be able to have breakfast together.5) Bathroom was ordinary; Tissues ran out fast.7) Internet was very poor and nothing like the high speed Internet advertised by the hotel.8) Corridor across the elevator (7th Floor) had garbage including a wine bottle for at least one hour;9) the hotel room has cold tiles but no slippers. We asked for slippers but the hotel had none.10) Food was average. 3.5 out of 5. The quantity was large but the food was very blend lacking spices.Unfortunately I do not recommend this hotel to anyone seeking comfortable accommodation with with food.11) On check-out there was no “thank you” from the Reception despite my Diamond membership.13) We also had to carry and load our bags ourselves. Why does Hampton Inn riot recruit at least one worker to handle this.Our stay was dismal. Hope the above points can help them improvise.Munir D.",
+      "rate": 2.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Clean, convenient, friendly",
+      "text": "My husband and I stayed for 3 nights while visiting friends in west Toronto.  All staff were very friendly and helpful. The room was very clean, well stocked with towels, shampoo, coffee, etc.  Breakfast was decent - plenty to choose from (bagels, bread, danish, various cereals, hot eggs, meat, fruit, yogurt).  Location is good for travel around Toronto, Mississauga areas.",
+      "rate": 5.0,
+      "tripDate": " February 2023"
+    },
+    {
+      "title": "Missed flight!",
+      "text": "I got to the hotel super early after 9am because I missed my flight to head back home. I already know the 3pm policy so I went to the front desk. I was already super tired and hungry and was met by Satvik. I explained my dilemma and asked if I could rest my luggage down because I know I’m not able to check it now. He was so sympathetic to my situation smiled and said he had a room available now that I could check in. I was in shocked and super happy. He also thanked me for being a diamond member and gave me a snack package that I hadn’t had to ask for. I’ve stayed at 3 other hiltons in Toronto and not one of them offered me my snack package or acknowledged my status. Also I’ve met the lady at housekeeping on the floor and she was very friendly. I didn’t get her name, I wish I did. My room was very clean, fresh linen and towels. Also the other staff at front desk assisted me on where I can walk for food. Seeing that I already turned my car in. Also I received a wake up call for my shuttle bus to leave that next morning. Even though it was only one night, I’ve never felt so much appreciated. Please keep up the good work and to Satvik thank you so much!! When I return back to Toronto I will definitely stay here again! Thank you!!",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Great place to stay, had an amazing experience.",
+      "text": "This place is really a great place to stay, be it for business purpose or for a vacation. You have lot of food options available near by. All the staff members are too friendly and has a great professional experience, especially the staff member named Hannah. She was really great and supported me during the check in process. I had a flight next day early morning, but went too early for check in (around 11 in the morning), thought of atleast keeping my luggage in some room, so that I can come back later at the regular check in time. But it was so nice of her, that she allowed me to check in at 11 am itself, that really helped me a lot. Also they have free airport shuttle, which again helped me next day reaching airport on time. Overall I had a great experience staying here and looking forward to stay here in the future as well.",
+      "rate": 5.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "Make sure to be specific with shuttle and concierge staff",
+      "text": "Toronto Airport T3 requires shuttles on level below arrivals - you need to know that first.  Hampton Inn has several hotels with only minor name differences and the shuttle driver likely won’t know if you just say “Hampton Inn and Suites”. You need to give the full name and address.  If not, they will take you where you think you should be and you will pay for a cab to get yourself yo your proper hotel!  We booked Hampton Inn Corporate and we’re dropped off at Hampton Inn Airport Corporate.  Zero assistance from the check in counter!",
+      "rate": 3.0,
+      "tripDate": " March 2023"
+    },
+    {
+      "title": "I had an great experience while staying here.",
+      "text": "- The room has full of accomodations and very comfortable. - I ordered room service to serve meals for me and the foods were so delicious, although they were too much. But that's ok- services were good and staffs were nice too.",
+      "rate": 5.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Fully recommended, excellent hotel.",
+      "text": "We just stayed one night after flying in from Iceland. Free shuttle took us from the airport.  The staff were universally friendly and welcoming. Unfortunately it is necessary to wear face masks around the hotel, but that is the law here in Canada as people have not yet realised that masks are useless.The hotel has a well equipped fitness centre, (although someone has pinched the 10 lb weight dumbbells) and it was delightfully empty at six in the morning when my body clock told me it was time to get up.The bed was large and comfortable, and the room extremely well equipped.Breakfast was a little basic due to Covid restrictions but it was fine and it tasted nice.If you need the shuttle back to the airport the next day make sure you book it at the desk: shuffles run on the hour every hour.",
+      "rate": 5.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "Stuck with a parking ticket because of hotel's mistake",
+      "text": "I stayed at this hotel and used their park-and-go services in December 2023 and now have to deal with a parking ticket because of this hotel's mistake.I called multiple hotels near the airport to get quotes for staying overnight 1 night and parking from Dec 7-24. The price I was quoted was cheaper than airport parking and other hotels in the area.A month after my stay I received a notice of overdue parking penalty from the City of Toronto. When I called the hotel to inquire about this parking ticket, I spoke with their front desk manager, Hanan, several times on the phone. When she looked into the issue, she realize the agent who booked my stay made an error and I should have been charged for additional days of parking. Because of the error the hotel made, the hotel did not pay for my parking ticket. I was told by the front desk manager that I should be happy I was not being charged for the additional days of parking.Because the employee I spoke made an error in my quote and reservation, I am now dealing with the additional, unexpected burden and cost of a parking ticket.",
+      "rate": 1.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "What a wonderful experience.",
+      "text": "This Hampton Inn by Hilton is an outstanding hotel, I had such an amazing experience form the moment I walked into the hotel to the moment I left. The staff is very accommodating, they strive to go above & beyond, anytime you interact with them. The rooms were very clean, spacious, and well organized, and most importantly the breakfast was delicious with lots of variety and food selections for my family. We have truly enjoyed our stay. Parking is also very convenient, especially if you are travelling through Toronto Pearson Airport. We will be back for sure. Thank you.",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Hampton Hospitality",
+      "text": "Welcoming and hospitable staff and ever comfortable bed made our stay worthwhile. Checking in using the app is easy and we were valued as Hilton members with early check in and late check out. Complimentary breakfast is a big plus. Shuttle from and to the airport is much appreciated. Parking is complimentary. It’s our first time staying in this hotel and would definitely be back.",
+      "rate": 5.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "A good Hilton experience.",
+      "text": "Comfortable and clean.  Staff friendly and courteous. Free breakfast buffet with Canadian bacon, eggs, potato's, apples, oranges, bananas, pastries, and make your own waffles.  Taste was good for a free breakfast.",
+      "rate": 4.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Best nights rest in a long time",
+      "text": "Best nights rest in a long timeThat was so comfortable I never wanted to get out of bed. Pool temperature was perfect as well. Front desk clerks were fast professional and pleasantHotel was extremely clean and surrounding parking was very safe and secure",
+      "rate": 5.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "“A home away from home”",
+      "text": "I would like to thank the whole staff for making our stay comfortable and their prompt responses to our needs. Ms. Raquel at the reception has been always helpful & courteous with a smile; Mr. Nazir & Ms. Mila have been always patiently driving us to & fro the airport; the kitchen & cleaning staff were all up to their toes to look after the guests’ needs! Will definitely come back here  when I’m in Toronto!",
+      "rate": 5.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "NOT Recommended",
+      "text": "Booked this hotel for overnight before leaving on a vacation as early flight out from Toronto.Checked in and told I could either have the King room I booked and no hot water OR I could have queen room with hot water. Disappointment number one.Asked for shuttle to the airport in the morning and was told the only opening was at 04:30. Flight at 08:30 so that’s not acceptable. Taxi to airport. Disappointment number two.Room is very loud from the heater. Disappointment number three.Lady at the front desk was very pleasant. Offered nothing for the inconvenience of not getting what I paid for or for lack of advertised shuttle service. As this location does not honour what you’re paying for I can’t recommend this hotel. We won’t be back.",
+      "rate": 3.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Supervisor and Front didn’t know what they were doing",
+      "text": "They told me one of the rooms I booked was cancelled after I checked in online which is impossible.. kept asking me the room numbers I selected which of course I didn’t memorize them and not in the app. I was told to call main Hilton why they cancelled the room. It took more than 30 minutes to do actual check in. When I said look it again through the reservation number and not my name that’s the only time they saw my 2 rooms that I booked. That’s a common sense. But the supervisor said, oh now they gave back the 2 rooms to you. What! Instead of admitting  they were looking at a wrong reservation, she gave me that lousy reasoning. We were so tired and we wanted to rest and we had to deal with that stress “your another room is cancelled “",
+      "rate": 2.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Airport shuttle NOT wheelchair accessible",
+      "text": "Booked this hotel for a night for my family as we had to be at the airport for 3.30am. Booked a wheelchair accessible room as my husband is paraplegic. I have to say the room was perfect for accessibility. The service from staff was dreadful though. I asked if the airport shuttle was wheelchair accessible which it was not. Was told that we need to make our own arrangements. This is not inclusive of wheelchair users. If a hotel is offering a free shuttle service why should wheelchair users be excluded from that service. When I called the day before our arrival to enquire about the shuttle I was told on the phone that the hotel would organize and pay for a taxi for us. Of course no one at the front desk was aware of this. I asked to check with a manager and was given a direct cell number for Aggie Liew. I called her to explain and she was extremely patronizing and had absolutely no care or empathy for our situation. Said it was not the hotels responsibility. As I was talking to her to explain about inclusion she hung up on me. I tried calling back and it rang but no answer. I was eventually told by Teo on the front desk that she was apparantly out of cell service range but that it was all good she had spoken to someone higher up then her and confirmed it was ok to pay for our taxi. Teo said she would have a ticket for us in the morning to give to the taxi driver. Our taxi came at 3.15am and of course the guy on the front desk knew nothing about this. There was no note on file and no ticket left for us. He could see I was not happy about this and went ahead and wrote out a ticket but again reminded me it's not something the hotel usually offers.It's not the money that bothers me, it's the fact that the hotel took no responsibility for offering a service for wheelchair users and no one seemed to care. This is not what I expect of a Hilton hotel brand. If you offer wheel chair accessible rooms then all services offered to hotel guests should be wheelchair accessible. Staff should be trained on how to deal with such situations as well instead of brushing it off and not taking accountability. I would not stay here again for the pure fact that customer service was dissapointing and frustrating",
+      "rate": 2.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "I’d Stay Here Again",
+      "text": "I stayed April 25-29, 2024.  The staff is very attentive and keeps the property clean inside and out. They have a free airport shuttle to/from that runs on the hour.  I’d suggest having the shuttle include any nearby restaurant row and downtown areas other than downtown Toronto that might be nearby.  The breakfast is very good, although it should include scrambled eggs and hash browns in its rotation.  Served was sausages, oatmeal, cheese omelets and western style omelets, cereals, yogurt.  They should also include whole milk. They have a coin operated guest laundry that is probably the best I’ve seen in all my 10+ years worth of traveling regularly.  The machines looked new.  Cost was $3 Canadian each to wash and dry. Staff at the front counter will exchange USD for CAD based on most recent exchange rate.The gym is likewise very good. Good selection of machines, roomy and has towels and water dispenser.  The pool is very nice and large with a good supply of towels always present. The rooms are clean and roomy. We had the two Q set up. The rooms have a good size mini fridge, I’d describe as twice the size of a standard mini fridge.  Big enough for restaurant take home containers, half gallon milk containers. The hotel is in walking distance to a gas station convenience shop. There are also a bowling alley and restaurants in a strip mall within walking distance: halal bbq, Tim Horton’s, Irish pub, Subway, Japanese steakhouse, Thai. But if you have a car then you’ll have a larger variety of places to eat and supermarkets to go to.  Only negative was that what I think is a resettled refugee group used all the washers and dryers at the same time on Sunday early evening to around 11p (last time I checked), so I had to do my laundry the morning of departure.  If they haven’t been told this already, they need to be told to leave one washer and one dryer free for the standard short-term stay guests since they (resettled guests) are there long-term. It’s best to have a car if staying here do to the limited eateries and convenience store options nearby.  But regardless of car, the hotel shuttle will take to the airport and you can catch the Union Station/Pearson Airport Express rail (UP Express). Buy tickets online at their website though, because I saw good size lines in the station at the ticket machines. Tourist attractions downtown Toronto within easy walking distance from Union Station include Hockey Hall of Fame, Blue Jays baseball, Aquarium and multiple restaurants. I’d stay here again.  All guests, long and short term, were very good, no issues, elevators were never busy with long waits for example.  5 out of 5 stars!",
+      "rate": 5.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Toronto 2 night stay",
+      "text": "The hotel was very clean. The staff at the front desk was very helpful and friendly. The only issue I had was the heater in the room was not working properly. The internet worked well. They need to upgrade there cable subscription as the video quality was very poor.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Perfect Stay",
+      "text": "This hotel was perfect for both airport and Toronto sightseeing because of the free shuttle service back to the airport. The staff were friendly and very helpful. Rooms were comfortable and the complimentary breakfast provided a wide variety for all tastes and because it was a buffet allowed for personal choice too. I wouldn’t hesitate to recommend this hotel. Hanan the reception was brilliant.",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Family quarantine",
+      "text": "We did our family quarantine upon arrival from overseas, and while this was of course not a luxury holiday, it checked all of the boxes that we needed as far as quarantine goes. The food portions were huge and really good, the room was comfortable and we ordered some good coffee since coffee wasn’t the greatest but the staff was out of this world accommodating & friendly so we would definitely book here again. Id love some better showers and maybe a softer comforter cover but this is literally me looking for the things I’d change. We enjoyed it and felt super comfortable. The rooms were very clean. My toddler enjoyed running around the parking lot / outdoor area, he enjoyed the snacks and we made the most of the room. Highly recommend!",
+      "rate": 5.0,
+      "tripDate": " May 2021"
+    },
+    {
+      "title": "Quarantine hotel - negative experience",
+      "text": "I have arranged this hotel for my parents as quarantine stay for 3 days . The hotel has a complimentary shuttle service to be arranged - on their fine print - 30 minutes upon arrival . My parents even  pre arranged the shuttle from oversea prior to their arrival. Upon their arrival , they have waited at the airport for more than an hour for the shuttle service to arrive.  We called the hotel several times but was told to “ wait “ patiently as hotel was shuttling services and had capacity . We have “ pre arranged “ the shuttle service so it made absolutely no sense for my parents to wait for more than an hour . What is the point of pre arranging ??!? The lady at the front desk - not helpful at all. Stay away from this hotel .",
+      "rate": 1.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Enjoyable a week stay!",
+      "text": "Not far from the airport except limited place to eat or most diners closes early. Hotel is clean & well maintained, staff are nice, asked if room is ok or need services. I can use digital key to open my door. Check in is easy, I can select my own room/floor and check out is as simple as pushing a button on the Hilton App. Breakfast however is mediocre especially the hot food but it’s included in the stay so can’t complain. Hot beverages available throughout the day  and that’s a bonus. Overall, I am impressed with the hotel & services. Keep it up!",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Trash",
+      "text": "Garbage , really trashy . Don’t stay here ever , they want your money and that’s all . I’ve never seen something so trashy . Really regret wasting my money that I’ll never get back, food was crap , feels like the cook didn’t even see what he was cooking lol",
+      "rate": 1.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Customer service needs a lot of work",
+      "text": "The room was clean, check in was easy. We did get the package, which was one night stay and park our vehicle for 8 days. Once we checked in we were informed our vehicle had to be parked at another location, which we should of been informed of prior to booking, we did and waited for a shuttle to return us. The biggest issue was returning after our trip. We were unable to locate a shuttle, tried calling the hotel for an hour with no answer, waited out in the cold with my elderly parents. Finally took a taxi that cost us another $40. So we will not be staying at this location again, as what we were told was the package deal came with no service or follow through after they recieved money. If you doing a stay and park, do not go to this location",
+      "rate": 2.0,
+      "tripDate": " February 2023"
+    },
+    {
+      "title": "Great for pre-flight stay!",
+      "text": "Stayed here to sightsee the city before flying out.  Clean rooms, friendly front desk staff.  Great price!  FREE safe parking!  POOL open - just have to book ahead!  Take away breakfast!  In calling around to book a hotel I found that a lot of places have just closed their pool and cancelled any breakfast so I appreciated that this chain has made the effort to keep something running.",
+      "rate": 4.0,
+      "tripDate": " October 2020"
+    }
+  ]
+}

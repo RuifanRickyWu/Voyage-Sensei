@@ -1,0 +1,46 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Noel Suites - Air Canada Centre",
+    "url": "/Hotel_Review-g155019-d17753410-Reviews-Noel_Suites_Air_Canada_Centre-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "1.5",
+      "reviewCount": 3
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "55 Bremner Blvd",
+      "addressLocality": "Toronto",
+      "postalCode": "M5J 0A6",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "Air Canada worst service out there beware",
+      "text": "Air canada charged us 5100.00 for 3 ppl to attend my mother's funeral stating we would receive a discount at a later date with proof of death certificate BS we applied sent all necessary paperwork in and now there saying 1700.00 per person was the rate. So that means they gave us the rate without any proof that doesn't make any sense at all needless to say i informed all my friends, co-workers, and family how they conduct business and they won't talk to us. I will never fly with Air Canada again",
+      "rate": 1.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "A thorough clean could have made all the difference",
+      "text": "Location was good, walking distance to harbour, entertainment district, train station and supermarket.  We met our host Georgia who was friendly enough but quite clearly in a rush to leave.  Apartment was open plan with kitchen, table and 2 chairs, sofa bed and double bed seperated by a glass sliding door.  The kitchen was not very well equiped, the bare minimum of cutlery for example.  One of the kitchen cuboards was damaged.  A cleaning cloth was left for us to do the washing up but it looked as if it had been used to clean the floor it was so dirtry so it went straight in the bin.  The bed was not very comfortable although the bedding was adequate with the exception of a pubic hair in the bed!  The bedroom floor was not at all clean and looked like it hadn;t even been hovered before our arrival.  The sofa bed was very big but the bedding just wasn;t adequate.  A sheet and a sleeping bag!  We asked for additional bedding and was given what resembled a duvet cover straight off someone elses bed!  We didn;t bother using it.  The bathroom wasn;t too bad but mould around the bath could have very easily been removed.  We asked for additional towels which were provided but one of them had what looked like an old stain!  Again we didn't bother using it.  On the day of arrival we could not get the wifi to work (Georgia did not show us how to use it before rushing off) so we immediately reported this to Georgia but did not infact hear anything until the 4th day when it was finally sorted out!  Not impressed.  Likewise we could not get the AC to work (No demonstration) so we were either freezing or boiling!  We had a small wicker table and 2 chairs on the patio area which clearly had never seen a cloth!. One of the reasons for booking this particular aparment was the indoor swimming pool.  When we arrived it was completely empty and out of use for the entire duration of our stay.  Someone must have know this at the time of booking and should have informed us. Finally we were woken one evening early hours by a loud noise coming from the airvent in the ceiling.  We had no idea what it was but later told it was the fire alarm!  Good job it was a false alarm.  Overall we would not return to this accommodation.",
+      "rate": 2.0,
+      "tripDate": " September 2019"
+    },
+    {
+      "title": "Air Canada Groups - Worst Airline Experience Ever",
+      "text": "Chose AIr Canada to book a group of 15. Website gave us 6 PERKS if we had more than 10. 1) REDUCED FARES - ZERO, we actually paid a great deal more because they waited until their arbitrary # of Economy Base fare seats were gone so they booked us LATITUDE fare seats. $400 more times 15 seats. No footnote for this perk shown that we had to book 100 or any other # to get this perk.  2) DEFERRED PAYMENT -YES, we did get this perk 3) FREE ADVANCED SEATING - NO and a plane type change 6 months after booking  - WITHOUT NOTICE goofed up the seats they did give us 4) COMPLIMENTARY TICKETS - NO, again no footnote to tell us that we had to book \"X\" # of sets for this perk. 5)  1 FREE CHECKED bag each way of round trip - YES 6) CHECK-IN COUNTER - NO, footnote says it WAS available at Pearson, but when we arrived, counter staff and area manager had never heard of it. This perk has since been removed from their PERKS list online - wonder why. So we got 2 of the 6 advertised Groups Perks. The latitude fare class going south included 1) PREFERRED SEAT - NO - cost about $55 * 15, 2) 2 FREE BAGS - NO - we already had 1 each way with groups 3) 125% Aeroplan points - YES - value maybe a couple of bucks 4) MEALS AND BEVERAGES - We were told NO but when lunch was served towards the end of our flight, we found out YES, so we got only 1 free beverage. To make the entire process even worse - I started complaining as soon as our flights were booked and deposit paid. This was a March break trip, so we had to take what was given if we wanted flights for our entire group, including 7 children. Over the next 10 months we sent numerous requests for an update to my email and rec'd nothing. After our trip was complete and I mentioned Small Claims Court - they responded for the very 1rst time, basically telling me to \"GET LOST\". Next time, I will use Westjet or fly from the U.S.A. - they cannot possibly be ay worse than our experience with Air Canada",
+      "rate": 1.0,
+      "tripDate": " March 2024"
+    }
+  ]
+}

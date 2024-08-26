@@ -1,0 +1,52 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Daniel's Musical Hideaway",
+    "url": "/Hotel_Review-g155019-d185899-Reviews-Daniel_s_Musical_Hideaway-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 4
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "118 Isabella St",
+      "addressLocality": "Toronto",
+      "postalCode": "M4Y 1P1",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/1e/4d/ba/daniel-s-musical-hideaway.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "Hidden Gem in the middle of the city, Our First B&B Experience exceeded Expectations!",
+      "text": "It was our first time to stay in B&B and it was wonderful experience. The house is located in the middle of the city, walking distance from Dundas Subway station and Eaton Centre (shopping mall) but the B&B street was quiet, however. If you favor longer walks you can walk to Lakeshore, Bloor Street, Museums, Galleries and Entertainment District as well. B&B is located in beautiful Victorian house with a lot of character from outside with beautifully maintained garden and it is even more charming from inside.Our host Daniel kindly welcomed us once we entered. He prepared delicious breakfasts that left nothing to be desired. A perfect host I would recommend it! We spent 8 nights in the large room on the third floor of Daniel's house. The room is the whole top floor of the house, so it was large comfortable and clean with AC and lots of light through the skylights.  It contains of bedroom, sitting area, large bath, mini-fridge, microwave, free internet access and HDTV. Daniel provided off- street parking as well.The price was very reasonable for the quality of our stay. I have NO reason to stay anywhere else on future visits to Toronto. Thanks, Daniel.",
+      "rate": 5.0,
+      "tripDate": " August 2012"
+    },
+    {
+      "title": "Conforto",
+      "text": "O hotel possui conforto apesar de não ser muito amplo, é muito aconchegante. Possui opção de cafe da manha e wifi, e não tive maiores problemas com nenhum serviço que requisitei, indico para quem procura um lugar calmo para descansar.",
+      "rate": 5.0,
+      "tripDate": " June 2015"
+    },
+    {
+      "title": "Great place wonderful host",
+      "text": "We spent 4 nights in the large room on the third floor of Daniel's house. The room is the whole top floor of the house, so it was quite large.  Breakfasts were very nice and varied.  Daniel is a music teacher, so there are frequently students there for vocal lessons, but the sound didn't carry to our room.  The house is only a few blocks from the Dundas subway stop and there is a streetcar line on Dundas, so it is easy to get around the city from there.  The Cabbagetown neighborhood has a wide variety of restaurants, quiet residential streets with Victorian homes and several parks.  We visited the Cabbagetown arts and crafts festival while there, as well as the Toronto Film Festival, both walking distance from the B&B.",
+      "rate": 5.0,
+      "tripDate": " September 2012"
+    },
+    {
+      "title": "b&b in zona tranquilla, pulizia, cordialità, colazioni salate e dolci ottime",
+      "text": "Abbiamo soggiornato in questo b&b 2 notti. Il padrone di casa è una persona molto gentile e disponibile e parla anche un po' d'italiano. Ottime le colazioni dolce/salato preparate da lui e diverse ogni giorno (a noi ha servito una mattina salmone con pane tostato, formaggio fresco e frullato di frutta preparato al momento e la mattina successiva una english breakfast con uova e bacon).il b&b è situato in una via molto tranquilla a circa 10 minuti a piedi dalla via principale di Toronto (Eaton Centre, Yonge Street) e dalla piu vicina stazione della metropolitana. Se viaggiate in macchina attenzione a non parcheggiare lungo la strada davanti all'albergo se non volete rischiare di prendere una multa, a meno che non vogliate rispettare gli orari previsti per i parcheggi e spostare il mezzo 2 volte al giorno.Le camere: abbiamo soggiornato nella stanza al 3 piano, una vera e propria suite dotata di tutti i comfort e composta da una zona notte con letto, comodini e cassettiera, una zona salotto con televisore a schermo piatto, divanetti e pefino un pianoforte a nostra disposizione e un enorme bagno (rosso) dotato di tutto il necessario compresi accappatoi e teli (sempre rossi). Il tutto arredato con gusto e molto pulito.Nell'albergo è presente un gattone nero di nome mister black, molto disponibile alle coccole degli ospiti e molto affettuoso.",
+      "rate": 4.0,
+      "tripDate": " September 2012"
+    }
+  ]
+}

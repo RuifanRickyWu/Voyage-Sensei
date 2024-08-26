@@ -1,0 +1,57 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "York Street Apartment",
+    "url": "/Hotel_Review-g155019-d12154660-Reviews-York_Street_Apartment-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.0",
+      "reviewCount": 4
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 York St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5J 0A9",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+  },
+  "description": null,
+  "featues": [
+    "Children Activities (Kid / Family Friendly)",
+    "Airport transportation",
+    "Laundry service"
+  ],
+  "reviews": [
+    {
+      "title": "Briillant",
+      "text": "Highly recommended... fantastic view of the CN Tower from my balcony and great superb location.. would use again... wasn't messed about or any attempt to rip u off.I though it a good service and nice guy dealt with our checking in. Good contact, right in the Entertainment district and easy access from the freeway for visitors.. thank you for a good experience.",
+      "rate": 5.0,
+      "tripDate": " August 2018"
+    },
+    {
+      "title": "Horrible, should not be listed",
+      "text": "This is the single worst accommodation I have stayed at in Toronto. I'm still here and trapped as I don't have a key to lock. No refund possible either.1. On the day of arrival only, they left a voicemail I should email my credit card and id before receiving instructions. There was no other email or call except that voicemail at 5.30am.2. Upon arrival: no key to lock up. I leave a message by phone. A messaging service assures someone will get back shortly. I do have a fob to enter the building.3. Tv doesn't work, wifi doesnt work on any of my 3 devices. I leave a message again. I ask if the message centre has an emergency number as i cant lock the suite and no one is getting back. They assure the messages have been sent.4. Bedroom floor is filthy. I vacuum myself. 5. Bathroom light and living room light are both broken. 6. I ask the building concierge if they have an alternative number so I can get a key. Due to privacy issues, they can't. However, they do find out that the emergency number is answered by a person who no longer works for the property management company. And it seems the owner is out of country. Unless a close view of the CN tower is worth you this, I'd avoid this option by all means. I learnt my lesson and will check reviews before booking again.",
+      "rate": 1.0,
+      "tripDate": " April 2018"
+    },
+    {
+      "title": "WRETCHEDLY BAD--AVOID!",
+      "text": "The property manager Trinity Suites operates like a scam. I'll let the facts speak for themselves.I booked Trinity Suites on York Street for a stay on 3 October. On 12 September the property charged my credit card the full amount. On check-in day, at 9.20 am i.e. 6.5 hours before check-in, I received an email from the property: \"I am sorry to inform you that you would have to book another apartment because there was a double booking and i have no other apartment to put you in.\" NO refund. NOT even an offer of refund. I had no email access and so did not see the notice. I went to the apartment and followed every single instruction Trinity Suites had sent. Then I called the phone number provided by Trinity Suites. I said I have no email access, please call me. No one called. Still no communication and no refund. Another thing that is both puzzling and worrying: The property insisted on getting 1) a picture of the last five digits of my credit card, 2) a picture of the name on my card and 3) a government-issued ID. This was AFTER charging my card the full amount. They insisted on receiving these documents within 24 hours or they could cancel the booking. This is after charging my card!!! I have reported the potential security issue to my credit card company. Several other travelers have reported similarly wretched experiences with Trinity Suites on various websites. Please read them. Please AVOID this scam.",
+      "rate": 1.0,
+      "tripDate": " October 2017"
+    },
+    {
+      "title": "Not a happy experience",
+      "text": "The property owners --Trinity Suites---requested photocopies of government issued ID and credit card information when I made my reservation. I complied immediately and waited for check-in instructions. After several requests for this and replies of``soon,'' I got details of check in only on the morning of the reservation by which time I was more than a little worried. When I arrived at condo building, I was able to enter and proceed to the unit after showing security confirmation of reservation, as per the instructions I had received earlier that day. So far so good. As I had been informed, the unit was unlocked and in I went exceedingly happy because the unit was just as pictured. It's a fantastic suite, conveniently located almost under the CN Tower and with great views of downtown Toronto. Most unfortunately, the key to the unit which should have been on a hook or on the kitchen counter or in a drawer, was not there. On the other hand, there was plenty of evidence that the unit had not been vacated by the previous guests. Now I was very worried! Repeated emails to Trinity Suites (there is no phone; you can only contact these people by email) met finally with the response that somebody from the company was coming over and would be there ``asap.''. Now try to understand that there was no way to leave the unit without leaving the door unlocked and should I leave the previous guests might well return. In any event, if I left, there was no way to get back in the building (of course, I had already paid for the unit!). Around 10:30 p.m., the previous night's guests indeed returned, quite surprised to see me! But they gave me the key, packed up their things and left. At 11 p.m., precisely 3 1/2 hours after Trinity Suites had promised that a representative was coming over ``asap,'' somebody did arrive, apologize and leave. I managed to find a restaurant that had not closed for the night and had a very late meal. As compensation for this nightmare of an ordeal and having lost one day of a two day visit to downtown Toronto, Trinity Suites waved the cleaning fee andother assorted charges (which in any case I had not been expecting).",
+      "rate": 5.0,
+      "tripDate": " August 2017"
+    }
+  ]
+}

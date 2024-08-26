@@ -1,0 +1,79 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Signatures on Bloor",
+    "url": "/Hotel_Review-g155019-d1146515-Reviews-Signatures_on_Bloor-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 5
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "55 Bloor St E",
+      "addressLocality": "Toronto",
+      "postalCode": "M4W 1A9",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ea/6b/a8/signatures-on-bloor.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Parking",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Restaurant",
+    "Business Center with Internet Access",
+    "Baggage storage",
+    "Non-smoking hotel",
+    "Laundry service",
+    "Wifi",
+    "Air conditioning",
+    "Desk",
+    "Seating area",
+    "Telephone",
+    "Microwave",
+    "Refrigerator",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "Iron",
+    "Wake-up service / alarm clock",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Quiet elegance",
+      "text": "Our group enjoyed a delicious meal and conversation at Signatures on Bloor Street. The dining room is beautiful and tables are distributed to allow private conversations. The knowledgable server settled us at our table and provided guidance through our review if the food and drink menu and meticulous service throughout the  evening.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "A wonderful culinary surprise",
+      "text": "I dropped in on this elegant space at the last minute prior to a concert at Koerner Hall. I was treated royally from start to finish, easily able to make curtain. A mouth-watering steak was served perfectly cooked as requested. What truly amazed were the seasonal vegetables perfectly cooked and artfully displayed. These would have been a delightful dinner on their own. The dining room is elegantly decorated and quite large with excellent sight lines and a respectable distance between tables which allows easy conversation. It appeared to over look an inside courtyard which will encourage me to return for breakfast/ lunch/ brunch. I will definitely return for dinner!",
+      "rate": 5.0,
+      "tripDate": " January 2017"
+    },
+    {
+      "title": "Elegant haven",
+      "text": "After passing on another muffin and coffee breakfast we remembered and old freind in the Intercontinental on Bloor west, \"Signatures\"  . Recently renovated an now presenting itself as a fresher, brighter environment it was a welcome respite from a cold blustery day. The brunch menu was extensive, the ambiance superb ( no piped in junk music) and the price surprisingly reasonable. Definetly on the \"return to\" list next time in Toronto.",
+      "rate": 5.0,
+      "tripDate": " December 2016"
+    },
+    {
+      "title": "Excellent food and service BUT beware if you have allergies!",
+      "text": "Just a warning to all allergic diners...the menu offers advice as to what dishes contain dairy, fish, etc. but unfortunately the kitchen did not think that using the same oil in which they had fried fish would be a problem for someone ordering a \"fish free\" dish.  Lesson well learned the hard way for me!  Hopefully for them as well.",
+      "rate": 4.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "Great food, great stay",
+      "text": "Great place to stay in Toronto. Chef Christopher Perera and crew fed us well on Sunsay before Thanksgiving. I would come back. Enjoyed the architecture around Toronto, opera, symphony. Galleries splendid.",
+      "rate": 5.0,
+      "tripDate": " October 2014"
+    }
+  ]
+}

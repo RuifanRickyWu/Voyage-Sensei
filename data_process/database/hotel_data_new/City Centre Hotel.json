@@ -1,0 +1,289 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "City Centre Hotel",
+    "url": "/Hotel_Review-g155019-d3225183-Reviews-City_Centre_Hotel-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 329
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "321 Jarvis St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5B 2C2",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/7c/b9/d5/two-queen-beds-room--v7437601.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Newly renovated hotel in the heart of downtown Toronto. Short walk to the Eaton Centre and minutes from most downtown attractions.",
+  "featues": [
+    "Paid public parking nearby",
+    "Free High Speed Internet (WiFi)",
+    "Free breakfast",
+    "Golf course",
+    "Horseback riding",
+    "Massage",
+    "Baggage storage",
+    "Newspaper",
+    "Wifi",
+    "Breakfast available",
+    "Vending machine",
+    "Non-smoking hotel",
+    "24-hour front desk",
+    "Laundry service",
+    "Self-serve laundry",
+    "Air conditioning",
+    "Housekeeping",
+    "Microwave",
+    "Flatscreen TV",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Good Location, good staff, clean and comfortable",
+      "text": "We arrived very late around 1 am and had problem with our booking as we booked through 3rd party, but the receptionist was friendly & helpful and he did a great job to solve the problem. The rooms are spacious with two big comfortable beds, microwave, coffee and tea and fridge. Bathroom are clean and spotless, strong shower and complete toiletries (soap, shampoo, lotion).Continental breakfast are included and served at the small room at basement floor but good enough to start your day. The breakfast staff was good and friendly.The hotel location was great, close to bus stop, subway and walkable to some tourist places in the city. There are small minimarket and coffee shop near the hotel too.Overall, good hotel with reasonable price to exploring Toronto.",
+      "rate": 4.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "Great location",
+      "text": "If you want to go shopping and tour the downtown, this is a great hotel. It is only a ten minute walk to the Eaton Centre and a twenty minute walk to the Air Canada Centre.PROS - Nice, updated rooms, friendly staff and great locationCONS - Neighbourhood is not the cleanest and the hotel can be a little pricey during high season and there is no parking on site. You will need to walk a bloc to the Ramada Inn..I have stayed her about 4 times and have never had any issues. There is also a Harveys and convenience store across the street.",
+      "rate": 4.0,
+      "tripDate": " September 2014"
+    },
+    {
+      "title": "Sleep is good...",
+      "text": "There's not a whole lot to complain about at this hotel save and except for the fact that there's no parking, whatsoever, at the property. I stayed for two nights this past week and I have nothing, really, to complain about that's of any substance.That being said, I do have a couple of small concerns. Firstly, I was on the 100 level which is actually in the basement of the hotel. As you might imagine for an underground floor, the hallway smelled a tiny bit musty but, to be clear, there was no hint of that in my room.When they set up for breakfast in the morning, they put a sign up in the narrow hallway making passage difficult for all but the agile. The complimentary breakfast was fair but the scrambled eggs seemed a little overcooked. The staff are quite friendly but, when checking in, there was absolutely no one in the lobby to check me in and I and another gentleman had to wait for a long time (20 to 30 minutes or more) before someone showed up. The gentleman ahead of me couldn't check in at all because of some issue with his credit card and because they're not set up to take debit for some strange reason. He had to go across the road to an ATM machine.In any case, I was able to park about a block and a half away at the Ramada Inn underground parking ($25/day plus tax). The hotel location isn't bad but you should be aware that it's in a bit of a run down area with working girls just steps from the hotel entrance and a provincial courthouse right next door. All told, I would recommend this hotel for anyone not too particular. I spent about $150/night, taxes in, which I found a little steep given the nature of the place. Normally, I stay at the Chelsea just three blocks away for about $25/night more and I think I will continue to do so.You have to walk at least a couple of blocks to get to a good restaurant.The last thing I will say is that, when getting back to my room after an all-day meeting, the chambermaid showed up at around 5pm tp make up my room. I had to go away and come back.All told, this is a reasonable stay for what it is if a tiny bit overpriced. The free breakfast makes up for some of that, though.",
+      "rate": 3.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "do not stay here",
+      "text": "first of the pictures are photo shopped lifts are small and slow and are noisy if your room is near the lift. rooms are very small don't even try to move at the same time breakfast don't even bother getting.",
+      "rate": 1.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "Great downtown property",
+      "text": "Great location and walking distance to Eaton Centre! Close to Yonge and Dundas Square. Well appointed rooms, beautiful use of space. Lovely and clean. Would stay again!Really nice service, friendly people and great value!",
+      "rate": 5.0,
+      "tripDate": " January 2015"
+    },
+    {
+      "title": "Another \"smokefree\" hotel that reeks of old smoke",
+      "text": "The Toronto Comfort Inn City Centre is another (lower) midrange hotel that’s declared itself to be 100% no-smoking without cleaning decades of smoke stink off the walls and curtains in at least some of its rooms. My room just reeked of stale tobacco smoke. I was able to mitigate the problem somewhat by keeping the fan going full-time, but this wouldn’t work so well in January.Everything else about the hotel was fine. Staff members were all very pleasant. The breakfast was fine. And the room came with a comfortable bed, toiletries, a refrigerator, a microwave (which I didn’t use), and adequate wifi.The hotel’s location on seedy Jarvis Street might be offputting to some, but, hey, Toronto is a very safe place, and Jarvis Street is one block from Church Street and two from Yonge. The location was extremely convenient.",
+      "rate": 3.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Good location",
+      "text": "We chose this hotel for the central location. Only 10 minutes walk to Dundas Square and Eaton centre. All walking distance (20 minutes) to Central station, St Lawrence market, etc.Reception staff were very friendly and helpful. Housekeeping was excellent.The self service laundry in the hotel was very handy.Breakfast was good. Loved the waffle that one can make on the waffle maker. The breakfast room is not that big, so we try to have our breakfast early between 6.30 and 7 am, before the crowd.In the room, there was the smallest cupboard we have ever come across in hotels. There was an ironing board in it and that practically took up the whole space! We could only hang 2 jackets in there!Our room was on the 4th floor and we used the stairs instead of the lift as the lift was not fast, made a noise and shuttered!",
+      "rate": 4.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Great Hotel....Multiple Stays...Reviewers not being fair...",
+      "text": "This review encompasses multiple stays i have done at this establishment.* This review will not only highlight my stay and my views, but it responds to some reviews and my statement on reviews in general. First off, this hotel has a clean, fresh, contemporary-modern look and feel. it is also well secured with each level of the hotel requiring room key access to enter each floor of where guest rooms are located, and this is separate from the individual guest room door locks which is also key card secured (which of course is industry standard)The hotel in my honest opinion is not treat fairly by reviewers. The hotel is not a four or five star establishment, and that is ok, they are not vying for that title. HOWEVER that does not mean the experience, services, and staff are poor or sub-par in any way. To be honest i have a lot of visible disabilities and i am a young adult (22) and i do get treated poorly and not treated equally at times based on my disabilities and/or my age (and i pride myself with conducting myself in a respectable, courteous, and responsible way) , especially when i travel, and at this establishment the staff are friendly, accommodating, compassionate, and are extremely considerate and helpful in many regards. As a quick example, they accommodated me and going above and beyond (showing their compassion, among other things) when i did not coordinate my booking at the hotel with my flight which was later in the evening after check out, and provided alternative services to cater to an error that i made.The rooms have always been very clean, well maintained, and generously furnished with comfortable couches, chairs, and beds. But i will agree with other reviewers that there is a musty smell (when i stayed last year) in the lower floor rooms, which in my opinion is very understandable possibly due to the location, but also because the issue can be EASILY remedied by turning the A/C unit on and on the fan only setting (which does not emit cold air if you should so choose this setting). And even if the air is cool, the room temp itself can be adjusted with the heater to create an air circulating room with just the right temp. It's things like this that really bugs me when reviewers want to rate such a negative review on a establishment for something that can be easily remedied, even on one's own accord, while still taking into account the expectation of the hotel and rate you pay for. The musty smell issue, i did not even complain to the staff (who i knew would have assisted greatly anyway), i simply saw the A/C unit had a fan only setting which circulates air, and it worked almost instantly, no fuss. Guests i think need to be better, we need to be more patient, cooperative, and understanding and help situations out, especially minor one's like this and not jump out and write a negative review and rating based of a trifle of inconvenience which could be easily remedied. When writing reviews which can affect a business, stop, think, and think objectively. Compare and rate your experience with the hotel with what they are classed in, and stop and ask yourself, was my stay so bad and negative that i have to poorly rate and alert other guests from staying here, or should i give a fair rating but offer a suggestions or advice..This is a point i would like to heavily raise as well. The hotel is not located in a shady or dangerous area. The area may seem intimidating, especially at night because of all the large buildings, but the area in my opinion looks the same as most parts of downtown Toronto and any other major city. The hotel is even literally located right beside the Ontario Court of Justice, which for me personally is a bit comforting. The hotel has all of the general amenities you would expect, the WIFI is free, of high speed and is reliable. And there is daily complimentary breakfast staffed by a very friendly and helpful attendant. There is even a Tim Hortons and small grocery/mini mart literally located right opposite the hotel. And if you already did not know this hotel is located in a major city centre, hence the name, so expect to pay a little higher than a similar hotel in a suburban or rural area, it shouldn't be hard to understand this.Thank you, and in conclusion i would recommend this hotel to anyone who is looking for (and this is my rating from my experience) a well priced mid-range hotel with two-three stars, which offers general at at time above average amenities and services, and who is staffed with great people, located in a city center.",
+      "rate": 5.0,
+      "tripDate": " March 2018"
+    },
+    {
+      "title": "Awesome stay!",
+      "text": "I had a wonderful time here in January. The room was clean, comfortable and cozy. There was ample space for our belongings and I really liked the washroom as well. The sink outside was helpful as well along with a fridge and stove. I was able to heat up left overs which was so helpful. The bed was comfy.I thought the elevator was hilarious! I didn't mind how slow it was at all.Morning breakfast was great, and the lady in the kitchen area was very friendly and helpful.The staff at the front desk were also very nice!I will be back in mid February for more fun downtown and I can't wait.",
+      "rate": 5.0,
+      "tripDate": " January 2017"
+    },
+    {
+      "title": "Good option for economy travellers into down town Toronto",
+      "text": "- building is a little dated; so the elevators and the overall interiors do show the age-  excellent location in down town Toronto; all major landmarks and business locations are highly accessible from the hotel- there is a 24 hours convenience store right opposite to the hotel, which is a great benefit to have when you are not staying in a full service hotel- room was nice and clean,  but pretty much no frills- no bathtub; for those who care",
+      "rate": 3.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Too expensive ",
+      "text": "The only plus point of this INN is that it is close to Eaton centre. Rooms are small. Not much place to walk. The cleaning lady does not clean properly. We found condom wrapper in the room on checking in. Breakfast is horrible. Can give a miss. Overall too expensive for 200 $ in off season. Stay somewhere else .",
+      "rate": 3.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Clean and comfortable.",
+      "text": "We stayed at the Comfort Inn City Centre and were very pleased with the hotel. The rooms were very clean and the bed was very comfortable. The staff was extremely friendly and welcoming. The only issues were the size of the breakfast room and parking. The breakfast room was very small but the server was very nice and hard working. She gave us a tray and told us we could take our food to our room to eat. The parking was about one block down the street (not unusual for Toronto).",
+      "rate": 4.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Wanted to like this hotel",
+      "text": "I really wanted to like this hotel, but I didn't get a single night of good sleep here. The beds are comfortable and the shades are dark, two great pluses. However, the A/C units were poor in a number of rooms our group stayed in and took days to cool down the rooms. The location was good, short walking distance to city center, and it wasn't too much work to get there. We took the Pearson Express train to the train station, then the subway to the closest stop, then still had a few blocks to walk. The elevator in this building is horrifying. I swear it took 5 solid minutes for it to get to the 4th floor where my room was. The downsides were the noise. Poor insulation inside, so you could hear every door opening and closing on your floor. I got woken up each day at 4-4:30 with birds sitting on the ledge outside my window and tapping on the window/cooing/etc. You could scare them away, but they just came back, time and time again. Unfortunately not a restful night to be had.",
+      "rate": 2.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Good hotel near centre",
+      "text": "This was an excellent hotel with fridge and microwave in the room. It provides a free breakfast HOWEVER the room in which it was available had a table with 8 chairs, 2 breakfast bar shelves but only 2 bar stools when their could have been another 6 - 8 added.  The breakfast provided was reasonable.In the main the staff were friendly and helpful.It is about 10 minute walk to main shopping area and the starting point for the city tours.",
+      "rate": 5.0,
+      "tripDate": " April 2016"
+    },
+    {
+      "title": "Skip this place, go next door to Econolodge..",
+      "text": "Very tiny room and overpriced for what they have to offer. Breakfast as a variety is just O.K (cereals, juice, pastries, bacon, scrambled and hard-boiled eggs, cupcakes and pastries) but the scrambled eggs were cold and stale, bread was old and whatever is there is there they don't refill if it's finished.Front desk staff were good. They are helpful if you ask them any questions.Only positive thing I could think of is the all-day coffee and lemon water down at the lobby but that is a common thing around anyway..",
+      "rate": 1.0,
+      "tripDate": " April 2016"
+    },
+    {
+      "title": "Great hotel",
+      "text": "I stayed here for 4 nights in April 2016 with my partner. The receptionist was welcoming, room was clean and decorated nicely. Our room was on the bottom floor and it was quiet. The free breakfast was really good I enjoyed the blueberry pancakes. We would stay again.",
+      "rate": 5.0,
+      "tripDate": " April 2016"
+    },
+    {
+      "title": "Good location, good value.",
+      "text": "This hotel was good value, in a good downtown location. Only 10 - 15mins walk from the subway (dundas). The rooms where spacious and clean, if a little dated. The room came with breakfast which we didnt expect, so this was a nice bonus. However, breakfast was served in a small basement room with only limited seating available, so you have to pick the right time to go. Staff where helpful and friendly, overall a good place for a short stay.",
+      "rate": 4.0,
+      "tripDate": " November 2015"
+    },
+    {
+      "title": "Overnight Trip to Toronto, Great little Hotel!",
+      "text": "Went to Toronto to attend a concert and stayed at the Comfort Inn City Centre. Very clean room. the hotel was clean and the staff was very helpful and friendly. There was a breakfast in the morning which was pretty good for a quick bite. There is certainly no frills but this hotel is definitely worth staying at. There is no parking on site but about a one minute walk to the corner will find you a parking lot that can be used. The earlier you leave the cheaper the parking is. (It cost me $15 to stay parked until noon, cheaper if you leave earlier) Hotel was about a 20 minute walk to the ACC. Highly recommended will stay there again.",
+      "rate": 4.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Nice hotel, bad neighbourhood",
+      "text": "This hotel is difficult to review as it's a bit of a contrast in experiences. The rooms are recently renovated and very nice. The hotel is clean, the staff are friendly and helpful and the price is reasonable for downtown Toronto. It is in a good location relative to downtown and a short walk to the Eaton Centre. However, the immediate area around the hotel is a bit \"sketchy\". There are homeless shelters nearby and a number of people on the street begging for money or seemingly strung out on drugs. I would not recommend this hotel based on the street it is on but the hotel itself was perfectly fine. If and when the neighbourhood is cleaned up, it would be a great place to stay.",
+      "rate": 3.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "Clean, no parking",
+      "text": "We booked this room after a bad experience at another hotel.  The place is really clean and remodeled recently with a trendy look.  Breakfast was good but the room was tiny and we ate with strangers.  It's about a mile from the Eaton Centre, but careful walking at night, neighborhood isn't the greatest.  Parking is a block away and paid separately",
+      "rate": 4.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "Fabulous staff!",
+      "text": "First, the staff was fabulous!  Friendly and so helpful with directions, recommendations and help with my kindle!!  The breakfast server also was very friendly every morning.  The bacon was perfect and I'm picky about my bacon.  About the breakfast room, though, way too small.  It only seats about 8-10 people and there were more than that down there every morning (3 days) that we were there.  So, alot of people either stood (there are some counters along the wall) to eat or took their food back to their room.  The room was fine for us as we basically only slept there.  The towels were big, which was nice.  The location was good, we were able to walk to the subway and restaurants but there is no on-site parking which was a bit of a hassle.  And as mentioned in other reviews, the elevator is slow and bumpy but we took the stairs most of the time.  All in all, it worked out fine for us.",
+      "rate": 4.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Pretty good for money paid!",
+      "text": "This hotel is by no means a 4 or 5 star hotel, that being said, it's no slouch either! For the money paid and comparing it to the Hilton on University ave or Radisson Admiral, I would say this is not too shabby!The room is very basic but I only needed it to sleep in. It is small but that's fine!It was very clean and was actually quiet. Location is very central, you are in the middle of dt Toronto, close to Dundas and Church. You can take the subway from Dundas and Yonge or from the College stop. One thing that was rather annoying is the breafast room. I think this was an old gym turned into a breakfast area. Not the end of the world but when a hotel  has 30 or so rooms and there is only seating for 8 in there, it gets crowded quick. The server(older Philipino lady) was awesome!!I would reccomend this hotel if you want a basic place with no frills to lay your head at night. 3 stars really.",
+      "rate": 4.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Family reunion",
+      "text": "The room was clean but very hot and so was the hallway. The breakfast room is small and in the basement. The staff was friendly but not helpful. They told me conflicting stories regarding the heat in the room and the points and my rate. If I didn’t have to stay here then I wouldn’t.",
+      "rate": 3.0,
+      "tripDate": " January 2018"
+    },
+    {
+      "title": "Great Location",
+      "text": "After our original accommodation fell through, we booked a room here the day we arrived in Toronto. We were surprised at how cheap we could get a room for considering one night was over New Year's Eve.All the staff were friendly and easy to speak to, and were happy to call us a taxi when we left. The room was small, but could comfortably fit 4 and looked newly renovated and was very clean. The only downside was that the walls were thin, so we could hear people walking down the halls and talking in the room next to us.Breakfast was basic, eggs and either bacon or sausage, waffles and cereal. It was enough for us. Finally, it was a perfect location, 10 minute walk to Eaton Centre and the closest underground station, 5 minute walk to the tram.",
+      "rate": 4.0,
+      "tripDate": " December 2017"
+    },
+    {
+      "title": "Clean, comfortable inexpensive hotel in a great location",
+      "text": "I needed an inexpensive hotel near downtown Toronto and Ryerson University. The Comfort Inn fit the bill perfectly I got a great rate on Trivago - $80 per night prepaid. The hotel seems recently renovated and is clean and well-kept. The bathroom was modern and the room had a flat-screen TV and queen-sized bed. The front desk staff was great - very helpful and responsive when I needed a bulb replaced in the light next to the bed. They also offered a free breakfast that included eggs, waffles, muffins, yogurt, various fruit juices, and coffee.And the location was terrific! Walking distance from the main shopping area and the university with lots of restaurants nearby as well. Terrific value for the money.",
+      "rate": 5.0,
+      "tripDate": " November 2017"
+    },
+    {
+      "title": "Great front desk staff",
+      "text": "Spent a night there last week. The hotel is very small, but nice. Great yonge lady at the front desk that was very helpful. Small rooms , but very comfortable. Great breakfast included and the lady running the food out was amazing. Thank you",
+      "rate": 5.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "Best hotel yet",
+      "text": "Donna is amazing. Hotel was great. Can't beat this place. Highly recommend.  Xoxo. Continental breakfast that they have available in the mornings taste great too and I got free late check-out how do you beat that",
+      "rate": 5.0,
+      "tripDate": " November 2017"
+    },
+    {
+      "title": "Friendly and helpful staff.",
+      "text": "We stayed for 8 nights in a 4th floor room, the room was a good size, spotlessly clean and the bed very comfortable. There was very little hanging space, however, lots of drawer space, also a kitchen area with coffee maker, oddly the fridge and microwave were on the other side of the room? but no big deal.The hotel staff were fantastic, they could not have been more helpful, giving advice on places to eat and trips out, ordering taxis and printing of directions etc.Yes the breakfast room is very small, however, there was plenty of food available, the waffles were great and if you ask for a tray you can take your breakfast to your room and eat in comfort, or, for a treat pop over the road to Tim Hortons within the Rabba store, the English muffins with bacon and egg are yummy. (Forget the diet, you are on holiday)The location of the hotel was good, an easy 20 min walk to the waterfront and only 10 mins from Dundas Square. An ideal base to explore the city.",
+      "rate": 4.0,
+      "tripDate": " October 2017"
+    },
+    {
+      "title": "Ok but nothing special",
+      "text": "Very basic downtown hotel, checkin smooth, room ready, clean but no lotion in bathroom. Breakfast room small, crowded, eggs burnt, waffle station crowded and slow. We had peanut butter on bread. Elevator creaky. Served our purpose but not a choice for the future.",
+      "rate": 3.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "Wonderful surprise with breakfast room.",
+      "text": "I stayed for two enjoyable days.  I was pleasantly surprised there was a breakfast room, complete with choice of cereal and milk, juices, waffle iron with batter and coffee.The hotel was quiet and I did get a good night's sleep.",
+      "rate": 5.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "hotel is pretty good except  that ….",
+      "text": "1 - they don't have people to help with your luggage..this is the bad part of it.You arrive tired from the trip with the luggage and they won't help you out with that. They won't delver them to your room. You need to take it yourself. But they have an elevator, so if you 're not SICK and dying you can do it ! 2 - I found a little far from the closest subway station ( Wellesley station). BUT IT'S a good price, so if you want to save money it's good.3 - Room for breakfast is so TINY you end up having your breakfast standing up if you dont get up early. And there is not a lot of variety. So if you're staying here because breakfast is included , I don't think is worth it.",
+      "rate": 4.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Nothing more than satisfactory.",
+      "text": "Front desk staff were okay. Not overly friendly. We were booked in a room that was in the basement. Didn't like having the basement view, no privacy as our window was the view of a parking lot.  Breakfast was good. They had hard boiled and scrambled eggs (which were cold) but the rest of the soread was nice. The lady working in there was very friendly. Would not stay here again",
+      "rate": 2.0,
+      "tripDate": " April 2016"
+    },
+    {
+      "title": "Personal trip",
+      "text": "Front desk staff was personable and helpful.  Sheets and bathroom were clean, not much else was.  The window type air conditioner wasn't working very well because it was so thickly coated in dust.  The filter was plugged.  It was cleaned up on the 2nd day of our 4 day stay.  Carpet, walls and drapery were dirty, with large cobwebs hanging from the ceiling and drapes.  I bring Lysol wipes with me when I travel and wiped down the bathroom floor.  It wasn't clean, but the tub and sink were.  There was seating for 10 people in the breakfast room, so most guests had to take their food to their rooms on a tray.  The elevator was small and slow and was creaky and scary.  The area is sketchy, lots of druggies and drunks but is handy to where we were headed.  The stairwell carpet was disgusting as were the handrails.  I should have looked for a better place, but we were in the midst of a family health issue and did not have time.  The price was not reasonable for such a shabby place.  Staff recommended an expensive lot in a construction zone ($28 per day) when we found a cheaper alternative just as close in the opposite direction for $15 per day.  The cable seemed to be less than basic and reception wasn't good.  Could not recommend this Comfort Inn and would not stay here again.",
+      "rate": 2.0,
+      "tripDate": " June 2015"
+    },
+    {
+      "title": "Accommodating Staff and Nice Rooms",
+      "text": "Stayed at the Comfort Inn for 2 weeks while in Toronto for work. I found the location very central. It was a maximum 10 minute walk to College subway station or Dundas square. While there aren't any immediate food options, there are several a few blocks away, especially near Younge. The neighbourhood is otherwise lacklustre, populated mostly by Ryerson students and struggling business. That being said, everything else is in close reach. The staff were extremely friendly and helpful from check-in to the room cleaning. My standard room with a queen bed was somewhat small (especially the closet, which holds maximum 4 shirts) but functions well. Pluses include the mini-fridge and lounge chair. Sleep quality was fair overall, but there were a few nights with some rattling or loud humming from within the walls. The windows are in desperate need of changing with loose closures and missing panes. Fortunately the rooms were adequately heated.Overall, for the price, I'd stay here again.",
+      "rate": 4.0,
+      "tripDate": " February 2015"
+    },
+    {
+      "title": "Cheap Price, Clean rooms but unruly experiences all the same!",
+      "text": "The hotel staff were great, friendly, especially the lovely breakfast lady! Was in town for a 2 day conference. Nice room, clean,met all my needs. Surrounding area is a tad scary in the evening but you get what you pay for. But most concerning for me, was waking up in the morning (6:30) am and as I was leaving my room to get coffee, two homeless people were engaging in sexual relations on the stair case between third and four floor and once I opened the locked door and was rushed by the gentlemen, who was attempting to push me aside to get into the locked room area. VERY SCARY and I was trapped between them and the stairs to leave. It was alarming to know that they had entered the building and has been there a while and no one noticed. The elevator is very very very slow but after this run in on the stairs, I suffered through it.Unfortunately, I will not return simply due to my experience with the unwelcome guests in the stairwell and the lack of feeling safe.",
+      "rate": 3.0,
+      "tripDate": " December 2014"
+    },
+    {
+      "title": "A Good Stay in a Great Location",
+      "text": "This hotel gets 5 stars for its location, which is close to Ryerson and just what I needed when I was dropping off my son to begin university. It also gets five for the staff, who were friendly and beyond helpful. We arrived with masses of heavy (overweight) luggage but the clerk cheerfully moved them to the lower level and took care of them while my son registered for his dorm room. Most of the luggage was for my son and he wasn't even staying at the hotel! When I was leaving, the female clerk called and got two quotes for a taxi to take me to my cousin's home in the 'burbs. Who does that? And as I left she told me how much it should cost so I wasn't taken advantage of. I never tried the breakfast so I can't report on that. I had coffee or tea in my room and simply went across Jarvis Street to Rabba foods and bought a piece of fruit and one of their 3/99 cents croissants. Total cost: about .70 per day. The room was clean and roomy and had everything I needed. The bed was large and comfy. As for downsides ... the hallways and stairwell weren't clean and the caps had been broken off a few of the newel caps. It made the place look a bit shabby. There are no amenities, but I was in Toronto to get my son moved in and didn't have time for a pool or gym. It's true there is no parking; this place really wouldn't work for you if you had a car. The elevator is indeed the slowest I have ever experienced. And the price was higher than it should have been in my view, given the overall modesty of the place and the lack of amenities and parking. Comments about the roughness of the neighbourhood are over-blown; I felt perfectly safe and only saw people going about their business - and I don't mean THAT kind of business!",
+      "rate": 3.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Great hotel close to Yonge-Dundas Square!",
+      "text": "This hotel is rater small but has a lot of features. The hotel has been recently renovated and it is evident. The lobby area looks new. The staff at this hotel was very friendly and professional. Room was on the 4th floor, the room itself was clean, big enough for two, renovated, bed was comfy and the room had everything we needed. The breakfast in the morning is free and there is a lot of options. There is cereal, toasts, fruits bacon, eggs, waffles and yogurt. The breakfast room was quite small but we brought our food to our room to eat. The walk to Yonge-Dundas was less than 10 minutes. We never felt unsafe even when walking at night.",
+      "rate": 4.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Really Depends...",
+      "text": "This is a very small hotel and very small rooms. I was alone on business but if my wife was along we would have been crowded. The rooms are all reasonably new and the fit and finish is lovely. The halls are narrow and I have never experienced a slower elevator in my life. If you have space issues you would not make it in this elevator. There is no parking and the closest parking is 1.5 blocks away making check in and out a challenge with luggage. I stayed one night and it was good value for single traveler with a Breakfast included. On balance the parking was offputting enough that I will not go back. If they had an arrangement with a nieghbour lot maybe that would help but you are on your own as it stands now. Staff were fine and helpful location is Ok to downtown but you could do better. Major issues are size of room and parking.",
+      "rate": 3.0,
+      "tripDate": " January 2014"
+    },
+    {
+      "title": "Very nice stay here",
+      "text": "I'm glad I chose this hotel. I would say the price was about right for the location and accommodation. The beds are very comfortable and the room a very good size with a large tv and fridge. People have commented that it's a sketchy neighbourhood but it really is fine. There's lots of traffic around and I felt safe walking alone.The breakfast is pretty decent but the breakfast room tiny so be prepared to take breakfast back to your room.My only annoyance was that when we reported our heating was broken (we couldn't switch it off) we were told someone would be up to fix it. It never got fixed! We had to have the ac on all day and night to counteract the unbearable heat.But I did like everything else.",
+      "rate": 4.0,
+      "tripDate": " October 2013"
+    },
+    {
+      "title": "Great city stopover",
+      "text": "Stayed here overnight. Staff were very friendly and helpful. Room was clean and comfortable. Everything that was needed was provided, toiletries etc. Breakfast was excellent. Big variety of food and plenty of hot (and I mean HOT) coffee. Would highly recommend this budget hotel",
+      "rate": 5.0,
+      "tripDate": " September 2018"
+    }
+  ]
+}

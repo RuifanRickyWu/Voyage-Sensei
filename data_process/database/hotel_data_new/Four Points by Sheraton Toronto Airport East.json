@@ -1,0 +1,293 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Four Points by Sheraton Toronto Airport East",
+    "url": "/Hotel_Review-g155019-d183116-Reviews-Four_Points_by_Sheraton_Toronto_Airport_East-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 50
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2180 Islington Avenue",
+      "addressLocality": "Toronto",
+      "postalCode": "M9P 3P1",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/cc/20/52/four-points-by-sheraton.jpg?w=500&h=-1&s=1"
+  },
+  "description": "An array of thoughtful amenities await at Four Points by Sheraton Toronto Airport East, such as complimentary Wi-Fi, spacious rooms and suites, an on-site restaurant, a flexible meeting venue, special group rates and a convenient location in Toronto.",
+  "featues": [
+    "Free parking",
+    "Free High Speed Internet (WiFi)",
+    "Bar / lounge",
+    "Tennis court",
+    "Children Activities (Kid / Family Friendly)",
+    "Free airport transportation",
+    "Meeting rooms",
+    "Baggage storage",
+    "Parking",
+    "Wifi",
+    "Paid wifi",
+    "Restaurant",
+    "Breakfast available",
+    "Free shuttle or taxi services",
+    "Airport transportation",
+    "Car hire",
+    "Non-smoking hotel",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Dry cleaning",
+    "Laundry service",
+    "Air conditioning",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Excellent Stay",
+      "text": "Enjoyed an excellent one night stay at the recently renovated Four Points Sheraton (Toronto East-Islington). Check-in was simple and quick and the rooms have all of the required amenities (lots of power/USB ports available, microwave, min-fridge). Since it's a renovated/new hotel, furniture, beds and bathroom are.brand new. Very nice and large flat screen LG TV.  The shower was hands down the best one I've had at a hotel. The water power was strong, temperature hot and they had a rain shower head. Parking is compliementary and during my stay was readily available and in close proximity to the hotel.There is an excellent and well equipped workout room on site. There are three elevators and all are very fast, so it limits waiting, although during my stay, I don't think the hotel was too busy.Hotel is right off the 401 on Islington and in close proximity (10 mins) from the airport. I believe there is a shuttle available for those who require it.Only downside would be that there is nothing in terms of restaurants within walking distance if you don't have a car. However there is a restaurant (Fionn MacCools) on site that serves breakfast, lunch and dinner. In summary, I will certainly look at staying at this hotel again if I require one in that area.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Great place to stay",
+      "text": "The staff are so friendly and helpful here even if you are just staying 1 night. We stayed here the night before flying out of Pearson Int'l and it was a very comfortable night sleep, they have a park n fly option that is very affordable/comparable and a free shuttle to the airport (about 15 minutes away) that you book the night before, they are on time and efficient in getting you to the airport. This is so much better than waiting for a shuttle in the middle of a huge windy cold parking lot not knowing when the next shuttle will arrive.There's a Fionn McCools on the premises so it's very convenient for meals, including breakfast (not included in your room booking). When we got back from our vacation after a 9+hr red eye flight we missed the shuttle by 10 minutes and so would have had to wait an hour for the next one, given we were so exhausted we decided to take a local cab ($30!!!), so their free shuttle service is great value.  When we arrived by cab we were met at the hotel by the Manager Mr. Selva who was so apologetic about the timing of our arrival and missing the shuttle that he insisted that before we started our hour long drive home we have a complimentary breakfast. Missing the shuttle was just bad timing, we didn't complain, they are just super nice at this hotel.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Shuttle service let down",
+      "text": "We had an overnight layover from Cancun to Winnipeg.  I had chatted with the hotel in the afternoon to confirm if their shuttle service would still be available for a late arrival as we were getting to the airport at 10p.m.  She confirmed that would be available and provided me with a number to call and where to meet the shuttle. I called for the shuttle and they advised it would be there at 10:45. When I called I was at the location already.  It was 10:40.  The driver didn't show.  I called back at 10:50 and they advised that the driver waited an extra 5 minutes (impossible since I was on the phone with them).  We ended up standing in the cold until 11:20 to get the shuttle and we had to catch it at P10 not P13 as we were advised.  (Probably why we missed it in the first place.)  However, the saving grace for this stay was that the front desk staff were extremely nice and accommodating and helped us get food even though the restaurant was closing right away. The room itself was quite nice.  Despite a difficult start it was an okay stay.",
+      "rate": 3.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Nice hotel just east of Pearson",
+      "text": "Stayed here for a few nights.  Great location right off the 401, so convenient to get around by car.  Nice room, nice bathroom with good lighting, and free parking, which is difficult to find in Toronto.  Used the restaurant every morning for breakfast, and the food was good, and reasonably priced for Toronto.  My car rental did not have a scraper, so the front desk gave me one for my entire stay.  No complaints here!",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Great hotel for flying ",
+      "text": "We stay here every winter and leave our truck while we head south for some heat. Staff are always very obliging and bend over backwards to make sure you have a great start and finish to your trip. Reasonably priced too!",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Nice Hotel",
+      "text": "I recently stayed at the Four Points by Sheraton Toronto Airport East hotel as it was close to a presentation in Etobicoke I had to attend.  The hotel was clean and comfortable.  I really liked the strong water pressure in the shower in my room.",
+      "rate": 4.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Great hotel",
+      "text": "I recently at that hotel on two separate occasions. The hotel is well situated nearby hwy 401 and 427. Being a recently built hotel, it is very modern, clean, and meets the needs of the typical travelling worker. On both my stays, my rooms were very spacious, cozy, and clean. I also enjoyed the fact that there is a good Irish pub within the hotel. Another very nice thing about that hotel is the fact that parking is complimentary, which is rare in the GTA. I will definitely stay there again.",
+      "rate": 4.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Fits the bill for reasonable accomodation near YYZ",
+      "text": "A smallish hotel but clean and modern.  Very good customer service.  Pub style restaurant on site (but is open for basic breakfast too). Just off the 401 highway so handy to get around to top end areas of Toronto but not to downtown.  Far enough from the airport to be less expensive than the airport strip hotels.  Free parking.  Didn't use it, but looked like an modern and extensive gym area.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Decent hotel but not exactly at the airport",
+      "text": "Stayed here a couple of nights while in town on business. First, the hotel isn't exactly at the airport, as the name implies; it's more of a 15-minute drive/shuttle ride away. The property is newer; I believe the desk clerk said it was built as a Quality Inn and then changed hands. Check in was quick. Staff were friendly and very accommodating. My room was smallish, but comfortable clean and quiet. The lobby restaurant/pub was actually quite good for a hotel restaurant.",
+      "rate": 3.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Comfortable room & stay",
+      "text": "Reasonably nice and spacious room, and comfortable bed and bedding. Good hotel shuttle bus service. Front desk staff members are friendly and helpful. Easy to get to location. Hotel seems to have been renovated/updated since my last stay.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Best service ever!!!!",
+      "text": "I was travelling with colleagues - one of which was having a birthday.  I called ahead and arranged for a birthday surprise when she checked in.  Everything was set up and ready to go... except I had my reservations at the wrong hotel and I had to move to another Four Points hotel in the area :(Believe it or not, superstar Chrissa Sun showed up at my new hotel with birthday cupcakes and a balloon!!! Even though we were no longer staying at her hotel, she went out of her way to bring Birthday happiness to my colleague!I am blown away by the exceptional customer service and will forever be a Marriott person because of Chrissa!",
+      "rate": 5.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "Pleasant short stay",
+      "text": "Very nice hotel is located  very close to the airport. Staff was friendly & helpful. Concierge was helpful assisting us in booking metro train ticket from the hotel. Receptions also very nice & quick checked in.",
+      "rate": 4.0,
+      "tripDate": " May 2019"
+    },
+    {
+      "title": "Bring a shovel",
+      "text": "Staff was friendly enough, but when we arrived for a park/sleep/fly, we were told we would need to park offsite 15 mins away and we would be shuttled in because there were no more spots. I told the man at the desk I was already parked in a spot and there are like 5 more spots there. He said ok and seemed he didnt personally know how many spots there were. We had planned on going out for dinner, but did not because we did not want the hassle of losing a spot. We looked before going to bed and there were still plenty left.The reason I'm writing this because on returning from our trip, a snow plow had trapped all the parked cars in by plowing snow in front or back of everyone's car, making it a large speed bump impossible to drive over. I had no let staff no and had to ask for a shuffle and I had to shovel my own car out, that I paid parking fees for. I've never heard of a hotel having you shovel hardened snow so you can leave the facility.Probably will not be back.",
+      "rate": 2.0,
+      "tripDate": " February 2019"
+    },
+    {
+      "title": "Great renovated hotel with descent view and good restaurant",
+      "text": "If you need to be close to the city and the 401 while enjoying descent hotel this is the one for you. Now having internet tv and new bathrooms and renovated rooms. Free parking and the reception staff will try your best to make sure you are happy",
+      "rate": 4.0,
+      "tripDate": " March 2019"
+    },
+    {
+      "title": "Park and Stay",
+      "text": "Recently renovated, this hotel is bright. clean and modern. The front lobby staff were very friendly and courteous. We had an unfortunate incident that required help from the staff. Front office supervisor Rohan Chrai made the problem seem insignificant as he took to making the required phone calls and keeping us updated and offered various solutions if we couldn't get it resolved before we flew out the following morning. Everything worked out before we left thanks to Rohan. We were very happy with this hotel and its location. shuttle service was right on time coming and going.",
+      "rate": 5.0,
+      "tripDate": " March 2019"
+    },
+    {
+      "title": "Nice room, terrible lobby layout",
+      "text": "Stopped in here for an overnight visit before a flight in the morning.  I’m not sure what Marriott was thinking but the layout totally missed its mark.  The front desk for the hotel is located on the side of the building by the restaurant and easy to miss.  However, the pull through and all of the handicapped parking is on the opposite side - as are all the guest elevators.  It feels like partway through construction, someone thought it would be a good idea to move the front desk and just jam a fitness center into the planned lobby of the hotel.Arriving at night, at what appeared to be the check in area, I parked in the handicap spot with my mom who can’t walk.  I discovered not only was I on the wrong side of the building to check in, I couldn’t even get in without a key card (which you get after checking in!).  I made my way back to the other side of the building with the tiny door (there is no staging area for vehicles) and checked in, then drove mom back to the handicap parking.  We entered a small side door which has a bench against the wall sticking out making it difficult to get by with a wheelchair and got on the elevator.Thankfully the room is very clean, updated and comfortable and typical Four Points style.The hotel is also right beside several train tracks which could be quite noisy.I didn’t have much time to check out the other amenities but totally not recommended for anyone who actually needs handicap accessibility or has difficulty walking.",
+      "rate": 2.0,
+      "tripDate": " March 2019"
+    },
+    {
+      "title": "GREAT PARK N STAY OPTION",
+      "text": "Really great park n stay option but, be aware that parking is not always on site but at SKY PARK. That said, SKY PARK looked at bit shady in terms of their secured parking lot but, we had absolutely no issues and pick up at YYZ was VERY PROMPT.The Four Points Sheraton was excellent, room was spotless, bed super comfortable, adequate shower and sundries. Front Desk Staff were excellent and they are quite generous with the number of days of allowed parking.The overall price was roughly $250 for hotel and 10 days parking, no breakfast included. There is an Irish Pub/Restaurant in the hotel, no need really to go out for food, prices were good and the food was quite good.Definitely worth considering Park n Stay considering Park n Fly Vallet for same time frame was $185 so for an extra few dollars you can relax knowing you are close to the airport no rush hour traffic to fight before your flight.",
+      "rate": 5.0,
+      "tripDate": " March 2019"
+    },
+    {
+      "title": "Great one night!",
+      "text": "Due to a missed connection, my airline arranged for one night stay here. Check in was smooth and easy. The room was very clean and smelled wonderful! It had a big closet, keurig, and microwave. Beds were super comfy. It has a 24hour gym and lots of parking. There is also a shuttle to and from airport. It’s about 10 min drive to the airport. Overall, enjoyed our one night here and would stay again!",
+      "rate": 4.0,
+      "tripDate": " March 2019"
+    },
+    {
+      "title": "Park and Stay sucks",
+      "text": "I booked a room through park and stay. When I arrived on the evening of February 25, I was handed a map and a coupon for a parking lot some ten minutes away. What!?!?!? If I wanted to stay ten minutes away I would have booked a different location. The young lady at the check in struggled in english to explain that the limited on-site parking was full and that I would have go off-site, then wait for a shuttle back to the hotel from the parking lot !?!?! NO WAY! The young lady and I both became increasingly frustrated as she struggled to explain that there were no spaces here and that the only option was to park off-site while I insisted I had booked a spot here, not elsewhere. After a very long period where she effectively ignored me, and other arriving guests got the same nasty surprise, the other check-in employee said \"if you can find a space out back, it's yours\". So, back in the car, drive out back, up and down the lanes which were DEAD ENDED by snow banks, and of course there are no spots....except for about 15 empty ones signed for \"Air Canada Employees\". Back to the check in. My level of frustration growing exponentially. Same guy. I ask \"What about all these spots out front\"? Sorry, those don't belong to the hotel. Ok, where's the supervisor. Supervisor comes out. \"Did you book this through Marriot?\" No, I replied through Park and Stay. \"Well, he says, we can't be responsible for our third parties\". REALLY!?!? So YOUR third party becomes MY problem?!?! I don't think so. Then he adds, \"We don't even have enough spaces for our regular Marriot customers\". Oh, I see, so I'm a \"second class\" customer. Now, I have just about had it. I asked again about the spots out front. He pointed along the snow bank close to the entrance and said \"You can park anywhere along there\". Well, guess what NO SPOTS ALONG THERE. So, I had to get nasty. I went, parked in one of the empty spots out front, came back in and demanded a parking pass. I was NOT moving and I was NOT parking off-site. End of story. What a ridiculous set-up. Stay here, park over there? Shuttle to lot, shuttle to airport??? NEVER AGAIN.",
+      "rate": 1.0,
+      "tripDate": " February 2019"
+    },
+    {
+      "title": "Disappointed",
+      "text": "I am extremely disappointed with u guy how come some will book a room in your hotel for two weeks and u can’t even provide parking for ur guest they have to pay 20dollars per night yet they are going to stay with u for two weeks they don’t offer laundry nothing my room is 130 but am extremely disappointed",
+      "rate": 2.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Nice property",
+      "text": "Nothing outstanding, but overall a really nice property. I have to say the staff were really great, Elvis in particular. Comfy beds, nice bedding. Bathroom was smaller, but had a great full size shower, with an amazing shower head and pressure! Also, big points for a working bathroom ventilation fan, I still do not understand why so many places do not have a bathroom fan, very strange. Internet was good, lots of TV channels, a small coffee service in the room, all was good.I will say that the A/C Heater unit was louder than normal, but once we were at a comfortable temperature, it did get quieter as the fan slowed down.We did not use the exercise area, or eat anything here at all, only because we had other plans, so we cannot comment on that.There is a lot of parking available, so if you are driving a larger vehicle, this might be a consideration.Overall a really nice Hotel, and excellent value for the price. We would stay here again, it is pretty close to the airport, so it is very convenient. We chose to use Dixon Road to get to the airport to avoid the freeways.",
+      "rate": 4.0,
+      "tripDate": " September 2019"
+    },
+    {
+      "title": "Relatively new to Sheraton property near Toronto airport",
+      "text": "First, be advised that there are two Four Points near the Toronto Airport - this one is further away than the other which is pretty much right across the street from the terminal. Of course, being farther away, the airplane noise is less, but this one is close to a rail main line. That isn't so bad when passenger trains go by, but the occasional freight train will get your attention (particularly if you're sleeping).The hotel only recently joined the Sheraton brand sometime earlier this year. It is not a new hotel, but Sheraton has redone it so it is still fairly nice. There is a small restaurant on site, but no concierge lounge (don't think Four Points have these, but this is only the second one we've stayed at). Checkin was fairly straightforward if a little slow as they only had one clerk on duty and their were people ahead of us checking in with lots of questions. We did get a one bedroom suite on the top floor (always our choice if available as it cuts down on noise from any upstairs guests).The suite was nice enough. Although we did find that the TV in the sitting area wasn't getting any channels, but they fixed this while we were out of the room. The room had a nice simple kitchen with a full complement of new dishes, utensils, etc.The only other oddity was the design of the lobby area. The elevators are at the back of the hotel with an odd narrow hallway by the back covered entrance which is sometimes a bottleneck with people loading/unloading.Overall though, we had a good two night stay here.",
+      "rate": 4.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "Nice hotel",
+      "text": "The hotel looks nice from the outside and has a modern lobby and great restaurant. The room was spacious. The pillows on the bed were super soft and comfortable. The bathroom had great lighting. Your far enough away from the airport so that it's not noisy. The hotel staff were very friendly and accommodating.",
+      "rate": 4.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "Convenient Airport Hotel",
+      "text": "This Four Points is a great new hotel just off the 401 and close to the airport. Nicely appointed rooms. Not necessarily close to a lot, but there are a few restaurants around and the hotel restaurant has a fair bit to offer.",
+      "rate": 4.0,
+      "tripDate": " May 2019"
+    },
+    {
+      "title": "Cool, Clean and Close to Canlan Ice Arena and airport",
+      "text": "The Four Points Sheraton east is located in less than 10 minutes away from Canlan ice rink. This is a new hotel that has been converted from an old apartment complex. The rooms are on the smaller side with not much area to move around.  The bathroom is clean and has a very modern look to it. The beds are all new and also very comfortable. The lobby, hallways, and other common areas on the property very nicely decorated in a contemporary rustic theme. There are three blazing fast elevators that service this 14 floor property. Parking is free and abundant around the property. The staff at the property always greet you with a smile and on our stay went above and beyond to make us feel like we were at home. The food at Fionns (Pub/restaurant in hotel lobby) was outstanding. The menu is quite extensive and prepared by Chef and his staff. We had the loaded nachos, chicken tenders, and a burger during our stay and they were all noteworthy and I would definitely try them again.The only downside to this hotel is that it is not necessarily close anything in the greater Toronto area. I book this room because our daughter was in a hockey tournament and playing all weekend at Canlan Ice Arena, which is literally eight minutes away. We drove to downtown Toronto, which took about 20 minutes.The other perk of this hotel would be if you were a business traveler since it is close to the airport.All in all this is a great property both because of its design and outstanding staff! Will definitely be returning whenever in Toronto for hockey.",
+      "rate": 5.0,
+      "tripDate": " June 2019"
+    },
+    {
+      "title": "Newly Renovated Hotel in a Quiet Area",
+      "text": "Pleasantly surprised at how nice the rooms were.  It's obviously been renovated recently, with modern rooms and a bright, well appointed bathroom.  It also had comfortable beds.  A bit far from the airport - 10 to 15 minutes drive, but a good choice for a future stay for flights at YYZ.",
+      "rate": 4.0,
+      "tripDate": " February 2019"
+    },
+    {
+      "title": "Wonderful staff",
+      "text": "We didn't book this hotel, we had it chosen for us because our flights got cancelled, but the man at the front desk when we arrived was absolutely wonderful and kind, he helped us get everything settled. He made sure we could use our vouchers for dinner and the women in the restaurant gave us the best customer service I have ever had, and the food was really really good. I love this hotel, the inside was beautiful there was a nice view from the window of Toronto. I would definitely stay here again. We stayed on December 2 2019. We were the three of us girls and they made sure we had a taxi In the morning.",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Convenient location",
+      "text": "Staff was friendly and professional.  I was surprised that they didn't have ear plugs available, being so close to the airport, although our room turned out to be quiet.  Parking was free and very convenient.",
+      "rate": 4.0,
+      "tripDate": " September 2019"
+    },
+    {
+      "title": "Great Stay",
+      "text": "The service on check-in was very good and the staff was very helpful. The service at the bar and food was also very good and the staff again was helpful. I would recommend this hotel as they are business friendly and appear to cater to the business community.",
+      "rate": 5.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "Wonderful facility and staff",
+      "text": "Booked this because of proximity to an event  will book again because it is great. Brand new everywhere. Rooms very up to date. Staff very friendly and helpfulYou must Have a drink at the bar just to meet Erin. Great young lady, helpful and engagingWonderful surprise!",
+      "rate": 5.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "Pleasant stay.",
+      "text": "Front desk staff were welcoming and efficient. The room a good size, quiet and beds were comfortable.Wanted to give a special mention to Krish who was our server for dinner at the hotel restaurant. He was attentive and provided exceptional service!",
+      "rate": 5.0,
+      "tripDate": " February 2024"
+    },
+    {
+      "title": "Great place to stay",
+      "text": "We stayed and used their park and fly service. Rooms were clean. Very comfortable beds. Tv service offers Netflix.  We left our vehicle there for 7 days. No damage. Shuttle service was on time and drove us right to our vehicle.Booking online as easy. There were no unexpected fees. Check in was hassle free. Rooms were ready when we arrived.",
+      "rate": 5.0,
+      "tripDate": " February 2023"
+    },
+    {
+      "title": "Met or exceeded all our expectations",
+      "text": "From start to finish - indeed, even before we checked in - our experience at the Four Points by Sheraton Toronto Airport East was top-notch. We had booked a king room and the customer service manager later emailed asking if we were agreeable to changing to a double queen on an upper floor. I don't know why the hotel needed to change our room assignment, but we didn't have any problem with it. I was impressed by the effort at communication (before emailing, the hotel rep had called my cellphone a couple of times without successfully reaching me. She didn't just leave a voice message but took the time to email.) In my past experience, hotels have made this kind of change at the time of check-in, a kind of take-it-or-leave-it situation no matter how politely it is presented.We just missed the shuttle from the airport to the hotel - it drove past us as we made our way to the pick-up point. I called the hotel immediately and the person who answered put me on hold and called the driver and had him circle back so we didn't have to wait 40 minutes for the next scheduled pick-up. Good service.The hotel is a little bit off by itself compared to other airport hotels, but the location is actually quite convenient for getting around Toronto if you don't want to rent a car. It's one bus ride to Islington subway station and from there, of course, all of the city is easily accessible.The property appears to have been relatively recently renovated. The room was large, not huge, the bed comfortable, the TV big, the wi-fi fast and easy to access. Because we had to drive to Kitchener for a day, we rented a car. Parking is free and the process for registering it was simple.All staff members were courteous and accommodating. The restaurant on-site was lovely and better than I would have expected given the limited size of it's market - basically hotel guests only. There is also a well-equipped gym and laundry facilities.Admittedly, my wife and I are not difficult to please, but I believe even the most finicky guest would be hard-pressed to find anything to complain about in terms of this Four Point's service and facilities.",
+      "rate": 5.0,
+      "tripDate": " October 2019"
+    },
+    {
+      "title": "An unexpected night at this hotel",
+      "text": "Because our flight from Montreal was delayed we missed our connecting flight from Torornto to Manchester.  We were sent by the airline to this hotel.  We arrived at 12.30am stressed and worn out with our 3 children.  The night reception staff could not have been more helpful.  They gave us all toothbrushes and toothpaste and deoderant as our cases were not with us.  They moved things around so that we could have 2 rooms next to each other and explained how to use our airline vouchers to get a meal and breakfast in the morning.  They offered suggestions of what we could do the following day as we had 24hrs to wait till our flight home and booked the shuttle bus for us so that we could go into Toronto for the day then come back to collect our bags later.  The rooms were lovely and clean and fresh.  We had a disabled room and the air con was very noisy but the beds were the cleanest and most comfortable I've ever slept in!  It was fantastic to have a hot shower and we felt human again.  The staff in the resturant for breakfast were amazing.  They were so kind and helpful and really friendly.  All in all they made a difficult situation into a lovely little adventure.  Thank you so much.",
+      "rate": 4.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "We had a very pleasant stay!!",
+      "text": "We checked in late near mid-night due to an out of town dinner engagement, but the front desk was very helpful and had our reservation in order and making the check-in effort less!The room was a bit on the small side but very good lighting and felt comfortable! It would appear that the renovation of the hotel and rooms was rather recent since everything looks clean and fresh! We found a goody bag in our room with a Thank you note welcoming us to the hotel and what a pleasant surprise indeed!We had an early morning meeting to attend so we needed to get up early but the bed was comfortable and we had a decent night rest! We will surely stay here again if and when the opportunity arises. Thank you for such professional and kind service!",
+      "rate": 4.0,
+      "tripDate": " April 2019"
+    },
+    {
+      "title": "Needs Improvement",
+      "text": "We stay January 30 2019. Weather was bad and windy. Each room had wind whistling through very loudly. It was cold so turned the heat up but to no avail. Staff were nice and apologetic. Restaurant my husband liked and he is fussy. I ate most of my meal which was good until I found a hair! They refunded me which redeemed them but not my appetite.",
+      "rate": 3.0,
+      "tripDate": " January 2019"
+    },
+    {
+      "title": "Average ",
+      "text": "It was just what I needed, a place to stay close to the airport. Although not as close as I was expecting with airport in the name. All of the staff were very friendly, decent restaurant on the main level.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "In town for a Toronto Maple Leafs Game ",
+      "text": "The location was near the airport with free airport shuttle. We took a Lyft to town for the hockey game. The hotel is modern and rooms are spacious. They have a restaurant located in the lobby breakfast is extra. The location is a little off beaten path near offices and train tracks. Nothing really around the hotel. It was a nice stay for our needs will visit again.",
+      "rate": 5.0,
+      "tripDate": " November 2019"
+    },
+    {
+      "title": "Love this place",
+      "text": "Had the pleasure to stay in this hotel. Great rooms, great beds, great bathroom, great night of sleep. Very friendly staff. Only thing that is not up to Bonvoi status is the restaurant. The chef obviously does not care about the food quality...",
+      "rate": 5.0,
+      "tripDate": " October 2019"
+    },
+    {
+      "title": "A very nice property !!!",
+      "text": "We had some issues, but the staff went above and beyond to try to appease us. Very clean property. Used to be a Delta I think. Staff very capable. I would stay here again !!!!We got a suite which included a kitchenette sink etc. 2 washrooms. Very ample for 4 people.",
+      "rate": 4.0,
+      "tripDate": " September 2019"
+    }
+  ]
+}

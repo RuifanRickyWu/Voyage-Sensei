@@ -1,0 +1,142 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Hampton Inn & Suites by Hilton Toronto Downtown",
+    "url": "/Hotel_Review-g155019-d188278-Reviews-Hampton_Inn_Suites_by_Hilton_Toronto_Downtown-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 16
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "300 Jarvis Street",
+      "addressLocality": "Toronto",
+      "postalCode": "M5B 2C5",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b1/e6/9e/hampton-inn-suites-by.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Discover us located in the heart of Church and Wellesley, housed in a beautifully restored 1930s building. Positioned just opposite Allan Gardens, the convenience of the light rail mere steps away allows easy access to Yonge-Dundas Square concerts and the vibrant Village dining and nightlife scene, both a mere 10-minute walk away. Delight in complimentary access to our fitness center, WiFi, and daily breakfast. Experience the brightness of our sunlit meeting room and the convenience of a 24-hour business center at your service.",
+  "featues": [
+    "Paid private parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Car hire",
+    "Business Center with Internet Access",
+    "Baggage storage",
+    "Non-smoking hotel",
+    "24-hour check-in",
+    "Parking garage",
+    "Wifi",
+    "24-hour front desk",
+    "Air conditioning",
+    "Housekeeping",
+    "Private bathrooms",
+    "Flatscreen TV",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Good downtown hotel with convenient parking and transit access",
+      "text": "Rooms were nice.  We had two rooms.  One room had a great view of downtown, the other room had a view of a wall (ask for a south-facing room).  Rooms were clean, plenty of shelf space, nice TV, fridge.  WiFi worked very well for us.  All plumbing was low-flow...Breakfast was good.  Coffee was blah but the food was good.  There was a good selection and they seem to rotate every two days.  There's a waffle maker.There is expensive parking at the hotel, but it's sooo convenient.Staff were 5 stars.  Helpful, cheerful, efficient.The hotel is in a good location for transit and driving.  Jarvis is an exit on the highway and it's fairly easy to get on the N-S highway as well.  There is a subway stop (College) two long blocks away and a streetcar stop at the corner.  There are many restaurants and shops (including Metro, a small market) in the area.  On the downside, there were many homeless people in the area but it's mostly students and tourists that you'll see.Price was expensive.  It's downtown Toronto.  There's currently construction nearby (on the north side of the building), but not a lot of external noise.  There was no internal noise at all.  We slept well.",
+      "rate": 3.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Conveniently located",
+      "text": "Its location is convenient by Uber from and to Union (train) Station.Spacious & clean.  Smooth beddings, fluffy white towels, conditioner and body lotion provided.Complimentary breakfast had hot and cold choices; however, the mixed fruits were from cans.  There were fresh apples and bananas.",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Nice Rooms, Great Location, Friendly Staff and Nice Hot Breakfast!",
+      "text": "Hotel was really great. The whole hotel seems to have been recently renovated and the rooms are big and clean. Hotel staff was very helpful and were always happy to help! The included breakfast is way ahead of most hotels for a complimentary breakfast. Hot food and a good selection. The location is perfect, less than 10 minutes from the subway and next to a streetcar stop. Hotel is almost in the heart of downtown so it's easy to come and go as you want during the day. I recommend this place and would definitely like to go back again!",
+      "rate": 5.0,
+      "tripDate": " November 2023"
+    },
+    {
+      "title": "Good Short Stay",
+      "text": "We checked in around 11:30 pm, and the person at the front desk kindly explained the breakfast timings and the amenities available at the hotel. While the view from the room wasn't remarkable, the room itself was nice and clean. Since we were only staying overnight to catch a flight, it was a satisfactory stay. The breakfast was enjoyable, and we found the rooms to be well-maintained.",
+      "rate": 4.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Very clean, very helpful and friendly staff",
+      "text": "Hotel parking is a bit challenging and expensive. The rooms are extremely clean and quite spacious, as well. Breakfast was good and the staff at breakfast is very attentive. They really keep the food stocked and tidy and the area clean. The front desk staff is very accommodating and had great restaurant suggestions. Overall, a perfect Hilton stay.",
+      "rate": 5.0,
+      "tripDate": " November 2023"
+    },
+    {
+      "title": "Great stay",
+      "text": "The location of this hotel is great. I was able to walk easily to banks, grocery stores,restaurants, postal outlets and liquor store.  I've had people tell me this us a \"bad\" part of town, but I never felt unsafe. This property has been renovated and is very sleek and modern on the inside, and is kept very clean.The room was big and very comfortable with most amenities. I say \"most\" because they do not provide drinking glasses. Drinking juice, water or wine out of paper coffee cups is not something I enjoy. :((A typical environmental nightmare free hotel breakfast is included. The amount of paper used for plates, cups and cutlery must be staggering. And you know it's not being recycled given people, including the staff, are throwing it in the trash. The staff were lovely and helpful. I had a great stay.",
+      "rate": 4.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "Ok For One Night",
+      "text": "The layout of this hotel is not like other Hiltons. It seems like it may have been an apartment building previously. The main entrance has 5 stairs. So if you need a luggage cart, you need the staff to unlock a short elevator that brings you down to the main elevators. The elevators are the smallest I have ever been in. The staff was friendly but the hotel does kitchen have a list of local restaurants. One was recommended but when I googled it, it was showing as permanently closed.",
+      "rate": 3.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Good Downtown Hotel",
+      "text": "The hotel staff was very friendly and accommodating to our early arrival. They provided us with extra items we needed. The continental breakfast had lots of food and beverage options, and the fitness was above average. The room was spacious and clean.",
+      "rate": 4.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Perfectly fine for a quick city break",
+      "text": "The hotel was recently renovated, so everything looks fresh and new. The beds are good and so is the walk-in shower. The room was spacious, but a bit Spartan in that there wasn't much decoration, just bare white walls.Convenient location for the gaybourhood, a little further from downtown.",
+      "rate": 4.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Friendly Staff on the Desk",
+      "text": "Hotel is centrally located about 15 minute walk from Yonge street. I arrived late evening and was greeted by friendly reception staff. Received a complimentary upgrade and some free snacks for being a gold member. Room was huge and comfortable. Breakfast was nice, normal standard for a Hampton.",
+      "rate": 5.0,
+      "tripDate": " February 2024"
+    },
+    {
+      "title": "Excellent count on me coming again!",
+      "text": "Wow the front desk staff , Mundeep and Omar were fantastic. The 2 different shuttle drivers were the best I’ve ever had at a hotel. They were so welcoming, happy and helpful. They took care of all of our bags. They came to us, we didn’t have to take the bags to them. I will definitely stay at the Hampton Inn Suites at Toronto airport again. By the way the beds and the furniture in the suite were wonderful!",
+      "rate": 5.0,
+      "tripDate": " November 2023"
+    },
+    {
+      "title": "Exceptionally decent!",
+      "text": "Comfortable with excellent facilities, the Hampton Inn and Suites Downtown provided a convenient location, just a short distance from shops, public transportation, and the city center.The accessibility features were commendable, with a tactile layered ramp, automatic roll-in wide doorway. The multilevel lobby adorned with modern furnishings presented a slight chalkenge. The locked indoor portable access elevator was a minor inconvenience, But the staff's assistance, including a responsive breakfast team, created a positive experience.The well-appointed wheelchair-accessible room amenities that included the bed, desk, microwave, and mini refrigerator. The most important thing to me, the babathroom although spacious, had some design quirks, with fixtures and the towels positioned too high or too low for wheelchair users. However, the staff's exceptional  responsiveness, including adjusting the towel height, contributed to a satisfactory stay.Notable aspects included a large television offering both French and English channels, a water-resistant and tactile floor in the bathroom, and an open floor design under the beds for added space. I dont use a hoyer lift but the storage space under the bed is important to those who do. The hotel's breakfast, inclusive for three hours daily, featured tasty scrambled eggs and poppyseed coffee loaf.The surrounding upscale neighborhood, near Toronto Metropolitan University Campus, churches, and the impressive grocery store \"Loblaws,\" enhanced the overall experience. With a business center, gym, and parking facilities, the Hampton Inn and Suites Downtown proved to be a delightful choice, prompting plans for a return visit in the upcoming Spring or Summer.",
+      "rate": 5.0,
+      "tripDate": " January 2024"
+    },
+    {
+      "title": "Nice stay for our purposes",
+      "text": "We chose the Hampton Inn Toronto Downtown because of its proximity to a summer course we were checking our daughter in to.  For that reason I give this hotel 5 stars.  If I were here visiting, just to see attractions, and expected to walk everywhere, I would probably choose a hotel closer to the center of sightseeing.  (why 4 stars comes in to play).  That said, this location is still within walking distance of sights, just longer walks, which we enjoy.The rooms are clean and the bathrooms are totally functional.  I appreciate that the showers have a glass enclosure.  For those who use a diffuser at home, and hate not having one when using hotel blow-dryers, this hotel is for you.  They provide attachments for the hairdryer.  The thermostat in the rooms works well.  You can heat up and cool down the room quickly.  They provide a small refrigerator and small microwave as well as coffee in room.  We stayed in a double queen room and there was plenty of room to move around, as well as two luggage racks for storing luggage.  As with most Hampton Inn's, breakfast is provided and has a good selection.  Coffee, tea and hot chocolate, as well as apples are available all day.  One reviewer commented on views.  To make it easier, the rooms ending in 00 and 02 face the Main Street (Jarvis) and the park.  Those ending in odd numbers have some kind of city view.  Those ending in even numbers look like they face the wall of the next building.  Just food for thought when reserving.  We stayed in 705.  All was good for us.",
+      "rate": 4.0,
+      "tripDate": " July 2024"
+    },
+    {
+      "title": "Disappointing breakfast",
+      "text": "We are a very frequent guest of Hilton Group and have been staying in many Hampton Inn's. Last one was also in Canada, just before this one. Day and night difference for breakfast. The incredible amount of waste created by litterally having everything in carton or plastic, including the boiled eggs. What a horrible experience, also to have to eat with single use \"silverware\".Also the orange juice...same machine as yesterday's Hampton Inn in Vancouver...but more...tasteless.Also..by default housekeeping every 2 days...really? Seems like Corona generated a cost saving opportunity.",
+      "rate": 3.0,
+      "tripDate": " February 2024"
+    },
+    {
+      "title": "Toronto hotel review",
+      "text": "Great accommodation. Clean and good food. Pleasant staff who were very accommodating. My friend was able to use the conference room for work and Dan was super helpful. Central location too. Spacious rooms and nicely decorated. We would go back for sure. Parking could be cheaper though.",
+      "rate": 5.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "Disappointing on Many Levels",
+      "text": "Where to begin ... the front desk staff were very friendly and the breakfast was about to expect from a Hampton Inn, but there are a number of aspects about this brand new hotel that are seriously disappointing ...1. Parking was $45 per night ... I ended up parking about 5 minutes walk away at The Keg for $10 for most of the weekend; I get that covered parking will be more expensive but this is Jarvis Street (not exactly core downtown).2. The room door didn't lock on its own ... you need to make sure to pull / push it tight  which is definitely not safe.  And there are no warnings about it.3. The rooms are very cold and stark; yes I know it is a Hampton Inn but this one was particularly so; the bathroom was a long distance from the heating unit, directly on an exterior wall and separated by doors by the sink area, and it was unpleasantly cool in there when taking a shower. The overall layout of the room was inefficient ... huge wasted spaces and yet a quite small shower.4. And finally, the cleaning staff showed up at 8:45am on a Saturday morning to clean the room and woke us up ... who does that?  Yes, I forgot to put the \"Do Not Disturb\" sign up, but 8:45am seems excessively early to be cleaning rooms on a Saturday ... focus on people who have already checked out.",
+      "rate": 2.0,
+      "tripDate": " December 2023"
+    }
+  ]
+}

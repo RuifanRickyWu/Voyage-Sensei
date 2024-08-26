@@ -1,0 +1,195 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Admiral Saint George B&B",
+    "url": "/Hotel_Review-g155019-d672663-Reviews-Admiral_Saint_George_B_B-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 31
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "305 St. George St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5R 2R2",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/25/ac/46/admiral-saint-george.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Non-smoking hotel",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Best Location for Everything TORONTO",
+      "text": "Classic Bed and Breakfast with old world charm. Bedroom was large and very comfortable. Located in high toned residential area convenient to the Museum and University of Toronto. Healthy breakfast with access to beautiful covered balcony. Best location close to subway systems which gave me easy access in 15 minutes to my Convention Center.",
+      "rate": 5.0,
+      "tripDate": " April 2017"
+    },
+    {
+      "title": "First B&B Experience",
+      "text": "It's like staying at Grandmas House back in the day. Charming atmosphere. Lovely breakfast on raised back veranda.  5 min walk to DuPont Subway.  Wifi seemed little weak in my room on second floor. Shared bathroom clean but not emmaculate. Room was cozy not large again clean but not perfect, Host was nice and obliging.",
+      "rate": 4.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "A great B & B!",
+      "text": "This is a great bed and breakfast. It was very comfortable and quiet.The breakfast was great with a wonderful selection of fruits,boiled eggs, yogurt, pastries. coffee, tea.  Our gluten allergy was even accommodated. Tony was very friendly and told us about the city  ie where to go, what to see and  how to get there. The house is so unique with an amazing atmosphere. I loved the Victorian feel. We absolutely enjoyed breakfast on the balcony. The location is prime with a subway very close by. Overall an excellent experience and we will definitely be back.",
+      "rate": 5.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "unsettled",
+      "text": "We were absolutely astonished at how rude the owner was. So much so that we believed he was joking at first. The fact that he did not \"feel like\" fixing a broken doorknob that left a hole (doorknob-size) in the door (and left the door without a knob and lock-free) was perplexing. But the inappropriate comments that followed tipped the experience into bizzarre. His behaviour stands out as the most un-called-for I have witnessed in 24 yrs of working in the service industry and of frequenting restaurants, b&b's, etc. Unsettling. As a side-note, the room smelled musty and a layer of dust was visible on the bed-frame but had the service been nice or even borderline normal I would not have bothered to review it or even mention it here.",
+      "rate": 1.0,
+      "tripDate": " October 2010"
+    },
+    {
+      "title": "Great Location, wonderful host BUT",
+      "text": "This is an old house. Not an elegant or refined establishment, just an old house, that needs lots of maintenance.  It is run down and Tatty. In my room the curtains were frayed and the windows sashes peeling with paint and torn flyscreens. The room was not clean but it had nice towels and bed linen. The bed was some composite of mattresses and futons piled on top of each other. Breakfast is served in the kitchen, a very small cramped room but was surprisingly lovely with beautiful china and glassware. My host was friendly, helpful and courteous. However, my room was not cleaned or the towels changed. Something I have never encountered at a B&B anywhere in Canada, USA, UK ,Europe and Australia.",
+      "rate": 1.0,
+      "tripDate": " February 2017"
+    },
+    {
+      "title": "Never again!",
+      "text": "We stayed here in the Tower Room for 4 nights - the longest 4 nights of my life!!When we arrived I was not impressed by the outside appearance - very run down and no B & B sign.  We could not get access at the agreed time as it appeared the owner's car had broken down and he had no way to contact us for which he gave us a little refund.When we entered the hall I noticed his living quarters looked really nice but the hallway was rather dreary though he did have some sweets for us each day on the hall table.As we started to ascend the stairs it was rather dull and uninviting and then I could see the cobwebs here and there  -  not a good start.The bedroom was big but very run down - the furniture had been nice once upon a time but now neglected and very dusty.  The 'stuffing' was falling out the bottom of the settee and the arms were frayed. The sheets and valance on the bed had not been ironed though the bed was comfortable.  One of the festoon type curtains had a tear in it held together with cellotape - can you believe it.  Others had what looked like grease marks.There were a lot of electric cable lying along the floor plugged into adaptors for various lights etc.  These were intermingled with the fluff that was lying about and also a huge hole in the wall at the side of the bed.   The window sills had not seen paint in many years.The wash basin was in a unit in the bedroom and the bath with shower over and toilet were in a small bathroom.  The shower rail was roughly 2 ft square in the bath - either you showered with the curtain sticking to you or without the curtain splashing water everywhere.  The bath towels were anything but generous.   The shampoo and shower gel were household size and appeared to have been around for a long time.On one day the towels were not replaced and the bed was never made.The breakfast was in a small kitchen on the floor below.  The first timeI have ever had to make my tea and toast myself in a b and b!   The bacon and egg were left in covered dishes and there was ample fruit juice and yogurt.  There are only two very small tables for breakfast in the winter time - the people at the next table would be practically sitting on your knee.   Thankfully there was no one else there while we stayed.I had a peek in the room on the floor below us that has a shared bathroom and it did look in better condition than the one we had.This house is in a very nice area of the city with many good restaurants nearby.  Also close to two subway stations.Do take note that the photos displayed on the website were taken in 2008 and 2010 and I reckon nothing has been done in the tower room since then.It is at the cheaper end but you would be much better paying a higher rate for somewhere else.",
+      "rate": 2.0,
+      "tripDate": " December 2016"
+    },
+    {
+      "title": "horrible",
+      "text": "freezing cold accomodations (room heater requried),  overpaid for the room that i got, no microwave or coffee maker available  (can you imagine)..  an added gift: a nosy and nagging owner,....   obviously i not recommending this place...",
+      "rate": 1.0,
+      "tripDate": " January 2009"
+    },
+    {
+      "title": "Superb place, great price and convenient.",
+      "text": "This BB is located in an old house in the Bloor Yorkville (Annex) district. Very conveniently located, close to a Metro. The house is decorated in an old fashioned style, the street is lined with trees.  We were in a very spacious room on the third floor, decorated old fashioned style. The washbasin was in the room, and the toilet and shower were in an ensuite. The shower was very small, but worked. .Breakfast was plentiful, self service. No cooked meals but was fine as the selection of fruit, cheese, boiled eggs, muffins, bread, pastry, yogurt and cereals,  was more than enough to prepare an excellent breakfast. The host Gerald was friendly, non intrusive at all, explained the city upon arrival as well as the complex parking rules in the nearby streets. We chatted each morning over breakfast we got to know Gerald a wee bit and thoroughly enjoyed his company. Breakfast was on the veranda overlooking many trees and was amused watching the squirrels jumping from tree to tree.We stayed 4 nights.  Payment is on a cash only basis,  upon arrival.The price was very fair. Overall a very pleasant experience.",
+      "rate": 5.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "Lacking the B&B feel",
+      "text": "We recently stayed at this B&B and unfortunately it really lacked the B&B feel, homey, welcoming and friendly.  I was expecting something like home, however, the overall feel of the home was dark, and uninviting.  Gerald was very friendly on the phone, however, upon our arrival we felt like intruders.  I would not recommend this B&B",
+      "rate": 2.0,
+      "tripDate": " August 2013"
+    },
+    {
+      "title": "Will definitely return",
+      "text": "We very much enjoyed our stay. The owner was very accommodating when we were in an urgent situation and we felt very cozy and well tended to during the snow storm. The king bed was very comfy, the breakfast was simply superb, and the location was perfect because we have a sweet granddaughter nearby! Will definitely come again.",
+      "rate": 5.0,
+      "tripDate": " February 2013"
+    },
+    {
+      "title": "Nice Bed 'n Breakfast",
+      "text": "The property was in a very central location, quiet and close to amenities. Parking was available right in front of the B&B, but it was never available when we needed it. Otherwise you had to park in a nearby lot costing $12 for 24 hrs of parking. Not bad for Toronto.We chose the \"Tower\" room as it was the only one with an ensuite bathroom. The room was on the 3rd floor and overlooked the tree lined street. The king bed was comfortable and the room had air conditioning plus a ceiling fan. The B&B was furnished with antiques and I was a little worried as some looked rather fragile.The breakfast was served from 8 to 10am and was help yourself. There was a variety of cereals, breads, hard boiled eggs, yogurt and fruit. We really enjoyed eating our breakfast on the balcony. The price per night was certainly attractive compared with nearby hotels.",
+      "rate": 4.0,
+      "tripDate": " June 2015"
+    },
+    {
+      "title": "Very good B&B",
+      "text": "The B&B was just round the corner from a Metro station, easy to get to and from the airport and into the city and was in a nice quiet and safe area. There were a few shops close by and a pub which served good food.I enjoyed the breakfasts which was help yourself and also there were snacks and access to the kitchen for tea coffee etc at all times. The bedroom was large and nicely decorated with old fashioned furniture which I loved, there was a wash basin in the room and the bathroom across the hall.Gerald was kind and helpful and a delight to know. The other guests that we met at breakfast were all friendly and interesting.I would not hesitate to recommend this B&B.",
+      "rate": 5.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "Nice BB, good location, fair price, excellent breakfast",
+      "text": "This BB is located in an old house in the Bloor Yorkville district. Very conveniently located, close to a Metro station. The house is decorated in an old fashioned style. We were in a very spacious room on the third floor, also decorated old fashioned style. The washbasin was in the room, and the toilet and shower were in an ensuite bathroom. The shower was too narrow. Breakfast was excellent, self service. No cooked meals but it was OK as the selection of fruit, cheese, boiled eggs, muffins, bread, pastry, cereals, etc was more than enough to prepare an excellent breakfast. The host Gerald was friendly, non intrusive at all, explained the city upon arrival as well as the complex parking rules in the nearby streets. He gave me some coins for the parking lot and offered me a spot in his own house parking space when it was available. Note that payment is demanded in cash upon arrival (this is mentioned when doing the booking but not convenient when coming directly from the airport as this is one of the worst places to change currency). The price was very fair. Overall a postive experiece.",
+      "rate": 4.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "Excellent place to stay & great value",
+      "text": "We were 2 women attending a conference in downtown Toronto.  Conference hotel was really expensive & all booked.  We found Admiral Saint George on-line for less than 1/2 the price of the hotel & decided to book for 2 nights.  Can't say enough good things about this B&B.  Rooms were clean & decorated for the ambiance of time the house was built.  Plush linens & towels.  Price was great.  Location was close to TTC in a quiet, safe neighborhood.  We did not have the breakfast, as this was taken care of at the conference, but we did see there was a beautiful balcony that you could sit out on if you choose.The owner, Gerald could not be more accommodating.    Easy booking via e-mail.  Very knowledgeable & helpful about local transit, etc. He went the extra mile to make us comfortable.Would definitely stay here again or recommend to friends / co-workers.",
+      "rate": 5.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "A B&B even a B&B hater could love!",
+      "text": "I travel frequently and am definitely an anonymous Holiday Inn person, the more plastic the better, so that if I like a B&B, it really must be something special!  And it was: first of all my room: gorgeous, complete with an enormous bay window and a 4 poster bed.  Exceptional linens, including some of the thickest towels I've ever seen, and wonderful decorations and furniture.  The breakfasts were amazing: bagels, croissants, English muffins, cheese, fruit, jam, eggs, sometimes home-baked goods, something different every morning.  We would make ourselves tea and coffee in the afternoons, a plus during the cold Toronto winters.  The house was a reflection of its host, Gérard, who takes pride in his home and his work.  Indeed, he was lovely: there when we needed him, helpful with information about where to eat, where to go, etc., but totally non-invasive.  Another plus: I was traveling with a group of musicians, not all of whom can speak English, so that having a perfectly bilingual host was very useful. Am thinking of planning a family holiday to Toronto, just so that my daughter and husband can stay in this B&B!",
+      "rate": 5.0,
+      "tripDate": " November 2013"
+    },
+    {
+      "title": "Excellent",
+      "text": "Our stay with Gerald was like a trip back in time. The house is from the 1900s and the decor is matching it perfectly. We stayed with three adults in the top floor suite (2 people) and a small room right next to it (1 person). The breakfast is a buffet style and Gerald changes the items on a daily basis. Everything was clean and well taken care of. Gerald also gave us tips on where to go and what to do. It's close to two metro stops so you can easily get around while being in a quiet neighborhood.",
+      "rate": 5.0,
+      "tripDate": " April 2013"
+    },
+    {
+      "title": "Great value and location. A good, no frills, cheap place to stay in T.O.",
+      "text": "Stay here often for business and pleasure. I find the hosts very accomodating with arrival times. If you let them know what time you are arriving, they will have keys taped to the front door for you. Advertised as a 3 minute walk to St. George Subway station. It's closer to a 15-20 min walk, but it's a beautiful old neighbourhood and those 15 minutes will take you to the Subway station or the trendy Bloor St. area of the city.Rooms are cozy and comfortable, breakfast is continental serve yourself, and the hosts are friendly. Relaxed atmosphere and an enjoyable place to stay if you're looking for something simple and not too extravagent. And the prices can't be beat!",
+      "rate": 3.0,
+      "tripDate": " January 2009"
+    },
+    {
+      "title": "Rare gem",
+      "text": "We are frequent visitors to Toronto for business combined with pleasure. This trip we decided to try a bed and breakfast. When I saw our room with a large canopy bed and fireplace and a huge bay window I just wanted to stay and relax after our long drive. My husband needed to eat and our host had recommended several places to dine, the closest being an English pub which turned out to be excellent, with a huge choice of menu for all sizes of appeties and tastes and fun service. For dinner the other two nights we went to the local French Bistro just a block away. Again excellent food with a great atmosphere. On our last night we indulged ourselves in their wine cellar as it was only a short walk back to the bed and breakfast and not have to worry about driving after a few glasses.  We had parked our car for the duration of our stay, across from the house, a bargain  at $10 per day with unlimited in and out priveliges.We took great advantage of the guest kitchen. My husband likes his first coffee of the morning at 5.30 am and his breakfast at 8 am. The host set up the coffee for 5.30 am so my husband was happy and nobody else was disturbed.The breakfast was delicious. The fresh croissants are hot out of the oven and with the home made whiskey marmalade it is just the thing to get one started in the morning.While my husband attended to business I was free to shop in the fab boutiques in Yorkville. Many of the guests we met were regular visitors who had made the house their base when in Toronto while on business or for the Arts. With my husbands new work which involves a lot of travel I look forward to our next stay at the Admiral Saint George.",
+      "rate": 5.0,
+      "tripDate": " April 2011"
+    },
+    {
+      "title": "Can't wait to return",
+      "text": "Stayed here 5 days with travelling companion. We had large room with two beds, and lots of windows. Easy access on foot to Casa Loma Museum and Shoe Museum. Great breakfasts in  charming breakfast room. We did\"nt have a car but the few minutes walk to the subway gave us access to CN Tower, Science Center and Eaton Centre. Very helpful host with lots of maps and travel guides and advice on where to eat.",
+      "rate": 5.0,
+      "tripDate": " March 2011"
+    },
+    {
+      "title": "Lovely house with relaxed atmosphere, in lovely area with just a 5-minute walk to subway.",
+      "text": "What makes B & B perfect is the direct and personal involvement of the owner. The careful attention to detail from Gerald made this a pretty much perfect example. He really cared about everything. My family and I were pleasantly surprised with the beautiful home and wonderful attention to detail. Gerald was a wonderful host who made us feel special. The room was clean with gorgeous vintage furniture. I loved the Victorian feel. The breakfast was fresh and delicious with a variety of pastry, yogurt, fruit, toast, etc. available. It was nice to eat breakfast out on the balcony.We will certainly make the Admiral St. George our first choice when visiting Toronto and look forward to our next stay.",
+      "rate": 5.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Great location & more affordable then a hotel",
+      "text": "My friend and I stayed here over the weekend in the twin room.  Nice large room, comfortable beds, cable TV, WiFi (which isn't strong).  We had a sink in our room and the shared bathroom right across the hall.  The water pressure in the shower is very low but the house is almost 100 years old.  Gerald the owner is super nice & friendly.  Breakfast served was muffins, bagels, cereal, croissants, hard bowled eggs, cheese, fruit, oatmeal, coffee and orange juice.  Nice to have this prepared for your day.  It was too cold to eat on the balcony, but it looks really nice.  Old house, but lots of charm. Very quiet at night, no noise on the streets as our room faced the back.   Felt like staying in someone's home then staying in a hotel.  I enjoyed my time there.",
+      "rate": 4.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Super Friendly Clean and Comfortable",
+      "text": "Lovely house with relaxed atmosphere, in lovely area with just a five minutes walk to subway. Easy walk to Bata Shoe Museum and Royal Ontario Museum. Convenient to all amenities including Whole Foods. Staff are very friendly and inviting.Definitely would stay again.",
+      "rate": 5.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "Great stay. comfy beds and clean",
+      "text": "Had a wonderful three night stay Sept. 2016Stayed in the Twin room. The beds were comfortable and the shared bathroom was always available when needed. The breakfast was wonderful with a variety of pastry, eggs, yogurt, fruit, toast, cereal and oatmeal available. it was nice to eat breakfast out on the balcony. Gerald was a wonderful host...friendly but not intrusive. Restaurants just at the end of the street were good. little store just a few steps away. DuPont Subway station only three blocks away. Wifi worked great. The water pressure is a bit low in the shower next to the kitchen but it is an older home. To be expected. had a great time visiting for Fanexpo and would recommend to anyone.",
+      "rate": 4.0,
+      "tripDate": " September 2016"
+    },
+    {
+      "title": "Very reasonably priced and homey",
+      "text": "Our family of three stayed in the room next to the breakfast area, last winter. It was cozy, and Gerald, who runs the inn, made us feel at home. The shared bathroom worked out, since we were the only guests on our floor at the time. The inn is in a very nice neighborhood, about a block away from a subway stop, which was super convenient. And there is an excellent convenience store at the end of the block that served us well when we were heading back late in the evening and needed a reasonably healthy snack. There were other food options as well.The parking took a bit of thought, since we had to remember to move our car off the street, but we were allowed to park in a pay lot about half a block away, and it wasn't expensive (maybe six dollars for 12 hours--I can't recall exactly). All in all, not a big deal.",
+      "rate": 4.0,
+      "tripDate": " February 2016"
+    },
+    {
+      "title": "COMFY bed, great view, attention to detail, GREAT location",
+      "text": "I was in Toronto with my young daughter and this B and B was in a great location for the subway and walking. We felt safe walking around, even after dark. The room was spacious and comfortable and had antique decor to match the age of the house. There was a lot of attention to detail - you can tell that the owners take pride in what they do. We mostly dealt with Gerald and he was very nice!! We felt like he really cared about everything.",
+      "rate": 5.0,
+      "tripDate": " April 2016"
+    },
+    {
+      "title": "Great B&B in Annex",
+      "text": "We had the twin room next to the breakfast area.  The room is large and the beds very comfortable.  Shared Bath is right across the hall.  Breakfast is large varied and continental.  Only one window had a screen but the overhead fan was great.  Would definitely stay again.",
+      "rate": 4.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "A gem of a B&B in downtown Toronto",
+      "text": "Stumbled upon the Admiral St. George while trying to find reasonably priced accommodations in the vicinity of the University of Toronto.   Stayed for 9 nights and enjoyed all aspects of the stay.  The owner (Gerald) was friendly, helpful and obliging.  Many of the other guests were repeat customers.   The rooms were clean and comfortable and the house had lots of character.    Breakfast on the balcony was a treat and the food was varied, nicely presented and plentiful.   I will certainly make the Admiral St. George my first choice when visiting Toronto.",
+      "rate": 5.0,
+      "tripDate": " September 2015"
+    }
+  ]
+}

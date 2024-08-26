@@ -1,0 +1,277 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "InterContinental Toronto Centre, an IHG Hotel",
+    "url": "/Hotel_Review-g155019-d181962-Reviews-InterContinental_Toronto_Centre_an_IHG_Hotel-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 3495
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "225 Front Street West",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 2X3",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b3/d4/91/intercontinental-toronto.jpg?w=500&h=-1&s=1"
+  },
+  "description": "InterContinental Toronto Centre is set in the heart of the financial district in upbeat Toronto. Just steps away from the CN Tower, Scotiabank Arena, Rogers Centre, and Ripley's Aquarium, our four-diamond hotel boasts penthouse-like suites, an indoor saltwater pool, gourmet restaurant, state-of-the-art fitness centre, 8,000 sqft serene spa, and exquisite meeting spaces. Unwind at this urban oasis after a day of exploring all our vibrant city has to offer, whether here for business or leisure.",
+  "featues": [
+    "Paid private parking on-site",
+    "Wifi",
+    "Pool",
+    "Fitness Center with Gym / Workout Room",
+    "Bar / lounge",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Airport transportation",
+    "Business Center with Internet Access",
+    "Parking garage",
+    "Hot tub",
+    "Indoor pool",
+    "Heated pool",
+    "Fitness / spa locker rooms",
+    "Sauna",
+    "Restaurant",
+    "Breakfast available",
+    "Breakfast buffet",
+    "Breakfast in the room",
+    "Complimentary Instant Coffee",
+    "Car hire",
+    "Taxi service",
+    "Conference facilities",
+    "Banquet room",
+    "Meeting rooms",
+    "Photo copier / fax In business center",
+    "Spa",
+    "Couples massage",
+    "Facial treatments",
+    "Full body massage",
+    "Manicure",
+    "Massage",
+    "Steam room",
+    "24-hour security",
+    "Baggage storage",
+    "Concierge",
+    "Convenience store",
+    "Currency exchange",
+    "Gift shop",
+    "Newspaper",
+    "Non-smoking hotel",
+    "Shops",
+    "ATM on site",
+    "Doorperson",
+    "First aid kit",
+    "24-hour check-in",
+    "24-hour front desk",
+    "Dry cleaning",
+    "Laundry service",
+    "Ironing service",
+    "Soundproof rooms",
+    "Air conditioning",
+    "Housekeeping",
+    "Room service",
+    "Safe",
+    "Coffee / tea maker",
+    "Flatscreen TV",
+    "Complimentary toiletries",
+    "Iron",
+    "Minibar",
+    "Refrigerator",
+    "On-demand movies",
+    "Radio",
+    "City view",
+    "Landmark view",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Would Definitely Return to This Hotel",
+      "text": "We just completed a long weekend stay for our anniversary and had a great visit. The Intercontinental is lovely and well maintained. The staff members were all friendly and helpful. We were upgraded to a junior suite and it was large and had great views of the lake and the CN tower. The bed was comfortable and the room very clean. There was daily housekeeping with excellent attention to detail. We had access to the club lounge and the concierges there were great. Breakfast was hearty and the evening \"snacks\" were enough for a meal.The hotel is in downtown, easily walkable to the lake, the hockey hall of fame, the market and many restaurants.We would definitely stay here on a future Toronto visit.",
+      "rate": 5.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Quite Impressed",
+      "text": "I stayed at InterContinental for a conference.  The hotel is 2 blocks to the left of Union station and easily walkable from there.  The room was clean and very comfortable with high thick mattress and soft sheets.   Plenty of clean white towels were provided along with items such as cotton pads and nail file.  Closet had enough hangers and electronic safe.  Shower was huge and walk in. I liked the toiletries in larger containers.  You could tell thought had been put into the details of the room which I very much appreciated. Colours were neutral and relaxing. Elevators were fast. Staff friendly and efficient. Would define stay there again.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Excellent Stay!",
+      "text": "I have travelled extensively and I had the pleasure of staying at this hotel this week with my grandchildren. This hotel excels. The staff go above and beyond the call of duty.  The location is great, the rooms are very clean and Covid precautions are taken seriously. The staff are beyond excellent, from check-in, I was graciously given early check in and an upgrade was given to accomodate . I was also given a late check out so that the grandchildren could enjoy the pool one last time.(Evangeline and Jorge were most helpful)  The housekeeping staff ( Emelyn, hope that is correct) were great going beyond to make sure we had everything we needed, including bringing in a microwave and a Keurig coffee maker. The pool staff again were wonderful in making sure that I had an appointment to use the pool with the grandchildren and keeping in mind Covid protocal.",
+      "rate": 5.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Gold Elite Membership has zero value. Mediocre service",
+      "text": "I have stayed at over 100 hotels in over 70 countries.  Many were amazing, superb. This one is mediocre, almost at all levels in terms of service and membership benefits. I am a Gold Elite member with IHG. Gold Elite membership with IHG hotels is of zero value. No breakfast.  No late check out at 4 PM. No water bottles in the room, you have to ask for it and the first suggestion they gave me was to use tap water.  Fridge in the room has its handle broken. No room service, you have to ask for it in advance. Covid-19 changed a lot of things but we cannot attribute every shortcoming, especially service and attitude, to it. To have a 4 PM check out, which is 2 hours extra, they asked for CAD 50 (plus tax). Reception / check-in staff is not at all pleasant to speak to or work with. During my current trip to Canada I stayed 13 nights at a superior chain in Toronto and Vancouver, I am Life Time Platinum with, and 2 nights at this hotel. A huge difference in quality, attitude, membership benefits and service. For refined stays with elegance and good service, I would not recommend this hotel. Location is good, thus the 2 stars.",
+      "rate": 2.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Medicore and Over Priced",
+      "text": "The hotel is in downtown Toronto, so I would expect to pay $300 or so a night.  The actual price was $550.  The room was quite large with two queen beds and very basic neutral decor.  They charged $30 a night for a third person in the room, but there were only two glasses and two bathrobes; nothing extra for the third person.   The bathroom had no fan, the tub was slippery and there was no bath mat, and the tub was not cleaned daily.  Shampoo, conditioner and lotion were in 450 ml bottles and there was a carefully worded warning printed on paper saying that you will be charged if you take them home....even though they've been used by others and are not full.   There are no vending machines for soft drinks or snacks in the hotel.  (There's a convenience store a few steps to the left of the front door that is open long hours.  The hotel staff won't tell you about it; they want you to use the over-priced mini bar.)  There is no info about the hotel in the room; you have to scan a qr code or call the desk for information.  The pool is nice and there is a spinner to dry suits, but there are no change cubicles, so you have to change in a room with others of the same gender.  At the restaurant a 2 egg breakfast with toast, meat and hash browns is $24 and coffee is $6.   We ate at the food court that is in the basement of the building across the street.   In general, if this were a moderately priced hotel, I'd give it a better rating, but for $550 a night I expected a LOT better.",
+      "rate": 3.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Family Vacation - Toronto",
+      "text": "Just checked out today from this hotel. I was really disappointed from their poor service. We stayed 3 nights there, they cleaned the room once after we had to call them to do so. This is unacceptable from a well reputable hotel chain like Intercontinental. I want to give it 1 star but I gave it 2 by respect to the Intercontinental hotel in Montreal, my hometown, which is one of top hotels in the world. All in-room services like fridge (chocolate, snacks, drinks, etc. ) and coffee/tea machine were removed from the room. The room service for food is really on demand in advance as if they have to order it for you from another restaurant. They blamed it on COVID. Please gimme a break!!! Who you're fooling. They are finding stupid reasons to cut cost and still charging clients full price.The room and its bathroom were so old, I felt that I went back to the 1990s as if time has stopped in this hotel. The bathtub was yellowish as it aged and its edges are poorly fixed with silicon. Really appalling!!!!And by the way, it was not cheap at all, $228 a night. Never again....",
+      "rate": 2.0,
+      "tripDate": " August 2020"
+    },
+    {
+      "title": "Nice hotel",
+      "text": "Just came back from here , what a great hotel . The Staff were very helpful and friendly and the rooms were in comparison to some i've stayed in south of the border were huge and very spacious . The whole hotel was spotlessly clean and very well maintained , our room was cleaned daily . There was one or two minor faults which wouldn't warrant a bad review , the TV stations in the room were not the best choice for us personally and the Mini bar was expensive but they're the only very minor and insignificant faults . All in all a great hotel and we will be back .",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Clean and comfortable hotel, centrally located",
+      "text": "I stayed here for two nights in March 2020 right before COVID broke out, so my review will be based on the hotel pre-COVID. Overall, my stay was enjoyable. The hotel is centrally located, right next to Union Station and across the street from the Billy Bishop Airport shuttle. I remember the valet was a little less polished and closed the door on me before I got out of the car, it's a minute detail but these little things do matter at a property like an Intercon.The hotel itself is connected to the PATH so it was easy getting around downtown while staying indoors. My room had two queen beds, everything was clean and worked as expected. I think there are several options at this price point, nothing special jumped out at me about this property.",
+      "rate": 4.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Comfortable week.",
+      "text": "Check in was quick and easy . Our room was clean & comfy with some great views of the CN Tower, Aquarium & lake.House keeping was done daily and if we did require any thing extra they acknowledged the request & bought items to the room.All was quiet, we didn't cross paths with anyone else on our floor or hear any noise.This accommodation suited our needs for our Christmas stay.",
+      "rate": 5.0,
+      "tripDate": " December 2021"
+    },
+    {
+      "title": "Family weekend ",
+      "text": "We have chosen this hotel for our past few visits to the city.  It has a central location that allows our family to walk to any museum, theatre or gallery.  It’s close to all the sports arenas and so many fabulous restaurants. Rooms are clean and staff is always friendly.",
+      "rate": 4.0,
+      "tripDate": " July 2019"
+    },
+    {
+      "title": "Day Spa day passes only $50+ for locals",
+      "text": "Spa review: Debbie and Nadine are so warm and hospitable. RMT massage therapist Jonievy did a very good job. $220.35 including tax for 50 minutes Swedish massage. Non-registered massage is about half the price. Spa lounge has small dining tables for enjoying tea and fresh fruit (oranges, bananas and apples) but private party had their catering delivery there so I was moved away by manager.Shallow cool pool with massage rainfall feature, ladies hot steam room, and large coed hot tub jacuzzi were all terrific. There are only 7 loungers, some with side tables, and 2 armchairs near the pool. Unlimited self service towels! Byredo shower gel, shampoo and conditioner in 2 shower stalls but no real privacy as the only privacy is in a toilet stall. You basically have to dry off and change in front of everyone. The locker room got extremely crowded as it's very tiny. I recommend going on a weekday as everything is cheaper. Locals can purchase a day pass to the spa for $50 plus tax with unlimited use of the water therapies and access to the spa lounge with its refreshments. Valet parking is free! Don't believe the valet guy when he says you are limited to 3 hours... That's not true.There are some lovely unusual self care products for sale near the cash.",
+      "rate": 5.0,
+      "tripDate": " November 2023"
+    },
+    {
+      "title": "Great potential but needs better communication…",
+      "text": "We stayed here recently for a dance competition so had family of 4 in the room with two queen beds. Here are the pros and cons…Pros:Exceptional customer service, always very pleasant and they tried to make us happy as possible.Clean, quiet rooms and comfortable beds.Lots of restaurants in the area, great location and attached to the Metro Convention Centre for events. Cons: Seemed disorganized and communication varied between personnel - this could be from the pandemic, maybe they were not quite prepared for the influx of people but all should be on the same page (this was main reason for rating).Fridges are not standard in the room, you must rent these. There is a minibar but it comes fully stocked  and you are charged for all items used. I feel that fridges are essential, particularly when travelling with family.Not enough USB ports or outlets; most families travel with multiple devices and we were scrambling to find places to plug in. FYI - valet parking is $50 and if you opt out of that, there is outdoor parking beside the hotel for $32 but you do not have in/out privileges. We went with the valet option and they were great. We still had fun though with the competition; hopefully we will stay again in the future once the kinks are worked out :)",
+      "rate": 3.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Convenient location and great hotel.",
+      "text": "This hotel is located just a few minutes walk from union station which is very convenient. It is in a slightly quieter area of Toronto but at the same time right by the CN tower and Ripleys aquarium. If you ever get lost, just head towards the CN tower and you will get back to the hotel. The hotel clearly take covid seriously, there are plenty of hand sanitizer stations everywhere, our room was cleaned very well every day.  Always had a good nights sleep on the bed. The pool and hot tub are great and operate on a first come basis, which was no issue because it seemed quiet at this time. You get bath robes and slippers in your room. You also get a Keurig machine and the capsules are restocked every day. The room also has a mini bar, we didn’t use it (as with every hotel mini bar, it’s expensive) but convenient just in case. The restaurant and bar is currently only open Thursday-Sunday and offers a small amount of food options currently, but ok if you don’t want to leave your room (with room room service) or the hotel. We would definitely choose to stay here again if we are in Toronto.",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Perfect for Downtown Toronto Attractions",
+      "text": "This is a beautiful hotel with super quiet rooms and an unmatched location for anything you plan to do in downtown Toronto.We stayed in two rooms with a \"city view\".  The rooms were clean, comfortable, quiet, and well-equipped.  The view during the day was so-so, but really beautiful at night.  Every interaction we had with the staff was pleasant.  Parking is $35 per night, but is very conveniently located behind the hotel.The location is what makes this hotel great.  You are just blocks away from Rogers Centre, CN Tower, the waterfront, the convention centre, and numerous wonderful restaurants and shops.",
+      "rate": 5.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Wonderful Stay on Club Level",
+      "text": "The concierge and ladies working the Club Lounge will anticipate your every need and they made our stay. Truly wonderful, friendly service with people that actually seem to enjoy helping their guests.  Lots of varied food offerings for every palate and we were thrilled to see many vegetarian dishes every day in the lounge.  A special thank-you to Sarita for all her pre-arrival help.  My platinum/ambassador status was recognized ( I didn't have to remind them) and we were upgraded to a huge 2 room suite with 2 full bathrooms and two separate entrances.   What a treat that was!  My son was celebrating his birthday and it was a nice surprise to see a birthday cake waiting in the room upon arrival. Hotel itself is in a great location, close to many different restaurants and less then a one and a half block walk from Union Station on Front Street.  It's also located on the Path from Union Station for walking indoors when it's raining or snowing out.  I've  stayed at all of the higher end club levels located in the city centre, such as the Ritz Carlton and the Royal York and this hotel is where I have chosen to book my next stay.  Give it a try and I'm confident you won't be disappointed.",
+      "rate": 5.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Good location",
+      "text": "I stayed there in October for a conference, and I have to say the location is good because it is not only downtown but also attached to the conference center.  It is also so easy to reach from Pearson by train or car.  And if like me you travel onwards to Montreal, you can actually walk to Billy Bishop airport (there is also a free shuttle that leaves nearby by the Fairmont).  It is also close to several sports venues, other downtown hotspots and the lake.The hotel itself has nice rooms (one caveat is that water pressure in my room was not great).  The only thing is that for a conference hotel, the lobby and lobby bar are not that big.  In any case, if you are attending a conference at Toronto Centre then I would advise you to stay here.",
+      "rate": 4.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "best location ever",
+      "text": "I stayed for 5 nights from 21st April till 26 April 2022.Location of hotel was perfect. Very close to CN tower, aquarium, Stadium, harbor, Union Station, many bars and restaurants, shopping mall of Eaton center (it was near 20 min walk).I have planned to also visit Niagara Falls so I took train ticket and put my baggage in this hotel and paid CAD3 per baggage for keeping them for 1 night.Hotel service was good. Check in staff were very polite and help full. They gave me adaptor for changing 220 Voltage to 110 for my hair iron. Room was clean and big.view of our room was excellent. we had view of CN tower and harbor.if I come back will visit this hotel again.Bell man was not friendly. When we entered hotel with 4 big baggage and 2 carry on, no one comes for opening door and helping us. It was disappointed for 4-5 star hotel.Water in minibar was also chargeable. Normally in 4-5 star hotels they provide free water every day.",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Overall disappointing experience",
+      "text": "We arrived for our first trip to Toronto already running late for our dinner reservations only to find a long line at check in and only one person working at the desk. We waited ay least 20 minutes to check in on a Thursday at 7:30 pm. The lobby is underwhelming as are the halls and standard rooms. It does not feel like a high end hotel. My husband went down to the lobby bar to get a drink to bring up to the room and they told him he had to use room service for that- one drink! In terms of the location, you are close to the CN tower but the street out front feels less than nice. Overall I’m disappointed in the service and experience.",
+      "rate": 3.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Excellent hotel  central and modern.",
+      "text": "It is located between the CN tower and the train station, very conveniently in the city center. Remade, since my last stay 10 years back, the receptionist was highly professional and I was upgraded to a Jr Suite on 16th floor facing the tower and lake. Room (#1637) was very large by all standards, perhaps 45sqm, bathroom was modern and stylish, the bed was comfortable, the sheets were of high quality too. A keurig coffee machine was present in the living area of the room.Plenty of USB connectors in the bed head in addition to electric plugs everywhere.There is a nice and large pool on 3rd floor next to the gym, and the lounge is on the 8th floor, reasonably stocked, you can check in and out from there if you have lounge access.",
+      "rate": 5.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Great Location!",
+      "text": "We stayed in a King room with a view of the CN tower and the water. Everything was clean, updated and very comfortable. Front desk clerk quick, effecient and friendly. We enjoyed drinks at the restaurant and the bartender was so attentive even though he was stuck in the weeds! Rooms can be pricey but you can't beat the location.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Was expecting something better, much better",
+      "text": "InterContinental is my favorite brand and this one is my least favorite out of Atlanta, DC Wharf, and Grand Seoul Parnas. My preference is set away from the elevator and my room was about 12 feet from it. I only complained since the noise kept me up the first night. Also, noticeable stains on the carpet and some were quite large. They did upgrade me to a junior suite on the 23rd floor when I checked in. Eventually switched to another room on the opposite side, a little quieter but facing a major train station. Can still hear it on the 24th floor, but much better than the elevator noise. Wasn’t able to connect my smart phone to the TV to control it even though it was listed as a feature when I turned the TV on. Called front desk and they said it’s not enabled... small things. The hotel is in a great location - CN Tower just minutes away on foot, Union Station a block away, restaurants & pubs & shopping everywhere. Only took a Lyft to and from the airport - around CAD $38 each way. Used the small fitness center twice. It hadeverything I needed, but it could use a nice paint job and clean carpets. Had two peloton bikes, two pull-up bars, a couple of treadmills, and adequate amount of dumbbells.",
+      "rate": 3.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Fancy & Family Friendly ",
+      "text": "From start to finish, our stay was amazing. We booked here, as a close option after attending an evening Jays game with our children. Upon arrival, we were unsure how to navigate our way around the parking garage, the valet gentleman, were very pleasant and guided us in the right direction. Check in was fast and easy. Our room was modern and extremely clean. The bathroom looks to have been recently updated - as someone with very long hair, I appreciated the full size shampoo & conditioner in the shower. Breakfast was included with our room booking, and the food was delicious. The hotel is very beautiful - I was initially nervous that it wouldnt be family friendly, but I was so wrong. Every single employee we saw, greeted us with a smile and kind words. The price was expensive, but for the quality of service we received, very worth it. We will definitely be back!",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Very poor communication",
+      "text": "Overall our stay was good. The majority of staff were very cheery and very helpful. Our problem began with booking (which was directly through reservations at the hotel). We were offered a room with an unobstructed view of the lake for an extra charge, which we accepted. When we checked in we had been given a room with a city view of construction. Then we were told that the pool was full and we could not use it (we had switched hotels specifically to have the use of a pool). We were not told about this prior to checking in. After complaining to a manager, we finally were allowed to use the pool but only 3 of the 4 of us could do so. Mum had to stay behind, which was a huge disappointment for our kids. Upon arriving at the pool there were six people in it.  We were told by the same manager that the room upgrade charge would be rectified, but when checking out it was not. David at the desk (after telling him the whole saga several times) was very reluctant to give us the refund. It was a nominal charge, but it was on principle that we wanted the refund. When we were about to fetch the manager David finally said he would give us the refund, but only because he was, “already tired of talking about it”.  We did not find it acceptable to go to a hotel and have to explain ourselves over and over again because of a blunder BY THE HOTEL and then have a staff member speak to us as if we were bothersome - highly unprofessional in any setting. It really took the shine off of our trip and that of the staff who DID make an effort to make our stay worthwhile, particularly the breakfast staff and the valet parking staff who were exceedingly courteous and personable.",
+      "rate": 3.0,
+      "tripDate": " March 2022"
+    },
+    {
+      "title": "Excellent views",
+      "text": "We stayed here as the final part of a trip to Montreal, Quebec City, Ottawa and Toronto. In the other 3 cities, we stayed at Fairmont hotels but this hotel outshone all of them. The hotel was busy and check-in was quite slow but all the staff were extremely friendly and helpful, particularly the Concierge (Anna). We were allocated Room 1100 which was a corner room with windows on two sides and views of the Harbourfront, the Railway Museum, Toronto Blue Jays stadium, Union Station (which was only two blocks away) and the CN Tower which was almost next door. The room was extremely comfortable for sleeping and generally relaxing and the temperature was easily controlled. The housekeepers did a great job of maintaining the room and we would have no hesitation in staying at this hotel again.",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Fantastic stay",
+      "text": "We travelled with 6 adults and a baby and booked 3 rooms for 3 nights at the Intercontinental. They not only put us in 3 rooms all next to each other but they also upgraded us all to club level! We enjoyed complimentary breakfast, soft drinks, snacks, and an overall nice central place to relax as a group. It was a lovely stay, the rooms were clean and the bathrooms were gorgeous! You also cannot beat the central location, especially if you’re seeing a sporting event. We would absolutely stay here again if/when we visit Toronto.",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Amazing Concierge Service from Antonio",
+      "text": "I have stayed at the Intercontinental many times in the past and have always enjoyed it and love the rooms and service, etc.. I would highly recommend this hotel.This past weekend (Sat. Nov. 5th) my friend and her husband were heading to Toronto and staying at the Intercontinental for his birthday and a Toronto Maple Leafs game.I contacted the hotel very last minute (very early Sat. morning) and explained I wanted to have balloons, beer on ice with glasses, champagne on ice with flutes and perhaps a sign saying happy birthday. I wasn't expecting much at all because of the very late, last minute notice.Antonio, was amazing, professional and very efficient. He informed me, not only could they accommodate all my requests but also provide a complimentary birthday cake.Everything was taken care of exactly as I had requested. It actually exceeded my expectations. The charge to my credit card was exactly what Antonio quoted me. My friend sent me photos after they arrived at their room and I was blown away at how perfect it all was and every detail taken care of. Thank you Antonio very much for making this happen.",
+      "rate": 5.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Front Desk was amazing",
+      "text": "Hello! I really wanted to thank David that helped me check in today! He was excellent. I made a reservation through the hotel website and tried to email the hotel to ask if it would be possible to check in 1-2 hours earlier (12noon was most ideal). However, reservations reply to me was all over the place and just kept telling me to book an extra night because they were at 95% occupancy. So I made another reservation through Dayuse.com (which is also great with the free cancellation). As I booked Dayuse.com which allowed me to check in at 8 am, I went earlier and the front desk ended up telling me that I only had to pay a little extra for early check-in (any time before 12noon) subject to availability - which was absolutely great! I wish reservation would have told me this option and I would have totally stressed less about the whole situation. David also helped me cancel the reservation that I made via Dayuse and also gave me a higher floor room.The room was amazing! Spacious, very clean. I requested more hangers which they brought over very quickly. I also asked if they had a clothing rack (because the closet was slightly small) and if they had a steamer that I could borrow (which most hotels in Asia would usually have and able to just borrow) which they didn't have but it wasn't a big issue.Great location, great FO staff! Thank you:)",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Perfect Location, Worth Every Penny",
+      "text": "As with any hotel in downtown Toronto the Intercontinental Toronto doesn’t come cheap but if you’re going to stay downtown this is one of the best options location wise. Staff is incredibly friendly and professional and make you feel welcome at all times. Rooms are impeccably clean and spacious. The hotel itself is a short drive from Billy Bishop airport and walking distance to many of Toronto’s top tourist sites. Restaurant options in the downtown core are endless and the Front St location has you right in the heart beat of the city. There’s no other hotel I’d rather stay at when staying in the city.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Fantastic",
+      "text": "Stayed here for a few nights whilst on a city break to Toronto. Had a CN tower view which also overlooked the Rogers centre and the harbour. Room was faultless, Bed was so comfy we didn’t want to get up and the staff were very friendly and courteous. Never tried the restaurant, pool or spa. Great location for the entertainment district and the harbour. Union station is across the road with fast trains to Pearson int airport ($13, 40 mins).  Up town is just a few stops away on the subway(10 mins). If you have a rental car then Enterprise is across the road and Avis/Budget are just three blocks away.  Loved it here and would definitely recommenkd it.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "A gem in the heart of Toronto",
+      "text": "We recently stayed here in a Premium Room with Lake View for 10 nights. Our experience was smooth right from pre-booking 10 months prior to our trip, through to check out. I cannot find any flaws with this hotel - perfect location with kids, contemporary, clean, luxurious, spacious, practical and great service. Paying a little extra for a Premium Room and a Lake View was totally worth it as the rooms are on higher floors and we woke up to spectacular views of CN Tower and the water every morning which the kids absolutely loved. The room was a good size and comfortable with 2 queen beds, large TV, mini fridge, desk, luxury amenities and even a nespresso coffee machine with pods restocked daily. We hired a car from the Enterprise rental opposite the hotel (Simcoe Place) and used valet parking on one occassion as they offer unlimited in/out but the rest of the time we self-parked at the same lot (directly accessible via Lower Lobby) for a flat $35. This is possibly a bit more than you’d pay in other parking lots in downtown but its worth a premium for the convinience of walking straight into the hotel.Despite the pool being open till 10pm we still didn’t get the time to go which is a shame as it looked amazing. They also have a gym and a spa. There is even a convinience store downstairs in the Lower Lobby and another one just adjecent to the hotel. You are within a 10 min walk of Union Station, 20 min walk of Nathan Phillips Sq, Eaton Centre, Dundas Sq, and Toronto Harbour and with so many shops, restaurants and cafe’s surrounding the hotel you really are in amongst it. Would love to come back and stay here again one day!",
+      "rate": 5.0,
+      "tripDate": " July 2023"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "The Ivy At Verity",
+    "url": "/Hotel_Review-g155019-d1423221-Reviews-The_Ivy_At_Verity-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 158
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "111D Queen St East",
+      "addressLocality": "Toronto",
+      "postalCode": "M5C 1S1",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/ed/85/15/suite--v6696188.jpg?w=500&h=-1&s=1"
+  },
+  "description": "As part of Verity – the exclusive women’s club – The Ivy’s other award-winning amenities include GEORGE Restaurant, Secrette Bar, Sweetgrass Spa for women, and a women-only fitness and pool facility. The Ivy caters to both men and women, however, because we are a part of Verity which is a private women’s business club, the pool, spa and fitness facilities are open to women only. Men have full access to the hotel, restaurant, bar and lounge they can enjoy a massage in their hotel room. Since opening in 2003, GEORGE Restaurant has established its place as an acclaimed culinary destination, and is known today as one of the best fine dining experiences in the country. Led by Executive Chef Lorenzo Loseto, GEORGE has been included in Canada's Michelin Guide since its inception in Canada . GEORGE guests can choose from an à la carte tasting menu or Chef Loseto's signature Chef's Choice tasting experience, customized according to each guest's preferences.",
+  "featues": [
+    "Paid public parking nearby",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Free breakfast",
+    "Patio",
+    "Business Center with Internet Access",
+    "Spa",
+    "Street parking",
+    "Wifi",
+    "Heated pool",
+    "Bar / lounge",
+    "Restaurant",
+    "Breakfast in the room",
+    "Complimentary Instant Coffee",
+    "Complimentary tea",
+    "Outdoor dining area",
+    "Facial treatments",
+    "Full body massage",
+    "Manicure",
+    "Massage",
+    "Pedicure",
+    "Waxing services",
+    "Baggage storage",
+    "Concierge",
+    "Non-smoking hotel",
+    "Outdoor furniture",
+    "24-hour check-in",
+    "24-hour front desk",
+    "Blackout curtains",
+    "Bathrobes",
+    "Air conditioning",
+    "Desk",
+    "Private balcony",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Bath / shower",
+    "Room service",
+    "Safe",
+    "Seating area",
+    "Telephone",
+    "Wardrobe / closet",
+    "Bottled water",
+    "Iron",
+    "Wake-up service / alarm clock",
+    "Electric kettle",
+    "Flatscreen TV",
+    "Radio",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Another banger.",
+      "text": "Thank you for the memories <3 We love every single thing about The Ivy At Verity. My sister in law and I savour every moment, in every space - of this fabulous facility. Will be back for round 3. Whose mind is behind the design?!?!",
+      "rate": 5.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "New favourite hotel - BEAUTIFUL with unexpected perks",
+      "text": "My husband and I stay in Toronto every few months so like to try different hotels each time. Recent stays have included Intercontinental Yorkville, Pantages, and Ritz-Carlton. For our latest stay, we booked a room at The Ivy at Verity. I can honestly say I've never had a more lovely hotel stay! The staff seemed very proud to work there and were both warm and professional.The room we stayed in (Room 1) was large and beautifully appointed ... The care they've put into decorating each room is apparent in every fabric and furniture choice. The bed was luxuriously comfortable and the bathroom spoiled us with heated floors, marble vanity and a selection of aromatherapy bath salts. The common area immediately outside the rooms is a charming space with a large granite table used for drinks in the afternoon and breakfast in the morning. Alcohol was $6 a drink (very reasonable) and done on the honour system...all the drinks were out on the table and you filled out a card with what you drank to bring to the concierge later for payment. Espresso and soda was free as was the wifi and a continental breakfast. That breakfast was also delicious! Large flaky, buttery croissants, yoghurt and granola, hard boiled eggs, and juice were waiting on trays labelled with each room number and you simply rang the concierge to have fresh coffee delivered when you woke up.  I didn't want to leave! I can't wait to try this hotel in the summer and enjoy the lovely terrace.Well done, Ivy... You've created a little oasis in the heart of the city!",
+      "rate": 5.0,
+      "tripDate": " January 2015"
+    },
+    {
+      "title": "Perfect, Unique Getaway in Toronto",
+      "text": "We chose the Ivy's Urban Retreat package for one night as a way to celebrate our anniversary in Toronto. In the city, there are no shortage of luxury hotel options, but it can be difficult to find a place to stay that is really in the \"boutique\" category while offering privacy, luxury, fun, and peace while away from home. In just about every category for evaluation, the Ivy excels. This 4-room hotel downtown stands out and above other options in Toronto, and we're thrilled to have discovered it.You can request a particular room when booking, and we chose room #2. With a calming colour scheme, plenty of space, a gorgeous marble bathroom (deep tub and huge shower room!), and a large flat screen with a blu-ray player, it's well-outfitted, comfortable, and very quiet. You have access to a refreshments area with honour bar and complimentary soft drinks, as well as access to the members only lounge area, which we didn't make use of. Their packages have incredible value, and we had the chance to enjoy an included five-course meal at the onsite George restaurant and an hour long massage at the onsite Sweetgrass spa. To clarify some confusion amongst the reviews and elsewhere, Verity is the parent company here and responsible for the spa and restaurant, as well as the hotel. The spa (and this includes all available fitness facilities) is women only, but this absolutely does not mean that men are somehow unwelcome. In fact, should you wish, men can request in-room spa services. As a male guest, I absolutely loved my stay here, and my partner was able to make use of the beautiful spa facilities. Toronto seems to be a city where it can be difficult to feel as if value matches cost for accommodations. The Ivy at Verity bucks this unfortunate trend and offers an experience we hope to someday return for.",
+      "rate": 5.0,
+      "tripDate": " February 2015"
+    },
+    {
+      "title": "Will never know",
+      "text": "I booked a night at The Ivy at Verity for our three year anniversary and was very excited to stay given the wonderful reviews I've seen. We had previously stayed at the Ritz for special occasions but we were looking for something smaller and more intimate. Unfortunately, I was called about 2 weeks before our reservation and was told that they had overbooked the hotel for the night and that I would have to re-book elsewhere. I was not given any explanation as to how this happened and was quickly given a \"list\" of other hotels to re-book myself. In all fairness I did book through Bookings.com so I am not sure if that had something to do with the poor way we were treated. Given that the hotel admitted it was their fault I would have expected management to (at the very least) try to find us another night to stay and perhaps offer some sort of incentive as an apology. We will not be booking back at this location.",
+      "rate": 2.0,
+      "tripDate": " June 2015"
+    },
+    {
+      "title": "Hidden Gem! ",
+      "text": "Stayed here with my husband and baby while attending a wedding at the connected George Restaurant below the hotel. Both hotel and restaurant were exceptional. Only regret is that I didn't take a bath in the beautiful tub. The bath salts laid out looked truly divine! My husband could not get enough of the big shower.",
+      "rate": 5.0,
+      "tripDate": " March 2015"
+    },
+    {
+      "title": "a special  mother daughter weekend",
+      "text": "This hotel is part of a small, elegant upscale spa and restaurant complex and women's club. The restaurant is superior as are the spa facilities and the rooms.  Decoration is in impeccable taste in every part of the complex.  The beds are British--Hypnos is the brand.  They are ultra-luxury in price; more importantly, they make for an exceptional sleep. We had a perfect escape to an elegant oasis in the middle of Toronto in the winter.  Highly recommended.",
+      "rate": 5.0,
+      "tripDate": " January 2015"
+    },
+    {
+      "title": "Lots of brownie points",
+      "text": "This is a hotel within a women-only club, so only females have access to the pool, spa and gym.  The rooms are great, and service is excellent, so I didn't mind staying in the room or walking in the neighborhood while my wife enjoyed the facilities",
+      "rate": 5.0,
+      "tripDate": " November 2014"
+    },
+    {
+      "title": "The Ivy is an Oasis",
+      "text": "I stayed at the Ivy in November and it was wonderful! The room we stayed in was beautifully decorated and so serene. I especially love the bathroom, and the special touch of the bath salts \"buffet\". After a night out at the nearby distillery district, we enjoyed decadent desserts from George in the comfort of our room. The service was great. This was my 3rd time at Ivy and I expect I will return again!",
+      "rate": 5.0,
+      "tripDate": " November 2014"
+    },
+    {
+      "title": "Wonderful",
+      "text": "Great hotel, unique experience. Highly recommended. George Restaurant was also amazing. Friendly staff, good breakfast and complimentary drinks all day. We also liked the spa, which is for women only. A bit weird neighborhood, but quite close to everything.",
+      "rate": 5.0,
+      "tripDate": " April 2015"
+    },
+    {
+      "title": "Excellent Boutique Hotel in Toronto",
+      "text": "Found this hotel on Expedia, and the more I read I about it, the more curious I got, as it was 'boutique' and 'euro influenced'. I booked it based on reviews and that it would be perfect for my wedding anniversary. After arriving, it surpassed our expectations. The room's were fantastic, very spacious and clean with a balcony, the decor was in great taste, the bed was great,  the food at their neighbour restaurant 'George' was fantastic, and the staff (in particular George and Jen) made every effort to make our stay enjoyable. I was so relaxed by the time I checked out of the hotel, that I forgot my laptop cord, and within 2hrs, I had an email from the staff letting me know that I left it behind. It's a great hotel which Toronto should be proud of.",
+      "rate": 5.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "oh what a night!",
+      "text": "To start off, the reception greeted me with smiles and hospitality.  The room was extremely clean and set up with bath salts and nice music.  The bed was like drifting on a soft cloud.  The decor and art were stunning and well thought out.  I felt at home and much relaxed in this hotel and didn't want to leave.  Especially after an amazing massage done right in the convenience of my room.  The staff was extremely accommodating and allowed me a late check out, so I could soak in the tub with some lavender bath salts (tub big enough for two).  mmmm...I would return to this hotel at any opportunity I may have.",
+      "rate": 5.0,
+      "tripDate": " January 2010"
+    },
+    {
+      "title": "I felt like a Queen!",
+      "text": "Stay here ONLY if you want to feel pampered, rich and completely relaxed. Stay here ONLY if you like complimentary breakfast delivered to your room with fresh-squeezed orange juice and homemade chocolate scones. Stay here ONLY if you like the idea of being in the middle of a big city but waking on to your balcony to overlook a garden area that’s as peaceful as the countryside. The pictures don’t lie. It’s every bit (and better) what the hotels pictures show. My husband and I thoroughly enjoyed every second. 10/10 the best hotel we’ve every stayed in. Thank you The IVY at Verity for giving these two perpetually tired parents their first night away!",
+      "rate": 5.0,
+      "tripDate": " October 2019"
+    },
+    {
+      "title": "Great hospitality - superb room",
+      "text": "The Ivy is a little off the beaten track in Toronto but the room and especially bathroom was worth the walk! Breakfast and services were superb. Choose the Ivy if you are into boutique hotels, luxury - and not up for B&Bs or big hotels. This place is something special.",
+      "rate": 5.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Beautiful Room; Inept Service",
+      "text": "The room is spacious and comfortable, nicely decorated with many conveniences. Huge spa bathroom and a nice sunny balcony too. I can’t think of any other word for the service than inept. Basic requests were either ignored or handled poorly. Dinner at George downstairs was worth the price of admission.",
+      "rate": 3.0,
+      "tripDate": " June 2018"
+    },
+    {
+      "title": "Beautiful stay !",
+      "text": "Beautiful, comfortable,exceeded expectations,highly recommended,luxurious room, delicious breakfast, excellent location near to shopping ( Eaton centre )  close to performing arts centre, free wifi , wonderful staff, felt right at home immediately, quite and cozy,more at coffe shop next door",
+      "rate": 5.0,
+      "tripDate": " March 2015"
+    },
+    {
+      "title": "Beautiful and Memorable",
+      "text": "I've been staying in Marriotts, Hiltons and Holiday Inns for over 4 years with work, but it's only by coming to The Ivy that I'm reminded how good a hotel experience you can have if you go to the boutique places.The first thing is even though this is effectively 'an old boys club for women', my wife booked it for our first trip to Toronto and we both found it to be utterly beautiful, relaxing and a joy to stay in. We could happily move into room 3 and never leave, the bed and bathroom are brilliant, the honesty bar and espresso machine outside the room make you feel at home to come and go as you please, the staff were super friendly and helpful, and even though the spa is women only they allowed us in after hours. As for the George restaurant, we've never had a better tasting menu anywhere in the world. A rare foodie experience I'll not forget in a hurry.One of those places that genuinely nourishes your body and mind. Can't say enough good things about it.",
+      "rate": 5.0,
+      "tripDate": " April 2015"
+    },
+    {
+      "title": "Very special place",
+      "text": "Love this place, love Toronto.  Been here 3x in the past year and will be returning soon.  Beautiful retreat.  Wonderful to walk downstairs to George for dinner, to the spa for a massage, or up the street to the subway to get around the city.  Staff is first rate, attentive, and respectful of my privacy. It's expensive but the price is fair.",
+      "rate": 5.0,
+      "tripDate": " January 2015"
+    },
+    {
+      "title": "Amazing Experience!",
+      "text": "My husband and I received an 'Urban Retreat' package as a wedding gift, and were blown away by this hotel and The George Restaurant when we finally got around to booking and coming for a little getaway.The service was phenomenal (front desk, spa and George restaurant!), the food amazing, the room gorgeous and unique.. so many little details were attended to. We are definitely going to give this as a gift to a family member who is getting married in the fall.*the only tiny thing I'd say that could be improved is the coffee they served us in the morning. It tasted sort of musty and wasn't very warm.",
+      "rate": 5.0,
+      "tripDate": " March 2015"
+    },
+    {
+      "title": "Designed for queen......",
+      "text": "And by that I mean: designed for a posh WASPy grandmothery type. Staying with Granny certainly has it's perks- fresh roses, housemade bath salts, a balcony overlooking the courtyard, as well as being located on top of the formidable George restaurant. She is trying desperately to be hip with her tv remote computer tablet and Hastens mattress. Unfortunately, money cannot buy good taste- the decor was odd, overly floral, with mismatched donated art and a lurid colour scheme. It was nice to have breakfast delivered, and I appreciated using the \"breakfast in bed\" tray, but there is little choice other than sweet pastries. My husband had to venture down the street for a second breakfast before we left. But perhaps all these vices would be considered virtues by another older more regal woman..... or gay man.",
+      "rate": 4.0,
+      "tripDate": " November 2014"
+    },
+    {
+      "title": "Outstanding",
+      "text": "Exceptional and almost up there with the fastiduously superb hotel 41 in London, or, a favourite, the Charlotte St hotel in Fitzrovia, London. We stayed 2 nights for an anniversary and the staff could not have done more to help make our stay a wonderful experience. Unfortunately the affiliated Georges restaurant was shut the evenings we stayed (Sun/Mon) but we were recomended a superb local steak house (Berberians) and the Georges Lunch on Monday was excellent. Overall a really fabulous stay and our only suggestions would be to put some cheap pens or pencils in the room to note down stuff without having to rummage through the executive carrier bags!Overall a rare gem, but we did feel that it needs to communicate a clear proposition; as a fabulous boutique hotel, a fine dining experience, a club,a ladies health spa, or,  all 4?",
+      "rate": 5.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "It was beyond our expectations!",
+      "text": "My husband and I had a delightful stay at your hotel!  We had never stayed in a boutique hotel before, and were really impressed by how quiet it was, and the attention to detail our room presented.We frequently stopped and smelled the fresh roses in our room, and throughout the hotel.  Beautiful!  My husband celebrated the first bath he’s taken (as an adult), and actually been able to submerse under the water.  He tried each of the epsom salts, and enjoyed each, (I made the mistake of trying the rosemary the first day, and then didn’t want to try anything else).  I think he’s considering a bathroom reno after our stay!  The heated floor was a lovely touch, and the shower was quite roomy.  Each day we woke up, one of our first comments was we loved the bed.  We actually visited the Hasten’s store, and bought one to take home.  I was amazed the salesman, Nicholas, knew what firmness of bed we were sleeping on by our room number.  Wow.  We thought the sheets and pillows were awesome too, (but we would have appreciated trying the Hasten’s one to know if we should have bought them too!).  I was surprised to learn we were sleeping on a ten year old bed, because it was so cosy and supportive.  I can’t wait for ours to arrive!I took advantage of the spa and club.  The ladies were welcoming, professional, and eager to please!  Leada, the beautician, was very skilled and helpful.  My nails still look great!We dined on the 5 course tasters menu at the George restaurant.  It was easily the best meal I’ve every eaten.  Each course was a delight, (gorgeous and fragrant), and it was an evening’s entertainment to hear about the wines and food.  Ian, our waiter, was attentive, personable, and knowledgable. The concierge was usually the young woman (I apologize for not getting her name).  You both were lovely!  While probably not your most demanding clients, we sure enjoyed the hot coffee and tea brought to our room whenever we called, and the quiet determination to make every detail (such as the spa products I liked delivered to my room) perfect!  The continental breakfast and trailmix were delicious!I’ve already recommended your lovely hotel to others!  I hope there are still rooms available when we next book, we can’t wait to come back!",
+      "rate": 5.0,
+      "tripDate": " March 2015"
+    },
+    {
+      "title": "An oasis in Toronto",
+      "text": "My daughter (age 15) and I stayed for one night at the Ivy as part of a March Break getaway. We are from Toronto and wanted one night downtown while we shopped at the Eaton Centre and went to the AGO. Our room was beautiful and we thoroughly enjoyed our stay. Next time, we will add in a trip to the Spa. Very luxurious - Highly recommend.",
+      "rate": 5.0,
+      "tripDate": " March 2015"
+    },
+    {
+      "title": "Charming hotel with luxury accommodations",
+      "text": "We just left Toronto and loved our stay at the Ivy at Verity. The hotel is at a women's club and there are only four rooms, so taxi drivers tour buses, etc may not be familiar with it. Just made us more thankful we found this hidden gem. We actually stayed in two different rooms for our two night stay (2 and 4). Both were very specious, with large balconies, tasteful decor, and lots of natural light. The beds were super comfortable and it was very cozy and upscale at the same time. The bathrooms were huge. The staff was very responsive and helpful, particularly George. They provided a simple breakfast and were very eager to help with any questions we had. A great place for a couples getaway. We also enjoyed appetizers in the club's lounge and were very impressed with the quality of the food.",
+      "rate": 5.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Wedding Weekend!",
+      "text": "We stayed at the Ivy for the weekend of our wedding. I had a few services at the Sweetgrass Spa and We had an amazing dinner at George the night before and then prep rooms and photos on the grounds on the day of. The rooms are stunning and the staff was spectacular and helped make the weekend everything one could hope for! We'll definitely be coming back on anniversaries to come!",
+      "rate": 5.0,
+      "tripDate": " November 2013"
+    },
+    {
+      "title": "Wonderful wedding night",
+      "text": "We stayed here after our wedding before going home to Etobicoke, and I am so happy that we did! We arrived late (about 1am?) and the concierge was there to greet us and take a breakfast order. The room was well-appointed - beautiful furniture, gorgeous lighting, a patio overlooking the courtyard.  The bed was easily the most comfortable I've ever slept on in my life. And the bathroom! HUGE tub, heavenly salts, separate toilet and shower stalls... just to die for. Breakfast was juice, coffee/tea, pastries, yogurt & fruit -- and was waiting on a tray for us in the lobby area which also had a nice bar to choose from (though we weren't in the mood to take advantage of it seeing as it was 9am). I would recommend this place to everyone!",
+      "rate": 5.0,
+      "tripDate": " September 2013"
+    },
+    {
+      "title": "True Indulgence",
+      "text": "Spent a wonderful weekend in Toronto at The Ivy at Verity.  A boutique hotel with just 4 rooms. Our was beautifully decorated, spacious with an amazing bathroom.   They have thought of everything -- honor bar, round the clock concierge and unique touches like freshly brewed tea to enjoy while you soak in a huge tub soaking in specially chosen bath salts.   It was a truly magical experience.   Can't imagine every staying anywhere else in Toronto.   Book ahead so you won't miss out.",
+      "rate": 5.0,
+      "tripDate": " November 2013"
+    },
+    {
+      "title": "Great hotel in a not so great neighbourhood",
+      "text": "The Ivy at Verity has a lot of charm. Located in an old chocolate factory, the interior of the hotel as well as our room had been given a lot of attention to detail. Our room was decorated in a warm and lush way and the amenities were great such as the selection of home made bath salts. Service was also good and friendly. The bed, manufactured by the world famous Hastens bed manufacturer, was superb: one of the best beds we have ever slept in (apart from home...). There were a couple of drawbacks which you might want to take into account when booking this hotel:- It is located in not the best part of Toronto with a lot of homeless people on the streets.- The hotel does not provide their own parking facilities. There is a municipal parking lot just across the street but quite expensive ($ 24 overnight) and not guarded, and a parking garage closeby (however, our SUV couldn't enter as the maximum height was 2 meters).- There is no hotel entrance parking nor a porter service so for the not too light traveller somewhat inconvenient because of the busy street.- The balcony is located at the back and the adjacent building has huge airconditioning vents that make a lot of noise which is not so nice when you want to enjoy a glass of wine outside your room. The same by the way applies to the patio of the George restaurant which you can overlook from the balcony and that is right under these vents. We cannot imagine this to be a nice dinner experience hence we didn't try it and ate elsewhere.There is a turn-down service but it follows kind of strict timings so one night when we went out for dinner at about 9.30 housekeeping was not able to do this. Our dvd player turned out not to function which was a pity as we wanted to watch a dvd we received after one of us doing the CN tower edgewalk. All in all a very nice boutique hotel but with some areas of attention in terms of location.",
+      "rate": 4.0,
+      "tripDate": " August 2013"
+    },
+    {
+      "title": "My new favourite hotel in Toronto",
+      "text": "It's official--The Ivy at Verity is now my new favourite hotel in all of Toronto. From the moment I was greeted at the front door to the morning I left I felt incredibly welcomed and spoiled. The rooms are beautifully decorated and luxurious, I appreciated the self serve open bar set-up outside my door and can't even describe how amazing my meal at the George restaurant was. Incredible experience. I would (and will) highly recommend this hotel to anyone travelling to Toronto from now on. Amazing accommodations.",
+      "rate": 5.0,
+      "tripDate": " July 2013"
+    },
+    {
+      "title": "Bliss!",
+      "text": "We just spent one blissful night at The Ivy at Verity. Could have stayed longer but the hotel was fully booked for the rest of the week. However, even the one night was enough for us to enjoy the wonderful surprises that this hotel offers. This place is a piece of heaven, when you enter the hotel through the Club \"Verity\" you are transported into another dimension, where your every wish is fulfilled. Our room was tasteful as it was beautiful, colors that soothe, bed linens that feel like \"cloud 9\", nothing missing or lacking. Best of all, we get to use the facilities of Verity's Sweetgrass Spa, and wine & dine at \"George\" Verity's 5-star restaurant, all under the same roof. After one night I am refreshed and rejuvenated, as if I spent a week at a resort. A place like this is hard to find, lucky for me I found it. Can't wait to return.",
+      "rate": 5.0,
+      "tripDate": " October 2011"
+    },
+    {
+      "title": "Similar to Hazelton Hotel but better value",
+      "text": "Got a chance to stay at Ivy in colourful Room 3 (each of the 4 rooms is different in size or decor) on a Saturday night.  Pure bliss!  Huge bathroom with separate room for the toilet and separate large shower stall and huge soaker tub with choice of scented bath salts.  High-end Hastens bed, swivel wall-mounted flat screen large TV, desk, 2 upholstered chairs, overstuffed armchair, ottoman, actual balcony facing peaceful courtyard (over George restaurant), and complimentary continental breakfast (coffee ready to order) and honour bar (several full-size bottles but no gin; two kinds of wine and assorted beers kept on ice) available just outside the room for in-room enjoyment.  Being a Saturday/Sunday, the business centre/library area of the private women's club upstairs was empty and the concierge said I could use it.  Although the gorgeous basement-level pool, hot tub, and spa area is women-only, I still recommend this place to couples if the man can skip that part.  We got the urban one-night getaway package, so a 4 course tasting menu at George was included.  The service at George was a little rough -- we weren't offered any upgrades or wine pairings and the amuse bouche and first two courses came out too quickly --  we hadn't even received our aperitif cocktails yet!Ivy is significantly cheaper than staying at Hazelton but now that I've stayed overnight at both, I would choose Ivy again and again.  The only difference is the slightly smaller closet space at Ivy compared to the two-sided closet/storage area in Hazelton rooms, and the lack of a TV in the bathroom at Ivy.  Otherwise the room setup and comfort quality is the same.  Ivy provides Bulgari white tea scented toiletries along with the choice of 3 scented bath salts.  Hazelton provides a fridge in-room stocked only with wine products and teas whereas Ivy gives many choices just outside the room and a free breakfast (Ivy continental included 2 kinds of croissants, jam, apple strudel slices, an interesting coconut oatmeal porridge that tasted great at room temperature, fresh berry fruit salad, choice of orange or grapefruit juice, and hot tea or coffee on demand.)  Yes, Hazelton does room service and has a restaurant open for brunch on site, whereas George at Ivy does not provide that flexibility.  The indoor pool at Hazelton was a huge disappointment (no windows, awful lighting and no relaxation area around the pool) whereas the women-only pool at Ivy is lovely and even has an underwater treadmill!  Queen Street East between Church and Jarvis is no Yorkville.  But for $200+ less on average per night, Ivy offers better value at a similar standard.",
+      "rate": 5.0,
+      "tripDate": " October 2010"
+    },
+    {
+      "title": "Tempted to write a bad review to keep my secret safe...",
+      "text": "Amazing getaway in the heart of Toronto.  Great location, only four rooms in the entire hotel, gorgeous boardrooms, library, balconies.  The hotel rooms are enormous, luxurious, romantic and spotless.  The spa downstairs is just for women (which was kind of wonderful) but the male half of a couple might feel a little left out.  Then he should remind himself that he gets paid more than his wife does to do the same job… and go relax in the giant bathtub instead.",
+      "rate": 5.0,
+      "tripDate": " January 2014"
+    },
+    {
+      "title": "A nice guest house but not good for couples.",
+      "text": "If you like plush  guesthouses then this is for you. Big rooms, beautiful big bathroom and not far from the nicer parts of town. Extensive basics /services are explained to you upon arrival and so you do feel like you're in a plush guesthouse rather than a efficient luxury hotel. The mini bar and breakfast area (even for in room breakfasts) are in a small shared space. The reception is one of those low down desks hence the guesthouse/ plush b&b feel. Men cannot use any of the spa facilities, not even the gym :( Great for a traveling business woman who spends a lot of time in plush hotels and wants a more the social experience you would get in a b&b/guesthouse.",
+      "rate": 3.0,
+      "tripDate": " November 2013"
+    },
+    {
+      "title": "Amazing boutique hotel is on the wrong street",
+      "text": "I have not one complaint about this hotel. It is beautiful, and stunningly decorated. There are only four rooms, with private balconies, and they are clean and luxurious. Incredibly comfortable beds/pillows. Gorgeous bathrooms with Bvlgari shampoos&ody washes. The Verity contains several meeting rooms, a library, and an all-womans' spa (odd, right?!). The staff was very kind, and helpful. We checked in late, our in-room safe didn't work, and they replaced it immediately. Another front desk manager (Michael?) went out of his way to help us find affordable transportation to an out-of-the way concert that we were trying to attend. We had a complimentary continental breakfast, which was delivered to the \"honor bar\" outside of the guest rooms. (I have never had freshly pressed cranberry juice!!). The George Restaurant, which is, essentially, below the guest rooms (though, we were never disturbed by the diners) is absolutely fabulous!!!!!!My only complaint is that this hotel is on a rather seedy section of the street. The downtown  location is ideal for great restaurants (Origin, Blowfish on Bay, Canoe), and Toronto highlights, it seems out of place. There are several, what appear to be, homeless shelters within a block of the hotel. East Queen Street seemed to have a constant flow of indigent people flowing in, and out, of the McDonalds on the corner. I felt a little uncomfortable walking back each night, and I am from NYC. We never had any issues, but it struck me as odd that this gem of a hotel was in the wrong neighborhood.",
+      "rate": 4.0,
+      "tripDate": " June 2012"
+    },
+    {
+      "title": "Pampering Personified",
+      "text": "The Ivy is a wonderful boutique hotel in downtown Toronto.  Everything in the room is top notch from the overall spaciousness of the room, the decor, the walk-in shower room, the deep soaking tub, upscale ammenities etc.  The staff were attentive and accommodating and helped make our stay a great one.  We would recommend this hotel highly to anyone.",
+      "rate": 5.0,
+      "tripDate": " October 2014"
+    },
+    {
+      "title": "Beautiful room, great location",
+      "text": "Strange setting, 4 room hotel inside a women's only networking club in central Toronto.Set in a beautifully renovated industrial complex, the room was a treat to the senses, salts for the bath, special wood floors in the bathroom. Everything about the room was perfect. We also had a beautiful little terrace overlooking a courtyard where we had breakfast.The affiliated George restaurant was also magnificent, and all the staff was attentive and knowledgable.I loved the place.I'll definitely go back.",
+      "rate": 5.0,
+      "tripDate": " August 2014"
+    },
+    {
+      "title": "Wonderful Romantic Getaway",
+      "text": "We actually found this place through Hotels.com, it had very high ratings which were confirmed on Trip Adviser. The place is amazing, we would absolutely stay there again. The room was incredible, I had ordered flowers from their in-house florist for the room, they were in room at check-in, my wife LOVED them! Right colours and had opened up to where we were able to enjoy them during our stay. We cannot say enough about the bed, was the BEST we have ever slept in, and we have a Tempurpedic. Bathroom was a dream room, large tub, oversize shower and heated floors. What we loved most, this was a Romantic getaway for us, we felt like we were the only ones in the place. The only way we knew there were other guests was by the 3 other breakfast trays on the table waiting to be picked up in the morning. You cannot beat the location, 2 blocks from Eaton's Centre and the Subway, a quick 10 minute walk to the St. Lawrence Market. We had only minor issues, when we checked in I was handed back my driver's license but not my credit card. Spent the morning worrying if I had lost it, only to find out that it was at reception. They apologized and said they did not want to disturb us with a call, HELLO call, slip a note under the door, something! One review mentions vacuuming in the middle of the night, we heard that too, at about midnight right above our room, very loud but only for a few minutes. This was on the Friday night, not Sat or Sun. One last thing, when we checked in the concierge took our breakfast order, asked what time we wanted the nightly bed turn down and what time we wanted the room made up. Each day Housekeeping did not have the room made up until 2-3 hours after the time we had requested. In the grand scheme of things these were minor issues that are easily corrected. They will not influence our choosing to stay there again when we return to Toronto. A true gem.",
+      "rate": 5.0,
+      "tripDate": " February 2014"
+    },
+    {
+      "title": "A wonderful city getaway",
+      "text": "What a gem of a hotel.  Beautiful decor, impeccably maintained, and can't say enough about the most comfortable bed we've ever experienced.  The bathroom has heated floors, and the scent of homemade bathsalts (lavender, jasmine and eucalyptus) permeated through to the bedroom.  Would definitely stay there again!",
+      "rate": 5.0,
+      "tripDate": " February 2014"
+    },
+    {
+      "title": "Anniversary celebration",
+      "text": "we had a wonderful stay and George restaurant is awesome - the ambiance was spectacular and our room was intimate and very quiet - the access to the spa services was a great addition to the enjoyment of our stay",
+      "rate": 5.0,
+      "tripDate": " December 2013"
+    },
+    {
+      "title": "Unique is a nice way to put it",
+      "text": "My wife & I stayed 1 night after dropping our daughter off at the airport.  I booked the hotel & knew that it was locate in a women's club.  I didn't think that this would be an issue but as a man, I never felt completely comfortable there.  Basically, I was an interloper, not able to use the gym, massage must be in-room, etc.  The room itself was very nice. It was very large and very open, not what I would call cozy or relaxing.  We also ran into an issue with the television.  Basically, it didn't work.  After much trying the young woman at the desk got it reconnected but we were never able to access HBO which is what my wife was hoping for.  Breakfast was not bad but was not particularly filling.  All in all, not a bad stay but not one that I'd repeat, particularly give  the cost.",
+      "rate": 3.0,
+      "tripDate": " December 2017"
+    },
+    {
+      "title": "Beautiful, Unique",
+      "text": "The Ivy at Verity is a tiny hotel. The set up seems odd at first... it is an exclusive women's club with gym, spa, library, lounges etc, and tucked away on a upper floor, the 4 lovely and spacious guest rooms.  The rooms overlook a court yard and face the windows of an ad agency, where you can see folks working away. At first it felt a bit like we were in a bedroom at work. We kept our drapes closed and all was well. As a woman, all of the amenities were amazing. I think if I had been travelling with a male companion it would have been disappointing.  I was in room three and it was BEAUTIFUL.  Just my style. Very comfortable king bed, incredible bathroom with an irresistible bathtub. All of the soaps and salts and lotions were really lovely and great quality. The room had lots of plush seating, and huge balcony. The honour bar, just outside of the rooms was a really nice touch - although when I was there it was not properly stocked and was never replenished, even after two calls to the concierge. Location is central enough to walk downtown, has a transit stop right out front, and there is paid parking directly across the street. I thought the breakfast was quite good. This will always be my first choice hotel when I stay in Toronto, I really loved it.",
+      "rate": 5.0,
+      "tripDate": " December 2017"
+    }
+  ]
+}

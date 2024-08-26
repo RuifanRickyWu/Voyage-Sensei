@@ -1,0 +1,46 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "E Residential Luxury Rental",
+    "url": "/Hotel_Review-g155019-d17606529-Reviews-E_Residential_Luxury_Rental-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 3
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Monteith Street",
+      "addressLocality": "Toronto",
+      "postalCode": "M4Y 1K7",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "Not bad but read about it 1st.",
+      "text": "Stayed for 2 nights in August. This is not a bad place to stay and the price is very reasonable for Toronto, however it has a few issues so I shall put them into Pro's and Con's.Pro'sGood price for Toronto.Very clean room and common area / Kitchen, which has all you need to self cater and store your food etc.Quiet at night in the room. ( we had a room at the back so can't comment on the front)Close to Wellesley subway so easy to get to downtown.Lots of places to eat and drink in the surrounding area.Con'sVery steep steps to the front of the property. This is due to the fact it is a beautiful heritage building but it would be a problem to anyone who has a problem with lifting heavy bags up stairs.They cannot change this, but need to make people aware. Again very steep staircase inside the property which will lead to the same problem.Central controlled A/C so temperature cannot be changed for individual rooms. This was not a problem for us as I knew where the control was so could adjust it but if I had not we would have frozen all night.The surrounding area can be a bit dubious later in the evening, with the park opposite filling up with homeless people. This is a sad problem which cannot be changed. However we did not encounter any problems.Would we stay again. Probably not but only due to the access and A/C issues",
+      "rate": 4.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "깨끗함",
+      "text": "공용으로 사용가능한 주방이 있고 화장실이 개별로 딸려있는 방이었습니다. 2층이라 계단을 올라가야했는데 짐이 별로 없어서 괜찮았어요. 방 안에서 열쇠 외에 따로 잠글 수 있는 잠금장치가 있었고 전체적으로 깨끗했습니다. 다만 방 조명이 어두운 편이어서 조금 불편했네요.",
+      "rate": 4.0,
+      "tripDate": " October 2019"
+    },
+    {
+      "title": "Not my taste",
+      "text": "I prefer hotels where for the same price, you get room service. (your room is not clean, garbage not taken out, bed not make etc.). This is a residential building with 6 rooms that are rented out. Common areas are shared, however you do get your own bathroom. The bed is very hard, the sheets are like sand paper, they make so much noise when you move around. Not a sound proof place, you can hear very loudly when someone is in the kitchen, talking, especially walking. Will keep you up all night if someone decides to come in and out at night, walk in common area, talk etc. No service whatsoever. Cant even turn the TV on, problems with their wi fi connection and No one is there to help. The stairs are very narrow and steep,  you’re in trouble if you bring big luggage’s with you. We picked it for the location only, close to train station. Don’t mean to sound negative, but it’s not my jam- I prefer service hotels for the same price.",
+      "rate": 2.0,
+      "tripDate": " October 2019"
+    }
+  ]
+}

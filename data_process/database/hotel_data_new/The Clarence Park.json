@@ -1,0 +1,279 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "The Clarence Park",
+    "url": "/Hotel_Review-g155019-d3820320-Reviews-The_Clarence_Park-Toronto_Ontario.html",
+    "priceRange": "$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 175
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "7 Clarence Sq",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 1H1",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/bc/aa/d6/the-clarence-park.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Sleep smart (and on budget) in prime downtown Toronto! Located just 2 blocks west of the posh Ritz Carlton Hotel, and 2 blocks east of the ultra-chic Thompson Hotel, we overlook a beautifully restored park in prime downtown Toronto. Whether your thing is shopping, entertainment, food, or sightseeing, find the best the city has to offer within a few minutes of our front door.",
+  "featues": [
+    "Parking",
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Non-smoking hotel",
+    "Shared bathroom",
+    "Shared kitchen",
+    "Shared lounge / TV area",
+    "Air conditioning",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Better than sleeping on the airport floor!",
+      "text": "First, Kendra at reception was awesome. Very welcoming, professional, friendly, and helpful. So nice to arrive somewhere after a 9hr flight to that kind of service. Give that lady a raise!Second, location is perfect. Lots of pizza shops/Tim Horton’s/Subway nearby as well as a liquor store. For a laughably expensive place like TO, you cannot beat the value of The Clarence Park.Third, although better than an airport floor, the beds are indeed equally backbreaking, there was no privacy curtains around my bunk, the room was very dark, and the air conditioner didn’t work. The room was so scorching hot and the radiator around the base of the room was so hot to the touch, it could seriously burn someone. I ended up just opening the window, laid on top of the sheets, and sweated the night away. Can’t imagine the room temperature in summer! Wow! And apparently there is a resident mouse (rat?). I personally missed the opportunity to say hi, but he was spotted by fellow guests at breakfast, who screamed in terror while he played peek a boo under the kitchen cupboards.To end on a positive note though, the bathroom and shower were completely spotless and the complimentary coffee and toast/fruit for breakfast was very nice. The wifi was also strong and solid and I was happy to share the breakfast area with some wonderful fellow travellers.Glad I stayed here. The 60 bucks was worth it in the end. Happy Holidays to all!",
+      "rate": 3.0,
+      "tripDate": " December 2022"
+    },
+    {
+      "title": "Ok, but was expending better for the price ",
+      "text": "Nice place to stay, Tv room sofas, nice kitchen, free breakfast, good for meeting new people. 15-20 minutes walk to union station. beds were comfortable, clean room and common parts, free breakfast, small but at least something. No hot water for 2 days, had to ask the receptionist 2 times to fix it, but still not working after the morning hours. very noisy AC unit in the room late check in fee, they have a security on site until late, they charge extra if he does the late check in.",
+      "rate": 3.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Fantastic hostel, would stay again",
+      "text": "A really good hostel. I was apprehensive reading some of the reviews before coming, but I realise it must be very dependent on your specific room and what building of the hostel you are in. I stayed in a 14 bed female dorm which was in a separate building to the right of the hostel. This was an incredibly modern and well thought out hostel, one of the best I’ve stayed in. Two bathrooms and two showers to the 14 guests, each bed had its own light, plug socket, towel, and bedding. The bed was incredibly comfy and I had a great night sleep. Each bed had a privacy curtain which was great. Lots of other people have said about feeling unsafe because of the homeless people in the park opposite- it’s really not a big deal and I’m saying this as a solo travelling 26 year old female who was walking around at 10pm at night. You’re in the centre of the city, loads of people are about, it’s a lovely part of the city, 5 tents where homeless people stay didn’t make me feel unsafe. If you’re someone who feels unsafe purely because there’s homeless people around then I think travelling isn’t for you!! The hostel staff were great, they let me store my luggage before check in which was a life saver. I would absolutely stay here again.The only downside is they let someone check in at 1.30am which I think is bad practise for hostels if they are looking to have people stay again! I think they should almost have a late check in room as you sacrifice the happiness of 13 to satisfy the 1 person checking in late!!",
+      "rate": 4.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "unorganized, uncaring, staff,  pig sty room",
+      "text": "even though they had replied by email directly, they claimed at first to not have my booking and blamed it on booking.com. when a manager showed up they found my booking but it had never been assigned a bed by them. took them half an hour just to book me in. put me in a room full of people living there which was so cluttered and dirty I literally had to clear a spot just to put my bang down on the floor. Another person in the room made phone call at 5:30 am speaking loudly. She was a long term resident and should have known to be considerate of those sleeping so early. staff just shrug this off justifying it as acceptable dorm activity. The hostel posts strict rules in regards to the kitchen as that affects them but don't care what goes on in the dorms as that only affects other guests. Guests expect others in a shared room to respect that it is a shared room. If they want to behave like they are in a private room than they should get a private room not expect the other guests to put up with bad behavour and justify it because it is a dorm. Good behaving guests should not be made to feel like THEY are the ones who need to leave, especially by staff.",
+      "rate": 1.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Your money could be spent better elsewhere.",
+      "text": "When we arrived, they had lost our reservation. Our beds were given to someone else. But we had confirmed the day before our late check in, the payment was made that same morning on my credit card  and we had all the necessary information needed (reservation number and all). But they couldn't find our reservation and our name. They gave us a first room which was or wasn't empty (nobody knew, quite the mystery) but just two hours later the real occupants of the room arrived (very awkward for everybody). We had to move to the lobby downstairs in pyjamas, half asleep, tired from our journey and with all our luggage. So at three in the morning they separated us in three different rooms in three different buildings (!) to sleep in mixed dorms with strangers. As young women, we did not felt safe in this situation. We did our best not to disturb the other occupant of the rooms when we went to sleep. The unfortunate thing is that they are refusing to reimbursed us for that night where we got no sleep. We paid to sleep together, not to sleep with strangers... They feel that because we had the right room the next day, we don't deserve the financial compensation. But why should we pay for their poor management? We only ask to be reimbursed for the first night. The free breakfast is barely meeting the criteria to be called breakfast, but better than nothing;The place could be cleaner (gross shower, stain on the beds, could use a good dusting…);Customer service is truly lacking;But great location. Even if they don't lose your reservation, you might find someone in your bed at two am.I'm sure you can find better.",
+      "rate": 2.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "A wonderful stay!",
+      "text": "Check-in was easy after hours even though will be charged a late check in fee. Staff are okay, some not too friendly but night security guy was very helpful at welcoming. The location is awesome as you have close access to the streetcar, metro stations 5-10 minutes' walk and easy access to fast food and grocery stores. The dorms are spacious; however, the downside is if you end up with a top bunk there is not power outlet access as they are all on the bottom so you may have to power up in the sitting area outside the dorm or next door in the common area (kitchen and lounges). There have been complaints about the unhoused encampment across the street in the park, but it wasn't as much as expected but still quite the eye sore for the business but it's manageable as its pretty much people walking their dogs. The place is very clean, which is strictly enforced and a good thing (especially the kitchen). I like that! The next time I am in Toronto I will definitely stay here and would recommend. Clarence Park saved me hundreds of dollars on a near the airport hotel.",
+      "rate": 4.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Total disaster!",
+      "text": "What a disaster!!! I booked the Clarence Park hotel through hostelworld. It had a very lovely 1 double bed bedroom room for $50 booked. When I saw it, I thought I lucked out. It looked fantastic and reviews on hostelword were very positive to this establishment. Right now, with COVID, hotels are generally cheaper in Toronto so I thought this was a good deal and knowing that hostelword is legit I booked it. Got a confirmation from Hostelworld, paid my deposit since I was not a member and that was it. I did book this room 1 month in advance.When I checked in, the front desk told me there was an error in my booking and hostelworld should have notified me! She told me that hostelworld got their prices wrong and they would not honour the room that I booked. Instead they gave me a bunk bed private room. I said yes, because I had something to do in 2 hours time and was on a rush to drop my bags and leave. I did not have the time to look for another accommodation. Plus it's impossible to get a hotel room at a descent price last minute! The room they gave me was VERY dirty! Walls had chips and some blood stains. Floors were very dirty, sinks had hair from previous guest, a dirty face mask was left on the floor. This was not what I signed up for!!!!!Had I known that this was the room I would get, I would have cancelled my booking and gone somewhere else. I was not notified of the error until I arrived at the destination! Hostelworld had my email and phone number. They could have notified me or even cancelled the reservation. Clarence Park Hostel also would have had at least my email. They did email me the morning of checking to see if I will come. They too could have notified me right away once they saw the booking. Overall, I was not impressed. Since the rooms were so dirty I was very uncomfortable. Thank goodness it was for just 1 night. It would have been nice if they honour my reservation or just cancel it in advance so I could have made other arrangements. I don’t recommend this hostel at all! Go somewhere else!",
+      "rate": 1.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Nice People, Bad Smell",
+      "text": "When we entered our room (#16), we were hit with the smell of chemicals from two Glade Plug-ins. The air, sheets, pillowcases, and towels were all permeated with the smell.We opened the back door (there were no windows that opened), changed the sheets and pillowcases, and did everything we did to get rid of the stench. My eyes burned, and my fiance had a scent allergy, so she felt nauseous and dizzy and got a headache (which was still present 18 hours later).We had to leave (after asking if another room was available) and book a last-minute, more expensive place to stay. We asked for a refund but were denied as we cancelled within the hostel's stated cancellation window (not sure how that was possible as we weren't aware the room was going to smell of a chemical factory).Nice staff, though.",
+      "rate": 1.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "Would not recommend!",
+      "text": "The first thing that shocked us was the standard of the room. The room did not look like the pictures online. The walls were filled with marks and stains; the heater in the bathroom was hanging off the wall and the curtains covering an emergency door were filthy. Secondly, the room did not have a window. The room therefore was not only dark, it also had a musty smell due to lack of ventilation. We were not informed at any point that the room would not have a window, as we would not have booked the room if we had known this. On the website and on Booking.com you only show private rooms with windows. Thirdly, the biggest issue with the room was the complete lack of soundproofing. Every time somebody in the room above or opposite flushed the toilet we heard it as if it was in our room. As you can imagine the toilet was being flushed throughout the night. This kept us awake and had a significant impact on our trip. The toilet was not the only sound keeping us awake. The walls were so thin that we could hear every footstep someone made above and with people coming and going throughout the night we were unable to have a fully restful night. There was an encounter on one night where a person sounded as though they were being sick outside our room at 2am. We were also concerned that the plugs on the wall and the heater in the bathroom were not secured properly on the wall and therefore in our view were dangerous. Finally we were disappointed by your staff.  We encountered a negative experience when trying to leave our bags on Tuesday morning. After seeing the reception locked up and no member of staff in sight. We contacted the hotel by WhatsApp and sent an email. We received no reply even to this day! After some time in the reception, unsure what to do we found out that a member of staff was sat on the sofa and could clearly see that we were looking for a member of staff, but chose to ignore us. It was only after another guest asked her a question that we realised she was a member of staff. This wasted a lot of time on our final day and left us with negative sentiments on our final trip. We understand that staying in a hostel is not a glamorous experience but for the money we paid and the glowing reviews we were expecting a clean room with a window, enough sound proofing to have a decent night's sleep and friendly and helpful staff.",
+      "rate": 1.0,
+      "tripDate": " April 2023"
+    },
+    {
+      "title": "So-so",
+      "text": "Be aware that this hostel is directly opposite a homeless encampment and a dog park.  Our room was fairly quiet, but we were still woken by dogs barking very early.Otherwise, the private room was clean if a bit shabby.  Convenience store right nearby and location good to access the airport etc.",
+      "rate": 3.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "I place i loved and wanna be here again",
+      "text": "Clean, calm, quiet, secure place with friendly staff.: At the Board Desk, 3 beautiful women (two from U.K. and one from Spain) will receive you with a smile : Each can talk to you in a very good English with colorful voice accent: Nancy, Kate and Esther.  Kate has a lovely English voice, Nancy has a remarquable french voice and Esther can talk to you in spanish.",
+      "rate": 4.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "Fun Place, Great Room",
+      "text": "We stayed February 17 -20 and had a great stay. We booked the deluxe private with en-suite and could not be happier! I'll give quick bullet points instead of a story book of our stay..Room: Bright, Clean,TV and desk, towels and soap provided, true to the online photos, warm decor. We could see the CN tower from bed Facilities: Clean, well stocked, social communal areas, fun grown up vibe, other guest were nice and social.Staff: Welcoming, helpful, fun, knowledgeable, available, passionate about travel and building relationships, trustworthy. Location: Excellent, close to transit, Great food and bars within walking distance We were greeted with warm smiles and lighthearted jokes upon arrival. Check in and out were a breeze. Hostel staff were friendly, helpful and welcoming. They answered all of our questions and were beyond accommodating. Our room was fantastic and we really liked the vintage and loved feeling the building had. The cafe next door is delicious and the hostel discount the cafe offers is nice.We went into the main building in the evenings a few times and the kitchen was buzzing, people were playing games and having some drinks with each other- It had a very welcoming and home vibe.Transit is close by and the hostel is easy to get to from the airport and train station. Its easy to grab a bite, a drink or a new pair of shoes; everything is so close. We had a few hours to kill before our flight and having a secure place to stash our bags free of charge and worry was amazing. I will touch on the topic of bed bugs, since it has come up in other reviews. We did not encounter any bed bugs, or indication that bed bugs have been there in the past.A big thank you to the staff for making our trip memorable and fun. We have already told friends to check our Clarence Park and we will be back for sure!",
+      "rate": 4.0,
+      "tripDate": " February 2016"
+    },
+    {
+      "title": "Perfect in the end",
+      "text": "I recently had a two night reservation with Clarence park. I was a solo male traveler so I opted to book the six bed mix dorm suite.  I have stayed in well over two dozen hotels with moderate to positive experiences at all of them. The pictures of the rooms online reassured me that I had made the right choice.   I could not have been more wrong....The room was lacking in its comparisons to online photos.   To start, no bed had a privacy curtain, the a/c unit was unplugged and stashed in the corner with its plug broken and the window, which I assume the unit sat was missing its screen, the floor was dirty and the mattress looked like it had a few miles on it.  But for 35 a night I wasn't gong to complain.  After exploring the city I came back around 10 to find that the lack of a/c and zero air circulation had made the room an over that no amount of clothing removal would solve.Now the following is not a reflection of the hostel.  The room had 3 other occupants. One occupant had been there for a wedding and had been there for 5 days and it showed. His stuff was everywhere and had definitely spilled over into communal areas. No hangers or shelving was available. The other occupants were nonexistent in there presence in the room.  I briefly spoke with one and appeared he would be no issue.   We'll as the sleepless night in a sauna of a room was moving forward....things got worse. The occupant who owned the room came back around 1am and proceeded to make enough noise to wake the dead. After he went to bed he started to snore so loud that it would wake the dead on the other side of the country. This annoyed for on two accounts. The first being that he snored loud, second that snoring meant that he was sleeping and I wasn't.  I put headphones on and it kind of helped. My bunk mate from earlier came in around 230am and he had a female companion with him. Between the heat, the snoring roommate and the roommate getting some action....I got a total of about 45 minutes of sleep that night. At the earliest opportunity I went to the front desk and asked for availability of a single suite and lucking someone was checking out.  I didn't even ask the price, just threw down my card. I opened the door to be welcomed to a private queen size bed with a functioning a/c, private bathroom that rivaled a fine hotel and cable tv.  Needless to say I caught up with the lack of sleep from the previous nightThe lowdown...do not stay in the 6 bed mixed dorm suite.  Pony up that little extra and get the private suite.  You are going to pay hostel prices but get a hotel quality room. Also you will not find a better more accommodating staff at any hostel in the world. I would recommend this place to anyone and stay again as long as you avoid the dorm suite.",
+      "rate": 3.0,
+      "tripDate": " July 2015"
+    },
+    {
+      "title": "Will stay here again, for sure",
+      "text": "Remember this is a hostel, not a hotel, and everything is top-notch from there on in.  Don't expect elevators, bathroom amenities like shampoo, daily room cleaning, or other hotel features. Danny is friendly, helpful, and hyper, a perfect personality to host a place like this.  This is the second time we've stayed here during a convention that has all the nearby regular hotels booked solid at higher-than-baseline rates.  It's only a few blocks from the convention center and affordable!  We stayed in a private room with ensuite bath; there are dorm-style rooms too.  Room was clean, comfortable, with an individual heating unit in the room.  I enjoy having access to a full kitchen.  Never did get the wi-fi to work in our room, even though it showed up on the list of available networks.  However we connected just fine in the common areas.  Love the food and service at Cafe Neuf, too.",
+      "rate": 4.0,
+      "tripDate": " March 2015"
+    },
+    {
+      "title": "Nice stay in downtown Toronto",
+      "text": "We stayed 2 nights while in Toronto, they had parking out back which was great because the park is in downtown Toronto so we just woke up and hit the pavement and didnt have to worry about our car.  We stayed in a private suite that had a bed a tv a closet and a full sized bathroom.  Rooms were clean and comforitable. We did have to switch the mattress around as it had a dip in it from use, but it was still comforitable.   Sheets and towels were clean and new, loved that we could see the CN tower right from the bathroom window.  Jeff and Danny were great they even let us use the parking the next day even tho we werent staying there anymore.   We did not use the common areas but the kitchen was modern and clean and the couches looked comfortable and there was a dvd player with tonnes of dvds to watch. Also there is a petro gas station right next door which was good for us to stock up on water.  We would stay here again!",
+      "rate": 5.0,
+      "tripDate": " September 2014"
+    },
+    {
+      "title": "Good location and decor",
+      "text": "We stayed for two nights mid-week and it was just what you expect a hostel to be. It was not mentioned before arrival that they did not accept credit cards for payment, but thankfully we had just enough to cover the cost of the stay. After waiting a good few minutes, for who I think was the owner, to finish his phone call we were checked in and shown to our room (a deluxe double with en suite) which was on the 3rd floor of building 10, fortunately we only had one cabin bag between the two of us and not heavy suitcases. The majority of the room was taken up by the bed which had a metal frame that required manoeuvring around as to not stub your toes in the dark, however the room was tastefully decorated with modern ikea furniture and bedding, a flatscreen TV on the wall and an ipod dock (was the old 30pin not lightning). There was plenty of closet space and hangers as well as a trolley to put our bags on. The bathroom was clean and it was a nice surprise to find that there was a bath with shower, even though the plug switch didn't work 100%, there was no frosting on the window so anyone could look in but this was quickly remedied by placing a towel/bath mat over the lower section of the frame.Through the windows we had an excellent view of the dog park and it was not overly noisy for its proximity to downtown toronto. The location was excellent, a short walk to shops and restaurants and public transport. One concern was that of security, we were told that to get into our building we would have to enter a code, however both the outer and inner doors were never locked so anyone could come and go at any time, the same with the main building. When storing and collecting our luggage the storage room was unlocked by a member of staff and then they wandered off rather than waiting for us to put the luggage in and locking it, another cause of concern for security. The windows in our room did not lock either. We did not have any encounters with the staff apart from checking in/out as we did our own thing during the day and used it just for sleeping/showering, but they seemed quite friendly and pleasant even if we did not get the jokes. There were other facilities such as a kitchen, computers, lounge with tv and playstation 3, we did not use these, but it was a nice added extra. Overall this was a good hostel for a few nights break in Toronto, it had all the basic amenities and was not overly expensive about £25pp a night (including taxes). Just keep an extra eye on your belongings and lock your suitcase and door before leaving.",
+      "rate": 4.0,
+      "tripDate": " April 2014"
+    },
+    {
+      "title": "A Mini Manor with a low class service & selfish owner...",
+      "text": "I can tell you that the owner was selfish like most of the German guests there. I told him I stayed there 3 weeks and always paid on time and kept clean the place and I was cleaning the mess of the guests in the kitchen almost every day. Sometimes the cleaning staffs know the kitchen is messy and they stay sit in the living room watching TV….I sent an email. I got a reply like what they did not found anything and the owner said in 9 years they never been stolen. It is a lie. Somebody investigated for me and they find out that Clarence Park Hostel have been stolen several times. He seems to not care that my bag of shoes that contain a Samsonite iron and 2 pairs of flip flop and my Adidas shoes blue and black brand new was missing. They know that my entire luggage including my laptop has been stolen at Hong Kong airport in last august and I just bought new clothes and shoes. So I was pretty upset that he did not care of my situation. He knows I was not rich. I sent him a formal notice saying I will wait 7 days his reply. He did not replied. In fact he ignored most of my emails. I sent a final formal notice to ask him to retrieve my shoes and iron or refund me 200$ CDN. He never replied. One time I asked him to open the locker door to pick up my thing for the check out. He said hold on. He went up stair do something then came back to his computer and saw me coming back and then did not came to open the locket. Instead he was watching a video! I think he has a complex of inferiority and he was waiting that the customer (ME) ask him like a dog to open the door please!!!!!!!!!!!! Funny! Sometimes he watch video on his computer with speaker very loud that we cannot ear the TV in the living room that is next to the front desk! Instead to use headphone to not disturb the guest. He is too selfish and act like if he was our boss and we was the staff!It is only when I treated him of liar and low class and that now he gonna lose me as customer that he finally sent me that last email below: Email wrote by Danny Zern Owner:   We have no idea were the items that you are claiming to be missing.  It was explained to you many times. his will be the last email that will be sent to you regarding this matter. We have considered it closed. As far as the harassing and vulgar content that you have written in this email, we will have no choice but to bare you from returning to our hostel. Any attempt to make a booking will result in a lose of your deposit to your booking agent.",
+      "rate": 1.0,
+      "tripDate": " November 2013"
+    },
+    {
+      "title": "Double charged",
+      "text": "I was very disappointed with this place. They double charged me (I had paid a previous deposit and they did not recognize it when I arrived to the Hotel). On my confirmation they said they accepted credit card and when I arrived they said they only accept debit, cash or travel checkThe bed was extremely noisy and there was a lot of garbage behind the bed from previous guests.",
+      "rate": 2.0,
+      "tripDate": " October 2013"
+    },
+    {
+      "title": "Good location, very bad customer service",
+      "text": "The building is nice and the location an area very close to city center, but reception completely uncare on customers. After nine hours on a train I arrived completely soaked to the hostel because of the rain, and they didn`t want me to get in because they close reception at 22h and it was 22:30. When I booked in Internet nothing was said to me on this matter. Finally I got in but I didn`t got a room key, so I couldn`t get out for dinner, at the end I spent almost 24 hours withoul any food. When I complained, at least the guy in reception didn`t want to take my payment but never said sorry. I`ve been backpacking more than 30 years and never been treated so uncarefully.",
+      "rate": 2.0,
+      "tripDate": " June 2013"
+    },
+    {
+      "title": "The Clarence Park: A Boutique Hostel",
+      "text": "I spent 5 nights here last week while in Toronto for a conference (my first time to Toronto).  The outside of the building immediately sets the tone for what's to come.  It has such character and ambiance that it never felt like a traditional hostel.  It is right across the street from a nice, small park and its location at the end of a busy street makes it very quiet, yet very convenient to all the city spots.  15 minute walk to the Convention Center and the CN Tower, 15 minute walk to Queens Quay and the Toronto Music Garden.  The lovely french bakery/patisserie (right next door) was a great place to start my day with a cup of coffee and fresh baked pastries.  The decor was so french and quaint and the music was french so I really felt like I was in France! The dorm room was comfortable (I was in a female 6 bed room with our own bathroom/shower) and I had great roommates that became friends (from England, Ireland and the Netherlands).  The lounge areas were very spacious with large screen TVs, kitchen was BEAUTIFUL with long counter for working while eating and watching large screen TV, and BONUS was a lovely roof top terrace.  My dorm room actually had a juliet balcony that overlooked the park and the CN Tower to my left.  The shower was large and clean and had great water pressure and HOT water--very nice after long days of touring the city.",
+      "rate": 5.0,
+      "tripDate": " June 2013"
+    },
+    {
+      "title": "Has both good and bad sides",
+      "text": "Here is what I liked:+ great location + very nice staff at the receptionand what I didn't like:- I stayed the first few nights in the main house which is basically a student dorm (since the place has a long-term cooperation with a language school)- The last few nights I stayed in a house with little students which was more cozy but hat a strange small; also, the official pics are very different from the reality (the house was old and the interior of the rooms was not very modern)",
+      "rate": 3.0,
+      "tripDate": " June 2016"
+    },
+    {
+      "title": "Beware of bedbugs",
+      "text": "My friend and I stayed in a 6 bed dorm on the 3rd floor. To be honest, upon arriving the hostel was just what we were looking for. It's in a good location and it seemed clean. As we woke up on our last day, this guy named Ivan who lives full time in this particular room tells another guest not to put their clothes on the floor since there's bedbugs. Well thanks for not letting us know this sooner because now I've brought bedbugs back with me. Ivan was nothing but rude, negligent, and incompetent when it came to inviting and preparing his guests for a comfortable stay. Worst of all, he's allowing the spread of bedbugs. After informing the front desk about it they told us with ease that bedbugs come and go. With that attitude they might as well spread throughout the entire hostel. Until this is completely taken care of there's no way I'd recommend one stay here.",
+      "rate": 1.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "Has some good, but also some very bad.",
+      "text": "While I was pretty intrigued at first, because the hostel is rather small and therefore has a nice family vibe to it, and it is also very well located, soon it turned out to have some obvious problems.First of all, since it is mentioned in another review from a few days ago, there was, and probably still is, a bedbug issue. I waited with my review to give them a chance to fix that, because it seems to be a rather common problem in Toronto. But now, half a year later, the problem apparently still persists, so they did nothing to address that. Even back then I was wondering, as the owner, Danny, thought it a good idea to chase the bugs down individually with a torch, instead of really finding and exterminating the source of the problem.Which brings me straight to problem number 2, which is Danny himself. While playing the entertainer for his customers, he fails to take any responsibility for the flaws of his hostel. He is merely being pretentious about it. When I mentioned the bedbugs, he went to look at them with a torch. When my dorm mate mentioned water dropping from a gaping hole in the ceiling, he went to look at it. This happened 3 times during my stay. When stuff got stolen from a room, he went to look at the empty room. I guess you see the pattern...He is also being manipulative and cares about his inflated ego first and foremost. He shows Zero understanding for any form of criticism and always tries to shift the blame on other people. I witnessed an incident, where a girl wanted to leave the place because of the bugs and then, after a longer argument, she wanted to pay with her credit card. Now, the hostel doesn't accept credit cards, only debit. I know that, because he told me. In that particular case though, he did not mention it and was enjoying this girl getting 3 cards refused by the machine, just to make her look bad in front of everybody else.In regards of the aforementioned theft, he shifted the blame wholly on the young couple who got robbed. Brings us to problem number 3: The hostel IS NOT SAFE! There has been a long history of theft going on there, which I heard about from speaking with long term residents and even Danny himself, who then said that it was all because of a former staff member. Bad enough, I guess, but there is more: Lockers are only downstairs in the back of the common area. These lockers were broken and robbed one day, a long term resident told me. So, no security on the rooms and also none in the lockers. There are cameras throughout the building. After the theft nobody even cared to look at any footage. My guess is, that those cameras are nothing but dummies.During my 3 weeks (of which all the bad things happened in the 3rd, just to explain) in that place the door code never got changed. Every evening there were more people from outside the hostel in the kitchen than actual residents.That's the bad stuff. Now a little more if the good: The kitchen is well equipped, the rooms are very bright, the communal areas are comfortable and co-owner Jeff is a really, really pleasant person.All in all, my final verdict is that, would I have left the hostel after my first 2 weeks, this would have been a 4 star review. But I had to experience the bad side of this place in my last week, therefore I can't give more than 2 stars.",
+      "rate": 2.0,
+      "tripDate": " March 2015"
+    },
+    {
+      "title": "MEH, Nothing Special. ",
+      "text": "Stayed here for 3 nights. First of all we waited like 25 minutes at the reception to check in because the guy was out getting some lunch (understandable but kinda would be helpful to have someone else on the desk) staff are a bit strange, not sure if they were working there or just chilling, there was no professional ethic. The rooms were a good size but the air con was a waste of time, it blew out hot air most the time. There was decent size rooms like the kitchen and a tv room that were useful but all in all this hostel was pure average. Location on the other hand is perfect! Just be careful of the guy who works there (he thinks his like a professional fighter or something, he told me his not a guy you want to mess with, I'm like dude you work in a hostel!)",
+      "rate": 3.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "Excellent location",
+      "text": "My friend and I reserved 2 beds in a dorm for the weekend. We didn't have any other expectations than having a clean room and being well located to visit the city by foot.Mission accomplished! The location was great, the service was good, the room was clean and the beds had curtains for more privacy.Good tip: if you go to Toronto by car, ask the hostel to reserve a parking place. It is just behind the hostel and it is only 10$/day.So we definitely recommend this place!(psst! There is a very nice French coffee/restaurant beside the hostel. It is very cute and not that expensive for the quality of the food. Le Neuf Café)",
+      "rate": 5.0,
+      "tripDate": " April 2015"
+    },
+    {
+      "title": "The staff were hurrendous",
+      "text": "When we stayed here, they had long term residents, lots of them. They kind of take over the hostel with a negative atmosphere.  The staff were really bad, always complaining, we heard them name calling guests on more than one occasion. Other than the CN tower, it's not close to anything in particular.Plus points: the room we had was great, the bed was good.",
+      "rate": 1.0,
+      "tripDate": " November 2013"
+    },
+    {
+      "title": "Good location, average inside ",
+      "text": "I stayed in one of the private rooms with an en-suite. The hostel is in a perfect location, super close to a lot of places (downtown, train station, CN Tower, supermarket, Chinatown). I was able to walk pretty much everywhere. My room was a bit dirty, dusty and had some cobwebs. The window was actually a fire exit door into an alley way so I didn’t open it much. I didn’t spend much time in the room so it was fine. There was a smart tv with Netflix which was a nice touch.  The house were I was staying didn’t have a shared kitchen but was right next to the bar/restaurant. When I was shown to my room the receptionist told me the aircon remote was stolen by the previous guest so I could just “stand on the table to adjust it” - the table had wheels on it so the only option was to unplug it at the wall. When it was going it was so loud it was impossible to hear anything. Bed was comfortable and the room was quite spacious. The location is definitely the biggest positive for the place. I would probably stay there again.",
+      "rate": 3.0,
+      "tripDate": " July 2019"
+    },
+    {
+      "title": "Location is amazing! ",
+      "text": "For the most part, it’s a really great hostel. It’s location is perfect. You can walk to heaps of public transport. There’s also amazing views of the CN tower, particularly from the rooftop at night. It is a small hostel though. I found it a bit difficult taking a suitcase up the staircases there due to the size. The shared areas were really nice. The kitchen was big and there was plenty of food storage areas. There was Netflix and computers and a range of good books as well. Also as previously mentioned, the rooftop was very lovely for socialising and getting some good views of the city. The rooms are very good. I was in an 8 person room and I would say it was cozy but not so much so that I was on top of everyone. It was great to have an en-suite in the room as well as a separate toilet downstairs for when you need it. The lockers in the room are only very small - they hold a few valuables. The room I was in a lot of the lockers could not be opened meaning that they weren’t in use. Another thing I noticed is that some beds had curtains while others did not. Not a significant issue but worth knowing. One thing worth noting is that reception is only 9am-9pm which caught me and a few others off guard. Most of the staff are lovely but there were a few who seemed a bit more hostile than others. There was also the case that the desk would be unattended for extended periods of time. Overall, it’s a great place. There’s plenty of socialisation as well as a great location and facilities.",
+      "rate": 4.0,
+      "tripDate": " July 2019"
+    },
+    {
+      "title": "Great location",
+      "text": "Perfect location - right in the city centre and about a 15 min walk from Union train station. The CN Tower is seen from the bedroom window. We had a private room which provided for all our basic needs - a good bed and clean bathroom. It was slightly noisy of a night time but this is to be expected of a hostel. Staff were fabulous and I'd definitely recommend The Clarence Park",
+      "rate": 4.0,
+      "tripDate": " March 2019"
+    },
+    {
+      "title": "Great location ",
+      "text": "I had a private room with an ensuite which was basic but clean and a good size. It overlooked the park which was really pretty in the snow but there was some noise late at night and early morning. The location of the hostel is great and walking distance from everything. The only downside was that I felt quite secluded, on arrival I was only shown to my room (which was 2 doors down) but not where the kitchen, common room etc were. It would have been nice to have a small tour or at least told about the common areas.",
+      "rate": 4.0,
+      "tripDate": " February 2018"
+    },
+    {
+      "title": "Staff are amazing!",
+      "text": "Perfectly placed for a visit to Toronto. The hostel is 5 minutes walk to the Bluejays stadium, the CN tower, and a host of nice restaurants. The staff could not have been more welcoming. We stayed here as a group of ten young people and two teachers. From the moment we checked in to the moment we left, everyone looked after us. Special thanks to Marlena who made our breakfasts and made our day each morning with her cheerfulness. Some have posted that the kitchen was dirty, but we always found it clean. I would definitely recommend this place if you want a cheap place to stay right in the city centre.",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "BED BUGS!!!!",
+      "text": "I posted about my stay here and the hostel accused me of being a competitor! I stayed here and was covered in bed bug bites!! The hunky receptionist is a dick head and knowingly put me in a room, on a particular bed that he was aware was infested with bed bugs! After being in a hot room with no ac during a heatwave in Toronto, I asked to  have my room moved, annoyed he transferred my room and I was assigned a new bed. I ran into a nice french traveler who told me he was just moved from a bed that had bed bugs. Not thinking much of it, I settled in my new bed. the next morning my legs were covered in puss!! I saw the french guy in the hall and asked him his room number, to my surprise I had been transferred to the bed he was transferred from!! I received a full refund from the receptionist after I flipped out! I have my receipt from my refund and I still have my room key to prove my stay there! I am NOT a competitor, I still have scars on my legs from all the bites!",
+      "rate": 1.0,
+      "tripDate": " July 2015"
+    },
+    {
+      "title": "Bad security and service",
+      "text": "Good points - great location. kitchen, public space. Dorms ok.Bad points - Danny, the owner is an arrogant, selfish guy. He should not be in the hospitality business.I had a bag stolen (approx $200) but staff denied taking it although I know THEY did.If you stay there watch your bags at all times and do not just leave them in the dorm. LOCK EVERYTHING UP.If you are part of the LGBT community stay aware. Not gay friendly.",
+      "rate": 2.0,
+      "tripDate": " March 2014"
+    },
+    {
+      "title": "Very unprofessional place",
+      "text": "For the price, the rooms weren't bad other than the uncomfortable beds and half broken a/c that was blowing cold air from the front and hot from the back.The location was the best part of this hostel. In the perfect spot downtown and close to anything and everything you need.But the downfall, the second we went to check in, we noticed how unprofessional the lady at the front desk was. The way she was talking and the vulgar words she was using in front of people who were about to check in, was extremely unprofessional.We were ok with all of this and we're dealing with it all because the price was right... until it came to the last day..We weren't informed when check out was so we assumed it was 2 o'clock, like check in.While waiting in our room to check out, the cleaning lady came to change the sheets and did not mention anything about us having to check out.We went downstairs and checked out no problems and on our way we went.At the airport we noticed an email saying we had checked out late and we're being charged a fee. After checking with the credit card company, we found out we had been charged $64.00 for late check out fee! MORE THAN WHAT WE PAID FOR ONE NIGHT.We later found out that check out WAS at 2 o'clock and were told we checked out at 2.30, which is not true.The people running this hostel are clearly money grabbers and they obviously are not putting the money they're stealing from people into their hostel because it needs a serious upgrade.Not impressed and would never stay here or give these people my money again.If they got new staff or owners then maybe it would be worth it.",
+      "rate": 1.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "Fantastic Value, Great Price, Great Location, Noisy",
+      "text": "I'm too old and too financially comfortable to be staying in hostels, but I couldn't resist giving the Clarence Park a try during a conference, when my other hotel options started at $200 night, and the CP was going for $90 (private room, private bath, double bed).For my five nights at the CP, I saved $550, which covered the cost of my airfare from the west coast. Well worth it.On the plus side:The location is excellent. 10 minute walk to Chinatown, 15 minute walk to the Kensington Market area, 20 minute walk to Yonge St, 6 minute walk to the Metro Toronto Convention Center, 8 minute walk to the St. Andrew's subway stop, 2 minute walk to restaurants, small markets. The CP has a much handier location than the much more expensive hotels near Union Station.Comfortable mattress, so many electrical outlets! (even two power strips), decent towels, windows that open wide, flat screen TV. My room (#18) top floor, building 10, has a view of Clarence Park and the CNN tower. Painted wood floor (yay! no carpeting in room!). I spent very little time in the communal kitchen, but it looked clean enough.The room came with three towels, bath mat, four wooden hangers, two small bars of soap, one bottle of liquid soap, many rolls of good toilet paper, two air fresheners. The room and bathroom were as clean as in any very clean hotel. No hairs, no dust, the toilet bowl was clean: no complaints.Free wifi, mostly good. One night I had problems getting a signal. Front door to building has a key-code lock, and I never found the door propped open, or not fully shut.Not so good:Room 18 has two windows, but only one had a screen, so with warmer weather, and window open, lots of flying insects.4 channels on TV, and one of those is in French.Only one bedside lamp, instead of two. No shampoo. The bathroom window came with a towel wedged between the upper and lower panels, serving as a curtain. Carpet in hallways were stained, but appeared vacuumed. No fan in my room, and on a warm (22 degree) day, the room was stuffy.The outdoor seating area on the third floor looked crappy. There's no lock on the door to the third story deck, and with four foot fences separating it from the flanking decks, it would be possible for someone to gain entry to any of the row houses, and scramble in. It would be a good security feature to add a lock.Worst of all, was the noise. The top floor of building 10 has two rooms; the private double, and a small bunk room. The guests staying in the bunk room gave no thought to the effect of speaking at full volume while in the hallway at 11:30 pm.Worse even than that, is the ambient noise from the city. I brought some of this on myself because I like to sleep with open windows: garbage trucks that collect at 11 pm, street sweepers that sweep at 11:30 pm, ambulances/police cars sirening on Front Street, muscle cars and motorcycles roaring on Spadina, dogs barking at 6 am in the Clarence Park dog park. Each night I lost about 2 hours of sleep because of city noise. Even with windows closed, as they're single paned, noise happens. Every time noise intruded upon my sleep, I reminded myself I was saving $110 a night, and that helped.",
+      "rate": 3.0,
+      "tripDate": " May 2015"
+    },
+    {
+      "title": "A really great find!",
+      "text": "We stayed at the Clarence Park for 2 nights at the end of February and had a great time. We reserved the deluxe private double, and were really impressed. Having booked last minute we were worried about it being expensive and we chose the Clarence Park in a hurry... but it was a really great choice! The room was spacious and light with great high ceilings, the best was very comfortable, and we could even see the CN Tower from our window! We were in the 2nd building which was really quiet even though it was a weekend, so slept well too!The staff were very helpful, particularly when it came to parking - there was a spot right behind the hostel where we could leave our car for the stay.Great location, 5 minute walk from the CN Tower, not far from Chinatown either, and a lovely spot for brunch just next door! Would definitely recommend this hostel, particularly to young couples looking for a great room at a great price!",
+      "rate": 4.0,
+      "tripDate": " February 2015"
+    },
+    {
+      "title": "Not great, the three d’s dirty,disgusting and disorganised ",
+      "text": "Not a great place to stay.Very disorganised and also dirty rooms.We booked in to find the air conditioning was not working during the summer.They tried firstly to put my partner and I in to a bunk room but finally managed to get us in a room after threatening to go somewhere else.They said we could have this room for a night but May have to change for the next night??? Weird right?After a big day out at Niagara Falls we returned tired.Nobody could tell us where our luggage was or what room we where now in.After 20mins of fluffing around she gave us our old room and room key and we headed for our room.We opened the door to be greeted by a half naked man!We returned to the desk where after a few calls discovered our things had been moved to another room.The next rooms television did not work and I asked for a new HDMI lead as the one in our room was missing.The lead never came.This room was not very clean or very nice.The final night we where moved again in to a bunk room, I am six foot tall and didn’t fit.Strangest stay I have ever had anywhere.Don’t bother with the food out the front either yuk!The last night they asked us to take off our own sheets for the laundry.We then got to see the mattresses (see the pic).I have stayed in third world countries and they manage to be cleaner than this.",
+      "rate": 2.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "Can't beat the location",
+      "text": "Stayed at The Clarence Park for 6 nights and everything was great. The location is incredible, literally open the front door and the CN tower is staring you in the face! Because of the great location I walked my way around the City each day, only using the subway when I went up to Casa Loma (well worth visiting by the way!)I had a private room in building 10: the bed was very comfortable and the room spacious. My only comment would be that the shower pressure was quite poor but not really a major problemDidn't really spend time in the common areas so can't really comment on atmosphereWould recommend",
+      "rate": 5.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "Good hostel for price but words of caution from our visit",
+      "text": "Clean hostel with great communal areas and kitchen. Super close to every amenity we needed (food, MTCC, CN Tower, seriously everything!) and they also provided blankets/towel/pillow etc. The staff I personally encountered was friendly and helpful. Some criticism/words of caution that may help someone make their mind up about this place:We stayed as a large group (8 people) so they had to add an extra bunk to our room. This made it very tight on room, but it was also appreciated by our group that they would put us all together instead of spitting into two. Since we required a larger than normal room, we were put into an area I presume is also the staff area and we had to share a bathroom with 8 people PLUS staff who lived downstairs (~14 people in total) which created a big inconvenience when we expected to have our own private one. The staff who stayed down there seemed angry that there was a steady stream of people in there in the mornings, but this wasn't our fault!The room temperature was VERY patchy: we had it on its highest heat but it would feel like ~5-10 degrees C in all the bottom bunks (especially cold by the window). When we asked for a space heater, the heater blew the electrical breakers in the building so we obviously were not able to use it. I asked for extra blankets and we got 1. There was construction almost every morning at 8 am and it sounded like the drill was going to puncture the wall into our heads. I know this is unavoidable but a heads up on construction that would affect us would have been nice.The kitchen had almost no room to store any food because there were so many other people using the fridge/shelves at the time. Didn't directly impact us, but definitely something to consider if planning to buy your own groceries during some/all of your stay.Wi-Fi was also on and off. I personally was never able to connect for more than 5 minutes, but others in our group were able to connect for longer.We didn't have much trouble with other resident's noise, even on the ground floor.Overall, the hostel was nice and I would stay here again for the price, location, and friendly atmosphere. However, I would probably consider the 4 person or private rooms instead of a large group.",
+      "rate": 4.0,
+      "tripDate": " March 2017"
+    },
+    {
+      "title": "Horrible ",
+      "text": "Worst guest house never seen, loudly and not 100% cleanNo one to welcome in the lobby they do not care about you because 100% of the customers are ef students They reduce the water consumption They do not pay attention to the noise",
+      "rate": 2.0,
+      "tripDate": " February 2017"
+    }
+  ]
+}

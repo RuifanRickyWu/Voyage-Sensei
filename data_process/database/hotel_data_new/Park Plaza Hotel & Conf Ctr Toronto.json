@@ -1,0 +1,71 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Park Plaza Hotel & Conf Ctr Toronto",
+    "url": "/Hotel_Review-g155019-d2179349-Reviews-Park_Plaza_Hotel_Conf_Ctr_Toronto-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 5
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "360 Oakville Place Dr",
+      "addressLocality": "Toronto",
+      "postalCode": "L6H 6K8",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+  },
+  "description": null,
+  "featues": [
+    "Internet",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Bar / lounge",
+    "Restaurant",
+    "Spa",
+    "Non-smoking hotel",
+    "Laundry service",
+    "Air conditioning",
+    "Room service",
+    "Refrigerator",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "PARK PLAZA TORONTO",
+      "text": "Staff are gracious, conscientious, attentive, and wonderful to deal with. This is a hotel we will definitely return to, hopefully soon. We adore their accommodations and their restaurant. They have a fabulous \"Tea.\"",
+      "rate": 5.0,
+      "tripDate": " March 2012"
+    },
+    {
+      "title": "Enjoyed My Stay",
+      "text": "The hotel is a gem - an oasis for for well-traveled guests. The staff go out of their way to accommodate every request and continuously add touches that make your visit phenomenal.  The rooms are spacious, well appointed and spotlessly cleaned on a daily basis.",
+      "rate": 4.0,
+      "tripDate": " January 2016"
+    },
+    {
+      "title": "Hidden blessing",
+      "text": "I'm shocked as to why this hotel isn't much popular amongst the crowd. It's a well established, well serviced and well maintained hotel. They have a in house restaurant which is definitely worth visiting for it's extremely delicious food. The staff here was very active, attentive and always on their toes to fulfil the customers demands.",
+      "rate": 5.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "Hidden jem",
+      "text": "Can't understand why this dining room isn't more popular. They have a unique menu that allows choice salt free and other combinations as well as a regular menu. Rack of lamb was super delicious cocktails were plentiful and good service. If you like a relatively quiet restaurant conducive to normal voiced conversation this is the place.",
+      "rate": 5.0,
+      "tripDate": " April 2016"
+    },
+    {
+      "title": "Very attentive staff",
+      "text": "We have made this hotel our stay, park and fly choice for Toronto.  The rooms are nice, love the neighborhood and interesting stores, and the staff lean over backward.  The Sportsbar is very reasonable and the food is great, as is the service, and leaving the car while away is not a problem and the shuffle driver is ok.  We will stay again when we return from our trip and are looking forward to some shopping.  The hotel is at the junction of Hwys 400 and 401, very convenient for us.",
+      "rate": 5.0,
+      "tripDate": " January 2013"
+    }
+  ]
+}

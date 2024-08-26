@@ -1,0 +1,329 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Residence Inn by Marriott Toronto Airport",
+    "url": "/Hotel_Review-g155019-d543518-Reviews-Residence_Inn_by_Marriott_Toronto_Airport-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 443
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "17 Reading Crt",
+      "addressLocality": "Toronto",
+      "postalCode": "M9W 7K7",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0a/76/89/exterior.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Parking",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Free breakfast",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Free airport transportation",
+    "Business Center with Internet Access",
+    "Wifi",
+    "Indoor pool",
+    "Heated pool",
+    "Breakfast available",
+    "Breakfast buffet",
+    "Free shuttle or taxi services",
+    "Airport transportation",
+    "Shuttle bus service",
+    "Conference facilities",
+    "Banquet room",
+    "Meeting rooms",
+    "Baggage storage",
+    "Non-smoking hotel",
+    "24-hour front desk",
+    "Dry cleaning",
+    "Laundry service",
+    "Self-serve laundry",
+    "Air conditioning",
+    "Desk",
+    "Dining area",
+    "Fireplace",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Sofa bed",
+    "Bath / shower",
+    "Housekeeping",
+    "Seating area",
+    "Separate dining area",
+    "Separate living room",
+    "Sofa",
+    "Telephone",
+    "Wardrobe / closet",
+    "Clothes rack",
+    "Iron",
+    "Private bathrooms",
+    "Tile / marble floor",
+    "Wake-up service / alarm clock",
+    "Kitchenette",
+    "Dishwasher",
+    "Microwave",
+    "Oven",
+    "Refrigerator",
+    "Stovetop",
+    "Electric kettle",
+    "Kitchenware",
+    "Flatscreen TV",
+    "On-demand movies",
+    "Complimentary toiletries",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Loud, slow internet, friendly staff",
+      "text": "I was surprised how loud the nearby airport is, most airport hotels have far better soundproofing. We were woken at 6 with the start of heavy air traffic. The WiFi was also very slow, even using the premium service as gold elite members. I would not stay here again because of the noise, but staff were all pleasant.",
+      "rate": 3.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Family gathering",
+      "text": "We recently stayed at this hotel for a family gathering. My wife and I stayed for three nights while my daughter's family stayed in 2 rooms for 1 night. We were all very pleased with the rooms and the hot breakfast was a pleasant addition to our stay. The children enjoyed some play time in the pool and on the sports court . We were most impressed by the professional and extremely professional staff. From our reception at the front desk right through to our encounters with the housekeeping staff, we were always met with a sincere greeting. A refreshing difference from some hotels.",
+      "rate": 5.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Good Place to Stay",
+      "text": "I stayed at this hotel one night for a quick business trip. Check-in was smooth. I had a one bedroom suite, which was spacious and clean. Some parts of the room look they were recently updated (fairly new appliances) and some looked dated, like the bathroom sink/vanity. The lighting around the sink is terrible. Lighting is recessed in back of the mirror and there is no other light behind you. For some reason, the tap was backward (cold on the left / hot on the right).The internet worked fine. I brought my streaming stick and had no trouble streaming video to the TV. I didn't stay long enough to use amenities like the gym and pool so I can't comment on those. The free breakfast had a good selection, the hot food was hot, and the food tasted good.Unlike some other hotels in the area, this one doesn't have a shuttle so you will need to take a taxi or Uber from/to the airport.",
+      "rate": 4.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Would not stay again",
+      "text": "Would not stay againFairly convenient location. Paid parking is an oddity outside of downtown. Most hotels in the area have complimentary parking, this hotel charges $18.00. The wifi is absolutely atrocious. We as elite members even had the premium wifi, can’t imagine how bad the free wifi is. The TV constantly lost signal during our stay making the kids unable to watch anything longer than a couple minutes. The breakfast was decent and the lady running it was lovely. Housekeeping entered our room in the morning without knocking or announcing herself and with the “do not disturb” sign on our door. Such an abundance of hotels in the area, this one is overpriced and was quite a disappointment.",
+      "rate": 2.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Average ",
+      "text": "Do not be fooled by the competitive price, it will end us more expensive than other hotels. There was no airport shuttle so Uber cost me additional 40 $. I did check this hotel website before I made my reservation and I did not see that they cancel shuttle service due to COVID-19. Other hotels still operating shuttle as holiday inn which I should of stayed with.The room was very convenient though with nice kitchen and small living room.Few nice (opened) restaurants in close walking distance from the hotel.  The hotel Owen restaurant was closed due to COVID-19 restrictions.",
+      "rate": 3.0,
+      "tripDate": " July 2020"
+    },
+    {
+      "title": "Clean Hotel with Very Good Service",
+      "text": "I had a very pleasant 4-day stay at this hotel arriving Sept 5th and departing the 9th.  Each hotel staff member that I came in contact with was very friendly and professional.  The front desk staff (interacted with 3 different individuals and they were helpful), cleaning staff, maintenance staff and the staff in cafe were all helpul and friendly.     Our room was clean, spacious and it was nice to have a kitchen area.     My husband was having a surgery and the clinic was just a short 5-minute walk so that was very convenient.  The breakfast buffet was very good with lots of variety and again, all the staff were exceptional.  Although I didn't use the pool, anytime I walked by it to use the outside patio area, the pool was empty so not a busy pool area which would be great for someone who wanted to swim laps.  Thank you for a lovely stay.  I would recommend this hotel to others.",
+      "rate": 5.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Residence Inn but not Marriott stanfard ",
+      "text": "This establoshment, to me, does not truly represent the Marriott brand. The location is in dire need of upgrading. The elevators cries to be refurbished, the sujte furnishings look tacky and aging, the staff were not the \"Marriott Friendly\" kind. The breakfast being served were not of the quality in the other  Residence Inns we has been to. BE AWARE, PARKING CHARGES ARE  $24.00 + $3.00 TAX, PER DAY! Bathtub drain was partly clogged, reported to the front desk but nothing was fixed. Ask the housekeeping person who followed up and it was fixed. Stayed for 3 nights then moved to Courtyard and  It was like night and day.",
+      "rate": 2.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Fantastic!! Cannot find a fault with this lovely hotel.",
+      "text": "Perfect hotel near the airport-clean, new furnishings and service was top notch!  We had a two- bedroom suite on the top floor. Very quiet - even close to the elevator. Full breakfast with delicious oatmeal and egg/cheese/bacon on English muffins. Impressive!!",
+      "rate": 5.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "Adequate \"Pit Stop\"",
+      "text": "Airport Residence Inn close to Pearson. Usually has a shuttle, but apparently is broken, but they are reimbursing taxi fares, which is nice. Far enough away that plane noise isn't much of a problem. Hotel as a whole could use a face lift/fresh coat of paint, and smelt both times of a vague sour/urine-like smell, but reasonably comfortable and good location.",
+      "rate": 3.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "airport hotel in the middle of nowhere",
+      "text": "Nice sized rooms but bare - have coffee machines but no coffee.  No food stores for miles around and very few restaurants.  Beds are comfortable but snacks sold at the counter very overpriced.  Just a basic motel with everything shut down (pool, gym, breakfast) during the virus.",
+      "rate": 3.0,
+      "tripDate": " July 2020"
+    },
+    {
+      "title": "Great deal",
+      "text": "Stayed at the Residence Inn Toronto Airport 29-31 Aug in a 2 bedroom suite.  With four children this was a great deal as included full breakfast each morning and evening reception Monday to Thursdays (5:00 to 7:30).  Children loved to make own waffles.   We arrived on Wednesday which was a bar-b-que night but unfortunately did not return from shopping in time to partake.  Thursday night was chicken stirfry with rice which we all enjoyed.    The bedrooms are a bit smaller than we were used to but adequate.  Two bathrooms and three tv's were, of course, a great convenience with four teenagers.  Only drawback - in checking in I asked if we could have a rollaway bed as with three girls 12, 16 and 18 they did not want to share sofa bed with older brother.   However, front desk said rollaway bed was not allowed in room with sofa bed.  We solved the situation with going out to Walmart and buying a aerobed with pump for $29.  Would defintely stay there again.",
+      "rate": 4.0,
+      "tripDate": " August 2007"
+    },
+    {
+      "title": "Great Hotel for the Price",
+      "text": "Very good Hotel for the price. Booked a 2 Bedroom Suite for 3 nights. Comfortable rooms. Very good housekeeping. Very great hot breakfast. Perfect Hotel for family with kids. High Speed Wired and Wireless Internet did not work in my room. Was given a discount for the same. Will stay here again.",
+      "rate": 5.0,
+      "tripDate": " August 2007"
+    },
+    {
+      "title": "Excellent Hotel with Kids!!!",
+      "text": "Had a wonderful stay at the residence inn, service was good and the rooms are new. Perfect with kids, we were travelling with my 18 month old son and the room was spacious enough that he could walk around. The complimentary breakfast was very good with a lot of choices.... try the waffles.We went to Canada's Wonderland which took us about 25-30 minutes to drive. And it is only 20-25 minutes from downtown.I would highly recommend this hotel, we paid 175$/ngt for a one-bedroom but some people on this site seem to have got better rates.",
+      "rate": 5.0,
+      "tripDate": " July 2006"
+    },
+    {
+      "title": "Park and walk anywhere",
+      "text": "I stayed there during a family weekend. Everything was great. Park and walk to anything you want. We went to restaurants  sporting events and shopping. The hotel is nice and comfortable. We will go back.",
+      "rate": 4.0,
+      "tripDate": " March 2013"
+    },
+    {
+      "title": "Indifferent and idiotic management",
+      "text": "HAD stayed at this hotel multiple times in the past, always pleasant stays in the past, will never return.As per previous reviews, management of this hotel has grown indifferent, cheap, and lazy.A myriad of small unpleast issues could have been shrugged off but not the final insult.First, an unpublished and unadvertised $8 per night charge to park in their badly lit unsupervised lot.  I can understand charging for parking at a prime location, or for extended use of the lot if you are flying out, but this was just a straight up 'extra cash' grab.Second, the staff paid NO attention to detail.  The rooms were cleaned, but if you expected food at breakfast, good luck.  The hotel was busy and massively understaffed so that the small vessels at the breakfast buffet emptied rapidly and took forever to get refilled.  3 out of 4 morhings I had to wait around to get coffee, wait around for the juice to be refilled, wait for more bread, etc....  A 15 minute breakfast dragged into an hour waiting for food to be brought out.ONE poor server trying to take care of the entire dining area; it wasn't her fault, but trying to cater to the number of guests they had with 1/3 of the required staff is a clear sign of bad, cheap management. The pool never had towels.  I mean never.  We would ask at the desk, be told 'someone is coming', and a full hour later, still no towels. My teenager asked for the code to get on to their lobby PC's.  They were told condescendingly that the terminals are \"not for children to use\".  Nice attitude, great customer service for a 'family' hotel.The last straw was an issue with our furniture.  The night of our last stay we picked up the coffee table to move it away from the fold out sofa bed so our son could go to bed.  One corner of the table top came away in my hand.  The table top was a heavy marble and the table top separated right along the vein of the marble.All of this was explained to the hotel, but they still charged my credit card for 'breaking' the furniture.  Speaking to me and scolding me like a small child for this was icing on the cake.I am going to fight the charges, but this is a sad case of a once pleasant and comfortable hotel with decent and caring staff going right down the toilet.",
+      "rate": 1.0,
+      "tripDate": " September 2011"
+    },
+    {
+      "title": "The BEST value in the Greater Toronto Area",
+      "text": "If you're going to Toronto and plan to visit places like Canada's Wonderland, the Toronto Zoo, Ontario Science Centre, and even downtown Toronto, I STRONGLY recommend the Residence Inn by Pearson Airport. In summary, the positives were great customer service, nice amenities, the room was luxurious, and the free hot breakfast buffet was as good or better than anything you would find at a restaurant! The only complaints I have are that there is no wireless internet (although there is a wired connection in room or lobby computers) and it would have been nice if the bathroom weren't only accessible through the bedroom (but that is a fairly minor gripe and didn't impact our stay at all). You will not find better service, quality, or value in Toronto!We, two adults and a 9 yr old, stayed for three nights in July 2011, and will absolutely stay here again if we return to vacation in Toronto again. Our rate was $92 a night plus $8 for parking each night. However, when you factor in the free breakfast for three, the nightly cost goes from $100 to $75. The only other place you will find a price like that are the cheap motels where you don't get anywhere close to the quality offered at Residence Inn.The location is great as you are just off of the 401 which you will use to get to most major attractions. It's tucked away and not on a busy street. It's by the airport so you will see airplanes, but I couldn't hear them and our room was at the end of the building facing the airport. The area is littered with restaurants! Moxies, Lonestar, Tony Romas, Montannas, Boston Pizza, and the Keg, just to name a few! There is a lacking in fast food and other retail, but having a great deal of choice when it came to dinner was a welcomed feature. The hotel is well maintained and very clean. The basketball court was a nice plus; the swimming pool was medium sized but never felt crowded (and we went swimming at least once a day); the spa was nice because our kid could actually go in it (both the pool and spa were salt water, too); the parking lot was never crowded; there's an outdoor patio with BBQ for the guests to use; and I never found the halls to be noisy. There was always the latest newspapers available in the lobby, the staff posted a detailed weather forecast in the lobby, and two computers with a printer so that you could stay connected to the internet. The staff were beyond excellent - we showed up before noon and asked if there was any possibility to check-in early and were accommodated without any hesitation and the front desk even called us five minutes later to make sure the room was to our liking! The one time late in the day when we found no towels by the pool the staff quickly supplied some. In general it felt like the staff were genuinely fantastic at customer service. The room was very spacious. My only complaint is that I wish the bathroom wasn't only accessible through the bedroom but that's minor. Internet is only available through a wired connection but there's computers in the lobby. The temperature in the room was so good that even with the air turned off and the outside temperature surpassing 30 degrees Celsius each day, we were still comfortable. The kitchen comes completely stocked with everything you need to cook and eat - including salt and pepper shakers! There was even a welcome basket with microwavable popcorn! The appliances worked and were by no means outdated. The under-mounted stainless steel sink was VERY deep. The bathroom was nice although if you like deep bath tubs you won't find one here. The sofa bed was comfortable - perhaps more comfortable as a pull out bed than as a couch. The TVs were nice and the one in the bedroom was close to the end of the bed which made it easier to read. There was plenty of storage space (two dressers and a large closet) and lots of seating - including a very nice desk chair and the two dining chairs, as well as an arm chair in the living room. The bedding was also comfortable although I must have been allergic to the pillow or comforter filling. There were at least three different pillow types available. Another nice bonus was an ice-maker in the freezer. Overall, it was an amazing room!The final thing I wanted to mention was the breakfast... the free hot breakfast buffet easily covered the cost of parking and was as good as anything you will find at a restaurant! The selection was superb and changed slightly each day. While we were there the selection included waffles, french toast, sausage patties, sausage links, scrambled eggs, potato pancakes, beans in tomato sauce, four types of cereal, a variety of yogurt, muffins, donuts, bagels, english muffins, toast, cinnamon buns, fruit salad, fruit, oatmeal, and much more! There's also a good selection of beverages - orange juice, apple juice, cranberry juice, and grapefruit juice, tea, coffee, and milk. There was also every appropriate condiment you would expect - such as, but not all inclusive, powdered sugar, granola, chocolate chips, syrup, cream cheese, six types of jam/spread, even cheeze wiz. Needless to say, the breakfast was not just filling, but allowed you to pick up some snack options for later as you had the option of using disposable containers and cutlery. To add to the great spread, it was well maintained and someone was always there to refill the available food or pick up any plates you were done with. It was never too busy that we couldn't find a seat, but then again if it were that busy you could always take it back to your room and eat at your own table. If you show up a little late the selection may not be as good as around 7 am, but the one day we did show up late we still ate like kings! I was beyond impressed by this hotel and it's nice to know that there's still good value to be found in Toronto!",
+      "rate": 5.0,
+      "tripDate": " July 2011"
+    },
+    {
+      "title": "Great hotel in Toronto near Airport",
+      "text": "We stayed overnight in a 1 br suite when we went to Medieval Times.  We enjoyed the location and the facilities.  Our room had a small kitchen and dishwasher. Bed and Sofa bed was comfortable for our girls. The pool and the hot tub were very enjoyable. Breakfast in the morning was good and convenient. Staff was great and helpful.Would return to this hotel every time in Toronto, attending consumer shows at the International center or when departing on trip from Toronto  Pearson Airport.Great value.",
+      "rate": 5.0,
+      "tripDate": " February 2009"
+    },
+    {
+      "title": "what a great place!!",
+      "text": "My family and I booked a 2 bedroom suite at this airport hotel and I was a little leery due to some of the negative reviews, but when we walked into our suite everyone went ...hmm nice... The fully equiped kitchen had granite countertops and ceramic tile floors as did the 2 bathroms in our suite. The beds were very comfortable and with 3 tvs in the suite we all watched what we wanted in complete comfort. At $230 per night for this luxury suite along with a hot breakfast made this a great value. The service was very sincere and friendly and we really could not have asked for more!",
+      "rate": 5.0,
+      "tripDate": " July 2008"
+    },
+    {
+      "title": "Very Nice Hotel and Nicely Priced",
+      "text": "Me and My Wife stayed in this Hotel Recently as it was the top available choice for the weekend we wanted to stay ( The #1 was the Residence Inn Downtown, but was booked up because of the Toronto Film Festival going on the same weekend )    We arrived late and the staff were very helpful and check in was very smooth and painless, the Room was a 4th floor room and was a nice size and very clean, the layout was very user friendly and the kitchenette was a nice size, we would see planes landing all the time outside our room but you could barely hear them thanks to the excellent soundproofing.  Parking was Free which was a nice bonus and the drive to the nearest Subway Station was only about 10 mins away, Toronto has an excellent Public Transport System so leaving the Car behind was a viable option and parking was never a concern for us. The free high speed internet in the room was also a breeze to use and very very fast, and to top it off the Breakfast in the mornings was tasty and plentiful.  I would stay in this hotel again in a Heartbeat and recommend it to my friends.",
+      "rate": 5.0,
+      "tripDate": " September 2007"
+    },
+    {
+      "title": "decent hotel, decent price",
+      "text": "I stayed in this hotel while attending a function that was in the area. Upon arrival I was a little dissappointed in the staff while checking in. They were almost 'rude' so to speak, as if they didn't want us there. After that was all over with, we went up to our two bedroom suite which was quite spacious. It had a full kitchen and two bathrooms as well. Overall, I thought it was a decent stay for a decent price. There wasn't anything about the hotel that was exceptional, but I wasn't in it very much.",
+      "rate": 3.0,
+      "tripDate": " January 2007"
+    },
+    {
+      "title": "All the creature comforts!",
+      "text": "I really enjoyed staying at this Residence Inn. I am a Marriotts rewards member so I know what to expect when I go to their properties. Although this Residence Inn was by the airport you really didn't hear the airplanes. Its in a Industrial section so I think its geared towards business professionals. Nonetheless, my family and I enjoyed the indoor pool and spa. It has courtesy computer in which you can access the internet. The workout room is nice. Very nice and updated machines. Our room was perfect. We spent a lot of money on food prior to coming here so it was a nice change to be able to cook a good and inexpensive meal in the luxuary of our own apartment(thats what it felt like) My husband LOVED LOVED the plasma TV in the living room area. The beds were comfortable and we had a good nights sleep. It's only about 20 minutes from downtown Toronto which is fine by me........All the hustle and bustle of the city is for city living folks. I live in a nice city suburb of Cleveland and don' t feel the need to  have that excessive traffic. I like to move from point A to point B with ease. I like to get where I am going with out sitting in a parking lot of traffic. This Residence Inn being out of the loop was perfect.Oh yeah it had a club right across the street from it. They played Raggae and top 40 music. Which was nice. It's in walking distance from the hotel. So if you want to get a quick nightcap you have that opportunity.",
+      "rate": 5.0,
+      "tripDate": " August 2006"
+    },
+    {
+      "title": "Closest Hotel to Perfection",
+      "text": "My family and I stayed here in 2 one bedroom suites from August 11-13th. Our stay couldn't have been more perfect. Suite are spacious with separate kitchen, living and bedrooms. The bed was large and most comfortable.  The sofa bed was also comfortable. There were two very large t.v.'s in each of our rooms, one a plasma and the other a flat screen. The kitchen was fully equipped with plates, utensils, microwave, full fridge and stove. We were able to cook without needing extra provisions. Hotel staff were among the most pleasant and accomodating I have ever come across...and I have stayed at many hotels.   Having free wireless internet in the room was a definite plus. The workout facility has the latest equipment including treadmill, elliptical, bikes and weight machines. The pool and jacuzzi are very clean and the right temperatures. The BUFFET BREAKFAST which is included in the price is excellent. There is something for every eater including eggs, sausage, waffles, fresh fruit, yoghurt, coffee, tea (herbal and regular), cereal, etc., etc. The food was quickly replenished by staff so you never had to wait for anything. OVERALL: This is one of the best hotel stays I have experiences. I will definitely book here again.",
+      "rate": 5.0,
+      "tripDate": " July 2006"
+    },
+    {
+      "title": "Good hotel but can be crowded with kids on the weekend",
+      "text": "My review, like many others, is that this is a very good hotel.- Staff is very friendly- Rooms are comfortable and nicely furnished- Location is a good one, especially if you need to be near the airportKeep in mind, that when my wife and son (18 years old) were there on a recent weekend, that the place was packed with kids (seemingly several hockey tournaments were taking place at the same time).  This was only an issue when eating breakfast (the small room was jam-packed) and when we wanted a leisurely and quiet swim in the pool and hot tub (that wasn't going to happen with a bunch of 10 - 12 year old boys!).Other than that we enjoyed our stay",
+      "rate": 4.0,
+      "tripDate": " October 2006"
+    },
+    {
+      "title": "Best Hotel in Toronto",
+      "text": "I did some research on this hotel on this site, and heard it was new- 2 years old. The rooms - marble tile bathrooms, new pillow top beds, new carpeting, nice view.Breakfast - complimentary - scrambled eggs, sausage, potatoes, all continental items, waffles, pancakes - all complimentaryService - everyone from the front desk, to the breakfast help to housekeeping is friendly and do a terrific job. Al in all, I can't think of a better hotel experience. They also have a nice fitness center, and pool.You are right by the airport (2 miles), can see planes landing, but amazingly , cannot hear them at all inside the hotel.",
+      "rate": 5.0,
+      "tripDate": " June 2006"
+    },
+    {
+      "title": "choose this hotel you will never go wrong",
+      "text": "This hotel is super nice. The building and the facilities are brand new. The room we stayed had a micro wave oven, dishwasher and utensils and complete dinner set for four. We never use them but they are there just in case you are the type who choose to cook your own food. The hotel will even do the goceries for you if you needed them. The staff are superb. I will not hesitate to recommend this hotel.",
+      "rate": 5.0,
+      "tripDate": " August 2006"
+    },
+    {
+      "title": "Great deal!",
+      "text": "The suite was spacious and the bed was extra comfortable.  We could watch the planes landing from our windows but we did not hear the planes at all.  The full kitchen was complete and included utensils, dishes, pots & pans.  The only thing missing was an oven.Popcorn was also provided.  Supper is complimentary from Monday thru Thurday and it consisted of soup + pizza on the Thurday we were there.  They also have fresh baked cookies in the lobby.at $101 cdn per night this was excellent value for the area.  many restaurants one block away and half an hour drive from downtown Toronto, it was perfect for us.",
+      "rate": 5.0,
+      "tripDate": " July 2006"
+    },
+    {
+      "title": "Wonderful Hotel!!!",
+      "text": "From the minute we arrived and my daughter was offered as many cookies as her small tummy could manage by the check-in clerk, the staff could not have been more helpful nor polite. We were arriving after a long flight from the UK, and were slightly pensive about how good/bad the Residence Inn was going to turn out, given we only booked as our normal hotel we use in the Pearson airport area was full. Anyhow, the rooms are very new, clean and fitted out to a very high standard. The pool and fitness areas were also very neat and tidy, and there’s even an outdoor basketball court for those that still have some energy left after a long journey. High speed internet access and breakfast are also offered complimentary by the hotel, and on both counts the service provided was first class. We’ll definitely use the hotel again on future trips.",
+      "rate": 5.0,
+      "tripDate": " May 2006"
+    },
+    {
+      "title": "Very close to Pearson airport",
+      "text": "Arrived late after 10 pm. Very close to airport, didn't take long by taxi. We booked a two bedroom apartment. It had two washrooms, which was helpful. Décor was a bit dated but the  overall environment was homely. Quite good free breakfast.",
+      "rate": 4.0,
+      "tripDate": " July 2013"
+    },
+    {
+      "title": "Vehicle Stolen from Residence Inn Toronto Airport!!",
+      "text": "Recently, my husband & I stayed at the Residence Inn Toronto Airport.  As part of their Stop-over package,  we could leave our car at the hotel, until we returned from our vacation.  During the week we were away, our car was stolen from the hotel's parking lot.It was quite a shock to realize that our car was missing.  The apathy of the hotel was very disappointing.  They made it very clear that this was NOT their problem.My husband had been concientious to park the car under a light, and yet still it was stolen.  As there is no outside surveilance, the hotel again accepted NO LIABILITY.   We were told that, perhaps on a future visit, they might be  able to offer us a lower rate.All in all, a very frustrating experience.  We will never again make the mistake to utilize Residence Inn as a stop-over hotel.  A very expensive lesson learned.",
+      "rate": 2.0,
+      "tripDate": " April 2009"
+    },
+    {
+      "title": "Could Not Have Been Better",
+      "text": "I believe in giving credit when credit is due and this hotel deserves alot. Went to Toronto to celebrate our 33rd anniversary and for theater downtown. Unlike years ago, hotel prices in the city are outrageous and deals can't be found. Previous reviews for this hotel have been great and this was enough for us. All services by hotel staff were done with a smile everytime. Check-in was a pleasure and the separate 1 bedroom room was superb. Every dish, glass and utensil was clean and waiting for use. The swimming pool was neither hot nor cold. Just cool enough to be refreshing. The whirlpool was plently warm enough. Several restaurants including Montana's Bar and Grill, Tony Roma's, Tucker's MarketPlace and Boston Pizza are across from the hotel and there is no need to drive. We ate at Ton'y Roma's and with the tip spent $80. There are no cheap places to eat. The drive to downtown is about 18 miles if going via the 401 then down Yonge Street. A better choice might be the TTC from the Yorkdale Mall. Cost is $2.25 per person each way if you buy at least 10 tokens at the mall entrance to the train. Parking at the mall is free and safe. Entire area is patrolled by security. We were out until 11:30 pm at there was still plenty of activity in the area. Always felt safe and the parking garage is brightly lit. Be sure and research the drive to and from the hotel as the traffic in Toronto is unbeliveable.This hotel and it's staff exceeded our expectations and we will stay here again.",
+      "rate": 5.0,
+      "tripDate": " September 2008"
+    },
+    {
+      "title": "good but..",
+      "text": "This review is only for the internet service.Ive been staying at this hotel for just over 33 days.Meanwhile their \"Marriot Bonvoy\" App is showing that I've been staying 24, and its been stuck on 24 for almost 10 days.I should have the high speed internet starting night 25 but they're telling me to keep waiting on an automatic update of my booking.when I call Marriot head office they told me the front desk should do it..Everything is great dont get me wrong, however the wifi is absolute garbage and prevents me from studying for my job.",
+      "rate": 2.0,
+      "tripDate": " May 2024"
+    },
+    {
+      "title": "Good hotel",
+      "text": "We stayed here in a 2bedroom suite. It had a full kitchen which was great and 2 bathrooms. It was conveniently to the airport and located within short walk to restaurants. This hotel also provides free breakfast.This was a good stay and we would recommend.",
+      "rate": 5.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Impressed",
+      "text": "Stayed 2 nights when in Toronto for appointments. Had a one bedroom suite. The hotel looked like it had been recently renovated. The suite looked and felt clean and as if it had been recently renovated. Breakfast was very good. You called each morning to order your breakfast. Plan on staying here again.",
+      "rate": 5.0,
+      "tripDate": " June 2021"
+    },
+    {
+      "title": "Great Place for Us!",
+      "text": "We stayed here at the beginning and end of a trip to India and it was perfect for us.  The rooms were nice, the reception staff friendly, the breakfast buffet substantial, the wifi good, and the shuttle on-time in both directions.  Recommended!",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Home away from home.",
+      "text": "Quite exceptional. The rooms are clean and they offered a very good breakfast buffet. Very professional staff that are ready to help at all times. Everything works well..from the swimming pool, the outside basketball court to the spacious lift. They offer a large and spacious parking facility.",
+      "rate": 5.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Clean, quiet, comfortable",
+      "text": "We stayed only one night at the Residence Inn before our flight out to Vancouver the next morning. Our check in took a little longer than expected but the complimentary cookies at the front desk made up for it. The suite had a kitchenette, dining area, living area, desk and seperate bedroom. The hotel is fairly new so everything was clean and the bed was extremely comfortable with a lovely duvet and plush pillows. The complimentary breakfast and internet were a definate plus! Would definalty stay there again.",
+      "rate": 5.0,
+      "tripDate": " November 2005"
+    },
+    {
+      "title": "Spacious 2 bedroomed suites",
+      "text": "Just 5 minutes from Toronto Airport (complimentary airport transfer if required),  this hotel did not disappoint.  We were 4 adults and had booked a 2 bedroomed suite. It was spacious, immaculately clean with new furnishings and state of the art tv's in both bedrooms and sitting room.  The sitting room has a log effect remote control fire for cosy winter evenings and a  well equiped  kitchen which looked as though it had never been used.  With 2 ensuite bedrooms this apartment on the 9th floor (top floor) could easily sleep 6.  The breakfast was buffet style with plenty of choice and  complimentary coffee and  tea (make it yourself)  was available allday from the sitting area. The two men in our party made the most of the free internet service and I enjoyed the indoor swimming pool. All-in-all, this has to be one of the best airport stopovers we have ever had. June 17th 2006.  Jan & Brendan Lomax & Ann & Gordon Milne,  London .UK.",
+      "rate": 5.0,
+      "tripDate": " June 2006"
+    },
+    {
+      "title": "Great Hotel, Good Location, Very Nice Deal",
+      "text": "We love this hotel, very spacious, nice pictures and bathroom deco.  The view of the landing aircrafts is also a nice plus for couples who have young kids.  Highly recommend it. (not bad for someone who is very picky, along with picky family members who usually find reasons to disagree with my hotel choices :)If you need to order Chinese food, Gourmet Express can deliver to the room, great food at very reasonable prices.",
+      "rate": 5.0,
+      "tripDate": " July 2006"
+    },
+    {
+      "title": "Great for families!!!",
+      "text": "I had to travel for business with my husband and baby (9 months old), and was looking for a hotel that would be family-friendly. I booked this hotel based on recommendations from this site, and I was very happy with our stay!We had a one bedroom suite (all of the rooms are suites).  The full kitchen had pots and pans, a dishwasher, utensils (even a cutting board, vegetable peeler, and a colander). The refrigerator had an automatic icemaker.  We reserved a crib for our baby, which fit into the bedroom. The room was clean and everything looked very new. There were two televisions: one in the living room, and one in the bedroom.  The TV channel selection was good (we don't have cable, so it was great for us).  High-speed internet was INCLUDED with the room (very nice!).The breakfast buffet was fabulous! Eggs, sausage, potatoes, make your own waffles, fresh fruit, yogurt, oatmeal, muffins, croissants, coffee, and tea.Some of the evenings they offer light meals - we had lasagna and soup one evening. You can buy drinks (beer and wine), and the hotel has a small \"market\" where you can buy things like ice cream, frozen dinners, and snacks.The hotel staff were very friendly. The shuttle to and from the airport was convenient and easy to use.We had food delivered for dinner. My one wish was that more places delivered! We didn't rent a car, so if you stay here for more than a day or two, I'd recommend having a car so you can get out.All in all, I would definitely stay here again, and would highly recommend this place to business travelers and to families.",
+      "rate": 5.0,
+      "tripDate": " March 2007"
+    },
+    {
+      "title": "Great Choice",
+      "text": "Very pleasant experience at the Residence Inn from start to finish.  I called the front desk from baggage pickup at the airport and their shuttle was at the terminal within 10 minutes.  Check-in staff were very courteous and they had a small bag of brownies for me.  The room was spotless and well-equipped, right down to the bag of microwave popcorn which I ate while watching a hockey game on the living room plasma TV.  no noise problems, despite the proximity to the airport and the bed was very comfortable.  The complimentary breakfast buffet was nice and the shuttle back to the airport (must be pre-booked) left promptly.All in all, a great stay... !  Thanks to previous Tripadvisors for your reviews, as they were what led me to this hotel as opposed to some of the others I have stayed in before.",
+      "rate": 5.0,
+      "tripDate": " October 2006"
+    }
+  ]
+}

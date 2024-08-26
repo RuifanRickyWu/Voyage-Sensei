@@ -1,0 +1,91 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Red Maple Suites",
+    "url": "/Hotel_Review-g155019-d11741413-Reviews-Red_Maple_Suites-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.0",
+      "reviewCount": 10
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "263 Wellington St W",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 3E6",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/06/fb/f3/kitchen.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Fitness Center with Gym / Workout Room",
+    "Restaurant"
+  ],
+  "reviews": [
+    {
+      "title": "This place should be on Airbnb - not advertised as a hotel.",
+      "text": "Pros: Fantastic location.  It really doesn't get much better as you're close to everything - the water, the Skydome, the CN tower, Kensington Market, Eaton's Centre.  It's all within walking distance.  The unit was clean upon arrival.  No problems with the internet or the A/C.  The place was clean.Con: We booked using Booking.com thinking we were booking a hotel.  This place is NOT a hotel.  It's a condo, it's in a condo building, and there are definitely no hotel services.  This is not indicated ANYWHERE in the advertisement.  We were three people, all arriving separately.  Two of us are not Canadian residents and thus our phones do not work in Canada without having free wifi access.  This doesn't make for an easy \"check in\" when there is no hotel check-in and the concierge refuses to offer help by continuously saying \"this is not a hotel.\"  We had to \"guess\" when the third person would arrive and go down to the lobby to wait around for them because the concierge refused to let the person in regardless of whether she had ID or the reservation confirmation.  Furthermore, we were given a \"total cost\" after the booking but when they actually charged the credit card, there were more hidden taxes on top of that, in spite of the fact that the total cost given said \"all taxes included.\"  All taxes were NOT included.  Another unpleasant surprise....I would recommend this place to people who are all arriving at once and want to be in the heart of downtown Toronto.  It's ideal for 2 people or 3 if you're okay sharing a small space with one person sleeping on the couch.  It's also great if you're all leaving BEFORE the checkout time as there is no luggage storage here.Personally, I would NOT stay here again because I felt the advertisement was very misleading and that check-in was disorganised (we were told that the so-called 'front desk' would be expecting us when in fact they were not and had no desire to help).",
+      "rate": 3.0,
+      "tripDate": " July 2017"
+    },
+    {
+      "title": "NOT a Hotel.",
+      "text": "Overall great place to stay. However this is NOT a Hotel. Fair to say that the company were very communicative etc but fishing for a key in a drop box in an Italian restaurant after 10 hours of travel with an infant is not my ideal vacation. Rooms were spotless and very well organized. On top of that the location was the best - Rogers Center, CN Tower all a stones throw away. Rooms had washer and dryer and were spacious enough. We did get plenty of dirty looks from the front desk concierge during the 4 day stay, not what one would expect from a 4 day booking. Would strongly advise that this be on some kind of apartment sharing website",
+      "rate": 3.0,
+      "tripDate": " October 2018"
+    },
+    {
+      "title": "Excellent location and good size but...",
+      "text": "I stayed in a 1 bedroom apartment on my own for work. The unit was a good size and had everything I needed including a washer dryer. The building is a little hard to find (no signs indicating “Red Maple Suites” as it is in a residential apartment (I agree with a previous reviewer that said it should be on air bnb). I also found the security at the front desk not very helpful. There is no information in the unit on how to run any of the appliances or where to empty your trash! The apartment was mostly clean but there was some mould in the shower. I also had problems with the thermostat/aircon and as with previous reviews and it is too noisy to leave the windows open. My apartment was on level 4 and backed on to the lane way, directly opposite my balcony was a bar - very very noisy especially at 3am on Saturday night. The price and location is good but if you like your sleep it might be better to avoid!",
+      "rate": 2.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Awesome location but",
+      "text": "We rented two units through exoedia we requested a crib for one of the units and there was a playpen setup when we arrived. We were pleased with the quality Pros: great location within walking distance to front street, Rogers Place, the ACC etc.  The units were clean, great layout. In suite laundry, comfortable beds.  Cons: Very poor instructions on how to get there and the check in process.  The security on the front desk were extremely rude, belligerent, and downright nasty to deal with. The units were both extremely hot with no ac and no fans.  If you opened the windows the noise wAs deafening.  The blinds were white and did not block out the bright sun or city light gets so it was hard to sleep. I would try and find something elsewhere.",
+      "rate": 3.0,
+      "tripDate": " April 2017"
+    },
+    {
+      "title": "Vast and inexpensive if you don't mind the noise",
+      "text": "Stayed at the downtown location for 3 nights. The apartments are very nice, vast and well furnished with everything you could need including washer-dryer and a nice Roku box for TV. The suites are very well maintained and clean and you cannot beat the commodities and location for that price. There is a gym and a nice pool also.The only two downsides are the noise and the lack of control on the temperature which go hand in hand. There is an independent heating and cooling system in each apartment, but the AC will not work if the temperature is not high enough outside. So  it was a nice 50-55 degrees outside in early April but the temperature would not go down below 76 even with the AC at full blast. Plan B? Opening the windows will only bring the incessant street noise inside your room. So if you like it hot there is no issue, but if you like things cool then this may be a bugger for you this spring.",
+      "rate": 4.0,
+      "tripDate": " April 2017"
+    },
+    {
+      "title": "Telling the truth about the place",
+      "text": "Alot of construction in the area, noisy early in the morning, beds not comfortable, staff rude, people that are permanent resident in the condo are rude also. No isolation so you cannot make any noise without complaints, in other words do not bring kids with you. Thermostat doesn't work. Place dirty, when you play a \"cleaning fee\". Do yourself a favor, if you want to book into downtown area go somewhere else. Not worth the price or nether the rudeness of everybody inside the establishment.",
+      "rate": 1.0,
+      "tripDate": " February 2017"
+    },
+    {
+      "title": "Maple suites-Icon",
+      "text": "Stayed April 12-14th Room 826 very accommodating, clean, comfortable and location was perfect. Way better then a hotel room for sure. Loved the gym which had a great view of the city. Book with Nadir, trust me you will enjoy your stay.Thank you for a great weekend, will return.",
+      "rate": 5.0,
+      "tripDate": " April 2019"
+    },
+    {
+      "title": "Great value, nice rooms, great location.",
+      "text": "Overall I was very happy with our stay. The suite was a nice size for the price, and fairly clean for the most part. It was in a great location where you can easily walk to a lot of attractions or catch public transit  There were minor maintenance items that if addressed would make this an exceptional stay. Like opening the fridge to find it almost half iced  up, and a gasket in one of the toilets was not sealing properly so we would have to take the lid off every time we flushed to adjust, and there was some mold throughout the shower. Also, there could be better communication on what to expect when staying here. Reading the reviews I was better prepared but there were still a few surprises. When I booked the room the confirmation indicated that there would be parking available if requested upon arrival but that wasn't the case. I had to search for parking down the street. Still, it was well worth the money and I would definitely consider staying here again.",
+      "rate": 4.0,
+      "tripDate": " October 2018"
+    },
+    {
+      "title": "Very average place to stay",
+      "text": "This is not a hotel. It is more apartments that are very budget at best. The security concierge are not overly helpful. The beds are average with the pillows not good. It is very loud early in the morning with the windows very thin. The blinds do not work effectively which means you have the lights from the street coming in. I won’t be staying here again.",
+      "rate": 1.0,
+      "tripDate": " September 2018"
+    },
+    {
+      "title": "Should be advertised as Air BnB",
+      "text": "We rented a room through trivago so I was expecting a hotel type facility however upon arriving it really should be advertised as an air b'n'b. The security was nice enough it just was not at all what we were expecting. The room had everything we could need however there is no option for fresh linens, you must wash your own in the in suite washer and dryer. The sheets and pillows on the bed were terrible but everything else was great. The location was excellent and within walking distance to many tourists desitanations. We did find the weekend to be really noisy late into the morning compared tothe rest of our stay which was actually quite quiet. We enjoyed our stay and reccomended it to others we met along the way.",
+      "rate": 4.0,
+      "tripDate": " June 2018"
+    }
+  ]
+}

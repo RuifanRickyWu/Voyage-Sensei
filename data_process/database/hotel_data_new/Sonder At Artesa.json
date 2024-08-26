@@ -1,0 +1,77 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Sonder At Artesa",
+    "url": "/Hotel_Review-g155019-d25455630-Reviews-Sonder_At_Artesa-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 3
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 Brixton Way",
+      "addressLocality": "Toronto",
+      "postalCode": "M6K 2A3",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/87/a3/4a/caption.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Art galleries, lively bars, and eclectic boutiques. At the heart of West Queen West is Sonder at Artesa. This building mirrors the sunrise with its floor-to-ceiling windows and illuminates it with light. Each space includes in-suite laundry, a fully equipped kitchen, and a private balcony. Brew yourself a coffee and enjoy it outside, or get your energy from a workout in the fitness center. Your Toronto adventure starts at Sonder at Artesa. We’re here to help navigate your stay from start to finish. Check in. Request amenities. Connect to WiFi. Contact customer support. Whatever you need, we’ve got you covered. This Sonder has a front desk which is staffed 24/7. Our on-site team is available to ensure you have a better stay.",
+  "featues": [
+    "Paid private parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Complimentary Instant Coffee",
+    "Baggage storage",
+    "Non-smoking hotel",
+    "Express check-in / check-out",
+    "Private check-in / check-out",
+    "Complimentary tea",
+    "Clothes dryer",
+    "Washing machine",
+    "Desk",
+    "Seating area",
+    "Sofa",
+    "Iron",
+    "Coffee / tea maker",
+    "Dishwasher",
+    "Flatscreen TV",
+    "Bath / shower",
+    "Private bathrooms",
+    "Microwave",
+    "Oven",
+    "Refrigerator",
+    "Stovetop",
+    "Electric kettle",
+    "Kitchenware",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Epic view, great location, comfy beds",
+      "text": "A great stay. We were in the city to work, but also had our teen son with us. Simple, clean, comfy bed and just enough stuff in the kitchen to allow us to cook some meals in the unit. The best thing about the place is THE VIEW and outdoor space. It is an epic city view that dazzles at night. The gym is in the condo building next door and is clean, well equipped and wasn't overly crowded. There are two lovely cafes (Rooms, The Fix) within stumbling distance of the building. Overnight street parking permits from the city are more affordable than on-site and there was always street parking available a block away on Gladstone. The only thing that was missing in the unit for us was a suitable table/chair for working on a computer. Loved it and would definitely stay again.",
+      "rate": 5.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "Loved it",
+      "text": "The apartment was really lovely, had everything we needed for a relaxing stay.  Great location with a bus stop right outside the door and a tram line a 5 minute walk away.  Two supermarkets and loads of cafes and restaurants all within walking distance.  Check-in and out were seamless, will continue to use Sonder when I need a city holiday rental.",
+      "rate": 5.0,
+      "tripDate": " March 2024"
+    },
+    {
+      "title": "Comfortable and good location",
+      "text": "It was a comfortable place, nice views and really clean. You can save a lot of money there if you go with family. I felt me like home, I had kitchen, laundry, comfortable bed, big space. It is a really good place for stay on vacations. About price it is fair, we were 4 people.",
+      "rate": 4.0,
+      "tripDate": " June 2024"
+    }
+  ]
+}

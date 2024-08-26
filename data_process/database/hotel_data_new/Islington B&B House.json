@@ -1,0 +1,88 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Islington B&B House",
+    "url": "/Hotel_Review-g155019-d579129-Reviews-Islington_B_B_House-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 8
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1411 Islington Ave",
+      "addressLocality": "Toronto",
+      "postalCode": "M9A 3K5",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/2b/64/83/toronto.jpg?w=500&h=-1&s=1"
+  },
+  "description": null,
+  "featues": [
+    "Free parking",
+    "Wifi",
+    "Free breakfast",
+    "Bar / lounge",
+    "Tennis court",
+    "Business Center with Internet Access",
+    "Non-smoking hotel",
+    "Laundry service",
+    "Restaurant",
+    "Air conditioning",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Heaven On Earth!!!",
+      "text": "Everyone must experience the hospitality extended by the owners of Islington B&B...you will be very hard-pressed to find accommodations that could compare. My husband & I have stayed here several times in the past three years..usually on business, but have made a point of going there just to be pampered for a weekend! Maria & Joey continually surpass any expectation we could have...A++for Cleanliness, A++for Comfort, A++for Attention to personal details and FINALLY! A+++++++ For the most amazing breakfast you could ever imagine!! Their rates are most reasonable and their reputation is noted in the highest regard. We have travelled the world and with no hesitation would recommend Islington B&B.",
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Excellent value and service for money!",
+      "text": "If you are looking for a well-priced, well maintained and personable B&B in the GTA, look no further. Joey and Marie will take excellent care of you. For 5$, Marie will wip up a sumtous breakfast and Joey goes the extra mile to make sure your stay is a memorable one. All the rooms are very clean and the shared facilities are cleaned daily. For 55$ a night in this beautiful neighborhood, you can't go wrong.",
+      "rate": 5.0,
+      "tripDate": " June 2012"
+    },
+    {
+      "title": "Home from home in Toronto",
+      "text": "I stayed at the Islington B&B for 3 nights at the end of October 2008 and found that everything matched the descriptions on the B&B's website, save that it is more steps from Islington subway station than might be supposed, so takes 10 to 15 mins to walk.  Instead, take a 37 bus from the first bay at the station and get off at the stop right outside the B&B - just before the intersection of Islington Avenue with Orrell Avenue.The accommodation is spread over three adjacent houses.  Although situated on a main road I did not find it noisy, but then I had a room at the back.  My room was adequate in size, clean and furnished in B&B style.  The bed was very comfortable.  I was given the use of a kitchen, but in the event hardly needed it as in the evenings I was still eating my left-overs from breakfast.  The breakfast is indeed spectacular and will see you through to mid-afternoon.  I note that the previous reviewer was surprised to find all his food on the same plate;  I first encountered this Canadian fashion some years ago in BC, when I found my scrambled egg sharing a plate with fruit salad.  Once you overcome the surprise, the food is all excellent in quality and preparation.  Marie, the hostess, is very kind and hospitable and makes her guests feel very much at home.  Finally, this B&B is excellent value:  a comfortable bed and more breakfast than you can eat, all for $60.  You will pay twice that just for a room in a central Toronto hotel, and a reasonable breakfast will probably set you back at least $12-$14 in addition.  The subway fare from the centre is only $2.75 each way and includes the bus (if you get a transfer). The journey takes about 30 mins.",
+      "rate": 5.0,
+      "tripDate": " October 2008"
+    },
+    {
+      "title": "False advertising",
+      "text": "Located on noisy road and thin walls transmitting noise from other guests as well.  Small rooms.A good distance from city centre.Advertised sumptuous breakfast was a pile of assorted food dumped on a plate.  But worse was that we both got food poisoning from the food.Against the run of the great B&Bs we have stayed in.",
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Convenient location, great price",
+      "text": "My husband and I stayed here on Tuesday this past week to attend a funeral in the area. We came on short notice and Joey was very accommodating. We stayed in the Garden room in 1409 Islington. He let us check out at our leisure the next day, which was good because there was a reception after the funeral. He also had lots of towels and toiletries for us. Breakfast was not available because Marie was ill, so he took 10$ off the price. We were around the corner from some great Italian restaurants (we ate at Village Trattoria http://villagetrattoria.ca/) and could access the 401 easily. Parking was available; backing out was precarious on a busy street.",
+      "rate": 3.0,
+      "tripDate": " January 2012"
+    },
+    {
+      "title": "Excellent stay, marvellous breakfast, highly recommended!",
+      "text": "I stayed there with my sister on June 2012. We got in quite late, Joey was welcoming us and gave really good tips about Toronto. Breakfast was amazing! Marie was a really warm and lovely host and prepared the best breakfasts ever. Room is in a lovely area, it felt really safe to stay there. Good connection to downtown (bus stop is just in front of the house or you may also walk to the subway station, takes no more than 15mins). Subway to city center takes about 30 minutes. We were also given the possibility to keep our room with the same rate until evening when our flight departed. Once more, I highly recommend!",
+      "rate": 5.0,
+      "tripDate": " June 2012"
+    },
+    {
+      "title": "I truly love this place!!",
+      "text": "Hi to allI visit Toronto every summer . stayed at many a venuefrom the best hotels to college dorms. never have Ifound a greater spot than Islington B & B. Joey & Marieare the most caring and upbeat people on earth,  youraccomadations will always suit your needs.  The breakfastis second to none because the chef is and you won't needlunch. this will end up being your second home. I've triedall the rest,  now try the BEST!",
+      "rate": 5.0,
+      "tripDate": " July 2010"
+    },
+    {
+      "title": "No frills, good price and nice hosts",
+      "text": "I have stayed there during my trips to Toronto since 2007. I returned last year, and I am going back this year? I am sorry the reviewer below did not have the great time he expected. These are the strong points for me:1. It is located in one of the very finest parts of Toronto, in Islington, a residential area.2. The rooms facing the streets can be noisy. Ask for a room facing the yard. I've had both rooms, and the one facing the back is extremely quiet, even with the street up front. For more privacy, they have a bedroom with private bath in the basement as well.3. Breakfast is very nice, and plentiful. I have never had any problems with it.4. Downtown Toronto is not walking distance, but traveling south on Islington Ave., where the B&B is, you will get to the highway in about 90 seconds, and you get to Toronto from there (depending on traffic) within 15-20 minutes. Find parking by lakeshore, and you can get good deals for the day ($10-$20 for the entire day) if you get there by 10.  Try a day on Toronto Islands and its beautiful beaches. $6 RT for a nice day of fun...and sunbathing. They offer fine sandy beaches (incl. a clothing-optional beach) that are free. No cars are allowed on the islands, except for services, and everything is done on foot or by bike. Check it out!5. Islington has one of the best italian restaurants I have ever been to. It's moderately priced, and a full meal can set you back about $15-20. Fully worth it! Tr the gnocchi and blue cheese sauce! Yum!6. The rooms are cheap ($60, incl. breakfast). I don't know many other places where you can get decent accommodations in a safe area with the proximity of downtown.7. YOU decide on when you want to have breakfast. They are quite accommodating. Overall, you get a potato-based component, toast, jam, butter, fresh fruit, pancakes, sausage, eggs, Marie's chocolate cake (healthy version prepared by Marie, the nurse, herself). It is pretty diverse. So far, I have stayed at 7 different B&Bs in Canada, and this one while not the fanciest, is one the one of the most filling and best I have had...everytime.Comfort-wise, it's OK. The rooms are fairly small, and most rooms share a bathroom, which is not unusual for B&Bs. I can definitely recommend this B&B. Joey and Marie are extremely nice.  Also, having lived there forever, they know a lot about the area, so you get  great tips as to what to see without the hassle of wondering if there's something in it for them. Also, they speak, English, Portuguese, French and Spanish fluently, which helps their international clientele.Joey is very helpful, and hooked me up when I had car trouble, and they fixed the problem very quickly, and did not charge me for part of the service because of the referral. I have always had an excellent experience. I gave an overall \"very good\" rating because it is a no frill accommodation, and to remain more objective for the average traveler used to fancier quarters. Little touches that make a stay in a foreign country/city more worry-free. Peace of mind is important to me. If it is to you too, this may definitely be a great option.",
+      "rate": 4.0,
+      "tripDate": " August 2008"
+    }
+  ]
+}

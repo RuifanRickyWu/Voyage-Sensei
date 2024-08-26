@@ -1,0 +1,145 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Sweetheart Bed and Breakfast",
+    "url": "/Hotel_Review-g155019-d1976726-Reviews-Sweetheart_Bed_and_Breakfast-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 43
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "72 Henry St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5T 1X2",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/59/1b/db/caption.jpg?w=500&h=400&s=1"
+  },
+  "description": "Sweetheart Bed & Breakfast, a renovated elegant Victorian style and charming three-story house built in 1897, is situated in downtown Toronto, Ontario. The B & B is surrounded by lots of tourist attractions, ethnic restaurants and pubs. Experience the friendly hospitality of B&B. English and japanese spoken.",
+  "featues": [
+    "Free parking",
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Free breakfast",
+    "Non-smoking hotel",
+    "Air conditioning",
+    "Kitchenette",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Like Home",
+      "text": "I was at this charming B&B in Toronto with my little 5 years old girl. It has an excellent price and very good bedrooms. It is clean and comfortable and it is almost like being at home. You won't find luxury. On the contrary, it is simple, but cozy. The breakfast is honest, with coffee, tea, juice, bread, fruits. We stayed at the basement suite with private bath and it was very comfortable. The little kitchen in the second floor is very useful. Excellent option for those who seeks a nice place to stay in Toronto, very close to Downtown.",
+      "rate": 5.0,
+      "tripDate": " April 2013"
+    },
+    {
+      "title": "Amazing!",
+      "text": "This is the perfect b&b. It is in a wonderful location, in the heart of the city. The house is so nice, clean, the people so kind and helpful. The living room for the breakfast so cozy. The rooms so well equipped. Everything is perfect for a so low price. I would have loved to stay there more!",
+      "rate": 5.0,
+      "tripDate": " April 2014"
+    },
+    {
+      "title": "No better location than Sweetheart!",
+      "text": "What luck I had in finding the Sweetheart B&B.  Had not been to Toronto for thirty years and decided that the Sweetheart location looked good.  It was unbelievably close to all the most wonderful things in Toronto.  The AGO is only a few blocks away as is the UofT.  Was able to stroll on Philospher's Walk while I made my way up to Yorkville.  I loved my hosts Mari & Ky-es-k (sorry for the spelling).  The breakfast bread was so delicious that I am still thinking about it three months later.  My cute little room reminded me of Van Gogh's \"Bedroom at Arles\".  Could not have been happier!  Will return to stay longer.",
+      "rate": 5.0,
+      "tripDate": " August 2013"
+    },
+    {
+      "title": "Great Location",
+      "text": "I visited Toronto for a one night event and could not find a hotel room anywhere near my downtown location. At first I was concerned about the travel time, but this turned out to be a great spot. Convenient to the subway and walking distance to several pubs made this a great place to go to after attending my event. The room was comfortable and spacious, and the staff very nice. I'd have no problem returning as this was a great deal compared to many of the hotel options in TO.",
+      "rate": 4.0,
+      "tripDate": " March 2014"
+    },
+    {
+      "title": "Loved it!",
+      "text": "I loved this place! I stayed in a private single room on the main floor, shared washrooms downstairs and upstairs. It was VERY close to the Fields Institute where I needed to go every day, great location for me, and in general for tourists as well. I love finding places to stay that are cheap but not hostels. The WIFI worked great, the room was perfect, the breakfast was very simple but did the trick and they put it out at night, so midnight snacks are possible (I enjoy!) Clean towel every day, very clean room and bathrooms. Friendly people, ridiculously good price. Would stay again for business or fun times in Toronto.",
+      "rate": 5.0,
+      "tripDate": " April 2013"
+    },
+    {
+      "title": "Mixed feelings",
+      "text": "First of all I want to make it clear that I don't complain in general, however this review I feel is very fair.This was the last stop in a 3 week driving tour around eastern Canada. We had stayed at 7 B&Bs in total during our stay, and unfortunately this was our least favourite shall I say. My biggest disappointment perhaps is that I thought this would be one of the best.PROs:1. Big room (basement suite)2. Location is fantasic (20min walk to main city, 5 min walk to metro station)3. Friendly staffUnfortunately that's itCONs:1. Very very dirty room (mold all over the bathroom, dirty marks on walls/doors. The rooms are clearly not cleaned to any real standard. 2. Towels never changed (4 nights!) and by the end our room smelled damp.3. Breakfast...well I wouldnt call it that. After the secod morning we had to just eat out. Bread and bagels...that's it!Overall just run down, a few things need to be addressed considering the cost of the place. This has the potential, and maybe was better in the past, but very poor overall and would compare to a 2 star motel. I'm not being harsh as I said at the start, this is completely honest.",
+      "rate": 3.0,
+      "tripDate": " August 2011"
+    },
+    {
+      "title": "The very definition of “Basic”",
+      "text": "TA property description uses words like “renovated,” “elegant,” and “charming.”  Those words are inaccurate if not false. This place is probably fine for those wanting to be near UofT or a hospital and who just can’t afford anywhere better. If that is you, and you go in with low expectations, you might be okay here. Maybe. This is a “bed & breakfast,” but just technically so. You are indeed provided a bed, in a room, but our bed creaked and squeaked so badly that it would wake up a light sleeper every time they moved, and our door took significant force to open and close. Breakfast was store bought bread, bagels, cereal, and coffee/tea, along with margarine, jam, and napkins BUT ONLY IF the employee remembered to restock those items. As positives, the location is safe and central, and the WiFi worked well. If you are on a serious, serious budget, consider this property but weigh your options carefully.  Otherwise, you probably will be much happier staying somewhere else.",
+      "rate": 2.0,
+      "tripDate": " October 2018"
+    },
+    {
+      "title": "Great location, welcoming, interesting old house",
+      "text": "I stayed in the small single room. There are shared showers and toilets. A full kitchen is available for the use of guests on the 2nd floor. This is a bilingual place - Japanese and English. It is very easy to get to from the Subway. About 5 to 10 minutes walk to the AGO. I suggest getting to breakfast early to have the best selection of food. As someone traveling alone this place felt friendly and safe. I would go back.",
+      "rate": 4.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Chotto disappointing",
+      "text": "Was OK: room OK, breakfast was stingy and disappointing.  Good location but felt slightly \"uncomfortable\" at times.  Wouldn't stay there again.",
+      "rate": 1.0,
+      "tripDate": " July 2011"
+    },
+    {
+      "title": "Great location, great price, great people.",
+      "text": "I'm actually an Oakville native who had to stay in Toronto for a few days due to personal business. As a result, I looked into booking really last minute, and contacted Sweetheart mostly based on their price and location. Joe and Kimiko informed me they were out of single/double rooms but would give me the basement suite for the price of the single! They also provided parking for the nights we needed. Awesome. The night I arrived (with a friend), Kimiko and her staff greeted us quite cheerily. A staff member walked us through the payment procedure and general conduct. She told us breakfast is simple and self-serve. It also seemed to be operating more as a guesthouse than a bed and breakfast. They were nice enough to accommodate me when my friend ended up staying an extra few nights with me last minute. Staff/guests all are very friendly, say hello (albeit in Japanese) when you run into them in the hallway. :)The basement suite that I stayed in has a giant bed (I think it's a king) and a small, single bed. Has a decent sized TV, own heating, and a private bathroom. I guess the only thing I was unhappy about is the bathroom. It's nice that I got a private bathroom, but the drain in the shower was terrible. It got to a point where the water level reached my ankles. The pressure isn't bad, they provide towels, shampoo, and plenty of toilet paper, but man -- the place could use some Drainol. Oh, and one other thing. They have coin-op washing machine and dryer I think you can use if you want (I didn't). That's great and all, but the machines are right next to the basement suite, and on the first night, there was a guy doing laundry at 11pm. There are notices on the wall that say to limit use after 5/6pm... so I guess if those rules were a bit more enforced, this would not have been a problem... So, in conclusion - sweet location (5 minutes to Queen's Park subway station), competitive price, nice people... not so awesome drainage. Pretty good TV selection (if that matters), high speed internet, a nice and quiet neighbourhood... I'd recommend it, 'cause I'd stay again. ^^",
+      "rate": 4.0,
+      "tripDate": " September 2011"
+    },
+    {
+      "title": "It felt like home",
+      "text": "I stayed there for only one night in 2017. Great atmosphere and amazing staff. I arrived early and had no trouble getting an early check-in. My room was great, with a comfortable bed and TV. Free wi-fi. The shared bathrooms were clean. I felt like I were at home. Great location with a lot of walking distance attractions and metro station. For sure I would stay there again.",
+      "rate": 5.0,
+      "tripDate": " June 2017"
+    },
+    {
+      "title": "Very friendly owner and staff with great location",
+      "text": "This B&B is the perfect place to be in in Toronto.They have very nice owner, friendly staff, Kei, and great location.  Just in the downtown of Toronto, next to Starbucks, and in front of the U of T.I highly recommend this place.",
+      "rate": 5.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "What a wonderful gem in a terrific location!",
+      "text": "You are lucky to have stumbled upon this lovely B&B. Look no further if you are on a budget and yet want to be on a beautiful little street, tucked away yet just a block from the trendy restaurants on Baldwin, Kensington market, the AGO, U of T, the Eaton Centre, all the major hospitals, etc.  The hospitality is extremely warm.  I felt like I was staying with family, even though I'm in my 50's and most of the guests were foreign students. The rooms were clean and pretty, the beds comfortable, the continental breakfast simple but nicely presented for self-service, ie. bagels, English muffins, toast, fresh fruit, cereals, good tea and coffee. Will definitely return on my next trip....A note:  the bathrooms are shared, however in my 4 night stay I never had to wait for one. Everything runs very smoothly...",
+      "rate": 5.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "International beaches jazz fest",
+      "text": "Love this new location.  Close to Queens Park subway, #506 bus to east and the west!  The layout, washrooms, breakfast and rooms were perfect!  Clean, comfortable beds and lovely and helpful staff make this an every year visit!! 5 Stars for sure!!! Good job, Joe and Kimiko!",
+      "rate": 5.0,
+      "tripDate": " July 2015"
+    },
+    {
+      "title": "Friendly and clean",
+      "text": "Loved this place! Good location, friendly people and so clean! The breakfast was really good and organized, we received slippers while we stayed here and everyone was great. Overall loved it and we will stay here again for sure.",
+      "rate": 5.0,
+      "tripDate": " September 2015"
+    },
+    {
+      "title": "It is a very reasonable place to stay in the heart of the city.",
+      "text": "Members of the staff were very friendly and helpful",
+      "rate": 4.0,
+      "tripDate": " June 2010"
+    },
+    {
+      "title": "great people, great breakfast, fantastic location, place to make japanese friends",
+      "text": "we stay at sweetheart at least twice a year, usually five days or more each time. we have made friends with japanese who have visited us in ottawa and whom we've visited in japan. Before finding sweetheart we stayed at many places in Toronto, all of them only half the value of sweetheart.we travel outside Canada for five or so months per year and never thought we'd find a place in toronto that represents the same value as places in japan, chile, germany and so on.",
+      "rate": 5.0,
+      "tripDate": " March 2011"
+    },
+    {
+      "title": "We had a cozy  stay at  the  Seetheart B&B.",
+      "text": "My Husband and I stayed at  this B&B some days ago.We went to Toronto from Prince Edward County. This time our trip to Toronto was for my husband's operation. I thank the owners for helping  us a lot. They have  a very good staff who works  hard to keep everything clean.  We had a very cozy stay this year and last time too. The owner and her Husband are very nice. My husband needed to stay in a very clean place after the operation. We will come back to  this B&B in the fall again. We would recommend this cozy and happy B&B to anyone.",
+      "rate": 5.0,
+      "tripDate": " April 2011"
+    }
+  ]
+}

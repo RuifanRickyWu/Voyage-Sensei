@@ -1,0 +1,96 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Parkside Student Residence",
+    "url": "/Hotel_Review-g155019-d13795971-Reviews-Parkside_Student_Residence-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "2.5",
+      "reviewCount": 14
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "111 Carlton St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5B 2G3",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ba/d1/d2/front-of-the-building.jpg?w=500&h=400&s=1"
+  },
+  "description": "Located in the heart of downtown Toronto, easily accessible off the Don Valley Parkway/Hwy 404 and Gardiner Expressway. With the city at your doorstep, Parkside is walking distance to major Toronto attractions including Eaton Centre, Air Canada Centre, CN Tower, Rogers Centre, Museums, Universities and Toronto Transit at our front door! FAMILY SIZE 1 bedroom, 2 bedroom and 4 bedroom fully furnished residence with the feel of a hotel at unbeatable price. Available with Daily, Weekly and Monthly rate. All suites have a full suite of amenities including air-conditioning, free high-speed wifi, security, hot buffet breakfast and much more. Parking is available on site too.",
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Free breakfast",
+    "Children Activities (Kid / Family Friendly)",
+    "Meeting rooms",
+    "Concierge",
+    "Non-smoking hotel",
+    "Self-serve laundry",
+    "Wifi",
+    "Air conditioning",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Excellent Downtown Toronto Location",
+      "text": "Having done a bit of searching, I was aware of the Parkside Student Residence's shortcomings. There were no big surprises - the reviews I read were true:This is a student dorm, rented out like a hotel during the summer.The beds and bedding are quite uncomfortable and un-cozy.There is no TV, microwave, or refrigerator in the room. There are no overhead lights in the main room (living room) or bedrooms (those little plastic lamps in the bedrooms are all you get other than natural light). The location is hard to beat though, as well as the price. Easily the cheapest stay in the downtown Toronto area, I planned according and brought my camping sleeping gear and mentally lowered the bar. Traveling with my mature teenage sibling, this seemed like a learning-opportunity for how dorm living can be.Much, much nicer than the college dorm I lived in, Parkside Student Residence employs a professional staff and has 24-hour security. Key card access to enter and exit, the lobby and building itself are very modern. There is a game room on the lobby level, and the second floor has study rooms, terrace access, and a computer lab-like area. The room we stayed had two single beds in two separate rooms with doors. Each bedroom also had a desk and chair and the famous cheap, plastic table lamps. The main room aka living room had a couch and coffee table. The bathroom had a sink and shower/tub, and toilet. The noise level was high. Being downtown, there is a lot of traffic sounds and sirens. I think there must have been some students still living there for the summer, so there was noise from the hallways/neighbors, too.  Breakfast is included in the price for the room, and it was one of my favorite parts of staying at Parkside. There is a restaurant level that is basically a fancy cafeteria. Starbucks coffee in travel carafes, hot breakfast foods, yogurt with granola options, healthy smoothies, cereal, pastries, fresh fruit, sandwiches… it was good. Overall, I would debate staying here again. The lack of overhead lighting and mini refrigerator was bothersome, and the beds were quite uncomfortable. But it worked well for our trip – busy days out of the hotel, sight seeing and shopping, only to crash at night. Again the location downtown gave us awesome access to great restaurants, grocery stores, parks, and different areas of the city – the Village was a few blocks away, which is an LGBT proud neighborhood with rainbow crosswalks. The “Times Square” of Toronto, or the Yonge-Dundas Square shopping district is a few blocks in another direction.",
+      "rate": 3.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Not suitable for business traveler",
+      "text": "The lobby is nicely arranged, security is quite set, check inn is easy, small elevator, clean hallway.Room size is acceptable however, NO light in seating area, no fridge, no coffee station, no TV, small lamps inside rooms which we put outside in seating area on top of our luggages just to make place brighter. Quilt are not to standard, more like ur camping not pleasant at all. We felt cheated with the video & pics shown in parkside website & the price we paid, so we move out the same night thankfully Booking.com talked to them and arranged a refund (not done to date after 3 wks though), found a better deal in a proper hotel next to Eaton center, what a relief... it wasn’t a nice experience but something to keep in mind for future booking.We recommend this place for long stay or more of a student dorm",
+      "rate": 2.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Rooms for disabled not very practical",
+      "text": "I should start by saying that I am able-bodied, but was given a room with a disabled sign outside.  I found enough inconveniences that I really wondered how accommodating someone in a wheelchair would find it.I'll start with the bed:  it was pretty high, with a mattress that could fairly easily slip off the base.  Also, the mattress itself was covered in a vinyl-like material, with just the bottom sheet on top.  This felt uncomfortable, so I got a couple of spare towels and put them underneath, which helped a lot.Lighting:  other than the light by the entrance door (and the light in the bathroom) the only source of light was a tiny lamp on a tall table on the opposite side from the bed.  So you're faced with turning out the light and then manoeuvering in the dark into bed.  I can't imagine this would be much fun in a wheelchair.  Plus it's not very safe to have no source of light beside one's bed if you have to get out of bed in the middle of the night. (Not to mention it being difficult to read in bed!)  I solved this problem by moving the bed over a bit and then moving the table with the lamp on it so it was beside the bed.  (Apologies for forgetting to put things back the way they were...)Climate control:  the controls for the heat and a/c (which was a bit overenthusiastic - I had to ask for an extra blanket)  were beside the entry door and not at wheelchair height.The bathroom:  no counter space of any sort, just a sink.  It was annoying enough for me to have to go back and forth to retrieve toiletries.  Imagine doing this in a wheelchair.  The shower was nice and roomy, with lots of grab bars, and a seat and a hand-held shower.  But there were no ledges anywhere to put shampoo etc. I ended up putting soap and shampoo on the seat.Keep in mind that this a private student residence - I cannot imagine being disabled and having to live in that room for several weeks or longer.On a positive note: lovely staff, and great breakfast!",
+      "rate": 3.0,
+      "tripDate": " August 2018"
+    },
+    {
+      "title": "Bad building, bad rooms and bad management",
+      "text": "Horrible, homeless screaming in front of the building. The AC and vents are not working very well which created some mold around the window. I saw some rats running around the lobby which is very dirty. The building is also very poorly managed. The only positive thing about this place is Peter the security guard at the front desk.",
+      "rate": 1.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "This is NOT a hotel",
+      "text": "This is labelled a hotel but is a bare walls, minimum amenities student dormitory posing as a hotel during the summer months. The rough bare room, with a bizarre bed and little else felt like a prison",
+      "rate": 1.0,
+      "tripDate": " May 2018"
+    },
+    {
+      "title": "Prime location",
+      "text": "This is a mix of student residence and hotel guestrooms.  Not bad for the price if you are looking for a place to just rest your head for the night (no TV inside guestroom).  The location is great since you are between Jarvis & Church St.  Parking inside the garage is a bit challenging - I would suggest leaving your vehicle inside once parked. All in all I would stay here again!",
+      "rate": 4.0,
+      "tripDate": " July 2019"
+    },
+    {
+      "title": "Avoid! Avoid! Please Avoid!",
+      "text": "Me and my wife have booked for 2 night in this student residence and the experience was really horrible. The day we came to check in, the security guide allow us to go in and said we have to wait for 10-15 minutes because the receptionist is away. End up we waited for 25 minutes for the guy to come back. We check in but the guy named Noah had really bad attitude. He took my card without saying any words and when we asked, he said nothing will be deducted, but end up it deducted CAD$1 immediately from the card.Despite this place has no TV, fridge and any light in the living room, they even don’t provide a rubbish bin for people to gash trash and nothing is in the tissue box. The second day the housekeeper knocked and asked if we need anything, we asked for some tissue rolls and she told us there is no tissue roll in her cart and she never come back to replenish. The most unacceptable part is that the bed sheets had many dots and line of blood!! For both of the single bed in the accommodation! (Attached photo)When we finally check out, again the receptionist is away and we were asked to wait for 20 minutes again. This guy Noah is full of laziness and showing a strongly unwilling to work attitude which most of the time he is not in his workplace.",
+      "rate": 1.0,
+      "tripDate": " June 2018"
+    },
+    {
+      "title": "Good stay I had.",
+      "text": "Good hotel to stay, they have breakfast include with a lot of varieties, also they have a gym. This hotel have an excellent location because is close to many places at downtown Toronto. My friend Ntona show me a lot of places at Toronto.",
+      "rate": 5.0,
+      "tripDate": " August 2018"
+    },
+    {
+      "title": "Good location for Women's College Hospital  Appointment",
+      "text": "Basic accommodation  but close to the hospital that we needed to be at 7AM. Truly spartan but only in room to sleep. Location is close to Yonge street and Toronto is such a neat city to explore. Other reviews are spot on as far as facilities but it is a deal if you want or need to be downtown.",
+      "rate": 3.0,
+      "tripDate": " July 2018"
+    }
+  ]
+}

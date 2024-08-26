@@ -1,0 +1,143 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Le Germain Hotel Toronto Maple Leaf Square",
+    "url": "/Hotel_Review-g155019-d1940841-Reviews-Le_Germain_Hotel_Toronto_Maple_Leaf_Square-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 1614
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "75 Bremner Blvd",
+      "addressLocality": "Toronto",
+      "postalCode": "M5J 0A7",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/bd/66/1a/the-signature-suite-co.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Set in the heart of Toronto’s sports and entertainment district, this upscale hotel is just in front of the Scotiabank Arena, and a few minutes’ walk from the CN Tower's revolving restaurant and Rogers Centre's stadium. Luxury contemporary rooms and suites featuring warm wood accents include Nespresso coffeemakers, flat-screen TVs, free WiFi and rainfall showerheads. Some rooms offer balconies, round beds and full kitchens. Continental breakfast is included. A sleek restaurant and bar serves a tapas menu based on Canadian cuisine. Perks include a 24/7 fitness centre and 7 meeting spaces for you to enjoy the best stay in Toronto. Dogs, welcomed with a charge, receive beds, plus food and water bowls.",
+  "featues": [
+    "Valet parking",
+    "Free High Speed Internet (WiFi)",
+    "Fitness Center with Gym / Workout Room",
+    "Bar / lounge",
+    "Evening entertainment",
+    "Kids stay free",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Car hire",
+    "Paid public parking nearby",
+    "Wifi",
+    "Restaurant",
+    "Breakfast available",
+    "Breakfast in the room",
+    "Complimentary Instant Coffee",
+    "Complimentary tea",
+    "Taxi service",
+    "Business Center with Internet Access",
+    "Conference facilities",
+    "Banquet room",
+    "Meeting rooms",
+    "24-hour security",
+    "Baggage storage",
+    "Concierge",
+    "Newspaper",
+    "Non-smoking hotel",
+    "Doorperson",
+    "First aid kit",
+    "Umbrella",
+    "24-hour check-in",
+    "24-hour front desk",
+    "Dry cleaning",
+    "Laundry service",
+    "Ironing service",
+    "Allergy-free room",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Room service",
+    "Coffee / tea maker",
+    "Flatscreen TV",
+    "Bath / shower",
+    "Safe",
+    "Telephone",
+    "Iron",
+    "Laptop safe",
+    "Private bathrooms",
+    "Wake-up service / alarm clock",
+    "Minibar",
+    "Refrigerator",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Top notch service and comfort in Toronto",
+      "text": "I traveled for a business meeting that was taking place in the hotel. Coming from a low Covid area and having risk factors and elderly relatives, safety protocols were of utmost importance to me. I wrote the concierge before my arrival, and even though they had not received my reservation yet (it was done through another organization) they took the time to answer all my concerns in a timely manner. The room was beautiful, it was very quiet (although the city itself is quiet during Covid and the AC Centre was not operating during my visit), and the bed and pillows were exceptionally comfortable. WiFi was fast, free and reliable. There was milk and cream for coffee and a Nespresso machine which did a lovely job. Refills when requested came in minutes. The meeting room protocols were excellent, with bar code scanning and questions about vaccinations. All staff appeared diligent about masking. I had room service twice, which was fast and delicious (pro tip - order the cookie plate!) The steak frites was delicious as well. I ordered a boxed continental breakfast which was delivered on time, and contained delicious pastries, yogurt, fresh fruit cup, orange juice and jam for $15. If I had one complaint, it would be that I was not told at check in that I had to request a room cleaning, which meant I was very disappointed to return to an uncleaned room after a long day of meetings. They offered for someone to come up when I inquired but I was not planning to leave the room again.  The room had the shower in the middle with the shutters but as I was staying alone it was fine. All in all I would absolutely come back.",
+      "rate": 5.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "The Place To Stay in Toronto",
+      "text": "I took my son to Toronto to attend a Maple Leafs game.  I wanted to be close to the Scotiabank arena, so I decided to stay at Le Germain Hotel in Maple Leaf Square.  Besides the amazing convenience of being walking distance from everything, this hotel was immaculate.  The service was outstanding and friendly.  Everyone was so accommodating and made you feel so special.  We arrived later at night, around 8:30/9pm and when I gave them my name, they said we were waiting for you, how was your trip here?  It was so pleasant.  The valet took us to our room, and showed us everything, very helpful and asked if there was anything we needed to call him.  The room had snacks upon arrival and I had told them previously that were were there for a Maple Leafs game and there was a cutting board type tray on the desk and it had the blue logo of the Maple Leafs, I thought it was imprinted on the board, however it was done with chalk. What a great, personal touch.  The room was immaculate, modern, comfortable bedding.  This is an upscale hotel, so the amenities were top notch.  Robes, even earplugs were given. Continental breakfast was perfect.  We ate at the sports bar downstairs, which was delicious and the service was excellent.  The bar was very large, the main tv was tremendous.The convenience of this hotel is second to none.  The Scotia Bank arena is across the way (I can't say street, because it was that close) The hockey hall of fame was a very short walk, as well as the CN Tower, aquarium and Rogers Centre.  You can walk inside to everything, so if it is cold, no worries. If you go to Toronto stay here, you won't be disappointed.",
+      "rate": 5.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Comfortable accommodations.",
+      "text": "Check in at front desk was quick and very friendly. I’ve stayed at the property a few times over the years. The service is definitely improving and it is a very clean hotel property overall. Centrally located to the transit hub and dwtn Toronto. The room was spacious, clean and well appointed. The bath room unfortunately had a bath tub and not a stand in shower (which was guaranteed on the reservation) so this left me with some discomfort with showering due to a knee injury and having to get into the tub. I confirmed at check in it wouldn’t be a tub - he confirmed. I’ve stayed before with a stand up shower. However, it still was. When I called down they stated the hotel was fully occupied and they couldn’t assist without charging an additional upgrade charge regardless of the hotels.com room category chosen. That was the only real negative aspect of this stay. Booking something, saying something, then getting something else with the option of getting what promised ONLY with an extra charge isn’t a great feeling. The bed is comfortable, clean crisp white linens and very soft pillows. The towels are fresh and still great quality. They have Molten brown products which are same I personally use at home -in the hotel bath amenities which I always love as it feels like home away from home when I need to stay for work or leisure at their hotel. The front desk team on check out was not as professional as the night check in team. They wouldn’t address me by name but would state “ sure man “ as the way to address / speak to me. I felt that was a little off putting. Overall, a great hotel for rest and relaxation. I would come back again.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Terrible breakfast policy",
+      "text": "Train from Montreal was 2 hours late so we went into this hotel as we missed the check-in at the accommodation we had booked. Room and the bathroom was very spacious  but it echoed in toilet as  the floor and walls are tiled. Tap over the sink was just wrong type and too big: it was difficult to wash face. Beds were very comfortable! The breakfast policy was just unbelievable!!!I ’ve stayed in many business hotels, especially in Brussels and I have never experienced such an awful breakfast!  We had a room with breakfast: the reception didn’t say anything about hotel’s breakfast policy. The thing is that basic room fee doesn’t include all that is served, like sausages and eggs. Also there was a host of waiters/waitresses keeping eye on you that you don’t take something that is not included into your ”breakfast”. Also empty plates and glasses were taken away from table as soon as possible even if I could have use it again.I ’d have wanted to have a peaceful breakfast and finish it without constant disturbance.My friend wanted to have a cappuccino which was served and it was a good cappuccino. When we were leaving the breakfast room, a waitresses run after us and said that cappuccino was not included into our breakfast and she has to pay for it. WTF!",
+      "rate": 3.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Toronto, my home",
+      "text": "I have not travelled for over 2 years and this is my first travel since February 2020.  This is my third time staying at this hotel.  Nice staff, always greet you with a smile albeit with mask but you can see that they are smiling. My first room was a classic room but the wash basin had water flow problem so I requested another room the next day and they put me to a suite so it was a bonus.  Even though it was a suite, the USB charger and power bar in room did not work but I did not bother to ask them to check. The breakfast was buffet and good but it was a bit strange that they charged you more when you ate “hot” food such as sausages and bacon. They better had a fixed price. I moved out and stayed at another hotel for several days and moved back to this hotel at a prestige room. It was good but the toilet paper holder was unbalanced so the toilet paper roll easily fell to the floor.  The minor defects were annoying and they need to check their room carefully. However, the location of this hotel is excellent and close to UP express.  You can walk to the hotel from UP express Union Station in 10 minutes.  All things are nearby, restaurants, supermarket, CN tower, Scotiabank Arena and harbourfront.  An ideal choice in downtown Toronto.  I do recommend this place to everyone.",
+      "rate": 4.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Excellent hotel",
+      "text": "Our family used Le Germain Hotel Toronto Maple Leaf Square as our base while travelling in Canada.  It is an excellent hotel!  Contemporary and comfortable fitout, extremely clean, excellent and very helpful staff, great attention to detail.  We loved the little touches like chocolates each evening, yummy breakfast, good quality toiletries, lots of natural light and central location.  We asked for a late checkout as catching a 1pm international flight and were very pleased when we were offered a complimentary 10pm checkout !  Strongly recommend this hotel.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Dinner and a Leafs Game",
+      "text": "Excellent Location close to many restaurant as well as the ArenaVery comfortable accommodations with a very convenient indoor walk to the Arena as well as real sports.The rooms are really nice we enjoyed a birthday celebration and the staff go out of their way to make you feel welcome and comfortable during your stay.Will definitely be returning.",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Luxury in the Middle of Everything",
+      "text": "This was my first time staying at a Le Germain property, as I am normally partial to a major US-based chain, but wow, am I glad I stayed!From the moment of check-in, through every detail of the stay, the service was impeccable. The physical condition of the hotel is also great. The standard room itself was very large. I really enjoyed the room setup, with a glass enclosed shower as part of a large bathroom area (and there is the ability to close shades and give the shower complete privacy). The bed was super comfortable. The included Nespresso machine and pods were a major benefit. My stay was booked with the NHL Hall of Fame Package. This included complimentary valet parking, continental breakfast for two, and entry into the hockey hall of fame. This value certainly added up. The valet service was very efficient. While the continental breakfast options were limited, the croissants are the best outside of France. The front desk clerk even included an extra Hall of Fame entry ticket so that my wife did not have to pay for hers. The location also cannot be beat, right in the heart of Maple Leaf Square. Despite the busy location, the room was quiet and offered a great night sleep.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "12 Hour Nightmare at Le Germain!",
+      "text": "What an exciting night! Blue Jays home opener! While at the game I received a phone call from the hotel that the valet had done some damage to my car- not sure why they would call someone and try to have a conversation while 50k people are screaming but it what it is. Guess they’re going to fix it… wonder what it does to the value of my Model S P100D.The following morning was trying to get some work done. Called for room service around 9:30 am after no answer for the voicemail asking me to leave my room number and they would call me back. At 10:15 still no call back so I redial. This time its answered and I was told it would be 90 min wait. That’s 2 hr and 15 min for eggs. Guess they’re some special eggs. Maybe I should have waited. I quickly shower and run out for food. Luck has it I find a subway (not joking) and they made me some eggs in 30 seconds and sent me on my way back. When I returned I asked the front desk for my car keys as I did not want them touching my car again. While I was there I let the person at the front know what went on with breakfast. Got my key then went upstairs to finish some work. Went back down to check out and I believe the manager called me up as apposed to the woman who helped me this morning. The front desk person went on to explain that she had talked to the kitchen manager regarding my frustration with the magic eggs. Had to stop her as I could t understand the point. “She overheard the conversation and then called the kitchen for an explanation “ , fantastic. Did you then call me? Nope Unfortunate but won’t be staying there again ; was so convenient, but seriously could they have done anything to help me? What a miserable 12 hours. Thank you - was a blast. (Sarcasm)PS - do not valet your car here!!!!",
+      "rate": 1.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Modern, Clean and comfortable ",
+      "text": "The hotel is very nice and modern with a great location in the new entertainment district and beside the train station surrounded by lots of restaurants and cafes. The rooms are so huge with literally everything you might need. A walking closet, a working desk with a lovely view of Toronto, an iron and iron table hidden in the wall which pops up ready to use, a huge bathroom with amazing shower, two sinks, all types of toiletries, slippers, bathrobe, full mini bar, coffee maker, usb charger, wireless speakers and the most important part was the most comfortable bed.... I really loved the unique idea in the corridors where they place fresh apples on the wall beside the elevator on small shelves which looked amazing 😉. The hotel has a free business center, a lovely breakfast, a valet service and the best friendly staff. Will definitely stay there again and very much recommend it for everyone.",
+      "rate": 5.0,
+      "tripDate": " August 2019"
+    }
+  ]
+}

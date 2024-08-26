@@ -1,0 +1,196 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Kensington Suites",
+    "url": "/Hotel_Review-g155019-d14191650-Reviews-Kensington_Suites-Toronto_Ontario.html",
+    "priceRange": "$$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 21
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "102 Bellevue Ave",
+      "addressLocality": "Toronto",
+      "postalCode": "M5T 2N9",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/0f/99/a0/kensington-suites.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Our two-bedroom Level II apartment is ideal for couples or friends travelling together, as it comfortably accommodates 4 adults, with room for even more. Spacious, bright, modern and very welcoming (no dishwasher or washer/dryer). Our two-bedroom Level I apartment is ideal for couples, travellers and families. Located on the main level, this suite has a spacious eat-in kitchen, comes with a gas stove, dishwasher and has its own washer/dryer. In the summer months enjoy your stay in the private patio. Our economy rooms are ideal for those budget conscious travellers. These private rooms are located in the lower level (basement), spacious, furnished and include use of fully stocked kitchen. These private suites are suitable for those travellers looking for no frills, low cost, clean and a great convienient location downtown. Sharing of kitchen and bathroom with our guests may be required depending on availability. Walk out the door to find yourself in the middle of all that Kensington has to offer with shopping, dining, and exploring different cultures. Walking distance to University of Toronto, Toronto Western Hospital, AGO, ROM, Little Italy, Chinatown and more.",
+  "featues": [
+    "Paid private parking nearby",
+    "Free High Speed Internet (WiFi)",
+    "Complimentary tea",
+    "Bicycle rental",
+    "Patio",
+    "Taxi service",
+    "Adults only",
+    "Baggage storage",
+    "Street parking",
+    "Wifi",
+    "Non-smoking hotel",
+    "Private check-in / check-out",
+    "Clothes dryer",
+    "Self-serve laundry",
+    "Washing machine",
+    "Blackout curtains",
+    "Air conditioning",
+    "Desk",
+    "Dining area",
+    "Seating area",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Walk-in shower",
+    "Separate dining area",
+    "Separate living room",
+    "Sofa",
+    "Clothes rack",
+    "Iron",
+    "Private bathrooms",
+    "Tile / marble floor",
+    "Kitchenette",
+    "Dishwasher",
+    "Microwave",
+    "Oven",
+    "Refrigerator",
+    "Stovetop",
+    "Electric kettle",
+    "Kitchenware",
+    "Flatscreen TV",
+    "Bath / shower",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Landmark view",
+    "Non-smoking rooms",
+    "Suites"
+  ],
+  "reviews": [
+    {
+      "title": "Clean, spacious suite - a home away from home",
+      "text": "The Brunswick Suite was truly a home away from home. It was spacious, clean, and modernly furnished.  The location can't be beat being right next to the famed Kensington Market.  One could make breakfast in-suite (full kitchen sans dishwasher), seat 4-6 persons in the dining room for a takeout dinner, or try a different cuisine each day in the Market. Transportation (street car) was only 1-2 blocks away. We felt welcomed with all the small touches (filtered water and cold glasses in the fridge; plenty of towels in the bathroom). The rain head in the large glass shower was a treat. The large screen TV was a must for the hubby. We loved returning each evening to the comfort of this suite, and we would like to stay again.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Fabulous stay in central Toronto!",
+      "text": "A great experience (my second one actually) at this centrally located and professionally managed property in central Toronto.  All rooms are very clean and well equipped for a comfortable stay whether you want to be indoors or out exploring.  Uber's arrive within minutes which is convenient if you need to travel further.  Everything one needs is within walking distance: food stores, pharmacies and walk-in clinics, LCBO/Beer store, so many restaurants and even clothing shops.  Very close to University of Toronto where one can walk the grounds and enjoy the beautiful old architecture.  My best experience so far for Toronto accommodation.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Best for 4 days stay in Toronto",
+      "text": "We have chosen this ground floor two bedroom apartment for our family of 4. Rooms are very spacious with a living room, kitchen and dining room with high ceilings. A washing and drying machine is located in the bathroom and very helpful for us staying 4 nights.All things are perfect condition, clean and provided. Location is perfect for us, easy walk to nearby Kensington Market, and to an Asian supermarket T&T as recommended by the apartment manager.An excellent stay for group of 3-4 persons visiting Toronto. I’m glad to have found and chosen this place for our trip.",
+      "rate": 5.0,
+      "tripDate": " August 2023"
+    },
+    {
+      "title": "Excellent place with great location",
+      "text": "We had the most comfortable stay at the Kensington Suites. This home is just the perfect cozy and close to everything downtown Toronto has to offer.  The owner is very friendly and takes interest in making sure we have a positive experience. He was always available to answer any questions. Can't wait to be back!",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Excellent place with great location",
+      "text": "The place is perfect, it counts with everything that is needed. The rooms are very comfortable as well as clean. The owners are really nice people and they can help you with anything that's in their reach. It's amazingly located since there're a lot of restaurants, stores and bars in the vicinity. You only have to walk two streets to find a variety of businesses.",
+      "rate": 5.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Per-fect!",
+      "text": "We had an amazing stay. The owners were so nice and friendly, and made sure to answer all the questions we could have about the city and such. The place is clean and looks exactly like the pictures; no unwanted surprises. The place was also perfect for the heatwave because the basement was always cool. The place is also really close to the Kensington Market which as everything you could want and close enough by streetcar, bus or by foot to the main attractions of the city. Overall, it was perfect. We had a great time, and are looking forward to go back soon!",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Perfect",
+      "text": "The convenience of this location is second to none. Great amenities and very cozy quiet setting. The host couple are very accommodating and great communicator .  Everything from grocery, restaurants is a 10 min walk at most.",
+      "rate": 5.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Comfortable, well-appointed apartment",
+      "text": "We stayed in the Brunswick suite, which is a nice two-bedroom apartment with a separate TV room and full kitchen/dining room. Well-decorated. Quiet neigborhood location, convenient to public transit. Private entrance. Would stay here again.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Nice and cozy place",
+      "text": "This place is amazing. Very good location restaurants and bars just a few steps away. The place is clean, nice and cozy.  I totally recommend it. Nick the hostess make you feel comfortable and welcomed",
+      "rate": 5.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "Kensington Suites",
+      "text": "My wife and I have not stayed at an Airbnb as nice. Very modern, well equipped with everything you need , very modern, comfortable beds, close to Kensington Markets , Toronto Western Hospital to name a few.  Would definitely recommend staying here while you are in Toronto.",
+      "rate": 5.0,
+      "tripDate": " February 2022"
+    },
+    {
+      "title": "it is worth to try!",
+      "text": "I stayed a week for my business trip. It is very clean inside and pretty safe.Owner is also wlomed and very flexible for guest request.I think it is cost effective and access to the downtown is also pretty good!I will come back again when I have trip.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    },
+    {
+      "title": "Amazing place",
+      "text": "The location is absolutely amazing, close to August Avenue (Kensington Market), a lot of stores and TTC lines.The place is incredible too. Very clean, safe, with a nice decoration and itens to make you feel at your own home. Nick, the owner, is super polite, helpful and friendly. I highly recommend the place!",
+      "rate": 5.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Anniversary adventure",
+      "text": "My husband and I stayed for 4 days for our anniversary. Nick and his wife were fantastic hosts,  responsive (as when we needed a fan- although the ac was delightful! ) but not overly hovering and chatty. The house is in Kensington market district,  close to Chinatown and public transportation. It was very clean and well cared for. I would highly recommend staying here!",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Loved it",
+      "text": "Nick was friendly and a pleasure to meet; he made it easy to check-in. Amazing place, was a perfect location to explore the city. I went for four days and being there made me wish I could permanently stay.",
+      "rate": 5.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Handy location for lots of amenities.",
+      "text": "Very clean. Amazing location. Extremely helpful hosts. We found everything we needed for a comfortable stay.  It’s located conveniently to lots of attractions.  I will definitely be coming back. And will recommend it to friends.",
+      "rate": 5.0,
+      "tripDate": " August 2022"
+    },
+    {
+      "title": "Rude Money Thirsty Owners",
+      "text": "Made a reservation and had to cancel due to a loved one passing. When I called the phone after 4 times, Nick rudely answered. I let him know my situation and Nick rudely told me to screw myself and made it seem it was my fault that I couldn't time the death of my loved one. Nick reiterated the fact that he runs a business (multiple times) and customer service is not something he prioritizes or cares about. No credit was awarded or no partial refund was even spoken about before Nick hung up.",
+      "rate": 1.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "good jounrey",
+      "text": "The landlord is very nice and enthusiastic. There is a laundry room and a bathroom. I think the only drawback is that the sound insulation is a little poor. So don't talk too loudly at night, which will affect others.",
+      "rate": 4.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Great place to stay",
+      "text": "Nick and his wife were super nice.  The room was lovely, the bed was comfortable, and it was nice that there was a kitchen so I could pick up some food to have during the week.   It was located close to a lot of amenities.",
+      "rate": 5.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "I'll stay at Kensington Suites again...",
+      "text": "Well maintained space, modern feel on the inside while the outside maintains a classic Toronto look. Near many eateries and a colorful part of town, yet 20 minute walk to the University of Toronto and always a neae $15 Uber ride nearly anywhere in town.",
+      "rate": 5.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "NOT FANCY, BUT A SOLID BARGAIN -- AND THE NEIGHBORHOOD ROCKS",
+      "text": "The owners have converted this house for travel visitors. It was perfect for our needs -- clean, neat, quiet, with a nice kitchen and plenty of hot water in the shower. We rented one of the basement rooms, so there was no view, but that's fine. We just needed a place to work and rest after long days on task elsewhere in Toronto. And the location is GREAT -- right next to the incredible Bohemian collection of shops and restaurants called the Kensington Markets on one side, and College Avenue's diverse shops and restaurants on the other.  Will definitely stay here again on my next business trip to Toronto.",
+      "rate": 5.0,
+      "tripDate": " September 2022"
+    }
+  ]
+}

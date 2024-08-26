@@ -1,0 +1,88 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Whitehall Suites - Toronto",
+    "url": "/Hotel_Review-g155019-d9598806-Reviews-Whitehall_Suites_Toronto-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.0",
+      "reviewCount": 10
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "270 Wellington St W",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 3P5",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/54/e6/fb/whitehall-suites-toronto.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "Great apartment in a Condo Building. It's not a hotel. More like Air BNB. Good & Bad.",
+      "text": "Let's start with the good. The apartment itself was great! I could live there. Spacious with all the amenities of a full apartment. It is NOT serviced though which didn't worry me, but some may not like this. Everything worked and the Wi-Fi was good. Great location in the entertainment district and a Starbucks right outside for coffee/breakfast.On the bad side - Staff - they are security staff/doormen. They don't know what is going on. It took some time to find keys. When we got the keys it was all fine. Next day - no hot water! Probably with the whole building. It was rectified that day when we returned.  On checking out, I went to return the keys and they would not accept them! They wanted it in the envelope which they came in. But we threw the envelope away when we checked in. Nobody told us to keep it or this was their policy. In the end, I ended up having to put in in a used Starbucks bag from breakfast! They also asked who we booked through. I said Hotels.com. But that was not good enough. We went back and forth and then realised that they wanted the name Whitehall Suites as there must be several different organisations renting out condo's under different names. It really let a bad last impression on me, but I would stay there again as everything was good aside from that and now that I know how it all works I will be all the wiser. Hope this helps others who stay here.",
+      "rate": 4.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Great appt downtown with great amenities!",
+      "text": "It was a bit difficult to find the right address at first; go to the backside of the burgerplace on 20 John Street and enter a hall of an appt building. There you can pick up the keys and fob. Fob is needed for elevator and recreation rooftop. We had appt no. 1022 with view on CN Tower.Nice fully equipped appt with washerdryer, dishwasher, microwave, oven, fridge, freezer, coffeemaker, watercooker and toaster. Even some cleaning stuff and a few tablets for washer and dishwasher were there. Queensize bed, balcony, closets, bathroom with (only) 2 towels which you can wash and dry when needed. Rooftop pool, whirlpool, big gym you can all use.Communication with renter through Booking.com went well. Right downtown Toronto at the foot of Rogers Centre and CN.Mail me if you have any questions about appt 1022. Have a great stay!",
+      "rate": 4.0,
+      "tripDate": " September 2019"
+    },
+    {
+      "title": "Not a hotel",
+      "text": "This one bedroom condo was fine, if small, but we thought we were booking a hotel, with hotel amenities. There are no employees of Whitehall onsite if there are problems, no housekeeping to call for extra pillows etc. There are no check-in clerks when you arrive, just the security desk for the building, where you are supposed to pick up your key. Unfortunately for us, we found out on arrival that the suite we had booked was not actually available as it was being renovated. This then needed the better part of half an hour on the phone with Whitehall while they tried to find an available suite for us, and then to communicate this to the security guard onsite so he could find the keys for us. No explanation why Whitehall booked an unavailable suite in the first place. Then, when we went up to our floor, we discovered that our room number did not exist. Back down to the security desk, suitcases in tow, where the guard said our room was probably in \"the other tower.\" No mention of this beforehand by Whitehall. The guard tried his best for us, bless him, but he is an employee of the condo building, not Whitehall, so can only do so much.Anyway, the suite was fine, although smaller than those depicted in pictures on the website, and we managed alright. First-world problems, I know, but we paid first-world rates. Two lights in the main kitchen/living area were burnt out, so lighting was poor, but who do you call? There was no staff onsite as far as we knew. The pullout couch was not really a full hide-a-bed, and not particularly comfortable. The bathroom fan runs all the time, not just when the lights are on, so the noise becomes bothersome. The HVAC was a noticeable problem. When we got into the suite, we noticed that it was stuffy and very warm. A check of the thermostat showed that the air conditioning was on, not the heat! We never got the temp much below 24C, with the aircon running the whole time, and even resorted to opening the sliding door (to nowhere, no balcony) to get some cool air, which is a bit odd in Toronto in late December! Can't imagine what the temperature is like in summer.What this place has going for it is location, of course. The corner of John and Front streets is ideal for the theatre district, and is right across the street from the CN Tower and the Air Canada Centre. Also, there is underground parking, and the wifi is good. However, we wouldn't choose this accommodation for a family holiday again.",
+      "rate": 3.0,
+      "tripDate": " December 2015"
+    },
+    {
+      "title": "Whitehall Suites 12 York",
+      "text": "Wonderful location, right across the street from Longos Gricery and the LCBO and a short block from Union Station. The suite is small for a one bedroom apartment and the bedroom is more an alcove with two sliding glass doors to separate it from the living room / kitchen but the room is large for a hotel room and the kitchen is a huge bonus as are the washer and dryer. There is a nice little dining area and the balcony and windows overlook the street and not directly into the tower next door. The entire place and linens were very clean and there were extra pillows, though extra pillow cases. There is an Internet box for TV with a good variety of programming and the internet is fast. The security team at the concierge desk are friendly and professional. If coming in a taxi have the driver drop you off around the back at Grand Trunk Crescent. The building is called Ice One and it is easier for loading and unloading at that entrance than it is on busy York Street especially with the current ongoing construction.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Great location great views ",
+      "text": "Great place to base yourself. 5 min walk from Rogers Centre and CN Tower.  Clean and tidy but the skirtings and vents could have been better as they were very dusty. Would recommend 5 nights max in the city.",
+      "rate": 4.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Disaster and badly run ",
+      "text": "Whitehall Suites, although in a wonderful location, are run so badly it’s sort of astounding. We arrived at 4 pm (check in time is at 3), and, after running from one building to another to find out how to get in, were given ONE KEY for the three of us. We have been told that there is only one key/fob available for each guest apartment. Fine, if all three of us were going to be glued to each other all day, but one was at a conference all day while the other two were being tourists. Impossible. Still trying to figure out how we can share one key between the 3 of us.The staff at the desk are not employees at Whitehall, and could only assure us that for the sake of security, we were stuck with our situation. My feeling was that they were tired of dealing with  unhappy Whitehall Suites guests.The housekeeper was still washing the bed linens and cleaning the apartment when we arrived at 4, and seemed oblivious to the fact that we needed to get settled in and get ready for an appointment at 5. I told her she could leave and that we would make the beds when the laundry was done. We have to call her an hour before we leave so as to meet her with the keys (!) at the apartment. Apparently, the one key per apartment rule is so strict that the housekeeper doesn’t even get one!Not good and not helpful.",
+      "rate": 1.0,
+      "tripDate": " July 2018"
+    },
+    {
+      "title": "Désillusion !!!",
+      "text": "Nous avons eu une grosse déception à l'arrivée dans l'appartement (appartement 1 chambre) prévu pour trois personnes . Le terme studio est plus adapté. Ce logement est très bien pour un couple mais pas pour trois. La table à manger est prévue uniquement pour deux, pas de nécessaire de couchage adapté au canapé, la chambre est séparée par des portes de placard en verre dépoli, de la vaisselle également pour deux...Notre interlocuteur canadien, le premier jour, nous a bien dit qu'il s'occupait de notre problème et puis plus rien malgré un rappel !!Notre prestataire par lequel nous avons loué n'a pas trouvé de solution sauf de nous adresser la liste d'autres logements disponible à Toronto (quid des frais de résiliation). Les photos \"non contractuelles\" sur le site de réservation ne vous apportent aucune aide car on ne sait finalement rien de ce que l'on loue ???Concernant le logement en général, la propreté était  moyenne , la douche a mal vieilli , la salle de bains mal éclairéeLe point positif concerne l'emplacement...",
+      "rate": 2.0,
+      "tripDate": " March 2017"
+    },
+    {
+      "title": "Schönes Apartment mit guter öffentlicher Anbindung und weltklasse Aussicht",
+      "text": "Es handelte sich um ein Apartment zur kompletten Selbstversorgung (Essen und Putzen). Es hatte um die 60m2 Wohnfläche und einen grandiosen Ausblick in Richtung Harborfront. Sowohl eine Buslinie als auch die Straßenbahn ist in 5 Minuten zu erreichen. Für die U-Bahn braucht es zu Fuß länger. Wir waren im Urlab dort. Hätte ich beruflich in Toronto zu tun, würde ich dieses Apartment haben wollen.",
+      "rate": 5.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "NEVER STAY HERE!",
+      "text": "Two months before arriving to the Whitehall Suites in Toronto we received an email from them stating that they had already charged the booking deposit to our credit card. I tried to contact them but it was impossible to contact the staff that manages the reservations. They never replied. Booking.com assured us that this (the upfront charging) happens more often, but they were not able to do anything about it. Now we know why they already charge in advance!The place is an absolute disgrace. These ‘luxury suites’ are situated in a condo building, and are completely unmarked. After driving round the block for 10 minutes – in heavy traffic- we finally found it. No reception staff was present, other than a grumpy security guy who handed over an envelop with the key. In the elevator we met another guy holding a set of new wineglasses. He asked us if we were checking in, and told us he was the owner (manager, or whatever) and that we were lucky to bump into him as it was his day off. He was on his way to another unit to replace wineglasses, but he offered to walk us to our apartment. As I was having trouble opening the door with the key, he took the key over and actually had to kick in the door to get it to open. He walked in with us and gave us a short tour but seemed in a big rush to leave again. He knew very well that the apartment that was sold to us as a luxury apartment for four people (two adults, two teens) was just about fit for two adults, and was eager to leave asap after hastily pointing out the extra matrass in the ‘master bedroom’ cupboard, ‘which we could put on the floor in the living room if needed’. The apartment was disgusting and completely run-down. The master bedroom had a full bed, and the so-called second bedroom, with a single bed, was nothing more than a small box room with no windows and no ventilation. This unit was advertised as a \"luxury two bedroom condominium\", and the reviews on booking.com were good (they average an 8). The reviews are obviously being manipulated. We travel extensively and have had much success with booking.com and aparthotels and suites, but I'm not sure what exactly this outfit is basing their \"luxury\" standards on. We immediately cancelled the booking, left, and checked into a real(!) luxury hotel elsewhere in the city. On arrival back home we found out that the Whitehall Suites have processed the full amount and charged it to our credit card. We want to have the full amount refunded immediately, as this is a scam and plain theft. Under no circumstances would we ever stay here again, and we certainly would NEVER recommend it to anyone.",
+      "rate": 1.0,
+      "tripDate": " August 2016"
+    },
+    {
+      "title": "Good location -  Condo needed an update",
+      "text": "We booked a 2 bedroom condo here.  I was a bit worried about getting in as there was only the security guard on at 6pm on a Sunday evening when we arrived.  However that went smoothly.  The place was about 20 years old I would think.  Kitchen was serviceable for us.  Luckily we were only 3 people as the second bedroom had no window, a double bed that was pushed up against one wall and had no hanging space.  My sister in law fitted in OK by herself.  The main bedroom that we had was bigger and did have hanging space but it was mostly taken up by a single mattress.  Go figure.  The vertical blinds in both the main bedroom and the lounge room were a absolute disgrace.  There were slates missing and they did not open and shut very well.  A real problem in the bedroom because of the privacy and light issue.  Because across the way was an office block that could see directly into the main bedroom and the lights were left on all night.  The shower was completely broken.  The shower head was one that could be hand held as well.  However it was broken at the base so if you wanted a overhead shower the water spurted out of the broken bit all over the bathroom floor.  I left a note when we left to tell the cleaners that these things needed fixing.  THe location was good and quite safe.  It was near the Blue Jays stadium, and close to CN Tower and an easy walk to Union station.  Don't think I would recommend it and I would not stay there again should I visit Toronto again.",
+      "rate": 3.0,
+      "tripDate": " July 2016"
+    }
+  ]
+}

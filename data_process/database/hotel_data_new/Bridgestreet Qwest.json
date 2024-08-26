@@ -1,0 +1,95 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Bridgestreet Qwest",
+    "url": "/Hotel_Review-g155019-d1603819-Reviews-Bridgestreet_Qwest-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 8
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Quest 168 Simcoe St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5H 4C9",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+  },
+  "description": null,
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Fitness Center with Gym / Workout Room",
+    "Restaurant",
+    "Non-smoking hotel",
+    "Laundry service",
+    "Washing machine",
+    "Bathrobes",
+    "Air conditioning",
+    "Seating area",
+    "Sofa",
+    "Telephone",
+    "Coffee / tea maker",
+    "Kitchenette",
+    "Bath / shower",
+    "Iron",
+    "Dishwasher",
+    "Microwave",
+    "Refrigerator",
+    "Kitchenware",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "Non-smoking rooms",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Fully-equipped apartment",
+      "text": "We stayed in one of the apartment in the building for 5 days and made booking through Booking.com. The host Michael was very helpful, whenever I texted him he replied promptly. The facility is centrally located about 12-14 minutes away from Eaton Centre/CN Tower. There are few supermarkets in the vicinity. The facility has fully equipped kitchen with plenty of utensils, cup, plates, dishes etc. It also has washing machine, dryer, vacuum cleaner and iron. There were plenty of towels in the wardrobe. The apartment well stocked supplies of soaps, detergents, garbage bags etc. We came at the property in two cars and Michael was waiting in his car outside the building. He took us inside the basement for which you have to drive entire block to get to the parking. Without Michael leading us it would have been impossible to find the parking. The rating of 9.5 at Booking.com seems a bit too exaggerated. I would only reserve such rating for high end properties providing much greater luxury. The accommodation was basic. It only had one bed room. There were two sofa beds. Although while I was making the booking, I somehow got an impression that there were two bedrooms – which turned out to be not true. So look at the pictures and descriptions carefully. The apartment is older/smaller than it appears in the pictures. There is no concierge or reception service however, you can ask Michael who was very helpful to my queries. Upon arrival we found the internet and TV not working. After a reset of the modem got the internet to work but for the TV to  work Michael had to come to the property to fix. With two small kids TV is a must to keep them entertained.  On the other hand  the other TV in the bedroom didn’t work during our entire stay of 5 day and we didn’t bother Michael about that. Lastly, the property was decent but the price was on the higher end and at that price range I would have expected something more luxurious. At a  much lower price level the 9.4 rating would have been justified but in my opinion the property deserves something in the range of 8-8.5 (in a scale of 10).",
+      "rate": 4.0,
+      "tripDate": " April 2018"
+    },
+    {
+      "title": "a bit outdated, but clean, large and excellence location",
+      "text": "Room is a bit outdated. However, compensate with large size and clean. Excellence location, easy to access subway, streetcar and closed to Rexall, Eaton mall and ton of restaurant on Queen St. Couple min. walk to Toronto city hall.",
+      "rate": 4.0,
+      "tripDate": " October 2016"
+    },
+    {
+      "title": "Convenient ",
+      "text": "Small condo,  within walking distance of several tourist attraction. Only complaint was not enough towels for 2 people for 5 days.  Same with the coffee pods,  only 8 pods for 2 people for 5 days. Nice to have a washer and dryer to do laundry if needed. Did find an iron and board in closet as well.",
+      "rate": 4.0,
+      "tripDate": " April 2017"
+    },
+    {
+      "title": "Big letdown",
+      "text": "We booked an apartment for 1 week through booking.com  and had a confirmation e-mail. As our taxi pulled up to take us to the airport in the UK to fly to Toronto I received an e-mail to say that this place was no longer available and an alternative one had been found for us in Mississauga (14 miles away - luckily we know the area and refused it). Eventually Booking.com sorted us out another apartment on Yonge Street at a higher price which we had to pay upfront (we're waiting for our refund). I was impressed with Booking.com's handling of the situation but disgusted that QWEST could let us down at the last minute it was the most stressful time at the airport waiting to know where we were going to be staying before we boarded the plane, and we have had no apology from the people responsible for this cock-up.",
+      "rate": 1.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Stayed for 3 months",
+      "text": "I have booked through premier suites. I must say that their service is great. In case I need a help, I just need to send an email and the help is right away. The place is bit dark, I would suggest if they could add few more lights it would be more helpful. Every necessary amenities has been provided in the apartment.",
+      "rate": 3.0,
+      "tripDate": " January 2016"
+    },
+    {
+      "title": "Nice and fully-equipped apartment",
+      "text": "Upon arrival, there'someone waiting at the lobby to pass us the keys. Nice and fully-equipped apartment. The host also provide washing poweder and detergent.Walkable distance to quite a lot of attractions as well.",
+      "rate": 4.0,
+      "tripDate": " August 2017"
+    },
+    {
+      "title": "Great Value for the Money",
+      "text": "I think they have more than one building they work with but we stayed at the 168 Simcoe location-- room 1016 and it is central to everything touristy you'd want to see. You can either walk or take public transportation to them. I also like that although its not a hotel -- they treat it like one by allowing a late check out if they can accommodate it,  have coffee & tea, toiletries and there's even a washer/dryer in the unit so you can go home with clean clothes! They include detergent and dryer sheets to boot! Its a 1 bedroom apartment in a doorman building with one bath and there's a tv in the living room area and another in the bedroom. The living room has a sofa bed. There's a CVS/Duane Reade type store around the block called Rexalls where you can stock up the fridge and a Tim Horton's across the street. If we ever return to Toronto -- I'd stay there again in a heartbeat.",
+      "rate": 5.0,
+      "tripDate": " October 2016"
+    }
+  ]
+}

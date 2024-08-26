@@ -1,0 +1,58 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "All Days House#2",
+    "url": "/Hotel_Review-g155019-d658283-Reviews-All_Days_House_2-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 5
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "281A George St",
+      "addressLocality": "Toronto",
+      "postalCode": "M5A 2N2",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "Scary neighbourhood, would not recommend it!",
+      "text": "We stayed here for only 1 night (thank god) Sept 11. It is fairly close to Dundas square 5-10 mins walk but I would rather a longer walk in a better area. We arrived at about 9pm, very dodgy people hanging around and staring at us, there was no one there to let us in, the next door neighbour gave us passcode for the door and we had to call to find out which was our room. Although the room was ok and cleanish, we felt uncomfortable and generally uneasy. Was terrified about leaving the house but as only had 1 night in Toronto had to make most of it. I would never stay again and mainly due to the area and would be better if there was a member of staff on site...enjoy!",
+      "rate": 3.0,
+      "tripDate": " September 2011"
+    },
+    {
+      "title": "価格以上にいい",
+      "text": "私の部屋はとても狭くて荷物を置くと2，3人座るくらいのスペースしかありませんでした。窓はとても電気はスタンドの小さいランプだけしかなくとても暗いです。しかしホステル全体はとてもきれいで快適だったので過ごしやすかったです。他の部屋も垣間見ることがあったのですが、他の部屋は広くて明るい部屋もあったようです。オーナーもフレンドリーで全体的に好印象です。小さくて、住宅のような建物のホステルなので、最初は見つけにくいかもしれません。",
+      "rate": 4.0,
+      "tripDate": " May 2011"
+    },
+    {
+      "title": "HI",
+      "text": "Very basic, but clean! Tv in the room was positive surprise.",
+      "rate": 4.0,
+      "tripDate": " December 2009"
+    },
+    {
+      "title": "Overrun By insects",
+      "text": "I was 1 guest of 15 that stayed at the All days house #2 during Caribana weekend 07'. Please know that the information is not clearly stated on the website. There are only 4 single rooms in the house, the rest are all double beds meaning they are 2 full size beds in each. Please be aware that if you are expected to share that 1 bed if you have a booking for 4 people ( 2 per bed).The linens were not cleaned daily, the linens that are on the beds are the ones that you have throughout your stay. The kitchen is filthy, I suggest you buy a disinfectant with bleach to clean before use. They did in fact offer the internet as well as phone, iron & ironing board, dishes, pots& pans.  The central air only worked in certain areas of the house. We were told that we would have maid service everyday, well there was a guy that came and dumped the garbage twice but thats as fas as the maid service went. Use the laundry room with caution , its dark and gloomy. Your  are not at the intersection of Javis & Dundas, you are on a street that is even frowned upon by the Toronto police. His advice to us was to never travel alone at night, don't carry allot of bags, have your keys ready to go in. You are between a strip club and a halfway house. Be prepared to see drug transactions off all kinds as well as paid sexual acts taking place. Oh lets not forget about the rats that live under the house that will run  on the grass as if they were kittens playing. Now onto the infestation of insects. There were bedbugs, mites , misquitos, flies throughout the house. I slept in my bed 2 nights out of  the 4 that I was there. I have over 50 bites all over my body that resulted in swelling of my eyes and hive like lumps on my arms. It is now two days after I have left Toronto and they are still there. With a good cleaning , an exterminator, fresh linens daily, and a officer on patrol this could be a nice play.",
+      "rate": 2.0,
+      "tripDate": " August 2007"
+    },
+    {
+      "title": "It is very clean and cheapest hostel",
+      "text": "I stayed at above hostel couple of times. It is very clean and staff are very helpful and friendly. The price is very reasonable. It is close to down town.jeyakumar",
+      "rate": 5.0,
+      "tripDate": " June 2010"
+    }
+  ]
+}

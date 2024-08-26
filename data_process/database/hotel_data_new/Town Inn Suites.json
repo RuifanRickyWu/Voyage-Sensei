@@ -1,0 +1,312 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Town Inn Suites",
+    "url": "/Hotel_Review-g155019-d183093-Reviews-Town_Inn_Suites-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 1129
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "620 Church St",
+      "addressLocality": "Toronto",
+      "postalCode": "M4Y 2G2",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e2/ca/c4/town-inn-suites.jpg?w=500&h=-1&s=1"
+  },
+  "description": "The Town Inn Suites is centrally located in downtown Toronto. Close to the shops of Bloor and only steps away from transportation at Bloor and Yonge. Our suites range from 500 to 900 square feet and have fully equipped kitchens. Perfect for long term and short term stays. Each suite has a full living room, kitchen and dining room areas. Whether you are on business, leisure or family trips the Town Inn has a suite to accommodate all your needs with both one and two bedroom suites.",
+  "featues": [
+    "Paid private parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Bar / lounge",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Business Center with Internet Access",
+    "Baggage storage",
+    "Concierge",
+    "24-hour check-in",
+    "Parking garage",
+    "Wifi",
+    "Vending machine",
+    "Newspaper",
+    "Non-smoking hotel",
+    "First aid kit",
+    "Umbrella",
+    "24-hour front desk",
+    "Express check-in / check-out",
+    "Laundry service",
+    "Self-serve laundry",
+    "Ironing service",
+    "Air conditioning",
+    "Housekeeping",
+    "Room service",
+    "Safe",
+    "Coffee / tea maker",
+    "Kitchenette",
+    "Cable / satellite TV",
+    "Flatscreen TV",
+    "Separate dining area",
+    "Separate living room",
+    "Iron",
+    "Private bathrooms",
+    "Wake-up service / alarm clock",
+    "Dishwasher",
+    "Microwave",
+    "Oven",
+    "Refrigerator",
+    "Stovetop",
+    "Kitchenware",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Location and Staff",
+      "text": "This is well located hotel with full kitchen and dining table rooms with street views still .Subway station within 10 minutes walk and convenience stores around .Everyday cleaning staff ensured towels and toiletries were replaced daily  and wifi worked pretty well .Aman at front office and the manager Vishal need to be complimented for ironing out  our first time stay .Will be back when next time travelling there .Only some rooms need to be refurbished   and hope would by the time we come back next .",
+      "rate": 4.0,
+      "tripDate": " December 2019"
+    },
+    {
+      "title": "Ideal accommodation",
+      "text": "Clean, comfortable and practical accommodation, just as shown in the photograph. Personable check-in staff. We enjoyed a quiet night's sleep. Suite was well-equipped with fridge, stove, toaster, dishes, dishwasher, etc. for eating in. Good space in our suite for sitting together with friends who stayed in an adjacent suite. I would not hesitate to choose Town Inn Suites in future.",
+      "rate": 4.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Good location and bed, not clean enough and weirdly stingy for price",
+      "text": "We booked this hotel at the last minute, which is not normal for us but we had some circumstances that made it necessary.  This is the most we've ever paid for a room. $290 per night Canadian,  There were plenty of great things about the hotel, especially the location that was convenient to Toronto's wonderful public transportation system and good walking as well.  There were supermarkets nearby.  The desk staff were friendly and I appreciated that they wore masks.  It was handy to have a kitchenette in the room and the bed was notably comfortable.  Trips of 5 nights or more came with a free airport pickup, which worked as planned.  The shower was good with plenty of hot water.  I liked that they had recycling in the room.We often stay at low budget hotels, and this place was less clean than most.  Attached are some photos of just a sample of the stains and food that were smeared on the wall when we checked in.  There was a weird stinginess about the place.  For example, the room came with a dishwasher and we stayed 5 nights, but they only provided us with 2 dishwashing detergent tabs.  There was also a coffeemaker, but for two of us they provides a total of 4 coffee pods.  The room was serviced once during our 5 days, which was okay if they had let us know but it was strange they didn't tell us and we started to get overflowing trash.  There are some cooking implements but no hand dish soap, salt, etc.  We bought a bunch of breakfast food when we arrived because their website said breakfast was discontinued due to Covid, but when we left the first morning we saw that they were serving breakfast.  They have one instant coffee machine that folks were lining up for, with pastries, apples and yogurt.  The balcony looked inviting but was locked for unexplained reasons.",
+      "rate": 3.0,
+      "tripDate": " May 2022"
+    },
+    {
+      "title": "Great Stay, Great Place",
+      "text": "I had stayed at this hotel years ago, and I was aware that hotel had gone through renovations but did not know what to expect..  When I booked room originally there wasn't two double beds room available online.  When I checked I asked if one was available, the manager quickly looked into it, and was able to give me a suite, at nominal increase in price.  When I walked in the room I was totally surprised how beautiful it was.  It was very modern, clean, and comfortable, the suite was very large.  It had stove, microwave, dishwasher, where I made good use of the appliances, during my 4 day stay.  The cleaning staff was a very sweet lady, and accommodated me with towels, toiletry, dish washer detergent, etc, I had told her it was ok not to make beds etc, I would take care of it. The location is great spot, close to many amenities, restaurants, shopping, few blocks away from Bloor St.  Wi Fi was free, and used it a lot for work and leisure. I was pleasantly surprised of this hotel and will plan to visit there again.",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "Good Vibes",
+      "text": "Recently stayed here with some friends.  Stayed in 2 bedroom suite. Upon arriving entered hotel lobby which was decorated beautifully recently renovated. Staff was very informative and detailed. On what hotel offered. Hotel offers complimentary breakfast from 7am again lounge is nicely decorated and updated. Has a pool and sauna for your personal use.   Hotel is in an amazing location close to all attractions and walking location to shops. Hotel staff was very helpful Assisting with our needs. Room was modern and nicely decorated. Only thing about this hotel is there is a $1000 deposit required for stay even though we  only spending one night. However due to the hotel amenities inside the room fridge stove microwave and newly update could understand why. When booking wanting great location and feeling the comforts of home away from home this is a great place to stay.",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Excellent!",
+      "text": "Out first impression was of course the lobby and it was clean, well kept with a friendly face at the concierge desk. We were directed to the front desk which is in a closed off glass room! Keeping the lobby quiet. Staff was polite and helpful. When we reached our room we were pleasantly surprised as the suite was spotless, modern and inviting. Same for bathroom and bedroom! Visiting during a crazy time with the Coronavirus in full panic mode we still sprayed Lysol everywhere but there wasn’t a fingerprint to be found and it felt like we were the first to ever stay in this room. We highly recommend for all those reasons but the location was also ideal for us!",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Exceptional Value for Toronto - Highly Recommended",
+      "text": "I booked the Junior Suite with kitchenette, and a washer & dryer. These were extremely useful! It had a full-sized refrigerator and stove, and a dishwasher.  The suite was very, very clean and comfortable. I was on a high floor, with a great eastern view (note that there is construction on the west side.) Front desk staff are very professional and attentive. They recommended the purchase of a monthly parking pass to save me money. I also recommend using transit downtown. The Bloor/Yonge subway interchange is less than a five minute walk away, and the subway is accessible (elevators and escalators - at least in the city core). The neighbourhood is people-friendly, and well served by cafés, restaurants, shopping, and small grocery markets nearby. Internet service was very good. I don’t have cable tv at home, and enjoyed watching that. NOTE: As with many suite hotels, housekeeping will visit only once per week; I didn’t need anything, but the front desk would have obtained extra towels, etc. I would have stayed longer if I could have, and the Town Inn will be my base the next time I am in Toronto. Book early so you get a high floor and a better view!  NOTE ALSO: if you park at the hotel, there are stairs from the parking garage to the elevators. I managed fine, but persons with more severe mobility issues will need to be dropped off at the front entrance or use the “Green P Parking” on Charles Street.This hotel is an exceptional value for the city centre. Thank you, Town Inn!",
+      "rate": 4.0,
+      "tripDate": " September 2021"
+    },
+    {
+      "title": "Suite was ok for a new arrival",
+      "text": "I stayed in a suite here for 2 weeks while looking for somewhere permanent to rent. My suite was perfectly fine, not high end luxury but not budget either. It had quite a large kitchen and living space, a bathroom (with a shower but not a bath), and a separate bedroom. I wasn't here on holiday so it was nice to have some form of kitchen to cook with. The kitchen had most things you would need.The bedroom was a little on the small side, partly because there was a huge king sized bed and not much room for anything else. The bathroom was nice, but I had some problems with the hot water in that I had to leave the shower running for 30 minutes sometimes before it got to a reasonable temperature to shower in. Since moving into a condo in Toronto I have the same problem, so I wonder if it's a common thing here.The wifi was a little slow but functional. I had to sign in again every 24 hours which got irritating given I was there 2 weeks.I stayed here during the COVID-19 pandemic and I was self isolating here after arriving in Canada. The staff were mostly accommodating of this. The only issue I had was requests getting misinterpreted when calling down to reception for something, usually ending up in them bringing the wrong thing or too much of something which was wasteful. Because of the circumstances during my stay, the location made little difference. But if I were getting about, I think I might have found the location a little too far away from the centre.",
+      "rate": 3.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Great Experience",
+      "text": "We needed a hotel room large enough for 5 women on a \"girls night out\" and this place fit the bill. We enjoyed the comfort of the two bedroom suite which allowed for a night of card playing, socializing, and cooking h'orderves after we took in a play and had dinner out. It added to our Toronto experience !!!!",
+      "rate": 5.0,
+      "tripDate": " January 2020"
+    },
+    {
+      "title": "We'll be back!",
+      "text": "Suites are spacious, stylish and comfortable. Great location! Seems to be no daily room service but fresh towels were delivered to our door without delay when we asked one evening. Staff very professional and helpful.Be aware that they put a large security deposit on your credit card as if you are renting an apartment (which you basically are). Ours was $500 for a king suite.",
+      "rate": 5.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "8-day stay",
+      "text": "Very much appreciated the attentiveness of the staff and their cautious, respectful service, especially during this bizarre time of COVID-19. Everything that was needed was provided. Anything missing was brought immediately upon request.",
+      "rate": 5.0,
+      "tripDate": " June 2020"
+    },
+    {
+      "title": "Tired hotel",
+      "text": "Whole place needs revamping. Rooms are very very tired and in need of renovation.Was on 12th floor, seems a lot of rooms were same as ours after talking to other guests... Things like air con not working correctly/running loud, windows hardly opening, mattress really worn, door to room broken.Room was large and location decent, close to bloor/Yonge metroWas there 4 days and didn't get any room service/towels changed (may be standard practice).Staff friendly enough, not their fault.Would avoid in future, unless very cheap rate",
+      "rate": 2.0,
+      "tripDate": " April 2022"
+    },
+    {
+      "title": "Regular Guests",
+      "text": "We have stayed at Town Inn Suites many times over the past few years.  It is our \"go to\" hotel in Toronto.  The rooms are beautifully renovated and appointed suites.  The location for us is perfect.  The staff are very friendly and helpful.  We travel with our dogs and they have an excellent pet policy.  Our dogs are well trained and we respect the property, so we very much appreciated them being able to come with us.  All around a great hotel!Steve & Rod",
+      "rate": 5.0,
+      "tripDate": " December 2020"
+    },
+    {
+      "title": "Awful experience",
+      "text": "Awful place depending on the room you get (I can only presume from the disparity in ratings that some are OK). Stayed in a two bedroom apartment on the fourth floor for one night. $600. Garbage left from previous guest, filth on the floors, mould on the roof, no blinds on the door (no privacy!), urine stained sheets, lamp not working, lights blown, shower hanging off and furnishings that were falling apart and looked like rodents had been chewing at them. I’ve stayed in hundreds of hotels for work an leisure and this is the absolute worst.Arrived jet lagged with disabled mother needing to sleep immediately, so conveyed this to reception in the morning and they didn’t care at all (and, based on previous comments here they haven’t bothered to address anything!) Asked for a reasonable refund via Expedia, sending photo evidence, and it was refused (not even partial goodwill gesture) on the basis we didn’t notify the hotel, which we did. $600 for a filthy and only partial working apartment… some would called that daylight robbery! Would have given zero, but the two staff at reception / front of house were polite.",
+      "rate": 1.0,
+      "tripDate": " June 2023"
+    },
+    {
+      "title": "Safe and quiet in the gayborhood",
+      "text": "I stayed here for 6 nights and it was lovely. The on-site parking, though a little pricey, was a huge selling point and very convenient. Just a block from the train station, there's a bodega across the street, and the staff was pleasant and competent. I would absolutely stay here again.",
+      "rate": 4.0,
+      "tripDate": " October 2022"
+    },
+    {
+      "title": "Great option if you want lots of space",
+      "text": "This is an excellent accommodation for anyone seeking a little more room than what a standard hotel offers. Sure there are signs of wear and tear throughout, but the rates are excellent, and the rooms are so spacious. Also, the customer service was absolutely fantastic. All the staff we interacted seemed attentive and willing to go the extra mile to help their guests.",
+      "rate": 4.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "“Luxury” is a misnomer",
+      "text": "We booked a “luxury suite.”  While it was spacious and had large windows, there was nothing luxurious about it. The place screamed “deferred maintenance.”  Furniture was old, tired, and uncomfortable. Extensive water damage in the bathroom. What was described as granite countertops were plastic. Everything about this suite screams “cheap” from the poor quality flooring to the tiny televisions. To make matters worse, the hotel has no gym, which I consider unacceptable in 2024. There is actually a gym in the building but the hotel has no arrangement for guests to use it. I am really regretting booking at this place.",
+      "rate": 2.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "CATFISH hotel",
+      "text": "CATFISH hotel. Pictures make this hotel look way better then it is.The room was absolutely filthy. Mold on the walls, they provided slippers thank god because the floors were so dirty they left your feet black, dirty towels behind the bed, so much dust on the counters you could leave a hand print, and we found BUGS on the bed. The hot water didn’t work - mind you they did fix this after we asked but the bath was so disgusting that we couldn’t bathe the 4 month old. Balcony door didn’t open, windows didn’t open, the air stopped working in the room on day 2. We did our best not to complain but the bugs put us overboard. The hotel did nothing about our complaints, did not offer any type of compensation… do not pay 400$ a night for the place. Horrific.",
+      "rate": 1.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Great Stay",
+      "text": "We come with a group of 20+ people. The prices are really fair for the rooms we got. Spacious living room with a lot of facilities such as dish washer. Though it's a pity the balcony could not be accessed. Pool and gyms are closed due to the Covid. The staff were super helpful with the recommendations and even helped us to find agencies to book some trips. The service was fast when we needed something. Great location as well,  the street behind the hotel has a lot of restaurants and bars. Close to Eaton Centre.",
+      "rate": 5.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "Great value family accommodation",
+      "text": "We had a 2 bedroom suite which was perfect for our family. The room was nicely decorated, clean, the beds were comfy and staff were polite and helpful. There are 2 metro stations within a 5-10 minute walk so it’s easy to get around Toronto. Would definitely recommend.",
+      "rate": 5.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Decent budget hotel",
+      "text": "I was looking for a place that had a kitchen, and so this hotel provided a great full kitchen. But the suite was extremely bland, with laminate floors, plain walls, and Ikea-style furnishings. No personality at all. The room was large but I would have gladly given up half the space for an ounce of elegance and aesthetic appeal. The old-fashioned heating unit never got the room temperature above 19 degrees and so I had to get a space heater in order to bring the room to a comfortable temperature. Despite the website saying that the hotel had been renovated, the bathroom was the style of a Motel 6. The bathtub was strongly stained, giving it a very shabby appearance. There was no hook to hang bath towels. On the plus side, the parkade was very convenient, running $30/night. The staff was extremely friendly, with a very pleasant check-in. One drawback that is not due to the hotel itself is that it is directly across the street from a large construction site. Construction began at 6 am, hence not allowing for a full night’s sleep.",
+      "rate": 3.0,
+      "tripDate": " March 2021"
+    },
+    {
+      "title": "Great place to stay",
+      "text": "Stayed here for 5 days. The staff are extremely  helpful and efficient and have a professional  style. We were upgraded to a lovely apartment before we left Australia  perhaps  because  we mentioned  that we were on our honeymoon!! Jun couldn't  do enough for us with emails back and forth, prior to us beginning  our trip across  Canada. The Deluxe King Suite was lovely..even has a kettle!!! Kitchen is very modern with good appliances  and full size oven and stove top. Large microwave oven, and very large stainless steel  fridge. The only minus was the free breakfast.  Very basis choices indeed..There is a decent grocery store at the corner of the next block, which is a few minutes  walk ( a convenience  store is directly across from the hotel) (didn't go to that one). A hairdressing  salon is just around the corner and Croissant  Tree restaurant  is diagonally  opposite.  This eatery is great for any time of the day meals or snacks. Very cheap quality food in a nice setting.. There is a coin laundry in the hotel and an indoor pool. Dog friendly  too. Definitely  would recommend this  hotel.",
+      "rate": 4.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Good location.  Breakfast limited",
+      "text": "At first we thought this place was a bit out of the way and we should have stayed at the waterfront.  Well actually Church Street was the right choice, located on Church between Wellesley and Bloor/ Yonge on the subway it was actually a really good location.Went for the bigger apartment (which we probably didn’t need) and appreciated the space.  Though a little tired the place was clean and well run.  Really comfy bed.  Perhaps a better range of TV channels for non Canadian visitors.  I wouldn’t have minded if they were in English or French, just a bit more choice.Breakfast is why I have marked the star rating down.  Breakfast is served in a small room that would seat probably a dozen people.  The food doesn’t vary and if staying for more than two days you are likely to tire of it.  Let’s just say it’s an interpretation of a continental breakfast.  But that’s not why you are in Toronto. Right?  There are plenty of places nearby to get breakfast, but that’s a pain to feel that you need to, having the cost already in your price.  It’s probably a better idea to grab breakfast, head to the lift and have it in your room, especially at busy times.",
+      "rate": 3.0,
+      "tripDate": " November 2023"
+    },
+    {
+      "title": "Very disappointed!",
+      "text": "Look great in photos. We had a luxury king suite with an air-conditioner that didn't work, a fridge that didn't work and a constant beeping sound that could not be identified. I thought there was a washing machine and dryer in the suite, there was not. When inquiring about this we were moved to a queen suite but still paid the same price as a luxury king suite. The air conditioner worked but the washing machine did not. The bed was horrible! We stayed 1 of our 2 nights and went to another hotel for the second night. I notified the booking company that we wanted to cancel but because we didn't notify the hotel itself (we were told it was all taken care of) we were denied our refund. It was my understanding that because we booked through a third party they cancel the room. Very disappointed!",
+      "rate": 1.0,
+      "tripDate": " July 2021"
+    },
+    {
+      "title": "Great location, spacious rooms",
+      "text": "An absolutely wonderful location, just off the shopping on Bloor Street and a short walk from UofT. Rooms are spacious and somewhat functional but with all necessary amenities. The staff is friendly and accommodating There is a daily cleaning service but more attention could be given to ensure that the room is vacuumed more often Overall, a comfortable stay",
+      "rate": 4.0,
+      "tripDate": " December 2023"
+    },
+    {
+      "title": "A nice enough place to stay, certainly great value but maybe not the best location - or air con…",
+      "text": "A nice enough place to stay, certainly great value but maybe not the best location…Stayed at the Town Inn Suites as part of our Canada/New York trip so we chose this one without the benefit of having been to Toronto before.The staff were very helpful and the hotel has an underground car park at a reasonable cost.Our room on the 19th floor was fine for a 3 star hotel although the furniture was a little tired and the air con was a complete waste of time, to the point that I’m left wondering if the temp was in centigrade not Fahrenheit because as I sit in a properly air conditioned room set to 66 F I think back to the oven like 60 F the air con in our room claimed to be operating at and the difference is night and day!The room and two double beds, a sofa, a chair and a basic kitchen which is pretty much all we were looking for.The location was maybe not quite as good. Easy enough access to other parts of Toronto if you have a car as we did but had we been on foot as per our original plan I would have regretted our choice.This was a very reasonably priced hotel so it’s difficult to fault it - apart from the lies the air con told which ruined my stay at least!",
+      "rate": 4.0,
+      "tripDate": " July 2023"
+    },
+    {
+      "title": "Pleasant stay",
+      "text": "Beautifully renovated, still a few dings in walls etc but very clean. Very attentive staff and clean quiet rooms that look exactly like the photos. Breakfast is continental style but well stocked(except for missing sugar which was quickly rectified). Breakfast room is small so plan on  taking breakfast back to your suite. Location feels safe for a solo female traveller, and has a convenience store across the street. Bloor and Yonge are a short walk away.  The slippers are a lovely bonus. Regarding some reviews - Anyone who is a seasoned traveler should be aware that hotels do require credit cards. This is a long time well known practice and should not come as a surprise to anyone, it's not the hotels responsibility to inform you directly.",
+      "rate": 5.0,
+      "tripDate": " January 2023"
+    },
+    {
+      "title": "Great stay",
+      "text": "Really enjoyed my stay here. The suites are quite spacious and I really enjoyed having a full kitchen with COVID and all… The staff were friendly and super helpful when I needed some recommendations. Looking forward to my next visit here!",
+      "rate": 5.0,
+      "tripDate": " October 2021"
+    },
+    {
+      "title": "Good area, hotel would have been nice once",
+      "text": "This suite hotel must have been nice when it was an apartment. It hasn't been kept up. the balcony doors are locked. I asked if mine could be opened, and was told that they have been locked for years, and could not be opened. The kitchen is fine to keep things in the fridge and heat things up in the microwave, but I wouldn't be excited to cook in it. It does come with an included  breakfast of coffee/tea muffins, croissants, yogurt and fruit.",
+      "rate": 2.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Good home away from home",
+      "text": "Great central location, close to food, shopping. Overall good value for money, and recently renovated apartment suites. Front desk staff are friendly and professional. Underground parking is a bit pricey so suggest checking other nearby garages.",
+      "rate": 5.0,
+      "tripDate": " June 2020"
+    },
+    {
+      "title": "Value and customer values.",
+      "text": "I cannot say enough about the amazing staff here. Check in and out is easy. The staff are polite, professional and efficient. I overbooked as I was coordinating for family members and they released the extra room with no penalty and no questions asked. Value for money is synonomous with the Town Inn Suites in Toronto, especially at a time when hotel stays have really sky rocketed. This still feels afordable without sacrificing expectations for clean and comfy stays. Having the extra room of a kitchen/living room and a one bedroom was perfect with multiple wedding guests staying here. The continental breakfast was great - croissants, yoghurt and lots of coffee in a clean dining area. There is parking (extra fee) and a an easy in/out drive so that checking in and dropping luggage is a breeze. This is a great place to stay when in TO and not far from key areas of interest. We stayed here a few years ago at Christmas also and happily the consistency from then til now is noteworthy.",
+      "rate": 5.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Cozy apartment with hotel extras",
+      "text": "My wife and I spent 5 nights here. The location was close to the gay village neighbourhood and high-end Yorkville Ave. We were able to walk to most things we wanted to explore. The hotel room was a cute, cozy, and clean apartment. We had a full kitchen, living space, bedroom, and bathroom with a rainfall shower. It was everything we needed to have a relaxing space to enjoy after a long day of exploring. We only used housekeeping once since we were only there a few days. If we requested clean towels or toilet paper from the front desk it was brought up in less than 5 minutes. A classic continental breakfast of muffins, croissants, yogurt and fruit was provided each morning. We stayed in a “luxury king suite, one bedroom” booked through Hotels. ca and the room was wonderful. I’d stay here again.",
+      "rate": 5.0,
+      "tripDate": " April 2024"
+    },
+    {
+      "title": "Amazing Stay!",
+      "text": "Thank you for making our stay so nice and comfortable! The room was very quiet, the air was nice and cold and it was very clean. When items were requested to the room they came very quickly (blanket extra toiletries etc.). Our stay was so wonderful we happily extended to an additional half day. Honestly we didn’t want to leave. Checking in / out the team at concierge / guest services were welcoming and friendly. Thanks again! We’ll be back soon. Please pass our compliments along to your entire team!",
+      "rate": 5.0,
+      "tripDate": " July 2020"
+    },
+    {
+      "title": "Town Inn suites Toronto",
+      "text": "My family and I, including 2 cats,  had to find an affordable place to stay while we were putting our condo on the market to sell. The location had to have a full kitchen and enough space for us all and more importantly would allow flexibility on the duration and of course accept pets.  Town Inn Suites was just the spot in the city. Super friendly, kind and professional staff, amazing location, clean and very diligent when it came to bring us items we needed.",
+      "rate": 4.0,
+      "tripDate": " April 2021"
+    },
+    {
+      "title": "Maintenance concerns",
+      "text": "The main advantage of this suite hotel is its Yorkville location near downtown Toronto and various amenities.   Our suite was spacious and clean but there were significant maintenance problems that made (especially the bathroom) very unappealing (e.g., bubbled up paint, wall paper peeling, cracked tiles, rusted bathtub drain); I will post some photos.  The suite did not have a safe for the storage of valuables and we were not given access to a fitness center (having been told that it is “only open for personal training now”). Most staff were not wearing masks but were helpful.  The main problem was the poor maintenance (see photos).",
+      "rate": 3.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Great location - short on amenities",
+      "text": "We took a family suite at $400/night in Nov - parking an extra $30. The suite is well appointed, clean & comfortable. The hotel is very central in D/T Toronto everything is close. the staff is nice.What it lacks is amenities - there is barely enough crockery & cutlery for 4 people, 2 cooking pans, 2 cooking utensils, no paper towels, no salt/pepper, 2 tissue boxes, 2 sets of towels, 1 bar of soap for 5 people, coffee pods never replenished. I twice asked the reception for towels which never came. Toiletries were never replenished during our stay.The heater didnt work, which they came & fixed very quickly.A good place but certainly not worth the price.",
+      "rate": 3.0,
+      "tripDate": " November 2021"
+    },
+    {
+      "title": "Best value in Toronto, no question.",
+      "text": "Had to review! Stayed twice in 1 week, seeing 2 rooms, 1 with kitchen and 1 without. Both were perfectly clean, spacious, well decorated and comfortable.  The staff was very helpful; you got the impression, they all wanted to make sure your stay was the best it could be. Parking ($30 per night) was a little pricey, but easy to use and very convenient, appreciated. The atmosphere on colourful Church street and the convention shops surrounding the hotel greatly added to our seamless, stress free stay. You’ll definitely feel safe.  Across the street and south 100m is a great coffee shop in the morning and a pub in the evening, providing a perfect start and end to your day.  Do not hesitate to stay at this hotel, period.",
+      "rate": 5.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Not very happy with our two bedroom “suite”. Dirty",
+      "text": "When we arrived we were surprised as the pictures on the website are very deceiving.Peeling wallpaper, drywall, mould in the bathroom along with a few pubic hairs, the vent fan was filled with hanging lint and did not work and  hundreds of dead bugs in the light fixture above the dining table.Maintenance had to come and replace our kitchen table, and open windows by pushing them out because the cranks were all broken.We had to go to the dollar store to buy utensil even after housekeeping brought more cutlery. The Keurig leaks so had to put it on a tea towel, which we had to ask for since there was no tea towels or dis soap to wash dishes.We called to have our garbage removed after the second day and we were told to bring it to a garbage chute ourselves.We will never be back. We’ve taken pictures of notes to the manager who just didn’t seem to care about our concerns.",
+      "rate": 2.0,
+      "tripDate": " June 2022"
+    },
+    {
+      "title": "Great stay!!!",
+      "text": "I was pleasantly surprised how efficient and friendly the staff is. The room was very clean and comfortable. My favourite part of the entire experience- the room and the sheets smelled fresh unlike that usual stale, hotel smell. The bathroom sink was perfectly functional. Some of you may be chuckling at this, but I seem to experience the clogged/slow sink very often at my hotel stays(some of them 4 and 5 stars). It seems that by the time I do my nightly washing the sink gets full that the next person can't even use it. The checkout went smooth and I was even asked if a ride needed to be arranged for me! Very, very professional and pleasant staff!!!",
+      "rate": 5.0,
+      "tripDate": " March 2023"
+    },
+    {
+      "title": "Town Inn Suites is #1",
+      "text": "We have stayed at Town Inns for extended periods three times in the past year, each stay was very good and we intend to return on our next visit to Toronto.In April 2020 we stayed for a month during the height of COVID in Toronto and then again in September for 10 days, no problem.  In both cases the staff were very supportive in adapting to our particular needs; all requests were solved quickly and very willingly.The apartment itself was modern, clean, and visited regularly by staff almost daily to make sure we had everything needed.It's a great location close to all amenities within walking distance, so no car required except for visiting friends in the suburbs.So a good place for an agreeable stay of a few days or longer.",
+      "rate": 5.0,
+      "tripDate": " September 2020"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Toronto Luxury Accommodations - 263 Wellington Street West",
+    "url": "/Hotel_Review-g155019-d4235264-Reviews-Toronto_Luxury_Accommodations_263_Wellington_Street_West-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 8
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "263 Wellington St W",
+      "addressLocality": "Toronto",
+      "postalCode": "M5V 3E6",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/24/e3/1c/photo2jpg.jpg?w=500&h=400&s=1"
+  },
+  "description": null,
+  "featues": [],
+  "reviews": [
+    {
+      "title": "Amazing service",
+      "text": "We rented a suite for a month when visiting our family in Toronto for the holiday period. We stayed in the Yorkville area.The suites are very well appointed, in very nice buildings with 24h concierge, clean and with equipment (e.g. linens, towels, kitchen equipment, etc.) new and of good quality.We had been initially placed in one unit facing a very large construction site which was extremely noisy. We pointed this out to the Company and they promptly moved us to an even better unit the very same day! We were very grateful as our stay was excellent.We will certainly use this outfit again for our future visits to Toronto as they select very nice units and provide an outstanding level of service, promptly and effectively replying to any contact.",
+      "rate": 5.0,
+      "tripDate": " December 2020"
+    },
+    {
+      "title": "Toronto Luxury Accomodations",
+      "text": "I stayed at the Toronto Luxury Suites when I was in Toronto for a conference at the convention center.  It is very conveniently located (within walking distance) to the CN tower, baseball stadium, convention center,  aquarium, and train station.  There's a door man at the entrance and it seemed like a safe neighborhood.  The apartment was very nice- clean, modern and spacious.  The amenities were great (washer and dryer, coffee maker, full kitchen, free wifi).  It was a little noisy from the street at night.  I would definitely stay here again.",
+      "rate": 5.0,
+      "tripDate": " August 2015"
+    },
+    {
+      "title": "Wonderful, wonderful and wonderful",
+      "text": "Everything you can ask for. well located. Good standard. Clean. Well equipped. If you want to stay in the centre of Toronto in a well equipped apartment, this is a good choice. You can do whatever you want to do on your own and have a nice apartment to go back to in the evenings. It is a concept I really appreciate.",
+      "rate": 5.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "快適！！",
+      "text": "主人と二人で宿泊しました。アパートメント式でキッチンには電子レンジ、コンロもあり洗剤からスポンジまでありました。洗濯機、乾燥機もあるので着替えも少なくてOK。近くにスーパーもあり立地も便利です。おすすめです。",
+      "rate": 5.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "TERRIBLE EXPERIENCE.  DON'T USE THAT COMPANY.",
+      "text": "TERRIBLE EXPERIENCE...   DON'T USE THAT COMPANY.   THEY ARE UNPREPARED AND SOME OF THEIR STAFF IS JUST PLAIN RUDE.I WAS TOLD THE KEY WOULD BE WAITING FOR ME AT THE CONCIERGE WHEN I MOVED IN, BUT WHEN I GOT THERE WITH ALL MY LUGGAGES THERE WERE NO KEY.  I HAD TO GO 5 KILOMETERS AWAY TO THEIR OFFICE TO GET THE KEY.  THE CONCIERGE DIDN'T HAVE A ROOM FOR ME TO SAFELY STORE MY LUGGAGES SO I HAD TO TRAVEL TO THEIR OFFICE AND BACK WITH MY 2 LARGE SUITCASES AND SEVERAL BAGS...I PAY ALMOST $4,000 A MONTH, AND ONE WEEK AFTER MOVING IN, I AM STILL WAITING FOR THEM TO PROVIDE A MICROWAVE (A BASIC APPLIANCE IN A KITCHEN) AND A BUZZER NUMBER...  THOSE ARE JUST STAPLES THAT SHOULD BE PROVIDED DAY 1 OF OCCUPANCY.  THEY ASKED ME TO SEE THE BUILDING MANAGER TO GET THE BUZZER NUMBER.  AND WHEN I TOLD THEM I COULDN'T DO THAT BECAUSE OF MY WORK SCHEDULE, THEY JUST REPLIED THERE WERE NO OTHER OPTION TO GET IT, PERIOD.I RENTED QUITE A FEW FURNISHED APARTMENT IN THE PAST AND I NEVER HAD SUCH A BAD EXPERIENCED.  A NIGHTMARE, A VERY EXPENSIVE NIGHTMARE.",
+      "rate": 1.0,
+      "tripDate": " October 2023"
+    },
+    {
+      "title": "Save your money and rent from a professional company",
+      "text": "My story with this company in few points:- Very high lease and deplorable service- Keys' pick-up 20mn away from the property- No Check-in- No Check-out- No registration at the condo so no use of facilities- Poor cleaning- They hold 1000 CAD for security deposit even when you rent for 1 month.- The only points they focus on from the lease contract are the Tenant's obligations. None of this company's obligations are respected.So save your money and rent from a professional company.",
+      "rate": 1.0,
+      "tripDate": " September 2023"
+    },
+    {
+      "title": "Dr",
+      "text": "Another stay at Toronto luxury suite in yorkville Amazing place to stay to enjoy the beauty of Christmas in yorkville and bloor street The condo was amazing . With all goodness of yorkville and Cumberland street and bloor at your doorstep A 5 + star for the service and location and accommodation Ramona",
+      "rate": 5.0,
+      "tripDate": " December 2021"
+    },
+    {
+      "title": "Apartamento bien equipado",
+      "text": "Estuve en la sede de 140 Simcoe , realmente muy buena opción Opcion , son apartamentos convenientemente ubicados con la labora , secadora , plancha utensilios  de cocina modernos . Nos gusto que son nuevos , modernos y realmente me sentí como estar en casaAdvertencia no es un hotel , es decir tu mismo debes arreglar el apartamento y lavar . Ideal para ir en familia y estar muy bien ubicado y cercano a los  sitios turísticos Lo malo es que el lobby del edificio los porteros no son muy amables",
+      "rate": 4.0,
+      "tripDate": " June 2015"
+    }
+  ]
+}

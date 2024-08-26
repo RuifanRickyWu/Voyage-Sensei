@@ -1,0 +1,143 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Posh Digs",
+    "url": "/Hotel_Review-g155019-d1907155-Reviews-Posh_Digs-Toronto_Ontario.html",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 17
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "414 Markham St",
+      "addressLocality": "Toronto",
+      "postalCode": "M6G 2L2",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/d1/30/just-one-of-our-homes.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Posh Digs Toronto is a carefully curated collection of luxury furnished rentals in Little Toronto. Owned and operated by the same family for over 20 years. These family friendly homes offer all the amenities your looking for in a safe and vibrant downtown neighbourhood.",
+  "featues": [
+    "Free High Speed Internet (WiFi)",
+    "Wifi",
+    "Clothes dryer",
+    "Washing machine",
+    "Air conditioning",
+    "Seating area",
+    "Iron",
+    "Kitchenette",
+    "Dishwasher",
+    "Refrigerator",
+    "Kitchenware",
+    "Flatscreen TV"
+  ],
+  "reviews": [
+    {
+      "title": "Excellent stay",
+      "text": "I stayed here mid May for 4 nights. The place was excellent. Private parking space is available which was very convenient as we were driving. The apartment itself is very nicely decorated, clean and with all mod cons, including dish washer, washing machine, tumble dryer, fridge, microwave, oven, grill. There was aircon too but we didn't need to use it as the weather was pleasant. The ground floor had has a open plan kitchen area and good living space and big flat screen TV. The 2 bedrooms in the basement had large double beds and with 2 bathrooms, it was perfect for us. This apartment would be good for 4-5 people, as there is sofa bed available too. Although we had a car, we found it very convenient for public transport too. Metro station is abt 7 min walk; tram stop was just 2 min away. There was a convenience store 3 min away. Communication from the owner was fantastic. The owner had also left information leaflets about local services and attractions in the apartment. All in all, fantastic! Highly recommended!",
+      "rate": 5.0,
+      "tripDate": " May 2014"
+    },
+    {
+      "title": "Amazing home away from home.",
+      "text": "Absolutely loved this place. We live in Niagara and stay in Toronto quite often. I am so happy that we found this gem. Location is fab. Communication with the owner was a breeze, very helpful and responsive.We've been in the accommodation business for over 12 years and we were highly impressed. We've found our new home away from home. If you want an authentic, local experience, stay here...it beats a hotel. Thanks so much Poshdigs. We will see you again soon!",
+      "rate": 5.0,
+      "tripDate": " May 2014"
+    },
+    {
+      "title": "Great location as a home base in Toronto",
+      "text": "We stayed for almost a week in May and found that the listing was accurate and the price was great especially for the 2 nights that we had 2 couples sharing the cost. The 2 bedrooms (queen beds) are downstairs however the windows are big so the rooms are bright and stayed cool during an early heat wave. Air conditioning cooled the main floor living space which was a relief! The little Itlaly location was great for all that Toronto has to offer. It was easy to contact Arthur when we had a question and a minor problem with wifi. The kitchen and living room were very spacious & comfortable. The location was fantastic close to major transit connections but the street itself was quiet. Toronto has Uber and this was a great way to get around when needed. Awesome restaurants, bars, and shopping within walking distance or short commute.  We would stay at posh digs if it was available on our next trip to TO.",
+      "rate": 5.0,
+      "tripDate": " May 2016"
+    },
+    {
+      "title": "Irritating",
+      "text": "The building is very nice but the owners are intolerable. They are always in your business. They came to the area I was staying one day to clean up and ended up throwing out some of my things....very disappointing",
+      "rate": 2.0,
+      "tripDate": " March 2011"
+    },
+    {
+      "title": "Great place for a weekend with friends!!!",
+      "text": "I loved this place! The owners were very helpful, laid back, and accommodating. If ever I had questions they were quick to reply. The apartment is very well furnished, and immaculately maintained. It's well stocked with the amenities you need. Parking is free. Great location and it's walking distance to downtown. I would love to come back. The money is well worth it! I will 100% recommend this place to anyone going to toronto",
+      "rate": 5.0,
+      "tripDate": " June 2014"
+    },
+    {
+      "title": "It's exactly what it says on the tin",
+      "text": "Posh Digs isn't an hotel. It's an apartment well several in fact but I couldn't find the correct category. Well anyway. It was our first time in Toronto and we wanted a place that was reasonably central.  And was able to accommadte my entire family Marge owner operator is a wonderful host very friendy The accommodation is very well appointed. Beds and bedrooms are very clean and comfortable.The sitting room plush and the kitchen is very well equipped.The apartment is situated in a  tree lined street between Mirvish Village and Little Italy. So plenty of choice for eating and drinking. With Bathhurst Metro station within a five minute walk. Getting to the rest of Toronot isn't diffucult.I would have no hesitation recommending this apartment to other travellers.",
+      "rate": 5.0,
+      "tripDate": " September 2010"
+    },
+    {
+      "title": "Close to Hospital ",
+      "text": "We stayed here for 2 weeks and we loved it. The space is close to Bathurst which makes getting around Toronto very easy. The space is also close to the hospitals if that is a need for you. Please consider this Bed and Breakfast rather than a hotel.",
+      "rate": 4.0,
+      "tripDate": " May 2017"
+    },
+    {
+      "title": "feels like home to me",
+      "text": "it truely felt like coming home again,location, location, location!safe area, beautiful torontonian house,everything one, two, three or even four families need. big thanks to helpful and very kind owner Arthur! we'll be back for sure!",
+      "rate": 5.0,
+      "tripDate": " July 2016"
+    },
+    {
+      "title": "Comfortable stay with everything you could need.",
+      "text": "We stayed here for a week in October whilst at a family wedding. As a group we had 2 of the rentals. The owner was very helpful and let us keep one room on until the end of the day as we had a late flight. The accommodation was clean and the living areas were very spacious although they could do with a little bit of redecorating in some places. The bed was extremely comfortable and there was more than enough storage for clothes. The location was great, close to college street, little Italy and Korean town which are filled with places to eat and drink. Overall the stay was very enjoyable and good value for money. I would certainly recommend this accommodation for anyone looking for a comfortable but basic stay!",
+      "rate": 4.0,
+      "tripDate": " October 2015"
+    },
+    {
+      "title": "Very nice",
+      "text": "We stayed at their 316 Upper suite on Harbord Ave in Little Italy.  It was very comfortable and well maintained.  The owner was  helpful and pleasant and let us delay our checkout time.  College street is two blocks away and has many good bars and restaurants.  Be warned though that these are extremely long blocks.",
+      "rate": 5.0,
+      "tripDate": " November 2015"
+    },
+    {
+      "title": "Perfect Landing",
+      "text": "As a Southern California native, I was a bit apprehensive about spending two weeks in the middle of a Toronto winter being nanny to my 7 month old granddaughter who arrived with her mother from abroad for a two week stint at the local medical center.  The apartment (Decked Out Digs) is adorable on the website so I expected it to be nice but I was blown away when we entered it for the first time.  The kitchen and living area on the first floor was absolutely lovely and seemed larger than the photo.  The bedrooms, one floor below, were spacious and a very modern (large) washer and dryer were strategically located near the bedrooms and bathroom.  A small powder room was on the landing between the two floors.  The kitchen was fully stocked and a large flat screen TV graced the exposed brick wall in the living area.  All-in-all, the apartment had everything we needed to make us comfortable and at home.  The owner, Arthur, was extremely helpful -- any small problem was attended to immediately.  We couldn't enjoy the darling deck off the living room because of the weather, but my granddaughter and I spent time looking out the French Doors to the lovely neighborhood when it was snowing.  The location was perfect for walking, weather permitting, and very close to transit.  If you want comfort and convenience, this apartment has it all.  One caveat:  the stairs between the man living area and bedrooms are narrow and a bit steep but bannisters are provided and it was good exercise! One final tip - since our trip was in the \"off season\", the owner generously worked with us to make the rental more affordable.",
+      "rate": 5.0,
+      "tripDate": " February 2014"
+    },
+    {
+      "title": "Top quality, good value 2-bed apartment in a great location",
+      "text": "Owner Arthur has several apartments in the posh digs collection and this one, a 2-bedroom suite was immaculately turned out. Everything was brand new, excellent mattresses, spanking new kitchen appliances, giant fridge, washer dryer etc. the shower was good too, with decent water pressure and nice toiletries. In short, it feltlike a hotel suite but cost a fraction of that per person. It's not a huge place granted but would accommodate 4 people comfortably (and a pull out couch on top of that). We had everything we needed including excellent wifi and great independent coffee shops on the doorstep, complete with serious-minded baristas who don't do caramel lattes (be warned, Starbucks is a dirty word round here!). This particular apartment is called 316 Upper on the website and is located on the corner of Harbord and Grace, a short walk from the lively restaurants of Bloor St and in the other direction, College St. It's not quite as quiet and leafy a neighbourhood as the Markham St apartments (a short walk away) but it's still nice and friendly if a little bit noisier. Finding a good local eatery was easy, especially if you like Asian food and we also walked to downtown one day, about 15-20 minutes on foot with several interesting stops along the way. Arthur was a very nice and generous host and replied quickly to any of our questions. Be warned if you have a car, to ensure you have a parking permit which Arthur can organise in a jiffy, because the attendants come round at night, as well as during the day! I Would definitely stay here again, apartments are a great way to feel part of the neighbourhood.",
+      "rate": 4.0,
+      "tripDate": " June 2013"
+    },
+    {
+      "title": "Posh Digs by name Posh digs by nature!!!!",
+      "text": "Our family of four stayed in the Swanky Suite at Posh Digs during December 2011/January 2012, it was like a home away from home.  Everything you need is here washing machine, dryer, telephone, WiFi, two showers, full size bath, kitchen - the list goes on.  The location was just perfect very central, close to everything, surrounded by beautiful houses.  Dining out is easy too, try the Victory Cafe in Markham Street for the best Mac Cheese you will ever eat, they have really great beer too!!  We are a family of Aussies that managed to find our way around, see plenty and not go hungry, very safe and comfortable place to stay.  Posh Digs is a funny name but it really describes the product to perfection!!!!",
+      "rate": 5.0,
+      "tripDate": " January 2012"
+    },
+    {
+      "title": "Always a positive experience",
+      "text": "We have had the pleasure of staying at a number of Posh Digs properties over the years. The owners are very attentive to your needs. Pictures are accurate representations of properties. Location of all properties are excellent. Close to a wide range of restaurants and transit is near by.",
+      "rate": 5.0,
+      "tripDate": " September 2017"
+    },
+    {
+      "title": "Feels like home",
+      "text": "My family stay at swanky suite for 9nights. We love it. My kids feels the suite just like their home. 1. Location is perfect. Quiet neighbourhood, 2mnts to bus stop at bathurst st or habbord st that brings you anywhere (TTC bathurst, bloor st, queens park etc), walking distance to college street where shops and coffe shops around, metro groceries at college street is 10mnts walk (theres a small small shop at the corner of bathurst). 2. The suite is complete. Kitchen is fully equipped with kitchen set you need. Big fridge, 2 clean bathroom, easy to use washer and dryer, cozy bed, flat tv with channels3. There's city map and travel guide toronto book for you, which help us a lot. You can also use wifi.Other thing we like, you dont have to bring the key, you just have to remember the password number to enter your suite. Its practical and save. Thanks Arthur. We surely recommend the suite.. Success to you.",
+      "rate": 4.0,
+      "tripDate": " August 2013"
+    },
+    {
+      "title": "Top notch!!",
+      "text": "We travelled from the UK & completed a six-night stay in the Cool City Pad. Our family comprised of 2 adults and 4 kids (aged 14-7). The accommodation was superb. The apartment had everything we needed for a very comfortable stay. The owner had communicated with us well before the trip and helped us when we realised we had left an item behind!! Posh Digs is located very close to the Bathurst 511 street car which meant an easy trip into Downtown. If we get chance to visit Toronto again, we will definitely consider staying here again.",
+      "rate": 5.0,
+      "tripDate": " April 2013"
+    },
+    {
+      "title": "nice place, very helpful owner",
+      "text": "We rented initially for 8 nights, ended up staying two weeks because we got stuck in Toronto due to hurricane Sandy. The accomodation is very pleasant and quite well equipped, and when I informed the owner we needed to stay longer, not only was he completely flexible but he also spontaneously cut the rent: the opposite of exploitative. All in all, a very positive experience and one we'll certainly repeat next time Toronto calls",
+      "rate": 5.0,
+      "tripDate": " October 2012"
+    }
+  ]
+}

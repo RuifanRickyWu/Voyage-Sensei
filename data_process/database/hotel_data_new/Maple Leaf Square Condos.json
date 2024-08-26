@@ -1,0 +1,95 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Maple Leaf Square Condos",
+    "url": "/Hotel_Review-g155019-d17620402-Reviews-Maple_Leaf_Square_Condos-Toronto_Ontario.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 6
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "55 Bremner Blvd",
+      "addressLocality": "Toronto",
+      "postalCode": "M5J 0A6",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/bb/ce/f7/simply-comfort-maple.jpg?w=500&h=-1&s=1"
+  },
+  "description": "GLOBALSTAY. Maple Leaf Square has an indoor swimming pool and a fitness room, as well as air-conditioned accommodations with free WiFi in Toronto, a 6-minute walk from CN Tower. Each unit comes with a balcony, a fully equipped kitchen with a dishwasher, a seating area with a sofa, a flat-screen TV, a washing machine, and a private bathroom with shower and a hairdryer. A microwave, a fridge and oven are also offered, as well as an electric tea pot and a coffee machine. The wellness area at the apartment is comprised of a sauna and a hot tub. Popular points of interest near GLOBALSTAY. Maple Leaf Square include Harbourfront Centre, Scotiabank Arena and Toronto Symphony Orchestra. The nearest airport is Billy Bishop Toronto City Airport, 2.6 km from the accommodation.",
+  "featues": [
+    "Paid public parking on-site",
+    "Free High Speed Internet (WiFi)",
+    "Fitness / spa locker rooms",
+    "Hot tub",
+    "Pets Allowed ( Dog / Pet Friendly )",
+    "Non-smoking hotel",
+    "Outdoor furniture",
+    "Express check-in / check-out",
+    "Sauna",
+    "Indoor pool",
+    "Heated pool",
+    "Clothes dryer",
+    "Self-serve laundry",
+    "Washing machine",
+    "Air conditioning",
+    "Desk",
+    "Dining area",
+    "Private balcony",
+    "Coffee / tea maker",
+    "Cable / satellite TV",
+    "Sofa bed",
+    "Bath / shower",
+    "Seating area",
+    "Separate dining area",
+    "Separate living room",
+    "Sofa",
+    "Wardrobe / closet",
+    "Bottled water",
+    "Clothes rack",
+    "Iron",
+    "Private bathrooms",
+    "Kitchenette",
+    "Dishwasher",
+    "Microwave",
+    "Minibar",
+    "Oven",
+    "Refrigerator",
+    "Stovetop",
+    "Electric kettle",
+    "Kitchenware",
+    "Flatscreen TV",
+    "Complimentary toiletries",
+    "Hair dryer",
+    "City view",
+    "Non-smoking rooms",
+    "Suites",
+    "Family rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Great location",
+      "text": "Great location near docks and public transportation.  A little difficult to get into from parking facility, but we figured it out.  Efficiency apartment was small but worked well for us.  Having a washer/dryer in the room was very helpful. A few maintenance things were amiss, but not terrible.  Pool and spa was closed for renovation.",
+      "rate": 4.0,
+      "tripDate": " August 2019"
+    },
+    {
+      "title": "Don’t Stay Maple Leaf Square Condo 1603!",
+      "text": "Probably the worst stay of my life. The air conditioner did not work. The wife would not reach the bedroom which was tough to do in a condo that’s less than 600 sq ft. The dryer had a broken mob and wouldn’t work. I called customer service and talked to a guy named Lex who said he would help which of course he didn’t. We had to leave the unit with soaking wet clothes in our suitcases. Terrible everything.",
+      "rate": 1.0,
+      "tripDate": " May 2023"
+    },
+    {
+      "title": "Excellent Experience",
+      "text": "We stayed in Toronto, with friends, after seeing a Blue Jay's Game. All I can say is WOW! The complex was beautiful and so secure. Right in the middle of everything and an amazing view. Management was super helpful!",
+      "rate": 5.0,
+      "tripDate": " July 2019"
+    }
+  ]
+}
