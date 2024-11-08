@@ -1,0 +1,381 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Trapped",
+    "url": "/Attraction_Review-g181720-d7240717-Reviews-Trapped-Markham_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3130 Highway 7 E",
+      "addressCountry": "Canada",
+      "postalCode": "L3R 5A1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 55
+    },
+    "openingHours": [
+      "Mo-Th 16:00-23:00",
+      "Fr 16:00-00:00",
+      "Sa-Su 12:00-00:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/85/ec/9b/trapped.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Escape Games",
+    "Game & Entertainment Centres"
+  ],
+  "description": "Trapped - Toronto's biggest real life escape game. Our interior designer from Osaka, Japan has designed all theme settings, that creates an actual 5D experience that you will not forget!\r\n\n\r\n\nAddress: 3130 Highway 7 East, Markham, L3R 5A1 (Woodbine/Hwy7)\r\n\n\r\n\nPhone: 905-940-6500",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Great Trapped Experience With Friends!",
+      "text": [
+        "Trapped is such a fun place to spend time with friends and family! In addition to the friendly and energetic staff, the rooms here are also enjoyable which makes it a great experience for all."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Exciting family outing",
+      "text": [
+        "Staff was friendly and helpful, easy to deal with!! Had a great time there with my family .. rooms were clean and a lot of fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Birthday fun at Trapped",
+      "text": [
+        "I took my daughter and her friends to Trapped for her 12th birthday. The girls had a great time! We attempted Below the Sphinx (2021). Even though they didn’t successfully complete it, they had a lot of fun. The team was so helpful and showed them how to get out at the end."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "Amazing Experience!",
+      "text": [
+        "I went with a group of 17 (14 kids, 3 adults). We split into room 057, Below the sphinx, and medieval prison. We all had a blast! The staff was super nice and informative, and the group that went to medieval prison got out, even with a 7% chance success rate!",
+        "Overall, this was an amazing experience and I would totally recommend it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Escape to happy 16th birthday!",
+      "text": [
+        "Sam is a super sweet girl helping us getting thru our very first trapped escape room experience with the whole family for girl’s birthday. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "A lot of fun!!!",
+      "text": [
+        "We celebrated my nieces bdays here today and we had a great time. The level of creativity and planning that went into the room was truly impressive. As always, the staff was very kind and full of enthusiasm. Thank you, Trapped, for another fantastic adventure!\""
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "A challenging and fun experience",
+      "text": [
+        "Rooms were challenging, yet fun. Escape rooms were made nicely, nothing was made poorly. The price was fair and affordable. Rooms were made in interesting ways to solve puzzles."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Awesome time!",
+      "text": [
+        "Great escape room! \"Death Note\". This was my second time going and i would definitely go again. The employees were helpful and friendly!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "12th birthday",
+      "text": [
+        "Had my daughters 12th birthday party there and it was fantastic. The staff was wonderful and the kids had a great time. I’m sure they will be back. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Friends"
+    },
+    {
+      "title": "Great birthday fun!",
+      "text": [
+        "Wonderful staff! Polite informative. Made the night special for my daughter. We were all pleasantly surprised by the last puzzle. Thank you for making her birthday so fun and memorable."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Family"
+    },
+    {
+      "title": "GREAT EXPERIENCE again!",
+      "text": [
+        "We've visited both the Montreal and Toronto location, both were EXCELLENT experiences! We loved the super friendly staff, the game itself was very intense but spot on. Great designs/decors and customer service in general! Highly recommended for all ages."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2016 • Family"
+    },
+    {
+      "title": "Fun!",
+      "text": [
+        "I've tried all their rooms! Can't wait to start the level two games. It's a very fun team-building activity. You should definitely try the Medieval Prison!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Friendly staff, not the cheapest escape room",
+      "text": [
+        "Trying TRAPPED's largest room - Medieval Prison - the staff were friendly and pretty organized to make your experience a fun and positive event.  This place is not the cheapest escape room - even when you reserve online and sign up with them to get the lowest price of $25 cash (you do get a drink afterwards offering bottled water, box drinks and canned pop gives the appearance of being cheap).",
+        "The event itself lasted just over one hour.  The staff is attentive and helpful.  The room itself is nicely decorated however, there was a bit of a smell.  Maybe staff should clean the room or at least Febreeze it.",
+        "Overall a fun time if you want to try something different.  Try an escape room here, or stick to the usual movie and snack for the same price."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2016 • Friends"
+    },
+    {
+      "title": "A FUN HOUR OF TEAM BUILDING",
+      "text": [
+        "Only having done a handful of escape rooms, this one was certainly much different the others. This was also my first time at Trapped and experiencing the building and franchise. I wasn't disappointed at all. The room was awesome, inventing and fun (it proved to be a little incoherent in where puzzle clues were directed) and would of course go back and try the other rooms.",
+        "Negative; made a 1:30pm appointment and dint get in the room until 2pm. Based on how its set up, I was hoping that there would be no lag time in real life, but having to be three 15 minutes before (like they ask) and then wait an extra 1/2 hour on top of that, did not make well with patience. For establishments like this, and time based games, this shouldn't have happened. 45 minutes is unacceptable.",
+        "Negative; while the room was mega cool, and they went to the trouble of creating a cool ambience with sounds and soundtrack, at one point the noise from the front desk was heard. People coming in and such, and i know its a small thing, but it would have been cool to not hear that. Took you out of the experience for a bit.",
+        "BUT IT WAS STILL AWESOME!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Great rooms, high quality.",
+      "text": [
+        "It was lots of fun, it's on the higher end on build quality for the rooms, puzzles were logical and didn't require any dubious connections. Free drinks afterwards, very enjoyable!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Fun",
+      "text": [
+        "So much fun and great for all ages!!!",
+        "We had a group aged 6 to 69 and all of us had a great time!",
+        "It is different every time.  Just plain fun!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016"
+    },
+    {
+      "title": "fun filled and worth a visit",
+      "text": [
+        "Having never done an escape room I went with eager anticipation as well as fear we would be trapped forever with the 4% pass rate ",
+        "Now thankfully we managed to escape like a block buster movie with 30 seconds left on the clock apparently ",
+        "We came out to the team congratulating us and a photo with a success board held up which was a great touch ",
+        "Now the medieval rooms are full of hay and warm .... You get led in with a blindfold and then left to your own devices ",
+        "Work through the clues and escape ..... Simple ",
+        "Well not really, you will need logical thinkers as well as people who can work as a team ",
+        "I would have liked a visual count down clock in the room to add to the suspense of time slowly ticking away ",
+        "Other than that it was a fun evening if not a little expensive, we all paid $200 for an hours entertainment"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016"
+    },
+    {
+      "title": "The Best I Have Done",
+      "text": [
+        "This room escape is very convincing; it is billed as a \"5D experience\" and let me tell you it delivers. When you walk in, it doesn't look like much, but as you are led to the room (blindfolded) you feel like you are really in the situation described to you. We went with a group of 5 people, 5 teenagers, and booked the Contaminated Hospital room. This was the easiest room, recommended for beginners. In the room, there are a combination of old-fashioned locks and technology, which is a new twist on the traditional keys and codes. We were not able escape, unfortunately, but we had a lot of fun trying. ",
+        "Just a few kind of negative points, their phone line does not work, so in order to book, you will have to use the website, and if you need to contact them, you will need to email them well in advance. Also, book early, as they are very busy and their time slots are usually full. Also, you will need to arrive early, because you may lose your time. ",
+        "Overall, very good, would go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2016 • Friends"
+    },
+    {
+      "title": "Quite fun and interesting",
+      "text": [
+        "Staff working there were extremely enthusiastic which enrich the experience.  Quite fun, and not too hard.  Strongly recommended especially for beginners.  Doable even for first timer but yet not too easy even for experts."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2016 • Friends"
+    },
+    {
+      "title": "Trapped! Egypt ",
+      "text": [
+        "This place was a good Friday night out with friends. It was very challenging, and we almost made it out but everything was well played out and we had a good time. Team was very interesting and helpful and props were realistic. Would definitely go again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2016 • Friends"
+    },
+    {
+      "title": "Not very friendly kids environment... good for millennials ",
+      "text": [
+        "The general feel is “you will fail and we won’t help you”. Everything is DARK, the front staff keeps repeating that only 4% will succeed and that they will only allow 2 hints... otherwise wouldn’t be fun. After this unwelcoming start... we entered the pyramid room that is not so good as other escape rooms after all. Tricks would be easier to be solved if they would give you the proper tools: flashlights are too weak; no writing tools; very difficult to hear staff when they talk in the walkie talk. ",
+        "My 8 years old and me did several escape rooms, usually return at least twice to the same establishment... not to this one: got trapped only once and won’t be back."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Went once",
+      "text": [
+        "Good activity to play with friends and family. Challenging but also not impossible with the right thinking. Choose your group wisely!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2017 • Couples"
+    },
+    {
+      "title": "60 minutes of fun",
+      "text": [
+        "These escape rooms are creative in their design and make the participants think about complex ways to solve puzzles and escape the room. I did the chaos effect room this week and loved it. Definitely a level two room. I would reccomend this place to anyone looking for something fun to do in a group of 2-10 people. Affordable and creative!!! Also you’re given a free beverage your belongings are kept safe in a locker. 10/10 recommend with their amazing employees! My only criticism is the heart break if I can’t complete the room but I always come back!!!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "The Egypt Escape Room",
+      "text": [
+        "We have a fantastic time at Trapped. The Egypt escape room was so cool.. the props .. the effects we on point. I would suggest if you wear reading glasses you make sure you wear them as it is difficult to read & get throw some of the clues with the limited lighting to read them. We made it to the last challenge but ran out of time. Would definitely would go again... a lot of fun. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Very Good Group Activity",
+      "text": [
+        "A group of us decided to try this and we did the Medieval Room. Staff were very friendly and accommodating. Generally the clues and hints were very helpful and well thought out. There were a couple which we questioned their effectiveness and frankly their use. Perhaps this was why only 4% of the people were able to escape? Still it was a great time and we are planning to try it again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2018 • Friends"
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "Great night out with friends. We did the contaminated hospital room and had a lot of fun. Brought a great group of friends and won with 3 minutes to spare."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Death Note Death...but still lots of fun!",
+      "text": [
+        "Our team of 4 did not make it out of the Death Note game room alive.",
+        "I'm writing this review from purgatory as I await my targets for the hauntings I need to complete before I can hang out in heaven. ",
+        "The staff at this Escape Room destination are great, explain the game details thoroughly and are helpful when it comes it hints. ",
+        "There are also lots of way to save money on your game costs such as membership discounts, social media check-ins and even free games on your birthday. ",
+        "The room itself (Death Note) had great features & was laid out in a perfect balance between paying attention to detail without being overly convoluted. ",
+        "In comparison to other Escape Room locations we have visited, I would rank Trapped close to the top. ",
+        "We will definitely visit again if we can find a way to become undead."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Poorly Designed Puzzles and No Logic: Death Note",
+      "text": [
+        "Every single puzzle in this maze was poorly designed. You have to catch every single detail to get to the next step. Either that or trial an error with tons of trials. The only reason this place has such a low success rate (4% allegedly) is because the advancements are so stupid, you would never think of them. From step to step, the connections are so far out, you will leave feeling baffled. It was unfortunate to go through this room not experiencing a single logic based puzzle. Don't feel like an idiot for failing rooms at this place, be glad that you weren't stupid enough to conenct one minor detail to another. Save your money and go to a different escape room which is likely cheaper with higher quality puzzles considering this room costs $25 AFTER you like their facebook page and sign up for a membership. The only reason I gave this room 2/5 was because the staff was friendly. Despite this, I do think an escape room should almost entirely be rated based on the quality of their rooms."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2017 • Family"
+    },
+    {
+      "title": "Themes and decorations are amazing! I",
+      "text": [
+        "I've now been through all the rooms except for the one they just opened. I've gotten out of all of them except the Medieval Room. They are tones of fun and I really appreciate how much effort is put in to make the rooms seem authentic. The staff is also always very friendly. Can't wait for them to flip some of the rooms into new ones so I can keep coming back! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "A must for your group's bucket list",
+      "text": [
+        "Had a great time, partly because we were successful with 9 min's to spare in this escape the room type game. The folks at \"Trapped\" in Markham were awesome. Helpful to answer all questions, prepared delivering the instructions and providing a fun team experience. If you have never experienced an escape the room game, you need to add it to your group plans for the future. we had 2 people that had some experience and knew what to expect from the time you are locked in, and 4 that were here for the first time. we all had fun, worked together, participated fully and didn't kill anyone. A good day all around. A little pricy for an hour activity, but so is going to a movie!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Friends"
+    },
+    {
+      "title": "Fun Place",
+      "text": [
+        "Great venue for birthday party.  12 years and younger are half price.  Only problem is that 12 year olds need an adult supervisor which  probably is a little unnecessary."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Family"
+    },
+    {
+      "title": "My fun experience",
+      "text": [
+        "I had a great experience with my friends and it was a fun experience with some complex but fun puzzles."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022 • Friends"
+    },
+    {
+      "title": "Amazing escape adventure!",
+      "text": [
+        "Had a really great time on our first room and I highly recommend it. Now we are off to try the second room!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022 • Friends"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Had an amazing time at Trapped last weekend! It was our fourth time and we tried a new room which is a level 2 and OMG it was so much fun! Very hard but so worth it.  The staff is very nice and helpful and made our experience even better.  Thanks Trapped, we will be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Fun and memorable day! ",
+      "text": [
+        "Very clean game room.  Staff was super friendly.  Loved the theme.  We did Death's Note.  Price was reasonable and came with free beverages in the end.  Will return!! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sept 2022 • Family"
+    },
+    {
+      "title": "Death Note - A room for as low as 2 people",
+      "text": [
+        "If you're a fan of the Anime cartoon, you will appreciate this room.  It was well thought out and clever.",
+        "The only thing I thought would be better is if they would clean the room, as the floor was really dusty and dirty, but I had a great time."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Will definitely be back!",
+      "text": [
+        "The Trapped rooms are some of the most well thought out and professional ones that I’ve seen, and I like that they’re looking to introduce new ones and changing it up for their loyal customers. The staff here are above compare, and have a passion for escape rooms that make me want to come back again and again. On this visit we tried the Death Note room, and loved the experience. A good variety of puzzles, good support from staff when needed, and excellent execution on theme. Oh, and the discount plus free juice or pop at the end of all games for members is a great little touch :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Couples"
+    },
+    {
+      "title": "Trapped! in \"Room 057\"",
+      "text": [
+        "Room 057 is Trapped!’s newest escape room, currently only available in their Markham location. It’s creepy but not scary, and it’s one of their most technologically advanced rooms, heralding the new era of escape rooms by utilizing some cool effects. ",
+        "We’ve been told it’s loosely a continuation of one of their other rooms, Contaminated Hospital, but no previous knowledge is needed before playing. Which is good, because we also haven't played that one, either. ",
+        "Room 057 wins points for taking an old theme (oh no: trapped inside a lab!) and making it new (oh no: not everything is all that it seems!). The most impressive part, though, is that the room tells a narrative, not just adhere to a theme. Things unravel as you play the room, and you actually come to learn a fairly detailed story with a shocking twist at the end. OMG!",
+        "Room 057 is best described as suspenseful. No jump scares or gore is involved. It does have an ominous air and a creepy storyline, which may be a positive or a negative depending on your preferences."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Trapped \"Chaos Effect\"",
+      "text": [
+        "This was our third time at Trapped so this time we attempted the Chaos room.It was different and extremely challenging. We ran out of time before the end and we had a glitch in a piece of the equipment which cost us some time. One of our hints did't help us at all and it was frustrating at times but fun. We are looking forward to going back and giving the Chaos Effect room another try. The staff were very nice."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Family"
+    },
+    {
+      "title": "Exciting!",
+      "text": [
+        "It was an exciting experience. First time at an escape room. Kids have been here 2x. The staff, especially the owner, was very nice."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    }
+  ]
+}

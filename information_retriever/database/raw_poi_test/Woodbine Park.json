@@ -1,0 +1,365 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Woodbine Park",
+    "url": "/Attraction_Review-g155019-d8464532-Reviews-Woodbine_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1695 Queen St E",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4L 1G7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 69
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/68/12/b4/like-it.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Biking Trails",
+    "Parks",
+    "Playgrounds"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great Beach, Even If It Might Not Be the Prettiest",
+      "text": [
+        "Woodbine Beach is highly recommended for anyone wanting to sunbathe on soft sand and maybe swim in the cool Lake Ontario.",
+        "There’s plenty of clean beach to lie on. There are restrooms. There’s a café with food and drinks. Parking is free on weekdays during the day.",
+        "The beach isn’t the prettiest in the world, but what does that matter when you’re lying with your eyes closed, letting the sun soak through?"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Cash only!",
+      "text": [
+        "It's supposed to be one of the nicest beaches, so we went to check it out. It was a lovely beach, soft sand, toilets.. the only thing is that everything is cash only! What a shame. We're tourists, and have been to over 120 countries, we avoid carrying cash. TBH, not sure I know anyone who carries cash these days, but perhaps this is something in Toronto. Kids wanted ice cream and a few treats, but couldn't help local tourism.. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "The Woodbine Beach",
+      "text": [
+        "Amazing place to walk to the beach in the morning to watch sunrise or moonrise, and if you enjoy taking great photos, this place has incredible scenery at all times of the day, and offers the ability to get great shots of the sunrise or moonrise. A place you can fully relax and forget the stresses of the world!",
+        "Woodbine Beach is the largest of the four beaches in the Beaches in Toronto, Ontario, Canada. Located along Lake Shore Boulevard at the foot of Woodbine Avenue, it is next to Ashbridge's Bay and Kew-Balmy Beach. It’s a very nice vast beach area with places to play volleyball, a boardwalk to walk on, a beach area and a really nice wooded area to walk through, a very enjoyable time just relaxing and strolling through the park and watching the scenery. There is a bicycle rad along the boardwalk extending to the east and west and connecting other parks and water front. A huge beach sandy area with many beach volley ball courts. Parking available - Free parking during the week before 5PM. Nice sand, grass areas, change house, renovated bathing station features upgraded ventilation and lighting, a new roof, an enlarged patio, change rooms, accessible washrooms, water bottle filling stations and a beach shower with a foot wash, and Tim Horton's on sight as well as other food places. The beach itself is fine, with lifeguards on duty during the summer. Beautiful views of the lake."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Sunday stroll",
+      "text": [
+        "Found this gem on the edge of the downtown hosting a truck food and music festival. What a beautiful park, from the lake to the beach so beautifully set out. Despite being busy there seemed to be room for everyone "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Couples"
+    },
+    {
+      "title": "Nice day at the beach",
+      "text": [
+        "Went with a friend to Woodbine Beach and had a lovely day excepting the beach and water where we were was a little on the rocky side, it was quite crowded plus the water had a bit of a smelll of polution.  But it was a hot day so well worth the minor inconveniences."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Beach time!",
+      "text": [
+        "Beautiful beach.Life guard on duty.Crowd gets rowdy after dark.Family friendly during day.Great beach overall,Washrooms and change rooms on site."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "A great place to get out and enjoy a walk",
+      "text": [
+        "There is something to do for all age groups.  We went for a hike today with the grandchildren on the boardwalk which is wide enough to maintain the proper spacing. ",
+        "It was  -11 C, overcast with gusting winds – a “double B-R-R-R-R” day where we went walking  on Discovery walk.",
+        "While it was far from busy, it was one of the busiest days we’ve gone hiking to date. Obviously, it wasn’t cold for the kids as they couldn’t wait to get on the play structures.  It was good to get out and enjoy the fresh air, but it was so nice to be out of the wind at home.  LOL"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2021"
+    },
+    {
+      "title": "Heavenly ",
+      "text": [
+        "Beautiful place, the Beach area is super with the Lake lapping at the edges, we walked the Beach and then into the park area edging the Lake. Got some beautiful photos in the Winter Sunshine. Lots of wildlife to watch. Easy walking. Spent an amazing day in the area.. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Couples"
+    },
+    {
+      "title": "Snowy wonderland",
+      "text": [
+        "It was a wonderful experience walking around the snow covered park and beach. The weather was sunny but windy and cold and there aren't that many people in the park. Although you will find many walking their dogs.",
+        "It was peaceful to sit on one of the benches facing the beach and relax. It really is quite peaceful experience. Recommended activity if you are keen to walking about."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Something for everyone",
+      "text": [
+        "We wanted a place to relax a little after spending a lot of the day in the city.  Someone recommended Woodbine so we gave it a try.  It was much larger than I expected and had a very nice vast beach area with places to play volleyball, a boardwalk to walk on, huge beach area and a really nice wooded area to walk through.  There is even a Tim Hortons next to the parking lot in case you get hungry.  We had a very enjoyable time just relaxing and strolling through the park and watching the scenery change as we went."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Beautiful ",
+      "text": [
+        "The water is cold, but picturesque and doesn't stop anyone from swimming. There are volleyball ball courts, workout equipment, running/biking and skating trails, picnic areas and rental places everywhere. Recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Nice park with access to beach ",
+      "text": [
+        "A nice park just for walking if there are no activities or events going on. Easy access to the beach path and lake as well as into nearby restaurants and bars. We spent a day down and Leslieville and the Beaches including a walk in Woodbine Park. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "High Water but Relaxing",
+      "text": [
+        "Went here 3 times during the hot and humid days.  Free parking during the week before 5.  Nice sand, grass areas, change house, and Tim Horton's on sight as well as other food places"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Good for all type of outing and to get fresh and lively breath☺️",
+      "text": [
+        "\"All together its been a great atmosphere with beach and long walking through the garden.Its good place for families for spending time together with kids. For friends its been great to have gettogether.There are lot of place to sit alone and be in your world if you want to read or hear musics🎧.\""
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017 • Friends"
+    },
+    {
+      "title": "Festival Capital of Toronto",
+      "text": [
+        "If you are into festivals this is the place to visit. Starting with the Easter Parade in March ",
+        "and going to the best food truck festival in Ontario on the long weekend in August and everything in between. You have Canada's largest free Jazz festival which runs for three weeks ,Q107 Canada Picnic,Afrofest , Ribfests,its all in the Beaches. But make sure to take the TTC."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Beach near the city",
+      "text": [
+        "I had been to this Woodbine beach, it is quite a good place to see the waters if you are a beach lover. You can ride a bicycle, walk for sometime. There is car parking space. You can also go by TTC bus to this place. Nearby, there is Tim hortons where you can grab a coffee, wedges , donut , etc"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2017 • Family"
+    },
+    {
+      "title": "Nice and Quiet",
+      "text": [
+        "Was there in January so it was too cold to walk the beach.  We stayed for photos and enjoyed our cups of Tim Hortons' coffee there.  I can imagine that this is a great place to be in the summer.  I will try the restaurant Carters Landing right on the beach next time when I visit in warmer months.  Check it out."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2017 • Couples"
+    },
+    {
+      "title": "A Place to visit in Toronto!",
+      "text": [
+        "with hundreds of beach volleyballers, parks, picnic areas, bbqs, hard and soft sanded areas, boardwalk and sidewalk it's definitely the place to spend a day especially a sunny active day in Toronto. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016"
+    },
+    {
+      "title": "Great walks",
+      "text": [
+        "This is the place to go. You can walk for a long ways. There are lots of options for exercise - bring your volleyball and pick up a game. You can walk, bike, roller skate. It is many kms of walking on a beautiful boardwalk."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016"
+    },
+    {
+      "title": "Walk, run or bike!",
+      "text": [
+        "Beautiful place to relax, walk or exercise. Excellent for family with children all age, great place to enjoy with friends or go for a walk with someone special. I love the Beaches! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016"
+    },
+    {
+      "title": "Lovely beach for a stroll",
+      "text": [
+        "Surprised that I found it fairly easy to park. But then it was a weekday morning that we went and it was a little cold. Anyway, loved the beach had a great time.  This is October and the water was cold but we still had a wade around and didn't find it too bad. There are lots of places to eat and shop around the area, so you could make it a day trip and eat there as well"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Family"
+    },
+    {
+      "title": "Not the most beautiful beach in Toronto",
+      "text": [
+        "If you're looking for peace and quiet you're better off at Bluffer's park a bit east of here. Woodbine beach is right next to Lakeshore Blvd with houses just across the street. A100+ beach volleyball courts are on the right side of the beach. There's a beach snack bar right in the middle which creates a bit of a party atmosphere. Parking available - moderate fee. The beach itself is fine, with lifeguards on duty during the summer. Beautiful views of the lake."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2017 • Family"
+    },
+    {
+      "title": "People Place",
+      "text": [
+        "There aren't any great attractions here but it has a lot of people in summer and at other times is quite soothing. Nice for walks. The city should open the washrooms year-round. There's a pastry place and a restaurant now but really, it's about the waterfront and one of the few places in Toronto you can actually walk on a beach without a condo tower overhead or talking a $20 ferry."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Family"
+    },
+    {
+      "title": "Top sunny days in Toronto",
+      "text": [
+        "Stunning beach on the west side of Toronto. Very clear water, relaxing environment, absolutely inviting for a swim. ",
+        "As usually happens in Toronto, there is a nice park nearby. I was myself very willing to swim, but could not make it in the cold water, just be ready with a thermal swimsuit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "One of the Best family outdoor activity in Toronto- Cycling and playing beach volley ball",
+      "text": [
+        "You don't need to go out town to enjoy a scenic ride along the lakeshore. The from west to east can take out to 2 hours and you can take a picture with CN tower as the background. ",
+        "With a group or with a few families, you can beach volley ball in the Woodbine beach. That is awesome and so much fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Still so amazing ",
+      "text": [
+        "So this was a rough year since the water levels are so high - not as many volleyball courts as usual but it still is amazing for walking or biking or roller skating. Hard to find parking on weekends if the weather is nice. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "Park with access to lake/beach",
+      "text": [
+        "My kids enjoyed their visit here. There are beach umbrellas for rent. There's also a place for barbecue. A nice for picnic, swimming and strolling. ",
+        "There's a public parking in the area with minimal fee but you need to wait since its always full in the weekends. Another option is the paid parking on the right side area near tim hortons which cost $25."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "A Nice Park With Beach and Space in Busy Toronto.",
+      "text": [
+        "You can see a Flood of People at this park on a warm day. It has ample parking space and seating arrangements. Nice Beach to swim and bathe. What was amazing is scores of Sports Enthusiasts playing Beach Volley Ball.The Courts care well laid and usually crowded. There are various trais for you to explore and bike. All in all a pleasant experience. A Good outdoor activity"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Family"
+    },
+    {
+      "title": "a relaxingplace",
+      "text": [
+        "this area is nice in this parkarea is a lot of things happen ewery weekend its somthing jazzfestival  foodfestival  farmers market and its going on all yare",
+        "its only 5 min walk down to the beach and there is full aktivitet with vollyball and bathin the see wonderfull sand beathc werry long there is a big poolarea and its free to wisith"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "A great place to swim on a warm summer day",
+      "text": [
+        "We went to Woodbine Park beach on a Friday when the air temps were about 30 c  and the water temps apx 18 c.  We were able to find street parking without much difficulty.  The beach was populated, but not too crowded.  It was easy to find a place near the water to lay our towels and sunbathe & swim.  There were lifeguards placed regularly along the beach.  ",
+        "The sun was warm and there was a gentle lake breeze to take the edge off the heat.  The water was cool and refreshing - clean and clear (easy to see the bottom of the lake).  We spent about 4 hours relaxing there.  Every time someone went in the water, a lifeguard would get into her rowboat and head into the water to keep a close eye on everyone.  At first it was a bit strange, (to someone from the States), but I got used to it.  They are definitely working hard to make sure no one gets injured while swimming.  ",
+        "I will definitely come here again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "a great amble on the boardwalk!",
+      "text": [
+        "we walked from the hydro station to three quarters down the boardwalk! it was wonderful! about 13000 steps! walked by lovely homes flanking one side, and the beach, water extending out to eternity on the other! much to look at along the way, many benches to rest on, contemplate the scenery or life, eating and washroom spots along the way ... makes for a grand stroll. the weather was perfect, cool and sunny! a wonderful way to spend the morning, afternoon or evening!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Nice place for eid pray and kids playing",
+      "text": [
+        "Very nice park. Not far from downtown. On the lakeshore. Tim horton is not far. Washrooms are available. There were rides for the kids."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Quiet During The Week But Very Busy On The Weekends",
+      "text": [
+        "In my personal opinion, my above stated title states it all here. The Woodbine Beach swimming pool is next to this popular park in the south part of \"The Beaches\". There is lot's of room to explore this vast park land, walk on the boardwalk, relaxing on the beach during the good weather or going to the Tim Horton's for a coffee. Lot's of parking during the wek but weekends it is terrible. Even the local television station come down here to do news treports!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Business"
+    },
+    {
+      "title": "Beautiful but boy was it cold",
+      "text": [
+        "We knew Toronto was going to be cold in winter and had dressed accordingly.  But boy does it blow from Lake Ontario across the beach when it wants to!  We had a lovely walk - though in winter I'd recommend wearing extra grippers on your boots - but had to cut it short as despite all the layers it was just too cold to continue.  It certainly cleared our heads!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2019 • Family"
+    },
+    {
+      "title": "Lots of activities. lots of pebbles near the water line",
+      "text": [
+        "There is a boardwalk in the park between lawn and beach area.There is a bicycle rad along the boardwalk extending to east and west and connecting other other parks and water front. There is huge beach sandy area with many beach volley ball courts. There is a woodbine park north of the lakeshore blvd. This park has festivals very often, e.g. Jazz festivals.",
+        "However there are lots of pebbles near the water, so it's difficult to walk along the water and going swimming."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Relaxing park",
+      "text": [
+        "There is Woodbine Park and crossing the street Woodbine Beach, one relaxing area with picnic zone and one area close to the lake with lots of activities to do."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Great time",
+      "text": [
+        "I went Woodbine beach on Sunday with my family . There were not too many people and we found a good place near the water. The beach had stone and it was hard for me to walk through the stone in the water. There is a park near the beach and we did BBQ. the parking lot is very limited and we found a parking space by chance. we payed for parking space."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Hottest Day of the Year, but perfect at Woodbine Beach",
+      "text": [
+        "The temperature was 95F with a feels like 111F.  We went to Woodbine Beach, brought a picnic lunch and sat in the shade of the trees.  We expected to swim, but the cool breeze off the lake made us think the water was too cold for us.  However, it was cool all day, the view was beautiful, the boardwalk had lots of people and dogs out for a walk.  If you look to the west, you can see the beach at Ashbridge's Bay -- sandy, but VERY crowded.  The Woodbine Beach had stones, but wasn't overly crowded.  There was a snack bar and a rest room.  Parking is difficult -- you have to park on the street and on such a hot day over a holiday weekend, parking was very limited.",
+        "We would go again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Nice boardwalk but dirty beach",
+      "text": [
+        "The boardwalk is nice to walk along but I always find the beach to be dirty. The beaches on the Toronto Islands are much nicer. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2017 • Friends"
+    },
+    {
+      "title": "Nice racetrack",
+      "text": [
+        "Woodbine is outside of Toronto. I liked the track but was not excited about the food choices. The parking is free and there is a shuttle bus to take you from your car to the entrance. Also, there is a slots casino sharing the building so you can play before, during or after playing the races."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2017"
+    }
+  ]
+}

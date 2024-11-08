@@ -1,0 +1,224 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Adventure City Games Toronto",
+    "url": "/Attraction_Review-g155019-d24856840-Reviews-Adventure_City_Games_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Union Station",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 1E6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 24
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/1e/e0/e2/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Escape Games",
+    "Scavenger Hunts"
+  ],
+  "description": "Step outside and embark on an adventure unlike any other. Our Urban Games combines the thrill of a treasure hunt with the challenge of an escape room and the beauty of a walking tour, all outdoors. We are calling on all adventurers, all seekers of excitement and wonder, to join us on this quest. Fun guaranteed!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Engaging experience",
+      "text": [
+        "The game was engaging and it was nice walking around and seeing places and sights I hadn’t really noticed before. The game wasn’t tough, it was easy to succeed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Walking tour, fact finding, team-building mission!",
+      "text": [
+        "We had a team meeting in town with colleagues from around the world.  After sitting in meetings all day, we wanted something that got us up and moving, plus progressed us towards our dinner plans.  This activity worked perfectly, and we had a ton of fun along the way.  We played against each other in smaller teams with staggered start times.  We all learned something about the city that we didn't know, got to see some sights that many had not yet seen, and both teams were successful (despite some team-on-team sabotage taking place).  I would definitely recommend this activity as it works well for locals and travelers!  Thanks for the efforts in putting it together."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Business"
+    },
+    {
+      "title": "Panic In The City Adventure Game",
+      "text": [
+        "Great fun. Like combining an escape room and a scavenger hunt. I liked that you weren't under tight time constraints so you could actually enjoy some of the locations."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Good for Tourists",
+      "text": [
+        "Intriguing storyline with good pace, and beautiful sightseeing along the way. We have been to the places many times but never paid attention to such details. Great for tourists or families with active kids. 5 Stars!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "BEST RECREATIONAL ACTIVITY IN TORONTO",
+      "text": [
+        "It was by far one of the best recreational experiences in Toronto! I spent my birthday solving mysteries with my friends while learning more about the city. No better way to do it! I highly recommend it and can’t wait to try the other ones as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Friends"
+    },
+    {
+      "title": "Great Treasure Hunt Walking Tour of Toronto",
+      "text": [
+        "We played as a family and really enjoyed the experience.  The puzzles were fun and a great way to experience our city together."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Fun outdoor exploring game",
+      "text": [
+        "Fun game to play that allows you a chance to explore the city, find some new things and solve riddles along the way.  The riddles were not overly challenging but difficult enough to make you work."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "A Fun Way to Explore",
+      "text": [
+        "We had a great time exploring the city while completing Panic in Old Toronto.  The challenges were doable but non-trivial, so we had a sense of accomplishment when we figured each one out.  The route took us to interesting locations that we likely would not have seen if we were left to explore on our own.  It was a great introduction to the city and a fun way to spend the morning."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Great experience!",
+      "text": [
+        "Me and a friend played \"the evil dragon of Toronto\" game and I would absolutely recommend it. We had a lot of fun walking around and solving the puzzles. We got to see some interesting sights and on top of that I learned some new interesting things about Toronto. Absolutely an amazing experience. Will definitely try the other ones! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "An exciting adventure",
+      "text": [
+        "Super fun experience to discover hidden gems of Toronto downtown, whether you are a tourist or a local. Looking forward to trying more and highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "A Fun Adventure ",
+      "text": [
+        "In \"The Evil Dragon of Toronto\" I felt like a tourist in my own city, and even learned new things too. The messaging platform used throughout the adventure is super easy to use. I enjoyed the variety of puzzles, the visuals provided, and being outdoors the entire time. Looking forward to my next one already!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Solo"
+    },
+    {
+      "title": "Fun for everyone!",
+      "text": [
+        "This was so much fun! My friend & I were looking for something to do to kill time. We had an absolute blast!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Friends"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Another way to visit and interest a pre-teen! ",
+        "We had a competition",
+        "The puzzles were not easy and required effort.",
+        "We saw some very interesting places"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Great activity",
+      "text": [
+        "Great activity for visiting the city. The family loved walking the streets of the city and discovering Toronto while having fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Excellent!!",
+      "text": [
+        "The game was a lot of fun! I went with family and my daughter said this was her best birthday gift ever! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Good fun!",
+      "text": [
+        "The game was fun and well organized! It was fun to tour around the city and pretend to be a tourist!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023 • Couples"
+    },
+    {
+      "title": "Fun in the Esplanade",
+      "text": [
+        "Activate your inner geek and if you haven't got one, ride on the coattails of those who do to solve clues and figure out where to go next. Traipse around an interesting part of Toronto. I've lived in TO my whole life and I forget what hidden delights--parks, fountains, lovely gardens, interesting architecture--are nestled in the Esplanade. Do this with people who share your spirit of fun and you'll have the same hoot I did. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "HIGHLY RECOMMEND!!",
+      "text": [
+        "This was a ton of fun! My entire family had an amazing time and I'd highly recommend this to anyone looking to get outside and explore their city. We found so many places we never would've even known existed! 10/10 would highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "100% recommend",
+      "text": [
+        "Amazing!! Brilliant!! Loved it from start to finish. It was a great way to see the city and have fun at the same time "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "We had a fantastic time!",
+      "text": [
+        "Enjoying the sunshine, exploring beautiful monuments and streets, even though we couldn't crack the last puzzle, it was loads of fun and a memorable experience. Highly recommended for an adventurous day out!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "Great game!",
+      "text": [
+        "It was a refreshing experience being outdoors, solving engaging puzzles, and discovering the city in a unique way. Perfect for couples seeking fun and excitement!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Great escape game in the streets",
+      "text": [
+        "Having experienced their games in Quebec where I had great times. The ones in Toronto were no exception - a complete joy to play! This is a top recommendation for anyone seeking a unique, adventurous experience in the city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Great outdoor escape game concept",
+      "text": [
+        "Absolutely loved this outdoor escape game concept! Enjoyed being outdoors after the long winter, solving puzzles (not too easy, not too difficult), and experiencing the city in a whole new way. It was a fun time with friends!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "Our group had an amazing time!",
+      "text": [
+        "Not only did we have loads of fun, but we also discovered numerous fascinating sights that we would have missed if we had explored the city on our own. We highly recommend this activity to everyone!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    }
+  ]
+}

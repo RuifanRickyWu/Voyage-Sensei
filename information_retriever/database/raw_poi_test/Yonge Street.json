@@ -1,0 +1,351 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Yonge Street",
+    "url": "/Attraction_Review-g155019-d185116-Reviews-Yonge_Street-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Yonge St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 944
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/9e/3e/ef/yonge-street.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Points of Interest & Landmarks"
+  ],
+  "description": "The North End is a nucleus of specialty food restaurants and shops, especially around its Mount Pleasant Village area. Frequented by antiquers for its numerous collectable shops, furniture spots, and oddity stores, the North End is a maverick of the quaint and quality. Vintage toy stores, accessory shops, and cinemas welcome perusers to step back in time, while the wide pedestrian squares and the large medical and business community inject it with a dose of modernity. With numerous cafes and Toronto's greatest number of independent booksellers, it isn't uncommon to see folks in this area at their leisure, reading outdoors and in eateries, and taking life a bit more slowly – even if it's only during their lunch break.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "This street has everything you need",
+      "text": [
+        "This street has everything from shopping, to dining, to entertainment. You’ll find the large indoor shopping mall, the Eaton Centre, on Younge Street. Three Basseurs is one of my favorite restaurants while I’m visiting Toronto. It’s a street that is over 34 miles (55km) long."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Quick getaway to Toronto!",
+      "text": [
+        "We went for a day.  It was very busy and shopping mall was unbelievable.  We visted the trinity bell center which was around the corner."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Yonge Street, Toronto, Canada",
+      "text": [
+        "I was a regular there when I was in Canada. One can find everything they need on this street. It's an outrageously long street."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Busy street",
+      "text": [
+        "This is one of the main streets in Downtown Toronto. Accordingly, you will see a ton of people, both locals and visitors. There are a lot of attractions, such as malls, restaurants, bars, clubs, and other stuff along the street."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "An exciting place to visit",
+      "text": [
+        "I like Yonge Street! I think it gets a bad rap for things that any big city would struggle with. Yes there are homeless people and yes it’s packed all the time. But it’s also fun!! There is so much to see and it really feels like you’re in the middle of everything."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Family"
+    },
+    {
+      "title": "The most vibrant Street in Ontario",
+      "text": [
+        "The longest street in the world and it is full of all types of entertainment and activities. It has the large shopping mall Eaton Center. Theatres, Business Centers and hotels. Caution is needed if you walk late at night as accidents might happen. Parking is available around. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Busy, busy",
+      "text": [
+        "A very interesting eclectic mix of places n central Toronto's Yonge Street including a world pop-up street food market. Not the cleanest street but lively."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Interesting place for a walk",
+      "text": [
+        "On our recent visit we were on this street several times from Harbourfront to Carlton. Lots to see, lots of cafes restaurants bars and access to Eaton Centre from the street. The part from Dundas Square to Carlton Street has been cleaned up considerably since our first visit in 1993, but there are still some not so nice parts, but it is worth strolling through. We miss Sam The Record Man record shop, but the logo is featured on a superb mural near Gerrard Street and the neon sign from the shop is at Dundas Square. Interesting busy street."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Noisiest Restaurant ",
+      "text": [
+        "Whilst the food was good, the prices are ridiculously high. Worst of all you, cannot have a conversation as the place is so noisy and added to that there is loud music. The owner has no clue about using acoustic materials to absorb the sound. Would never go back. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2022 • Friends"
+    },
+    {
+      "title": "Tasty Hawaiian pizza",
+      "text": [
+        "We had a large Hawaiian with an extra topping of Asiago cheese. The pizza tasted extra good. Delivery was on time, and the driver friendly. All good."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2022 • Family"
+    },
+    {
+      "title": "Heart of the city but very busy",
+      "text": [
+        "This is the Main Street going down the centre of Toronto. There are lots of shops and eating places all the way down this street. You do need to be careful thou as there were quite a few homeless people who were either drunk or on drugs. If I was by myself I may not of felt as safe. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Main Street Ontario",
+      "text": [
+        "Yonge Street in Toronto bisects the city and connects the shores of Lake Ontario with Lake Simcoe. It used to be a main North-South route, before the 400-series highways were completed. In downtown Toronto, Yonge Street has plenty of shops and restaurants as well as the famous Eaton Centre Mall and Yonge-Dundas Square. You will also see several theatres, such as the Ed Mirvish and Elgin Winter Garden, and other cultural sites along this road as well as pubs and clubs. Parking can be an issue, so the best way to visit is by using public transit. There are subway stops under Yonge Street as well as bus routes and the innovative PATH system runs underneath, also giving you easy access to the street above."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Great for local culture, shopping, street performers, and food",
+      "text": [
+        "Yonge Street is a major arterial route in the Canadian province of Ontario connecting  Lake Ontario in Toronto with  Lake Simcoe.Longest street in Canada, the longest road in the world actually. I t is alsp  one of the busiest streets in Toronto. Lot's of shopping, dining, characters, and sights to be seen. Located in the heart of the city, this is an easy place to spend a few hours. n Toronto it is the most diverse. Iconic .  If you are visiting Toronto you'll definitely want to take a walk down Yonge Street!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018"
+    },
+    {
+      "title": "Nice and crowded street in toronto center",
+      "text": [
+        "One of the famous and center in Toronto, lots of famous brand and lots of places to shop around, crowded all the time. Don't drive here, take public transport is recommended, otherwise not easy to find the parking lot. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Happening Place",
+      "text": [
+        "Plenty to see and do on Yonge Street! It reminds me of NYC, great night life, restaurants, crowded streets, mall, tour buses...Toronto's hub!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Worth seeing",
+      "text": [
+        "As an outsider, this street seems to be where all the action is. It’s certainly a very touristy area. They many restaurants and bars, as well as numerous cafes and shopping. The streets are usually quite crowded. One of the bigger tourist attractions on this street would have to be the large indoor mall, the Eaton Centre. This street acts like a hub for attractions and things to do."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Lots of action ",
+      "text": [
+        "Young and Dundas is a place where you can see just about anything. Lots of entertainment at night. The only downside is the amount of homeless on the streets, almost one on every corner. Leave downtown and it’s endless stores and food establishments. Never a dull moment."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "For Some ODD Reason......",
+      "text": [
+        "This shifty, shady street has become a beacon to all who enter the city's midst. Why? Couldn't tell you, except that it's a long long historical street, bisects the city, becomes hwy 11, leading north from the city and headed to this huge province's northwestern edge, many believe it to be the \"longest street in the world\" (I'm not convinced it is, but hey, what do I know - and I digress ; ). Back to my original question. Why is Yonge so popular??? Why does every tourist feel the need to walk part of it? Why do suburban knobs noisily roar their motorbikes up and down, and their supercars? When it seems to me to be just about - honestly here - one of the most dull, architecturally bereft streets in the city? I don't get it. But hey, roar your maseratis and loud motorbikes. Scream and yell up and down it when the raptors win, when the bluejays score big, and when Caribana comes to town. Go ahead...it's pretty harmless fun.   "
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Shopping and eating",
+      "text": [
+        "A long street with several shopping malls and many food establishments, such as Starbucks and Mcdonalds. Can easily spend a day here. "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Great night out.",
+      "text": [
+        "We had a fantastic evening, my sons stage night. They gave him a great welcome and send off. Will return agin and again when in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018"
+    },
+    {
+      "title": "Where the action is",
+      "text": [
+        "Younge Street seems to be where most of the action is. Here you’ll find everything from shopping and restaurants, to street performers and other forms of entertainment. Their are many places that offer free WiFi if needed. Because of everything this street/area has to offer, it could easily be considered a tourist trap. That being said, it doesn’t deter from venturing around this area every time I visit Toronto. Theirs something for everyone here. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2020 • Couples"
+    },
+    {
+      "title": "Not Pedestrian Friendly",
+      "text": [
+        "This is supposed to be one of the main streets in Toronto and maybe they should start treating it like that. It was dirty, which might be from the lack of garbage and recycling containers. Worse of all, pedestrians don’t appear to have the right of way, in other words, when the light changes to walk, run fast to cross the street. During rush hour it was worse. The other annoying thing was the number of people texting and walking and not paying attention. This is a problem in a lot of places, but if you want to act like a world class city, you have a campaign warning people, just like they did in London, England."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2020 • Business"
+    },
+    {
+      "title": "How Hum",
+      "text": [
+        "Just another extremely busy street for both pedestrians and automobiles. There is no reason to travel on it."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2019"
+    },
+    {
+      "title": "Always busy",
+      "text": [
+        "Its the defining street from east to west and always bustling. A mix of stores and offices, and designer and down-at-heel shops, it is useful but not a street you can say has any soul."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Cool to explore",
+      "text": [
+        "Lots of great things to see, a little bit run down, good for groups, one of the more famous streets in toronto"
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2019"
+    },
+    {
+      "title": "BUSY CENTRAL STREET",
+      "text": [
+        "My wife and I passed through, and up and down, the area several times whilst stopping off in Toronto and enjoyed the sights and shops provided by this busy and important central street."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Hit and miss ",
+      "text": [
+        "First time travelling to Canada and we start off our holiday In Toronto. First impression is poor. The place is littered with construction sites at almost every corner. Busy intersections are nerve wracking with the worst examples of patience I have ever seen. Safety on pedestrian crossings is  questionable, cross at your own risk. And the rubbish! Streets lined with scores of empty plastics, cigarette butts and waste. Is this a reflection of the people of Toronto or simply a city with poor waste management. I was very disappointed regardless. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "The Longest Main Street in the World",
+      "text": [
+        "Yonge Street extends from Lake Ontario beyond Lake Simcoe. ",
+        "While still in the Metropolitan Toronto Region it goes through transformations from downtown business/financial district to midtown shopping and residential to a variety of distinct neighbourhood areas, some still retaining a small town feel with fire stations and churches and libraries, cemeteries, gardens, parks and endless construction of new office buildings and renovations of old ones and the construction of condos. It is the centre of the city at numerous points along its route. It is the life blood of the transit system with the major subway route rumbling under its surface. Living on or near Yonge Street means being in the centre of things with easy access to everything you need for living and enjoying yourself in the city. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Lunch time at Saigon House",
+      "text": [
+        "Called in for lunch and was pleasantly surprised with the quality of service and food on offer.The service was excellent and so was the food."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Wonderful way to see Toronto",
+      "text": [
+        "For an interesting walk and see  a wonderful perspective of the many neighborhoods along Yonge St..Take the subway to the Lawrence subway station and start walking down Yonge St. towards Front St. It is best to walk down as to walking up you would be surprised by how steep parts of Yonge St  are. This walk will take about 3 to 4 hours depending on the speed you walk any fitness level can easily complete this walk. There is unique stores, coffee shops and restaurant to stop in along the way, there many small parks as well. Enjoy the walk, I do this every time I'm in Toronto and always see and experience something new"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Indoors from Lake to Lake",
+      "text": [
+        "With/out a car it is possible to spend time indoors along Yonge, the longest street in the world. I’m laying out 7 possibilities from the Southern to Northernmost stretches of Yonge... 1. Union-Harbourfront Centre—TTC (@UPXpress) from the East side of subterranean Union station, hugging the Front Street underpass, takes streetcar passengers to Pearl restaurant or Harbourfront pond rec. rentals & Art gallery, facing Lake Ontario; or 2. TTC Yonge line takes subway passengers up to Eaton’s Centre mall at rocking’ Dundas Square; 3. TTC ride further to Bloor offers cinema & Eataly dining inside Manulife Centre. 4. Past Midtown’s Yonge-Eglinton traffic, North York Yonge-Sheppard hub has a food court/currency exchange below Winners in the Centre, and Empress Walk (connected to Civic Centre library) has a cinema as well. 5. Viva buses via the same Presto card from the terminus Finch station take passengers past Centerpoint Mall to World/Shops on Yonge (7181 Yonge tower), where 6 Boss Caribbean Jerk and Goobok homemade Korean dumplings and donuts are sold in the food court (2nd floor above Seasons Supermarket/parkade). 6. Further, Viva / carride past Hillcrest Mall Richmond Hill will end at Upper Canada Mall, facing GO transit station. 7. From there, by Eagle-Davis Drive Newmarket, it’s a 20-minute carride East of Holland Landing-Bradford’s Yonge St. Mexicanada to cycle by Jackson’s Point Georgina cafes, along Simcoe Lake shoreline. There’s no shortage of things to do or eat—in almost any weather—around Yonge Street. Whatever your means of travel, expect it to be a very long ride!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2022 • Family"
+    },
+    {
+      "title": "Walking from Union Station to Dundas Square",
+      "text": [
+        "If time is limited, then take this walk from Union Station (which you can get to from YYZ, catch the UP train, pay $9 per person one way), walk 30 minutes or so, to the intersection of Yonge and Dundas, also known as Dundas Square...basically that's where the action is...big colourful billboards...Eaton Centre...restaurants...shopping...",
+        "Lots to see...old historical buildings, new buildings, street performers (make sure you carry some loose change with you), street vendors, pubs, and many unique little restaurants.  Of course, more to see and do in the summer...winter wise, less action.",
+        "Like any other big cities, there will be homeless on Yonge.  Late at night there maybe even a fight or two happening.  But that's big city for you.  Just be vigilant, that's all."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Impacted too much by cannabis",
+      "text": [
+        "The impact of cannabis in Toronto cannot be understated and especially in the upper sections of Yonge Street. The smell is very strong and there are loads of people lying on the floor or begging. Even on the public transport you can be pestered and disturbed by people on a high.",
+        "If you are going and require a hotel I suggest you select one near to the water front or Union Station and thus avid most of Yonge Street."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Used to be amazing in the ‘90s",
+      "text": [
+        "When I was a teenager in the mid to late ‘90s in Toronto, Yonge Street was the hang out spot and I guess still is for a different crowd. It was very sleezy before my time and was a little during but now gentrification is removing the old blight and I miss that. There were lots of great used bookstores, record shops, pizza places and coffee houses. Now much of that is disappearing. Even Starbucks are closing. Hard Rock Cafe… gone. There was an old Scottish shop and Army Surplus but it’s all going away. I’m getting old and sentimental I guess. It’s still fine if you like condos and franchises places. Lots of those."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2022 • Solo"
+    },
+    {
+      "title": "Toronto Staple",
+      "text": [
+        "It really is the longest street in the world and offers so much. Super busy in the downtown core and more chill the more north you go. It has everything from high end shops to local/down-to-earth ones, it has tourist attractions, honestly everything, it just depends what part you're on."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "Fun street",
+      "text": [
+        "We love Younge Street. Here you’ll find everything from shopping and restaurants, to street performers and other forms of entertainment. We have several favorite restaurants on this street. The performers and live music is always fun to see. We could spend a nice chunk of the day here."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "All time fave",
+      "text": [
+        "In a constant state of flux from a local’s point of view.You can experience the street starting south from Steeles Ave in Toronto all the way down to Lake Ontario.First you will pass by Korean Asian areas with lots of food options around Finch Ave.When at midtown around Lawrence Ave down to Eglinton Ave,you will see more local stores along with construction that never ends in the area.As you move towards Bloor Street,that is where all the Prada,Hermes and LV stores are.Further south ,there will be Dundas Street where the stream of people never seems to end.When you get close to Queen’s Quay area, you will be rewarded with great views of our beautiful Lake Ontario.Enjoy!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Always Interesting!",
+      "text": [
+        "Yonge Street runs right through the heart of Toronto and is one of the most interesting streets to explore. Find a place to park and get out and walk the street. Enjoy the vibrant street life and the varied architecture, from old traditional building to modern skyscrapers. There are many interesting places to eat and you can find almost anything here.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "World Food Market perfect for Summer",
+      "text": [
+        "Yonge is great for young adults: all the way from Dundas Square to North of Ryerson. Just outside the doors of Eaton’s Centre are musical entertainers at Dundas, and I picked up healthy food at Sushi Burrito on the North side near Chipotle Mexican. Just beside there (and extending to Gould Street) is World Food Market. I bought Mexican fish tacos; Nepalese/Tibetan, Middle Eastern, and you’ll see a Korean Galleria supermarket with prepared food across Yonge Street. Every kind of food stand can be seen…it’s better than the food court at Eaton’s Centre shopping mall. Despite the paucity of seating, there’s limited parking on Gould and groups of people milling about outdoors. Masks are required, and credit card (tap) is accepted."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2021 • Solo"
+    },
+    {
+      "title": "I usually have a short walk from Bloor to Dundas",
+      "text": [
+        "I usually get off the subway from Bloor and walk all the way down to Dundas. There were a lot of shops, restaurants and eateries on Yonge. Lots to see and feel the downtown ambiance of Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020"
+    }
+  ]
+}

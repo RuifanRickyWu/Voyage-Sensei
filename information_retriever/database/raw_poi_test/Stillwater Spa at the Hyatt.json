@@ -1,0 +1,400 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Stillwater Spa at the Hyatt",
+    "url": "/Attraction_Review-g155019-d497362-Reviews-Stillwater_Spa_at_the_Hyatt-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4 Avenue Rd ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5R 2E8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 121
+    },
+    "openingHours": "Th-Su 10:00-19:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d2/76/56/stillwater-spa-toronto.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": "The re-imagined Stillwater Spa Toronto combines luxury and sophistication to create a unique wellness destination in the heart of Toronto. Stillwater Spa at Park Hyatt Toronto offers a luxurious and sustainable approach to beauty and wellness. Our Spa Practitioners are artisans of rejuvenation, allowing you to fully unwind. Find serenity at our urban retreat in the heart of the luxurious neighbourhood of Yorkville.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Disappointing- don’t bother",
+      "text": [
+        "My first time back at the spa post-renovation. I confess I was quite excited by the prospect of self care, relax and rejuvenate.",
+        "On the positive, the staff were very professional and my two treatments (massage and facial) were at the calibre you would expect from a Hyatt spa.",
+        "The downsides were numerous, now there is a small steam room and tiny sauna, unable to have girls time. Not even 2 people can lay out in the sauna (you have to bend your knees). ",
+        "Previously the space was welcoming and girl-time friendly hang out place (with the water features), now it is antiseptic. The communal areas are small and don’t encourage camaraderie (although the space is well appointed with quality food and beverage options). Small things, like no clock on the walls also makes it difficult to determine when to be ready for your treatment, since I don’t bring my phone or watch into a steam room or shower.",
+        "Finally and most importantly, when I’m spending $650 inclusive tax and tip for a spa retreat, I’m expecting a retreat. That’s significant amount of money for me, and the rumble, vibration and hum of the subway passing by every few minutes really took away from the experience. It made it unpleasant and not only will I never return, I cannot recommend the spa to anyone.",
+        "Honestly a 3-rating may be too high, if you want a relaxing experience, skip the Stillwater."
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2023 • Solo"
+    },
+    {
+      "title": "Amazing massages in gorgeous setting!",
+      "text": [
+        "I have been back to the \"new\" Stillwater Spa since opening and it just keeps getting better.  Each massage (three now) have been the best I have had in a long time!  Each one was with a different RMT as I like to try them all and choose a favorite, but now I know choosing will be very difficult.  It has been a long time since I have had consistently excellent RMTs at a spa, not to mention 3 times in a row!  Well done.  The new decor and space are very minimalistic and relaxing.  Yes, you can still hear the subway as it is in the same space as before, but honestly, it just becomes background noise as you relax under the expert care of your therapist.  All employees I have spoken with are nice and seem to really care about your experience, always eager to assist.  Upon check out I am always advised that a 18% gratuity has been added for my convenience but given the option to change it in a gracious manner, this has been consistent with different receptionists so I am not sure what others leaving reviews are speaking of.  When I get a spa at a massage, I know that tipping is a normal option, as opposed to going to a massage clinic, this is a service industry after all. Sure, it is pricey, but this is the Park Hyatt in Yorkville. I do know that they have a loyal customer in me and I will continue to recommend to all my friends.  Best part is that as they are newly re-opened, you can usually get in for a massage on short notice, bonus!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Should Have Re-Imagined Your Space With Customers in Mind",
+      "text": [
+        "After a multi-year renovation, I was seriously looking forward to returning to a place that I used to love. A New Year's Eve couples massage at Stillwater was a ritual that my partner and I used to cherish. At $286 each (before automatic 18% gratuity) I expect more than a great massage. It should be an experience. Unfortunately, I just wanted to get the massage and get out. ",
+        "First off ~ The massage from Samantha was fabulous. She is a knowledgeable, friendly and talented professional RMT. She is 5-star and the reason this overall rating is not lower. The locker room attendant was also helpful and sweet.",
+        "BUT ~ the rest of it is basic and lackluster. The water theme is gone, including no hot tub. The change rooms appointments were baffling. The sauna is only large enough for 2 people. While the vanity area is giant, it had no seats, magnifying mirror nor the amenities you might expect in a spa of this calibre. The locker area by contrast is minuscule.  There is one small bench taking up most of the standing area between all the lockers in a cramped space. If one person has their bag or robe on the bench, there is nowhere to sit to put on your shoes. A larger woman would struggle to even turn around let alone change her clothes. Forget about those lounge beds we used to enjoy. There isn't even a chair. Even the shower rooms had no place to set down toiletries or ample towel bars. Totally awkward.",
+        "The co-ed \"lounge\" is also small relative to the number of people who might be there. Imagine 8 people in upright chairs with everyone talking at full volume in an area the size of an average living room. Don't plan to have lunch or even a mimosa.  It was more clinical than it was \"zen\". It was a waiting room with dessert and a juice.",
+        "Bottomline: For $675 for 2 people for a 60-minute couples massage, we'll go somewhere that we want to spend some time."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Enjoy A Zen Experience",
+      "text": [
+        "Amazing deep tissue massage given by RMT Tony!",
+        "I thoroughly enjoyed my treatment which melted away all of my stress, and released all of my tight muscles. Lovely clean spa, with friendly staff! Would highly recommend and I look forward to more visits!",
+        "Thank you!",
+        "-Linda"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022 • Solo"
+    },
+    {
+      "title": "Underground, but very good",
+      "text": [
+        "I  was really looking forward to seeing the new Stillwater Spa after being closed for so many years. ",
+        "The space was beautiful and well appointed. The men's changing room was large, but the locker area was cramped (really only comfortable room for one person at a time). Having both a steam room and sauna in the men's area was really nice. A small lounge space would have been a useful addition too. ",
+        "The waiting area was small but comfortable. The snacks were excellent and replenished often. ",
+        "The massage was great - thanks, Tony! ",
+        "Unfortunately, the subway was a constant rumble which distracted from my ability to relax. I could hear it during the massage and especially in the steam and sauna rooms."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "historically wonderful but has gone downhill",
+      "text": [
+        "Have been here several times for girls day out.  Historically, have been very impressed with service and treatments.  Really enjoyed the \"retreat pockets\" with the drapes where you can plug in your headphones and relax.  However, after seeing what is on offer at other five star spas, feel the Stillwater needs to update itself.  Which they are doing as they are now closed for renovation.  I am sure when they reopen they will be well worth a visit.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2017"
+    },
+    {
+      "title": "A little disappointed ",
+      "text": [
+        "Got my eyebrows waxed at the Still Water Spa. I now have  a really gross rash on both my eyebrows.",
+        "I've never gotten a rash from waxing, there are a bunch of tiny white bumps on both my eyebrows.",
+        "Front desk lady is friendly and helpful.",
+        "  Essthetician who did my eyebrows was okay just made some comments that hurt my feelings.",
+        "Overall I won't be getting my eyebrows done here again. "
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2017"
+    },
+    {
+      "title": "A Day to Relax",
+      "text": [
+        "This spa is great to have a relax day. Prices are a bit pricey, but the facility is gorgeous! The massage therapist are ok (I've had better ones at other spas) and the nail salon ladies are a \"hit\" or \"miss\". Had one lady that was very professional and great. Another time I had a lady that was late 5 minutes and didn't speak that well English. You have to book in advance. Its very likely that you can just walk in. Walk ins would be during the week. The weekends is always packed and busy."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2017 • Solo"
+    },
+    {
+      "title": "Great massage but not relaxing due to rumbling from subway underneath",
+      "text": [
+        "I visited the spa recently for a Swedish massage. I was pleased with the service and my massage therapist was fantastic and attentive.  5 minutes into the massage, just as I was entering into a deeply relaxing state the room started vibrating and a loud rumbling started...that is when I noticed that we were directly above the subway line.",
+        "This is a very unfortunate location for a spa. A spa is a place people go to relax and to distance themselves from city life and that did not happen for me. I could not enjoy my massage because without fail, every 5 minutes, the rumbling and noise would start all over again. The vibrations actually made everything in the room shake and make a sound of their own. Save your $ and go to a spa that is not located directly over a subway line."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Gone downhill.",
+      "text": [
+        "My friend and I visited the spa on a friday evening in February - we look forward to our annual Stillwater Spa night as a special treat. We very much appreciated the complementary facial offered in lieu of a cancelled massage. While the facial was 5 stars, the massage was probably the worst of my life - the massage therapist mostly used her forearms and elbows and was unable to adjust pressure - it was either hard or almost nothing - most annoying was that she kept taking her hands off, getting more oil, wiping her hands on the sheet and then going back to the massage - while she was very pleasant and professional I think she likely needs a lot more experience to become a good massage therapist - I felt myself tensing up constantly throughout the massage - not relaxing.",
+        "The facilities have gone downhill - I've visited Stillwater probably about a dozen times since it opened and have always appreciated the outstanding level of service and the relaxing facilities. This visit things just seemed 'tired', there was only one person at the reception desk, the hot tub was lukewarm at best, - the first shower I tried never warmed up - the wastebasket in the washroom was overflowing - the decaf coffee in the lounge area was barely warm - there were very few magazines in the lounge area and there were no fish in the aquarium.  While none of these things would have bothered me at a standard spa at Stillwater, where we pay premium prices, it was very disappointing."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "Prenatal Massage",
+      "text": [
+        "The ambiance at Stillwater was very relaxing...minus hearing the subway go by during my actual massage. I liked the change rooms and water therapies. I'd say it is a great location to go alone or with one other person. Other places I've been would be better for a group day out. ",
+        "I went, at 8 months + for a 60 minute Mom-to-Be massage. The massage itself was good (not great). The RMT was very good at listening to my direction in terms of going deeper or not as deep as she worked. ",
+        "My main complaint was the initial way table was set up. The pregnant pillow was MASSIVE. My entire torso fit into the hole that was just for my belly. I had read another review with the same complaint just prior to going and was warned. I complained to the RMT several times that I was putting weight on my belly and the pillow was too big. She tried to get me to lay on my side. This was not comfortable as I was still not properly supported. I was persistent and finally she understood that the pillow was \"too big\". She brought in a smaller sized pillow that they use for earlier in the pregnancy. This is the same pillow my chiropractor and other RMTs still use on me at full term. The odd thing was that no one asked my size when I booked the appointment and they even had me down as being not as far along in my pregnancy. ",
+        "The RMT made sure that I knew she went 5 minutes over to make up time switching pillows. I assume so I would tip generously. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2016 • Friends"
+    },
+    {
+      "title": "What a  Great Spa!",
+      "text": [
+        "First time at Stillwater!  I had mentioned I was going to propose that evening and I wanted both of us to be relaxed for our special occasion!",
+        "So we booked a body scrub, facials, mani's and pedi's for both!  Honestly we can't say enough about the service, the smiles, the champagne with cupcakes between services!  We both can't wait to go back!",
+        "Special thanks to Sarah Kennedy, Grace, Mimoza, Antonia, Noemi,Yvonne & Matthew!",
+        "Thank you all for making our day so special!",
+        "Sincerely, ",
+        "Jeff & Bingmay"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Couples"
+    },
+    {
+      "title": "STRANGE EXPERIENCE WITH A MASSAGE THERAPIST",
+      "text": [
+        "I went just two weeks ago for a couples massage with my husband. The first 45min of the hour massage were fine (other then my male massage therapist massaged my arms and legs as well as my back and neck, when on the form I had filled out I had requested that only my back, shoulders and neck be massaged) but the last 15min became a bit strange. He got me to turn over on my back and started to massage my neck and around my ears. He then began massaging my earlobes and then all of a sudden stuck his fingers right inside my ears and quite aggressively shook them in there (that's the best way I know how to explain it). It happened somewhat fast, so it was over before I could say anything, and to be honest I was just kind of stunned. He then started to massage my head, but again quite aggressively. I've had therapists massage my head before, but this was way more intense then I ever experienced and I definitely have never had someone put there fingers right into my ears. The whole experience left me feeling a bit weirded out. I wasn't sure if that was some type of new massage, and even if it was, I felt like I should of been asked if that was something I would like to have done to me before he actually put his fingers right in my ears. Anyways, I've called the spa today and I'm just waiting for a manager to call me back so I can inquire about why I was massaged like that. Either way, I don't think I will return. The massages there are quite expensive, so I don't think I would pay that much money again for that weird experience. Also, I asked my husband after if anything like that happened to him and it didn't, his therapist didn't go anywhere near his ears or head. Needless to say, for a couples massage my husband and I had very different experiences."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2016 • Couples"
+    },
+    {
+      "title": "Just ok",
+      "text": [
+        "Very over priced and average, for such an expensive massage I would expect nice juices and some refreshing snacks with a bit of organic and natural flavor from a local bakery. Maybe a jasmine tea even. The massage was good but not what I was expecting. They should also have complimentary parking which they did not. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2015"
+    },
+    {
+      "title": "enjoyed facials with my sisters for girls weekend",
+      "text": [
+        "We all enjoyed facials & all of the spa facilities including a glass of prosecco at the end.Great service"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2016"
+    },
+    {
+      "title": "Average, No WOW factor",
+      "text": [
+        "I had expected a bit more from the Stillwater Spa. Upon entering I had high hopes. The changing room lockers were so close to one another 2 people could not use their lockers comfortably at the same time. The lotions, shower gels, shampoos/conditioner were sub par. The hot tub was a bit dirty and not hot. The showers were good size but.... not enough hooks to hang robes when multiple guests are in shower area. There is a very nice relaxation area where you can wait prior to a service. Lots of infused waters, great selection of teas, and homemade Biscottis. But.... nothing to read. 2 magazines for the entire room. No newspapers, nothing. For my spa service I chose a facial. The products they used did nothing for me. I honestly felt like I paid for an expensive washing of my face. In Toronto there are probably many spas to choose from. I chose this out of convenience because I was a guest in the hotel and my experience in the hotel had been wonderful. I'd say if you have a choice take a pass!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2016"
+    },
+    {
+      "title": "Massage was excellent...",
+      "text": [
+        "Staff very friendly,massage was excellent.  Hot tub was very dirty,we got in and out very quickly, I took towel and wiped it took to front desk manager  thanked me for telling her but that was it.... no hot tub experience.  Overall does not feel that clean.  Also while in lounge area staff member brushing floor around us not something that should be done.."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2015 • Friends"
+    },
+    {
+      "title": "Perfect Girls Trip!",
+      "text": [
+        "Wonderful team of professionals , had a facial and massage both Perfect! Lovely whirlpool, showers are amazing great locker room area with seats that are very relaxing ! Serves tea, flavored waters everything is wonderful ",
+        "Don't miss seeing the gorgeous fish tank"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2015 • Friends"
+    },
+    {
+      "title": "Thumbs Down for Prenatal Massage",
+      "text": [
+        "Decided to splurge on a prenatal massage at nearly 6 months pregnant. ",
+        "No one at Stillwater asked about my size or how far along I was, not when I booked, not when I got to the spa. When I entered the massage room, the therapist said she didn't know how big I would be so she just set up the largest pillow. She seemed to be explaining this or apologizing and I would soon find out why. ",
+        "I am a small person to begin with and had a pretty small belly at the time too. The special prenatal massage pillow that is used is supposed to contour to the body and support so a pregnant woman can lie belly down. But, the one used here was massive.  I spent the next hour supporting myself on my knees and elbows terrified to lie down and crush my bump. An hour practically in plank! I was so relieved to flip over.  ",
+        "I didn't even realize how bad the experience was until my friend took me to another spa where they had set up everything properly. (I discovered prenatal massage should not mean supporting yourself on all fours for the appointment!) ",
+        "Stillwater is supposed to be one of the best in the city, but was a real disappointment this time. ",
+        "To be fair I have been there twice before though, and those times the place was great. Thinking about complaining but wonder if it is too late. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2015 • Solo"
+    },
+    {
+      "title": "An excellent experience",
+      "text": [
+        "Today I had my second visit to the spa for a colour and cut with Ian.  I love this spa!  The front desk staff are super friendly, and the service is top notch, and everything runs on time.  Ian definitely understands how to cut a person's hair to best suit their lifestyle and hair type.  My previous cut lasted over 8 weeks and still was looking pretty good - I could have held out for another couple of weeks but my roots were definitely needing some attention.  Ian is a super pleasant and professional stylist and makes the whole experience very relaxing.  I have already confirmed my next appointment and definitely need to come back for some other more spa-like services.  I highly recommend the Stillwater."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Solo"
+    },
+    {
+      "title": "Milk and Honey Body Wrap",
+      "text": [
+        "Excellent. Treat Yourself. My skin feels so good and looks like it used to 20 years ago....even after a week! The spa is wonderful. Great people. I want to go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Business"
+    },
+    {
+      "title": "Good for specialized services",
+      "text": [
+        "It's a nice spa if you like spending half your day here, but I don't have that kind of time, so I only come here for waxing services. I've never had any issues with waxing here, no in-growns, and not as painful as other places I've gone.  You will, however, pay quite a bit more than other spas. The staff are a little aloof and even borderline snooty, but for myself, being an in and out customer, I could care less."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016"
+    },
+    {
+      "title": "Relaxing way to treat yourself",
+      "text": [
+        "Spending a day or afternoon at Stillwater can be a relaxing way to de-stress. I booked a facial on a whim on the long weekend. The decor is stunning with water installations befitting Stillwater's name and the atmosphere was very welcoming. The locker rooms are well appointed with a steam room, jacuzzi and dry sauna. I enjoyed both the steam room and dry sauna before my treatment. I have to say though that the eucalyptus was very weak, and think the steam room may need some maintenance, as it took 5-10 minutes before the steam actually kicked in. Once the steam did kick in, the experience was a wonderful way to detox before my treatment. Note: The subway is a bit loud and will rattle periodically for 10-15 seconds. ",
+        "After enjoying the amenities, I headed to the Tea Lounge to await my treatment. The Lounge is also well stocked with teas, coffee, fruit-flavoured waters as well as treats like biscotti. ",
+        "I thoroughly enjoyed my Essential Facial and thought the hour was very relaxing and thorough. My only criticism would be that it was a bit hard for me to understand and process what my spa attendant was saying sometimes, as her English was heavily accented. I would have loved a bit of a walk-through on the products that were used and/or what stages we were going through (e.g. scrub with XX, exfoliation, etc.). I also found it a bit intrusive that she inquired about my age. I don't think this was to tailor my treatment, but more so being curious and borderline nosey. I responded and said mid-20s and she said I looked, \"So young like 18\". Despite that comment in the beginning, overall the facial was enjoyable and left my face smooth and soft for the next work week ahead. I'd be interested in coming back and trying other services."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Solo"
+    },
+    {
+      "title": "Excellent indulgence!!",
+      "text": [
+        "Stillwater is a fabulous spa, with bubbling water and calm earthy toned marble floors and walls.  My husband and I enjoyed a day to ourselves last weekend there, with each of us enjoying a massage, and then a facial for me.  Both services were divine. Another lovely bonus is that if you are staying at the attached Park Hyatt Hotel, and have booked a service, you are permitted to return to the Spa during your stay to use the facilities.  Though you need to bring a bathing suit for the jacuzzi and pool, bathrobes, flip flops, and all amenities are provided, including lunch should you choose to book that also.  I have two comments to share however...in certain rooms you can hear the subway underneath, and the showers are in need of some lighting repairs from all the moisture. Eucalyptus filled steamer is so divine, and the sauna was wonderful also.  One could easily spend an entire day there."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2016 • Couples"
+    },
+    {
+      "title": "Perfect from beginning to end",
+      "text": [
+        "My wife and I went here for a massage but stayed even longer to enjoy the sauna's and jacuzzi.  We had a great time, the staff were super friendly and the tea lounge you wait in was very welcoming.  The change rooms were excellent and lockers and robes are provided for your visit.  It was our first visit to this spa but based on our experience we will be returning."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Couples"
+    },
+    {
+      "title": "Serene experience!",
+      "text": [
+        "My girlfriends and I love going to spas and consider ourselves connoisseurs.  I have traveled to many spas all over the world and thought of how great it would be to share my experiences.",
+        "Stillwater had great spa facilities. I enjoy going to a spa pretty well a couple of times a month, sometimes I will just go for a massage and at other times indulge in a body treatment or foot treatment. ",
+        "We had a great experience here.  We were greeted to a wonderful relaxing waterfall which felt like we were about to enter a place of tranquility. The lounge was relaxing and the decor very serene and beautiful.  A great selection of teas and fresh fruit. Staff was friendly and attentive.",
+        "We were given robes and luxury towels in our lockers which is a nice touch and wonderful Okabashi flip flops to walk around in were also given to us were very comfy.",
+        "We then had use of the steam, sauna and whirlpool which was a nice way to unwind before our services.  Both of our services were good but not great  My girlfriend had a Reiki session which she said was okay and a facial which she loved. My massage was a bit too firm for my liking as I prefer a relaxing massage, the therapist did adjust, but was definitely trained for more, they did listen to my request for a lighter massage so it turned out okay. Perhaps some training in the art of relaxation not therapy would help. ",
+        "We relaxed a bit longer after our treatments and then left. Overall I would go back for the location, but for a facial next time as I prefer a more wellness holistic approach to my spa experience. 7/10"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016 • Friends"
+    },
+    {
+      "title": "Disappointing",
+      "text": [
+        "Well, i'm shocked to report that I had the worst swedish massage i've ever experienced and upon conveying this information, no one has bothered to inquire about my concerns.  I swear that the massage therapist learned the technique on youtube.  and there was little regard the tightness in my calves or upper back.  the spa is getting a little tired as obviously as the quality of service."
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2016 • Solo"
+    },
+    {
+      "title": "Great manicure experience",
+      "text": [
+        "I went here with my boyfriend to get a birthday mani and it was super nice! For what you get it is really worth it- you get a massage and a paraffin wax on your hands. Other perks: you get to use the steam and hottub in the change rooms and the tea lounge. The best part about it were the women that work there! Our manis were done by Noemi and Sarah and we had a blast with them, they were professional and at the same time warm and friendly. We felt very well taken care of. Overall, the great service made the experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Couples"
+    },
+    {
+      "title": "Very nice, but a few touches missing",
+      "text": [
+        "We had a lovely dual massage in a room with two massage tables, and a private Jacuzzi for two, with underwater lighting that you can control with many colours.  It was lovely and we had two excellent masseuses. ",
+        "However, there were a few touches missing to make this absolutely top class. The receptionist on the ground floor asked why we were there. When we said we wanted to go to the spa, she made us wait behind two other customers until she told us we had to go downstairs. Really . . .",
+        "The change area was very tight, with hardly space to turn around. We also took the opportunity before our massage to hit the gym, which was rather lightly equipped.",
+        "So, lovely but leaves something to be desired."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2016 • Couples"
+    },
+    {
+      "title": "Very relaxing",
+      "text": [
+        "I went this weekend for a massage and to relax away from the craziness of life. The Stillwater completely delivered. The actual spa is very well laid out and the amenities are lovely. My massage therapist listened to where I was experiencing pain and he ensured to focus on that area. It is definitely on the high end of pricing, but worth it with the extra amenities like the tea room, hot tub, sauna, showers and relaxing area in the change room."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Friends"
+    },
+    {
+      "title": "My favourite spa",
+      "text": [
+        "I always enjoy Stillwater, the service, facilities, etc. The only improvement would be to emphasize to costumers that they need to shower before using the jacuzzi, specially after using the steam room. Also, some ladies can be quiet loud ie, when blow drying their hair while chatting to their friends, it would be nice if they are reminded to be quieter. So, please enforce the hygiene aspect and the spa voice :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Not worth your money",
+      "text": [
+        "I was very much looking forward to a relaxing evening at the spa and booked myself for a pedicure. The lounge itself is quite nice and the change rooms are okay - not the nicest products but it is fine. For my pedicure, the lady was extremely nice but it was the worst pedicure I have ever had. She didn't do it properly at all. When I looked at my feet after the pedicure, I noticed that my heels were still quite dry. Also during the pedicure, she did not massage the scrub in or the lotion in (which are my favourite parts). She then put the paraffin on and left me for what seemed like over 15 minutes. The paraffin had definitely gone cold by then. I would not go back here again for any service."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2017 • Solo"
+    },
+    {
+      "title": "Expected More...",
+      "text": [
+        "This spa holds a special place in my family's heart for certain reasons; I have been twice myself.  Both times I did a a mani and pedi.  My first trip was January 2016 for my 30th birthday and celebrating my pregnancy.  I was disappointed in the pedicure, as I watched my husband receive a great foot and leg massage, I was already moved onto the next step.  This past weekend my husband booked another mani and pedi for myself and his sister to celebrate our birthdays.  He mentioned the massage issue at the time of booking.  I received a better massage this time but it was very light and still shorter than the person beside me.  I believe with the prices being charged for these services; they should exceed expectations.  I also wish the staff would request that all guests respect others and keep a quiet atmosphere.  This past trip there was a very loud group of ladies who disrupted the change room and the waiting lounge.  It really takes away from the point of being there...relaxing! ",
+        "Overall it is a nice place, and I like that they encourage you to stay or come early and use all of the facilities; gym, sauna, hot tub, showers, lounge beds in change room.  The robes are wonderfully comfortable.  The sandals they provide are a bit heavy and a little dangerous to walk in when feet a slippery after a pedicure.  They may want to rethink these.",
+        "I believe next time I will try different services to see if my experience is any better/different.  If you do book, be sure to have breakfast at the hotel restaurant and give yourself the day to enjoy all of the facilities.  This helps to offset the higher prices you are paying."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2017 • Friends"
+    },
+    {
+      "title": "Terrible massage",
+      "text": [
+        "My husband booked a surprise night away at the Hyatt for my 40th birthday, and then a massage & facial for me the following day.  I've been to lots of high-end spas, and have regular massages, but I was astounded at the amateur they gave me for my massage.  She didn't seem to know what she was doing, felt like I was her first client ever, and when she asked if I wanted more pressure and I said yes, she didn't make any changes.  I was so unbelievably disappointed - for me, and for my husband who was trying to do something nice for me.  At $150 per massage, it is laughable that they would employ someone like this, and not charge a huge discount for a new person or something.  I even emailed afterwards and never heard back.  I will never go back to this spa, would prefer the Elmwood or Nouvelle Maria in the King Edward hotel.  At least they are worth the high $$ amount you pay."
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2016 • Couples"
+    },
+    {
+      "title": "Awful, Irritating experience at Stillwater Spa",
+      "text": [
+        "I was very much looking forward to getting a massage at Stillwater Spa this past weekend. As one of the older spas in the city, I have heard good things throughout the years so my hopes were set high!! Having been to some of the best spas in Toronto- for ex. the Four Seasons, I was very much looking forward to being pampered with all of the bells and whistles that one would expect when spending a lot of money on a massage. Firstly, I found the spa to be a bit dated. The entire spa could definitely use an update. Another observation was how busy the wait room was while waiting for the massage. It was filled with men and women and I wasn't able to get a seat (side note- I think it's nicer to have a little more privacy with women only wait rooms). What really set me off though was 10 minutes into the massage when I heard a loud rumble beneath me- I felt the vibrations right through my body. I was confused at first- unsure why I was continuously shaking and then it occurred to me- this sounds like a subway right beneath the room. HOW ANNOYING!!! I no longer was able to concentrate on the actual massage (which could have been a good massage) but all I kept focusing on was the vibrations and loud noise of the subway. To be honest, I was seriously looking forward to the massage to be done. It was completely irritating and an uncomfortable experience. I would absolutely never recommend this spa to anyone. If you are looking for a wonderful, peaceful and relaxing experience- this is NOT the place to be. When I called to express my concerns the following day, I spoke with the spa director who was not empathetic at all. She basically just said \"yes we are above the subway and it is completely out of our control. What would you like me to do? Call the TTC and tell them to stop??\" It was completely unprofessional and rude. She also tried to make me feel like I was lying as she made a point to tell me that the subway was not running on the day I was there. It literally made no sense at all since I physically FELT AND HEARD THE SUBWAY BENEATH ME. Maybe they were doing maintenance, who knows? But it definitely was running one way or the other throughout my massage and I would imagine this happens regularly...And regardless, as a manager or \"spa director\", you should never make a client feel less than. This poor customer service was the tip of the iceberg for me....Do yourself a favour and AVOID STILLWATER SPA."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2016 • Solo"
+    },
+    {
+      "title": "Time for a reno",
+      "text": [
+        "I went for a massage after a long tough week at work.  Was looking forward to a nice relaxing end to my week.  It had been about three years since visiting Stillwater and unfortunately nothing had been updated since my previous visit but plenty started to show its wear.  ",
+        "The men's changing area is clean and comfortable but the hot tub jets barely worked. I spoke with the attendant and he said they are low because some people have high blood pressure or something.  But the jets basically just move the water around and provide no pressure whatsoever.  2 of the 4 showers didn't produce hot water.  The steam room and sauna are small so anymore than two people inside them is quite uncomfortable. ",
+        "The massage itself was mediocre at best.  more like an oily rubdown.  Not the deep tissue I was hoping for.  ",
+        "Overall it was still a relaxing experience and I was happy with that but for the price of a treatment at Stillwater, it's not really that worth it compared to other high end spas like the Four Seasons and Shangri-la."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2016 • Solo"
+    },
+    {
+      "title": "Great!",
+      "text": [
+        "Full body massage was excellent, it left me very relaxed. Probably one of the best massages I have ever had. Wish I could remember the masseuse's. I also eat lunch there as well. I ordered a veggie wrap which was pretty good. Other amenities like steam room, sauna and whirlpool were a nice touch and well kept. Staff was friendly and hospitable. I will definitely be going back."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016 • Solo"
+    },
+    {
+      "title": "Lovely!",
+      "text": [
+        "I was recently there for a girls day out and was impressed by the beautiful and relaxing decor. We all loved our services, my sister especially enjoyed her facial with Sarah and I felt absolutely pampered by fantastic massage with Elise. We will definitely be back again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016"
+    },
+    {
+      "title": "Swedish massage disappointment",
+      "text": [
+        "Was a little disappointed with the customer service.  I was there 30min prior to massage (as requested) but ended up having to wait an hour since the RMT was 30min late.  No apology, credit or complimentary service either.  My massage was mediocre and I had to request a few times for more pressure as it felt weak.  Not sure I'd come back in the future."
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2016 • Solo"
+    },
+    {
+      "title": "Girls day",
+      "text": [
+        "My friend and I went to Stillwater just for a relaxing day. Not only was the environment beautiful  and relaxing but our treatments  were amazing!  I had a massage with Erica. She was super friendly  and professional. She even took the time to show me stretches and exercises after the treatment😊. My friend saw Jodi  and was very pleased as well. I definitely recommend this spa and these two girls. P.S. the biscotti is amazing 😉. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Friends"
+    }
+  ]
+}

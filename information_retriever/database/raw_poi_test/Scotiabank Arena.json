@@ -1,0 +1,375 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Scotiabank Arena",
+    "url": "/Attraction_Review-g155019-d184955-Reviews-Scotiabank_Arena-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "40 Bay Street At Lakeshore Blvd.",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 2X2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 1800
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/5c/a1/ad/photo1jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Arenas & Stadiums"
+  ],
+  "description": "Scotiabank Arena is Canada’s premier sports and entertainment venue and home to the NHL’s Toronto Maple Leafs, NBA’s Toronto Raptors and the NLL’s Toronto Rock. Owned and operated by MLSE, Scotiabank Arena opened its doors in February 1999 and has been recognized with more than 40 industry awards highlighting the venue’s security, accessibility, fan service, environmental commitment, sales and box office service. It has also hosted over 39 million fans at over 2,600 events.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great NHL game!",
+      "text": [
+        "We bought tickets to see the Toronto Maple Leafs play in the NHL . Loved the experience, massive arena. Easy to navigate, walked from our accommodation in Peter St.",
+        "Must go to a show or game at the arena!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Weezer saves the SBA!",
+      "text": [
+        "The Weezer show was excellent, the show that was put on by the band made the venue that is under renovations more tolerable.  The sound was excellent, not too overpowering.  It was disappointing that the $12 collector cup from last years (lack of) playoff run did not come with a refill.  The crowded concourses were also frustrating to maneuver around.  When you have a lack of merchandise tables available, you are missing a half hour at least of time to watch the show.  That’s really unacceptable.  Weezer’s Journey to the Blue Planet salvaged the experience, it made the night special despite the shortcomings of the under construction SBA!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "ELO at Scotiabank Arena",
+      "text": [
+        "First time in this venue in years. Came down for a concert. Building was being renovated in some places prior to NHL/NBA seasons starting so there was some constricted passageways. Smooth entry and a sensible, orderly system for buying concert souvenirs. Site lines and acoustics were good for a venue this size."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Nice",
+      "text": [
+        "We were there for the Pink concert and had a blast. The entry was quick and easy, seats were comfortable but like any other large arena, the concessions stands were way overpriced."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Scotiabank Arena",
+      "text": [
+        "I went to Scotiabank Arena during the NHL All Star Weekend and had a fantastic time! Scotiabank Arena is a beautiful venue. It has delicious food and helpful staff."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "Hockey in Canada",
+      "text": [
+        "Excellent venue for watching Maple Leaf’s hockey. Located centrally downtown, close to many attractions, restaurants, and shops. The area itself is very vibrant, friendly, and safe."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Large indoor arena",
+      "text": [
+        "This a a large indoor arena being home to different Toronto sports teams. Can be accessed directly from Union station. Good atmosphere seeing all the fans of the Maple leafs waiting to go."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "Best Way to Watch the Game",
+      "text": [
+        "The Best way to watch the Raptors game. The atmosphere that the fans brought makes it an unparalleled experience. There was a broad selection of food. Had a wonderful time despite the loss."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "Amazing Poutine!",
+      "text": [
+        "I'll start this by saying its my least favorite rink or concert venue.  My list is too long to get into here.  But this is a food review.  This year they added some new food choices and I found the Poutinerie up on the 300 level to be amazing.  The Triple Bacon Poutine is to die for.  It is actually worth the price they charge for it and its a complete meal.  It's so good I even attended a second game just to get it again.  ",
+        "If you attend any event here, you have to try this!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2024 • Family"
+    },
+    {
+      "title": "Depeche Mode in Toronto!",
+      "text": [
+        "Went up to see Depeche Mode what a great concert at a great venue ! We didn’t have the greatest seats, or so I thought, but when we got there we were sides stage, and had an amazing view!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Family"
+    },
+    {
+      "title": "GO RAPTORS and GO MAPLE LEAFS.",
+      "text": [
+        "I've always dreamed of going to see either a Raptors game or a Leafs game. I really like to how awesome this place looks. Nothing to dislike about this place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Raptors Raptors Yahoo!",
+      "text": [
+        "We saw 2 games of the raptors back in April 2022. Loved the facility, food, and staff.  I even got a pick with the dancers. Would go to a game all the time if we weren’t from Alberta. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Meh",
+      "text": [
+        "We went there to watch a Raptors game. A few days before the game we got an email about their bag policy and how they will charge you $20 to store your purse if it’s bigger than 6.5”x4.5”.  So we only carried our phones and put our credit cards in our pockets. We get to the arena and there were people with big purses and backpacks!!  Great bag policy enforcement….not!",
+        "Signage at the arena was also stupidly confusing.  "
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "FALSELY ACCUSED AND REMOVED FROM PREMISES DUE TO AN EMPLOYEE",
+      "text": [
+        "I attended a Raptors game tonight at the Scotiabank arena and paid lots of money for excellent seats, when I was rudely and falsely accused of vaping inside the arena multiple times. The seat attendant in the photo attached to this review screamed at me to stop and subsequently got her manager to escort us out of the arena. The people BEHIND me were vaping, and the person beside me vaped ONCE and I feel as though this is extremely unfair seeing as though I did nothing wrong. This woman stared at us throughout the entire game and made everyone feel extremely uncomfortable."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2022 • Friends"
+    },
+    {
+      "title": "hockey game",
+      "text": [
+        "We watched the toronto maple leafs versus vegas knights at the scotia bank centre.",
+        "Loved the statues of the hockey players , amazing "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "A good venue",
+      "text": [
+        "I've been to both sporting and concert events and was pleased with both.  As expected it's very expensive,  Save it for something you really want to see."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Huge place",
+      "text": [
+        "Saw a performance by the Eagles.  LOTS and LOTS of people.  Very crowded.  Kind of narrow seats. Nice to have a drink holder at each seat."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Delayed entry - missed part of concert",
+      "text": [
+        "Re: Eagles Concert Sept 10, 2022",
+        "Scotiabank Arena reassigned seats / tickets, ON THE SPOT, JUST PRIOR TO ENTRY, for a very large group of audience. This caused a severe congestion, and entry to the arena was delayed for many, many people.",
+        "At no fault of our own, we were forced to miss the first 2 songs, including Hotel California.",
+        "Appalling and disappointing experience. Good band, bad venue."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Couples"
+    },
+    {
+      "title": "Terrible sound in 300 sections",
+      "text": [
+        "Attended Due Lipa's concert today and was disappointed with the sound quality here. It's like the speakers weren't working in this section at all, didn't really \"feel\" the music and couldn't understand much of her vocals either."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Good to see concert, not great to get service",
+      "text": [
+        "The venue is great to hear and/see a concert.  The line ups to get served are extremely long and take most of the events time to get served.  During event many of the serving stations are not open."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "The Force tour",
+      "text": [
+        "Fantastic venue . Everything is insanely expensive but it is what it is .",
+        " Sound system was phenomenal. ",
+        " Staff extremely helpful and several recognized me from previous events. We go alot..",
+        "Bathrooms were very accessible"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Ricky Gervais at the Scotiabank Arena was just okay",
+      "text": [
+        "Maybe it was the big, impersonal venue or there was too much stuff I found annoying--politics was not a factor. I've been waiting almost 3 years to see him. There were about three belly laughing jokes that I wish were extended so I could have laughed more. Now the unfunny things: I felt like I was at the rehearsal of his Netflix series. I know comedians are always trying out jokes and refining them... but don't tell me that's what you're doing--own them! Then there was this constant dialogue with the Gervais haters. and I don't keep up with all that crap, so why subject me to this dialogue, don't waste my 90 min show time with that. And lastly, don't tell me about your very rich person problems, like I'm a big shot too, who will commiserate with you, I'm not.  I'm still a fan but unless you do a smaller venue some time in my lifetime, I'll watch you on a screen."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Beware of Scotiabank Arena ",
+      "text": [
+        "The 100s level has no railings, so if you can any kind of mobility issue, it can be a challenge.  Accessible seating is somewhat limited.  Even 100 level seats can be somewhat tight and uncomfortable if you are a taller and/or larger person.  Beware if they only have a few seats on sale in a section.  It means that the promoter and/or Scotiabank are going to upgrade people who paid way less than you did for your tickets and you won't be happy.  This is true especially if those upgraded stand up in front of you and block your view.  I don't find Scotiabank to be a comfortable venue.  Plus, the concessions are overpriced....like almost $8.00 for a pop.  "
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "Great venue for a fabulous concert",
+      "text": [
+        "We were here to see Stevie Nicks in concert. Found the lay out very easy to navigate with lots of places to buy merchandise and refreshments.  There are lots of bathrooms as well. The staff were friendly and helpful. We had seats on the floor so I cannot speak to the comfort of the regular seating, but the temporary ones they lay on the floor were fine."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Awesome",
+      "text": [
+        "I went there for both an NBA game and a concert. Both worthy. Nice space, well organized and cool layout."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Hmmmm",
+      "text": [
+        "So this is the epicenter of pro hockey, the arena was odd lets just say.  There are only two big decks so you would think the concourses would be wide, not the case, you are really crammed in there.  I did get a foot long hot dog and a nice blend of peppers was available at the condiment bar so that was good.  Beer prices are what they are at pro venues so there is no point in complaining about that.  We sat in the upper deck under an overhang of luxury suites that hang down from the roof which didnt hamper our view of the ice but it made it so you couldnt sit there and see the whole arena, also the sections are wide so there will be up to 30 seats in a row.  This place is OK but for it being the arena for THE team in Canada it was kind of a disappointment.  On a positive note it is literally connected to the downtown commuter, long distance and  subway trains station so you dont even need to drive there, the GO train in from Oakville took about 40 mins."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Go Raptors!",
+      "text": [
+        "This was our first time , we were here to watch the Raptors play. The arena had a great selection of food, it was easy to navigate the arena. Overall we had a great time watching the game."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Almost a 1/2 hour wait to use Restroom",
+      "text": [
+        "The game was great. A 25 minute wait to use a restroom is inappropriate.  Also the restrooms are not clean due to the usage. If there was a fire, it is hard to believe that this facility meets safety obligations. The price of snacks and alcohol is price gouging. Otherwise the environment is great!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "What a game!",
+      "text": [
+        "My second time here in 6 months. I was here in November for the Legends game for Daniel Alfredsson’s Hall of Fame induction. That time was perfect.",
+        "This time was for my first Raptors game. My son and I had a great time. We were in section 323 in the last row. Yes it is far up there. I tried to change my tickets because I received an email from the Raptors on game day that new tickets were released. When contacting Ticketmaster , it could not be done due to 24 hour time frame. So confused, as I was willing to pay an extra 600 dollars for the upgrade. Not to mention once the game started there was so many empty seats in the 100 level.",
+        "During the game way too many people were lost and blocking the aisle and ruining our view from the last row in 323. No staff said anything until the end of the game when we were told to leave shortly after the game ended. Not to mention upon arrival for the game at gate 1 there was an employee screaming at everyone with a microphone to go up the stairs to another line.",
+        "Overall we had a great time during the game. There was a tv on the wall to see game moments.",
+        "I downloaded the Raptors app to have some food delivered to our seat. That was awesome and quick!",
+        "The show and game was incredible! Food service and merchandise shop staff were awesome too!",
+        "Go Raptors!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2023 • Family"
+    },
+    {
+      "title": "Birthday Game!!",
+      "text": [
+        "Good place to watch Hockey. Lots of drink and food options. Went for Birthday. Too bad they didn't have my name on the jumbotron as requested."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Raptors Nation Fans",
+      "text": [
+        "We saw the Raptors play against the Bulls one night and Heat the next night. It was an amazing experience. Flawless and organized security check and lineups were fast flowing. We were there an hour early to watch warmups which probably helped.  We were seated 10th row centre court which gave us a perfect experience. The scan and delivery of food and snacks option is neat also.  Go check out a game if you’re in Toronto!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "I had a very bad experience with security service, unbelievable behavior",
+      "text": [
+        "I went to enrique ricky pitbull concert in scotiabank arena downtown toronto, the security service were very rude and unprofessional and didn’t let us enjoy, their behavior were like we are criminals instead of fans."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "All Stars",
+      "text": [
+        "We went for the All Stars game ",
+        " Had a fabulous time!!! Our seats were great! It is cashless,  it would have been nice to be able to use cash"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "Must do if visiting!",
+      "text": [
+        "Definitely a must do if there is a Maple Leafs game on!",
+        "I’m a visitor from UK and know nothing about Ice Hockey but I even found myself getting into the game.",
+        "Few food and drinks stalls.",
+        "Food is expensive but not as bad as I see people say on here.",
+        "Annoyingly they make you stand completely outside until “doors” which isn’t fun when it’s winter.",
+        "Unlike example: o2 Arena in London you can go inside to go to food stalls etc before “doors”."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2024 • Couples"
+    },
+    {
+      "title": "Great arena, cramped and poor traffic flow",
+      "text": [
+        "As part of my NHL arenas travel I found myself at Scotiabank Arena, home of the Toronto Maple Leafs. Firstly, if you’re going to the game, don’t enter in the long line on Bremner Blvd, head into the side entrance on the left and the inside line goes through security much quicker. After we headed inside we checked out the team store. There is nobody there for crowd control so it is wall to wall people so that you can’t comfortably shop or move around freely. Decent selection of items though and pretty standard fare. There is a store directly across the street from Scotiabank that offered more items at a discount, and even all other teams items as well. ",
+        "The food here was just ok. I got a grilled cheese, loaded nacho, and slice of pizza and none of them were particularly great. ",
+        "We sat in section 323. While the seats are not particularly big person friendly, the view wasn’t bad and they had a pole running along the front to make it easier for people to stand up, which was a nice touch. ",
+        "Pro tip - they sold certified warmup pucks with a COA in a case at the little stand outside the section at the end of the second period! $50 CAD. ",
+        "If you’re getting food or going to the bathroom you should do it just before the period starts or just before it ends to avoid the herd coming at you in the halls during intermission.",
+        "All in all a good environment and surrounding area is quite safe as well. Solid 4/5."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2023 • Couples"
+    },
+    {
+      "title": "Go Leafs Go!",
+      "text": [
+        "A fabulous and electric atmosphere, watching the Maple Leafs! The service, the fans, the arena entertainment were amazing. We came in from Edmonton and was the perfect trip for the family. Go Leafs Go!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "Great arena, always a fun time, never any issues",
+      "text": [
+        "It’s kinda rare that I’m able to go to a Leafs game or concert here, but when I do I always have a good time and have never had any major issues! I’ve been to a few NHL arenas now though and can say that it’s definitely not the best ice, and always a shame that most of the seats for Leafs games are taken up by rich, greedy, corporate businessmen, while the true fans are either in the nosebleeds or watching the game outside in Maple Leaf Square. I do love having the option of watching the game for free with the rest of the die hard on the street….even though I was present for the notorious game 7 against Boston!!! So much passion here though, I love attending a game or concert here. One tip, DEFINITELY book dinner beforehand at RealSports….trust me. RealSports is right by Maple Leaf Square, and it’s so amazing in there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Couples"
+    },
+    {
+      "title": "WORTH A VISIT",
+      "text": [
+        "The game was good. We got front-row seats. They had minimum service. It was still a good and fun day for the family. We won 126-112"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2023 • Family"
+    },
+    {
+      "title": "Concert Experience",
+      "text": [
+        "went to see Duran Duran there and the site lines are great but the food and drink s ridiculously expensive.  2 Burgers - which were very good however - and 2 large beers was $88.   Would be nicer if the prices were a little more reasonable."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Good location",
+      "text": [
+        "Good location. This place is conveniently located at the heart of Toronto, right next to subway station. If you are a basketball or hockey fan, you may want to check out this place."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    }
+  ]
+}

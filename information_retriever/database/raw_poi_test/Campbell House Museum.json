@@ -1,0 +1,335 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Campbell House Museum",
+    "url": "/Attraction_Review-g155019-d184785-Reviews-Campbell_House_Museum-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "160 Queen St W (at University Ave.)",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5H 3H3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 41
+    },
+    "openingHours": [
+      "Tu-Fr 09:30-16:30",
+      "Sa-Su 12:00-16:30"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/6e/5d/8a/das-gebaude-von-aussen.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "History Museums"
+  ],
+  "description": "A rare example of Georgian architecture, this museum is the restored home of the first Chief Justice of Upper Canada.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Oldest Town of York Building",
+      "text": [
+        "Campbell house museum was originally built by Upper Canada Chief Justice Sir William Campbell around 1822 it is reportedly the oldest surviving house from the old town of York (Toronto's early name), it was moved from it's original site to it's current location in 1972, worth a visit for the architecture and history."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "Campbell House Museum: A Hidden Gem in the Heart of the City",
+      "text": [
+        "We went to see a special presentation at Campbell House Museum called ‘ Place Settings: Exploring Food and Status in 1820’s York’. Which runs until June 1. The entire experience was thoroughly worthwhile as it combined the traditional items that adorn the house along with a variety of artifacts and information boards that are specific to this presentation put on by the University of Toronto Museum Studies Graduate Program. We learned a lot, not only about old Toronto but food history also. We were there for over an hour and could have stayed longer as there was much to take in."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Couples"
+    },
+    {
+      "title": "Not a fan of museum-house-meets-contemporary-art",
+      "text": [
+        "This was second on our list for day 1 of Doors Open Toronto weekend (May 28-29). We got here after lunch and the lineup had already reached past the gates and about halfway to the corner of Queen St W and University Ave. We waited 28 mins to get inside Campbell House Museum for a self-guided tour. Staff outside the front doors told us to check out the 2 ground floor rooms first then head upstairs and finally let ourselves out at the back.",
+        "I initially thought that Campbell House Museum would be like other historic houses--such as the restored Mackenzie House also in downtown Toronto--that provide a snapshot of life in the 1800s. Campbell House has the distinction of being the oldest surviving building from the Town of York but I did not realize it was more of an exhibit space than a museum house. I was expecting an 1800s era house furnished with historic artifacts but then I started seeing contemporary art pieces here and there, which, to my untrained eye, looked entirely out of place. There was a humanoid table and what looked like melted wax frame in the dining room and a weird-looking sedan chair in the other room. I was confused at first because I had no idea what I was looking at. I obviously did not do my homework or I would have known what to expect. I did like the Town of York diorama encased in glass on the second floor landing.",
+        "I am not a big fan of museum-house-meets-contemporary-art so Campbell House lost some of its appeal to me. I believe we saw 4 rooms in all, 2 downstairs and 2 upstairs, but we actually spent more time in the queue outside than inside this place. Good thing we saved $10/person since admission was free on Doors Open day."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Lovely little museum",
+      "text": [
+        "This was a lovely little museum, and my experience was greatly enriched by the personalised tour guide. The history over the years is amazing. Unfortunately there wasn’t much furniture at the time I visited, but it is a nice place to spend about an hour or so."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Solo"
+    },
+    {
+      "title": "Full of history and nicely preserved historic place in the heart of Toronto",
+      "text": [
+        "One of the  oldest building in Toronto. Small but historical house set on one of the busiest corners of Toronto. Excellent example of houses before the large Metropolis of Toronto existed. Beautifully restored and maintained. Inside is a preserved era from the 1800s with furnishings, carpets and lighting all from the original house.Fantastic place,  amazing guide with a lot of information. A quiet place to be in one of the busiest sections of the city. Beautiful gardens.Surprised that how this house was saved from demolition and brought to a new location. Beautiful, a must see.  You will enjoy it ,"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "worth every penny",
+      "text": [
+        "For those interested in early Canadian & Toronto history this is a must stop.",
+        "The grand house was moved from its original location a few miles away back in the 1970's. Furnished fairly accurately.",
+        "Northwest corner of University Ave & Queen St. (Osgoode subway station)",
+        "$10"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "Visit to the Japanese Canadian family visit on the 50th anniversary of the day JC can move freely in Canada",
+      "text": [
+        "Interesting exhibit featuring the family who lived in the attic who was an employee of the glass factory owner who owned the building. It was moved up this prime location. It used to be a residence then it was used as an office for a glass factory. The Japanese Canadian family that lived there was an employee of the owner.",
+        "Downstairs were two art exhibits and upstairs was the curated show.",
+        "The museum curator took us on a rare tour of the attic where the family had lived."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Solo"
+    },
+    {
+      "title": "A piece of post war History",
+      "text": [
+        "We went to Campbell house to experience the beautiful Home  from the 1840s, and the history of the house as relating to the post war \"Enemy Alien\" designation of Japanese Canadians.",
+        "The Owners of the house housed and employed members of a Japanese Canadian Family displaced from their home on BC., by the Enemy Exclusion Act. ",
+        "Despite it being illegal for persons of Japanese Heritage to be in the city, Campbell House was home to a the Japanese Canadian couple raised a family and became members of the family.",
+        "Very beautiful old house with a little known story."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "War Flowers - not to be missed",
+      "text": [
+        "This travelling exhibit ends this week at Campbell House.",
+        "The crystals are only one part of it.  ",
+        "Niches feature a number of well known Canadians like Massey, Reford and McCrae.  The people chosen represent the Victorian meaning/quality of the flowers sent home from the First World War.",
+        "There are WWI artifacts, photos, films and even smells.",
+        "You could easily go through it in an hour.  You could spend more time.  The docents are quite eager to share their knowledge with you.",
+        "Go - it will touch your heart."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018 • Couples"
+    },
+    {
+      "title": "Moving and thought provoking display of War Flowers",
+      "text": [
+        "This display of War Flowers is a travelling exhibit on at this museum from Jan 24 to March 25, 2018. The show was inspired by a Canadian soldier, George  Stephen Cantilever who sent letters home to his youngest child every day he was overseas and Includeded in each letter was a flower he had picked. That is the basis of the multi sensory display. There are 10 stations, each with a handwritten letter to his daughter Celia and the accompanying flower. At each station is a picture of the flower, an explanation of its significance, and a button one can push and get the scent of the flower. Each of the stations names a Canadian who was involved in the war.  At each station is an exquisite piece of crystal with scenes of the war. The walls of the two rooms of the exhibit are draped with black cloths. On these drapes are printed the names of the 68,000 Canadian soldiers who died in WW1. One comes away reflecting on how human nature can find beauty in the most horrible of ceircumstances. Well worth an hour of your time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Family"
+    },
+    {
+      "title": "Georgian house in excellent condition.",
+      "text": [
+        "Georgian house in excellent condition. The guided tour (I think obligatory) is very good, comprehensive and interesting"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Fascinating",
+      "text": [
+        "A wonderful museum rich with the history of old Toronto. The House itself is a beautiful example of Georgian architecture, and once you step inside you definitely feel transported to a different time. The ballroom area is beautiful and I loved the historic kitchen space. The story of how the house was moved to its current location really fascinated me as well. The staff was kind, knowledgable and enthusiastic. Definitely worth a visit!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2014"
+    },
+    {
+      "title": "A Real Gem....",
+      "text": [
+        "Stumbled upon this fabulous little museum by accident and it was fascinating. So much history and our guide was well informed on the history of Toronto and Canada.  Our teenage son loved it and had great discussion with our guide. It's a guided tour only for about 45 minutes to an hour, but it really was worthwhile. ",
+        "Anyone with an interest in history should visits this small, but perfectly formed museum. ",
+        "For adults the charge is only $6, children/teens, $4."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Family"
+    },
+    {
+      "title": "A Welcoming Elegance",
+      "text": [
+        "We attended a wedding reception held here and the service couldn't have been better. From the servers to the bar staff, everyone went out of their way to make us feel welcome and at ease. The food was fresh, tasty, and nicely presented, though there were not enough places to lay items down: because of the many antiques and their desire, of course, to preserve them, we had to be mindful of the tiny signs warning us not to \"place anything here\". The location is downtown just west of city hall and within walking distance to the Eatons Centre and Union Station. The decor with its high ceilings and generous room sizes was ideal for our purposes. Large groups of 75 or more, however, may find a harder time. The bathrooms were rather grotty and tucked away into the basement. One of the guests was in need of wheelchair access, which was unavailable (\"small steps\" are NOT accessible). Luckily other guests were able to help her."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2013 • Friends"
+    },
+    {
+      "title": "In the City",
+      "text": [
+        "Check times for when this place is open.  I didn't and when I go there, it was closed.  Perhaps best to call ahead.   I did go back and enjoyed learning Toronto history that I wasn't aware of.  You will have to go there to find out because I'm not sharing.  It's not a large house so your visit won't take up an entire day, or even half a day.  You can then go to the AGO."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2012"
+    },
+    {
+      "title": "Charming gem",
+      "text": [
+        "This is a great way to learn more about the history of Toronto and what life was like in the early history of the city.  The guide was extremely knowledgeable with lots interesting facts about both Toronto history and the house itself.  If you are into small intimate museums then this is the place for you."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2012"
+    },
+    {
+      "title": "Cute Little Colonial-Like Home",
+      "text": [
+        "This home is adorable and was available for free entry during the Nuite Blanch Festival in Toronto and the Doors Open Toronto. I was able to see the house at night during the Nuite Blanch Festival. It is a short excursion (approx. 20mins) to see the entire house. It is very cute and the rooms are decorated according to the period. Any History lover would enjoy this as well as Art Lovers and Architects. The rooms are small and thus the museum is crowded but definitely worth the look see. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2011"
+    },
+    {
+      "title": "Historical Toronto",
+      "text": [
+        "Old Toronto house: shows what life was like in the 1800's, of a a certain strata of Toronto society.  (Barristers)"
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Little known spot even for locals.",
+      "text": [
+        "Osgoode hall (book a tour ) go to this place ( Campbell House before the cutbacks",
+        "and closures happen) and take in the Four Seasons Performing arts",
+        "centre. New (1969 ) city hall and Old City hall (Victorian era )",
+        "If there are any lawyers/history buffs  in your  group Osgoode tour  well worth the stop.",
+        "Everything is free or nearly free.. everything together within one block.",
+        "walk from downtown hotels."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2011"
+    },
+    {
+      "title": "\"Toronto's best - do it!\" - Friedrichshainer1034",
+      "text": [
+        "English here - Deutsch unten!",
+        "(Computer translation from German) ",
+        "\"Toronto's best - do it!\" - Friedrichshainer1034",
+        "Campbell House Toronto",
+        "Overall rating:",
+        "It is worthwhile to take some time for this unassuming building. To Toronto from times past to understand better is the Campbell House, as well as the First PostOffice Toronto country badly.",
+        "Flow and price:",
+        "At the entrance you will be welcomed and informed about it, that it is not this is a museum in the classic sense, but the house of the Bar Association. It isoffered for a donation but a guide. We have been C $ 5 per person. After the tour I took my donation really appropriate.",
+        "There are six rooms to see. Really interesting are five, the sixth is a function room of the lawyers. This is the game room, the dining room on the ground floor,the bedroom and the upstairs dance room. In the basement there is still a large kitchen to admire.",
+        "leadership:",
+        "First, a woman ran through the game room and told us all the objects in this room. Then they gave us a very young lady, her name is Bronwen, who explained to us the rest of the house. They answered our questions patientlyand had fun doing it, we explain the historical objects in their function and demonstrate. Whether it's a question of the bedpan, the candles safe or eventhe stove, she knew one or the other story that was previously unknown.",
+        "We made ​​it fun, too, thanks for that - Bronwen.",
+        "\"And the fun continues!\" ",
+        "Your Friedrichshainer1034",
+        "-----------------------------------------------------------------------------------------------------------",
+        "\"Toronto´s Bestes - tu es!\" von Friedrichshainer1034",
+        "Das Campbell House Toronto",
+        "Gesamtbewertung:",
+        "Es lohnt sich, sich etwas Zeit für dieses unscheinbare Gebäude zu nehmen. Um Toronto aus vergangener Zeit besser zu verstehen, gehört das Campbell Haus, genauso wie das Erste Post Office Toronto unbedingt dazu.",
+        "Ablauf und Preis:",
+        "Am Eingang wird man freundlich empfangen und darüber aufgeklärt, dass es sich hier nicht um eine Museum im klassischen Sinne handelt, sondern um das Haus der Anwaltsvereinigung. Es wird aber gegen eine Spende eine Führung angeboten. Wir haben pro Person 5 C$ gegeben. Nach der Führung fand ich meine Spende auch wirklich angemessen.",
+        "Es gibt sechs Räume zu sehen. Wirklich sehenswert sind fünf, der sechste ist eine Veranstaltungsraum der Anwälte. Es handelt sich um das Spielzimmer, das Eßzimmer im Erdgeschoss, das Schlafzimmer und das Tanzzimmer im ersten Stock. Im Keller gibt es dann noch eine große Küche zu bewundern.",
+        "Führung:",
+        "Zuerst führte eine Dame durch das Spielzimmer und erklärte uns alle Gegenstände in diesem Raum. Dann übergab sie uns an eine ganz junge Dame, ihr Name ist Bronwen, die uns den Rest des Hauses erklärte. Sie beantwortete unsere Fragen geduldig und hatte Spaß dabei, uns die historischen Gegenstände in ihrer Funktion zu erläutern und vorzuführen. Ob es sich nun um die Bettpfanne handelte, den Kerzensafe oder auch den Ofen, sie wußte die eine oder andere Geschichte, die uns bisher unbekannt war. ",
+        "Uns hat es auch viel Spaß gemacht, vielen Dank dafür - Bronwen.",
+        "\"Und der Spass geht weiter!\"",
+        "Euer Friedrichshainer1034"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fun tour of one of Toronto's oldest homes",
+      "text": [
+        "The Campbell House is on Queen Street and is a very short walk to Nathan Phillips Square where the Old and New City hall buildings are located which makes visiting all these places in short order. The Campbell name comes from its first owner who was a prominent justice in early Toronto. To gain entrance and have a tour guide we only had to give a donation. it's one of the very oldest homes in Toronto having been built in the first half of the 1800s and was built in a typical Georgian style. It's original location was a few blocks from here and it was moved in recent years to its present location. The very good tour took you through several rooms that was filled with period piece furnishings. One room had a temporary art exhibit. One of the most interesting rooms was the basement where the kitchen was located. If you enjoy visiting old homes then this one is quite good."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2011"
+    },
+    {
+      "title": "check before you go!",
+      "text": [
+        "Trekked across the city today to be told that rooms had been cleared of furniture. 3 rooms open with some artwork in. 3 other rooms might be opened for us to see but also empty. What a shame as it looks as if it could have been an interesting place.",
+        "Website needs to be more specific to avoid wasting a journey"
+      ],
+      "rate": 2.0,
+      "tripDate": "May 2017 • Couples"
+    },
+    {
+      "title": "A \"little\" bit of history in the heart of the city",
+      "text": [
+        "Walking by one day we researched the house on-line and decided to go on a Wednesday morning just after opening.  It's a small historic house in the middle of busy \"modern\" Toronto.  It is the oldest remaining house (although it was moved from its original location in 1972) from the Town of York (former name of Toronto.  The home of a prominent judge. Our tour guide was Shannon who gave a very in-depth, and humorous tour of the house.  We were lucky to be the only ones visiting so it was like a private tour.  We loved her passion for the house and its history.  The basement has a working kitchen just as it was in the 1800's.  Enjoyed hearing that they still use the kitchen for tours and hands on cooking demos.  The rest of the house - although small - was a walk through Toronto/York history.  Allow for about an hour to an hour 1/2 for a visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Couples"
+    },
+    {
+      "title": "Beautiful but not a lot there",
+      "text": [
+        "This is a house that was built by the Chief Justice of Upper Canada in 1821, and is a beautiful example of Georgian architecture.  The house has been moved from its original location but has been lovingly restored, right down to the brick floors in the kitchen.  There are only six rooms open to the public, and during the summer there is some live theatre on the premises so many of the antiques are hidden away - I suggest not going in the summer.  Everyone gets an individual tour with a live guide who brings the era to life and fills you with little stories and anecdotes of the history of early Toronto.  If you have been to historic houses elsewhere (ie - the Southern US or Britain) and are familiar with Georgian architecture, you will be underwhelmed.  However, it can be a great little history lesson and a peek into another world for those not fortunate to travel elsewhere."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2016"
+    },
+    {
+      "title": "The most satisfying $45 bucks you will ever spend on entertainment!",
+      "text": [
+        "I had the pleasure of attending Hogtown last night with a friend- we were there on the recommendation of a co-worker who caught the show the week before. Let me tell you…. this will be the most satisfying $45 bucks you will ever spend on entertainment! (for the record, I would have paid twice that and still felt satisfied in my experience)",
+        "Hogtown is hosted in the historic Campbell House (Queen West W), it is an interactive blend of drama, comedy, music and dance. A unique experience that is a must see. Get your tickets before the rest of the city realizes how great this show is and they sell out. Truly amazing performance, strong individual acts as well as brilliant collaborations between cast members. You will feel like a part of the show, it was really hard to not get swept away in the moment. ",
+        "Tip: Make sure you get there a little early to enjoy a drink at the Speakeasy in the basement."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Hogtown play",
+      "text": [
+        "We did not visit the museum during the day, but for the play in the evening.  We were the third group to be part of the production, and even though they were still working out the kinks, we thoroughly enjoyed ourselves.  ",
+        "Try it out for something different.  ",
+        "  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016"
+    },
+    {
+      "title": "Remarkable history",
+      "text": [
+        "We stumbled upon this little gem purely by accident as my son attempted to photograph a black squirrel.we had only seen red and grey squirrels back home . As he approached the stairs in pursuit of the squirrel,the front door opened and we were met and welcomed in by the friendly and kind staff. What a remarkable piece of canadian history ,tucked away and so unobtrusive.the young guide was passionate and very knowledgeable,educating us in Toronto rich history.the house was remarkably well preserved and informative of a past we could appreciate . Well worth the visit"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "Campbell House Museum,Toronto, Ontario",
+      "text": [
+        "We were walking around Toronto one day and just happened to come across the Campbell House Museum without knowing that it was a museum. I went to the front door, turned the doorknob, and opened the door. I called for my husband to come inside. Entry was by donation. We were given a tour of the house which we really enjoyed. I was allowed to take photos which was wonderful as I love the period furnishings of older homes. The Campbell House Museum is very close to the Law Courts. Mr. Campbell was a High Court Judge in Upper Canada in his day. He actually presided over the case in which William Lyon Mackenzie sued a certain number of men who broke into his home and threw much of his print shop machinery into Lake Ontario. Instead of retaliating in kind, Mackenzie sued them and took them to court. Mackenzie won his case as there were witnesses to the event who testified on his behalf. Downstairs by the front door there is a miniature court room scene of that trial. Mackenzie is shown with red hair but apparently he wore a red wig as he was balding. The house itself is not large but the curved staircase leading to the second floor is lovely. The Campbell House Museum is supported by the Photographic Historical society Of Canada and the University Of Toronto Museum Studies Exhibition Fund. Upstairs is a room that is used an art gallery now. When the Campbell's lived there they apparently used the room as a ballroom. This museum is not suitable for small children as there are stairs to climb and the furnishings are not to be touched. The furniture itself may not be the original furniture but is appropriate to the time period. The whole tour took about a half an hour to 45 minutes. When we were  ready to leave I started for the front door and without touching it the door opened itself. I thought perhaps that the tour guide had pressed a button to open it but when I asked if the door usually opened on its own, she said no. It wasn't windy outside so it seemed  to me that some unseen person opened the door for us. This was certainly unusual  and it made an impression! The Campbell House Museum is situated at 160 Queen St. W., Toronto. If you are interested in the history of Upper Canada and want to learn more about it, a stop here is definitely worthwhile.",
+        "."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2015 • Couples"
+    },
+    {
+      "title": "Helped us learn more Canadian history",
+      "text": [
+        "We had visited the Mackenzie House the day before and knew from that visit that there was a connection with the Campbell House. The house is a large (for the time) Georgian style home that has been moved and restored and seems well cared for. Our guide explained Judge Campbell's role in Canadian history while explaining how the house would have looked and operated when the Campbells lived there. There was no admission fee but token donations are appreciated.  The house is located in the downtown area near City Hall.  The tour is brief and is well worth stopping by for if you enjoy visiting historical homes."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2015 • Couples"
+    },
+    {
+      "title": "Go back 150 years ago!",
+      "text": [
+        "This is an excellent way of showing today's children how families dealt with all their needs in the times when there was no indoor plumbing. ",
+        "I took my classes and the program offered was rich, interesting and had the visitor enter that house atmosphere, routines and practical sense of Torontonians inhabiting such a house in the middle of the 19th century.  Kudos to the lively, welcoming guides, dressed in period clothes and who had a real play ready for us."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2014 • Business"
+    },
+    {
+      "title": "Great tour guide",
+      "text": [
+        "Although we had previously visited the house a few years ago, we learned even more on this visit.  The tour guide shared a wealth of information about the house and the period.  It amazes me how much these people know and their passion for the house and period.  It is a wonderful piece of history right in the middle of the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2015 • Couples"
+    }
+  ]
+}

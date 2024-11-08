@@ -1,0 +1,369 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Bike Share Toronto",
+    "url": "/Attraction_Review-g155019-d7071915-Reviews-Bike_Share_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "100-25 Booth Ave",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4M 2M3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "2.0",
+      "reviewCount": 243
+    },
+    "openingHours": "Mo-Su 00:00-23:59",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Gear Rentals"
+  ],
+  "description": "Bike Share Toronto has grown to become one of Toronto’s integral transportation systems to help people move around the city. Using more than 627 KM of bike lanes across the city, you can see and visit from every angle and at your own pace. As of 2020, you can take advantage of more than 625 stations, 6,500 bikes and even utilize our newly introduced e-bikes that can help you move around every day! p.s - Don't forget to bring a helmet. With our popular 24-hour access pass, you’ll gain access to our system to explore as you please. Be sure to avoid our $4 per half hour overage fees by docking the bike every 30 minutes or less to reset your trip timer. *Trip under 30 minutes = No Overage fee *Trip 31-60 minutes = $4 Overage fee *See website for more* All of our passes, information and an interactive map of the system can be found on our app, PBSC or the Transit App. Both are available on the iTunes or Google Play app stores! Have any questions? Call or email us, we're open 24/7.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Awful",
+      "text": [
+        "Omg first time using bike share today as my own 3 speed bike is at the mechanics. Bike share is horrible! The bike is 3 speeds yet it went twice as slow as my regular bike. $8 one way for 8km!! Also to get the seat high enough to be comfortable made it hard to reach my foot to the ground when stopping, an unsafe design. Surely we can do better. My ride was expensive uncomfortable and slow. Awful."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Nightmare",
+      "text": [
+        "Terrible experience. Both bikes wouldn't dock when we tried to return them. The timer kept counting, we kept getting charged and there was no phone number to call or help available. We were forced to try the next docking station, which didn't work and then the next, which finally worked. We ended up 2km from our destination and had to walk. There is no liability from this company and zero way that we can find to resolve the problem. Never using again."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Great service, improved from reviews",
+      "text": [
+        "I am shocked to see so many poor reviews, but reading them, I completely sympathise. ",
+        "However, my experience with the all day pass has been good - signing up was quick, it was made clear to me that bikes can be used for 90 minutes at a time between dockings, and staying in the middle of the city, there were plenty of docks and bikes. Overall the bikes were in decent working condition as well. ",
+        "I do think they need to have a bit more grace for people who don’t understand the time limit on rides during the day pass, to avoid being predatory. But I had no issues with the current more generous limit and was able to redock several times to keep riding."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "No docking stations downtown toronto in the evening.",
+      "text": [
+        "Couldn't find an available docking spot in downtown Toronto, Liberty Village area, for over 50minutes.  This was after I finished work at 11pm.  The app would show a station with 2 available spots, however, some docking spots did not work, or none were available.  I tried 14, yes 14, different stations before finding a spot. I cancelled my membership."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Availability",
+      "text": [
+        "In my area (city place) starting from spring, there is never an available free dock for a bike at the end of the day or never an available bike in the morning. Every year the same problem and so inconvenient. I think I will never renew my membership with them again."
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Pathetic bike share services for tourists in Canada",
+      "text": [
+        "One of the worst services i've witnessed in toronto.The bike service charged me a whopping 64$ overusage fee which i was not aware about. Customer service took 3 weeks and still no response.",
+        "Terrible.Terrible.Terrible!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2023 • Solo"
+    },
+    {
+      "title": "Shockingly bad",
+      "text": [
+        "Registering for this service proved impossible, despite endless attempts. Not only was the process clunky and time consuming, it just didn’t work. Hilariously, when I tried to give feedback on their site they said they were not interested if I hadn’t used their bikes. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Great way to get around Toronto - we loved it",
+      "text": [
+        "now this is how you get around Toronto! We went all over with these bikes, for both sightseeing and for getting from A to B. We especially loved the waterfront trail system.",
+        "These bikes saved us a few nights where our feet were sore from wandering and we were far from our hotel. we had the day pass and away we went. so many convenient bike stalls all over, so even if one is full for returning, we found another close by.",
+        "The app can be a little janky at times and we found we were unable to pay / reload directly at the bike kiosks so downloading the app is a must. ",
+        "A city bike route map would be handy especially for the busy downtown areas. it would have been nice to know where the designated bike lanes were but we managed.",
+        "We were able to load 2 bikes onto 1 booking which was great.  Our day pass was good for 24 hours, each reservation is for good 90 minutes then you have to dock and grab a new one. the 90 min then starts again. not sure why they do this but we never really found it an issue. We found that except for 1 day out of 4 the day pass was the best economical option for us. ",
+        "overall we loved it and would definitely use it again when we are in town."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Excellent service and Support at a Reasonable Price.",
+      "text": [
+        "The bike rental was very seamless and convenient. I called the PBSC support team this morning to ask a question, and Ruth was wonderful and very helpful. The rates are very reasonable, in my opinion."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Sign up and login needs work",
+      "text": [
+        "Wow.  Have used this service 3 times now.  Excruciating process from sign up to login.  Waaaau too complicated and not user friendly at all.  Pay stations broken and poor website navigation make this service sub par.  Bikes themselves are ok but overpriced for sure.   Build an app that works so you only need to enter data and payment info once and end it! "
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Family Fun",
+      "text": [
+        "Bikes were fun and worked great,BUT.......misleading price, $7.00 /24 hours doesn,t make sense. Still have to dock every 30 minutes.- Better to pay 3.50 / 30 minutes. This is not fun--- Kiosks were not all working, credit cards not being read, codes not working, no receipts, didn't know what we were being charged for. Had to use 2 starting transactions for 5 bikes! Half the family gave up riding because we were afraid of the charges. Apparantly the app works better. remember to dock before 30 minutes is up!!! Overage charges add up quick!"
+      ],
+      "rate": 2.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Very unpleasant",
+      "text": [
+        "I was surprised to see that Bike Share charged my credit card twice. As Bike Share does not provide an invoice or receipt of the charges, and the charges are not detailed anywhere on their app, I had to call them. ",
+        "The agent I spoke to explained that 24 hour access really means 24 hour access in thirty minute increments. I explained to the agent that the advertisement is misleading - the ad specified that for $3.50 one gets the bike for 30 minutes, but for $7 one gets the bike for 24 hours. If one is charged $4/30 additional minutes regardless, then why purchase the $7 deal? ",
+        "The agent transferred me to his supervisor who was quite combative and eager to pounce. He raised his voice, talked over me extensively, and alleged that “everyone uses Bike Share and have no problems” (which is clearly not true based on the reviews). Overall, it is not an experience that I would wish upon anyone."
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2022 • Friends"
+    },
+    {
+      "title": "Make bike share docking at least every 45 minutes instead of 30 minutes",
+      "text": [
+        "this is a great idea--but as a person who buys the yearly pass--I think that bike share should have at least a 45 minute ride before docking to the next time zone.",
+        "It is a hassle to find these docking spaces within 30 minutes"
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Horrible experience",
+      "text": [
+        "Horrible experience, what it was supposed to be a lovely ride over the lake one day, turned in an overcharged nightmare next day, customer service is so poor!! With the money you will be overcharged you can buy your own bike! Please don’t use this"
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2022 • Friends"
+    },
+    {
+      "title": "Scam $7 for 24hour w fine print charged $140",
+      "text": [
+        "$7 for 24 hours …. Nope … scam unless you click the bike in every 30 min or less. Took 3 bikes for slightly more than 2 hours can charged “overage” charges are up to $150. Called “customer service” to no avail. Horrible experience for people wanting to bike the waterfront for a couple of hours."
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2022 • Family"
+    },
+    {
+      "title": "Toronto bike SCAM",
+      "text": [
+        "Toronto bike SCAM!! Buyer beware, they will market this as a 30-minute all day pass, but no docking station will recognize or honour your initial purchase for an all day pass and you will be forced to purchase a brand new pass each time you dock your bike. 15 minutes after my initial purchase, I docked my bike and was ready to get another bike (to stay within the 30 minute ride maximum). Unfortunately, the screen didn't work and I was forced to download the app. The app did not provide an option for those who already purchased an all-day pass. The only option was to purchase ANOTHER pass. When I got to the third docking station (again 15 mins later), the screen had an option \"I have a pass\" but when I clicked this option it said \"Please insert identification card or key.\" Not sure what this meant, but I attempted to insert my receipt with my previous code on it, nothing happened. Attempted to call customer service but it said \"we are unable to take your call at this time\" so I assumed they were closed for the weekend. Ended up with $100 worth of charges to my credit card. I called on Monday and had to explain myself 7 times (the rep did not understand the issue) and they refused to refund charges. They also said \"if you had a problem you should have called.\" When I mentioned that I attempted to call and after several minutes on hold was told my call could not be answered, they snapped back saying \"we were open so that's not possible.\" This company should be shut down for false advertising."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Lots of fun, remember to get the app!",
+      "text": [
+        "So a few things to know. The kiosks often don't process credit cards, so be prepared to have the app and data. This can be a bit tricky when some of the taller buildings block the signal. And the bikes have to be checked in every 30 or 45 minutes.",
+        "Sometimes there are e-bikes which is fun. They rent at the same rates. The app sometimes shows the logo when they're not at a station so be a bit cautious there.",
+        "It's usually quite easy to find a bike and you can see most of the downtown of Toronto.  If you're not familiar with the city, check for the bike routes. There's really nice waterfront trail along the lake and Google will show you the Toronto bike routes. These are usually physically separated from the traffic and there are good east/west and north/south routes. ",
+        " I've only had to contact customer service a few times but they've been very helpful."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021"
+    },
+    {
+      "title": "Bike Share or Bike Rip-off ?",
+      "text": [
+        "As a warning to all those who may want to use the Toronto Bike Share system beware that the bikes are only available for a rate of 30 mins. Do not buy the 24 hour plan thinking that you have the bike for 24 hours! You can only ride the bike for 30 mins and return it to a lock stand without incurring additional charges. Too many visitors to the city have been mislead by the inadequate signage and instructions. Why put a bike stand at the entrance to a park that takes 2 hours to comfortably ride the pathway? This is deceptive and annoys visitors and residents  when “surprise” charges appear on their credit card statements."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2021 • Friends"
+    },
+    {
+      "title": "Thanks Jessyka!",
+      "text": [
+        "Most of the one stat here are about people not able to read!  It says plainly you must dock the bike every 30 minutes or get ding 4$.  DO NOT GO TO TORONTO ISLAND IF YOU AEE NOT ABLE/WILING TO PAY - Their is no docking station on the Island.  And if you are on the city side and dumb enough to have a pint without docking your bike, well good for you.  Lesson learn! I had a problem with a docking not being registered and Jessyka help e sort that out!  Please remember this is a short rental scheme.  24 hours or 72 hours rental still means you have to park the dawn thing every 30 minutes!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Solo"
+    },
+    {
+      "title": "Disaster",
+      "text": [
+        "One of the worst possible service I experienced in my life! Many stations dont work and you dock the bike and can't get one back.  Then because the station is completely disconnected, the system doesn't recognize the bike is returned. In this situation you have fallen in Toronto bike share trap and basically you have to pay 4$ every half hour until you find out. NEVER EVER try this if you dont want to ruin your day!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2021 • Friends"
+    },
+    {
+      "title": "Wtf ",
+      "text": [
+        "This is dreadful. We came from Ireland and got the 3 day pass. But the catched we are finding and it seems others are finding you can only ride for 30mins then put the bike back and get another one. But if there's no spaces left then you are stuck bike then in a panic to find another docking station. Also say we cycle home on bike and theres no where to put bike you then have to scramble round to get another station. Not on Toronto not on!!!!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Couples"
+    },
+    {
+      "title": "Extremelly Horrible",
+      "text": [
+        "This is the worse company in canada. I don't understand why they are even legal. If you are downtown, you won't find empty spot for dropping of your bike. App does not work. Customer service is terrible. Bikes don't switch gears. Canada, it is embarazing to have a company as bad."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Solo"
+    },
+    {
+      "title": "Stations often have no bikes",
+      "text": [
+        "Great idea and a lot of stations have been installed, but the lack of redistribution of bikes now makes the system unusable. Downtown stations are often full, with nowhere to drop off bikes, and as soon as you leave the downtown core, stations are often empty for miles around. I live in Midtown and can rarely get a bike these days, with the nearest 10-15 stations having zero bikes. The PBSC app is also unworkable, genuinely the worst iPhone app I’ve ever used."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2022 • Solo"
+    },
+    {
+      "title": "Worst service ever",
+      "text": [
+        "Terrible experience in terms of the bicycle return rules as well as the customer service. Nothing they can do when customers having situations. They will charge you anyway. I would rather walk than use their service."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Friends"
+    },
+    {
+      "title": "Awful bike service and awful customer service",
+      "text": [
+        "Terrible bike service. Bike stands are constantly out of order meaning you can't get bikes or dock your bike so you have to go to the next station. Bikes are not in great order so frequently you get a bike that doesn't pedal well or the gears don't change properly etc. Customer service is awful too if you have to deal with them when you've an issue. It's also extortionately priced, especially if you compare to other cities that have bike share services. Classic Toronto company ripping everyone off for any penny they can get."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Couples"
+    },
+    {
+      "title": "Unreal value for money if you download the app and follow the instructions!",
+      "text": [
+        "This is my first review on trip advisor, purely because of all the terrible reviews about this service. Almost all of them are leaving 1*’s for ‘hidden fees’, make sure you download the app/read the terms before cycling and you are fine. They stipulate the bikes need to docked every 30 mins, but there are parking stations on almost every street around the city, slam your bike in, wait for it to lock, scan the QR code and take the same one back out and you have another 30 minutes. You can get almost anywhere in/around the city within 45, but you can do this over and over again, and pay $7 for 24 hours of bike use. All in all a great service to see the city for next to nothing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Couples"
+    },
+    {
+      "title": "Absolutely horrible. The worst kind of payment system and customer service could not be any worse.",
+      "text": [
+        "Awful. you will see $7 for 24 hours but don't be surprised to see surprised charges on your credit card. They charged me for $22 on the top of $7 for renting a bicycle for less than 3 hours. when I called them they say you need to lock and unlock your bicycle every 30 min unless there is a penalty of $4 per each 30 min which is very non sense. who rides a bicycle and stops every 30 min to lock and unlock it! its all about unknown charges and make money. I rather them being honest and charge me for $20 at the beginning than having these non sense rules and charges,"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Scam and a rip-off",
+      "text": [
+        "Don't use this service. It would be cheaper to buy your own bike than deal with the exorbitant hidden fees. You have to pay on card and I strongly advise against it, as you will see charge after charge coming out of your account. If I could leave negative stars I would."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Scam.",
+      "text": [
+        "We rented a bike for less than a half an hour. From Billy Bishop on Queens Quay to Ontario Place. We have a picture to prove we docked our bikes at 17:27 and we removed the bikes at 17:19. I see all these charges from bike share on my credit card. Two separate charges of deposit (two $40 (20 a bike) when we should have been only charged once. We received the $7 charge we were supposed to then the next day I got charged again for $13.56. We ensured our bikes were locked in and couldn’t be removed. When I reached out to bikeshare they said we had the bikes for 1hr and 33minutes they refunded only one of the $40 charges. ",
+        "Despite having the picture of the bikes docked and us inside the venue at Ontario Place. I was just told how to dock it better next time. ",
+        "Will never use this service again. Avoid it. It’s a large scam. ",
+        "Great idea but apparently being run terribly with horrible service."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Deceptive Practice",
+      "text": [
+        "Like many others, we purchased a day pass at the kiosk for $7 only to be charged additional fees the next day.  No where on the machine did it state the $7 day pass required you to dock the bike at least every 30 minutes."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Terrible Service.  Can't depend on it to get to work on time.",
+      "text": [
+        "Don't depend on their service to get to work downtown.  You'll always be late.  Never any bikes in the St Clair and Christie area.   Usually have to walk 15-20 to find a bike.  Then, when you finally get a bike, you can spend 10-15 minutes trying to park the bike downtown since every station is full.  Never see any workers trying to free up spaces. No ones ever working.  Just see other bikers circling around trying to find a place to park their bikes.  Been like this for months."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Monopolistic Scam",
+      "text": [
+        "Worst experience ever. Rented two bikes out for 15 minutes (.18 cents per minute. Got charged $70.34"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Worst technology EVER!",
+      "text": [
+        "The website doesn’t work for more than one bike …the app is impossible to use and often doesn’t work. None of the kiosks works if you wants to use a kiosk without the app."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2023 • Couples"
+    },
+    {
+      "title": "A bit expensive for a tourist but worths it",
+      "text": [
+        "Customer service replied clearly within few hours. Nothing to complain about, instructions are clear on site. ",
+        "But the bikes should be a bit more faster but I guess slower bikes are safe ..."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2023 • Solo"
+    },
+    {
+      "title": "Racks always full",
+      "text": [
+        "I wish they fixed the constantly full bike racks in the financial district. I have to go back to almost where I start my ride to park it."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2023 • Solo"
+    },
+    {
+      "title": "Frustrating",
+      "text": [
+        "I tried to rent a bike at Bike share. I was directed to a scam web site called digitalizze.co and signed up for a digital membership. I tried to cancel it and it could not be cancelled. I had to cancel my credit card. I also tried downloading the bike share app. That did not work. The credit card reader and all the other on site stuff did not work either. I have rented bikes in the past with the credit card reader. It worked about 20% of the time. I think they disconnected all the credit card readers and you have to download the app. I tried the 2 apps they listed, Bike share Toronto and Cycle Finder. I could not get either to work.  In other cities I have been able to navigate the bike rentals no problem. It just seems the Toronto one is really bad. I do see people using rental bikes in Toronto. I wonder if they have had the same issues."
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Terrible experience. Never again !",
+      "text": [
+        "Used the bike with my daughter early September for first time. It was supposed to be a fun ride along the Harbourfront but it was a terrible experience having to constantly look out for the next bike station to dock and keeping time limit of no more than 30 mins. It was a stressful and unpleasant bike ride . The bike seat was most uncomfortable and hurting. Was additionally charged for exceeding 2 mins for one the ride. Will not use this shared bike service ever again and definitely not recommend to anybody."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Family"
+    },
+    {
+      "title": "Garbage. ",
+      "text": [
+        "Terrible customer service, I went over by a minute looking for a station as they were all full near me. Never use the 30 minute system especially if you're a student they would charge you $5 for going over by just a minute. Insane. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Friends"
+    },
+    {
+      "title": "Left Me Stranded 4+ Hours from Home",
+      "text": [
+        "Awful experience using bike share. Purchased the 24HR pass but after about an hour and a half of riding, the app no longer let me unlock bikes, citing \"oops not working now\" as the error. I tried all methods of unlocking the bike to no avail. This left me stranded a 4+ hour walk from my apartment and I had to hail a cab to get home. I would not recommend this service to anyone and will no longer be using it."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Worked well to help us get around quickly for cheap.",
+      "text": [
+        "Bikes worked well and the ebikes were handy for making good time. ",
+        "The prices are very reasonable. ",
+        "The 30 minutes free included in the session required some planning but we managed it by using the PBSC app and google maps and had no extra charges while riding for 2.5 hours.  The app was reliable for telling us if a station was full or had spots which is a must for planning your route.  ",
+        "Only complaints would be racks in some places are always full when we checked so we couldn't plan them in our route and I think Bike Share Toronto needs to consider always keeping at least one station free somehow."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2022"
+    }
+  ]
+}

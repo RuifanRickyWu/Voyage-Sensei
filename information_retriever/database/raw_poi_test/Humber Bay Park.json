@@ -1,0 +1,360 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Humber Bay Park",
+    "url": "/Attraction_Review-g155019-d4833023-Reviews-Humber_Bay_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "100 Humber Bay Park Rd W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M8V 3X7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 69
+    },
+    "openingHours": "Mo-Fr 08:30-16:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/3d/a1/cd/a-view-of-the-toronto.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Parks"
+  ],
+  "description": "Etobicoke is a relaxed area along the Humber River. It's saturated with green spaces and conservatories, making it a premier destination for outdoor sports, hiking, and nature walks. Its abundance of parkland and lakes makes it a typical spot for fishing, picnicking, and camping out, especially in warmer months. The peaceful area is also enjoyed by families, who appreciate its boardwalks and sports facilities. Locals enjoy the variety of golfing and country club opportunities, which also provide lessons for golfers of any skill level.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Sunset and Photos",
+      "text": [
+        "Humber Bay Park is separated into two parts by water. It’s a good place for kids to cycle and take photos, nearer Toronto’s iconic CN Tower than Jack Darling Park in Mississauga. Like a peninsula, there’s things to see on the East; but more available pay parking is on the West drive of Humber Bay. It’s adjacent to private Marina Del Ray (2261 Lakeshore Blvd West) and the Ukrainian Consulate. Photo opps are good on this quiet side; there’s more sand and nature scenes on the East park by the Air India memorial at the end of Park Lawn Road, where public washrooms in Starbucks and Tim Horton’s are open a short drive North above the Expressway exits. You’ll pass the Butterfly Habitat on foot by the West side of the park and long stretch /boardwalk in the direction of Humber Bay Arch Bridge (towards downtown). If you’re lucky you can snag a picnic table; but there are benches along the path. It would be a good idea to arrange a place to meet ahead with friends before beach volleyball season takes over. Or pack a blanket and sit anywhere to enjoy the view!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "Natural and beautiful park",
+      "text": [
+        "It's always a nice walk with my dog.  The wildlife and lake are great.  During fall and winter, we can encounter coyotte.  There is always something that catches your eyes there.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Solo"
+    },
+    {
+      "title": "Beautiful Park to watch Sunset",
+      "text": [
+        "The park is very clean and has ample spots to do picnic. The Lake Ontario water is clean and the shore has a nice view of skyline. There are so many spots where you can sit and enjoy the nice view of downtown and CN tower. Parking can get sometimes busy. If possible, have the GreenP app on your phone if you need to extend parking as parking lots can be 10 minutes walk depending on where you park."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Family"
+    },
+    {
+      "title": "Lovely outdoor stroll with good social distancing",
+      "text": [
+        "This is truly a lovely area to get in your exercise be it walking, cycling, running. The view in either direction is stunning. You really feel the spaciousness. On a lovely day in February many folks were out enjoying themselves getting in their ‘only leave home for exercise’. Lovely Muskoka chairs placed along the way to sit for a bit and enjoy the view. Imagine a summer stroll here!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2021 • Couples"
+    },
+    {
+      "title": "Great visit ,doggie dipped and saw a black fox (rare)",
+      "text": [
+        "Black fox spotted today :)   humber west park along with beaches ,offleash eara the some cool wild life here :) wed July 29 2020"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2020 • Solo"
+    },
+    {
+      "title": "Best View of Toronto Skyline",
+      "text": [
+        "I've come down to this park many times over the years, whether it be winter or summer. I usually pack by bike on the SUV and bike around this park - it's big. The shoreline is incredible with great views over Toronto, The Humber Bay Arch bridge and over nice ponds in the park. Lots of space for walking and having a nice picnic."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020"
+    },
+    {
+      "title": "Out for a walk",
+      "text": [
+        "Great people place. Lots of trails for walking,  running, riding. You can fly a kite or just pick a spot to watch the water meet the sky."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "Great park,   just a nice, quiet and beautiful  area to stroll around and good for photography",
+      "text": [
+        "t’s a pretty big park,  very nice nature gem in the city. This is a great park to go for a walk. Plenty of trails and nature.  Perfect for walking, riding, or picnicking.So relaxing. The best thing is the view of the city. You can get amazing pictures from the park. There's also a small beach area.  Parking is available both in the park and on the street outside the park. Great scenery.  The best park in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018"
+    },
+    {
+      "title": "Great Views , Shoreline and pedestrian walkways",
+      "text": [
+        "This place is where I walk at every opportunity. Lovely pedestrian walkways that compliment the natural habitat and green spaces. Fairly serene during the week, in the mornings. Cycle paths are in place, too. A happy place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Solo"
+    },
+    {
+      "title": "Nice view of Toronto skyline ",
+      "text": [
+        "It was great taking photos of this area, especially capturing the Toronto skyline from afar.  You don't have to deal or fight with too much traffic to get to this spot."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "Perfect quiet getaway",
+      "text": [
+        "This park is very close to the downtown core of the city, yet away from everything. Extremely peaceful, great for families, lots to see. Get some excellent pictures of the Toronto skyline from here!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016"
+    },
+    {
+      "title": "Lack of warnings to patrons about the red ants.",
+      "text": [
+        "Signs should be posted warning patrons about the red ants. The main trails and side trails are carpeted in these vicious biting ants. Stop for ten seconds to take a picture and they are on you.",
+        "There should be signs posted every where advising people with pets and young children about the hazard of these ants.",
+        "I myself came away with three bites, which a week later are still red and itchy, The burn from these ants lasts a couple of hours."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Humber Yacht Club spoils it",
+      "text": [
+        "This is a lovely space in the city for hiking, biking, picnicking, kayaking and nature watching (there is an amazing array of wildlife!). We have been using it for decades, however recently it has been spoiled by the behavior of Humber Yacht Club members: power boaters who do not observe speed limits and kick up too much wake, plus are verbally abusive to others using the river and some even blast their on-board music in this otherwise peaceful area. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "red-necked grebes hatchkings",
+      "text": [
+        "In the storm water management ponds between Humber Bay Park East and the waterfront trail, there are 2 pairs of nesting red-necked grebes. One pair had 4 eggs, one hatched, 2 were probably snatcher by a beaver and one failed to hatch. The other pair had 6 eggs, 3 hatched and the remaining 3 should be hatching in the next few days."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2016 • Solo"
+    },
+    {
+      "title": "Amazing Place To Escape The City",
+      "text": [
+        "Humber Bay Park is my favourite place to go to escape the congestion of the city. No traffic, no cars, just an amazing place full of nature trails, wild creatures (I just saw a beaver there today) and tranquility. The views of the city are incredible from here making it an amazing place for photography enthusiasts."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Friends"
+    },
+    {
+      "title": "Nice park for hiking, bird watching, picture taking, etc.",
+      "text": [
+        "Love this park, including the East and West! Sunset, moon rise, gorgeous! Bird watching, too. Or just sitting by the lake!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2016 • Solo"
+    },
+    {
+      "title": "walk, bike, or picnic and watch the lake..",
+      "text": [
+        "Great place for a leisurely walk, with or without your dog, or a bike ride.  Very quiet... watch the boats sail by..."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2015 • Couples"
+    },
+    {
+      "title": "Cycle It",
+      "text": [
+        "Well worth a visit you can walk the whole humber valley up to Old Mill. But one of the best ways is to hire a hybrid bicycle and tour up the valley for a day (Toronto is a really cycle friendly city). Bike hire is CAD35 a day. Brilland wild life both plant and animal."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2015 • Couples"
+    },
+    {
+      "title": "Canoe if you like or feed the ducks.",
+      "text": [
+        "You can either go for a canoe ride with your own canoe or join in by renting one and paying for the Guide right in the heart of the City at Humber Bay Park - how nice is that.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2015 • Family"
+    },
+    {
+      "title": "Close to downtown and a beautiful park!",
+      "text": [
+        "Situated very close to downtown, this park offers a very relaxing and serene ambience. A stretch of the park is by the lake and the entire landscape looks very beautiful."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2014 • Friends"
+    },
+    {
+      "title": "Day out at the Humber Bay",
+      "text": [
+        "Humber Bay is actually a sanctuary for many kinds of butterflies as many types of wild flowers are grown in the park.  It has enough parking space, there are 3 to 4 parking areas (paid one) in this park.  The view of the Lake Ontario throughout the Bay is spectacular.  The beach is built with big boulders which provides sitting space and watch the lake.  Geese and ducks were floating in the lake.  The most spectacular sight I caught is around 2:30 PM I saw thousands of birds (may be ducks) flying very low (their feet almost touching the water) in straight lines.  This view was breathtaking, it took almost 10 minutes for all the birds to fly.  I could imagine whether these birds started migrating already.  ",
+        "We ate sandwiches and snacks and lied down on the green grass under the shady tree, weather was cool and the cool breeze from the lake made us relax.  Around 4 PM we drove to other similar parks"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Beautiful",
+      "text": [
+        "Parking is easy and free after 9:00. Beautiful to go to when the suns going down, also a rocky area where you can sit and see the Toronto skyline. Lovely little wall that can turn into many hours just looking at the water and remarkable sight. Good date idea for picnics or just a late night stroll. Bring bug spray for the mosquitoes at night. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "You would never know you are in the city",
+      "text": [
+        "This is a photographer's paradise! Birding, walking or just reclining to cloud watch. How fortunate are we to have this piece of paradise. It feels like we are a million miles away from the city! Kids can run and play, find bugs and see water fowl. Wonderful!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Family"
+    },
+    {
+      "title": "Park yourself here for a pleasant break",
+      "text": [
+        "This is a good place for a stroll on a nice day.  It features pathways, views of the city, a look at the lake, ...  What's not to enjoy?  But watch out for bikes and runners -- traffic can get heavy at times."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Canada Day",
+      "text": [
+        "We went there to see the show and fireworks on Canada Day, the place is nice but we got a lot of mosquito. We did not find many places to sit since they don't have picnic areas..."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2017 • Family"
+    },
+    {
+      "title": "A Quiet Gem by Lake Ontario Shoreline.",
+      "text": [
+        "If you see yourself as a traveller, not a tourist, and you want to avoid huge tourist crowds at CN Tower and Toronto Harbour Front, Humber Bay Park is for you. Many Toronto residents heard of Humber Bay Park but they never visit this unspoken gem in their City because it is not a famous place like CN Tower. It is the best place for a leisure stroll, to walk along the lake shore, as a couple, a family, or with your beloved dog. The park has two nice restaurants for lunch or supper, Firkin on the Bay and an Italian restaurant across the street. Highly recommended. Don't leave Toronto without a visit to Humber Bay Park."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Beautiful dog park with great views",
+      "text": [
+        "We just moved to the city and wanted to go to an off leash dog park. I saw this place on yelp and decided to give it a go. ",
+        "Its at the very end of Humber Bay with parking available. Signs said the parking here will be paid parking from May to September. It has splendid views of the city of Toronto and the water. It was windy and chilly but worth it. Great photo opportunities here while the dogs run around. ",
+        "The dog park itself it fenced on one side with the lake on the other side. Its not a very big off leash dog park but the views make up for it. It was well kept and clean. There were no doggy doodoos everywhere and neither was there trash. People that frequent here pick up after themselves. ",
+        "I would definitely come here again and bring a picnic lunch with me. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Humber Bay East",
+      "text": [
+        "Have only walked and explored the east portion of the park as it is divided to a Eas and West section with a river splitting the 2 parks. I use the park mainly for close-up birding photography as 3 interior ponds provide excellent photography of various types of birds. Depending on the season a different variety of birds use these ponds for feeding, and nesting. Parking is free on weekdays till 5 pm then a hourly fee is charged, Biking and walking paths are plentiful and offer a goo variety of lake views, city views, or wooded areas. For the most part the paths are easy to walk but on rainy on spring days they can be very wet and muddy."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2016 • Solo"
+    },
+    {
+      "title": "Toronto skyline & lakefront",
+      "text": [
+        "A picturesque spot for walks & a good meeting place, many people choose to relax at the park near the lake, also a great spot to capture photos and also seen some making videos near by. A popular not-so-crowded spot."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2015 • Friends"
+    },
+    {
+      "title": "Beautiful site, A must see",
+      "text": [
+        "The view of downtown is fantastic. Very peaceful place..",
+        "The boardwalk for pedestrians though is very narrow compare to the bike path, so be careful to stay on your path."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Family"
+    },
+    {
+      "title": "Mimico's natural pride",
+      "text": [
+        "It does not matter if you are local or a visitor: this park will always surprise you.",
+        "Good for enjoying  sunrises and sunsets, riding bikes, hiking, having picnics, canoeing, birding and just having a good time.",
+        "You can occasionally run into a... beaver... chewing on a tree or just swimming... ",
+        "It's free from November until May."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Solo"
+    },
+    {
+      "title": "Birds and butterflies",
+      "text": [
+        "Go here when driving to Toronto since it is an easy place to get to from the west end. Good place to see bird migration in the spring and butterflies in the summer. Get there early in the morning for nice pictures and views of downtown Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "best of both worlds - serene park yet close to the city",
+      "text": [
+        "Beautiful park (actually 2 parks side by side) just west of Toronto without the downtown traffic congestion. Cleverly designed so you can drive and see, or walk/cycle/blade and enjoy. Lots of room to picnic, lay in the sun, watch the boats, see the ducklings, and enjoy the city skyline. Parking available. Worth a visit. Surrounded by lake views"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Very nice park",
+      "text": [
+        "First, I came here at night so I couldn't see everything or take advantage of all the park offers. However, there are many trails and biking paths that look like they'd be wonderful to use. I came here to view the skyline and had wonderful views. I'll definitely be visiting during the day on my next trip to Toronto. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Wonderful views of downtown Toronto",
+      "text": [
+        "They have built more pathways along the shore and upgraded the park. It is clean and well maintained."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "One of the best",
+      "text": [
+        "One of Toronto's best parks, one the one hand very urban as the city is hard to escape here, on the other hand very scenic with some of the best views of the lake or the Toronto skyline.  It works well as a connection of the waterfront trail, and is a beautiful place to be around sundown.  It is about as wild as one can get inside the city, but is skipped by too many visitors."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "Very scenic park",
+      "text": [
+        "Ran through Humber Bay Park on my morning run while visiting Toronto. The park has great parking and lots of ground. It was great for running because the park has a choice of pavement or dirt trails along the Humber River. Stops along the way are some of the butterfly gardens and a look back over the city.  Park was safe with lots of runners, cyclists and pedestrians. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Friends"
+    },
+    {
+      "title": "Peaceful area in a buzzing city!",
+      "text": [
+        "I actually live nearby and always enjoy going to that park for a walk. ",
+        "It is very peaceful and relaxing, strolling around, watching ducks, swans and geese in the water. It gets very busy on weekends as there are paths for walking, roller-blading and biking, so I usually go there early to avoid the crowd. Visitors should not miss this park, as it also has great views of the city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "😎",
+      "text": [
+        "It’s a very nice place to relax, you can just sit there to watch the 🦆 swimming on the lake.  Closed your eyes and enjoying the sun and listening to the sound of the water.  So peace, definitely would love to go back again"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "One of our favorite Toronto Parks ... A Toronto Gem!",
+      "text": [
+        "We've enjoyed many days along the nature walk/trails and beaches here.  The friendly birds and majestic natural scenery made this urban oasis one of our favorite places in the city to take in a few hours of nature. The nearby 'Firkin on the Bay' gastropub makes an excellent stop after a day on the trails enjoying the wildflowers, birds & butterflies. This sanctuary is one of Toronto's gems."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Friends"
+    }
+  ]
+}

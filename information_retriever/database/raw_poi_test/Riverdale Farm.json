@@ -1,0 +1,372 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Riverdale Farm",
+    "url": "/Attraction_Review-g155019-d185107-Reviews-Riverdale_Farm-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "201 Winchester St ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4X 1B8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 166
+    },
+    "openingHours": "Mo-Su 09:00-17:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/10/f3/61/the-simpson-house.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Farms"
+  ],
+  "description": "Toronto's Riverdale Farm covers 7.5 scenic acres and is a hot spot for families. Along with the wooded areas, ponds and gardens, there are plenty of farm animals to visit. All this and more in the heart of downtown Toronto.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Great for Animal Lovers",
+      "text": [
+        "This is a pretty place, and it's enjoyable to watch the animals. It's small, but it's free and makes a nice walk if you're in the area. It's probably best for young children. I took the longer path through the natural area and saw both a muskrat and a heron very close up."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Solo"
+    },
+    {
+      "title": "Toronto's little farm",
+      "text": [
+        "Loved the gardens and general atmosphere of the place. Great place to take kids but even us adults also enjoyed the walk around."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Nice (except for staff)",
+      "text": [
+        "Went for a visit with my mom (age 80) who was visiting from out of town. Buildings are closed, as was expected, but still a nice little stroll through the grounds. Fun to see the animals.",
+        "My disappointment comes from my interaction with the staff at the entrance. Before we entered, I asked the two women sitting there if there were benches along the path. I knew my mom would need to take a couple of breaks (knee issues). They didn't know! Seriously! They work there, but they don't know? Have they never walked through even once? One of them proceeded to tell me that *if* there were any benches, they would likely be taped off and we couldn't use them. They also informed us (in not too nice of a tone) that the path was one way only and that once we entered, the only way out was to complete the path.",
+        "Anyway, for the record, there are lots of benches (not taped off) -- and lots of low stone walls, also suitable for taking a quick break. As the exit is in a different place than the entrance, I didn't see them again -- otherwise I would have educated them about THEIR job."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Slice of Country in the Centre of the City",
+      "text": [
+        "A total pleasure to wander here at Riverdale Farm, with it's fine gardens, array of farm animals, view over the Don Valley, and familiar farm smells ; )",
+        "The kids will definitely love it, but grown-ups can also find some bliss here too..."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Animals as seen by our Grandson",
+      "text": [
+        "This February being a rather mild month we took our 2 year old boy (Grandson Clarkie) to the Riverdale Farm. The boy was thrilled and we spent two hours of smiles and giggles that went by all too fast.",
+        "Getting there was a snap by car and just as easy by public transportation I am given to understand. Parking is free and in abundance. Not too crowded in winter months and many of the livestock were still outdoors.ofcourse you can view lots of rabbits,turkeys,chickens goats and sheep indoors.",
+        "The horses ,cows ,pigs and lambs were all outside and equally big hits. Kids love animals and enjoy imitating the sounds they make. This place is fun free and educational! Take your child or grandchild  asap you won't be disappointed,"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Little gem.",
+      "text": [
+        "What a fabulous place to come unwind, and see some lovely animals! Super fun to stroll around, and then walk Parliament Street for lunch!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Lovely place in the city",
+      "text": [
+        "Riverdale Farm has lots of trees and vegetation. The trails offer a nice opportunity to walk around the property and listen to the birds. There are cows, horses, sheep, goats, pigs and chickens. I think I'm missing other animals. I stayed for the animal presentation at 11:30 a.m., which was about the cows. The place is lovely. It's a good place for kids and adults alike. Easy to go there using public transportation. The admission is free, but you can donate what you want to support the farm. Recommended!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Could do with a cafe",
+      "text": [
+        "Had a walk along to this place as our hotel was on Carlton St, not far away. This is defo a place for young kids as there is nothing that exceptional for adults. I would say they need a cafe as I would have enjoyed just sitting in the peace and quiet away from the bustle of the city with am Americano."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Lovely Little Farm",
+      "text": [
+        "This little farm was a great place to escape from the busyness of the city. We went in the afternoon after a morning of sightseeing around downtown. There was a day camp with about 15 kids and 3 or 4 counselors, but they were only in one area so it was still pretty quiet. Besides us and them, there were only two or three other families at the farm. ",
+        "In addition to the animals, they have a lot of beautiful flowers and a nice garden area that was growing very well. The animals and the grounds in general looked very well taken care of and the workers that we saw and spoke to were friendly and happy. If you're visiting Toronto and have younger kids or just like to see farm animals, Riverdale Farm is a gem in the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Nice to visit for young children",
+      "text": [
+        "I like to walk from where we live, on Don Mills Road, down the ravine and the lower Don Trail, to Riverdale Park. The farm is readily accessible from the footbridge crossing the Don River, and it's nice to wander around enjoying the various farm animals. Afterwards, it's easy to walk back across the footbridge to Riverdale East Park, and up to the Rooster Coffee House."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Get away from the city without leaving it",
+      "text": [
+        "This place does a great job of making you forget you're in the middle of one of the largest cities in North America; the nature is pristine, the farm is full of animals, and the place itself didn't seem overly crowded."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "5 Stars 🌟🌟🌟🌟🌟",
+      "text": [
+        "I always visited Riverdale with my children when they were small which was great.  It was always a fun little adventure and family outing.  You can gladly donate(  which is worth it and totally deserving) but theres no \"admission\" cost. Its just the right size too.  My kids are way older now but I still love coming here with my husband just to get out for the day. Amazing and cute animals.  Can be educational for younf ones. Id rather visit here than go to Metro Zoo anyday.    Try it out!  You wont be disaopointed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "Great for a young family",
+      "text": [
+        "My wife and i went to the Riverdale Farm because i hadn't been since i was a kid.",
+        "  The farm is a great place to bring young children so they can experience a farm right in the middle of the city."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Visit with young children",
+      "text": [
+        "Riverdale Farm is a hidden gem in the city of Toronto.  A fun place to take an afternoon walk with the family or with your significant other.  You can see the animals that you will typically see on a working farm and walk to through ponds and a beautiful natural habitat."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017"
+    },
+    {
+      "title": "Boring ",
+      "text": [
+        "Not too many animals. Somewhat boring. The animal farms in Europe are so much better. Really disappointed."
+      ],
+      "rate": 2.0,
+      "tripDate": "May 2017 • Family"
+    },
+    {
+      "title": "Great little oasis in the city",
+      "text": [
+        "Who knew there was such a rustic farm in the middle of Toronto?  Great little spot to spend an hour with young kids.  Nice that they've maintained the rustic feel of it.  It's beautiful  in the Spring with the cherry blossoms and lilacs.  We really enjoyed it."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017"
+    },
+    {
+      "title": "Transported in time in the midst of the big city",
+      "text": [
+        "While driving through the streets of lovely Victorian homes in Cabbagetown, we unexpectedly found ourselves in the idyllic greenspace which is Riverdale Farm. What a lovely respite to wander through beautiful old barns and view farm animals and life as it was long ago.  We left appreciating the beautiful city of Toronto even more for treasuring its past as it does and  maintain such a lovely setting for everyone to enjoy."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Couples"
+    },
+    {
+      "title": "Fun and free for a short visit with kids under 6",
+      "text": [
+        "A farm in the middle of this huge city? Indeed, and sweet for little ones. Little lambs, noisy moms guarding them, horses, cows and some fowl. A longer walk around the adjacent cemetery is easy and possible if desired. Good ice cream nearby too. Thank you City of Toronto!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017"
+    },
+    {
+      "title": "Not just for kids. A fun time for all ages",
+      "text": [
+        "If you love animals and escaping to a bit of farm life in the heart of the city, this is perfect for you.",
+        "I go with friends a few times a year.",
+        "We see the goats and pigs and chickens. It's nice to see the animals looking well adjusted and well cared for.",
+        "The grounds are beautiful to walk around on a nice day.",
+        "There is a big park beside it. Great for picnics before going to the farm.",
+        "Really, it's a nice little escape from the noise of the city."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016 • Friends"
+    },
+    {
+      "title": "Great little zoo in the heart of Toronto",
+      "text": [
+        "Taken my kids and other kids for years for the animals and the crafts. Worth a visit and have a quick coffee and snack while there. Staff friendly and petting area great. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "A Child's Place",
+      "text": [
+        "Children love animals and this is the place for them to visit. It is also good for adulds and teens as well. I use to take my daughter there when she was younger. I still love the place. I still visit all the places I used to take my daughter like the AGO, The ROM, movie theatres, Farms and other places. I also love Disney World and Disney movies. I am a big kid at heart and I will remain that way as long as I live. Please visit and revisit the child in you."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Part of my history",
+      "text": [
+        "When we lived in Toronto, we to go for a walk here. When Our nieces and nephews were young, this was a favourite spot to bring them. ",
+        "On our recent trip back to visit Toronto, we brought our teenage girls. While it is as lovely as ever, they were very few animals. Regardless, we loved it. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Great Farm ",
+      "text": [
+        "This farm is inside a park. There is a small kid swimming pool at the park.So have your stuff for swimming pool as well "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Nature In The Big City",
+      "text": [
+        "There isn't much to do here but for kids who want to hit a tiny \"petting zoo\" the location can't be beat. It's also steps away from one of Canada's smallest and oldest cemeteries. A nice place to visit for an hour or two."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "Free Farm Fun!",
+      "text": [
+        "Great break in the middle of the city to take young kids & see a working farm for FREE! ",
+        "There are also a few free street parking spots if you get there early enough.",
+        "Goats, cows, horses and chickens all doing their thing while you look on with adoration.",
+        "Before you leave, throw in a donation no matter the size so they can keep this gem in Toronto going"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2018 • Family"
+    },
+    {
+      "title": "Lovely place for a stroll with kids",
+      "text": [
+        "We took our baby here with our adult family members and it was a very nice attraction. The grounds are very well kept and the atmosphere very friendly. The animals are fun to look at!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "Fabulous!",
+      "text": [
+        "Every visit to Riverdale is wonderful. It's always a treat when one of the farmers is available to talk about the animals -- they're all super knowledgeable and clearly love their work. BONUS is taking a class there -- we do the music program with Arianne and she's also amazing, and also clearly loves the farm. (Tiana who does administration is also wonderful and helpful). We hang in the playroom after class, meander through the farm for a while to visit the goats, horses, chickens, pigs etc - always a great experience no matter what the weather is. Easy to get to, free street parking, free admission --  make a donation..keep this place operating!  NOTE -- the questions below about pay to skip the line, discounts etc. don't apply -- it's all free!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Family"
+    },
+    {
+      "title": "Free!",
+      "text": [
+        "Well, by donation. Throw them one, they're worth it. Lots of farm critters and a cheap and fun day out with paths, farm beasts, and often demos and events. Can't go wrong ( aside from LOTS of hilly walking). "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Solo"
+    },
+    {
+      "title": "Fun, Well Laid Out, Explanatory, Great for Kids",
+      "text": [
+        "Leave your pets at home, but bring the kids! Goats, pigs, and, of course, cows and horses in abundance with explanations on care and feeding. Riverdale Farm gives city kids a chance to see what life was like on a farm in the recent past."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "Farm in the City",
+      "text": [
+        "In the Cabbagetown neighbourhood of downtown Toronto, one finds the Riverdale Farm. This is a farm with horses, cows, pigs, sheep, goats, ducks, etc. There are programs for children and a shallow splash pool with lifeguards. The farm is on the grounds of the old Toronto Zoo now moved to the suburbs. One can understand why, as there are spooky remnants of old buildings for the formerly caged animals set \"free\" although contained at the newer facility. Great for nature walks and picnics. Free entry."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Family"
+    },
+    {
+      "title": "An amazing place for a toddler to explore",
+      "text": [
+        "My wife and I went to the farm with our daughter-in-law and granddaughter  who is 18 months old. It was full of animals that she found exciting to see along with hilly trails to enjoy stretching her legs on. It was fun to see her imitating the animals as we stopped to see them."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Great learning experience for young kids",
+      "text": [
+        "My grandson had a great time looking at the farm animals on this 3-hectare mini-farm operated by the City of Toronto through its Toronto Parks. The farm animals include horses, cows, goats, sheep, pigs, chickens and more."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Surprising place in the heart of the city. Easy stroll with the little ones",
+      "text": [
+        "Loved it. The kids had a blast. Easy to reach and easy to walk around. Amazingly close to downtown and accessible by public transit. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Going to the farm in the city!",
+      "text": [
+        "When so many children only see eggs in the store, cows in pictures, goats and pigs in cartoons, a trip to the Riverdale Farm is a great experience. The setting is lovely, it is free, and area to run around. A jem in the city. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Great time",
+      "text": [
+        "We loved the fact that this place is free of charge. It's more for walking rather than playing. If you have kids under 2, might be suitable for them. For older ones, I would suggest to take toys. If you love nature, it will be a good place! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Quaint Farm in Cabbage Town",
+      "text": [
+        "A lovely little destination for a sunny afternoon walk in Cabbage Town. The Farm is charming and rustic with horses, cows, chickens, turkeys, goats and sheep. Set beside a scenic pond, the farm offers an escape from the city for an hour or so."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019"
+    },
+    {
+      "title": "Farm filled fun for young ones in the city",
+      "text": [
+        "A gem in the city a must visit for all residents and for people visiting TO a relaxed retreat from the city.  Worth the walk thru! Kids LOVE coming here.  Enjoy"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "Very different for kids birthday!!",
+      "text": [
+        "The actual time was March 2018 but I couldn’t pick that time",
+        "The place is so fun for kids from 3-15 ",
+        "There’s a private tour with the animals (mostly farm animals like goats and lambs)",
+        "Best part was the lodge that we used for the cakes and pizza",
+        "The staff were so friendly and attentive and professional, they helped with everything!",
+        "They even stayed after to help clean up our stuff, and with a big smile",
+        "Perfect place for groups of 10-50 ",
+        "Definitely recommending!!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "Nice walk in a summer day",
+      "text": [
+        "I used to go and walk around to chill out and enjoy nature in the city. Few animals but enough to pet and enjoy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Family"
+    },
+    {
+      "title": "Farm Living, City Locale",
+      "text": [
+        "I accompanied my son's class trip to this urban farm that I hadn't known existed. It's quite quaint, having a farm in the middle of the city where property values are likely through the roof. Also, it's free to visit if you're going on your own. The kids loved walking around and learning new things by observing the different animals. It's a nice stroll with a lot of shaded areas so it's not that hot on a summer's day. There are plenty of animals to see and a lot of information to take in."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Family"
+    }
+  ]
+}

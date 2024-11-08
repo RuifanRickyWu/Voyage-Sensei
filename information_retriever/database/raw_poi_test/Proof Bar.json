@@ -1,0 +1,368 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Proof Bar",
+    "url": "/Attraction_Review-g155019-d5919927-Reviews-Proof_Bar-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "220 Bloor St W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5S 1T8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 39
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/38/da/83/proof-vodka-bar.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bars & Clubs"
+  ],
+  "description": "Experience authenticity of true Toronto taste at Proof Bar at InterContinental Toronto Yorkville. Savor the daytime social scene or fashionable nightlife that makes the city and Yorkville one of the liveliest places to be. Choose from a wide selection of cocktails from our menu, or simply ask for a specialty custom concoction, featuring some of the most artistic blends in mixology today. With a perfect patio for people watching on Bloor Street, or hidden away in our 2,000 ft of secret garden courtyard, fresh air fills our stylish space, full of lively people, drinks, and mouth-watering small plates.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Terribly pressured to leave",
+      "text": [
+        "From the moment we arrived to our Dome experience (which is very cool) we were constantly reminded we had a 90 minute limit -subtle but very distinct messages throughout our short time. The food was lovely, the ambience was great -which made the pressure to move along feel like a gloomy cloud when we were enjoying the other aspects."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Awesome",
+      "text": [
+        "Stopped in for a glass of wine and a late afternoon bite",
+        "The waiter was fantastic, very attentive and knowledgeable ",
+        "Ordered the cheese board, highly recommend the nduija unreal",
+        "Overall this experience absolutely made my day"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021 • Solo"
+    },
+    {
+      "title": "Early dinner",
+      "text": [
+        "I stopped in for an early dinner having not eaten lunch; the interior space is comfortable with a mixture of furnishings.  There were just a few other patrons with one bartender and one wait person.  After checking out the menu, I decided to grab a spot on a sofa to order a drink and some food.  Having not see the wait person in a while I placed my order with the bartender.  I had to track down the wait person three times in total. My drink was good and the flatbread pizza was very  tasty.  Dessert was okay.  When all totaled together it was, in my view, expensive for the value and the service, based on my experience, was inattentive.  Overall, this is a comfortable hotel bar and I enjoyed what I ordered; based on my experience and in my opinion, there was a missed opportunity to provide service on par with the other elements of  experienced at this establishment."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Overly priced!!",
+      "text": [
+        "High cost of drinks is a turn off! Room is comfortable and lighting allows for privacy. TV not visible to all . Need to pick seating carefully if you are here for game watching. Drink prices dissuade a several hour stay. Not a place to watch the game!",
+        "Staff friendly but can be slow to respond."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "An nice Oasis ",
+      "text": [
+        "The food is good and reasonably priced, they pour some excellent cocktails and have a good but limited selection of beer. A pleasant atmosphere and great service.",
+        "The drinks are a bit pricey but not out of line with a hotel bar."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Couples"
+    },
+    {
+      "title": "Nice lounge, but the music is too loud",
+      "text": [
+        "On the plus side, the service is excellent and the surroundings are congenial. One the minus side, the prices are high for what is on offer, and the music is played too loudly."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018 • Solo"
+    },
+    {
+      "title": "Good overpriced atmosphere",
+      "text": [
+        "The place is really gorgeous with a  magnificent wooden bar-display. plenty of Vodka varieties as well as Rye and scotch. Bar tenders and waiters very kind, serviceable and knowledgeable on liquors and wines. The Patio is even better than Inside. I had not the opportunity to try the tapas, next time maybe, the place is expensive, the value is average."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Pleasing oasis & delicious food!",
+      "text": [
+        "I celebrated a friend’s birthday before a concert at Koerner Hall across the street & loved the place! It features large sofas & coffe tables that create a sense of privacy, overlooking a lovely garden & outdoor patio. The snack menu is limited but quite delicious & ordering several dishes to share is the way to go!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Martini and a snack (and a chat)",
+      "text": [
+        "Krista. What a gal. Makes a mean martini. Super friendly. Passing through and thought I’d sit at the hotel bar even though I wasn’t staying there. Was not disappointed. Thumbs up!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Saturday Afternoon Networking event",
+      "text": [
+        "A wonderful experience networking with business professionals. Despite the large size of the group we were very well taken care of. Shout out to Reggie for a great service. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Business"
+    },
+    {
+      "title": "Hip Location!",
+      "text": [
+        "This is a fun location.  Cool atmosphere, excellent mixed drinks.  Waitstaff were friendly.   Bartender Krista was exceptional!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2015 • Solo"
+    },
+    {
+      "title": "Excellent",
+      "text": [
+        "Main restaurant at the Intercontinental Yorkville was closed on Sunday so we headed to the bar. Was terrific. We ordered steak & fries and Caesar's salad with chicken breast. Prepared perfectly. Shrimp cocktail nicely chilled & generous. Chocolate martini to die for, cosmopolitan however too sweet. Staff were exceptionally knowledgeable, pleasant & attentive. "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Nice ambience poor service",
+      "text": [
+        "I went to this bar for a quick cocktail before a concert.I waited for 20mins to be served when I could could the number of clients in the bar.the waitstaff of which they were many where walking around making chitchat.I was very disappointed as I really like my lipstick (cocktail) when I eventually received it and the music was nice as well.I would recommend this place but the service was poor"
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Very chic!",
+      "text": [
+        "The ambiance was great, It wasn't a busy night but it allowed to enjoy even more. It's very chic and expensive but a must try. There are many choices for drinks. I had a strawberry peach cobbler which was strong but good and a peach Bellini which was also good. The food was good too. It's tiny portions so just for munching. The strawberries dipped in chocolate were super yummy! "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Mixology at its best",
+      "text": [
+        "You will have to drop by and try a non creamy chocolate martini here!  The mixologist here won an award for creating this great drink, I really wish I could remember his name! Buyer beware though, the food and drink do not come cheap but it sure is good!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2014 • Couples"
+    },
+    {
+      "title": "Spicy caesers",
+      "text": [
+        "Proof offers a great selection of vodka. Drinks are expensive 12 to 24 but the atmosphere is great. The only problem I had was for a high end hotel bar their caeser was weak. There was no style or garnish like pi kles or spicy beans. Not much rimmer or flavour. If you charge $12 make an effort to make a quality cocktail. The lounge does offer great seating on comfy couches and chairs."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Hidden Courtyard Patio - Gorgeous",
+      "text": [
+        "You wouldn't know from the front of the place but hidden is a beautiful courtyard patio which at night time is gorgeous. I am sure it is during the day but at night gives off a feeling of being in a lounge. The Duck appetizer is amazing must have!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2014 • Friends"
+    },
+    {
+      "title": "Great staff",
+      "text": [
+        "The staff here were great.  The barmaid made the best Manhattan I have had using Crown Royal.",
+        "Good friendly atmosphere in a modern setting. ",
+        "Big screen TV s which were ideal for the opening game of the world cup."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Expensive,  but great drink & phenomenal bartending",
+      "text": [
+        "Drinks are $14-30, so be prepared for that. It's a great atmosphere for a casual, classy drink. The bartenders were skillful & gave great advice.  They were out of marshmallow vodka, but the bartender made up for that by mixing me a special drink similar to the one I wanted.  I had a pumpkin old fashioned & a dessert drink. Total was about $40."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "OK place",
+      "text": [
+        "This place could be georgeous. They have a very nice outdoor courtyard with sofa and comfy armchairs. It's lacking of greenry, a few trees, bushes would make it a very elegant place.",
+        "The cocktails are very good. The sphere ones are spectacular.",
+        "The Spanish theme on the menu is nice but the food does not meet expectation.",
+        "Friendly staff."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2016 • Business"
+    },
+    {
+      "title": "Best bar in Toronto",
+      "text": [
+        "My husband and I were on vacation in Toronto from Boston and came in here after having dinner down the street. We were supposed to have one drink and leave to the next place and ended up staying here all night! The bartender, Krista, was very nice, attentive and made an excellent martini. I must have had at least 3 cotton candies and they were all delicious! We had a great time in this bar and in Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Couples"
+    },
+    {
+      "title": "terrible",
+      "text": [
+        "we were a group of 16. it took over an hour just to get our food. and took an hour just to get our bill."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "Amazing staff with amazing accommodations",
+      "text": [
+        "This place was well worth it. Spent almost $600 but I everything and everyone there was perfect! Reggie our server/bartender was amazing and so patient with my party of approximately 25 people. They even brought out a complimentary cake for my Girlfriend's birthday and accommodated for everyone!! Love it! Would recommend again, the food was also amazing!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "Best bartender in Toronto!",
+      "text": [
+        "The best bartender in Toronto hands down!  Krista is the bartender and she's the best.  I stayed at the hotel 3 nights, each night she made me the best drink and recommended the best places for dinner.  I made sure my evenings started with a drink with Krista, her dinner recommendation, and a few more drinks by Krista.  Friendly, fun, and inviting!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Business"
+    },
+    {
+      "title": "Thought it would have been worth while",
+      "text": [
+        "I will give this place 2 stars each reason not earned are below: ",
+        "I came here on Saturday to host my best friends bachelorette Party. I arrived with 9 people in hand and advised we will be expecting 2 more. One waiter brought over an extra seat that blocked the way of the waiters coming from the back of the house. We were seated in the section that seated only 8-9 people. 1 couch, 2 single seats and 3 ottomans. I asked one of the waiters there if we could be seated in the other booth which had more seats. He advised the booth was already reserved and that we could not move. ",
+        "We said \"OK\" that was fine, especially if that group came with more people than we did. ",
+        "The other group arrived, there were only 5 people in the group that were there. This was ridiculous! We were squishing 11 people to fit in one spot while others had a full couch or two person per couch that seated approx 4 people Maximum. But we had to squeeze 5 people on the couch in our area. This was minus one star. ",
+        "Than the service was horrible. We were there from approx 9:15 to around 11:30 - 12.  When we first got there the waiter was barely around. We had to wait a long time to order our food and we did not all order at the same time. It was very staggered. Usually the waiter/waitress writes everything down and knows who had which item. This was not done. We were told if we were going to pay separate bills we had to write what we had on a piece of paper and provide it to the waiter/ waitress when it was time to pay. Isn't this the whole job as a waiter / waitress??? I might as well have got up to get my own food, if that was the case. Also, one of my guests asked for ketchup. So we thought it would be served in a little bowl/dish like it is served on the plate. NO! she brought over the whole bottle of ketchup which by the way did not look all that clean. At least if she put the ketchup in a bowl like it is supposed to be served it would have been a little bit more appreciated. Minus 1 star. ",
+        "We had to wait forever for our food. Like 30 minutes each time ordering. The plate portions are super small, i do understand if the restaurant is \"small plate\" style. But if its a small plate and taking 30 minutes to come out of the kitchen than it has to taste incredible. NOPE! it did not. I would give the food a 3.8 out of 5, if i were to rate it. Minus 1 star.",
+        "Also, when asked about a mistake on the bills the waiter gave us an attitude. I do not know if she was having a bad day or what? But it was uncalled for. Minus 1 star. ",
+        "And to top it off, the restaurant was not busy what so ever. There were people coming in and out but no one stayed as long as we did. We had 11 people in our party and each person did order quite a few of items. Also, gratuity was added to our bills. Personally I do not feel it was deserved by the wait staff that served us. There was one waiter with dreads that actually helped us out a little bit who was really nice. But he wasn't our assigned waiter. I think our tip should have been given to him. Minus 1 star. ",
+        "On the bright side, the place is absolutely beautiful!!! I will give them a thumbs up for that. ABSOLUTELY AMAZING, the chairs were comfy, and the space was very calming. The music was pretty good, but the songs were rotated quite frequently. For a 3 hour time, we heard the same songs maybe 3 times. So rotation may have been every hour. Wish it was a little more variety though :) but that is ok. Plus 1 star.",
+        "Also, at the end of our night they provided us with complimentary truffles and brownie which was really nice. I commend them for that. That is Plus  1 star."
+      ],
+      "rate": 2.0,
+      "tripDate": "Apr 2016 • Friends"
+    },
+    {
+      "title": "Charming place with amazing service!",
+      "text": [
+        "This was my first time ever dining at this place! The place is beautiful and perfect for a casual/fun girls night out. Our host/server was extremely helpful and provided us with the best service (Shehab and his female coworker). I love this place and I honestly can not wait for another girls night at this location! The food and drinks were perfect and so is the layout. 5 stars!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2016 • Friends"
+    },
+    {
+      "title": "Great Food, Great Service",
+      "text": [
+        "I was taking my young daughter to the Royal Ontario Museum to see the dinosaur exhibit, and decided to pop in here for a quick lunch.  At first I was worried because it is such a nice place and I was bringing in a four year old.  Our server Ravi quickly put me at ease.  He brought my daughter some colouring pages and crayons, and put her lunch order in first so that her food would come quickly.  I ordered the Club Sandwich with salad, and of course stole some of my daughters fries. lol.  They were delicious!  My sandwich was huge and packed with so much good stuff, avocado tomatoes etc. on fresh grainy bread.  Tasted amazing, and good for you too!  Ravi , our server, is a true professional.  I've worked in the food industry before and I know when someone takes pride in delivering an excellent experience to their guests.  It doesn't get better than this.  The space is beautiful, big cozy chairs, really cool Canadian grafitti/street art installation, they accommodated my kid.  Happy mom:)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2016 • Family"
+    },
+    {
+      "title": "Bachelorette/Hen's night fun! ",
+      "text": [
+        "We visited the bar for a hen's night earlier this month. The staff were attentive and accommodating. Recommendations on drinks were appreciated and if you go there please try the drinks with ice sphere. Yum! ",
+        "We were able to pay our tabs individually which was a bonus too."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2015 • Friends"
+    },
+    {
+      "title": "Tapas.",
+      "text": [
+        "Spacious with outdoor seating if you prefer.  A handful of big screen TVs with sports on every screen."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Business"
+    },
+    {
+      "title": "End of a long day!",
+      "text": [
+        "What a great start to the weekend...a brief stop at Proof before I flew out.  Grabbed a drink and the mushroom risotto.  Thanks to Reggie, behind the bar for being the best, as always!  Helped me find a charger for my phone, served me the best food, and a great beverage.  Glad this welcoming space is here!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Business"
+    },
+    {
+      "title": "Cool meeting place",
+      "text": [
+        "Great area right in Yorkville. My server Reggie was all smiles and so friendly at the bar. Great hospitality! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "super martini!",
+      "text": [
+        "stopped at proof for a martini and liked warm, modern relaxing ambiance of bar. reggie was our waiter and he was excellent and friendly. had a martini and nibbles! a super place to stop with a friend and chill!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018 • Friends"
+    },
+    {
+      "title": "Pre or Post Concert - Fun Apps & Drinks ",
+      "text": [
+        "Enjoyed an excellent Caesars salad, lamb kabobs with a fine selection of wines and cocktails.  The ambience is urban chic.",
+        "Reggie provided friendly, attentive service.",
+        "Perfect before or after a concert at Koerner Hall."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018 • Friends"
+    },
+    {
+      "title": "$4.25 for a small squirt of soda on tap and a lot of ice",
+      "text": [
+        "This is the venue that Meet Up groups frequent. Wondering what happens there in between. Maybe it is empty because of the prices. At Wholefoods new Hazelton Lanes Cafe, a rather nice lemon mint coconut soda with banana on side is under $4..."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Consistent, Reliable, and Welcoming",
+      "text": [
+        "There used to be a bar at the corner of Hazelton and Ave with street appeal windows. You could peer in, even if you didn't enter. It looked inviting. The hotel that housed it was a mainstay of the Yorkville scene. The corner was gutted for condos and the hotel rebuilt a few corners over. Its rebuild/redesign came with \"wind tunnel,\" a waterless fountain and a \"garden\" that isn't user-friendly. Then there are the grills/grates to navigate on entry, perhaps for \"contemporary cookie-cutter feel,\" but you feel like you are entering a cage or maze there. Contrast the entry to the hotel in which Proof Vodka Bar is housed. Nothing much there, and nothing pretentious. You can walk right in and through to the bar and not feel awkward or that you have to make any particular impression. A couple of days ago (Monday evening), two groups happily coexisted in the same space, Pierre's wonderful French Meet Up (2nd Monday of every month) and a \"25 dates\" event (age 55 cut-off). The two groups seemed to cross pollinate: \"grass always greener,\" and dispelling the \"principal\" that over 55s aren't \"25 dates\"-worthy. It was quite entertaining. The bar attendants took the chance coming together of two different worlds in stride. Lighting is warm and there are cozy around the corner seats for those who want a bit of privacy for quiet chats. Any large group seems comfortable, as this is an easy spot for mingling and meeting.Those who visit alone manage to find place and space too. There was a horrible storm going on outside, but the cheerful artwork dotted on walls around lifted mood. Not sure why \"Vodka\" is in name. That does and did not seem to be the draw."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Friends"
+    },
+    {
+      "title": "Not much of a vodka bar",
+      "text": [
+        "Comfortable large bar in the Intercontinental Hotel on Bloor St.",
+        "The selection of vodkas is limited to the brands available everywhere, so if that is what you want it should be fine. If you are looking for a depth or breadth of offerings you will be disappointed.",
+        "A selection of mixed drinks and wines are available.",
+        "Service is friendly but a bit slow."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2016"
+    },
+    {
+      "title": "Wander onto the Sky Patio",
+      "text": [
+        "What a treat for the end of summer! The ambiance is perfect, especially for group gatherings. I notice a lot of MeetUp groups are using it, which is how I came there. Nice surprise tucked away in the middle of a busy area. Sheltered and nicely furnished, a great venue for mingling and to wander indoors and out. The category ticked for this one should be acquaintances, as we were en groupe, but not, technically, for business."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Business"
+    },
+    {
+      "title": "A Unique Bar In Yorkville",
+      "text": [
+        "A friend and I celebrated my milestone birthday here last weekend.  Upon entering the bar we were promptly greeted by a very personable hostess named Marly.  She was very friendly and familiarized us with the menu, and general information about the bar.  A little rushed for time we decided to order a drink at the bar.  We were served by a very knowledgeable bartender named Jamie.  At his suggestion I ordered a bourbon sour, and my friend selected a blue tonic \"ice sphere\".  We were thoroughly pleased with our drinks as well as the wealth of information that Jamie provided regarding the establishment.  Marly and Jamie you were both superb, and made us feel very comfortable.  We will definitely stop here on our next trip to Toronto.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016"
+    },
+    {
+      "title": "Shaken, not stirred",
+      "text": [
+        "Luxury bar attached to the Intercontinental Yorkville, a luxury hotel. Their specialty is exotic cocktails. The cocktails are $20 each on average. It is in Yorkville, playground of the rich and famous. So you need to dress up. Think James Bond. Suit and tie kind of place.",
+        "Serves a high-class clientele, the money crowd. Very posh, stylish and swank. Their cocktails are exotic and not ones you will find at other more traditional bars. And the ambience is dark and sultry. It is Euro chic and the food is Spanish tapas- expensive and exotic. 5 stars for originality and quality.",
+        "High-class big-city modern-chic bar.",
+        "\"The name's Bond... James Bond.\""
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Food Tours Inc.",
+    "url": "/Attraction_Review-g155019-d10317673-Reviews-Toronto_Food_Tours_Inc-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4M 1H3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 354
+    },
+    "openingHours": "Mo-Su 08:00-23:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7d/0e/9d/perfect-way-to-finish.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bar, Club & Pub Tours",
+    "Cooking Classes",
+    "Food Tours",
+    "Wine Tours & Tastings "
+  ],
+  "description": "Eat + Drink + Explore Canada's Downtown. Discover Chef Scott's Toronto. Canada's largest selection of Food Tours, Drink Tours, Edible Escapades, Classes & Tastings. Taste the city through the eyes of a chef. Private Tours, Corporate & Group Packages available. Owned & Operated by Toronto's original and iconic Food Tour Guy - Chef Scott.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Complete scam!",
+      "text": [
+        "I bought the St. Lawrence market food tour pre-COVID and was scheduled for April 2020. The company did not respond to refund requests and completely ghosted. I see others with similar issues and I think the company is now out of business, but the sketchy part is they are still showing as open on their website and taking people’s $. Also unfortunately it looks like the chef passed away January 2021 according to FB so the business is definitely closed. I am out over $300."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2022 • Family"
+    },
+    {
+      "title": "It’s a scam!",
+      "text": [
+        "I was completely ripped off by Toronto Food Tours. They charged $300 to my credit card for a Friday Night Feast that was ‘postponed’ due to Covid but then disconnected their phone number, email and the voucher link showing $300 has been paid is no longer valid!! This is completely illegal and dishonest. Is there anyway to get our money back. From the reviews many have been scammed!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2021 • Couples"
+    },
+    {
+      "title": "A SCAM",
+      "text": [
+        "I bought food tour gift certificates for my parents for christmas pre-covid. The website is still taking bookings but it looks like we have been ghosted. I have called and emailed multiple times to book them in with no response. Chef Scott stole my money. I have lost $200. DO NOT TRUST THIS COMPANY."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Gift Basket Nightmare",
+      "text": [
+        "Worst customer service ever. $125 Gift basket from St. Lawrence Market showed up for a friends birthday to her on the wrong date, prices on items and basket from dollar store. Wrote two emails stating problem and not one reply. Will never use again and disgusted with service. Boo on you Toronto Food Tours and Chef Scott."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2021 • Friends"
+    },
+    {
+      "title": "An experience not like everyone else's",
+      "text": [
+        "I signed up for the \"Friday Night Market Feast\" tour scheduled for late August. Due to COVID-19 this tour was cancelled but the website was not updated to reflect this. 5 people showed up that evening (we didn't know the other 3) and waited for Chef Scott to show up. He didn't. Someone found a # for him and by chance he was closeby. He came by, apologized profusely for the error, even offered us a whole lobster to take home. He promised to contact everyone within a few days to reschedule or refund us. It is now mid-November and after multiple attempts to get in touch with Chef Scott we are unable to do so. I feel ripped off and very disappointed because I am a regular visitor to St. Lawrence Market and I was very much looking forward to experiencing it from a different perspective. I hope the others who showed up that evening had better luck getting reimbursed than I did. I would not recommend Toronto Food Tours."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Amazing Experience.  Great Food, Lots of History, and Chef Scott made the evening fun",
+      "text": [
+        "My husband and I just did the Friday Night Feast and it was amazing.  The tour of the St. Lawrence Market, the rich history of the area, the amazing food, and the fun meeting new people and trying our hand at cooking.  Chef Scott was a lot of fun the entire night, and there were many great stories!  Would definately recommend, and we will be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Great place for a stroll.",
+      "text": [
+        "Tons of food and drink venues. All fresh food made right there. If you want a great experience get a sandwich or plate to eat right on the spot."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "We are from the area, but sometimes like to explore our own city.  This tour was great, and we learned a lot of new information about Toronto.  The food tasting was amazing as well.  Jerry was a fantastic guide who was a perfect mix of knowledgeable, friendly and fun.  Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Couples"
+    },
+    {
+      "title": "Warm Experience on a Cold Day",
+      "text": [
+        "My out of town friend and I had a wonderful afternoon tour and met some wonderful people at the Market including our exceptional tour guide Gerri! We appreciated her historical knowledge of Toronto. The food choices were all delicious and we had a great time.  I would definitely recommend this tour not only to visitors but also to locals of our great city.  Warmest thanks to all involved! N & T"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Fun evening!",
+      "text": [
+        "Chef Scott is an entertaining story teller, and he has plenty to share about the St.Lawrence Market and Old Toronto. We prepared and enjoyed a great meal (five courses) in a scenic and historic spot with lots of friendly folks. I shouldn’t forget to mention that the wine and beer from local breweries flowed all night, no limit. We had a really nice time and would definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Couples"
+    },
+    {
+      "title": "Delicious Trip on the Ossington Strip",
+      "text": [
+        "We had a VIP tour with Chef Scott.  My wife and I have done many food tours in many cities in the US and Canada (Miami, Chicago, New Orleans, Nashville...).  When we fly out of Toronto, we make a point of staying an extra day to enjoy the city and take a tour with Toronto Food Tours (we have done eight tours so far).  We loved the Ossington Strip tour.  It included an excellent Spanish Tapas restaurant, a Japanese fusion restaurant and a classic Indian grill.  All of the selections were excellent and were paired with a cocktail or wine selection.  Chef Scott has great stories about the neighborhood, the Toronto food scene and the \"chef\" business.  It was a great evening and a chance to sample some of the best that Toronto has to offer.  I recommend it to anyone interested in getting to know another great foodie destination in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Cute little market place",
+      "text": [
+        "This is a cute little market place to get food and other little things. Great place to just sight see."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018"
+    },
+    {
+      "title": "Fascinating Blend of History and Food",
+      "text": [
+        "Terrific sampling of sweets and savories guided by Geri. She was knowledgeable and enthusiastic, with a great sense of humor--really brought the history alive for our large (13) group. We dodged a bit of rain but Geri was prepared for it. Food choices were awesome, altho heavy on the sweets."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "TERRIFIC guide and lots of food!",
+      "text": [
+        "We had Jerry/Gerry for our Sunday Brunch tour and she was just BRILLIANT!  So knowledgeable (we are from Toronto and we still learnt a ton!), super likable, and really professional.  ",
+        "I would have preferred more savory options than sweet, but other than that, it was a fantastic tour filled with lots of stops, and good conversation. Walking is easy, and if the weather is poor don’t let that put you off (you aren’t outside for much time). ",
+        "Whatever tour you take, I hope you get Gerry/Jerry, she really is the BEST!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "No kidding - come HUNGRY!",
+      "text": [
+        "A perfect way to spend the middle of the day, walking through Chinatown and getting the scoop on the surroundings with frequent stops for diverse Chinese foods: mains, dim sum, pastries and snacks. Portions are regular-sized; no samples here! I defy you to leave this tour hungry. Great value."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "In depth history of Toronto and so much food",
+      "text": [
+        "John was an excellent guide and it was amazing to learn so much about such a relatively small area of Toronto, just three or so blocks around St Lawrence Market. The highlight was the food - so many different serves and varieties with excellent insight on the origin of the food, the proprietor, and the tastes."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "So much more than a food tour",
+      "text": [
+        "If you want good food take a tour with a chef. We started with coffee and pastry and a walking tour outside around the area surrounding the market. We headed back into the market to continue eating at maybe 8 different places. You will not leave hungry. Overall great tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Chinatown Food Tour",
+      "text": [
+        "Chef Scott met us and began to regale my wife and I with stories about Toronto and Chinatown. We’ve been to old Chinatown many times and have tried lots of interesting food but figured we could always learn something new, and did we! Even though he gave us the chance to override his choices we stuck with them and he didn’t disappoint. The duck...the squid...the seafood fried rice was a surprise of the first order. The restaurants we went to were places we would not have gone to but oh we were glad we did and we will go back. We then went to a dim sum restaurant. We told Chef Scott we’ve done dim sum for a LONG time but what we ate was so fresh—not like any of the same items we’d had before. All freshly made, not frozen pre-made. Next we had the Chinese version of porchetta (Italian roast pork/pig). Off the chart. Going through a Chinese (oriental) market was a learning experience. He always had stories and information that were appropriate, important, informative and funny.",
+        "This tour is one that I’d recommend to friends and family...and if you’re from Toronto, yes, go on this tour. And you will not only learn lots about this neighborhood but you will have leftovers!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "Must do",
+      "text": [
+        "Chef Scott was great. History lesson and eating our faces off was a perfect combo. Recommended for anyone visiting to do this tour. Loved that it checked off the boxes for the both of us, interesting tidbits of historical ppl places and eats."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "Just the greatest!",
+      "text": [
+        "Wow, this tour really delivers a wonderful combination of history and food education and experiences. Our guide, Chef Scott, is sort of an attraction in his own right, imparting stories from his own, diverse, experiences in the food industry and also about the history of this interesting section of old Toronto. The food samplings were diverse, delicious and well chosen: not to mention numerous and generous as well. Bring your appetite for this experience. This is an experience not to be missed. We look forward to more tours with this group, especially when Chef Scott is involved. It is also an incredible value."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Food tour",
+      "text": [
+        "Guide was wonderful, and flexible. She was knowledgeable about the area”s history. We made some non-food stamps, that were very interesting culturally. Highly recommended"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Family"
+    },
+    {
+      "title": "Be a tourist in your own city!",
+      "text": [
+        "This tour is a wonderful way to learn some of the rich history of the St Lawrence area, as well as shopping the market with a different lens. Our guide John was very knowledgeable and had some great stories to tell! ",
+        "Our tour started with a wonderful cup of coffee and pastry, followed by about 1.5 hours walking around the area (outside, so dress for the weather), and then 2 hours of eating at various vendors in the market. Most things are pre-ordered, so there is little waiting around, even on a busy Saturday - and you will be stuffed! Would definitely recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Entertaining !!",
+      "text": [
+        "The tour is a must do especially if you enjoy food and a bit of history!",
+        "Ample food portions and varieties to try.",
+        "Our guide Kerry was amazing too!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Entertaining and Filling",
+      "text": [
+        "We enjoyed the tour. There is some interesting history and the food was very good. The quantity is more than we could eat. You may want to bring a doggie bag with you. It gave us a good introduction to some of the vendors at the St. Lawrence market. We were unable to go into the St. James church due to a concert being held, which was a little disappointing and the tour ended about 40 minutes earlier than expected. Overall it was good."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Wonderful way to celebrate a 40th birthday",
+      "text": [
+        "I booked a private St. Lawrence Market Feast to celebrate my husband’s 40th birthday. My husband and our 20+ guests had a wonderful time! It was four hours of fun, food, wine and learning. Chef Scott and his team are caring, accommodating and generous hosts. Glasses were always kept full and the food was delicious and plentiful. The cooking class part was a great way to break the ice amongst friends from different parts of our lives. We received so many notes from our guests about what a fantastic time they had. The Market makes a beautiful setting. A truly spectacular evening."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Friends"
+    },
+    {
+      "title": "A wonderful evening!",
+      "text": [
+        "I attended the St. Lawrence Market Friday night feast with Chef Scott with a friend and we were celebrating her birthday.  It was so much fun - a  very interesting tour of St. Lawrence Market with Chef Scott started off the evening !  There was a delicious charcuterie board as well as accompanying beverages - wine, beer and champagne. We enjoyed working with Chef Kelly to make the salad and then enjoyed watching everyone working at their stations.  The room where we worked and ate was beautifully decorated and highlighted the lights of downtown.  The meal was AMAZING!!  And we especially enjoyed the wonder stories that Chef Scott shared!!  All in all it was a wonderful evening!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Good fest with friends",
+      "text": [
+        "There is no better way of experiencing Kensington Market than walking/ eating your way  through the market.  There are at least half a dozen stores that are visited in the market wherein you sample all kinds of food from around the world (eg. Tacos, sushi bowls, fries, popcorn, bagels, etc(.   The portions are large.  You will not leave hungry.",
+        "8/10"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Friday Night Market Feast",
+      "text": [
+        "We were a group of 10 for the Friday night feast (on Saturday) and we all thoroughly enjoyed it. The venue is fantastic, the food superb and every single staff member was great. Chef Scott was an excellent host ! He was informative and entertaining. We’re looking forward to going again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "Lucky Us: A Private Tour!",
+      "text": [
+        "My husband & I were happily surprised to find we were the only ones on a Thursday morning tour. More like exploring the market and surrounding area with a friend. Jerri was a great guide, knowledgeable about both food and Toronto history. And the food itself sufficed for breakfast, lunch & next-day leftovers! Time and money well spent!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "Worth It!",
+      "text": [
+        "We thoroughly enjoyed this food tour, our guide Jeri (unsure of spelling) was fantastic and full of interesting knowledge without seeming robotic in what she was telling us. We did do the tour on a Saturday and it was a little bit of a bummer since the market was so full then our group was over booked and we were often shuffled about at a vendor’s food stall to not block isles and such. I would have preferred the company just offered multiple smaller tours on a busy weekend day so we could have enjoyed the atmosphere of the market a little better. The food was all fantastic and the short walk about the city learning knowledge we would have otherwise missed was great! Thanks!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "Amazing food and guide",
+      "text": [
+        "My girlfriend and I went through the tour and had an amazing time. All the food that was chosen for us and the recommendations given to us by our guide were amazing. The history facts that went with the tour where very detailed and about subjects you would't find out about outside of this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Generous",
+      "text": [
+        "Our guide was Gerrie and she was wonderful.  She explained we would be getting large portions, but we could  have our food packed up to take home if we chose.  It is a long tour through Toronto's former Garment District in the Queen West area with 8 stops.  it is well laid out to give you time to digest.  Lots of history which puts things in perspective.  All local places.  Diverse types of food with multiple ethnic groups represented.  Only one was a bust for me, but I have never been on a food tour where there wasn't at least one food that wasn't to my liking. It is great if you have time afterward to explore Queen West neighbourhood like we did.  I highly recommend this tour.  You will start off at a coffee shop, so no need to bring your own.  You are going to love your first stop, Jimmy's Coffee."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Pampered at Edible History at the St Lawrence Market with Chef Scott",
+      "text": [
+        "Incredible evening at St Lawrence Market with Chef Scott. Magnificently planned evening with a fantastic menu along with a guided tour of St Lawrence Market. Each and every staff member made us feel at home. it was a wonderful dinner party with about 60 people. Learned some new facts about the history of the Market and Toronto. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Friday Night Market Feast",
+      "text": [
+        "This past weekend, my sister and I attended the Friday Night Market Feast (the event was held on the Saturday). ",
+        "The event was SO well organized. We started the evening with a welcome beverage (glass of champagne) and welcome/intro from the staff running the event. We then went on a tour, lead by Chef Scott, of the St. Lawrence market - met some of the vendors, learned about the history of the market and where out food was sourced for the evening menu. ",
+        "After the tour, we were welcomed back with appetizers and drinks. We split off into teams of 4 and picked one of 6 stations and helped prepare a portion of the meal for the evening. The menu was a 5 course meal ...we were so full by the end!! ",
+        "My sister and I had the BEST experience. We were so impressed by how well organized the event was from start to finish and the food tasted amazing. Chef Scott shared tips for preparing and cooking aspects of our meal and he created a fun environment for everyone. ",
+        "We are definitely planning on doing another Friday night market feast! We had so much fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Lots of food 😋",
+      "text": [
+        "My mom and I had an amazing time! Our tour guide was very friendly and nice! The food was delicious and it was nice that we got to take some of it home for the rest of our family! However, we found that there was lots of the same type of food, such as pastries and carbs, just wish there was more variety! Overall, had a great time and loved the experience!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020 • Family"
+    },
+    {
+      "title": "Food and Facts",
+      "text": [
+        "Did a wonderful food tour with Geri. Well organized from start to finish. We were the only clients on a Tuesday afternoon so we got a private tour. We live in the area but we don’t really know our own city. Food was pre ordered so there was no waiting around and there was variety in the selections. Portions were generous, we took home a doggie bag because we couldn’t eat it all. My personal favourite is the candied salmon. Our guide was very knowledgeable about the history of Toronto and of the specific sites. I appreciate her personable, good natured manner. Highly recommend. Tips: 1, dress for the weather, there’s a good chunk of outdoor time 2, consider going in the morning for the freshest pastries and 3, come hungry."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Excellent!",
+      "text": [
+        "We organized a private tour for our team at work, and it was an amazing time! We learned a lot, even native Torontonians learned something new. Chef Scott was engaging, filled with unique insights and super personable. High recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Fun Tour, Great Food!",
+      "text": [
+        "Our family was lucky enough to get a private morning tour, likely because it was in January on a weekday. After gigantic fresh pastries and beverages, were taken to interesting locations around town with a history narrative near the St. Lawrence Market. Inside the market, we were given food from around the world to try- So much food we could not eat it all! We also learned the history of the market and a little about each of the foods we tried. Our tour guide was affable and knowledgeable! We really felt like we were experiencing authentic Toronto! Money well spent!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Family"
+    },
+    {
+      "title": "2 nd food tour with this company ",
+      "text": [
+        "Our guide gerry was very informative and pleasant to have for pur tour. Such a great day, lots of food and yes you will be full at the end of your tour. This was our second tour with this company and plan on doing them all some day. Well worth the money. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "entertaining",
+      "text": [
+        "the group was a little \"to big\" which created long waiting times. the food was good and the market place worth to visit"
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2019"
+    }
+  ]
+}

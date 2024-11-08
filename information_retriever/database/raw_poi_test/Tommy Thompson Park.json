@@ -1,0 +1,371 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Tommy Thompson Park",
+    "url": "/Attraction_Review-g155019-d3497880-Reviews-Tommy_Thompson_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 Leslie Street",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4M 3M2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 136
+    },
+    "openingHours": [
+      "Mo-Fr 16:00-21:00",
+      "Sa-Su 17:30-21:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/5a/12/f3/photo6jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Nature & Wildlife Areas"
+  ],
+  "description": "A unique place near downtown Toronto to experience nature, and one of the best places for bird-watching in the city, with more than 300 recorded species. Use the menu below to find details on visiting the park, trails, events, festival, programs, restoration, and research.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Great for biking",
+      "text": [
+        "Great place to bike, with stunning scenery along the way like the CN tower and lots of trees, plants and flowers! It’s so far out you can see Mississauga and the US!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Way to go with birds",
+      "text": [
+        "If you are into birding, this park is one of those where you can spend a whole day just identifying and enjoying birds. There's a whole wide area for biking, walking in the trails, spotting and identifying different kinds of warblers, robins, starlings, swans, Canada  goose, etc. You can also catch a glimpse of boats docked in the marina adjacent to the park."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "City getaway minutes from the city",
+      "text": [
+        "Great getaway from the city ... minutes away from the city.  natural space with no dogs allowed.  lots of joggers and cyclists.  lots of coast for relaxing and fishing.  there is some parking available near the trail but its not paved.  otherwise you ll need to park further away and walk"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Devastation by the cormorants",
+      "text": [
+        "Tommy Thompson Park is a gem for Torontonians.                                                                          I love riding my bike over there when the weather warms up.                                                  My regrets are to see how much damages the Cormorants have done over the years  to trees and the few beaches around. They have destroyed so many trees and it seems that their population is growing every year. We can't go to the few beaches anymore as they have invaded so much of it. The smell of droppings isn't so pleasant either and is quite toxic and in a time of pandemic this is hardly the time to have birds that spread their germs for everybody to inhale. ",
+        "I hope something will be done soon otherwise they may also invade the Toronto Islands.   I heard that oil on the eggs is a compassionate way to reduce their population.  They do nest high in the trees so the use of drones certainly can only help,"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2020"
+    },
+    {
+      "title": "If you like raw nature by the water, this is your place.",
+      "text": [
+        "A long park on a spit, you can walk for miles with great water views and also views of the Toronto Skyline.",
+        "Cold and windy in the winter, but lovely the rest of the year.",
+        "Only hassle is getting to the entrance which is east of downtown Toronto. If you don't have a car the transit system will get you to the non-descript area at the entrance to the park - bit of a wasteland near a sewage treatment plant.",
+        "Not a must-see, but if you like walking and water, and the weather is fine, you will have a nice afternoon."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "What a fantastic place with snow everywhere and the sun shining",
+      "text": [
+        "Took a cab from downtown with my binoculars (as a new recruit to birdwatching). Loved it - views amazing. Despite my infancy with regards to birdwatching - successfully identified 10 new species (having traveled from England).",
+        "A special thank you to Mike - the ranger who was incredibly helpful.",
+        "I hope I can come back in the summer when I suspect the place is alive with wildlife."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Slice of country in the city",
+      "text": [
+        "Not sure about winter but certainly one of my favourite bike rides the rest of the year. Sometimes a bit crowded on weekends but large enough that you can find some personal space to get away from the maddening crowd. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "a different view of the  city.",
+      "text": [
+        "Ride your bike or take a stroll.  The vegetation and views are beautiful.  The recent improvements to the cycle paths are great."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Enjoyable trail",
+      "text": [
+        "Had an enjoyable time riding our bikes along the 11km trail.  The main trail is a wide paved road with lots of side paths to explore nature.  Many people walk.  Sign says no pets allowed.  Nice scenery. Can see the beautiful Toronto skyline and the lake.  There’s a light house at the very end if you make it there. There is free parking at the entrance and on the road outside.  Several port-a-potties along the trail."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Family"
+    },
+    {
+      "title": "Good cardio",
+      "text": [
+        "If you like to work out and don;t like the crowd then I would definitely consider this park. It give you a total of 10 K  of cardio.",
+        "You can rent bikes at the parking area."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Great for a walk",
+      "text": [
+        "Lovely spot for a very lovely walk, great for jogging,easy biking, birding, lots of different paths to walk,see the sunset.",
+        "Right by the water, if you are a nature lover this is a an excellent place to go."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018 • Couples"
+    },
+    {
+      "title": "Great place for a bike ride or walk",
+      "text": [
+        "Only open weekends. Man-made nature sticking out into the Lake. A unique, un-urban experience with great views of the downtown skyline. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "Off beat park. Great T.O views",
+      "text": [
+        "I drove up to see the sunrise over Toronto. Of course, it was a cold December Sunday, and the clouds didn’t let the sun do it’s thing. ",
+        "It’s a fair distance from the entrance to the southern tip. I brought my cycle. The park seems to have a lot of cyclists and runners. ",
+        "The park is special, in that it’s reclaimed land, and also because it is an active site, is open only on weekends. I will come back for a sunrise, I’ll probably wait till spring."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Solo"
+    },
+    {
+      "title": "A True Toronto Gem",
+      "text": [
+        "This is one of my favourite places in Toronto. Open on Saturday and Sunday only (we tried to get there on a weekday and got severely reprimanded, so don't even try). Perfect for cyclists, who can get to the \"nice part\" quickly. If you walk, be patient through the first part until it gets wonderful. Worth exploring a few times. There is much to see, places to discover, feel emersed with nature. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "Not your average park",
+      "text": [
+        "I am a Torontonian who has lived close to this park for almost 20 years. I've been there in all seasons and all times of the day and night. It is not your typical postcard-perfect park, but rather a strange but wonderful work in progress. ",
+        "During the day on weekdays it is closed to the public as it is an active dumping ground for construction waste - I believe exclusively bricks, concrete and other solid waste - and busy with a steady stream of dumptrucks. On evenings and weekends, however, it is a great place to escape the city, find some solitude by the water, watch birds, and even swim (if you're brave!). ",
+        "There is a a walking path that is constantly evolving - watch for it on your right when you first enter. This is much more pleasant than the paved road, which tends to be dominated by cyclists and can get very hot in the summer. The wetlands are in constant flux (both natural and planned/executed by humans) and always provide something new to look at. ",
+        "Perphaps the best (and must unusual) part is the abundance of water-smoothed bricks, rocks and old pieces of tile, glass and various countertops that make up the beach to the southeast of the lighthouse at the end of the spit. My kids LOVE to spend hours out here building towers, throwing rocks in the lake and generally engaging in very creative play. And the views of the Toronto skyline are unbeatable. ",
+        "There is also lots of wildlife - coyotes, birds, beavers. This place feels more like a hidden treasure than a must-see attraction - a great place to spend an afternoon."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Family"
+    },
+    {
+      "title": "Overrated",
+      "text": [
+        "This \"park\" has lots of dry grass, rocks, pebbles and couple of trees. It's extremely hot to walk here during summer. Even at a cooling temperature of 20 degrees Celsius, the high UV will turn you 3 shades darker spending an afternoon walk here. There's not much of a view except 1 or 2 areas where you can catch a glimpse of CN Tower with many birds flying around. I wouldn't be back for another visit as there's only that much to see here. There are no street lights in the park, hence, the park is closed during evening."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "A bit creepy but spectacular skyline views make up for it",
+      "text": [
+        "This park is in fact an artificial peninsula built on construction debris. Shoreline and smaller trails are littered with old bricks and construction wires. That's the creepy part. But the park offers paved trails - perfect for biking. Spectacular views of the Toronto skyline especially at sunset. Old lighthouse at the tip of the peninsula. Lots of wildlife - birds in particular - to be encountered. The park is only open on evenings during the week and all day on weekends and holidays. Free parking."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Family"
+    },
+    {
+      "title": "This will be one of the greatest parks anywhere",
+      "text": [
+        "New York has Central, London has Hyde, Vancouver has Stanley and mark my words, in another decade this will be up there too. It's been a slow motion creation out of landfill, almost by accident, but it has wildlife, views which remind me of Van Gogh paintings, sailboats, a lighthouse and a million dollar view of bustling Toronto. The only problem is the popularity on weekends. When I first came here it was for the solitude so close to the city but now it's being discovered and as one of the few great free spaces in Toronto and is becoming overcrowded on weekends. But if you come here in the off hours, you can spot feral ferrets, coyotes (one stalked me once), cormorants, beavers and a lot more. The swallows are my favourite at sunset."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "A Good Place to Ride a Bike",
+      "text": [
+        "I rode with a friend from the city out here. What a great way to get some exercise, explore nature, and take in the views."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Friends"
+    },
+    {
+      "title": "Expansive urban bird sanctuary",
+      "text": [
+        "Suuuuper cool that we have such a neat urban bird sanctuary. Because the walk to the tip of the park is quite long, you seldom see people on foot here. It is used primarily my bikers. Bikers: watch for snakes pleases, saw a few crushed ones on the path :(  That said, if you have a few hours to walk around it's great for bird viewing. There is also some decent fishing to be had and this is why I go for the most part. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "What a great bike ride!",
+      "text": [
+        "You can easily put in 15K without much effort by exploring the paths and roads. ",
+        "Outstanding views of the city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Urban escape",
+      "text": [
+        "This is the wildest place near downtown Toronto. Only a 20 bike ride from Union Station along bike paths. You can count on a wide variety of birds and other wildlife in the park. There is a paved road that goes 6 kilometres out on a manmade spit into Lake Ontario, giving you a fine view of the city. Be sure to bring food and drink, there is no opportunity to buy anything in the park. Check the weather before you go. This can turn into an all afternoon adventure"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Wilderness pedestrian park",
+      "text": [
+        "I live nearby and visit often - It is stunning to see such a variety of wild habitats and the plants and trees that flourish here.  Also of interest are the hardy walkers who undertake the full length of the park to the lighthouse which is rumoured to be haunted - Such a huge wilderness park and in the downtown of the City - we are blessed to have it - An absolute dream for the bird watching crowd as well "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Nature in the city",
+      "text": [
+        "Tommy Thompson Park is a man-made spit of land projecting into Lake Ontario just east of downtown Toronto. Despite being made of landfill and construction debris, it has become a remarkably \"natural\" refuge for birds and animals, and even humans wanting a break from urban life. Migratory birds stop over during spring and fall -- some stay for the entire summer -- and there are large permanent populations of cormorants, herons, geese, ducks, hawks, gulls and songbirds. Beavers often can be seen, also weasels and snakes (harmless). The view of the city from the end of the spit is spectacular, and on a clear days one can see all the way to Hamilton and the north shore of the Niagara Peninsula. It's closed during weekdays because landfill is still dumped there, but open evenings and weekends and holidays. Can be bleak and beautiful in winter. Because of its size, it rarely feels crowded even when thronged with birders, sightseers, joggers and cyclists. More of a resource for Torontonians than tourists, but always a nice escape for anyone wanting to get away from urban grit."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Great view, but main track is not that nice to walk.",
+      "text": [
+        "I went to Tommy Thompson Park with one of the rentable City-Bikes. I would not recommend walking only, at least not at hot days, as the main track to get to the island is a paved road with little shadow. However, smaller tracks lead you through nicely overgrown paths to spots with a great view."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018"
+    },
+    {
+      "title": "Biking trip",
+      "text": [
+        "Great place to walk, jog or bike.  Conservation area, Great views of the city and if you are lucky you may see some animals"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "A short cycle ride away from the city",
+      "text": [
+        "We hired a city metro bike - only a 3 speed but following the well directed bike trail took us to this nature reserve. It is more a nature reserve left to the wilderness and wildlife it seems, you do get some good views of Toronto and across the lake and of course bird spotting if thats your thing. However, as far as I could see there is little or no infrastructure to support your visit so bring your own refreshments (and take away your rubbish)."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Beautiful",
+      "text": [
+        "Beautiful views of Lake Ontario and down town. Lots of space for walkers and bike riders to share the road. It's hard to get close to the water, but my kids just enjoyed being able to throw rocks in from a distance. My eldest daughter was so happy to see that pets are not allowed at this park (she was cornered by 2 large dogs and now has an extreme fear of them). It was nice to finally be able to walk through a park without someone telling me she needs to \"get over it\"."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "Beautiful Views of beautiful City",
+      "text": [
+        "What picturesque views of the waterfront of Toronto.  CN tower, the baseball field and all the high rises.  Toronto has a great downtown area that blends historic with modern. Great shopping Eaton Center and lots to see and eat. Six china towns along with many pubs and restaurants truly an international city"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Couples"
+    },
+    {
+      "title": "Too bad it only open weekends and holidays",
+      "text": [
+        "As the title suggests it’s only open weekends and holidays, since it is a working “landfill” during the week. This is a GREAT escape close to downtown Toronto. Not only can you walk, bike, roller blade in the warmer seasons – it’s great all year round!  Check out their website for special activities/guided hikes etc. A great place for bird watching and just getting out into “created nature”."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018 • Family"
+    },
+    {
+      "title": "The park",
+      "text": [
+        "A great place to go chill bring your bike do the trails, relax by the water, go fishing or if you ride down far enough you can sit on rocks by water with a beautiful view. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Leslie Spit is poorly maintained",
+      "text": [
+        "Leslie Spit in my favorite place to ride my bicycle. No cars, no off-leash dogs. ",
+        "Beautiful views of the city. Nature at its best.",
+        "Unfortunately who ever is responsible for maintaining it is doing a poor job.. Labour Day Monday the park was crowded. The portable washrooms were overflowing and extremely dirty. What a shame! "
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Beautiful Nature Sanctuary",
+      "text": [
+        "Tommy Thompson May have a name that sounds like it’s made up but it really is one of Toronto’s prime nature reserves. Specifically it is a bird sanctuary. If you’re looking for a nice long walk with majestic views this is the place. I bike here constantly. Note: no pets (it is a bird sanctuary). A great spot to take kids to learn about marshland ecosystems."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Great view of the city!",
+      "text": [
+        "This is an amazing relaxing area to come and chill after a long day. Toronto is such a cool city and it's relatively off the radar, which is great in my opinion. The park is located on an artificial island in the middle of Toronto Harbour. You can get some stunning views of the Toronto skyline which rivals even Manhattan."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "My favourite place in Toronto",
+      "text": [
+        "I go there almost every week and am still not bored with it. The wildlife is wonderful, so many creatures you meet new ones every time (a few coyotes around sunset, minks in the morning, waterfowl all the time). Right now the paths are quite icy and slippery, so it requires some skills/guarantees awkward bambi steps! It is quite grey for now, but will be at its best in a few weeks/a month when spring arrives. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "WONDERRULOOSO",
+      "text": [
+        "I love this place because it has the same name as me. We go there for my birthday and u love it! It is nice and quiet and I don't see any wild animal."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "Amazing first adventure on my 4th Grader's school trip",
+      "text": [
+        "What an amazing gem hidden away in the City!  I was fortunate enough to head over to the Park with my daughter's class to learn more about bird migration and the different types of birds that find sanctuary in TT Park.  We were so fortunate to be there as the volunteers worked away in the morning - recording the types of birds that had be caught briefly to document and tag before releasing.  After another child declined to help, my daughter was lucky enough to release a chickadee back into the park....the look on her face was pure joy <3.  The views of the City are breathtaking from the Park.  We were so impressed we will be looking into summer camp for next Summer!  A must do especially if you are a birder!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "Nice to cycle along. Nature on top of landfill.",
+      "text": [
+        "\"The Spit\" as everyone refers to it was begun in the 1960's using earth excavated to build Toronto's bank buildings. Only opened on weekends. Okay for cycling. Cars not allowed (you can park at the base of the spit at Lesley St.)",
+        "Parts of it can be a bit dusty and in some areas the sound of birds is quite loud. You get an interesting view of the city. But unless you are going to cycle, probably not worth the walk. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Silent Park",
+      "text": [
+        "This man made island is a   peace in heaven from the hustlbustle of noisy  Toronto.No cars or motor bikes allowed only people and peddle bike ,plus great views of Toronto from there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "Bird lovers' paradise",
+      "text": [
+        "Not too far from the Toronto downtown core and one can drive there with no difficulty at all. Indeed I usually stay in Markham in the North when I visited Toronto and I had managed to take public transport (45 minutes) to the Park although a bit of walking to the park entrance would be required. There is a small parking lot at the Park entrance but somehow the long stretch of road leading to the Park as well as a cross road at its front provides plenty of road side parking too. The Park opens weekday evenings from 4-9pm and then weekends and holidays from 5:30am to 9pm (This is the newest information on their website, but in my past visits, sometimes they are closed during weekdays for construction projects so one better check before going). ",
+        "Basically this is a great place for biking and jogging, as well as family outing.  it affords a great view of downtown including the CN tower in a distance across Lake Ontario.  For me, its importance lies in the birding opportunities it offers. It is known that the month of May and September are the best months to see the most variety of birds passing through Toronto and this Park is one of the favorite spots, May being the peak time for birds coming from the south to breed in the north and September when they return via Toronto to the warm south. Each time they stay for 2-3 weeks to feed themselves well before their long journeys. I have been here a couple of  times over the past year but somehow either the weather was not optimal or the timing was not right (this particular visit is in August which is before the birds' September return trip), I did not manage to see too many species. But of course there are resident birds in the Park as well and that alone is good enough reason for me to visit whenever I am in Toronto if the weather permits. A gentle reminder, you need to bring along drinking water and some snacks (food) for your journey as there is no shop whatsoever inside the park. The only thing that is available is a hot dog stand that sells bottled drinks as well right outside the entrance. And then rain gear is also necessary just in case weather abruptly changes as there are no rain shelters either."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "UP Express",
+    "url": "/Attraction_Review-g155019-d8146403-Reviews-UP_Express-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "7 Station St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 1C3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 3227
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/04/31/93/up-express.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Rail Services",
+    "Public Transportation Systems"
+  ],
+  "description": "North America's first dedicated air-rail link, offering a 25 minutes journey between Union Station in downtown Toronto and Pearson Airport.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Good transport from Toronto airport to downtown.",
+      "text": [
+        "This is a great way to get from Toronto airport to downtown Toronto. It is cheap (CAD 12 one-way), the trains run frequently (every 15 minutes), they are quick (25 minutes) and they go right to Union Station. It is safe and comfortable although it can get busy. There is plenty of storage for luggage on board."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "The UP Express is the way to go!",
+      "text": [
+        "If you have a Presto, it’s $9.25 to get downtown Toronto from Pearson, vice versa.  The trains were very comfortable, clean and the ride was incredibly smooth.  Nicely lit up, few stops.  I would highly recommend taking the UP Express!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Stress-free travel into downtown Toronto ",
+      "text": [
+        "I would say it's the best, fastest and easiest way to get into downtown Toronto, it's clean comfortable, efficient service, on time scheduling...runs from Terminal 1 at Pearson International Airport...this service cannot be beat.",
+        "Saved so much time and money away from traffic jams and high costs of taxi to your hotel downtown...a 25 minutes drive is all it takes to Union Station, leaving every 15 minutes...with a one way fare of $12.35.",
+        "An area to secure your luggage is available on the Express train, you can purchase tickets online or at the station in person...a few machines is readily available...with no hassles in using....I highly recommend this mode of transportation out of Pearson airport."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Short trip to Toronto",
+      "text": [
+        "I traveled with my wife who had recently had a knee replacement and needed some assistance, the customer care were excellent, i cannot say enough about them . They were extremely friendly kept checking on us and ensured we were met at our destination .this was for the trip downtown and the return journey"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Ok for causal riders. Would be excellent ifthe app/ discount for airport employees/ other transit riders is reintroduced",
+      "text": [
+        "Service is efficient, trains are clean and staff is excellent. Great for casual riders. ",
+        "They removed the app which would give real time updates on the service and the ability to pre-purchase tickets. They used to sell tickets onboard as well and they gave a  good discount to airport employees who use the service regularly.  Now the website does not work sometimes so you cannot purchase tickets fast and makes you miss the train. They also have not integrated the service with othe systems such as TTC or Go transit which makes it very expensive, specially for airport employees who ride on it frequently. ",
+        "They had a great service and now ruined the experience."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2024 • Business"
+    },
+    {
+      "title": "Fast & convenient way to get from downtown Toronto to Pearson",
+      "text": [
+        "We were fortunate to be told about this train service from Union Station to Pearson airport.  No need to stress about traffic or booking ahead.   The terminal was easy to find in Union Station, we could pay by credit card at the machine there and walked right onto the train without a hitch.",
+        "Lots of room for luggage and the train was clean and quiet."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Wrong Info on Good Friday Service",
+      "text": [
+        "I had to get to the airport on Good Friday morning and checked the  UP website the day before. Was shown the trains started from 6:00 a.m. Friday. Arrived about ten to 6:00 to discover a group of distressed people in front of the UP office where signs said service would start at 7:30. Managed to share a Uber with another passenger but it was very upsetting."
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Good option for infrequent commuters",
+      "text": [
+        "UP Express is a great option to avoid driving downtown if you’re coming in from the west. Train is quick and frequent, leaving every 15 minutes from 5 AM to 1 AM. Yes you have to pay to park at the airport ($25-$38 per day), but parking costs about the same downtown. ",
+        "You could also take the GO train which offers free parking, but GO trains are slower and much less frequent (at least until to GO expansion is finished.)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Business"
+    },
+    {
+      "title": "Good value",
+      "text": [
+        "this was a great way for us to get from the airport to the city. Our hotel (Chelsea) was far from here, so maybe uber would been more better's ut the kids love the train ride"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Best way to travel from Airport to Downtown.",
+      "text": [
+        "My husband and I had our first trip to Toronto in January.  This was the best idea to get downtown from the airport. 25 minutes and we were there and it was so cheap compare to a Uber or taxi. Our hotel was attached through the PATH system to the UP Express so it was even more convenient. The spot for your suitcases on the train is nice also and even when I had extra suitcases coming back to the airport everything still worked out smoothly.  When you are going from the airport to Union Station there is no confusion so it is nice.  Everyone needs to use this or at least try it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Transportation in Toronto is Clean and Safe",
+      "text": [
+        "After NY visit recently my wife was hesitant for us to use public transportation with the kids.  A friend who lives in Toronto said it would be fine.  We rode the UP Express, subway, and trollies.   All were well-maintained, clean, and I felt very safe.  Toronto knows how to do public tranporation."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "The best train in Toronto",
+      "text": [
+        "UP Express is a lifesaver. I have never seen it being late or getting cancelled. I just wish they did a 15-minute schedule more often, and stayed open past 11 PM."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Good Value",
+      "text": [
+        "Used this from Pearson to Union station, crowded when we used it but quick and inexpensive $12 one way for 2."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Fast, Easy, Comfortable, NO TRAFFIC",
+      "text": [
+        "Been over 4 years and one really bad pandemic.  And still the best way to get from the airport into downtown Toronto.  Especially as you look out the window at the bumper to bumper traffic on 427 and the Gardiner Expressway.",
+        "Just a reminder - the station is at the far end of Terminal 1.  A bit of a hike, even if you arrive in Terminal 1.  You may speand about the same amount of time getting to the train as you do getting into the city.",
+        "But well worth the extra steps"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "It's a train",
+      "text": [
+        "This is a really useful train to get you from the airport into union station in Toronto. Lots of space and fast."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Pretty hard to beat the convenience",
+      "text": [
+        "Honestly, it's hard to beat the $12 price for a round trip ticket from Union out to Pearson. Anyone coming to TO and heading into the down town core needs to use this service instead of spending a stupid amount of money on a taxi."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Best way to and from the airport",
+      "text": [
+        "Fast, comfortable, and very reasonably priced.  This is a great airport train, much more comfortable than in most major cities."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Airport transfer",
+      "text": [
+        "Used UP train to Get from airport to union station. As the queues at taxi rank were so long. Resonable price, clean, efficient."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Easiest path from Pearson to downtown and back",
+      "text": [
+        "Very simple and easy to use, great signage, reasonable price, and good schedule. Union Station is really centrally located, too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "UP Express refuses to refund paper ticket after they cancel trains on Sep 03 2022.",
+      "text": [
+        "I arrive back in Toronto on Sep 3 2022 from abroad and bought a paper ticket for UP Express leaving at 2pm from Pearson to Union.",
+        "Due to technical issues on UP Express' end all trains were canceled. The UP Express people at Pearson told passengers that we could get a refund if called UP Express support.",
+        "I called UP Express support within 10mins of the cancellation and provided them with my details and a paper ticket number. I was told UP Express would email me within 5 days to ask for my financial information for the refund.",
+        "10 days later and no email. So I call them and long story short they do not refund paper tickets even when they cancel their trains! Ridiculous! And best of all even after the trains had been canceled the UP Express people at Pearson did not stop people from buying paper tickets. So UP Express collected all that money, did not provide train service, and no refund. ",
+        "So be careful."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Horrible, user unfriendly  new web based system to purchase tickets.",
+      "text": [
+        "They removed the app and instead implemented a web based system to buy tickets.  After then, buying, accessing and detaching for tickets became a mad hunt of confusing tabs, paths to nowhere and stress.  Also, if you had pre purchased tickets, they disappeared ( they say those tickets carried over, but that’s not true. I also called the customer service line 3 weeks ago and haven’t heard from them ever since). The train is convenient, but you have to pay with stress and confusing ahead to jump on the wagon.  Just what I need ahead of taking a flight.."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2023 • Business"
+    },
+    {
+      "title": "Super fast and convenient = faster than the car",
+      "text": [
+        "Easy to find, board and travel, super fast, quite inexpensive and regular service - takes you direct to the city and direct to the airport - no need for a car service."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Loved it",
+      "text": [
+        "We stayed near the airport and just caught the UP express downtown to Union Station. It was easy to catch and not very expensive. Also kids ride free!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "Why fight traffic when you can take the train?",
+      "text": [
+        "I have done it all too often: called a cab to take me to the airport and then stressed out whether I'd make it in time due to traffic. But the UP Express eliminates the worry. It runs very regularly, is much cheaper than a cab/Uber, and if it's not a peak time, one can easily get a seat and relax while on the way to the airport. It leaves from downtown Toronto (Front and York Streets, across from Union Station). Reliable, inexpensive, convenient....what more could one ask for?"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Frequent breakdowns",
+      "text": [
+        "Frequent breakdowns in service requiring shuttle buses which then get to deal with Toronto traffic. Just take an Uber. I’m a local Torontonian and hate writing this review. Feb 7/23."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2023 • Couples"
+    },
+    {
+      "title": "Fast transportation",
+      "text": [
+        "Union station to  Pearson airport,  fast, easy , comfortable, lots of space for luggage and not expensive."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Couples"
+    },
+    {
+      "title": "Fast and (usually) on time!",
+      "text": [
+        "Fast and (usually) on time! Good choice from and to the airport. Nice sits. You can use the wifi too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Quick, simple, reliable",
+      "text": [
+        "This service is so easy to use. Thoroughly recommend it as it takes the stress out of going to the airport."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Quick, Reliable and Cheap",
+      "text": [
+        "This was a long overdue transit link between downtown Toronto (Union Station) and Pearson Airport, with a couple of intermediate stops.  On the Toronto end, it links into VIA and the GO Train and it's only a short walk to the inter-city bus terminal.  It's fairly quick and fairly inexpensive trip and the cars are at least as clean as any other Canadian transit service.  It does get crowded after Jays games, though...",
+        "If you are spending time in Toronto and plan on using transit, you can purchase a PRESTO card, which you can load and tap-on-tap-off.  The fares using the card are cheaper and it's good for the TTC and for GO as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Fast  - reliable and cheap access to city",
+      "text": [
+        "Stay at the Royal York , so ideal to catch the UP Express from Pearson to downtown , great service, cheap for families , avoids the traffic, plenty of storage on board for suitcases and wi-fi to use on journey."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "By far the best way to get downtown",
+      "text": [
+        "This is the easiest and fastest way to get downtown from Pearson airport. The train runs frequently and has only 3 stops. It is fast and convenient. Would never look at taxi or Uber fighting traffic again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Easy, economical ride to the airport.",
+      "text": [
+        "Riding the .UP Express' is a cheaper, and likely faster alternative to riding via taxi/uber from central Toronto. If there are one or two of you, it will definitely be cheaper, at $12.50 per rider, and you have wide, comfortable seats, free wi-fi, and a nice, traffic-free, smooth ride directly into Pearson Int'l Airport (YYZ).",
+        "Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Great experience!! All staff friendly and this is a wonderful way to get from the airport to Union Station. No more taking the expensive \"limo\" downtown. My only complaint was the ticket machine at Union Station worked slow so almost missed the train. Otherwise very good from beginning to end. Trains very clean and so easy to access too. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Quick and easy trip to downtown.",
+      "text": [
+        "Quick and easy transport between union station and airport with dedicated spots for luggage. Just ask airport staff how to get to the platform."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Cheap, efficient, clean, comfortable and on time.",
+      "text": [
+        "We used UP or the Union Express train from the international airport to the Union Station in Toronto. It was cheap, efficient, clean, comfortable and on time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Horrible station, lack of me escalators and old elevators",
+      "text": [
+        "Horrible customer service!!!! ",
+        "The people in charge of checking tickets are very unprofessional. RUDE!!!! This is a constant issue at Union Station and YYZ stop.",
+        "Today I addressed a SAFETY issue with a staff member and he ignored me, the elevator that takes you from street level to the 2nd and 3rd floor got stucked for 10 minutes! I opened the safety doors by hand and scaped on my own, I told the guy about this issue and he said, oh ok, and I told him to pass this to a supervisor and he basically ignored me. ",
+        "the area near the elevator is in very bad condition too, holes on the wall, garbage, pee…. Disgusting."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2023 • Business"
+    },
+    {
+      "title": "No bikes on the train",
+      "text": [
+        "Their new policy is that there are no bikes on the train. So I got stranded at Pearson and had to bike downtown from the airport. The reasoning was that the trains are too busy and it’s a  hazard, yet every time I’ve been on one it is 90% empty."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "So easy to use",
+      "text": [
+        "We got on, there were ample seats, comfy, and we ended up on the right hand side so could see the CN tower as we approached the city. ",
+        "WiFi didn't work, but that was fine. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Easy way to get downtown",
+      "text": [
+        "This was a quick and easy way to get from Pearson airport to downtown (Union station).  The signage in the airport was easy to follow; although a longish walk with luggage."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Extremely poor agent ",
+      "text": [
+        "Terrible experience, Mariana ticket agent at Pearson airport, barely speak English and was rude , unprofessional, and clearly could needed a shower",
+        "The service on UP express totally went down the drain after April …. Avoid to take it , especially if you travelling at 2 people or more , UBER is the way to go "
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2023 • Business"
+    }
+  ]
+}

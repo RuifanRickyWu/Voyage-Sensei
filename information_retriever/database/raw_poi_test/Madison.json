@@ -1,0 +1,198 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Madison",
+    "url": "/Attraction_Review-g155019-d600787-Reviews-Madison-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "14 Madison Ave ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5R 2S1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 28
+    },
+    "openingHours": [
+      "Mo-Sa 11:00-02:00",
+      "Su 11:00-00:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/c6/b3/ae/photo0jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bars & Clubs"
+  ],
+  "description": "Affectionately known as the Maddy, this is a popular Annex bar. The crowd, which includes many students from nearby U of T, fills every floor and terrace. The newest development is the billiard room, with 10 tables. Everyone in the friendly crowd seems to know everyone else.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "TERRIBLE STAFF! Such a waste!",
+      "text": [
+        "I’ve been to the Madison tons of times before but there is a huge difference between what it was like 10 years ago and what it is like today and that difference is the TERRIBLE staff.",
+        "I am glad there are many bad reviews of the staff all over the internet because I thought maybe they just, for some reason, were hating on me!",
+        "The staff were already absolutely rude from the begining. I’m a very cheerful and smiling person and when I tried smiling at them and sympathising with them, all I got back was a grouch, (from the security staff outside and the girl at the front door, to the downstairs bartender Brandon Mark) that’s when I knew to keep the communication to a minimum.",
+        "I’ve only gotten two beers from here on this night on the top floor. The first time, my friend got it for me, and the second time I got it but used his credit card. I didn’t want to assume he wanted to tip, so I left it at 0$. Not that I would need an excuse not to tip since it is optional but since I have probably given this place dufflebags of money over the past 10 years and the bartender was already very rude for no reason, I did not go out of my way to tip her.",
+        "I believe her name was either Jess or Maddy. And when she had the gall to actually confront me negatively for not tipping her I was frozen and stunned. My friends who know what I do for a living thought that I might get angry but I assured them I was not angry and just wanted to tell her how appalled I feel.",
+        "I was very sad and felt tears coming to my eyes. I leaned close to her and tried to get her to sympathise with me. I told her that I am a delivery courier, and that I work everyday in the cold outside in Forest Hill. I said more than ",
+        "60% of my clients who own giant mansions and tons of cars simply don’t tip me a dime but I have never felt angry at them the way she feels towards me. And before I could finish my sentence, she looked at the security guard and snapped her fingers to get me kicked out.",
+        "I did not hesitate for a second and left crying because I can’t handle confrontation. The security staff that was rude beforehand suddenly became quite kind and understanding when I told them what happened and they all nodded in a way that said “oh yeah she does that sometimes”.",
+        "I was outside in the cold without my jacket, purse, or cell phone until my friends found out what happened and came out, they were stunned that a person like me could be kicked out of somewhere. My friend told me that the bartender told him I yelled at her in a rude way so she had to kick me out and he could not believe it since I can’t ever handle any confrontation.",
+        "If the manager reads this review, he may not care that bartender ended up ruining my whole group’s night and helped him lose a whole lot of regulars (at least 10 people), but I still believe that the Madison will one day get a wake up call and fire the toxic, entitled, terrible staff.",
+        "In the mean time, I suggest everyone stays far away from this stuck up place.",
+        "Visited on: Thursday November 7th, 2019"
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2019 • Friends"
+    },
+    {
+      "title": "Terrible ",
+      "text": [
+        "Hotel bathroom full of mold",
+        "Room poorly cleaned as dirty underwear found in room",
+        "No front desk service after 700 pm",
+        "Very noisy",
+        "Poor quality bedding and drapes "
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Student pub seriously in need of a major reno",
+      "text": [
+        "I think I was the only Torontonian who had never visited the Maddy, until yesterday.  And the verdict.... a student pub that has become grungy over the years.  An okay selection of beers, to be sure, but there is an odor hanging in the place that makes one wonder.  It`s  a snapshot of what Canadian pubs were like 25 years ago."
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "#EpicFoodFail",
+      "text": [
+        "We have been to the Madison many times before, and never have I reviewed it, until now.   I guess I have always been attracted to the summertime deck-party atmosphere, while the beer is the attraction, it has always been the food that disappoints.  None more so than this last and final visit. This weekday eve saw the seating area less than half full, but service was surprisingly inattentive and tardy.  While the beer on tap is readily reliable, our food was inexcusably poor.  The iceberg lettuce salad had clearly been cut with a knife the day before (as there was significant browning on the edges) accompanied by a sub-average previously frozen commercial patty burger - but it was the undercooked chicken wings that were wholly unacceptable - and although we agreed to have them re-served - they then exhibited that distinctive “deep-fry burn” - and while the meat was now cooked, the skin was inedible.   And it still cost me $60 and 2 hours and 10 minutes of my lifetime.  That’s a huge fail."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Dangerous Staff",
+      "text": [
+        "DO NOT GO HERE",
+        "Last night me and my friends were harassed by their staff.  At about 5 min before last call they started aggressively clearing everyone out and screaming at all the customers to leave.  One of them grabbed me on my arm for no reason and was physically assaulting me.  My friend started filming them because of how dangerous they were being, and one of the staff grabbed her phone out of her hand and took it away.  It took us 30 min to get the phone back, and when we did it was discovered that they had gone into her phone and deleted the videos of him harassing us.",
+        "DANGEROUS staff, I repeat DO NOT GO HERE"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2017 • Friends"
+    },
+    {
+      "title": "Great place! ",
+      "text": [
+        "Friendly environmental, good food and veg funny place. I have been in there with friends and also with family. Nice place to have fun, but some night can be really packed! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016"
+    },
+    {
+      "title": "Very fun and hugely ",
+      "text": [
+        "Big huge house with a lot of kinds of rooms: dance floor, pool tables, pub couches. Good beers and tapas. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017 • Couples"
+    },
+    {
+      "title": "Fun night with good music",
+      "text": [
+        "Madison pub is a huge house with a lot to offer. There are several different rooms, such as a sports bar, piano room, dance floor, and an area to just sit with pool and darts. ",
+        "We were there on a Friday night and didn't have to pay any cover. Even though there were lots of people, no room was too crowded. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2016 • Friends"
+    },
+    {
+      "title": "Nice Bar",
+      "text": [
+        "Pretty nice place to drink, chat, dance and enjoy the night. Has a lost of different \"attractions\" like a dance floor with eletronic music, a calm rooftop to chat and drink, a busy but nice space with live music. Almost everybody there was students."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Alright for one night .",
+      "text": [
+        "Nothing out of the ordinary , we got a table and the service was pretty slow , they have and okay price for a pub that big thou , the only thing we didn't like was one of the servers was almost forcing us to tip him at the end of the night , not that we weren't going to but as soon as he bought the bill he was looking at us waiting to be tipped. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2015"
+    },
+    {
+      "title": "University Crowd & Amazing Summer Patios",
+      "text": [
+        "Love the Patios. Great place in Toronto especially if the thought an overcrowded night club with a fat cover is unappealing. Good beer, fair enough prices. I'll be back. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2015 • Couples"
+    },
+    {
+      "title": "College bar with a fun atmosphere",
+      "text": [
+        "I was pretty one of the oldest people in this bar as its a college bar. However, I was there to see my talented friend from highschool Peter Kadar play the keyboards. He rocked the house and had the crowd yelling out all kinds of requests. People are pretty friendly here, many walked up and chatted or sang along with you! Get there early to avoid the huge lineup!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2014 • Solo"
+    },
+    {
+      "title": "Always Fun, great during summer!",
+      "text": [
+        "This is definitely the place to take a friend to chat, catch up over a pint to drink and also grab some food if you're not too full from the suds. I have only been here two or three times. All visits have all been during the summer warm months. I really like that this pub has a lot of room to stretch out and find a place you like. Even roomy when there are crowds, its an easy relaxing place to stop in for a drink! :)"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2013 • Friends"
+    },
+    {
+      "title": "feelin young at heart!",
+      "text": [
+        "Went to this bar to watch my friend play keyboards on a Thursday night. Being ahem, over the college age we were worried that we would be the oldest people in the bar. However we soon found out that there were some older people there as well. However, it is mostly a college bar. We got there early to avoid the lineup in the cold, were able to grab a booth. We met so many friendly people that night, people would just come sit down and chat which was pretty cool. The atmosphere was a fun one, can see why its so packed!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2014 • Solo"
+    },
+    {
+      "title": "Great pub",
+      "text": [
+        "I use to go there every friday when i lived in Toronto. The Piano in the 2nd floor is just amazing!!!",
+        "Great place to go with friends. ",
+        "Don't forget your ID. They very restrict with this..."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2012 • Friends"
+    },
+    {
+      "title": "Huge place, great atmosphere",
+      "text": [
+        "We stopped by this bar because we heard some people talk about it. To enter you go down a flight of stairs, there is a lounge atmosphere. There are four floors with 8 bars. The entire place is basically two houses connected and converted into a bar. Tons of people on Saturday night and the drinks were pretty decently priced for a downtown Toronto bar."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2012 • Friends"
+    },
+    {
+      "title": "Violent",
+      "text": [
+        "I was yesterday at the Bar, and I never will return. The bouncers are very violent without necessity.",
+        "Threw a man pushed to the ground without even having done nothing and at closing time pushing and throwing people out acting like animals.",
+        "Security is truculent and always act together. What kind of training they have for dealing with the public?"
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2012 • Friends"
+    },
+    {
+      "title": "A maze of fun",
+      "text": [
+        "The Madison is the type of bar you go to to get lost.  And literally you can.  They have 3-4 floors, with a bar on each.  You can eat and then explore.  There is one room on the second floor which has a baby grand, and the piano man will play all the latest pop hits/classic faves in his piano-y grandeoso style.  A lot of fun for an evening/date."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2012"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Signs Restaurant & Bar",
+    "url": "/Attraction_Review-g155019-d7736059-Reviews-Signs_Restaurant_Bar-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "558 Yonge St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4Y 1Z1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 25
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f2/f6/1a/photo0jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bars & Clubs"
+  ],
+  "description": "An amazing dining experience, where you order for your food using American Sign Language. Have fun learning and interacting with the Deaf. Play Sign Language games, win prizes and much more!",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Friendly staff, great coffee and opportunity to learn LSF!",
+      "text": [
+        "Had an amazing coffee and wonderful visit to this cafe. The Deaf barista was wonderful and I learnt some new signs in LSF, too. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Warmly Interactive",
+      "text": [
+        "Went on a date to Signs only to love the beautiful food (lots of GF/V options!), the friendly atmosphere, the kind and amiable staff, and the culture of sign. The experience is not only fun but incredibly educational! Our server helped us communicate our orders effectively and laughed with us as we laughed at ourselves mixing up hellos and goodbyes. This is not a one-time visit kind of venue - I already look forward to visiting again! Would recommend for any size of group whether you know ASL or are just curious about the community as there were large parties eating at the tables next to us who looked like they were having just as much of a good time as we were."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017"
+    },
+    {
+      "title": "Awesome concept and good food",
+      "text": [
+        "This restaurant is great! It was fun to learn how to sign, it was also quite challenging and made you consider language and communication barriers. The food was really good and quite fancy! We had ravioli and zucchini dishes. I would recommend! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016"
+    },
+    {
+      "title": "Great fun and learning experience.",
+      "text": [
+        "We were here for a late lunch interested the concept and menu looked appealing.  The wait staff are deaf and you can order off the menu with sign language illustrated.  The food was very tasty; Katie had spring rolls and linguine shrimp, I opted for a caesar salad and panko sole. Both entrees include one choice of appetizer/ soup or salad for pre-fix price..  All the items were very good."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016"
+    },
+    {
+      "title": "Fantastic!",
+      "text": [
+        "We were a little worried about entering a restaurant where you have to order your meal by sign language, but it was totally unfounded.",
+        "We had an amazing experience at the restaurant.  The colleagues were all amazing and helped us with our signing.",
+        "A lovely meal in a nice atmosphere.  ",
+        "Please go; don't be afraid as there is absolutely no need.  You won't be sorry.",
+        "The food came quickly and it was delicious."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Friends"
+    },
+    {
+      "title": "Nice experience",
+      "text": [
+        "We really enjoyed our experience at signs restaurant. Pretty hard to order food by sign language :)",
+        "The staff was very friendly, pity however that our waiter disappeared after we finished our mains. We never saw him again. Food was ok. ",
+        "I recommend visiting Signs. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2016 • Family"
+    },
+    {
+      "title": "Awesome concept!",
+      "text": [
+        "We saw this place on the hop on/off bus tour. I was super excited to try it out because you must use Sign Language to order. The pictures on the menu and around the walls help you out. I took some sign classes in collage and thought this would be a great opportunity to practice. Unfortunately they decided to close early due to slow business (Father's Day) and so we didn't get a chance to eat there. I \"chatted\" with the bartender a bit and left."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2016"
+    },
+    {
+      "title": "Nice experience",
+      "text": [
+        "This certainly is a restaurant which provides a unique experience. Most of the staff are deaf and you are encouraged to communicate through sign language.",
+        "The menu has all the sign language you need and the \"cheat sheet\" has most of the useful phrases you would need such as: please, thank you, pleased to meet you, the food is delicious and more!",
+        "The staff are warm and friendly and make you feel comfortable trying to communicate in a new way. It really helps provide an experience where you can learn and appreciate the perspectives of deaf individuals, even if just a glimpse of that world.  ",
+        "The food was average. The flavours were what was expected and consistently good. Not elevated nor fine dining but a good meal. There is a good selection for anyone's tastes, both in food and drinks. They make a good effort to accommodate dietary restriction and allergies (eg vegetarian, gluten free, no nuts, etc.). ",
+        "The restaurant is wheel chair accessible and the washrooms are clean. Decor is rather plain and very simple. ",
+        "Overall, it was a fun experience that everyone should try at least once. Although many things are average about the restaurant the staff really make the whole experience wonderful and worthwhile. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "An experience",
+      "text": [
+        "The food is above average. The waiters really put in an effort for you to feel welcomed and comfortable with ordering your dinner in American sign language."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "Aussie tourists ",
+      "text": [
+        "Great food great fun ! Heard about this on Facebook. Put it on our must do list when visiting our daughter and partner who are living in Toronto.  We were not disappointed.  Special shout out to Julian our great waiter. He helped make us look as though we knew what we were doing. Walk away with a full belly and a new skill."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Couples"
+    },
+    {
+      "title": "Such a fun and unique experience!",
+      "text": [
+        "I would highly recommend checking this place out. The service and food were both great, and the experience is one of a kind. Having to use sign language to communicate was just cool and different - and easier than you'd think. Try it!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2015"
+    },
+    {
+      "title": "Excellent!",
+      "text": [
+        "The Signs Restaurant & Bar is a unique experience. I have never been anywhere else in the world like this. ",
+        "This is a restaurant & bar entirely staffed by hosts, hostesses, servers, etc who have hearing challenges.",
+        "Customers are required to learn basic sign language to order their food & drinks. This makes the entire experience very enjoyable, emotional & fulfilling.",
+        "Highly recommended!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2015 • Solo"
+    },
+    {
+      "title": "WOW.....",
+      "text": [
+        "Our first experience at this restaurant was humbling. To be served and have a few moments into the lives of those who are deaf and hard of speaking. The service was exceptional, the food was equal to fine dining and the learning experience was priceless. Even our 3 year old son was signing before we left! ",
+        "This is something everyone should take the opportunity to experience! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2014 • Family"
+    },
+    {
+      "title": "Sign of Excellence",
+      "text": [
+        "Staff at our nearby hotel recommended Signs, which after seeing the excellent rating on TA, we decided to try out. Very nice restaurant that Is Handicap accessible. We enjoyed our small peak into the deaf community and our waiter Tristan was great, and so very patient with our attempts at signing.  We started with Beet Bruschetta (okay I admit I thought it said Beef Bruschetta), which I though was okay but my partner loved. I then went with the Venison Sheppards Pie that came with a small side salad - and was perfectly portioned and had an excellent taste. My partner went with the Butternut Squash Ravioli smothered in walnuts and Parmesan with sage on top, and she is still raving about how good it was, best meal she has had in a long time.  We finished up with a chocolate lava cake which was good but not outstanding. ",
+        "Overall it was a great dinning experience, my partner is already planning her return.  Definitely worth a try, very deserving of the high TA rating it has earned."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2015 • Couples"
+    },
+    {
+      "title": "A Must Go..... Amazing Staff and Great Food",
+      "text": [
+        "I'm always interested in unique restaurants and SIGNs is definitely in this category.  Our waiter Julian is hearing impaired and we signed our order to him and we were  able to interact with him clearly as he was full of smiles laughs and provided us with great service.  The restaurant is very chic looking as they have great décor, music was great as well.  Very clean.  The menu had what the sign is for each item.  The tables also have a mini flip chart with the alphabet and also conversation starters.  ",
+        "The food was amazing and portions were fantastic.  We had the mixed green salad and Caesar salad.  Our mains were the pork ravioli and the jerk chicken gnocchi and we both had the chocolate avalanche cake.  The plating was beautiful.",
+        "I highly recommend this restaurant as for a couple hours you can experience what it is like to be hearing impaired.  Even though we could talk during our meal we did try to sign at the same time. Never take anything for granted in life."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Friends"
+    },
+    {
+      "title": "A Positive Sign of the Times",
+      "text": [
+        "Our hats off to Anjan Manikumar, an ethical entrepreneur and innovative restaurateur, who founded this unique restaurant and bar.  Staffed effectively with hearing impaired servers and bar-tenders, this restaurant provides productive and successful employment for these personable and competent adults -- who happen to be deaf -- and an educational opportunity and a quality dining experience for their guests.  The 10 of us senior adults, well-traveled and from very diverse career backgrounds, all enjoyed the dining, the learning, and the camaraderie."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016 • Friends"
+    },
+    {
+      "title": "Great experience and great food",
+      "text": [
+        "Really enjoyed the experience. Friendly and very helpful servers. Pamphlets and the menu have pictures of gestures to help you make your order and communicate with the servers. Gives you a chance to learn basic sign language such as 'yes', 'no', 'thank you' and how to say your order etc. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Friends"
+    },
+    {
+      "title": "Learn something new!",
+      "text": [
+        "We went to this restaurant for Paintnite, what a great time. Two hours of learning to paint something you take away with you. Then we had reservations for dinner. It was great to be taken out of our comfort vone, and learn some sign language. What a great experience, food was tasty, staff were extremely attentive and friendly. Would like to try learning sign language now."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2015 • Family"
+    },
+    {
+      "title": "Such a fun dining experience",
+      "text": [
+        "The food was fabulous, but signing for your order...well, that just made the whole experience more exciting.  My friends and I still practice some of the signs we learned (i.e. mushroom caps being a personal favourite for hilarity, red wine being a favourite for...well, it's just a favourite).  The staff was great.  Would definitely visit again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "An experience like no other!!! ",
+      "text": [
+        "Being in Canada experienced once in a lifetime ventures before we depart to the UK. ",
+        "I found this place and went tonight our waiter Tristan awesome, I was slow with the sign Language but he appreciated the effort. ",
+        "The person that sat us down made the experience enjoyable ",
+        "I wish there was a place like this in the UK and in Ipswich. ",
+        "I would rate the food 7/10 flavours impressive portions good presentation a pleasant site. The experience 10/10 ",
+        "It's a MUST please spread the word and tip. Tristan was so friendly I hope he reads this and I was even sad enough to keep the receipt "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Couples"
+    },
+    {
+      "title": "Fun and unique dining experience!",
+      "text": [
+        "My girls and I were a little reluctant to go to Signs (a restaurant featuring a deaf wait staff) as we didn't know sign language and weren't quite sure how it would work.  But we decided to try it and it was one of the highlights of our trip to Toronto.  ",
+        "We were greeted by a hearing hostess who got us seated, gave us some helpful advice, and introduced our server to us.  We relied heavily on the sign language cheat sheets in the menu and at the table.  Our server was very patient with us.",
+        "Our food came just as we had ordered and it was quite good.  I had a steak with a caper cream sauce (one of the best sauces I've ever had).  My girls ordered a grilled chicken panini and a burger, both with french fries and they were quite happy with their food.  Our Caesar salads were fresh and delicious too.  The food isn't five-star on it's own, but I didn't find any of the food in Toronto worthy of a five-star rating, so we were glad we went to Signs for the unique experience!  ",
+        "The restaurant is pleasantly decorated with fresh colors.  We were seated near the front window with a view of the city life outside.",
+        "I recommend allowing plenty of time to get the most out of it (at least an hour).  You don't want to be in a rush and miss out on opportunities to \"chat\" with your waiter or waitress!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "Great concept, great food",
+      "text": [
+        "Went to Signs tonight for dinner. Total of eight people and between us we had about five different entrees. My wife and I each had the special which was a shrimp and lobster linguine, I had the soup (clam chowder) and my wife had the Caesar salad. We each split the soup and salad. ",
+        "Both the soup and salad were as good as I have ever had. The linguine was with an Alfredo sauce and was great. About four medium sized shrimp and about four small chunks of lobster and mushrooms in the sauce. ",
+        "Everyone loved their dinners.",
+        "Upon entering the restaurant the hostess explains that she and a few others are able to hear but that all servers are deaf. On the tables there are pamphlets showing the signs for all letters in the alphabet and the menus show the signs for every meal as well as certain other things such as thank you,your welcome etc. ",
+        "Great experience and great food."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "Unique & Delicious",
+      "text": [
+        "We enjoyed our visit from start to finish! Our hostess settled us in with our server with brief instructions and a trial run at a few American Signs and away we went.  We struggled through our first attempts,but by dessert we nailed it! Great \"cheat sheets\" and patient staff...and very delicious food!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2015 • Couples"
+    },
+    {
+      "title": "Go once or with a group ",
+      "text": [
+        "I would only recommend Signs as a one off gimmick dining idea ir for a group event. ",
+        "The idea itself is a great concept although unlike \"O'Noir\" ( a similar concept restaurant in by the non sighted community) it doesn't have sustainable wow factor. ",
+        "The server we had was gorgeous and patient and it was fascinating trying to comminicate with her but the novelty of signing soon wore off as we didn't interact after enough ( they were rushed off their feet it seemed )",
+        "The dining room had no-one in it so we were in the cafe but in any case the experience did not allow a \"hearing\" person to truly enter into the world of the deaf. We were in a very ordinary sports bar environment with at least 4 TV screens blaring .",
+        "I noticed that One of the threefold objectives of the restaurant was to become one of the Best restaurants in Toronto - the food was far to mediocre for that - as was the setting.",
+        "I had my own ideas on how the experience could have been enhanced in order for us to appreciate what it's like to be deaf and  in order to encourage folk to use the \"sign cheat book\" on the table. Diners should all be issued noise-cancelling headphones so they'd have to at least attempt signing to partners or group members. TV should have been showing at the very least sub titled films with the sound turned down ",
+        "Just a thought "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2015 • Couples"
+    }
+  ]
+}

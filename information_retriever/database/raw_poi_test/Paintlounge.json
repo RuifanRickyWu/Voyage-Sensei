@@ -1,0 +1,139 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Paintlounge",
+    "url": "/Attraction_Review-g155019-d7948104-Reviews-Paintlounge-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "784 College St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6G 1C6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 12
+    },
+    "openingHours": [
+      "Tu-Fr 14:00-23:00",
+      "Sa 12:00-23:00",
+      "Su 13:00-19:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b5/6f/a4/my-take-on-the-eiffel.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Paint & Pottery Studios"
+  ],
+  "description": "Toronto's Little Italy is a city hotspot for cafe culture and nightlife. There's something for everyone in Little Italy, apparent from the cross-section of clubbers in glitzy dresses, and elderly couples arm-in-arm heading to their favorite wine or pasta spot. Cafes spill onto the wide sidewalks, pool lounges and bars are always teeming with noise and activity, and both outdoor and indoor marketplaces are packed with fresh fish, cured meats, and pungent cheeses. All of the activity makes it a perfect spot for people-watching, especially over a nice glass of red wine or a quick and sumptuous slice of pizza at one of the many eateries or trattorias in the area.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Rude and awful establishment, while also being overpriced!",
+      "text": [
+        "I initially had fun at this place, despite the lack of drinks to order, the incredibly intense teacher(s) and the other workshops that were crammed into the small space (which wasn't communicated during my reservation). This was all fine until the business made a mistake and decided to charge me for it, on my birthday, despite me verbally voicing that I did not consent to it (emphasis on the lack of consent). PaintLounge miscalculated the amount that each of my guests owed, despite our overall amount paid being much higher than the amount they assumed was owed. Your rude customer service didn't make this experience great. As mentioned in the reviews below, there are so many great paint nights around Toronto, why go to this one and have to put up with horrible service?"
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Terrible customer service",
+      "text": [
+        "Their staff are extremely rude and they charged us an extra 40 dollars for a mistake they have made on our bill. I would not recommend this place. It is overpriced and the experience is not worth it."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Perfect way to shake up a date night!",
+      "text": [
+        "My boyfriend purchased two sessions at the Paintlounge on Groupon. The first session was absolutely wonderful. We were the only ones attending that workshop but that didn't matter. Our instructor, Hana, was very helpful. It felt like we were receiving a private art lesson without paying an arm and a leg. ",
+        "Our second session was with Joey. It was during Valentine's Day so we were with a lot of couples. We arrived late but luckily, we kinda knew the drill and were able to catch up quickly. Joey was such a great instructor and handled the crowd with ease and flair. ",
+        "In short, I definitely recommend a date night at the Paintlounge with your bf/gf. The beginner workshops are perfect to get to know each other if you only started dating, or learn something new together. The guys and gals at the Paintlounge got you covered. They will even hold your paintings for a few days if they are too wet for you to take home.",
+        "Some workshops start at 5pm, which may be a bit of a hassle since work usually ends at 5. But don't worry, the instructors will be able to catch you up and give you time to finish."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Terrific way to spend an afternoon.",
+      "text": [
+        "This is a neat concept not available in many cities. We arrived at opening without reservations and were fortunate to nab three easels. A group of 12 tweens were having a March Break class on a certain painting technique but we opted for \"freestyle\". You choose the size of canvas you want and pay based on that. They have 10 colours of paint and all the brushes, sponges, painting knives and palates you can use. The staff are artists and can help you bring your idea to life, including how to best mix the paint colours.",
+        "They have espresso and some munchies available for purchase. We ended up staying 4.5 hours and had an incredible time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Family"
+    },
+    {
+      "title": "A fun time",
+      "text": [
+        "I did two paintlounge events, a class and one of their special price nights where they have musical entertainment. ",
+        "It's honestly a super nice environment, the class itself wasn't difficult and produced some really great results. The students are encouraged to go around and talk and share. It's a good process and they give you tons of time to get everything done. Plus it includes a drink, though that's limited to a few or there's an upcharge. ",
+        "The free paint with the live music was really fun too, and I think I preferred that. The girl singing and playing piano was awesome and there was a break in between that allowed us to mingle and really listen to her music. Everyone was super friendly and talented and I thought it was amazing to see what other people came up with. Some doctors painted what chest fungus looks like under a microscope!",
+        "It can be a little pricey but if you book with groupon or go on the music night (I forget what it's called) it's cheaper! Convenient to access too, right on college and you can take the street car :) The staff/volunteers were also really great, they would walk around and talk to us about our paintings and made a lot of positive comments :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Friends"
+    },
+    {
+      "title": "Cool idea for something different to do!",
+      "text": [
+        "My sister and I spent the afternoon painting here and it was a great time. There is something to do for all ages and artistic levels. We just painted on our own, but we did see a group doing a class while there and it looked fun as well. There are so many options in terms of stencils, colours, canvas sizes, and photos for inspiration. Great souvenir for yourself or a great place to make some artwork for a gift!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "Enjoyed my time there",
+      "text": [
+        "I got a deal on Groupon for my husband and myself, which included a small canvas and a drink.  When I went in person, we decided to upgrade to a larger canvas for $15 dollars each.  I got a mint hot chocolate and I wouldn't get it if I ever were to return.  The instructor was nice and friendly but I didn't really learn anything from her.  Neither of us have ever painted before, so we were lost and weren't really taught any techniques.  However, we improvised and enjoyed the time we spent there.  Would recommend it to anyone. "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016"
+    },
+    {
+      "title": "painting? why not",
+      "text": [
+        "I had so much fun learning to paint.  Music, the canvas are set for you, and your taught how to paint.  Something interesting to do.  It made me realize, anyone can paint. So many colours to choose from, a great way to discover oneself"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Solo"
+    },
+    {
+      "title": "It was just OK",
+      "text": [
+        "Went in for a group painting workshop with a few friends. I thought it would actually teach you a few things, considering it was suppose to be a workshop and not the freestyle session we signed up for. However, what you pay for is just rental of their equipment either way. The lady at front that was suppose to walk us through how to follow a painting piece we were painting that night simply said it was self explanatory and gave us free reins to do whatever we wanted after a short 5 minute introduction talk. I was hoping for more interaction but didn't get anything else. I still did well, loved our paintings at the end, but somehow felt ripped off out of the experience of a workshop. So, my experience was good, not great. Next time, may just get a canvas and have the party at home instead. Also, maybe it was just us but we figured social drinking and painting would for sure mean a glass of champaign or something bubbly or alcoholic, but all I got was lemonade. Maybe just a misinterpretation but was not expecting that as my free drink. Anyways, make sure before coming this is the kind of experience you want."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2015 • Friends"
+    },
+    {
+      "title": "Turned out to be a good experience",
+      "text": [
+        "I came to paintlounge for a birthday party. In the beginning it was a bit rocky as they had double booked but they made up for his by offering complimentary drinks and allowing my friend to stay longer than the allotted time so she can have a good experience. I must say, I am no artist but I did enjoy myself. It was fun doing something out of my element with good company. While I do not think this is a place I would go again on my own (painting is just not my thing), I did enjoy my time there and the experience."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2015 • Friends"
+    },
+    {
+      "title": "Fun for rookies and pros alike",
+      "text": [
+        "My son, my daughter and I went as a Mother's Day gift. Due to schedules we didn't get to go until this weekend (July 25th), but it was well worth the wait. When you get there you get to pick your canvas size. I picked a mini as I am not very artistic. They then walk you through how it works and offer you idea books so you can get inspired. The idea photos have something for everyone no matter what your level. If you have something in mind and it's not in the book, the offer free WIFI so you can find it and download it. I love Minions so I took a stab at it. They sit your group together in such a way you can chat while painting. We spent just over 2 hours, but honestly it didn't feel like it. Staff are around to help out, offer tips, or in my case help me hide the boo-boos. A great way to spend a few hours with friends or family. When we were there there was a baby shower, bridal shower, and some couples out on a date. Everyone seemed to have a great time."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "I went here with a group of 7 co-workers after we purchased a Groupon online and it was so much fun!! When we arrived we grabbed our aprons and were given a simple 5 mins demonstration of what we would be painting and different techniques. Our theme was Pink Eiffel Tower and it was really cool to see how each person interpreted that.",
+        "Our Groupon came with a free drink which was nice but I do have to say that I wish they served alcohol. I think there was an option to get your own special permit but that is just too much work.",
+        "Other than that, I had a great time. I think we were there for no more than 3 hours and it was a great opportunity to get creative and do something different.",
+        "Enjoy!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2015 • Business"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Hockey Hall of Fame",
+    "url": "/Attraction_Review-g155019-d155501-Reviews-Hockey_Hall_of_Fame-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "30 Yonge Street Brookfield Place",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5E 1X8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 4178
+    },
+    "openingHours": "Mo-Su 10:00-17:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/24/85/ed/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Speciality Museums"
+  ],
+  "description": "As an entertainment destination, the Hockey Hall of Fame is truly in a league of its own. Much more than a sports museum, the Hall of Fame offers something for everyone: immersive games in a model rink; the finest collection of hockey artifacts at all levels of play from around the world; theatres featuring 3D and historic hockey films; themed exhibits dedicated to the game's greatest players, teams and achievements; a replica NHL dressing room; larger-than-life statues; an unrivaled selection of hockey-related merchandise within its store; and NHL trophies including, best of all, hands-on access to the Stanley Cup.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "A must do in Toronto!",
+      "text": [
+        "Can’t visit Canada without some hockey! We spent hours in this place looking at all the exhibits throughout the museum. There are some interactive games you can play and you can see the actual Stanley cup! Everyone should take the time to visit."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Ice Hockey ",
+      "text": [
+        "One of the most famous sports in Canada so the ice hockey museum is a must for any visitors. I must admit my knowledge of the sport is close to zero but I found the museum very interesting and resourceful. Plenty of pictures and easy to understand descriptions. "
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "All Things Hockey!!",
+      "text": [
+        "This place is a celebration of Hockey!!  Jam packed with displays and information.  Interactive opportunities as well.  A must-see on any visit to Toronto!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "A Must Do For Any Hockey Fan",
+      "text": [
+        "This place is huge! It has a ton of information about hockey, the NHL and even houses The Stanley Cup! I recommend going in the morning as soon as it opens so you have the place to yourself and a handful of other guests. You can see the museum at your own pace and can take time wondering through the exhibits."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "All Hockey - All the Time",
+      "text": [
+        "Such an amazing place. So many things to see. So much history. Even if you are not a fan of hockey, the place has so much to read and learn about all the years of hockey and all the players. You can spend several hours here and still not be bored! I loved the whole area with the mascots and the helmets. Astounding! The Tim Hortons in the mall has a bunch of stuff to see too so don't miss it. The entrance is behind the escalator BTW... The gift shop has SOOO much. Oh and get the souvenir book when you come in. Its $5 and you can give it to someone as a souvenir!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Amazing experience if you like hockey",
+      "text": [
+        "If you like hockey, this place is for you!! The ticket price is cheap regarding everything you have access to!! Games, jersey, history, helmets, fun facts, and the real Stanley Cup (if you prefer to take a picture with your phone instead of the official paying one, it's free, you can). A must to visit!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Not only for fans",
+      "text": [
+        "Although not a Hockey fan (I am from sunny Portugal, not many snow or ice), it is a very  nice museum to understand why ice hockey is such an amazing sport. And the Stanley Cup is really an impressive trophy"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Hockey History",
+      "text": [
+        "The hockey hall of fame is a \"must\"; not just for hockey fans but for history buffs as well.  This place is sort of \"hidden\" in the lower level of a building in downtown Toronto but you must go.  Trophies, sweaters (jerseys) interactive games, histories of players--you name it-it's here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "The cathedral of hockey",
+      "text": [
+        "I'm a fairly casual hockey fan, but I found this museum really engaging and fun. It's not huge, but you could certainly spend a couple hours exploring the different exhibits. There are displays on development of the game, historic moments, each NHL team, as well as women and minority players. ",
+        "There are also interactive activities and a well-stocked shop, but the real highlight for me was seeing all of the trophies in the Grand Hall, particularly the original Stanley Cup from 1893 and the permanent cup that you can take a picture with. Definitely a must-visit attraction for all sports fans in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "The Stanley Cup - Wow!",
+      "text": [
+        "It is awesome.  So well done and the trophy room gave me chills with all the trophies and the plaques for all the Hall members.  If you're a hockey fan, you'll love it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Great experience!!! Worth it!",
+      "text": [
+        "Take a few hours to visit.  The Hockey Hall of Fame has something fun for everyone, even if they aren't a hockey fan.  It is filled with great stories, pictures and fun interactive games.  Watch the 3D movie that runs every half hour.  Seeing the original Lord Stanley's cup is a MUST."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Visit to the Hockey Hall of Fame",
+      "text": [
+        "If you're a hockey fan, this is a must!!! Well worth the price of admission!. The exhibits are impressive, and you relieve the history of hockey. To see the trophies,the Stanley Cup. Impressive!! A must! The interactive shooting simulators are awesome."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Family"
+    },
+    {
+      "title": "Must do for any hockey fanatic!",
+      "text": [
+        "I was in Toronto recently with my wife and we stopped by the HHOF. Amazing! So many items that were part of history in relation to milestones and achievements made by current players and hockey legends alike! ",
+        "Try out your hand at stopping NHL players as a goalie or sniping one past a goaltender. You can do both! But don’t be fooled, even if you’re a goaltender, it’s not easy as it is designed to snipe the corners of the net. ",
+        "Also, lord Stanley’s cup is also there on display to take as many pictures of it as you’d like! Following up the experience is the gift shop, which is every NHL fans dream! ",
+        "Pro tip - purchase tickets online in advance and save 10% in the store. Trust me, you want to do this! ",
+        "100/10 experience! Must do for hockey aficionados!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Couples"
+    },
+    {
+      "title": "Must Visit for Hockey Fans",
+      "text": [
+        "Who doesn't love learning more about the history of this fantastic sport? Such a great way to spend a couple/few hours in downtown Toronto.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Good if you like ice hockey!",
+      "text": [
+        "Firstly, it took us ages to find the actual main entrance, signage could be better. On ticket prices; on many museums, etc, in Canada there is a concession for disabled visitors but not here. However, my son, who is mad on hockey loved the visit, I was a little more lukewarm. It was interesting to see the Stanley cup, etc, but for me it was just masses of kit and trophies, but what did I expect? He also enjoyed the interactive games, especially being in goal. There is a large shop on the exit to the museum. So as I said in my title, good if you like ice hocky!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "An obvious must-do for hockey fans",
+      "text": [
+        "This is an obvious must-do for any hockey fan. The most amazing hockey memorabilia, fun interactive games, and just so much to see and look at. So incredible seeing so much hockey history in one building. I took my fiance here for her first time and she had a blast! If I had to pick a best time to go it would be a weekday around 1:30 or 2:00 because school trips will later to end at that time and 3 hours is lots of time to look at everything it has to offer"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Couples"
+    },
+    {
+      "title": "Game misconduct for Customer Service",
+      "text": [
+        "The entry isn't at all what is portrayed in the picture.  You do NOT go through the old doors into the facility off the street.  You CAN go through the Hockey Hall of Fame store which then leads into a large atrium of a commercial complex.  Where is the entrance?  Minimal signage, someone says go downstairs.  Find a stairway, go down, walk straight ahead to a wall. Turn around, oh the sign that could have turned me around isn't there!!   Walk to the other wall in the basement of the atrium, there is the entrance!   Paid my way.   The displays are detailed and cover teams, origin of hockey, the equipment, the owners, the players, the leagues and even minor leagues plus some interactive activity if you want to shoot the sponge puck or stop the sponge puck as a goalie.",
+        "Was tired walking around, no place to sit, except for the Tim Horton's Legends of Hockey theatre (chairs in front of a screen with a SONY ceiling projector).  After a wait of about 5 minutes the film started (no times of when they start or end).   Was enjoying the film, but a janitor or technical staffer opened an exit door and started talking loudly into his cell phone ... Why in the theatre?  ... anyway watching still when a staffer came into the area (it's really not a theatre ... more of a room set aside to view the films) and said, you have to leave as there are deliveries scheduled.  Another person mildly objected and said why do we have to leave for deliveries, then the person said, it's for a private function.",
+        "My experience with these types of things are that if an exhibit is to be closed off for private functions, there is usually a sign letting people know it will be closed with a time attached to it.   None of that here ...",
+        "I was not happy either as I wanted to relax a bit before seeing the rest of the exhibits.  The staffer said he was \"sorry in his initial statement, but it sounded more like an order\" and he really didn't care.",
+        "I was getting more upset and didn't want to stay any longer, so went to the front and asked why a sign wasn't put up before they kick people out of the Legends viewing area?  No response, other than \"oh you can view that online on You Tube\".  Again no real concern.  I asked for a refund.  Blank faces.  Oh and 4 people were gathered around the ticketing area socializing which I must have interrupted.  No refund given. I will never recommend this facility for a visit with all the obstacles to a pleasant experience."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2023 • Solo"
+    },
+    {
+      "title": "Hockey hall of fame",
+      "text": [
+        "Amazing could spend days in there. Displays are great and the interactive portion was very cool. Definitely a must see for hockey fans"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Amazing! Whether you're new to hockey, have no knowledge of the sport, or are a walking book of hockey trivia, there's something",
+      "text": [
+        "At first, this museum appears to be rather unassuming. The entrance is located inside of a bustling shopping mall, and it would be easy to pass it by. However, once inside, the sheer amount of items on display is enough to rival any other museum in the country! They have old pucks, sweaters, game-used sticks, trophies, etc. Some of the items date as far back as the Original Six! This museum details the beginnings of the league, it's many attempts at expansion, the transition of it being a solely North American sport to one that is recognized all over the World, and the dynasties that have shaped the league. I was hardly expecting what I found when I walked inside. Do yourself a favor, carve out at LEAST 2 hours on any given day and head to this amazing establishment!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Amazing visit",
+      "text": [
+        "Persuaded my wife to pay a visit - she isn't a hockey fan- and even she thought it was value for money.",
+        "Plenty to see and do, plus amazing to be close to some of my heroes jerseys Etc. Was even able to take a few shots at a net, which was a lot of fun. ",
+        "The staff member who was with the Stanley Cup was a really nice guy and clearly knew his stuff. He was happy to answer all our questions and suggested a few things to look out for.",
+        "Really enjoyed our visit and would recommend to anyone "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Long-Time Hockey Fan Nirvana",
+      "text": [
+        "Extensive collection of historic hockey artifacts, displayed in a somewhat disjointed manner. Home to hockey's \"holy grail\" the Stanley Cup and other trophies; \"The Cup\" is kept outside a case for fans to touch and be photographed with."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "Hockey Hall of Fame",
+      "text": [
+        "The Hockey Hall of Fame is a must see for a hockey fan. The best part was getting a picture with the Stanley Cup. Parking was convenient and it was nice you could leave, have lunch in the food court and return. Would recommend leaving before rush hour. Our hockey loving family highly recommends a visit to the Hockey Hall of Fame."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Nice Visit",
+      "text": [
+        "Interesting visit to a hall packed with information and momentos of the long history of hockey.  Family enjoyed the visit even though the are not big fans, plus they got their picture with the Cup. Lots of memories for a more mature fan like me.",
+        "Easy to find, within walking distance to our hotel."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Must see when visiting Toronto",
+      "text": [
+        "Great place to visit even if you are not a sport/hockey fan.  The setup was great and easy to follow around.  Loved that there was acknowledgement of not only the pro teams but their farm teams as well. There was a great area of hockey jerseys from around the world, from some surprising countries as well.  Hats of to the women's hockey be interspersed throughout."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Couples"
+    },
+    {
+      "title": "All Round Experience",
+      "text": [
+        "-Awesome experience for tourists ",
+        "-We spent two - three hours here looking at the history",
+        "-A bonus we didn't know was that we got to have a turn at shooting hockey goals and also seeing the Stanley Cup in person, as well as taking photos - that was the icing on the cake"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Couples"
+    },
+    {
+      "title": "Great place to visit for a Hockey Fan",
+      "text": [
+        "For a die hard hockey fan which place would be a dream visit for them, for me not such one was great place to learn about the players, history or the sport and also the imprint it has throughout the world, as I learnt loads about the sport I didn't know. ",
+        "Loads to look at throughout the Hall of Fame and the layout is perfect to flow into all the different areas, it's also very interactive for not only younger people but people of all ages. It's a place to visit and you don't feel rushed through as it's self paced, everyone is respectful of everyone else and plenty of photo opportunities of places you might not ever get the chance too. ",
+        "I especially enjoyed learning about the history of the Stanley Cup and himself in the vault and getting to see the Stanley Cup in person is something I would have never got to do, so this was a nice way to end the visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Interactive and fun for the kids!",
+      "text": [
+        "Took my sons & 2 nephews during kids' spring break, went on a Monday AM at the open and had the place pretty much to ourselves. Highlights for the kids were the opportunities to take shots on a virtual goalie as well as playing netminder using a virtual system. Lots of fun for the kids. Was awesome to see equipment from the game's greats. Loved the Canadian's locker room setup, kids got to handle stuff actually used by the pros."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Best for hockey history buff, less so for casual fans",
+      "text": [
+        "As a caveat, I'm a casual Red Wings Fan. But the whole family went because my husband is a hockey history buff. I was smaller than I expected, but packed full of info. There were also four interactive areas - one where you shot on a digital goalie, one where players shot on your goal and you had to defend, and a PS4 game console area. Get in the goalie and defending lines when you see they are short because they don't stay that way for long. The video they take of you doing it is pretty cool and free to download. The history was interesting, especially the history of women in hockey (it's still a pretty discriminatory sport). There's only been one female president of a team ever.  The Stanley cup is great to see in person. It is up a different set of stairs from the gift shop, so don't get confused. Even if you choose not to buy the picture, standing in the short line is worth seeing the cup up close. "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Nice place to visit regardless of your level of hockey interest",
+      "text": [
+        "Plenty to see at the Hickey hall of fame. Even some good interactive activities for the children. ",
+        "The 3D film didn’t display well with the 3D glasses all of us just took the glasses off in the end as they made no difference. ",
+        "Overall, a good place to visit with kids."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Loved it and only watched Hockey once!",
+      "text": [
+        "A lot to see here and could take you a LONG TIME to walk around if you read and look at everything.",
+        "Even being from the UK where Ice Hockey is not popular, we had a great time and I would definitely recommend going if you’re visiting Toronto even if you’re not a big fan.",
+        "Lot of things to take pictures of and a few interactive elements where you can be a news presenter and also shoot some pucks at a virtual goal keeper. Both filmed and sent to your email.",
+        "Very worth the money."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Excellent Museum",
+      "text": [
+        "This is an excellent museum focused on hockey, with a special focus on the NHL. There are many interesting trophies, mementos and jerseys, and even a casual fan will enjoy the visit. One criticism, though it is a small one, is that portions of the displays seem to be almost randomly arrayed. But as I said, this is a small criticism-patient patrons will enjoy their visit to the Hall."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Cool museum!",
+      "text": [
+        "The Hockey Hall of Fame is a great museum dedicated to Hockey in Toronto, Canada. It is also home to the Stanley cup! The Hockey Hall of Fame also has Olympic jerseys, original hockey gear from the early 20th century, championship rings, and trophies galore! I highly recommend coming here!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "As good as it gets!",
+      "text": [
+        "I have been here 6 times and every time has been at minimum a 4 hour visit. It never gets old and is a must for any hockey fan or sports fan."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "For hockey lovers",
+      "text": [
+        "Too bad the façade was in renovations for our visit. Other than that this is a must must for hockey fans. You get a bit of everything here. Hockey history including international hockey. Plenty of information and stories about NHL teams, players on spotlight, the Stanley Cup and the trophies, as well as all the inductee profiles. There's also an interactive area, where you can play as a goalie or a shooter (for shooting make sure to wait for the Go on the screen), broadcasting or old-fashioned table hockey for $2. You also have some history of hockey cards and goalie masks, including displays of different masks throughout history. There's also a look at all NHL affiliates (a few corrections are needed, like Abbotsford for Vancouver, but affiliates constantly change). There's even a Montreal Canadiens locker room set-up for some nice photos and hockey history. So much to offer. And the gift shop, accessible even for non-visitors, if full of goodies, and ready to empty your wallet."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Great Experience for Hockey Fans!",
+      "text": [
+        "We had a great afternoon at the Hockey Hall of Fame! Tickets were so easy because I could buy them ahead of time and then use them on any day of our trip. It is a well laid out museum with great exhibits! The staff was friendly, especially the guy who took our Stanley Cup picture!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "A must for hockey fans",
+      "text": [
+        "My family and I visited for my third time in probably 25 years. And this remains a must-stop for hockey fans. The exhibits are regularly updated and the room with the Cup and other award trophies is always awe-inspiring. I do with they had easy-to-find plaques or displays of every Hall of Fame member, but hockey is different from baseball (plaques) and football (busts). There is an impressive amount of items to look at, some fun interactive games and a cool 3-D movie. Truly a can’t-miss place for hockey fans."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Sporting Museum",
+      "text": [
+        "The Hockey Hall of Fame is not just a must for all Ice Hockey Fans, its an interesting museum documenting the full history of the sport, all inductees of the Hall of Fame are covered by photos and information of their part in Ice Hockey. Most of the Hall of Fame is dedicated to North America however there is a section covering the leagues & players outside of North America and including a section on the Winter Olympics."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Hockey Hall of Fame and Museum a must see when in Toronto.",
+      "text": [
+        "If you’re into hockey or just looking for a cool museum to check out, the Hockey Hall of Fame in Toronto is a pretty awesome place.",
+        "The museum offers tons of stuff from the NHL, including the real Stanley Cup. You can get your picture taken with it. The place is packed with fun things to do and see. There is a very cool goalie mask collection. You can pretend you’re a hockey pro in interactive zones, or even try being a sports commentator. There is a nice gift shop located in the museum offering many hard to find NHL items. Located in the heart of Toronto, close to many restaurants, attractions, and retail shops."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Worth it just to get close to the Stanley Cup",
+      "text": [
+        "Fascinating even for someone who knows nothing about hockey. ",
+        "Where else could you get close enough to touch the iconic Stanley cup a piece of sporting folklore?"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "The Hockey Hall of Fame is a MUST visit before leaving Toronto",
+      "text": [
+        "The Hockey Hall of Fame was even better than I expected or was told.  I spent almost 3 hours there and I could have spent another hour looking around if I didn't have plans after!  The Hall of Fame has something for everyone including interactive games for kids, a TSN broadcasting experience, and more memorabilia and history than I've ever seen in one place.  I was blown away by some of the facts and stats I learned by looking at the exhibits.  The Stanley Cup is even bigger than I thought and everyone has the opportunity to touch the cup and get a picture.  My favorite exhibit was the room showing the history from each team going back to their creation.  I also enjoyed seeing the original NHL teams section with the old seats on display and information from their historic stadiums.  I learned a lot about Canadian hockey as well, which I wasn't as familiar with as the NHL.  I bought a program for 5 dollars which is a great keepsake to bring home.  Be sure to check out the massive hockey memorabilia store on your way out!  Thanks Hockey Hall of Fame for a 5 star sports history experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    }
+  ]
+}

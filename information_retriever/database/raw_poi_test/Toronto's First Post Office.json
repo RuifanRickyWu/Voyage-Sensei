@@ -1,0 +1,313 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto's First Post Office",
+    "url": "/Attraction_Review-g155019-d556422-Reviews-Toronto_s_First_Post_Office-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "260 Adelaide St E ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5A 1N1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 47
+    },
+    "openingHours": [
+      "Mo-Fr 09:00-17:30",
+      "Sa 10:00-16:00",
+      "Su 12:00-16:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/52/28/4b/you-can-just-about-see.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Historic Sites",
+    "History Museums"
+  ],
+  "description": "Canada's oldest surviving purpose-built post office, in the heart of Toronto's historic St. Lawrence district. Toronto's First Post Office is a museum and full-service postal outlet.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "So interesting & charming",
+      "text": [
+        "The staff were delightful to talk to & my husband & I really enjoyed this small but intriguing museum. The reading room with the fireplace where people read their mail & wrote a return letter. There were ink/quill/paper at little chairs/tables allowing you to practice & think about how it might have been. There is courtyard too. The presentation was just lovely & so informative."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Teresa",
+      "text": [
+        "Each time I visit this beautiful Post Office Iam very happy with service and professional help.highly recommend.They have a lot of super nice souvenirs"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Solo"
+    },
+    {
+      "title": "Interesting",
+      "text": [
+        "Really interesting building but very easy to miss, an original privately owned Post Office from 1833"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2023 • Couples"
+    },
+    {
+      "title": "Worth Visiting ",
+      "text": [
+        "As the name suggests, it is Toronto’s First Post Office and is functional even today. It is located in the historic St. Lawrence district. It has a museum inside which is worth visiting. Certainly would very highly recommend the same to any traveler. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Unexpected gem!",
+      "text": [
+        "We went to walk around old town Toronto and started our walk here.  Expected to just see an old building, but we went inside.  Good thing!  Not only is it a current functioning post office, they have a full museum inside.  Additionally, they have quills, ink and parchment so you can write \"like they do in Harry Potter\".  You can also spend a couple of bucks and get full letter parchment, address, wax seal and mail the letter so it's waiting when you get home.  A thrill for my kids.  Staff was awesome and very friendly.  Expected to be a 5 minute stop and was there for almost an hour.",
+        "Public bathroom available too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Tiny, but great!",
+      "text": [
+        "We had a quick but fun stop here. You can learn about the history of the building and can write your own letters like the 17th century. Very friendly and helpfull staff!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "You blink and you missed it.",
+      "text": [
+        "I find this place is interesting and  I like how you can get your hands on with writing with quill and ink. It is harder than it looks. You get to send the post afterwards. Friendly postmistress. It is a working post office too.",
+        "We parked just along the road. 1 hour was enough if you just came here just to visit this small building."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "Quaint place to mail your postcards",
+      "text": [
+        "This is a nice stop. It’s a bit hard to spot at first because it’s just a door. You can buy stamps here before mailing your post. You can also try your hand at writing using a quill!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Hidden gem! ",
+      "text": [
+        "This works as an actual post office so don’t expect a big museum. But if you have time and are passing by, enter there, lose a few minutes and write a letter using proper ink and paper, seal it with wax and send it to your family members. I found it worth it! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Great little historical place to post your letters and postcards",
+      "text": [
+        "Very friendly staff and an interesting place to look around.  I had researched it before we arrived so went out of our way to find it.  Not bit and doesn't take much time but does take you back to it's origins.  The postcards I posted there arrived back in England in less than a week.  Worth a drop in."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Friends"
+    },
+    {
+      "title": "historic place",
+      "text": [
+        "a very small museum..has a story,,its free,,so it was a first place in toronto where people sent mail from..its worth to know and visit..located close to george brown college"
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2011 • Friends"
+    },
+    {
+      "title": "5 Stars!",
+      "text": [
+        "Feedback english - Bewertung unten auf deutsch!",
+        "(computer translation from german) :)",
+        "We visited the beautifully decorated rooms in the first post office in Toronto. The lady was very friendly and helpful. The visit of the museum is free. Who wants to give a small donation can, through the coin into a collecting box like to do. In the rooms are historic objects on display and a model of post-operation from Toronto earlier times. The best part is the way a letter with quill and ink to write to him to be sealed with sealing wax and let it bear a stamp from 1833. It was great fun and it cost 1 CAD. Against payment of the regular postage, he can then immediately be sent. The lady was very helpful and explained everything in detail and answered questions patiently. This is remarkable because the lady has to lead the tourists next instruction a regular post office. Thank you for this!",
+        "--------------------------------------------------------",
+        "Wir besuchten die liebevoll gestalteten Räume des ersten Postamtes Torontos. Die Dame war sehr freundlich und hilfsbereit. Der Besuch des Museums ist kostenlos. Wer eine kleine Spende geben möchte, kann das durch Münzeinwurf in eine Spendendose gern tun. In den Räumen sind historische Objekte des Postbetriebes ausgestellt und ein Modell von Toronto aus früheren Zeiten.",
+        "Das Beste ist aber die Möglichkeit, einen Brief mit Gänsefeder und Tinte zu schreiben, ihn mit Siegelwachs zu verschliessen und ihn mit einem Stempel von 1833 versehen zu lassen. Es hat viel Spass gemacht und kostete  1 CAD. Gegen Bezahlung des regulären Portos kann er dann gleich versendet werden. Die Dame war sehr hilfsbereit und erklärte alles genau und beantwortete Fragen geduldig.",
+        "Das ist bemerkenswert, da die Dame neben der Touristenunterweisung ein reguläres Postamt zu führen hat. Vielen Dank dafür!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Museum and operating post office",
+      "text": [
+        "Step back in time and buy your stamps here",
+        " Delightful staff and a chance to sit and write a note. You can even get a wax seal."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2016 • Solo"
+    },
+    {
+      "title": "EVERY PHILATELIST WILL WANT TO MAKE A VISIT HERE",
+      "text": [
+        "Toronto's First Post Office is operated by the Town of York Historical Society ...",
+        "The Society was born of the interest generated by the restoration of an historical block of buildings at Adelaide and George Streets, in downtown Toronto ... ",
+        "These included the Bank of Upper Canada (1827), the De La Salle Building (1871), and Toronto’s First Post Office (1833) ...  ",
+        "Many experts – architects, historians and curators – volunteered assistance during the restoration project ...  ",
+        "From this core group, the Town of York Historical Society was formed in February of 1983 ...",
+        "The Society now operates Toronto’s First Post Office as a museum, a National Historic Site and an active Canada Post office ...",
+        "Toronto's First Post Office is an authorized full service dealer for Canada Post where all current definitive and commemorative stamps are available for your purchase ...",
+        "They also offer special philatelic services, including a pictorial cancel, a reproduction of Toronto's first cancel ( in red ink, as exclusively used by Toronto's first Postmaster James Scott Howard ), and US postage for return mail ... ",
+        "You will most definitely not be disappointed in your stop here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "How did we get along without email?  Well, we got along just fine.",
+      "text": [
+        "A very interesting and fun place to visit in the city.  It's not that big so you can focus on the exhibit and try your hand at writing with a quill.  Pleasant to do on a cold afternoon in the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2015 • Family"
+    },
+    {
+      "title": "Kids loved this!",
+      "text": [
+        "I thought we would be in and out in 15 minutes but my kids spent an hour writing letters to family with quill pens and wax sealing them. This is a fun stop in Toronto, at least got my 10 and 7 year old."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "quill pens and ink wells...",
+      "text": [
+        "it doesn't get better than that. This is an attraction on a small scale. Toronto's first post office is still operational. The smell of old wood wafts through the building. Behind the business area of the post office is a small back room complete with one of the original brink fireplaces. There you will find a wooden table, slips of paper and quill pens. Dip the quill in the ink and try your hand at writing. If you drip? Sprinkle some sand from the little pot on the table which acts as the most efficient blotter. The post master was friendly and welcoming and there were letter writing supplies, post cards, books, and some hand made messenger bags, etc for sale. The cost is donation only. You may only spend 30 minutes here but it is a really nice 30 minutes."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2015 • Couples"
+    },
+    {
+      "title": "Pop in only if you are walking right by it",
+      "text": [
+        "The City promotes the First Post Office along with 7 or so other historic sites and museums. We visited several of them and thought, since we had some extra time on our last day in the city, we would drop by the First Post Office. Two rooms, few exhibits, none of museum quality, self guided tour by brochure- in and out in 10 minutes for a $2 donation. We were underwhelmed and sorry we took the time to find it."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2015 • Couples"
+    },
+    {
+      "title": "Excellent for postal history & mail",
+      "text": [
+        "I am still collecting and sending postcards and love the First Post Office on Adelaide Street in Toronto. Those who appreciate old fashioned mail can purchase postcards and stamps and then use the beautiful, unique postal cancels. It is great to see groups of school children at the museum as so many have lost the art of doing mail",
+        "For those who love postcards then check out Post Crossing, a wonderful opportunity to exchange cards with others of like mind from around the world."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2014 • Solo"
+    },
+    {
+      "title": "Writing a letter with a quill and posting home",
+      "text": [
+        "We loved writing a letter home to grandparents with a quill, then folding it up and sealing with wax- great value at 5 dollars and it will be a lovely surprise for our family-much more fun than sending a regular post card"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Family"
+    },
+    {
+      "title": "Don't go out of your way to see it.",
+      "text": [
+        "If you happen to be in the area, stop by and spent a few minutes seeing where Toronto's first post office was located.  There  really  is very little  historical information in this building. It is a post office once again, but it isn't original.  ",
+        "Over the years the building had many functions including being a boy's school for many years. It  was in such bad  shape in the 70's that it was set to be demolished.  It was saved at the last minute and extensive work was done on it. There are before and after pictures.  ",
+        " The only unique thing is that they have quilt pens and ink  Paper is also provided so you can try writing with the quilt pens.  If your time is limited in Toronto, don't waste it by making a special visit here."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2013 • Couples"
+    },
+    {
+      "title": "Could have been better",
+      "text": [
+        "This is the original first post office from the 1800s. For such an historic building there is not much to see and do. This may be due to the fact it is still a working post office. The museum is free with a donation box provided."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2012 • Friends"
+    },
+    {
+      "title": "This is a real operating PO",
+      "text": [
+        "We were looking for an open Post Office on a Saturday morning and when we Googled it we were stunned that it was actually a tourist attraction as well. The young woman behind the counter was especially helpful in assisting us to send a large package of souvenirs back to Australia. When then enjoyed wandering around the post office soaking up the history. If you are going past drop in and have a look."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "Interesting",
+      "text": [
+        "Interesting little place. Not well advertised and easily missed.  No actual fee to get in but does ask for a small $2 donation.  Opportunity to try writing with a quill and ink.  Didn't take long to go around and see everything but still worth a wee visit."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "Pleasantly surprised",
+      "text": [
+        "Walked by this site on my way to and from our offices and went in on impulse.  Not a big place but lots of history.    Liked the way they tried to honor the origins while doing what is needed as it's a working post office.  ",
+        "Kind of quirky in that historic site way but I really enjoyed it.  It didn't take long to tour the place and read the educational pieces.  I was glad I stopped in and recommend it to others.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Hidden Gem",
+      "text": [
+        "My sister and I were visiting Toronto for the first time from the U.S. (Ohio and New Jersey)  Having worked for the postal service for many years, my sister thought it might be fun just to walk by and see this building and stop in.  We not only \"stopped in\" but ended up spending about an hour at this quaint and historical site.  It would probably not be anyone's #1 place to visit while in Toronto but we feel it should be on every list.  The girls working there were so informative and nice, so much that we felt \"at home.\"  There is a self guided tour available along with the opportunity to test your hand using a quill pen.  You can send a letter which is sealed with wax and also shop for some very unique,postal related gifts. We spent 4 days in Toronto and my sister and I both picked this visit as one of our \"highlights.\" "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017"
+    },
+    {
+      "title": "Olden Times Revisited",
+      "text": [
+        "What a lovely, quaint little Post Office, that is actually still a working post office, so much history in such a small space.  The post office is very small but crammed with so much memorabilia from the past.  Really interesting to read many of the old letters and you can even have a go at writing with a quill (not easy I can tell you).  The post office is free to go in but make at least a $2 donation each on your way out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Under the radar",
+      "text": [
+        "It's a historical site but there was close to no one when I visited, only a few locals that came in to run errands. ",
+        "It was a fun and interesting experience to write with an actual quill and have the letter wax sealed (for $2; more if you send it out)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Solo"
+    },
+    {
+      "title": "Holiday Gifts with an Historical Twist",
+      "text": [
+        "One the city's most charming haunts, Toronto's First Post Office offers a trip into the past (the year is 1833) as well as a host of gifts for all the paper-lovers in your circle: original cards and unusual items for kids and adults alike. An ideal souvenir of your visit to Toronto, where you and your kids can sit at 19th century tables, write letters to loved ones with quill pens, then fold and seal them with red sealing wax--what a treat when they arrive! It's all here--stamps, postal services, post boxes--and friendly service from smiling staff."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Family"
+    },
+    {
+      "title": "A great trip down into the Old World of Toronto",
+      "text": [
+        "Had a great time here with my wife, sending post cards and writing letters with an quill and ink, sealing them with a proper wax seal to be mailed!  ",
+        "  The Post Office is free and in the heart of the old town! a must see for travellers and locals!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "Oh yes! A must stop!",
+      "text": [
+        "If you are touring and want an off the beaten path stop you MUST pop in. It's small and it's cozy and you have to see it. Where else's can you try your hand at writing with a quill and ink well??? We were there long enough to meet two of the staff and these young ladies were amazing!!! Oh and yes it's a real post office so you can send all those post cards right here right now! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Family"
+    },
+    {
+      "title": "A hidden gem in the heart of Old Toronto",
+      "text": [
+        "Unique in Canada, this is the nation's only postal museum and is also a functioning modern post office ! Take the kids--no matter their ages--and write with quill pens on the paper provided, then have the post mistress seal it with red wax melted with a candle --fold it and send to your destination. My grandkids were thrilled when their wax-sealed letters arrived at their home in the States. Look around at the topographical city map from 1833, and purchase interesting souvenirs from the gift shop--groovy designer cards, books, and other unusual gift items. Anything you mail from here gets a special historical stamp--the airmail ones are particularly fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Family"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "New World Wine Tours",
+    "url": "/Attraction_Review-g155019-d10520695-Reviews-New_World_Wine_Tours-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "100 Lower Ossington Ave",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6J 0A7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 79
+    },
+    "openingHours": "Mo-Su 00:00-23:59",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/1d/c1/3c/traditional-method-sparkling.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Walking Tours",
+    "Beer Tastings & Tours",
+    "Food Tours",
+    "Wine Tours & Tastings ",
+    "Day Trips"
+  ],
+  "description": "New World Wine Tours provides boutique and luxury wine experiences from Toronto to Niagara and Prince Edward County. We also specialize in food and drink tourism in Toronto. Everything we do on a day-to-day basis is small scale and an intimate approach to tourism informed by local expertise. Explore Toronto's essential neighbourhoods and eat the best dishes on offer in each, or go off-the-beaten-path and we'll take you to some local gems you'll never find on your own. Our staff are all from experienced background in Tourism, Restaurants, Wine, and Food. So no matter which tour you select you will be getting a well-informed look at the city's food scene and/or local history. Check our out blog site: EatingThroughTO.com",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "DISGRACEFULL",
+      "text": [
+        "MOST DISGRACEFULL FLIGHT WE EVER TRAVELLED, ",
+        "Sits were stains and torn off ",
+        "TV screens never worked",
+        "Toilets were as dirty as ever before anybody could use, as I was the first one to attend.",
+        "ETE ETC ETC"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Excellent experience",
+      "text": [
+        "I got the gift voucher from a friend for my birthday. Because of the pandemic, we had to do the Zoom virtual tour and tasting. Charles was our guide. He is very knowledgeable and had a great session for us.  We enjoyed the wine that was recommended by Mackenzie.  A fun and informative event. We hope to join them again when they can start to offer in person sessions."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020"
+    },
+    {
+      "title": "Awesome Virtual Wine Tasting Experience!!!",
+      "text": [
+        "I did a virtual wine tasting with Mackenzie via zoom with my father who lives in a different city from me and is self-isolating. We both really enjoyed our experience. My father called me right away after the wine tasting to tell me that he was so impressed with Mackenzie and how he was so knowledgable and charismatic. I echo his sentiments. I am so happy with our experience and so happy that my dad loved his father's day gift. Thank you Mackenzie!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2020 • Couples"
+    },
+    {
+      "title": "history of Toronto and Canada/food tour",
+      "text": [
+        "Mackenzie was a great guide and we learned a lot about history of Toronto and Canada, As I read from previous review we enjoyed our tour very much.",
+        "Best way to spend our time during a short stay."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Really Neat",
+      "text": [
+        "Would recommend this expirience to anyone, excellent price and a really wonderful evening. The host was knowledgeable and fun, the wines were fantastic and cheeses all tasty. Learned a lot while enjoying a night out !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Couples"
+    },
+    {
+      "title": "I can't wait to do this again!",
+      "text": [
+        "This tour was the highlight of our trip. So much fun. I would do this again and again! the people were so nice and helpful too!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Absolutely must do!!!!!",
+      "text": [
+        "This was absolutely the highlight of our trip! everything was perfect! the food was delicious, the tour guide was very friendly, knowledgeable, and caring of everyone's needs. I would do this again and again! Highly recommend to anyone visiting Toronto. Well worth the money!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "25th wedding anniversary",
+      "text": [
+        "Hired these guys to surprise my wife for our 25th anniversary and couldn't have asked for a nicer trip.",
+        "From the first phone call to set up the trip to last sunset flight back from Niagara was absolutely perfect.",
+        "Thanks guys for making me look like a hero "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Awesome food tour",
+      "text": [
+        "GREAT TOUR AND GUIDE WOULD HIGHLY RECOMEND.  One of the best tours I've done, the guide was great and the food was awesome!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "Amazing afternoon!",
+      "text": [
+        "I would definitely recommend the Sake tour.  Mackenzie was very informative and could not be stumped.  It was a great way to spend the afternoon with friends, try different kinds of Sake, appetizers were fantastic and a great way to learn some of the history of the distillery district."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Awesome PEC wine tour with Eduardo!",
+      "text": [
+        "Booked a private half day wine tour in Prince Edward County for my sister's bachelorette and we couldn't have had a better experience!",
+        "Mackenzie helped us coordinate all of the details leading up to the day which included planning out which wineries and distilleries we would be visiting. He had some great recommendations! Mackenzie was very responsive with e-mails and was able to accommodate all of our requests. ",
+        "The tour itself was phenomenal. Eduardo was our tour guide and he was very knowledgeable about not just the wines but the area as well. Our favourite winery was definitely Closson! Their wines are amazing.",
+        "Overall, a great experience and would definitely recommend New World for anyone who is considering a wine tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Perfect unique experience in Toronto!",
+      "text": [
+        "We had a fantastic time on my bachelorette weekend thanks to the kindness and knowledge of our guide, Edu. He did a wonderful job showing us around the area with little stops in between cafes to appreciate the graffiti art in Queen West! The afternoon was an absolute treat, pun intended! Highly recommend this tour, it was my favourite part of the weekend! "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Dessert Like A Local",
+      "text": [
+        "We went on a Toronto pastry crawl with McKenzie and learned even more of why we love Toronto.  In addition to sampling some of the best pastry bites around town, we got an impromptu graffiti street tour and we even went off script when McKenzie went out of his way to ask questions in the field to local businesses and patrons whenever we wanted extra info on things around town.  On our last stop at a Portuguese bakery for tarts, McKenzie wrote us out a list of wineries to visit on our self-guided tour the next day, even drawing us a map and telling us of places for free parking.  Our guide is a world traveler who not only regaled us with great stories,but also answered any question we had of the area, the people, and the economy of Canada.  I highly recommend a private tour and we can’t wait to come back next year when pot is legal to take a Pot & Pastry Prommenade!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Ouststanding Tour",
+      "text": [
+        "This is a wonderful tour with a great itinerary. Our tour guide Eduardo was amazing. He is highly knowledgeable and very personable. We started the day with a visit to Niagara Falls. A majestic place with breath taking views. We took a boat ride into the falls. A must do. Our journey continued to the Coyote vineyard, a lunch stop at Ravine vineyard where the food was fresh, local and delicious. On the way back to Toronto we visited 2 more vineyards, Stratus and Kew. The wines at all of the vineyards were of high quality and unique. We are so glad that we took this tour. If you are staying in Toronto don’t miss a chance to go to the falls and the Niagara-on-the-Lake region with this company."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fantastic!!",
+      "text": [
+        "My wife and I were very pleased with this tour. The tour guide, Eduardo, was a very personable young man with lots of guide experience.  The food at the restaurant we were taken to was great. Barbara provided very good service.  The 3 vineyards we went to were very nice. The best tour came from the most commercialized vineyard but the best service came from the first vineyard we went to. Fred at the vineyard was welcoming,  informative, and very pleasant."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Absolutely Amazing!!!!!",
+      "text": [
+        "This tour was better than I expected. Mackenzie was the perfect tour guide. From the moment you are picked up you know this will be a great day. He is very knowledgeable and open to last minute changes and additions to your tour. He loves his job and it shows.  Great way to spend a day with friends!!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Excellent",
+      "text": [
+        "Our guide Eduardo was nothing short of great.  The wine stops were fun, the wine good and the lunch excellent.  Nice modern vehicle, very comfortable.  The entire trip, which included a Niagara Falls boat trip was great.  I would highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Amazing Day in Prince Edward County!!!",
+      "text": [
+        "We did the Prince Edward County Wine Tour and it was the best day we could ask for! Mackenzie did an awesome job - he started with the basics of wine tasting, and he taught us a lot of about region, the grapes, and just about different types of wine.  The tour was exactly what we needed: super fun, relaxing and memorable! The lunch spot was amazing - right on the lake and we got beautiful weather. All the wineries were really cool and we purchased some amazing wine! Truly a great day with an awesome tour guide! Definitely book this tour - I would highly recommend it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "very fun and unique experience",
+      "text": [
+        "I did the Queen West Pastry Crawl with my colleagues for our summer corporate event, and it was so much fun! Everyone had a great time and enjoyed the pastries, company, atmosphere and the walk. Everyone raved about how much fun it was. It's such a  unique experience and different from the typical wine tours. Mackenzie, our guide was fantastic. He was very accommodating, and he had great ideas to make our event more catered to us, and made the experience more special for us.  If you want to do something different with a big group, I highly recommend the Queen West Pastry Crawl!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Business"
+    },
+    {
+      "title": "Great day, we were well taken care of on our trip.",
+      "text": [
+        "Mackenzie provided prompt and very informative communications.  We didn't want or need the \"standard tour\" and he personalized our day down to the smallest details. ",
+        "Flight was quick and easy from Toronto city airport. Drivers were professional and very informative, lunch and wine at Two sisters was fantastic.  Spending a few hours with Judi at Stratus was very special."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Yummy tour",
+      "text": [
+        "My teenage granddaughters are very interested in baking.  This tour was one of the highlights of our vacation time together in several cities in Canada."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Discovering the winelands of Ontario at your pace",
+      "text": [
+        "Susu was our driver, guide, font of information (chef, sommelier, designer), companion for the day and  will be an inspiration for many a year to come. There were two of us in the car and we had the benefit of an in-depth tour of the area, avoiding the usual tourist traps and yet having the time to see everything that was worth seeing. We were not rushed and so were able to see the rural beauty and timelessness of the area. Our questions on wine (and food and architecture and travel) were all answered and Susu took us to places that she felt we would enjoy based on our conversations. I will never forget our last vineyard, Queenston Road sitting out in the late autumn sunshine, soaking in the wines, being allowed to savour the simple beauty of the place and enjoy the company of our hostess at the vineyard, Jodie. This sensitivity to our pace and reading us as clients was much appreciated and I felt it was more than just a couple of tourists being given a quick run down of the area. Thanks Susu and Mackenzie for organising. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Friends"
+    },
+    {
+      "title": "Nice day in Prince Edward County",
+      "text": [
+        "The tour was very good. We learned a lot about the wines from the region. Our guide was professional and nice. Altogether a very good day."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "Perfect way to see Toronto, not to mention the delicious food",
+      "text": [
+        "This tour was awesome!  This was a girls weekend trip (there were 4 of us).  Our tour guide Mackenzie was amazing tour guide and a fun companion for the journey!  He was extremely knowledgeable about Toronto and the food scene.  Upon pick up, he asked us where we had been & what preferences we had so that he could cater the tour to meet our needs.  We hit 8 spots on this tour in total and were able to get see many of the areas we hadn’t been to in one afternoon.  Mackenzie made a point of showing us some of the city highlights and made a special stop at a mural of a squirrel b/c of a conversation my friends brought up on the tour.  I would hands down recommend this tour if you want to see and learn more about Toronto and of course experience the delicious food scene.  My only regret is that we didn’t get a photo of us with our great guide!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Best thing we've ever done",
+      "text": [
+        "My husband and I were in Toronto for a long weekend, and this was the best thing we did. 100% ... 10/10 would recommend to anybody!! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Fantastic",
+      "text": [
+        "Along with food in various neighborhoods my guide Mac provided lots of info on history.  He was knowledgeable, friendly and fun.  He even took me to graffiti alley. This was my first time in Toronto but not Canada and I would say this was the best tour. I would definitely recommend it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Solo"
+    },
+    {
+      "title": "Excellent tour",
+      "text": [
+        "We loved our tour with Mackenzie. He was so knowledgeable and personable. We loved getting a feel for the neighborhoods with great foods in Toronto. The food and drink were awesome. Merci!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "A Fun education in cool environment",
+      "text": [
+        "Mackenzie...a great and charming guy...gave us an education in a fun and concise way in a room which was totally and honestly having the feel of a speak-easy (an over-used term nowadays, agreed?). We had a selection of Canadian (yep) wines which truly broadened our estimation of Canadian wines generally. And to the positive, I might add, eh what!",
+        "Un-rushed, easy location and priced reasonably (cheapies look elsewhere). Would suggest this to any beginners who want to step up their knowledge. Mind you, my Sig O and I did wander over to CC Lounge for after-dinner whiskies and cool music..."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Fantastic way to spend a day in Toronto",
+      "text": [
+        "We are a family of 4 with two teenagers, 19 and 16.  We used Trip Advisor to find an appropriate tour of the city, with food as a center piece of attention.  Mackenzie was our guide and he was exceptional.  Our 5-hour journey started in the Distillery district/area, which included many shops/restaurants - all palates could be pleased, and Mackenzie was adamant about pleasing the disparate palates/allergies/interests.  We visited the Kensington Market, Little Portugal, Chinatown, and the West End of Toronto - each visit included knowledgeable commentary about the history of the neighborhood, as well as distinct food selections catered to our tastes and interests.  I would highly recommend this tour to anyone (and/or family) looking for a way to explore the city and satisfy the taste buds."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Knowledgeable tour",
+      "text": [
+        "Wonderful tour with a diverse choice of less well known winery’s. Our guide Susu was a knowledgeable gem. Comfortable transportation from Toronto and delicious lunch. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Chocolate Tales",
+    "url": "/Attraction_Review-g155019-d10417474-Reviews-Chocolate_Tales-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "519 Eglinton Ave W Mad Bean Coffee House",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5N 1B1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 49
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/1e/54/13/having-fun-with-our-guests.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Lessons & Workshops",
+    "Cooking Classes"
+  ],
+  "description": "Our classic chocolate making workshops are ideal for excited chocolate crafting beginners and any chocolate lover wanting a hands- on lesson into the world of chocolate making! We share with you the unique history of chocolate and chocolate making and pass the tradition onto you by teaching you how to make your own gourmet chocolate treats...roll up your sleeves, it’s time to get crafty!",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Chocoadventures in Hamilton",
+      "text": [
+        "Excellent class Bean2Bar experience.",
+        "We could stop eating roasted cacao beans and experiencing all the flavours!",
+        "Making our own chocolate tablets was the best fun and delicious part! ",
+        "Excellent instructor Jenna! ",
+        "Answered all our questions and shared some chocolate tales!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "10/10! Go try it!",
+      "text": [
+        "It was so FUN! Way better than expected. We learned about the history of chocolate, got to learn some fun decorating techniques and you leave with so much chocolate! Like 30-40 pieces that you make yourself. And they are very yummy. 10/10 would recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "A wonderful experience - birthday gift for mum",
+      "text": [
+        "I took my mom (who loves baking) to the croissant baking class for her birthday. We had the best time! It was wonderful spending time together, learning a new skill, and we got so much value out of the experience (recipe, learning, and bringing our croissants home). David was wonderful, knowledgeable and patient. My mom has a long-standing shoulder injury and so rolling out the dough was tough for her - David was understanding and made sure to help her as often as he could. I brought the croissants to a friend's next morning to pop in the oven for brunch and they were such a hit. I don't think I'll ever make them again (they're a ton of work) but that doesn't change how I feel about the overall experience. I would love to try the ravioli class David mentioned."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Croissant class",
+      "text": [
+        "It was a family outing for Sisters, nieces, and nephews. We had such a great time. David was so patient. Thank you for a great day great course and loads of fun!!!!!! Did I mention that the croissants were amazing!!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Great time",
+      "text": [
+        "My husband and I had a great time learning how to make delicious croissants from scratch! The 2 hour course was well paced and informative, plus it yielded great pasteries. Would reccomend to any foodie who wants to learn something new!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Great family activity!",
+      "text": [
+        "My son and I thoroughly enjoyed the Family Friendly Chocolate Adventure at the Novotel Hotel in Downtown Toronto. The host was fun and knowledgeable, staff at the hotel were super welcoming and we both took a hefty loot bag home."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Super fun morning for family",
+      "text": [
+        "We bought this experience from Groupon so we weren't sure what to expect however, we were pleasantly surprised! Very fun experience for myself and my 5 yr old son. The teacher was knowledgeable about chocolate and answered all our questions. Gave us lots of room to just create. What was really surprising was the amount of chocolate we were taking home at the end of the experience. A lot of sharing at home after! We highly recommend! Also, they told us that they do birthday parties for children at home so we want to look into that as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Wonderful",
+      "text": [
+        "The croissant making class was a fantastic experience. We had fun, learned a lot from David and our croissants turned out great. This was mine & my sister's 3rd class/workshop with Chocolate Tales and we're looking forward to doing more!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Expert Teaching!",
+      "text": [
+        "I took the croissant class and it was so well organized and taught. Everyone left with a pastry box of croissants ready to rise and clear instructions for baking at home. They were delicious! I signed up for two more workshops as soon as I got home! Can’t wait to learn more intricate baking skills!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Girls Night  - Wine and Chocolate",
+      "text": [
+        "Girls night out! No better way to have fun with the girls than wine  and chocolate tasting. Althea was an amazing hostess. She was well versed in the history of chocolate and in the making of the treats we sampled.  The chocolates were fantastic.  Excellent evening.  Only disappointment was that she had no sample chocolates to purchase."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Good Times",
+      "text": [
+        "My husband and I had a really good time. We learned a lot of the history and production of chocolate. Our instructor was enthusiastic and entertaining during the class."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Couples"
+    },
+    {
+      "title": "Highly Recommend!",
+      "text": [
+        "I’ve been to a couple of classes now and both were a great time. Delicious chocolate and fun learning experience. And you come home with treats to enjoy yourself or share with others!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Friends"
+    },
+    {
+      "title": "Bittersweet",
+      "text": [
+        "We did the chocolate and caramel workshop but found it underwhelming. You get 12 pre-made little truffles (that you later fill yourself), two flavours of ganache, a square of caramel, a dixie cup of chocolate and toppings to finish off your treats. It was neat putting everything together, but our instructor wasn't the most engaging nor the most informative, which made her seem inexperienced and the whole thing kind of amateurish. It would probably be a lot of fun with a large group of friends or co-workers, but for almost $150 for two people, I expected a lot more. Would not do this again."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2023 • Family"
+    },
+    {
+      "title": "Yummmm what a fun event !",
+      "text": [
+        "Such a great experience. We had So much fun and so much chocolate. I took my mom and sister and we all had such a great time. I would definitely return to try  another class."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Friends"
+    },
+    {
+      "title": "Disaster",
+      "text": [
+        "Partly my fault for not checking December 14th, however I drove from Burlington to Hamilton with my Maps that got me there avoiding the traffic due to accidents only to find out the factory tour was cancelled due to some corporate function.  I was not notified of the factory tour cancellation even though I provided my cell phone number and email.  Needless to say I am not impressed and I receive an email December 15th asking me for my feedback of the tour that was cancelled.  Not again."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2022 • Solo"
+    },
+    {
+      "title": "Truffle Making Experience",
+      "text": [
+        "A fun experience, made some tasty chocolates to bring home! I would recommend offering some different options for decorating (we weren't a fan of the coconut shavings and powdered cocoa)"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2022 • Friends"
+    },
+    {
+      "title": "Great Class - Very enjoyable",
+      "text": [
+        "I attended an introduction to chocolate making workshop at the Chocolate Tales Hamilton locatiion.  It was excellent!  The instructor was very good and made learning fun!  Definitely worth the money.  Looking forward to doing another workshop.  Waiting for the Christmas workshops to be posted:)  ",
+        "Good to do with your partner, older children, or friends"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Tasty, interesting chocolate tasting",
+      "text": [
+        "Our whole family went to ChocolateTales.ca for a chocolate tasting. Who would have thought ruby chocolate tastes like a hint of raspberry? Did you know Belgian chocolate has 32% cocoa and that your taste buds are heightened after trying dark chocolate? We enjoyed the chocolate savouring but they also have lots of peanut-free chocolate products ideal for gift giving. My 19-year-old daughter and I thought it was very interesting—and tasty!",
+        "Now I'm going to sign up for the macaron making class."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Recommended fun in Hamilton",
+      "text": [
+        "Fun activity with friends and you get information about chocolate AND tasting.  Terrific fun.  Recommended!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Really excellent experience, very fun and informative workshop.",
+      "text": [
+        "Excellent experience, we can in a group of 3, did this workshop. We did the Ultimate dark chocolate vegan workshop. It was really informative, starting with a brief history of drinkable chocolate, most of the workshop was focused on hands on experience. We made granola, decorated a chocolate bar, and made granola bites. It was really fun and I would highly recommend this workshop. The atmosphere was very nice, very professional. And the end result was fantastic, we all got to take home our lovely creations in a gift bag."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Fantastic experience",
+      "text": [
+        "The class was excellent and staff and facility was top notch and professional.  Class was informative and hands on.  Awesome experience and lots of fun.  Would recommend this to anyone to try.  Thanks Chef David!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Fun times. I would definitely recommend. I did the family version to see if I like doing it and will definitely want to try a more complex one."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "Great experience, great chocolate",
+      "text": [
+        "We made some amazing tasty chocolate treats - truffles, chocolate medallions and a bar of chocolate with ingredients of our own choice.  David, our instructor, was fun and knowledgable.  I'm planning a second visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Chocolate Lovers Delight",
+      "text": [
+        "My sister and I went to the Classic Chocolate Making Workshop this past Sunday to celebrate my sister's birthday.  We enjoyed the session immensely.  We learned the history of chocolate and how to prepare it for pouring into molds.  The venue is large and well appointed.  All utensils and ingredients were provided with excellent instructions on what to do.  Chocolate Tales chocolate is wonderful and there was plenty of tasting throughout the  1 1/2 hours.  My sister and I were in heaven."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "It’s not just for breakfast anymore",
+      "text": [
+        "We signed up as a Mother’s Day gift for my wife. It was an ideal, low-pressure family activity. The leaders know their chocolate and you walk away with a belly full of the good stuff as a bonus. Plus the venue was beautiful."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Family"
+    },
+    {
+      "title": "Great Social Event for couples and lovers of wine and chocolate ",
+      "text": [
+        "The \"Chocolate and wine pairing workshop\" was fuun, and a great venue to socialize. And wine and chocolate are great reasons to sign up. My husband and i loved it. . "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Couples"
+    },
+    {
+      "title": "Awesome macaron class! ",
+      "text": [
+        "David was a fantastic teacher and really took the time to teach every single person. My brother and I took our mom to the Macaron class as a surprise birthday gift. She has been raving non-stop about the class and said it was her favourite birthday gift ever. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "Amazing yummy experience!",
+      "text": [
+        "Amazing experience, stress free, fun, easy to follow the process, ended up with delicious chocolate bar and oats balls dipped in dark chocolate with added raspberries, coconut, maple sugar, etc."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Friends"
+    },
+    {
+      "title": "Chocolate Making Class",
+      "text": [
+        "David was super organized, helpful and made our chocolate making class enjoyable and fun. My girlfriends and I made delicious chocolates to take home."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Friends"
+    },
+    {
+      "title": "Excellent class and experience!",
+      "text": [
+        "A great class making Truffles.  Jenna, our instructor was excellent, and made the class fun.  Great value for price paid."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Friends"
+    },
+    {
+      "title": "Yummy and Fun!!",
+      "text": [
+        "We had a great time! Thank you for the fun experience!!!! We will go again!!!",
+        "They were organized, clean friendly and patient!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Not a masterclass",
+      "text": [
+        "We did the chocolate master class. For the price we learned nothing very over priced. It was just a bonbon decorating class, everything was already prepared all we did was paint the mold and fill. It was a nice Sunday activity but should not be called a masterclass we feel a bit scammed."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2024 • Friends"
+    },
+    {
+      "title": "Fun and educational ",
+      "text": [
+        "We had a great time at the Bean to Bar workshop.  We sorted the beans, roasted them and ground them up to make chocolate.  They are a little bitter in this form so we got to make 3 chocolate bars from already prepared chocolate. It was very educational and a lot of fun. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Friends"
+    },
+    {
+      "title": "Dark Chocolate workshop-- lots of fun and yummy too!",
+      "text": [
+        "Went to the Dark Chocolate workshop at Hotel Victoria!  Our teacher was great -- explained about the history of chocolate and we made chocolate granola bites and chocolate bars -- getting to decorate them was a lot of fun.  ",
+        "Would definitely do another class!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "Beginner friendly workshop",
+      "text": [
+        "The workshop was beginner friendly. It was fun decorating and making your own truffles. It makes you appreciate the art of chocolate making a little more.",
+        "I wish we also learn to make the ganache. The teachers were nice and very helpful and the truffles tasted so good!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Fun Experience with Family Members",
+      "text": [
+        "This was a fun and special experience.  Various activities with different kinds of chocolates and this kept us entertained, interested, and we learned a lot.  I would definitley recommend it for others looking for a unique experience.  You also go home with lots of delicious goodies. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Great workshop and date night",
+      "text": [
+        "This was a great workshop and a fun date night! The chocolate itself was pre-made, so we got to fill in the truffles, decorate, and even took the chocolates home. Beginner friendly."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Great times with Hamilton Chocolate Tales!",
+      "text": [
+        "We had a great experience doing the vegan dark chocolate workshop. I took my Mom as a birthday present and we had a blast. We learned about different chocolate, the science behind working with it and made some delicious treats to take home! We did the workshop in Hamilton and I would absolutely do another!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Family"
+    },
+    {
+      "title": "Fun night out",
+      "text": [
+        "Fun night out learning about chocolate and pairing with wines. 3rd time attending and I always learn something new."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Sweet day out!!!",
+      "text": [
+        "What a fantastic day out.",
+        "this is the perfect experience for a couple of group of friends.",
+        "Both educating, with David the Chef teaching and explaining the history as well as the step by step recipe.",
+        "So much fun, and the end result is delicious.",
+        "Dont miss this."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    }
+  ]
+}

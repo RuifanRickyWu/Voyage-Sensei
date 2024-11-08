@@ -1,0 +1,378 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Pirate Life",
+    "url": "/Attraction_Review-g155019-d6922858-Reviews-Pirate_Life-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "585 Queens Quay W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 3G3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 342
+    },
+    "openingHours": "Mo-Su 10:30-06:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/09/14/ea/pirate-life.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Theaters",
+    "Theater & Performances"
+  ],
+  "description": "Ahoy matey! Join the crew aboard the Island Rogue, a 45 foot pirate ship on the harbourfront of Toronto! Live the Pirate Life with our crew as you dress in costume, received sea farin' tatoos and pirate nick names! Board the vessel and sail the Toronto Harbour in search of sunken treasure and freedom! Pirate Life combines theatre, adventure and cruise, it's fun for all ages and departs daily off of Queen's Quay West",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Highly Recommend!",
+      "text": [
+        "HIghly recommended for families. We took our 5-year old grandson and we all enjoyed it.  The actors brought humour, action, and a wonderful way of managing kids on holiday. People may think the experience needs more activities for the kids but there's very little space on the dock or on the boat, so we felt the actors did the best they could with the space and time available. The staff also called us - phoned us! - 2 days later to follow-up and ask us for feedback. We were so impressed.  Well done to all the staff involved!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Fun improv with a Toronto backdrop!",
+      "text": [
+        "My family joined the crew August 17th. This is a great activity for a family with young children and/pirate lovers. Great interactive improvisation with a few surprises, all with a view of the beautiful Toronto shore line. Appreciated the emphasis on safety."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Rescued from certain death at sea",
+      "text": [
+        "Not what you would expect from notorious pirates! They actually rescued me from certain death at the stormy seas of Hamilton Harbour after a failed fuel pump left me stranded over night. With hardly a boater in sight due to the rainy conditions, there were my only hope! Praise God and kudos to a fantastic crew!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Hilarious, professional interactive performance for all ages",
+      "text": [
+        "This is not just people entertaining your kids for an hour - this is an interactive, full-on performance worthy of any theatre. The staff are professional actors, very skilled and SO funny! ",
+        "The show changes constantly - ranging from games and sword fights to an evil (funny not scary) pirate boarding the ship later to be chased away by the kids using water cannons attached to the ship. Your kids will love this, but the adults in the group also will be entertained and laugh from beginning to end. Best family performance I have ever seen"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Great",
+      "text": [
+        "Fun activity for the kids, especially under 5. My 4 year and old and 2 year old loved it. My 6 year old girl was not so in to it. I did get a bit sea sick!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Entertaining from start to finish",
+      "text": [
+        "We thoroughly enjoyed the voyage with the pirates! My almost 10 year old was the oldest child in our group by several years and he still had fun. The staff were all very charismatic and engaging, and worked hard to include everyone in the story. They were in character from the moment we arrived until we left. ",
+        "The land acknowledgement at the beginning was beautifully and thoughtfully done, and having us all repeat the names of some of the historical tribes in the area was a nice touch.  ",
+        "One bit of advice I have is to find a bathroom before you arrive. I know that should go without saying, but after taking an Uber downtown or walking the harbour front to reach the pirate ship, your only bathroom options are the Loblaws a few blocks away, some questionable porta potties nearby, or the airport bathrooms that we never did figure out how to get to. Just plan for it is all. Don’t get caught unaware. 😉"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Perfect family activity (3 year old) ",
+      "text": [
+        "We thoroughly enjoyed our pirate life experience. The boat, scenery and water cannons were the highlight. The pirates worked very hard putting on a show for us and it was entertaining. We would have perhaps enjoyed more down time where the show wasn't going on (to enjoy the scenery or my son would have loved some time to drive the wheel at the front of the boat). Definitely recommend the experience for young families. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Family"
+    },
+    {
+      "title": "Best Cruise for Little Ones!!",
+      "text": [
+        "We did the pirate life cruise and had an absolutely amazing time! There were kids of all ages enjoying themselves and our 3 year old absolutely loved it. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Family"
+    },
+    {
+      "title": "Not a second of boredom!",
+      "text": [
+        "1st time in your boat, my 8 year old son really enjoyed it, laughed and had fun. ",
+        "We enjoyed the different games. ",
+        "Not a second of boredom! ",
+        "Congrats!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "thank you for making my daughter's birthday party a wonderful experience",
+      "text": [
+        "For my daughter’s 6-year-old birthday party, we had a pirate life workshop.  Assigning pirate names, painting tattoos, improvising, singing songs, and hunting for treasure – these activities really connected with the kids. They loved it.   The staff were entertaining and engaging.  The parents, who were at attendance, were equally impressed. I highly recommend their workshop for young birthday parties."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Perfect Family day",
+      "text": [
+        "Fabulous. Entertaining, well priced and a perfect imaginative family friendly excursion. We brought a kid from 8 months to 5 years and everyone was involved and glued.",
+        "Highly recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021 • Family"
+    },
+    {
+      "title": "A wonderful family outing",
+      "text": [
+        "Pirates Life is awesome. We go to the one in Ottawa every year (and hope to continue). They change up the story and adventure so it's always new and my daughter loves the acting and the little extras. It's also in a great place (Mooney's Bay) so we plan time at the park too after. Please support these fantastic artists!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Great Adventure!",
+      "text": [
+        "Our 6 and 8 year old kids had a blast, as did their Grandma who went with them! They loved the acting and names they received when they arrived. Timing was excellent as well as location. They enjoyed a nice walk and lunch in a park close by after.",
+        "Highly recommend it and purchasing the hat and sword - kids have been wearing them for 3 days straight!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "An awesome\r",
+      "text": [
+        "We had an absolute blast on the ship! It was just fun enough to go out on the boat for an hour or so, but the pirates were fantastic, highly engaging and funny! I highly recommend and we will definitely set sail again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2021 • Family"
+    },
+    {
+      "title": "Amazing activity - will return for sure :-)",
+      "text": [
+        "My 4-yr old son LOVED Pirate Life! We went during COVID and they had great safety protocols in place, in a way that made safety part of the fun. We attended on a somewhat rainy day and loved having very few people on our tour so my shy son felt comfortable stepping forward to participate fully with the engaging actor/pirates. From learning how to scare away jellyfish with silliness, to developing sword battle skills, to the highlight of attacking an attacking pirate with water cannons, my kid was totally engaged throughout. Two thumbs up."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "FANTASTIC AND ENGAGING!!!!",
+      "text": [
+        "FANTASTIC!!  The actors on the boat and shore are VERY engaging the moment you get there.  It is TRULY and adventure with not a dull moment!  Crew works very hard to engage with your kid at THEIR level.  It's well thought out as the adventure builds to an exciting climax!  Fantastic and absolutely well organized.",
+        "High praise for being creative in social distancing!  Each child is given a play \"sword\" and if anyone gets in their social distance space, they can \"defend their area\".  Felt VERY relaxing as a parent to turn the rules that are too keep us all safe into a game! ",
+        "I wish you all the success #PIRATELIFETO"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Safe adventure during Covid-19 times",
+      "text": [
+        "What to do with kids during Covid-19? We struggle with making sure our kids are still out and learning and having fun. We landed on Pirate's Life and bought tickets. The day was very fun on the water for adults and kids. They have limited capacity because of the virus so there was ample room and we felt safe. The crew was fun and jokes were also geared towards adults. Our 3 kids loved it...and we will go back when the restrictions are lifted because they are not doing the on land (face paint) and naming routines for now.",
+        "Our kids were excited days in advance and we let them watch the Youtube videos that are posted so they could build their own costumes and get tatoo'd up at home. ",
+        "Last point is for the cost - it was great value.",
+        "We appreciate the whole Pirate Life crew for putting smiles on kids faces during these difficult times."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "Pirate for a Morning",
+      "text": [
+        "What an awesome way to celebrate our son's seventh birthday! The actors and actresses were professional, enthusiastic, and personable. We all had a blast! Highly recommended to all families with young children. Even adults would get a kick out of this experience. Thank you for a great adventure!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020 • Family"
+    },
+    {
+      "title": "Great fun for kids and nice ride for adults",
+      "text": [
+        "Lovely way to spend an hour - my 2.5 year old loved it and spent the next day asking to go back on “pirate boat” ! Will definitely do it again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020 • Family"
+    },
+    {
+      "title": "Family pirate fun on a boat!",
+      "text": [
+        "This was a lot of fun for my 6 and 7 year olds as well as for my 3 year old.",
+        "The pirates put on a wonderful show even though were just one family of 5 on the boat. They wore costumes and played pirate characters and were engaging with the kids. The kids loved it. They did some coloring, they answered questions about where treasure might be hidden, they had some songs and dances, and the best part was defending the ship with water canons against an enemy pirate ship that came up along side the ship. The kids ran back and forth from canon to canon to try and hit the other ship and they succeeded in drenching the bad guy pirate! Great fun for the family."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Great time for all! Yarrrrr",
+      "text": [
+        "We saw the show in Toronto and had a great time! We loved the “tattoos” and all the songs and pirate puns. It was so much fun sailing around the lake and having fun. ",
+        "This show is accessible friendly! Husband in a wheelchair, mom with a bad knee and brother with autism… they were all included in the fun !",
+        "Also great place for celebrating a birthday. It was my birthday and they had everyone wish me a happy birthday in a game of “Captain says” and also sang me a special birthday song at the end with a surprise present! It was a wonderful time. ",
+        "Thank you, Pirate Life!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Friends"
+    },
+    {
+      "title": "Fun for 9 year olds too!",
+      "text": [
+        "Great little adventure. So neat to see Toronto from the water. The cast put on a great show that kept us entertained the whole time. Loved how they interacted with the kids and improvised as they went along. Both my 5 year old and 9 year old enjoyed themselves."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Family"
+    },
+    {
+      "title": "Amazing time!",
+      "text": [
+        "The experience was amazing! The actors (pirates) that took us out Polly Pick Pocket and Grey Skies were very entertaining and engaging. Our son really enjoyed his time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Family"
+    },
+    {
+      "title": "The best time ever",
+      "text": [
+        "The guys put their heart out for you. It was the best time me and my kids ever had. Fantastic. Capt. Jack Sparrow."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Calling all piartes of young and old",
+      "text": [
+        "Highly recommended for children of all ages and the ones at heart. Very friendly funny staff makes the experience so worth it. Very clean and sanitary. I would go again next summer. A must do if you are visiting Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021 • Family"
+    },
+    {
+      "title": "Fun experience",
+      "text": [
+        "Shooting water canons at marine police.  They were very good sports about it and made kids day.  Staff was very friendly and excellent as well"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Wonderful sea adventure!",
+      "text": [
+        "The performance of the Pirate crew was excellent! They really got into their parts, which is what comedy and fun really needs.",
+        "The kids were captivated and the adults were grinning at the groanworthy pun jokes.",
+        "Well worth the money."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Best family fun on the Waterfront",
+      "text": [
+        "23 family members from 1 year to 80 years thoroughly enjoyed this cruise/show.",
+        "The staff actors  were frolicsome and included all the children in fun activities- from dancing to firing cannons at enemy ships. ",
+        "Well worth taking this Pirate Life ship!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021 • Family"
+    },
+    {
+      "title": "Fantastic adventure!",
+      "text": [
+        "Such an incredible adventure for our 3 year old. He was fascinated and engaged the entire time. He has not taken his pirate hat off and it's three days later! Have recommended this experience to all of our friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Fun and engaging adventure!",
+      "text": [
+        "We just got back from the Pirate Life Toronto with our 4.5 year old and it was amazing!  Great views, great entertainment, lots of laughs for all ages, and felt nice and safe.  Highly recommend this outing!  The pirates were so funny and engaging and never broke character! Perfect amount of time for young kids.  They were engaged the whole time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Loved Pirate Life",
+      "text": [
+        "We took our 3.5 year old this weekend and she loved it! Ten staff was fun and kind, the activities were entertaining and engaging. I would recommend this to families with young children. We will be coming back for sure"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021 • Family"
+    },
+    {
+      "title": "Highly recommend - 10/10 experience",
+      "text": [
+        "Incredibly fun and engaging experience - highly recommend to anyone with kids! The crew were wonderful and engaged with all the kids, even if they were shy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Family"
+    },
+    {
+      "title": "Best activity we could have chosen",
+      "text": [
+        "We did all the touristy activities around Toronto and this by far was the best. The pirates are on point and make it fun for adults and kids just eat it up. Beautiful view of Toronto to boot. We were worried it would just be fun for our son but we enjoyed it as much as he did. I recommend dressing up for the trip. They also send treasure maps and other activities after the trip."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Family"
+    },
+    {
+      "title": "A great activity to enjoy the Toronto harbour!",
+      "text": [
+        "We had a great time!  We have no children of our own and enjoyed watching the little ones being pirates.",
+        "The staff are fantastic and very entertaining.",
+        "We were able to sit by ourselves on the stairs, but the others seemed to be crowded together at the front of the boat."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "A really fun experience!",
+      "text": [
+        "The Pirate Life tour was a ton of fun and the staff were fantastic and super friendly. My 4 year old really enjoyed everything about the experience especially the water cannons!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Family"
+    },
+    {
+      "title": "If you haven't gone yet, you're missing out.",
+      "text": [
+        "My son and I have gone three years running now, and it's a fantastic tradition for us. We love going out on the water, immersing ourselves in a fun, family-friendly pirate adventure, and (of course) dressing up like pirates. I'm impressed at how they have kept everyone covid-safe. The crew are all pros and make for a phenomenal adventure every time. Couldn't recommend it enough."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Not covid safe",
+      "text": [
+        "I didn’t feel this was a covid safe activity. The cannons and railing are the few things kids touch….not cleaned between rides. But they cleaned the crew stuff. I also felt boat was too crowded for covid safety. Sitting right beside a stranger. Yes with masks but a little too close. ",
+        "Too expensive for what you get. Don’t buy the extras. ",
+        "Age limit should be added. Kids are not engaged to be part of the theatre at all. Really good for 4-5 year olds. Maybe 6. And any other kids who are really really into it."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2021 • Family"
+    },
+    {
+      "title": "Great experience for kids under 10",
+      "text": [
+        "I took the two little ones I care for, 3 and 6.",
+        "I can't blame pirate life for the covid friendly restrictions and the intense sun and heat making it difficult in masks.  The kids had a blast and continue to talk about pirate Teddy and Louisianna.   I wish there was more included like hats or maybe snacks.  The treasure at the end could be a bit better like amethyst or something more real.",
+        "As an adult I had a blast watching the show and of course the kids fave part was the cannons."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2021 • Family"
+    },
+    {
+      "title": "Awesome",
+      "text": [
+        "This was amazing, we enjoyed a lot and mske a big applause to members of pirate. Highly recommend.Very good for family."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Family"
+    },
+    {
+      "title": "Amazing fun on the water",
+      "text": [
+        "Our family of four (2 adults plus a 12 and a 6-yo) enjoyed every minute of it. The crew was amazing and highly entertaining! Kids especially loved shooting other ships with the (water) canons. High recommend! ",
+        "On a side note: Please remember that mask is mandatory onboard the ship. There were a couple that did not want/need to wear masks and just said they’re exempt. The crew was very professional and kindly asked that they do because it’s company policy. When those two refused, the crew provided them each with a face shield. It made the rest of us feel a little safer."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Family"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "High Park",
+    "url": "/Attraction_Review-g155019-d155496-Reviews-High_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1873 Bloor St W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6R 2Z3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 2297
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/7d/1f/23/high-park.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Parks"
+  ],
+  "description": "Popular urban oasis offers a variety of outdoor recreation including ice-skating, baseball games, nature hikes and exploring the park's greenhouse.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "It was OK but not great for figuring out where you are",
+      "text": [
+        "Well a person from Alberta / mountains and is use to signage. this park is full of maps but has no relationship of where you are. My suggestion is to mark the gates with numbers (These are areas where the dogs are able to roam freely) . This numbering system will help to navigate the park with confidence. We wondered around but was constantly wondering where we were. The park is wonderful but definitely not easy to find your way around. Make sure you have lots of time to ask people where you are in the park."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Family fun",
+      "text": [
+        "Great playground and splash pad. The kids had fun! The park is free! Only bad thing was the restrooms were hard to find. Only porta potties by the splash pad. Kinda gross."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Amazing park",
+      "text": [
+        "This park is big with plenty to do; playscape, splashpad, soccer field, bike riding, trails to walk or run, beautiful grounds for a blanket to read, benches to people watch, picnic tables, restrooms, tennis, the pool was empty, it says it has a ice skating rink that was not there, the fountain was empty, there are tons of different kinds of squirrels whom do not seem to fear people, many ducks, a restaurant, food trucks, dog area, and beautiful plants all in a big circle."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "A park for everyone!",
+      "text": [
+        "We enjoyed our walk around the park. The lunch at the Grenadier restaurant was delicious- great crispy fries!! Label more of the plants for us visitors who are interested in the names of flowers and trees. The washrooms near the children's playscape need to be signed more clearly from the main path. The animal area  is always a fun section to visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Nice place for a family afternoon",
+      "text": [
+        "It's a nice park but can be crowded. The zoo is great for kids. A highlight is visiting when the cherry blossoms are out (though this is the peak crowded season)."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Beautiful Park and Views",
+      "text": [
+        "Beautiful Park. Recommend the trackless train that takes you around the park. The maple leaf is really beautiful. Must go."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Huge Park.",
+      "text": [
+        "Visited 25/05/2023.",
+        "Loved going for a walk in this Park. It was big, clean, plenty of trees to see local wildlife. So much bigger than we anticipated, but lovely to visit."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Beautiful and relaxing",
+      "text": [
+        "Very busy place, but a  very nice park, make sure you take your peanuts to feed the squirrels, or a book or blanket just to relax ,this place is really nice ,you can even take your dogs as long as they're on a leash, and let's not forget the animals, we saw peacocks, yak, bison all kinds of things down at the other end, you could have a very relaxing day just strolling through the park worth the stroll"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Quiet winter-walk through the park",
+      "text": [
+        "On my walk through this 161-hectare treed park, with many large open spaces, I saw others walking, jogging, and riding bikes — a very peaceful and free atmosphere. The park's beauty will be much more incredible when the spring flowers bloom."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Solo"
+    },
+    {
+      "title": "Large park - worth a visit",
+      "text": [
+        "Large park. Ice Rink in Winter. Tennis courts and other recreational activities available.",
+        "Large lakes.",
+        "Very steeps hills so be careful.",
+        "An area for off-leash dog walks also."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Couples"
+    },
+    {
+      "title": "A GREAT WALKING ADVENTURE IN THE CITY",
+      "text": [
+        "A great park for every age group.  Great trails and paved walking paths, a ZOO, dog park, pool, tennis courts, children's play area, picnic tables, a lake, wonderful trees and gardens, bike lanes....all with easy access to Lake Ontario and Lakeshore Blvd to the south and Bloor Street and Bloor West village / shopping to the north.",
+        "A great place to explore, relax, and enjoy year-round. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2021"
+    },
+    {
+      "title": "Not Well Cared For",
+      "text": [
+        "I've visited High Park a few times over the years and as a center-piece 'main city park' it's really, really lacking.  During a visit last summer there was literally feces on the floor of the one toilet mens washroom.  Disgusting!",
+        "Compared to other well cared for, marquee, city parks, (think Central Park, Stanley Park, Grant Park, St. James's etc.), this High Park is totally pathetic and an embarrassment to a city which is otherwise very compelling.  "
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2020"
+    },
+    {
+      "title": "Peace and Quiet",
+      "text": [
+        "High Park is the best park in the area, as it is safe and clean.  Lots of parking and walking. Good for the whole family. Flowers are usually lovely in the spring.  Wish they had more park benches.  Close to everything."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Huge park",
+      "text": [
+        "The High park is the ideal spot to spend a few hours away from the hustle bustle of daily life. A simple walk or a picnic, the park would not disappoint you. It's easily accessible and depending on how long you intend to stay, you can get lost in its huge environment. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2020 • Solo"
+    },
+    {
+      "title": "Washrooms ",
+      "text": [
+        "Does anyone know if the washrooms at the park have reopened? Planning on going tomorrow June 6 2020. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2020 • Couples"
+    },
+    {
+      "title": "Need better Maps",
+      "text": [
+        "large park with great amenities but its so big that you get lost very easy, they need better way finding. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Four Season Destinaton",
+      "text": [
+        "We live in the area so we regularly visit High Park.",
+        "We usually just wak there, take a short hike then walk back.",
+        "In the spring we will usually walk or ride our bikes there to take in the cherry blossoms -- not possible this year due to Covid 19.",
+        "We often go ice skating on Grenadier Pond. It is especially nice after a \"quick freeze\".  You can often see the water through several inches of ice.   With a \"quick freeze\" there usually little snow, so you can easily sake the whole pond.  Even if there is snow,  most times, people before you have shoveld off a section or path to skate on.  If not, just take your own shovel and scrape of your own area and path.",
+        "During spring, summer and fall, there are many trails though the woods."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2020"
+    },
+    {
+      "title": "Best park in Toronto",
+      "text": [
+        "Love everything about the place.",
+        "Very spacious even though could be very busy during summer times.It has everything for whole family. Socer field, barbecue place, cafeteria, zoo, washrooms,indor& outdoor swimming pools,kids playgrounds,water splash a pound,restaurants and lot of tables all over beautiful park area to listen birds, read a book or to have a picnic or send time with family, love one or with your best friend or dog. Choice is yours. Treasure the park & nature is free and for everyone to ENJOY!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020 • Family"
+    },
+    {
+      "title": "Genius parks",
+      "text": [
+        "The Toronto area parks are brilliant. Great locations, scenic respite from the city. Plenty of things to do or look at. Great for folks of all ages. My favorite was the ducks that locals told me were too fat to fly south for winter."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "I've trodded on every blade of grass or path here.",
+      "text": [
+        "What can you say 99 acres of wonderland in the heart of the city like Toronto and it even has a tiny zoo.",
+        "Walk through high park trails or run or play soccer football swim enjoy the pond and then go see the floral gardens.",
+        "You will need more than one day to soak in all the wonders of this park. So why not go back for a second day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Large park, very beautiful",
+      "text": [
+        "It is really a large park... at some point, I got completely lost and had to use Google Maps to find the exit :-)",
+        "I could not cover it complete, although I was there a couple of hours.",
+        "But the parts I have seen were bautiful landscapes. I went through some woods, a residential zone in the border, a pond and lots of grass areas. ",
+        "It seems an ideal place to have a long walk (or jog)"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Beautiful Park",
+      "text": [
+        "This park is beautiful. It has a restaurant if you are feeling peckish where you can eat inside or outside."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Amazing Cherry Blossoms , Gorgeous Park, Beautiful Wildlife!",
+      "text": [
+        "Great time in High Park, lots of areas to walk dogs off leash, very clean park!  Many rivers , trails & a large lake!  Ideal for birders, nature lovers, we saw 2 beavers, lots of wood ducks, mallards, chickadees and more!  The park is free !"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Beautiful Park",
+      "text": [
+        "The Cherry Blossoms was in bloom in the park. ",
+        "Also, take the little train ride around the park when you are tired of walking it a great way to see the whole park."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Beautiful day in park ",
+      "text": [
+        "Beautiful day, lots of people but not detrimental to the experience.  Loved getting ice cream and walking through the park. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2021 • Business"
+    },
+    {
+      "title": "Great Park in a Deteriorating City",
+      "text": [
+        "I've been going to High Park my whole life, although I haven't been there recently as I lived abroad for some time. I love this park. However, I feel that I must add to the comment about the disgusting toilet facilities. While I haven't experienced these particular washrooms lately, I have been in other ones in Toronto parks and they are disgusting, embarrassing really. I live in Port Credit and ride my bike a lot in both cities. There is a huge difference in washroom maintenance between the two cities: Mississauga cleans them; Toronto doesn't. This is inexcusable for Canada's \"premier\" city. If it's a matter of funding, then don't waste precious dollars on silly things like renaming Dundas Street when you can't afford to provide the basic amenities people should, and do, expect from their cities. It's not rocket science."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "Enjoyable walk through the forest trails & by the lake",
+      "text": [
+        "Over 50 walking trails, most zigzagging through the the forested areas. With the late warm spring weather, some of the trees and flowers are blossoming alter than normal.  We went on a weekday morning, to avoid the after-work and weekend crowds."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2021"
+    },
+    {
+      "title": "High park is definitely is one of my favourite parks in Toronto.",
+      "text": [
+        "One of the best spots in the GTA. I love everything about this park. Loads of space for walking, playing or just a nice picnic. The kids playground is one of the best and the amenities are excellent. This would be my top choice."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2021"
+    },
+    {
+      "title": "Maple leaf 🍁 must! ",
+      "text": [
+        "We went specifically to see the flower bed in the shape of the maple leaf ! The park is fine for a walk .... beside the water is cool and it’s close to everything if you want to stop for a coffee or lunch. Won’t rush back but it was nice to visit. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2021 • Couples"
+    },
+    {
+      "title": "Nesting great horned owls",
+      "text": [
+        "We don't get to High Park often: from where we live it's out of the way. We went their yesterday on the invitation of a friend who is an avid birder and nature photographer. There is a nesting pair of great horned owls in the central western part of the park. After a short walk from the restaurant parking lot we saw a number of photographers aiming their telephoto lenses at a conifer, and with the aid of binoculars we soon saw the mother on the nest and the father in a nearby tree. We didn't see the two chicks: next time. Afterwards we drove down to the ponds in the southern part of the park and admired the ducks and a lone turtle sunning him or herself on a rock. Nice walks in beautiful late afternoon sunshine. Highly recommended, especially in this time of Covid!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2021"
+    },
+    {
+      "title": "Wonderful green retreat",
+      "text": [
+        "We had a fabulous time visiting this extensive park - a wonderful green space providing mixed recreational and natural areas, with sporting and cultural facilities, gardens, playgrounds and a zoo. The zoo was a small area and had the feel of walking through a farmyard. Very pleasant. The park offered ample places to stop for a picnic. There was also the Grenadier cafe/restaurant. The gardens were beautifully maintained. A number of washrooms were available throughout the park area. We travelled by Subway to High Park Station and it was a short walk to enter the park at Colborne Lodge Drive, Bloor Street West. It's about a 20 min walk (1.5kms) to the Zoo section. It's easy to spend a whole day exploring within the park!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Lovely peaceful park",
+      "text": [
+        "Lovely quiet park just a short subway ride away from the city centre. We had a lovely walk around the park, past the Hillside Gardens, lake, duck ponds & animal enclosures. We enjoyed seeing lots of wildlife including chipmonks & some huge butterflies, & rounded it off with an ice cream at the Grenadier Restaurant."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Great local park",
+      "text": [
+        "Great local park. I visited during the winter, so the park was lightly covered with snow, which added beauty. There were people playing ice hockey. Great scene."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Very lovely park! Family friendly...",
+      "text": [
+        "I stopped by this park & it was very nice! Family friendly... nice place to purchase food, play on the playgrounds, walk around, swim... I would recommend this place to come, relax and play"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Must go park",
+      "text": [
+        "Probably one of the most iconic parks in Toronto. High park is a beautiful place to go with family and friends to have a nice picnic."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "A beautiful large park, with the cutest zoo for kids",
+      "text": [
+        "What a beautiful park in the fall with the trees changing colours. The zoo was so cute, we saw a cababara, peacocks, emus, bisons, goats, lamas, among others. It took us a fair amount of wandering around to find it, there were no signs anywhere! I had heard that police were giving out tickets to bikers, which I thought odd, until we visited the park for the first time and many latex clad individuals raced past us going VERY fast. So many little kids tottering about, I’m surprised there not been more accidents. The bathroom were kinda gross too, but at least they were not locked."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2022 • Family"
+    },
+    {
+      "title": "Jamie Bell Adventure Playground",
+      "text": [
+        "Spent a morning with friends and kids whilst visiting Toronto and the Adventure Playground was well worth the tram and bus ride to get there as kept the kids entertained for hours!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "An urban oasis",
+      "text": [
+        "Massive park with tons of things to do. Grenadier Pond is a must-see, very tranquil and serene. The best time to come is around April so you see the beautiful cherry blossoms. Great transport connections to the north, east, and south, and even a little trackless trolley that kids will love."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Great park with plenty of activites",
+      "text": [
+        "What a massavie park.  There is so much to do and see here.  Loved seeing the Maple leaf out of flowers, they had a nice zoo and loved seeing all the dogs running free in the area.  This park has so much to offer!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Huge Park + Cherry Blossums every spring",
+      "text": [
+        "nice for a day trip and walk-through. Huge location though so wear comfy walking shoes.  Many things to see including the trees, ponds and more."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    }
+  ]
+}

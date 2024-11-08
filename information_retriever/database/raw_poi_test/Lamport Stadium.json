@@ -1,0 +1,243 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Lamport Stadium",
+    "url": "/Attraction_Review-g155019-d556442-Reviews-Lamport_Stadium-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1151 King St W ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6K 1E9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 23
+    },
+    "openingHours": "Mo-Fr 09:30-17:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a5/8e/5e/toronto-wolfpack-match.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Sports Complexes",
+    "Arenas & Stadiums"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Attended Wolfpack game",
+      "text": [
+        "Nice small stadium. Food could be better good assortment of beer bring a cushion as the stands are not the most comfortable."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Good place to watch rugby in the sun",
+      "text": [
+        "Great place to watch rugby, but we had a thunder storm move ion and the game finished early, if the sun is shining great views, you can get close to the players, good service for drinks etc.."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Beer Garden Changes Not Good",
+      "text": [
+        "Okay, without sounding like I have a total alcohol problem, the beer vendors have changed the size of their cups so that when you buy a beer, they pour from a can but don't use the whole can. They then use left over from your purchase for the next customer. All while charging the same as they did last year, when they gave you the whole can.",
+        "We found one vendor that was either sick enough of hearing the complaints, or shamed enough by the end of the game, that poured the remainder of the can into another cup. By that measure, which was third of a cup, for every three cans of beer that you buy for the same price as last year, they are gyping you one beer.",
+        "If you buy a beer from a vendor in the stands, it is the same price as the beer garden and the vendor gives you the whole can.",
+        "This is NOT COOL and should be changed."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Had a blast!",
+      "text": [
+        "Attended my first Toronto Arrows professional “Rugby Union” game last Sunday.  Also my first time at Lamport Stadium.  I am hooked!!  Returning this week for the final pre-playoff game.  This is  class rugby.  I am not a fan of  the Rugby “ League” style game.  I prefer the real deal.   Lots of bars in the area for post game activities.  Parking was easy, and right at the stadium.  Cost us $14.      Does anyone know if you can bring food in to the Stadium?  They made me dump my water out before entering."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Great facilities",
+      "text": [
+        "Went to watch a rugby league game, i.oressed by the atmosphere, craft beer tents and variety of beer."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Great sport, great place to see it, great craft beer - total fun",
+      "text": [
+        "Went to our third Wolfpack game and love it. Rugby is a fast sport which is always on the move and totally unpredictable - getting to the try line is not enough you have to get that ball on the ground and that is never a given. Lamport Stadium is a cute little place where every seat is great and the fans will help you understand what is going on. The Wolfpack make sure you are never bored and the sideline tents have a great selection of craft beers and ciders. Super for all - family, couples, groups! Am certainly a fan!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Love the Booth",
+      "text": [
+        "The food booth here is old school - nachos, freezies, chili cheese dogs, etc. Love it! The stadium is open to the sun, so wear sunscreen."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "UK fans who are glad to have visited the Woolfpack",
+      "text": [
+        "Prior to our visit to Toronto, as rugby league fans in the UK we wondered if we should make a visit to Lamport Stadium to see where the Woolfpack play. We were delighted that PRO Oliver responded, not once but several times, to ensure we were aware of the dates and times the team were training. Not only did we go, but Oliver spied us from the sidelines and came to introduce himself. We watched the session, smiled and waved at the players and were pretty much in awe of their capabilities. The stadium is as we would expect in the UK, weather was great and the whole atmosphere very friendly. If you like rugby league and are in the area, go to have a quick look around and you'll understand better what the RL authorities are trying to achieve. Thanks to all, we enjoyed ourselves."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018"
+    },
+    {
+      "title": "Party in the Den!",
+      "text": [
+        "What a wonderful way to spend an afternoon in downtown Toronto.  The Wolfpack never fail to thrill  in their successful 2nd year in Rugby League.  Also the best beer garden in town, which opens an hour before the game and stays open for 2 hours after, consisting of local craft brewers, plus Jack Daniels, wine, and rum stations.   Don't get me wrong, there is a family atmosphere - the players circle the stadium post-match and interact with the fans."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "'The Den' is the place to be!",
+      "text": [
+        "I've had the chance to visit Lamport Stadium a number of times the last two years thanks to the existance of Toronto's newest sports team, The Toronto Wolfpack! A professional Rugby League team playing in a European (mostly UK) league, they have brought a great atmosphere for friends and families to enjoy on Saturday afternoons. From great music, cheerleaders to a Craft Beer Garden that's open from 3-9pm on game days, good concessions, and affordable ticket prices, The Den is the place to be! The facilities are pretty no-frills but they've got water fountains to fill water bottles, extra toilets by way of porta-potties, and they've just upgraded the turf to 4G! As an added bonus, a number of players stick around after the game to chat with fans and have a drink in the beer garden. So much more accessible than other other team in the city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Ontario Summer Games venue",
+      "text": [
+        "Visited for OSG, bright and lots of seats, no food inside stadium. Street parking available. Bleacher seats, no backs"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2012 • Family"
+    },
+    {
+      "title": "Great field, stands and location!",
+      "text": [
+        "The Lamport is a great field, with a great stands and the perfect location (King and Dufferin - very central).  Only downside is that it is close to a recycling plant and sometimes the garbage smell wafts over the field."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Toronto Wolfpack's Den of Sporting Delight",
+      "text": [
+        "This stadium is the home field of the Toronto Wolfpack, a successful and rising professional rugby team. ",
+        "With a growing victory count and fan base, their gameday Craft Beer Tents are also popular...!",
+        "The pitch seems new and there is a great and friendly atmosphere.",
+        "There are family sections too. Tickets were very reasonably priced.",
+        "Opposing teams travel from England, often bringing many fans who are also enjoying a holiday in Canada! Just like us. ",
+        "The Wolfpack team are brilliant at coming to chat with fans after each game. ",
+        "We had a great time there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Lamport Stadium",
+      "text": [
+        "Lamport Stadium has been around for decades. It's an older facility, but has recently been updated.",
+        "We are season ticket holders to the Toronto Wolfpack, Toronto's entry in the UK Rugby League.",
+        "Lamport Stadium is their home field.",
+        "Recently the playing surface has been replaced with an all new high tech field turf surface.",
+        "The field is now bright and clean, and I expect a much better surface to play on for rugby or soccer.",
+        "When the Wolfpack play, they have a wonderful beer garden in the North end.",
+        "There are a wide variety of craft beers, and foods at prices lower than at other major league sporting events.",
+        "The indoor facilities as well as the seating at Lamport remain dated and are OK, but nothing special."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "Toronto Wolfpack more fun and better value",
+      "text": [
+        "As big Leafs, Jays, Raptors and even Argo fans we thought we would check out the Wolfpack even though we have no idea what the Rugby rules are. For $23 per ticket, the entertainment value far exceeds any of the \"major league\" teams in this city. The atmosphere was just plain fun. The team is just plain fun to watch. It's so refreshing for a long suffering Toronto sports fan to see a team that is faster, stronger and just better than their opponent. (They won 64-12 over Dewsbury - poor guys flew all this way to get whooped). A few of the hits were actually exhilarating. Can't recall the last time a Toronto athlete hit anyone - Bobby Baun in 1964? These guys are big and rough and mean and nasty. Really fun to watch. I'm nervous about them moving up to Superleague next year but hopefully they can compete. The stadium is small and intimate with lots of bars and restaurants nearby. From outside it looks a bit pathetic but once you're inside it's quite nice. The real grass pitch looks lovely. The fans were fun loving and not too serious. So refreshing, especially compared to the Jays and LEAFS."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Great day out.",
+      "text": [
+        "Just back from watching the London Broncos @ Toronto Wolfpack. Lamport stadium is basic, but good enough for Rugby League. Plenty of bars close to the stadium and a great atmosphere."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Bachelorette Party at Toronto Wolfpack Game",
+      "text": [
+        "We had such an amazing time and would recommend it to everyone! We were able to get a group discount and it was a very lively atmosphere. I’ll definitely be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Very hospitable Wolfpack",
+      "text": [
+        "We visited Lamport Stadium to watch out local Rugby League team the Coventry Bears play the Toronto Wolfpack in our first International game.",
+        "The staff and fans could not have been more welcoming.",
+        "We expected a Plusnet stadium, more on the lines of what we have at home, but the people made up for any short comings.",
+        "They even held a one minutes silence in remembrance of those who lost their lives in the Manchester terrorist attack a few days earlier"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Caribana king and queen competition ",
+      "text": [
+        "First time visiting the stadium and it was for the king and queen show for Caribana. Whiles crowded there were tons of seating. Washrooms were clean. Although parking was kind of a hassle given the event and among of people it was expected. Will def go back again ."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2016 • Couples"
+    },
+    {
+      "title": "Lamport Stadium",
+      "text": [
+        "The Lamport Stadium is one of the smaller stadiums in Toronto. It is a multi purpose stadium located on King Street West in Liberty Village in Toronto that seats about 10,000 people. Nowhere near as glamorous as the Rogers Center, it however does host some interesting league games, so watch out during your visit to Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2015 • Solo"
+    },
+    {
+      "title": "The perfect place to watch Rugby League in Toronto!",
+      "text": [
+        "This venue is:-",
+        "- In Liberty Village.",
+        "- A short walk from Exhibition Station GO Rail.",
+        "- A short walk from the King West and Lakeshore/Exhibition streetcar routes.",
+        "- A short walk away from Toronto FC's BMO Field.",
+        "- A short walk from Brazen Head Irish Pub, 165 E Liberty St, Toronto.",
+        "- A short walk from LCBO and Starbucks - Hanna Ave, Toronto.",
+        "- Served by the 63 Ossington bus route.",
+        "- Close to Toronto's trendy King West district.",
+        "- A multi-purpose facility.",
+        "- Used by the whole community.",
+        "It also has:-",
+        "- Car parking.",
+        "- Floodlights.",
+        "- Electronic scoreboard.",
+        "- Artificial turf.",
+        "- A dome to cover the field in winter.",
+        "Plus:-",
+        "- Cheerleaders and mascots will entertain you at big matches!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2014 • Friends"
+    },
+    {
+      "title": "TCF - King and Queen Competition",
+      "text": [
+        "The view from the stadium seats are perfect, only the East side seating of the Stadium is used for this event.  Caribbean Food is available for purchase.   Be prepared for the long line to use the washroom.  No parking on site, limited parking on the street.   Area is quite congested on going Condo construction."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2013 • Friends"
+    }
+  ]
+}

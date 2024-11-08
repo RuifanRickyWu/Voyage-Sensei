@@ -1,0 +1,375 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Tastes & Tales Toronto",
+    "url": "/Attraction_Review-g155019-d21160448-Reviews-Tastes_Tales_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "82 Kenneth Ave",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6P 1J3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 41
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/9c/4c/05/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bar, Club & Pub Tours",
+    "Beer Tastings & Tours",
+    "Food Tours",
+    "Wine Tours & Tastings "
+  ],
+  "description": "Hosts food tours, catered corporate or private events, and cooking/cocktail classes around Toronto, Ontario. ",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Junction food tour",
+      "text": [
+        "Ian was a great guide who brought us to a bunch of awesome restaurants. The food was so good and the whole tour was really efficient. You could tell he was passionate about the food and the people there. Thanks for the memories!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Getting to know St. Lawrence Market",
+      "text": [
+        "Ian has been the most wonderful guide to get to know St. Lawrence Market and the surrounding area. He supplied us with interesting side stories as well as diverse sweet and savory food of european and canadian influences. We had a great time and would recommend this tour with no hesitation."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "My New Go To Food tour Company",
+      "text": [
+        "Myself, my brother and niece went on an incredible St Lawrence Market  & Old Town food walking tour with Ian from Taste and Tales Toronto. Why was the food tour incredible?  First and foremost Ian started the tour by giving each of us a bottle of water. This used to be standard practice but since Covid many food tour companies have decide to be “frugal” and not provide this item! A very small things but it shows attention to detail. Next, the food portions were hearty. No half cupcakes on this food tour! We started with a type of Portuguese chicken dumpling, egg tarts and peameal bacon sandwiches. Next came cheese perogies, Montreal bagel with cream cheese, butter tarts, chocolate dipped strawberries and, then a first for us … fresh oysters on the shell. These wonderful foods were intersperse with a two hour walk through old town Toronto historical walking  tour. Ian made the tour so much fun with his knowledge of the area. I have done three Food tours of Toronto in the past year (visiting relatives) and try different companies each time. No more. Taste and Tales Toronto will be my “go to” from now on."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "St. Lawrence Market and Old Town Toronto Food Tour",
+      "text": [
+        "I had a wonderful time on the St. Lawrence Market & Old Town Food Tour! I was the only person on the tour, but Ian, the tour guide, didn't cancel the tour (which I so appreciated). At the meeting point, Ian shared a warm nibble and got a drink for me for the tour around old Toronto.  During the tour Ian shared his amazing knowledge of the area with me - I learned so much and the whole walk was incredibly entertaining. The food portion of the tour was even better - so many delicious bites of food and being able to get Ian's perspective (as someone in the food industry today) about the market, the vendors, the history, and the food industry made the tour exceed all my expectations.  I also felt that the price was very reasonable.  I highly, highly recommend this tour and this tour company. Ian, thank you for taking the time with me - I had a wonderful experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "A Not-To-Miss Tour!",
+      "text": [
+        "Booked the St. Lawrence Food Tour with Tastes & Tales and it was a FANTASTIC experience that I highly recommend to anyone who wants to share great food and conversation, and who also want to learn interesting facts and stories about the St. Lawrence Market and other historical Toronto buildings (you'll have a full list of places to visit/re-visit by the end of the tour)! I was the only one in the group and I'm so glad that the tour wasn't cancelled (since I know some companies may cancel if they don't meet a certain threshold). Ian, the host, genuinely cares and is curious about the people on his tour - he was very personable and gave great recommendations for restaurants and pubs around Old Town Toronto! He even offered to take photos! The food is great and very filling - the oysters were my favorite (East Coast vs West Coast)!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Must do!!!",
+      "text": [
+        "This was the perfect food tour with a good amount of history intertwined. Would highly recommend for anyone new to the St. Lawrence market area!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Great and informative tour!!",
+      "text": [
+        "Ian and his wife gave a great and informative tour of old Toronto! They were very generous and kind to my friends and I, and we had a great time exploring old Toronto and tasting yummy foods, including my first time having oysters! I highly recommend this tour for those who love history and exploring, you will not regret it! Thank you so so much guys!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Ian is amazing!",
+      "text": [
+        "Ian was an absolutely phenomenal tour guide! He is super knowledgeable and friendly. I went on the little Italy tour with my boyfriend and Ian ensured we were comfortable every step of the way. We truly appreciate his efforts in creating such an amazing experience for us. Ian introduced us to some amazing restaurants which had some of the most spectacular Italian dishes, from the risotto to the tiramisu! I would highly recommend booking a tour with Ian, you will not be disappointed! We will definitely be booking again with Ian in the future."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Amazing tour with Ian! ",
+      "text": [
+        "Ian is an absolutely amazing tour guide! He is super knowledgeable and friendly. I went with my boyfriend and it was such a great experience from the delicious food to the history lessons. Ian took his time in explaining everything to us and ensured we were comfortable throughout the entire experience.  I would highly recommend Ian. We definitely will be back! This is a great experience for couples looking to try something new! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Must try food tour!!!",
+      "text": [
+        "I went with my girlfriend on the little Italy tour. The host Ian was amazing as he taught us alot about the heritage of the area. He also showed us many resteraunts that we normally would have never tried and it was amazing. Every location had a dish that just blew us away. Ian also made the tour very entertaining with his joyful banter and life experiences  as he related them to the tour. I would highly reccomend taking this tour as it's worth every penny. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "St. Lawrence Market Tour",
+      "text": [
+        "A few friends and I did a tour of the St Lawrence Market area today with Tastes and Tales and it was amazing!! Covid safe, informative, and delicious! ",
+        "We started the tour off right away with a friendly greeting and some fresh croissants. We tried food from a variety of vendors in the market after an interesting and informative tour around the neighbourhood. It was really great to learn more about Toronto’s history as we walked and built up an appetite for the delicious treats to follow. If you’re visiting the city or just want to learn more about the history of your own neighbourhood while filling up on a variety of amazing food-check these guys out!! Best part was the tarts from the Portuguese bakery 👏🙌"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Friends"
+    },
+    {
+      "title": "AWESOME Tour!",
+      "text": [
+        "The St. Lawrence Market and Olde Town Toronto Food Tour was AWESOME! We learned a lot about the history of the market and how the St. Lawrence Market has evolved into what it is today. We first walked around the surrounding area and learned about some historical landmarks (while sipping our lattes). Then, we went inside the market and tried a variety of foods that all had a story behind them. It was a great experience and day, to say the least!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Friends"
+    },
+    {
+      "title": "Delicious food tasting menu, and great value!",
+      "text": [
+        "I had the pleasure of partaking in the South Asian Dinner hosted by Lahore Tikka House in partnership with Udupi Palace. The tasting menu had a wonderful variety of dishes, from apps to main dishes and to finish off with dessert. The best part was that the dishes were prepared in front of you, with the outdoor patio seating. The owners of the restaurant had given detailed explanations of each dish, and their origin. What an experience! Seating was all socially distanced, and it was a unique, intimate experience for a small group. Thank you Ian and the Tastes and Tales team for hosting! ",
+        "I would highly recommend the Chicken Biryani dish, and the Dosa Crepes~"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Dinner with a twist",
+      "text": [
+        "In the midst of the pandemic, it was very refreshing to have delicious food and a fun learning experience in a safe environment! The tables were physically distanced and they had cute personal sanitizers on every table! During serving and demonstrations, the servers and hosts kept their masks on. ",
+        "The 6 course tasting menu - amazing! One of the best and tastiest samosas I've ever had. The sauces were very flavourful as well. Although it was a tasting menu, the portions were very generous. What made this experience different from a regular dinner was that the hosts explained the spices they use in their food and its origin. The cooks made their food at the front so we could see how our food was made, which added another layer to the dining experience. ",
+        "Thank you, Ian and his team, for this amazing event!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020 • Friends"
+    },
+    {
+      "title": "Best Indian Food I've ever had!",
+      "text": [
+        "I attended the Taste and Tales Little India Tour.  I've eaten a lot of Indian food and I can say without a doubt this was the best Indian food I've ever had.  They served dishes I would not have thought to order as well as dishes I've had many times elsewhere.  The event was so well-organized, a particular challenge during COVID.  But the event was so well run that I can guarantee no one had any concerns.  I will definitely be booking another Taste and Tales night out.  First class!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2020"
+    },
+    {
+      "title": "Tastes of South Asia",
+      "text": [
+        "I was lucky enough to attend Tastes and Tales' first event, Tastes of South Asia. Although advertised as a 6 course tasting menu, we actually got 8 dishes and the only one complaining was my waistband! 😁",
+        "The food was absolutely delicious, and being able to learn about Indian cooking and how it differed from north to south was very interesting. Lots of the bread side dishes were cooked right in front of us and that was also very cool! This event was held outside on a huge patio with tables spaced far apart, and each table had individual bottles of hand sanitizer. Felt very safe!",
+        "I would definitely recommend trying a tour with Tastes and Tales whether you're visiting Toronto or have lived there your entire life!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Amazing evening",
+      "text": [
+        "The best part was twofold..the company at the table and the food was mouth watering!!!! So much amazing food cooked right in front of us. Looking forward to more events in the future!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020 • Friends"
+    },
+    {
+      "title": "I will definitely do this event again\r",
+      "text": [
+        "The Little India Event",
+        "Tour TASTE and TALES of TORONTO",
+        "What a wonderful evening.",
+        "Ian and Tatiana the event was very well organized. They thought of everything. Proper social distancing with individual hand sanitizer on the table.",
+        " What I came away from this event. I learn and tasted so many delicious dishes. The samosa was the best I ever ate. Plus we watched how to fold the potato mixture into the shells. The chef also showed us how they make poori. I was amazed how the piece of pastry puffed up to the size it became and how yummy it tasted with the chickpea curry. We had 7 courses many I had never tried before but because of this event I will be able to go into another India restaurant and order food with confidence.",
+        "Gulshan from  the Lahore Tika House was a wealth of knowledge. Her talking about all the different spices that they keep in the kitchen for cooking and how the spices are good for us.",
+        "Thank you to all. It was night to remember."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020 • Friends"
+    },
+    {
+      "title": "Tastes of South Asia - Perfection!!",
+      "text": [
+        "What a lovely first experience with Tastes and Tales!! Their name certainly held up to the experience. Not only were our tastebuds incredibly impressed with a 6-course menu featuring foods from different regions in India, but we also learned a history behind the flavours and food culture. We got to watch as two local restaurants (Lahore Tika House and Udupi Palace) came together on an outdoor patio to cook in front of us and explain/entertain between each course.",
+        "Covid has us uncertain about how to enjoy our time lately, but these guy made sure we were comfortably distanced from others, cooks and servers in masks, and even provided a individual bottle of hand sanitizer! So smart. ",
+        "I cannot wait to try out some of the other tours they offer - to taste and learn around Toronto! It really is the best of both worlds. Thank you :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020 • Friends"
+    },
+    {
+      "title": "A great night of tasting stuff i would never know to order",
+      "text": [
+        "These odd times have had all of us explore new forms of entertainment. With Toronto opening stage 3. It allows us all to reflect on what dining out will be in the future.",
+        "We have spent 6 months cooking at home and experimenting with culinary disasters and successes. Now that we can go out, the question remains...why? ",
+        "From this moment forward my family and i are craving entertainment, an experience, variety and knowing that we can and will support local.",
+        "This initial evening was exceptional on its concept. Two chefs cooking from different regions of India  and sharing a space and clientele. The food was outstanding, the journey great and i experienced flavors and an education in spice  i did not expect.",
+        "Perhaps that last bite or 4 was in excess, but darn we had fun.",
+        "I look forward to doing every tour and getting to know my city and its diversity a-lot better!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fun and filling walk :)",
+      "text": [
+        "We enjoyed three hours with our knowledgable host and foodie Ian who showed us around the market and Old Toronto, stopping here and then to taste the eclectic mix of what the market has to offer. Thankfully we had a rucksack with us as we left with plenty of extra food to take back to the hotel to enjoy later. An enjoyable way to spend the afternoon."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022 • Family"
+    },
+    {
+      "title": "Very good food tour",
+      "text": [
+        "Our host Ian did a terrific job in combining interesting tales on the city in combination with tasting many of its local delicious dishes. For example: Porc Sandwich, Pierogi and day fresh eastern oisters. Our kids (16&18) also liked it. Our tour included seeing local architecture and information about locals renowned families such as the Gooderhams."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Family"
+    },
+    {
+      "title": "Tastes & Tales a MUST DO in Toronto",
+      "text": [
+        "My outing with Tastes & Tales Toronto was lovely. Although I am a Toronto native, I had never thoughtfully walked around Old Toronto and St. Lawrence Market like this before. Going on this tour with Ian (our amazing foodie-restaurant owning-extraordinaire guide) and another lovely family allowed me to do so. Not only did we explore the historical buildings of the market and surrounding areas, but we sampled food ranging from Portuguese custards to Montreal style bagel, oysters, pierogis, Belgian chocolate (to name a few!) all of which represented the timeless diversity of the market and city as a whole. And were pretty damn tasty! Tastes & Tales take the thought out of food decision making and simply provides the best and classics of the area being toured. I will be back very soon! Thank you!",
+        "I was so involved I only managed to snap a picture of the Portuguese custard! 🤤"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Solo"
+    },
+    {
+      "title": "Gorgeous and Beautiful flowers",
+      "text": [
+        "This rustic building with a modern feel once you are inside is one of the place you should never missed when you come to Toronto. Located right by the South west corner of Jarvis St and Front St. This is where I saw this chic flower shop named Gorgeous and Beautiful which is perfectly located on the right side when you come in through the main entrance.. the shop have toned its setting with the whole building.. the simplicity of the pots and vases and the choices of colour, I could simply say as a florist myself.. they really named the shop right.."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Solo"
+    },
+    {
+      "title": "St Lawrence Market Tour",
+      "text": [
+        "Thanks to Ian for a fun, informative and very tasty tour of St Lawrence Market area today!  My teenage son and I had a great time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022 • Family"
+    },
+    {
+      "title": "Perfect",
+      "text": [
+        "Excellent food and drink! Great value. I highly recommend this. Can't wait for more! Bring your friends"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021 • Couples"
+    },
+    {
+      "title": "A delicious evening!",
+      "text": [
+        "What a great way to try new dishes and learn about their history and preparation. Our evening at Udupi Palace included a wonderful menu of South Indian cuisine as well as a lively kitchen tour and some fun, hands-on cooking lessons. Ian is certainly an informative and gracious host. Really looking forward to future Tastes & Tales tours!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Food experience extraordinaire!",
+      "text": [
+        "What an epicurean experience! Always curious as to what goes on behind the scenes at a restaurant and we weren't disappointed. Not only were all the dishes presented titillating to the tastebuds,  we got to watch (and for those brave souls, participate in ) the preparation and making of Dosas and Phuri. ",
+        "The staff and owner were very informative and it was a highly educational experience. ",
+        "Thanks to Ian and his crew for putting together a memorable event!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Couples"
+    },
+    {
+      "title": "Yummy Tour! A great way to explore Toronto!",
+      "text": [
+        "The St. Lawrence Market Food Tour is a must! Being born and raised in Toronto it was not my first time visiting the area. The tour had me seeing everything in a new way. Our guide was very knowledgeable about the history of the area, as well as the history of the food and food vendors. The food we tasted was varied and delicious! Portions were large. It was a great day out! I recommend this tour to anyone - tourists and locals!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Fantastic!",
+      "text": [
+        "What an experience! I love when I get to know my city on another level. Ian was very knowledgeable of the market and the area as he’s been in the industry for a long time. Delicious perogies, espresso and the chocolate croissants were outstanding! Looking forward to getting to know the city more with other experiences!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Friends"
+    },
+    {
+      "title": "Great company with a wide variety of events to enjoy",
+      "text": [
+        "In the past year I have attended two events and a food tour organized by Tastes and Tales and all were outstanding. The events (seafood + beer pairing and a summer bbq) partnered local breweries and food establishments in Toronto. Both events served incredible food and were smoothly organized. I look forward to the next event Tastes and Tales organizes.",
+        "My friends and I also had the pleasure of attending a Little Italy food tour run by the owner, Ian. The tour took us to three different restaurants which served different types of excellent food. The meals and wine were pre-picked based on Ian’s knowledge of the restaurants. He also had great history and stories to share about the restaurants and area. We had an amazing evening and are looking forward to doing another tour of a different area in the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "More than just a tasting tour!",
+      "text": [
+        "We did the St. Lawrence Market tour. This was 1 of 5 tours we did in T.O  and 1 of 3 tasting tours from various companies. Overall this was the best tour we did in Toronto. It was more than just a tasting tour, it was a historical and interpretive tour as well! Our guide was very knowledgeable about the food, industry, area, and history of the St. Lawerance Market & area. We enjoyed ourselves immensely!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Perfect birthday gift ",
+      "text": [
+        "Ian was awesome, knowledgeable and friendly. We ate our hearts out and learned about the history of the Junction. Highly recommend taking one of these tours!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Great food & tour!",
+      "text": [
+        "The St Lawrence Market food tour was great! A lot of interesting information and all of the food was so tasty! There was so much food we got to try, we had to take some home with us! Ian was a great guide, and even helped us with the subway system afterwards! He definitely went beyond with his kindness! (He even got me to eat an oyster for the first time, even though I said I wouldn't - haha!)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Couples"
+    },
+    {
+      "title": "Informative and personable food tour",
+      "text": [
+        "Informative and fun tour of the neighborhood and St. Lawrence Market. Ian was extremely knowledgeable about the market, area, and food scene of Toronto. I'm pescatarian and he was able to accommodate my preferences. The tour felt like more of a conversation with a foodie neighbor which we appreciated as tourists. Some of the food highlights were oysters, pirogies, and the still-warm chocolate croissant we were greeted with. We took what we couldn't finish with us for a picnic on the Toronto Islands."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "An event nnot to be missed",
+      "text": [
+        "What a great event, the pairing of beer and tasty homemade snacks was quite a treat, this was not something to miss.",
+        "I am waiting for the next event"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Wonderful food tour experience for Torontonians and visitors alike -- highly recommended!",
+      "text": [
+        "I did a wonderful tour of St. Lawrence Market with Ian today. It was a great mix of walking the surrounding neighbourhood and learning about its amazing history -- and eating some delicious food! I've lived in Toronto my whole life and learned a lot from the tour. Ian is a fabulous guide -- incredibly knowledgeable about the food scene in Toronto and with a passion for great food and supporting local businesses. He also took me on a tour of the historic building that houses the market as well -- and I saw really interesting aspects of it that I hadn't experienced before. It was a wonderful afternoon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "An excellent experience overall",
+      "text": [
+        "Recently went on a tour of the Junction with Ian with my brothers and I highly recommend that specific tour, the company and especially our guide Ian! We had an amazing afternoon of great food and drink, some local history and just amazing conversation with our guide who was supremely knowledgeable about the Toronto culinary scene. Highly recommend either for tourists or locals who want to discover some new favorite spots."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023"
+    },
+    {
+      "title": "Highly recommended! ",
+      "text": [
+        "Fantastic tour! Lots of food, all was excellent. Arrive hungry! Ian was a fantastic host, despite being from Toronto we learned tons on the walk. Would highly recommend! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022 • Family"
+    },
+    {
+      "title": "Good Beer, Good Food, Good People!",
+      "text": [
+        "We have enjoyed two terrific evenings with Tastes and Tales at Shacklands Brewery. Ian and Amanda (and everyone else involved in organizing the evening including the chefs, the owner, the brewer, and Prud’homme Master Beer Sommelier salesperson) put together a fantastic menu with great beer pairings. They were two fantastic nights of beer and food and meeting new people. I highly recommend it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022"
+    }
+  ]
+}

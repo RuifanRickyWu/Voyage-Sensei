@@ -1,0 +1,321 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Meridian Arts Centre",
+    "url": "/Attraction_Review-g155019-d606610-Reviews-Meridian_Arts_Centre-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5040 Yonge St ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M2N 6R8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 33
+    },
+    "openingHours": [
+      "Tu-Sa 11:00-18:00",
+      "Su 12:00-16:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ee/f9/cd/the-george-weston-recital.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Concerts",
+    "Symphonies",
+    "Theaters"
+  ],
+  "description": "Since 1993, Meridian Arts Centre (formerly the Toronto Centre for the Arts) has welcomed thousands of visitors, patrons, performers and artists through its grand main entrance. The Centre began and remains as unique and diverse as the Toronto community itself, a testament to the virtues of harmony, vitality and celebration, with a spirit that embraces innovation and tradition equally. Located in the heart of the Greater Toronto Area, no other entertainment and arts facility is better positioned than the Toronto Centre for the Arts. It is easily accessible by major highways, arteries as well as the public transit system. Equidistant between the Sheppard and North York Centre TTC stations, the Centre's surrounding area boasts ample on-street and underground parking, and convenient special needs parking near the theatre entrance.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Sit closer to stage - Mughal e Azam",
+      "text": [
+        "Saw the show Mughal e Azam at this centre. I am sure it was a great show, but could not appreciate from my faraway, $200 seat. Our seats were too far from the stage. The theatre was half empty, the front of the house was mostly empty. Could not see actor’s faces or could not make out which actor on stage was speaking. Could not distinguish between actors of the same sex. It was too distant, like watching a big TV screen.  The theatre was too large for the show and the tickets were totally mis-priced. ",
+        "While I understand this was not a drama but a musical  but could not stop comparing Prithviraj’s Akbar with his deep, baritone voice and verve to this Akbar - failed to get me involved with the drama or the spectacle of the set design or the kathak dancing.   Sometimes it felt there too few extras filling the large stage. Thrust stage layout could have helped with getting the audience involved - I am sure the actors did not like it as they were not able to establish a rapport or intimacy with the distant audience. ",
+        "Not worth it unless you’re sitting in the first 30 or so rows."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2023 • Couples"
+    },
+    {
+      "title": "Fabulous acting!  Great story!",
+      "text": [
+        "The play Dear Jack Dear Louise is playing at the theatre.  The play is based on the book of the same name.  The acting is superb!!! And the set is imaginative.",
+        "The story is riveting and there was not a dry eye in the theatre.",
+        "Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "Excellent NorthYork venu",
+      "text": [
+        "We truly enjoyed our TafelMusik Music Indigo Project Concert.",
+        "Some of the seats might be due for reupholstering. Easily accessible via subway or parking..  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Great Seats, Nice View, and Good Performance",
+      "text": [
+        "Meridian Arts Centre is located north of Downtown Toronto (approximately 30-40 minutes away) and glad to have experienced it at least once during our most recent visit to Toronto.  Sinfonia Toronto seems to use this place for their chamber orchestra and does seem to work quite well.  Everyone seemed to enjoy the venue and chairs were more than comfortable throughout the performance. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020 • Couples"
+    },
+    {
+      "title": "Tafel Muzik northern venue ",
+      "text": [
+        "This centre could use a bit of a facelift.",
+        "Acoustic is good. Seating is comfortable.",
+        "The concert we attended was so very interesting using unusual musical instruments. If you do not want to head downtown this site can be access by subway with a short walk."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019 • Couples"
+    },
+    {
+      "title": "Very nice intimate venue",
+      "text": [
+        "My wife and I attended a performance of the Toronto Symphony Orchestra at this hall.  Normally the performance would have been held at Roy Thompson Hall but the Santa Claus parade forced the relocation.  We have not been in the hall since Showboat appeared here.  It has been totally remodelled and now houses two theatres.  The sound in the hall was quite good and the facility was easier to access than Roy Thompson Hall."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "A great performance in a great venue.",
+      "text": [
+        "Professional staff facilitated moving a huge crowd in and out of the venue incredibly smoothly. We had great seats, and there doesn’t appear to be a bad seat in the house. Our experience was slightly marred by a rude woman who refused to shut up during the performance, until other patrons made a considerable fuss and her husband threatened to leave her there. However, that was not the venue’s fault, and it looked like staff were about to step in."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "beautiful theatre - no bad seats!",
+      "text": [
+        "We were seated on the side close to the front and wondered what our view would be like. We were not disappointed.  The venue is clean, bright, spacious, and very well laid out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "A nice theater",
+      "text": [
+        "Went there for Intentional Choral Festival. The hall is well managed and well equipped . Staff are nice. Service is good. Bar service also good."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Harold Green Theatre",
+      "text": [
+        "I’ve never been disappointed at Toronto Centre for the Arts. My friend and I went to watch Mark Leiren-Young’s “Bar Mitzvah Boy”—an amazing two hander, ably stage-managed by Seren Brooke Lannon. I appreciated the meaningful and engaging interaction in Greenwin Theatre; it was incredible acting by Hannah Miller and Ralph Small, who carried the show to the end. I liked the show and space or the intimate atmosphere inside Greenwin. (If you’d be uncomfortable in the narrow hallway, then the bigger theatre inside this Centre for the Arts would provide a suitable alternative.) I would recommend Harold Green for theatre-goers from (or visiting) Toronto... Avery Saltzman has had 40 solid years in the industry and did a great job as Director. The North York setting is ideal, as the Toronto Centre for the Arts is centrally located just North of Sheppard on Yonge, near Highway 401. There was plenty of parking at 5000 Yonge underground (facing Toronto Centre) and also behind the Centre for the Arts, adjacent to Beecroft street. The closest subway station would be North York /Civic Centre, just above Sheppard station on the Yonge-TTC line. We found seats at the bar under the spiral stairs, prior to locating our seats inside Greenwin. You can expect to enter about twenty minutes before showtime."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Good Venue",
+      "text": [
+        "What i like about this facility is that even the balcony seats are good (say first 4 rows) and the sound quality is very good as well. "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Beautiful, accessible, acoustic music hall",
+      "text": [
+        "We were there for Remembrance Day observance (free) and enjoyed the experience with a group that included those who were elderly and with disabilities. No problem getting in and around whatsoever, from the north side accessible parking curbside to ramps and railings inside the building. There's Green P Parking out back, on Beecroft St.",
+        "Seats were well cushioned; sounds were clear, whether from the high school band, bagpipes from behind, or the lone trumpet playing taps.",
+        "Subway (North York Centre Station) proximity makes the hall easily reached from anywhere in Toronto. And the surroundings are chock full of shops and restaurants along the historic Yonge St., with the North York Civic Centre, Douglas Snow Aquatic Centre, and Toronto District School Board thrown in.",
+        "Ticketed events are not free."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2011 • Business"
+    },
+    {
+      "title": "3 Theatres in One",
+      "text": [
+        "The accoustics of the small concert hall would make even me sound like a professional pianist.  And any seat is a good seat for sight & sound.",
+        "The Main Theatre stages large production shows.  The seating is pretty good.  However, there are some seats on the side aisles where the stage is half-blocked by someone in the row in front of you.  When buying tickets, don't choose by price...ask at the Box Office about the site lines.  The prices are less expensive here than at the downtown theatres.",
+        "The small theatre haas \"bleacher'-type seating & usually mounts small or experimental shows.",
+        "Overall, it is a beautiful venue with lots of georgeous, clean washrooms; an elevator to the second floor; you can actually buy a drink, coffee or ice cream & have time to eat it before intermission is over.",
+        "The Theatre is easily accessible from the downtown by subway to the North York City Centre on the Yonge line.  However, if you have a car, there is an indoor car park in the next building & outdoor parking on the street behind the theatre (Beecroft).",
+        "The theatre is totally wheelchair accessible.",
+        "There are many nice eateries in the area from fast food to mid-range reastaurants.  This strip of Yonge St., north of Sheppard Ave, has become the \"new downtown\".......with many expensive condos in the area."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2012 • Solo"
+    },
+    {
+      "title": "Interesting place to visit while in Toronto",
+      "text": [
+        "Toronto Centre of Arts is for the Artist in you and others. Beautiful place to visit and see all about the history of arts.  I enjoyed my visit there with my friends. Lots to see and do. You need at least 2 hours there to appreciate everything."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2012 • Friends"
+    },
+    {
+      "title": "Million Dollar Quartet by Dancap",
+      "text": [
+        "We are so sorry that Dancap will no longer be producing live theatre.  We have enjoyed most shows that we have seen including Million Dollar Quartet.  Dancap's customer service is so superior to Mirvish.",
+        "We loved the music in this show.  We had actually visited Sun Records last year and saw the photo that memorializes this gathering.  The story line isn't the most complex but the actors do a fine job of depicting the four talents.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2012 • Couples"
+    },
+    {
+      "title": "Excellent Facility",
+      "text": [
+        "We went to see West Side Story, and had a great time.  I dare say that at least in the orchestra section there is not a bad seat in the house.  The acoustics are great, and the view seems good from any seat."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2012 • Couples"
+    },
+    {
+      "title": "Great Space",
+      "text": [
+        "I saw American Idiot and West Side Story at this theatre and it is a gem.  It is fairly easy to get to, but I was on a bis trip both times, so I cannot comment on parking.  There is plenty around the theatre to get a quick bite to eat or simply just a coffee.  The theatre itself has great sightlines and good sound.  The staff are very  helpful, and navigation within the theatre is easy with the pod entrances.  It's a shame Dancap is halting production, as it is nice to have top notch theatre in North Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2012 • Friends"
+    },
+    {
+      "title": "Beautiful theatres.",
+      "text": [
+        "I love coming to this theater. They play a wide variety of plays and concerts. There are plenty of restaurants in the area for pre or post play. There is plenty of parking in the area, or take the subway!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great visit",
+      "text": [
+        "Found the Centre very, very easily. Staff was extremely helpful. Went to Shrek, the musical. Parking was not overly expensive for the evening. Very pleasant experience! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2012 • Family"
+    },
+    {
+      "title": "Good theatre space in North Toronto",
+      "text": [
+        "Comfortable chairs, plenty of washrooms (even for the ladies), ease of access for the disabled.  ",
+        "This is a nice theatre, and I have always enjoyed my visits.  The stairs can seem a bit daunting at times, but there is an elevator (its just not easy to find)."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2012 • Couples"
+    },
+    {
+      "title": "Beautiful Space / Easy Access",
+      "text": [
+        "It's possible to see professional theatre in Toronto without travelling to the downtown core.  The Toronto Centre for the Arts is a beautiful facility.  It's easily accessible by bus and subway.  If you're driving, you can park next door in a parking garage that is connected to the theatre for only $6 for the evening.",
+        "The main stage seems to cater to touring productions (2-3 week runs).",
+        "Even the refreshments are reasonably priced at intermission."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2012 • Friends"
+    },
+    {
+      "title": "Saw The Addams Family there",
+      "text": [
+        "We saw the Addams Family Broadway show there and LOVED it.  We loved the play and the venue.  It's very classy and clean.  You can't get a bad seat in the house, IMHO."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Brighton Beach Memoirs is a great play",
+      "text": [
+        "In the Greenwin Theatre, as part of the Harold Green Jewish Theatre, we attended another in the current subscription series. The set and acting was wonderful, so professional.  Nice to have Jewish Theatre, and nice to not have to drive downtown. Indoor parking is only $6. Theatre seats need recushioning, as some have become too thin. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Great theatre for arts performances",
+      "text": [
+        "I’ve attended a few performances at the Toronto Centre for the Arts (previously known as North York Performing Arts Centre, and the Ford Centre for the Performing Arts), and has four theatre halls. I’ve seen performances in two of its stages, being the 1,036-seat George Weston Recital Hall and 576-seat Lyric Theatre.  The other two are the 296-seat Greenwin Theatre and 200-seat Studio Theatre. The theatre is nice, well-maintained, clean, not overly big, good acoustics, and the seats are comfortable, fairly roomy, and provide good legroom. With the grade and instructions given that no one should stand during performances, I believe the view is good from all seats. At this last performance, I had a seat 118 in row “O” and found the view to be very good. For maybe 45 seconds, a young buy stood on his seat and blocked my view, but the lady beside him (likely his mother) got him the sit-down. Since the young boy was under four feet in height, likely he had little to no view, but that is understandable and would be the case in the vast majority of theatres. ",
+        "This last time we went for a morning performance. Before the show, there were no refreshments available for purchase. Since I hadn’t had breakfast, I would have liked to have purchased at least a coffee, and better yet, with something to eat. ",
+        "This venue is very nice but not as awesome as Roy Thomson Hall, Princess of Wales Theatre, Royal Conservatory of Music, and Four Seasons Centre for the Performing Arts. ",
+        "Lots of parking available in the area."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "A great venue audio & visually satisfying!",
+      "text": [
+        "This art centre is conveniently located at the heart of North York. You may just zoom by and easily missed it. Pay parking locating behind the building. Easy access also by subway. There are a few large rooms in the building; the main theatre is great. We had Tafelmusik: A Bach Tapestry on Valentine's Day. Great orchestra, fantastic venue! There are other rooms for private art exhibition. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Simply Beautiful!!!",
+      "text": [
+        "This place has at least four theatres, a gallery, three bars, lots of spaces and the two main theatres are beautiful though George Westin is the best or my favourite with over 900 seats.",
+        "Right on the subway line or there's underground parking for your connivence.   "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Family"
+    },
+    {
+      "title": "The Model Room",
+      "text": [
+        "My wife and I were recently invited to attend a performance in the Greenwin Theatre titled The Model Room. The cast includes Mr Eric Peterson best known for his role as Oscar on the hit comedy series Corner Gas. We had really great seats 2nd row centre stage. But any seat in the house is a good one as this is a very intimate theatre. The play was not a comedy as we expected considering Mr Petersons profile as a comedic actor, but it did have some humour."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Couples"
+    },
+    {
+      "title": "Away from the hustle and bustle of downtown",
+      "text": [
+        "The Toronto Centre for the Arts has four stages which have hosted world class shows, both large and small performances. It is located in the Northern part of Toronto at 5040 Yonge St. It is easily accessible by public transportation and is close to major highways. If driving, there is parking beneath the TCA. I found it quite convenient visiting this theatre since it is away from the hustle and bustle of downtown Toronto. ",
+        "We recently experienced a great and exciting play called \"The Space Between\". This play was inspired by actual events in a young boy's life in South Africa and his yearning to reunite with his first love in Canada.",
+        "The writing is superb and the play is written and performed by Simeon Taole. ",
+        "Although the show was performed at the Toronto Centre for the Arts which was the perfect venue, the plan is to take it on the road in the future."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2016"
+    },
+    {
+      "title": "consistently good theatre",
+      "text": [
+        "This venue is the home of the Harold Green Jewish Theatre Company whose productions are consistently top notch."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2015 • Friends"
+    },
+    {
+      "title": "Top Notch Venue",
+      "text": [
+        "A great venue without the challenges of going downtown and with a good range of Acts suited to one of three auditoriums. What's playing can be hit or miss. Best to go with known artists and plays."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2013 • Solo"
+    },
+    {
+      "title": "Great Venue-all good seating-go to the theatre!",
+      "text": [
+        "We saw, \"I Love you,Your Perfect, Now Change\" at The Toronto Centre for the Arts. ",
+        "Very good play!! Well worth your time.",
+        "The cast is talented and entertaining. ",
+        "Catch it before it is over on June 6th, 2013.",
+        "Intimate venue, all good seats."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2013 • Couples"
+    },
+    {
+      "title": "Great facility Easy access",
+      "text": [
+        "Went to Legends of China show on Feb 9, 2013. An amazing show of traditional Chinese instruments apart from the cellos, arranged with both western and Chinese orchestration.  The facility is excellent, great acoustics and views were excellent with easy access in and out of the theatre, Underground parking is available at reasonable rates $6 compared to downtown Toronto which can cost up to $25 for a show. Snacks could have healthier choices  - like fresh baked cookies , fruit, cheese and crackers. The washroom directions could be improves as my daughters and wife got caught in the very long line in the washroom by the bar. Initially we did not know there was another washroom around the corner. Ventilation could also be improved. close to alot of restaurants. Easy access off the 401."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2013 • Family"
+    }
+  ]
+}

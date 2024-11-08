@@ -1,0 +1,388 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto EcoAdventures",
+    "url": "/Attraction_Review-g155019-d17449592-Reviews-Toronto_EcoAdventures-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "171 Christie St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6G 3B3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 188
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/ec/f6/4b/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Ski & Snow Tours",
+    "Walking Tours",
+    "Eco Tours",
+    "Gear Rentals",
+    "Hiking & Camping Tours",
+    "Private Tours",
+    "Nature & Wildlife Tours",
+    "Kayaking & Canoeing",
+    "Day Trips"
+  ],
+  "description": "Our mission is to facilitate connections for people- we’ve designed road trips that are a convenient, fun and safe way to get to know Ontario better, meet new people and hike in the some of the most beautiful natural areas of the province- no car necessary! Our trips have a relaxed, road-trip feeling. ",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "1st time & definitely not the last 👍🏼👍🏼👍🏼",
+      "text": [
+        "Distant Ontario nature made accessible - esp to people like me who doesn't drive. Amazing daytrip, awesome guide, astounding nature views. I know it is not only me, but the whole group couldn't agree more. Javier prioritized the safety of everyone from the start leaving the meetup point til dropoff. To add on that, he was really good in taking pictures.",
+        "Til the next trip! ⭐️⭐️⭐️⭐️⭐️"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Ultimate Muskoka",
+      "text": [
+        "Fantastic outing yesterday with Javier in Muskoka.  ",
+        "Highly recommend this company for anyone wanting a day trip outside the city, without the hassle of driving or planning. We saw some beautiful sites.",
+        "Javier picked us up on time at the designated spot.  He informed us of the schedule for the day. Javier is very concerned about everyone's safety  and comfort while on the hike.    He is a very relaxed, friendly and knowledgeable guide.",
+        "I enjoyed my day  immensely and will definitely be going on another hike in the future.",
+        "Thanks Javier!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Awesome place with an awesome guide",
+      "text": [
+        "We did the Algonquin Fall Adventure, it was great. Our guide Javier was awesome. Colors in Algonquin Park were starting to peak, views were amazing. It was our 4th tour with Toronto EcoAdventures and every time we really enjoyed the experience. Highly recommended! An excellent choice for family, friends and solo travelers alike!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Everyone should see it",
+      "text": [
+        "It was a great tour, the scenery is incredible. I would like to stay there longer to enjoy the beauty of nature. Stony forest paths covered with moss, beautiful rocks and blue water of the lake - all this creates unforgettable impressions. Javier will show you the best places to take photo. I advise everyone to visit this tour and enjoy the beautiful forest = for rest"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Beautiful Location, Clear Water",
+      "text": [
+        "Bruce Peninsula Summer Road Trip: Beautiful location, clear cool water, and very easy outing. Our guide Javier was quite passionate and knowledgeable about the local environment and outdoor activities in general so great source of information. The pace is relaxing and because the group was small, we could go to a smaller, less crowded spot at the Grotto. Black flies were biting; take necessary precautions."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Mémorable, Safest, best way to discover Canada",
+      "text": [
+        "I’ve joined 2 of toronto_ecoadventures trips so far, to Algonquin park and to Bruce Peninsula and looking forward to my 3rd one in few weeks. Javier is a fantastic guide: knowledgeable, reliable, resourceful, friendly and bonus point he takes the most amazing photos and videos ! Making the adventures even more memorable. We got to visit and enjoy the most iconic places and at the busiest season but without the crowd, Javier is that good, he knows all the ways of the forests and of the seas. I cannot recommend his tours enough. Best time ever in Canada."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing trip",
+      "text": [
+        "Javier was wondering with his instructions and we enjoyed the trip with him. Looking forward to many more trips with him."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Fantastic Day at the Grotto!",
+      "text": [
+        "We had a fantastic day at the Grotto in Bruce Peninsula. On the way up from Toronto, we stopped at Inglis Falls, which was really great after all the rain in recent days. Once we got to the Grotto, our guide Javier showed us all the best spots with the best views. We then had the afternoon to enjoy this unique place, swim in the amazingly clear water, take photos and have our lunch. It was a really nice and friendly group too. I love these trips with Javier! It's a pretty long drive up to the Grotto, so it's nice to not have to drive but just relax in a comfortable van. The best way to experience the Grotto in a day from Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Fun road trips to stunning locations",
+      "text": [
+        "I did 3 of Javier's tours in one week whilst visiting Toronto on holiday. I can't recommend these highly enough. A relaxed and fun way to escape the city and meet new and interesting  people in a small group setting. Javier was very skilled in making us all feel comfortable and included. I had never been canoeing before, but Javier really put me at ease. I think sitting in a canoe in the middle of a lake in Algonquin Park is possibly the most amazing place I have ever sat to eat my lunch! Each tour is very different - hiking, canoeing, swimming, and lots of photo opportunities! If you're going on a summer trip, bug spray highly recommended!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Restoule Adventure",
+      "text": [
+        "Restoule Adventure was an excellent tour! Javier is well-informed, knowledgeable, and friendly. He gave us a fantastic day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Excelente guia",
+      "text": [
+        "I had an incredible day in Bruce Peninsula, Javier is an excellent guide. This place is undoubtedly somewhere you must go and experience. It's AMAZING! ",
+        "Gracias... eres el mejor guia y el mejor fotografo."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Breathtaking",
+      "text": [
+        "It was my first hike ever and it is not gonna be the last one for sure. Our guide was very experienced and  extremely friendly, the hike was very fun, well planned and well organized. ",
+        "During the trail we stopped by many breathtaking places.",
+        "Bref, this hike was the best therapy and i highly recommend it 💫💫"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "100% Recommended",
+      "text": [
+        "Loved it! Great experience, it was so much fun. It went beyond my expectations, we got to see different animals, enjoy an amazing view and the peacefulness of nature. It was an amazing day thanks to Javier, Clara and Luigi "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Wonderful day trip into nature!",
+      "text": [
+        "Javier is a very knowledgeable and kind guide. It was difficult to find a day trip into nature from Toronto and this tour exceeded my expectations. I definitely recommend taking a trip with Toronto eco tours to explore a bit of nature!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Solo"
+    },
+    {
+      "title": "Chasing waterfalls",
+      "text": [
+        "As always, going on a road trip with Javier is a great time!!! Gracias Javier, eres el mejor!!!!!!",
+        "Excelente!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "Awesome, 100% recommended",
+      "text": [
+        "Javier was an excellent guide. This activity includes some waterfalls that you will not be able to see in other more touristic tours, so its absolutetly recommended. Also, he speaks Spanish ;)"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Wonderful experience, got to see Moose up close",
+      "text": [
+        "Javier was a really good driver through the rain, and very informative on our hike. His passion and knowledge for nature and wildlife was evident as he helped us connect with nature and learn about the surroundings. We were able to see a Moose up close as we drove, and spent several minutes watching it eat and roam in its natural habitat. Highly recommend, especially for newcomers to the country."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Couples"
+    },
+    {
+      "title": "First hiking experience",
+      "text": [
+        "I joined Searching for Moose in Algonquin (May 2023) - one of the best hiking adventures I’ve ever had! Javier is a wonderful hiking tour guide, he is very passionate about what he does, he’s very knowledgeable and very funny - he will keep you entertained and laughing all day long!  Searching for Moose was my very first hike and I have already booked 2 more so far. If you have a passion for hiking and do not know where to go, Toronto Eco Adventures will be perfect for you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Solo"
+    },
+    {
+      "title": "Amazing trip",
+      "text": [
+        "Really nice trip with amazing nature views and the guide is very friendly and nice. Overall the whole group had good time with beautiful nature."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Amazing views",
+      "text": [
+        "This tour is amazing. We had a great time and the views we got to see from Muskoka were unreal. Thanks for this experience! "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Solo"
+    },
+    {
+      "title": "Great day at the falls",
+      "text": [
+        "Such a great day at Niagara falls.",
+        "Javier is excellent and the tour is perfectly organized!",
+        "The highlight of the tour was visiting hidden gems around the Niagara region."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Algonquin in Feb 2024!",
+      "text": [
+        "Another amazing trip run by Javier! As always, am so impressed by how knowledgable and experienced he is, and the passion behind what he does which is infectious. The park trails were beautiful, some highlights included walking on a frozen lake and getting up close and personal with some wildlife bird species you don't usually see in the city! And as always, Javier makes sure to prioritize safety first so that we all end up having the best time. See you again soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Friends"
+    },
+    {
+      "title": "Blue Mountain snow time",
+      "text": [
+        "Absolutely gorgeous place, must be experienced in winter time! We got there at the end of January, while there was still snow, but the weather was already warming up. My guess is they will be adding snow for the weekend guests,but we enjoyed our time never the less. Plenty to see, plenty to experience and a lot of restaurants with fine foods. We highly recommend Magnone's Italian Kitchen, their chef and their service are amazing. I understand that all the business is revolving around skiers, but the staff at chair lifts wouldn't let us go up to the top without ski equipment (only in summer time!). The other thing we noticed, it's hard to recognize forest trails in winter time, because the entrances are buried in snow or covered with snow banks during clean ups. The whole village was still covered with Christmas lights which will certainly up your spirit, but we will definitely be back in summer time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Highly recommended!!",
+      "text": [
+        "I had an incredible experience with Toronto EcoAdventures led by Javier on a winter hike trip to Algonquin Park. Javier's expertise and enthusiasm made the experience unforgettable. The breathtaking scenery, combined with well-planned activities, created a perfect balance of excitement and relaxation. Highly recommend for nature enthusiasts seeking a top-notch adventure!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Solo"
+    },
+    {
+      "title": "Javier and Luigi made the trip really special!",
+      "text": [
+        "A very fun filled day hiking in Muskoka and taking in the views. ",
+        "Javier is a great tour guide! He’s extremely personable and goes out of his way to talk about things and point out cool sites or things along the trip. ",
+        "We travelled from Toronto to the Bracebridge area. The first hike was about 7 km and we stopped for lunch half way. It’s not that hard of a hike in terms of elevation; however there are roots and rocks (a typical muskoka hike around a lake) so it’s good to make sure you have a good pair of hiking shoes and a walking stick helps. ",
+        "Bring lots of water! You can leave your bag in the van so you don’t have to carry it around. ",
+        "We stopped at Webers on the way home which was great. Good price food and nice go experience that. ",
+        "I’d recommend taking a trip with Javier if you love the outdoors and being in nature. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Disappointing",
+      "text": [
+        "This excursion was very disappointing. To begin with, the weather was very bad with a lot of rain, and the tour wasn't cancel. The destination is quite boring, I have seen way better places in the US, in Europe or even in Asia. By the way, we have to sit in an old and very uncomfortable car for a few hours.",
+        "Furthermore, I booked a second tour with Javier but I was unable to go because I was sick. He exceptionally authorized the refund but I never received it despite several requests, so another disappointment..."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Bruce Peninsula Summer tip",
+      "text": [
+        "Did the day trip to Bruce Peninsula. It was really well organized, on time and I had so much fun, meeting new people and seeing some beautiful place. Thanks Javier - looking forward to joining more trips with Toronto Eco Adventures."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Amazing day trip!",
+      "text": [
+        "I had a wonderful day with our guide Javier at this amazing park and beach. The hike is an easy walk and ends at an amazing view. We spent the day swimming. relaxing and bonding as a group as led by our guide Javier. Definitely a must if you are visiting Toronto and a great form of RandR away from the rush of the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "A day trip to Algonquin Park",
+      "text": [
+        "The hiking and swimming trip to Algonquin Park was amazing! ",
+        "Javier is an excellent guide, he was super friendly and incredibly knowledgeable about the area. I had an excellent trip and would highly recommend to anyone looking to explore outside of Toronto"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Bon Echo in July 2023",
+      "text": [
+        "Javier was an amazing tour guide, a great mix of informative, professional, and humorous. Safety is an absolute priority for Javier, and you definitely felt it! One of the highlights was the 2 min meditation practice in the canoes  where we all practiced box breathing altogether as a group. A very grounding experience that we all appreciated very much. This was my first time being on a trip with Toronto Eco Adventures, will definitely be back again and sharing with other friends. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "⭐️⭐️⭐️⭐️⭐️ 10/10 highly recommended!",
+      "text": [
+        "Javier was AMAZING!",
+        "⭐️⭐️⭐️⭐️⭐️ 10/10 highly recommended!",
+        "We got caught in a bad weather day with heavy rain and Javier was so cool and accommodating. ",
+        "At Javier’s recommendation we went off script, off of the original plan, and made for a perfect day, even with bad weather.",
+        "Great music, great conversation, like going on a road trip with a good friend.",
+        "Javier is amazing!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Super fun day!!",
+      "text": [
+        "Javier was awesome! Extremely nice and fun to be around, and very knowledgeable about Toronto and the adventure areas!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Great trip adventure",
+      "text": [
+        "I recently did a hiking tour to Bruce Peninsula with Toronto Eco Adventure, and it was an incredible experience. The tours are well organized, and are usually small group, which makes it nicer and kind of a personalized trip adventure. Javier is a very experienced and knowledgeable guide, who showed us the best spots along the trip and taught us interesting facts. I can’t wait to book another trip with Toronto Eco Adventures."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Unique experience",
+      "text": [
+        "I highly recommend this trip; the tour has stops where we can appreciate beautiful sceneries while learning with the guide about nature and facts about the trails. Javier our guide was amazing; he is very responsive to all inquiries and provides clear instructions to the group. He is experienced and knowledgeable about the area and while the tour he shares interesting facts about the surroundings. ",
+        "Thank you for the awesome day Javier!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Can’t wait for my next trip",
+      "text": [
+        "10/10 Despite the weather Javier made this trip very memorable. Knew all the right spots and was an excellent photographer. Lots of interesting facts so I learned a lot about what to use to start a fire! Would never have noticed so many things if he hadn’t pointed them. Can tell how patient he is. Will be returning 100%"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Get away from the city",
+      "text": [
+        "If you're looking to escape the city and have a wonderful experience, Javier is the perfect choice. In addition to being an excellent guide, he shares interesting information about the places we visit. His car is clean and comfortable, providing very enjoyable experiences."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Moose Spotting in Algonquin",
+      "text": [
+        "I had a fantastic time, this was my first adventure into guided hikes and Javier is the perfect guide. He is passionate and friendly, taking the group to multiple additional look outs and lakes along the journey so we would get the fullest experience of Algonquin we could squeeze into the day. The photos Javier took for us was a lovely bonus. The small tour group was great for getting to know each other and we made some new friends along the way. Overall a perfect day out with beautiful scenery and great company!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "Spectacular Bruce Peninsula!",
+      "text": [
+        "Amazing trip! ",
+        "Javier was an incredible and patient guide.",
+        "The tour started at Toronto, had a small stop half way for bathroom and snacks, and then got to the lake.",
+        "We enjoyed a really good-weather day at Bruce Peninsula and got to see its impressive colors and view. We had time to ourselves and had fun taking pictures, admiring the view and having a small lunch. ",
+        "Tip: Bring lunch or buy something at the stop! There’s no place to buy food or water near the park."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "Bruce Peninsula Tour",
+      "text": [
+        "The view it's absolutely breathtaking! ",
+        "I had a great time on this tour, it was a great experience. Xavier it's a great guide and the tour itself it's very organized, well planned it was a great day.",
+        "Will definitely book another tour soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Tough but totally worth it",
+      "text": [
+        "Among all Havier’s tours this is the most physically challenging but it is totally worth it!  ",
+        "Hiking on the mountain is not an easy feat and so assess your skills objectively before deciding  to try this one. ",
+        "But the view from the top is just breathtaking - you will love it. 😍"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

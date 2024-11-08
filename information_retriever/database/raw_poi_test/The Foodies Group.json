@@ -1,0 +1,369 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Foodies Group",
+    "url": "/Attraction_Review-g155019-d3309420-Reviews-The_Foodies_Group-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "104-75 Portland St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 2M9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 150
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/8c/bb/d3/yummy-sausages.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Food Tours"
+  ],
+  "description": "The award winning Foodies Group provides Toronto's most creative food tours and food experiences. We create food related events and tours which unite foodies and food lovers, locals and tourists, over Toronto's ever expanding food scene. Join us for events including culinary crawls, chef series dinners, communal dining, supper clubs, food tours, and more. We also provide customized events and tours for conventions, tour groups, corporate clients, or any private group of 12 of more.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Street Food and Street Art Tour",
+      "text": [
+        "A group of friends and I took a weekend trip to Toronto, and we decided to do a food tour. Personally, I had taken one in Galway, Ireland, and it was fantastic. I didn’t know if this food tour could compare, but it met the bar, if not raised it. Our guide, Amy, was fantastic! She had knowledge not only of the food and art, but also of the city. She was willing to converse with her group, and this made the tour much more personable. The range of food that was toured was wide, and it was all great. There was even tea, cookies, and ice cream! The street art was also beautiful, and the background of the artists made it even more interesting. We were even able to see an artist at work. I highly recommend this tour (ask for Amy)!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Friends"
+    },
+    {
+      "title": "Well organized fun foodie tour",
+      "text": [
+        "Decided to try this out with my husband and brother and we thoroughly enjoyed ourselves. We visited local 'Mom and Pop' venues and were not disappointed. Food and drink (excluding alcohol) were included and our guide was fantastic. Very knowledgeable and personable- shout out to you Julian! Don't forget the bread for your Nonna!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Great family outing!",
+      "text": [
+        "We had a great day with Julian as our guide. We were a party of two adults and three teens (14 & 16) and everyone had a great time. It was definitely the right amount of food, seeing the neighborhoods while walking, and riding the tram. Thanks, Julian!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Great way to see more of the real Toronto (and tasty!)",
+      "text": [
+        "We went on a lovely tour on a Sunday afternoon with Sidney as our guide. It was only 2 couples so it really felt very personal. We explored a few different neighborhoods and ate both sweet and savory; both well known and hidden gem.  It was a wonderful way to spend the afternoon. While none of us are vegetarian, our favorite stop was the plant based restaurant called Away. It was excellent and the chef and owner sat and talked to us which was really nice. My one very small critique would be that the tour should have included a stop at the ice cream place that is very famous and had no line. This was a great way for us to explore beyond the typical touristy neighborhoods and we loved the combination of walking and taking the street car"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Great Bachelorette Outing!",
+      "text": [
+        "What a great way to spend the day together as a bridal party! We were picked up at our AirBnB in a limo bus that Foodies on Foot helped us coordinate and went for a 4 hour Best of Toronto tour. It was PHENOMENAL! The diversity of cultures, food and neighborhoods was great; especially because we are from Boston and had never explored the city before. I also loved that there was a combination of grab-n-go restaurants and sit down restaurants. We absolutely loved our tour guide, Laura, who was so incredibly patient with our large group of 14 and brought such a great energy to the afternoon. I highly recommend this as a big group activity. Can't wait to hit up all of those restaurants again during my next trip to Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Great day out!!",
+      "text": [
+        "We did the Best of Toronto tour for a bachelorette party for a group of 8!  The food was amazing (even being able to accommodate vegan options for one) and the tour guide was lovely. Would definitely recommend Foodies on Foot!!!  I have also done the 501 Streetcar tour a few years back and really enjoyed it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Great Tour!",
+      "text": [
+        "My fiancé and I visited Toronto for the first time recently and really enjoyed the Foodies on Foot tour. Unfortunately we came during an ice storm and it was very cold and windy outside but Laura was nice enough to still have the tour with just the two of us, even after another couple canceled. She was extremely helpful and knowledgeable and she made the tour really fun. We liked all the places she took us to and it was a nice surprise each time we arrived at a new place since she didn't tell us where we were going ahead of time. I would definitely take this tour again in the future and would recommend this tour to others visiting the city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Couples"
+    },
+    {
+      "title": "Foodies on Foot, Best of Toronto Food Tour",
+      "text": [
+        "Our recent Best of Toronto food tour was exceptional!  We highly recommend this tour to anyone interested in spending an afternoon exploring Toronto, discovering its history and tasting the amazing food it has to offer.  There is some walking, so dress for the weather, but the stops are spaced out nicely so if you are touring in the winter months you enter a new tasting stop at just the right time.  Laura, our tour guide, was amazing!  She had a great knowledge of the neighborhoods we explored and her passion for the food scene in Toronto was catching!  Great tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Couples"
+    },
+    {
+      "title": "Highly recommend!",
+      "text": [
+        "I loved our experience on the 501 Streetcar Tour! Each stop was delicious. It was so well organized and was fun that we didn't know where we were going to next. Our tour guide Laura was excellent. She was so knowledgable and interesting to talk to. I so enjoyed learning about new places to eat in the city and learning more about the history of Toronto. I would love to do this tour again in the summer! Thanks for a great experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Solo"
+    },
+    {
+      "title": "Nothing like it!",
+      "text": [
+        "My aunt and I recently did the 501 street car tour this month and we were beyond impressed with the entire experience. There really is nothing like it.  The best part though was our tour guide. Laura was absolutely phenomenal ! She is highly knowledgable, well traveled, and is full of endless knowledge in regards to the food world & its history.  We couldn't have asked for a better guide. We also loved that each stop was a surprise and that we didn't know where we were heading next.  I would do the tour all over again without a doubt. On top of it all we loved riding the street car!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Best way to experience Toronto -- even if you're from there!",
+      "text": [
+        "I've had the pleasure of going on the 501 Streetcar Tour and their special Valentine's Day aphrodisiac tour, and both were incredible! The tour guides are knowledgeable and friendly and every place they take the group is innovative and delicious. Come hungry. There was a TON of food. Loved it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Couples"
+    },
+    {
+      "title": "Informative, delicious, and tons of fun!",
+      "text": [
+        "I did Foodies on Foot as a corporate event with clients, and they were (rightfully) sooo impressed. It was my first time doing a tour with Foodies on Foot, so I was unsure of what to expect, but it was awesome. ",
+        "Our guides walked us through Graffiti Alley on Queen West and gave such in-depth info on the history of the alley, graffiti in Toronto, and general hip-hop culture. Even our most square clients were into it. It was also CRAZY fun, packed with impromptu freestyle sessions and jokes from our guide. ",
+        "Finally, and maybe most importantly, the food was delicious and very very interesting. We had the chili in a Fritos bag and like I said, it was verrryyy yummy and tied perfectly into the tour theme. I would definitely recommend to anyone looking for something interesting to do/eat, delight and impress people, or just straight-up learn more about Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2015 • Business"
+    },
+    {
+      "title": "Fun group experience",
+      "text": [
+        "I love how this experience combined education, my love for local Toronto neighborhoods and the thrill of discovering new hot spots, not to mention getting to try out delicious flavors and delectable meals! ",
+        "My entire team at Trend Hunter had a great time and there was definitely something special and fun for everyone involved."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Friends"
+    },
+    {
+      "title": "Street Art & Street Food",
+      "text": [
+        "I had a chance to participate in a Street Art & Street Food tour by Foodies on Foot and had an amazing time! In addition to enjoying some authentic Toronto street food, me and my tour mates learned about the origins of our city's graffiti by exploring our very own Graffiti Alley. The tour was an eye-opening experience and has made me more aware of the artists that our city is known for. I even catch myself recognizing random graffiti in the city based on specific symbols and artist signatures. This tour is a must for art and food fans and will not disappoint!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2015 • Business"
+    },
+    {
+      "title": "501 Streetcar Food Tour: Fantastic for locals & tourists alike!",
+      "text": [
+        "A friend & I took the 501 streetcar tour and had a fantastic time. I've lived in Toronto for over 8 years, she is brand new to the city, and we both learned some great history of the various neighbourhoods in Toronto while discovering some delicious foodie hot spots that we will be sure to visit anytime we are in those neighbourhoods. Great tour for Torontonians who want to expand their horizons, or tourists who want to do something off the beaten path, out of the downtown core, and experience multiple neighbourhoods in a single afternoon. Food at each tasting location was fantastic so you will definitely want to come hungry - I'd recommend nothing more than a morning coffee on the day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Friends"
+    },
+    {
+      "title": "Corporate Social Event - A SUCCESS!",
+      "text": [
+        "We had a small group of employees sign up for this social event and we had such an amazing time! Talia was our tour guide for the \"Wellness Food Tour\" and she was so down to earth, funny, responsible, caring and her overall passion for wellness is contagious! We were lucky enough to have the sun out that day after many grey winter days. The time and distance between venues were reasonable and taking the transit with a day pass was the best decision ever. Everyone who attended did not stop talking about it for weeks! ",
+        "Great job to Foodies on Foot and 5 stars to Talia Chai Wellness!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Business"
+    },
+    {
+      "title": "Fun Food Day!",
+      "text": [
+        "Foodies on Foot was a really great experience. Fantastic for visitors to Toronto, but we were locals and just loved the food, and the history info shared at each area. We would never have thought to enter some of the places (nondescript restaurants), but now I can't wait to go back. Great tour experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Friends"
+    },
+    {
+      "title": "Cool way to taste Toronto",
+      "text": [
+        "Caz was our guide. Blisteringly cold mid-winter's day, which was excellent because we only had 6 in the group. Excellent range of food, great vendors, Caz was fun and knowledgeable and we were stuffed by the end of it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Couples"
+    },
+    {
+      "title": "501 street car food tour of toronto",
+      "text": [
+        "Steven and his staff were professional and kind from initial booking right through to the tour. Steven took us on an amazing culinary tour of Toronto and was sure that we enjoyed our time. We appreciate that the tour  included hidden gems and not a compilation of \"it places\" that Toronto life has said to dine at."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2016 • Couples"
+    },
+    {
+      "title": "Great food, great guide, worth going on",
+      "text": [
+        "Loved being able to try new restaurants and food, our tour guide was very knowledgable and friendly, also recommended other restaurants to try. Tried a vegan restaurant, a German restauant, a pizza/gelato place, an all cheese restaurant and a savoury dessert place. All awesome, our favourite being the pizza/gelato place. The owner there kept bringing more pizza to try and gelato and espresso. We also went to a chocolate shop and tried a chocolate shot, very good. A great way to go out in the city, plus I was pregnant and it was perfect walking and stopping. Some places we hopped on a tram too."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2015 • Couples"
+    },
+    {
+      "title": "501 Streetcar Food Tour",
+      "text": [
+        "My husband and I went on the 501 Streetcar Food Tour, and it was incredible! We met Steven, our amazing tour guide, and head Foodie. Our group was a mix of locals and tourists, and we had a blast as we ate our way across Queen Street. Steven was an entertaining host as he educated us on the food that we tasted, as well as the history of the neighbourhoods that we passed through.  The food tastings included a donut, sausage, banh mi sandwich, chocolate, cheese and pulled pork. Excellent!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Couples"
+    },
+    {
+      "title": "Another successful Foodies on foot day",
+      "text": [
+        "Private event with friends/coworkers . 4th year spending the day with Steven guiding us through the best of Toronto. For some of the group it was a first Foodies tour. A great day spent with a wonderful group of friends,  yummy  food and to top it off the weather was fabulous. Steven is a wonderful host!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Friends"
+    },
+    {
+      "title": "Food, fun, and great company all pulled together by a knowledgeable, enthusiastic guide",
+      "text": [
+        "A fun range of street food.  Generous portions.  Good value for the money",
+        "And fun to do it in a hop on and hop-off way using the streetcar!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016 • Friends"
+    },
+    {
+      "title": "Graffiti/Food tour",
+      "text": [
+        "We had a staff outing with Foodies on Foot - 20+ people had a great afternoon.  We sampled yummy eateries and had a very informative curated tour with Stephen Hellmann of Graffiti Alley.  Stephen is a very personable and knowledgeable guide.  Highly recommended - we would do it again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Business"
+    },
+    {
+      "title": "Wellness Food Tour with Foodies on Foot",
+      "text": [
+        "This was my second tour with Foodies on Foot and it was excellent.  Talia did a great job of selecting a good variety of locations to visit - the food samples were delicious (and generous portions).  Talia was very willing to share her broad knowledge and tips - nutrition, recipes, new ingredients to consider, restaurants to visit, etc.  And, we got to see the city via streetcar!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Friends"
+    },
+    {
+      "title": "Worth walking for....",
+      "text": [
+        "We did our first \"Foodies on Foot\" tour on Sunday.  It will not be our last.",
+        "Our guide Cas, was amazing.  Knowledgeable, friendly, and obviously has a passion for what she does.  The food was great and we will certainly revisit the stops.  On the last of  six stops we had to take a doggie bag."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Couples"
+    },
+    {
+      "title": "Already done it twice, want to do it again!",
+      "text": [
+        "My husband and I have been on tours with them twice, and we definitely want to do them all! Such a great afternoon thing to do. The food is always fantastic, and you get to learn so much about the city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Couples"
+    },
+    {
+      "title": "Foodies On Foot 501 Streetcar Food Tour",
+      "text": [
+        "On June 4, 2016 we took the Foodies On Foot 501 Streetcar Food Tour. The tour included six stops at various eateries. Our amazing tour guide Kaz (Caslon) took us to a doughnut shop, a venue that specializes in all kinds of different sausages with a huge list of beers, an Asian sandwich shop, a great neighbourhood coffee shop, a cheesemonger and a place specializing in barbecue pulled-pork sandwiches.",
+        "You will not be disappointed with the venues nor the amount of food as we were absolutely stuffed by the time the tour ended.",
+        "It was a great mix of hopping on and off the 501 Streetcar as well as a good amount of walking.",
+        "This is a great attraction for tourists to see a large part of the city, but as native Torontonians, we found it very informative.",
+        "Do not miss attending this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Couples"
+    },
+    {
+      "title": "Excellent!",
+      "text": [
+        "The tour was spectacular, and everything we could have wished for! The food was great, we were constantly eating, and it was a very fun time.  The leaders of the tour were very personable, considerate, and really took the time to teach us about food.  They answered any questions we had, and overall, it was amazing! TOTALLY worth the money and time."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Family"
+    },
+    {
+      "title": "Walking / Eating Tour",
+      "text": [
+        "Played Tourist in my own city!  Joined Foodies on Foot for a fabulous ",
+        "afternoon, discovered portion of Torono's Wall Art scene and new foods. ",
+        " Steven, our knowledgable guide,  brought the art to life!   Tip: do not eat ",
+        "too much before the tour..   Sandi"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Solo"
+    },
+    {
+      "title": "Best Food Tour Yet!",
+      "text": [
+        "I've taken many a food tour in several different countries, and this one was by far the best. Just prior to traveling to Toronto, from San Francisco, I read that the 501 Streetcar was not running due to \"track repairs\". I emailed Steven to see if the tour was still on. He emailed back that we would be using public buses, but I could cancel if I wanted to due to no streetcars. I told him that although disappointed, we would still go. ",
+        "There was four of us total plus Steven. The tour lasted five and a half hours. There was so much good food to eat, we had to take some of it back to our hotel to eat later. There were six different stops for food, including gourmet donuts, Manh Mi sandwich, cheeses, and a barbecue sandwich. All of the food selections were excellent to outstanding. ",
+        "Thanks again Steven for a great introduction to the foods of Toronto. This was our first trip to Toronto. We plan to return in the future and discover even more great places to eat."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Couples"
+    },
+    {
+      "title": "Amazing Afternoon of Food!",
+      "text": [
+        "What an amazing way to spend a Saturday afternoon! I was part of a bachelorette group who did the Foodies on Foot King West tour and, even though I live in the city, all of the places we stopped were new to me. Each of the six places we stopped at was renowned for certain dishes, and Steven our guide gave us an amazing run down on the history of the establishments and what they are best known for. ",
+        "The tour was the perfect amount of time, and the caliber of food we were served at each stop was well worth the money. Steven was very knowledgeable about the area and even took us on a tour through Graffiti Alley, where we were able to learn a lot about the different artists and meaning behind their work...not mention it was a great photo opportunity! Steven offered such a personalized touch to our tour, and his passion for food and mingling with people was definitely known and appreciated by our entire group. To travellers and locals alike, this tour is an absolute must-do if you are looking for a fantastic food experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "Foodies on Foot King West",
+      "text": [
+        "My friends and I went on the foodies on foot tour for the King West area with Steven and it was amazing!! Steven was very knowledgeable of the area and all of the restaurants and the food was unreal! I have a food allergy and Steven went out of his way to accommodate it, which was fantastic. I would highly recommend these food tours to anyone and will definitely be doing another in the future! "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "Graffiti Alley n' SWEET Eats of the streets!",
+      "text": [
+        "This was such a good investment. Though our tour day was on the damper side, we could not have found a better way to spend a Saturday in Toronto (my home city) than to get lost in street culture with this awesome group! The tour was small and intimate, the food was amazing with tons of variety, and each spot came with an impressive wealth of background information. This is not your average guide, Steven really has a passion for his business, for the food industry, and for the communities and trends in our city. I cannot recommend him more as a foodie guide.",
+        "Highlights for me were the TO DIE FOR gourmet cookies from Le Gourmand and some super spicy Mayan hot chocolate....but the biggest treat was definitely learning about the history of Toronto small food businesses and how they hit the mark to make it in the competitive King West scene. All this was juxtaposed neatly against the graffiti art scene in the surrounding alleys. As a former resident of Cityplace downtown, I was surprised by how much intriguing art I'd been missing in my own neighbourhood! ",
+        "We had such a great day, and I can't wait to book another tour with Foodies on Foot and our awesome host, Steven. Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "The BEST FOOD TOUR in Toronto!",
+      "text": [
+        "I had attended a few food tours provided by Foodies on Foot (Toronto) in the past. Their tour guide (Steven) was excellent! Steven was very knowledgeable about the city as well as all of the restaurant places which we had visited. He made the touring process fun (even though I have been living in Toronto for many years, I felt like I was a visitor visiting Toronto with a new set of eyes and excitement when I join their tours!). I am truly grateful for the amazing food tour experience I had! I had recommended Foodies On Foot to many friends and family. I congratulate Steven for the recent success of Foodies On Foot! It's taking over the Food Channel/Social Media coverage. Highly recommend everyone to experience the incredible joy of food tour offered by Foodies on Foot! Thumbs up!! ",
+        "Katherine H. (Toronto)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Family"
+    },
+    {
+      "title": "What a great way to see the city!",
+      "text": [
+        "We are from Niagara and love to get to Toronto, the city has so much to offer so if you really don't know where to start and love food; Foodies on Foot is where it is at! We experienced the Toronto Food Tour, what a great dining experience. We were taken to 6 different location with our guide choosing what they feel is the special of the house - we were not disappointed! All was included in the cost (unless you wanted a wee sip to warm your insides) and we were so full that dinner was not even on the radar! Our guide Laura was lovely, she gave us a little history tour a long the way and pointed out some other restaurants to try on our next visit. From what I understand is no 2 tours are alike, it is based on group size, weather, timing AND they do private - I cannot wait to experience this again in the future!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Couples"
+    },
+    {
+      "title": "So good!",
+      "text": [
+        "We're Toronto people and we love food. We get around a fair bit, and still we were introduced to several new and interesting food places in the city. A great tour!  Laura welcomed a small group very warmly and knowledgeably, and by the second stop, it felt like we were a group of friends out for an afternoon of foodie fun. All food talk all the time. Right up our alley. A hearty recommendation. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Couples"
+    },
+    {
+      "title": "Best of Toronto Tour!",
+      "text": [
+        "Whether you are from out of town or live in Toronto this tour will not disappoint! Incredible way to see Toronto in a few hours. Guide was very knowledgeable and engaging. All of the stops were well thought out, delicious and fun. The food choices were unique and so tasty. I would advise not to make plans soon after the scheduled end time as there may be delays (normally because the group is engaged in good conversation throughout the tour!!) The price point of this tour is outrageous given the amount of food you get. I would encourage anyone attending this tour to come hungry and be prepared to bring leftovers! Best tour I've ever been on by far."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Friends"
+    },
+    {
+      "title": "Fun, tasty way to see Toronto",
+      "text": [
+        "Took the Best of Toronto Food Tour as a way of \"giving back\" (haha) after watching the Seattle Sounders beat out Toronto FC for the MLS Cup. It was a great way to see the city and experience a variety of its neighborhoods, even in the cold and the snow. The venue selection was excellent, and I even ended up going back to two of its sites the next day for lunch before my flight. The guide, Laura, was knowledgeable and fun and offered some great tips for the rest of my stay. Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2016 • Solo"
+    },
+    {
+      "title": "Best of Toronto Food Tour",
+      "text": [
+        "Another GREAT tour with Foodies on Foot! This is my second experience with foodies on foot and each time it gets better! Steven is full of information on history and culture as we hit up some of the best places in Toronto to eat.  I love how it is planned to start with some breakfast food/drinks and end on a sweet dessert. The tour has a great balance between walking and public transport and you never leave hungry! ",
+        "Already looking forward to our next tour !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Friends"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Princess of Wales Theatre",
+    "url": "/Attraction_Review-g155019-d600828-Reviews-Princess_of_Wales_Theatre-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "300 King St W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 1J2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 1619
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c1/f0/76/date-night.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Theaters"
+  ],
+  "description": "The Princess of Wales Theatre is a 2000-seat playhouse built by the father and son producing team of David and Ed Mirvish, just a block away from their historic Royal Alexandra Theatre. The Princess of Wales is the first privately owned and financed theatre built in Canada since 1907 - and the first anywhere in North America in over 30 years. Construction began on August 6, 1991, and the building opened to the public with the musical Miss Saigon on May 26, 1993.The theatre was built with maximum flexibility in mind. Its stage is one of the widest and deepest in North America - large enough to accommodate the most spectacular theatrical productions - and its technical facilities are state-of-the-art.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "& Juliet",
+      "text": [
+        "I visited the Princess of Wales Theatre in June, 2022 to see & Juliet just as pandemic restrictions in indoor spaces were easing. At the time of my visit, the province-wide mask mandate had been removed in most indoor settings, however individual public venues had the option of continuing to enforce a mask mandate which the Mirvish Theatres had when I was there. ",
+        "In my opinion, the staff at the Princess of Wales Theatre did a wonderful job with balancing the public's desire for a return to normalcy while also reminding patrons of their responsibility to do the right thing for themselves and others. ",
+        "They did this by offering a judgement free environment- if you came without a mask, an usher would provide one- no questions asked. Secondly, patrons were allowed to purchase snacks and drinks and consume them at their seats. Third, before the show, ushers would go by each row to provide non-verbal cues to patrons that once they finished their snacks and drinks to please put their masks back on. ",
+        "The show itself was spectacular. It was age inclusive, it was performed by an extremely talented cast, the music was amazing and by the end the entire crowd was on it's feet dancing and singing along. After two long and exhausting years of not being able to experience live theatre, this show was the perfect way to welcome people back and invite them once again to engage with one of the many experiences that makes Toronto such a special place to be."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Great For TIFF",
+      "text": [
+        "I attended TIFF for the first time and had a movie premiering here. The venue is gorgeous inside. I sat the in Orchestra and had no issues hearing the film on the projector screen. The popcorn and soda were fairly priced as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Comfortable",
+      "text": [
+        "Wonderful venue with comfortable seats.  We enjoyed watching Rumours wth friends.",
+        "Will definitely return.  ",
+        "Concession prices are reasonable."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Beautiful theater, but one warning....",
+      "text": [
+        "We love this theater and there are few complaints to be made however for newcomers there is one suggestion I would make. Do not sit front row balcony. There is a safety rope running across the front and it impedes your vision. How much so depends on which show you're seeing. We sat there for a Les Mis production and found the rope to be very annoying and visually impairing. Maybe if you are very tall it wouldn't matter but for shorter people or a child, stay away from these seats. The front row dress circle is much much better. Other than that this is a beautiful theater with lovely architecture and professional staff."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Great fun - well done",
+      "text": [
+        "Our first time at the theater, we saw Shrek - very well done - a fun experience. The actors really made the story come to life.",
+        "I was surprised by the varied level of dress for attendees - anywhere from men in suits to cut-off shorts and t-shirts. ",
+        "Even though the theater is large and was mostly filled, there was no problem getting seated nor finding/using washrooms during intermission.",
+        "A concession stand had a small selection of wines and mixed drinks. Another stand sold snacks (popcorn, almonds etc) as well as sodas, juice and water.",
+        "There was a merchandise area as well, selling items with the show logo - coffee cups, sweatshirts, tote bags etc."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Show great -  cost nonsensical.",
+      "text": [
+        "Les Mis was exceptional.  I was horrified, however, after getting 4 tickets for me, my sister and her 2 daughters at 199 per ticket, so over 800.00 CAD with service fee.  We had 2 additional family members join us, so purchased 2 solo seats, which cost 50.00 CAD. ",
+        "My expectation was that the 200 seats would have been front, centre, dazzling.  As it turns out, the solo seat was far better view and more centered.  Plus, we were in the same section, just a few rows apart.",
+        "So disappointing. We are happy to pay for tickets....but not when better seats are a mere 25% of the initial ticket price.  ",
+        "Feeling ripped off.  ",
+        "😮‍💨"
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "Les Miserables April 14,2024",
+      "text": [
+        "Have seen many shows at this theatre but as other reviews have mentioned, the washroom situation is not great. Our seats were row BB and CC 16, aisle seats. View was okay to see everything, and space to stretch legs and no heads in the way. The show Les Miserables was fantastic; a bit different than what I remember. Still great!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Friends"
+    },
+    {
+      "title": "Good experience but…",
+      "text": [
+        "Great version of Les Miserables. We were on the aisle though and the light from the row behind glared into my glasses so I had to keep a hand up to my frames so block the glare. Row E 4 and 5.  The washroom lineup was horrific / we used the men’s as a last resort."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Couples"
+    },
+    {
+      "title": "Warning to Those Travelling With Elderly Parents",
+      "text": [
+        "There is not a bad seat in this theater I am sure.  It's a great small venue. We went to see Les Mis. ",
+        "Before picking your seats try to pick the areas closest to the bathroom. I believe it's the first balcony. While there is an elevator, there are not enough washrooms available for the number of guests. Intermission is only 20 minutes which is not enough time to get to the washroom if you are a floor without them.  We took my parents, my mom has mobility issues. There is an elevator. The washroom lines were insane. Women were using the men's washroom. This is not okay for elderly guests. Start the show earlier and extend the intermission."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Great performances, dismal theatre condition",
+      "text": [
+        "So here’s the thing the shows are fantastic but the theatre needs an overhaul… the carpets are torn, desperately needs a paint job, paint chipping, amateur patch jobs, holes in the ceiling… Mirvish, I expect better for the prices charged… I dearly hope you do some extensive Reno’s before lion king premieres as the condition the theatre is in right now makes it not worthy of a Disney production"
+      ],
+      "rate": 2.0,
+      "tripDate": "Feb 2024 • Solo"
+    },
+    {
+      "title": "Superb Theatre",
+      "text": [
+        "I watched Donna Summer Musical and I got chills each time the person who acted as Donna sung OMG. Very nice superb I really enjoyed it and got to know more about Donna’s life. Very impressive 👌🏾👌🏾👌🏾"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Solo"
+    },
+    {
+      "title": "The Donna Summer Musical",
+      "text": [
+        "Fantastic show, great singers, actors, music.  A show everyone can enjoy even though she died several years ago"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Couples"
+    },
+    {
+      "title": "The Princess of Wales a beautiful theatre.  We had an excellent view--there isn't a bad seat in the house.",
+      "text": [
+        "Outstanding performances in the Donna Summer musical.  It was interesting to learn about her life, her talent and career.  The music brought back memories of a favourite era, the 70's, when disco dancing was all the rage."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Donna:The Donna Summer Musical was OUTSTANDING!!",
+      "text": [
+        "The show was great. The music was outstanding. The 3 actors playing Donna at different stages of her life were incredible, their vocals perfect. They have so much talent. I watch 3-4 shows a year and have to say this is a must see.",
+        "I had front row Dress Circle, loved the view."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Friends"
+    },
+    {
+      "title": "Elegant!",
+      "text": [
+        "From the front entrance it doesn't look like such a grand place but once you go into the theatre it is. We found the seating very comfortable. Look up and you see the beautiful ceiling. Look around and it's breathtaking! Balcony seating on the sides. The staff were very helpful. We saw Riverdance which was fantastic. Such a lovely time was had we just booked tickets for Les Miserables!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Majestic Experience",
+      "text": [
+        "The Princess Of Wales Theatre is classic and traditional yet stately and regal. I just loved being surrounded by all that plush red velvet.  The location is smack in the middle of downtown Toronto.  I loved every second I was there.  I attended The Lion King and was mesmerized by the show."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Great venue.",
+      "text": [
+        "We saw \"Riverdance\" here tonight. We find the seats tight, and we are not large, but other than that, this is an all-star experience. Great staff. Lots of washrooms. Comfy seats. Smooth bar and refreshment service."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "River Dance",
+      "text": [
+        "Wow this was my first time coming to this Theater it does not look like much from the outside but go inside and your in a really  lovey place , From the attending staff  they made you feel so welcome.",
+        "I could not wait to see the show as i had seen River Dance when i was in Ireland last summer my family bought these tickets so i could relive the experince again it was worth the wait ..it was everything i remembered spectacular from the singing to dancing they really do put on an amazing show if you have a chance go to Ireland and see them its worth the money ,Perfection reativity, outstanding Thank you so much for putting a show to remember cheers"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Sensational  Riverdance in a dusty oudated Theater.",
+      "text": [
+        "perfection, creativity, outstanding form, sense of humor, voices, program, backgroud, everything was spectacular. Best performance ever. Live music, drammers, instumenalists, dancers were absolutly perfect. I don,t think that I ever felt as respected by the performers as  I felt yesterday watching Riverdances beyond words performance."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Riverdance",
+      "text": [
+        "Everything about this show was spectacular! From the musicians, playing a central role throughout, to the ever changing, realistic backdrops,, which if you closed your eyes you were back in Ireland,, or in the midst of an Irish storm. From the  domes of a Russian cathedral to the city of Brooklyn, we experienced spectacular dancing; with such vibrancy and joy.there was even a bit of comedic dancing rivalry in the dance between two men, raised to dance in “The Bronx”, with Tap-dancing sass to the “stand tall and straight motto of the Irish dancers. Music, dance, instrumentalists, not to forget the ever-present drummer-the real maestro of the show, brought it all together for a masterful 25th anniversary show! ",
+        "My granddaughter was mesmerized as was I!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Family"
+    },
+    {
+      "title": "Joseph and the Amazing Technicolor Dreamcoat",
+      "text": [
+        "Stellar English cast delivering ovation worthy performances in a top-notch production. Thank you, bless you, and love you one and all."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Theatre showing its age.. lack of everything",
+      "text": [
+        "Ok, so this review is of the theatre and not the show, the theatre is showing its age, you can tell that upkeep is not a priority which is disappointing.  Lots of spots that need touch up paint, etc that are visible to the naked eye, etc.  I was disappointed with the bar, I ordered a ginger ale they didn’t have a bottle so it was a can put in a cup and charged the same amount as if I ordered a bottle of coke.  Not a lot of options etc… they should look at the UK theatres where you can order to your seat at the intermission etc would be more convenient for the customer and they would make more $$$ in the long run.  They also need to open the theatre earlier having to stand around in a small lobby is very inconvenient, and not COVID friendly not that matters to me but I can see it concerning to others.  I would have just liked to sit down earlier VS standing around"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2023 • Solo"
+    },
+    {
+      "title": "How to make a show",
+      "text": [
+        "The review not about the show we've attended but only about the theatre as a facility. We just witnessed an incredible giddiness. We use to pay 12 dollars for parking ok, the day we visit show they put a sign outside mentioning it will be 22 dollars today. Ok.",
+        "Driving inside - a big list of paper in the cashier's stand - 25 dollars. I glad we still had wash rooms for free. Thanks theater administration, u guys know how to make a show."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Singing in the Rain",
+      "text": [
+        "I went into this musical with super high hopes. Unfortunately, during the first act the microphones were not working so we could not even hear the actors. The sounds came in and out. ",
+        "When the second act started, they had so many technical difficulties that the act had to be restarted 5 times. And the microphones still were not always on. While the case is talented I felt like I was watching a crappy high school production of Singing in the Rain. ",
+        "I traveled from LA and this was supposed to be one of the highlights of my trip, but sadly it was more than miserable. And I paid a fortune to have orchestra level seats!!!",
+        "I contacted Mirvish and they refused to give me a refund but gave me an alternate day to return. Which being that I LIVE IN LA is not exactly helpful."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Come From Away",
+      "text": [
+        "I love the Princess of Wales Theatre. The ambiance is amazing, great location with fantastic restaurants to eat at before the show. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021"
+    },
+    {
+      "title": "Great show and very comfortable and easy viewing from all seats.",
+      "text": [
+        "The show was wonderful  - the performers were outstanding.  Very rarely have i seen a show that has three unbelievable leads that complemented each other and gave depth to the story.  The staging and how the story was told was very good and easy to follow. I would highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Summer, the Donna Summer show",
+      "text": [
+        "Wonderful, uplifting, fun... A walk down memory lane.. Despite the theatre not being full due to Covid 19, but the cast played on with just as much of not more heart than ever."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Friends"
+    },
+    {
+      "title": "Princess of Wales",
+      "text": [
+        "The best place to see a show or performance in Toronto. Every seat has a great view.The interior is very tasteful & sophisticated. The staff are very friendly & helpful"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Couples"
+    },
+    {
+      "title": "Not to be missed!!!!",
+      "text": [
+        "I had mixed feelings about attending this show, but absolutely loved every minute. The singing and staging of the show was outstanding. The music was incredible and at one stage members of the audience were up and dancing. If you want a great night out, go and see this amazing show!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Friends"
+    },
+    {
+      "title": "Summer, The Donna Summer Musical",
+      "text": [
+        "FUN, wow! Terrific story well-told with absolutely wonderful signing by the 3 leads. A MUST see. Catch it before it’s gone."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Friends"
+    },
+    {
+      "title": "Uncomfortable Experience",
+      "text": [
+        "I traveled to Toronto in November for the sole purpose of theatre. Toronto was one of few theatre districts around the world that I had not experienced. I chose to see Jagged Little Pill at Princess of Wales Theatre. I sat in the Orchestra, Row A, Seat 23. I purchased my ticket in advance at the box office because I wanted to discuss seating and the best seat available.  Unfortunately, once the show began, I could not see. Actors often perform center stage.  But I could only see if the actors were standing stage right or stage left. The person seated in front of me blocked my view completely (no fault of the patron). I spent much of the show trying to see around the person in front of me, which likely affected the person behind me. This is a seating design issue. I’ve sat in theaters on London’s West End and New York’s Broadway, and this theatre was my least favorite.  It was an uncomfortable experience."
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2023 • Solo"
+    },
+    {
+      "title": "Will Never Go Here Again",
+      "text": [
+        "Loved the show. My 2 sons are 6' 3\". Their knees were pushed against the back of the chair in front of them. Seats are too small + cramped. We sat like sardines in a can. No cup holders for our drinks from the bar. Washrooms - had to take an elevator to get to the washrooms - far away from our seats. The tickets are in U.S. $$.  Didn't see that until it was too late as there are no refunds. 5 tickets on my credit card came to $2,027 with the exchange. NEVER AGAIN WILL WE GO HERE."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "Excellent experience",
+      "text": [
+        "We were here to see Hamilton. The theatre was quite nice, a great atmosphere for the production. The show itself was fantastic! We got tickets in the orchestra row L and had a great view of the stage.  Our chairs were comfortable and the acoustics were very good."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Hamilton - a great experience!",
+      "text": [
+        "Saw Hamilton - really enjoyed the show!  Definitely recommend seeing this show!  The theatre is starting to age some.  It's hard to believe that there are only washrooms on the lower level of the theatre (for the entire theatre!).  Don't park at the theatre unless you like paying a premium for parking.  Lots of more reasonably priced lots in the area."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "Go see Hamilton!",
+      "text": [
+        "We went here to see Hamilton on Friday night, and it was fantastic. We saw Hamilton in Chicago last year and was amazed. But when we got here, we were even more amazed at the talent, the singing, and the acoustics in this building. We had the perfect seats in the orchestra level, which was pretty close to the stage. I would highly recommend visiting this theater for that production."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Hamilton Great, experience disappointing",
+      "text": [
+        "Just saw \"Hamilton\" at Princess of Wales in Toronto.  While the show was great, the sightlines were terrible.  We had good seats in Row A centre but I could not see anything that happened in the middle of the stage due to poor sightlines.  I missed most of the show.  I just sat there listening to the music.  It was very disappointing, considering the cost of the tickets.",
+        "Also suggest not parking in the Mirvish parking lot.  While it is convenient, the cost was $25 which is twice the cost of other nearby lots.  I guess that is the reason Mirvish does not publish their parking rates on their web site."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "Hamilton 2023",
+      "text": [
+        "Hamilton in March 2023, 4 years after having bought tickets. Having watched the original cast online, I have to say, this was just as amazing. The performance was phenomenal, and the voices of the performers were spectacular. If you are lucky to have gotten tickets, go and see this show.",
+        "I was in row M (moved from my initial UU row) and was quite centrally located in this row. There are snacks and beverages to purchase before the show and during intermission, although I just got myself a chocolate chip cookie for $2.50.",
+        "Parking is nearby at $7 from 6am-6pm, if you use Parkopedia."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023 • Friends"
+    },
+    {
+      "title": "Subscription Services is a joke!  It smells like a rotten fish!",
+      "text": [
+        "I’ve had a subscription pre Covid.  Relentless advertising shows they need to rebuild.  Online my choice of seats was crappy.  I phoned because often the box office isn’t stuck with the computer generated seats.  If they were as sold out as this agent suggested, they would have hit me with daily advertising. I asked to talk to a supervisor as I hate writing bad reviews before hiding businesses and opportunity.  NONE AVAILABLE!  If the business smells like a rotten fish…."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Great Venue for Musicals",
+      "text": [
+        "We were here for the Production of Joseph. We had seen this years ago with Donny Osmond. This production was excellent as it was different, by engaging  the children in the Musical. For this Venue I would suggest seating in Balcony first row to row 4 maybe center stage or just off to the side. Great view of stage and performers."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023"
+    },
+    {
+      "title": "Dissapointed",
+      "text": [
+        "Was supposed to see Hamiton with my Daughter on February 21st...she is a huge Hamilton Fan..unfortunately we were unable to attend due to the winter storm. Theater is not reimbursing our tickets. I understand that this is their policy and that the \"show must go on\" but considering the extreme dangerous weather and driving conditions I think there should be a exception made.",
+        "Very dissapointed and lost a lot of money."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2023 • Family"
+    }
+  ]
+}

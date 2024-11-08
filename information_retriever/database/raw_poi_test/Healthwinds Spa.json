@@ -1,0 +1,156 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Healthwinds Spa",
+    "url": "/Attraction_Review-g155019-d186822-Reviews-Healthwinds_Spa-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "650 Mt Pleasant Rd ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4S 2N5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 12
+    },
+    "openingHours": [
+      "Mo-Th 09:00-20:30",
+      "Fr 09:00-19:00",
+      "Sa 09:00-18:00",
+      "Su 10:00-16:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/eb/4f/90/healthwinds-reception.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": "A serene, sophisticated retreat, Healthwinds is an ideal choice for health-conscious people who want both therapeutic benefits and relaxation in a spa.Disappear for an hour or a day from the chaos of your week and emerge feeling calmer and physically, emotionally and mentally recharged.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Professional Therapist: best massage!",
+      "text": [
+        "I visited Healthwinds today and I feel amazing already!",
+        "1) they are taking COVID very seriously. A prescreen document is required before your visit. Sanitizer is provided. The massage table was perfect. Areas were wrapped in plastic and well sanitized. Fresh white linens and white towel as well. Due to COVID showers and steam room not available (for obvious reasons) but look forward to being able to check them out.",
+        "2) My therapy was EXCELLENT. Sue was the therapist that worked on me today. Very knowledgeable about energy pathways and did a thorough assessment of my body both hands off and hands on before beginning treatment. ",
+        "3) I was given homework and exercises to do in the interim! I’m so thankful for professionals who share their secrets - it makes me want to go back for more!",
+        "THANK YOU SO MUCH FOR THIS AMAZING EXPERIENCE - I will be back ASAP."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2021 • Solo"
+    },
+    {
+      "title": "Relaxation!",
+      "text": [
+        "When I need to escape my frenetic life, I know that I will find relaxation here. Have never had a bad massage, because the owner is an Registered Massage Therapist and screens her staff carefully. The mani's & pedi's are second to none and it is properly cleaned and sanitized. There is always a cleaner on the premises keeping it pristine. And, I have been a client for 20 plus years!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Solo"
+    },
+    {
+      "title": "Fabulous attention to detail",
+      "text": [
+        "This is my go to spa but have been busy and haven’t gone for a while",
+        "So glad to get back- the staff so welcoming, the therapist really sorted my shoulder issue, the gifts I had them prepare for girlfriends holiday gifts were ready and beautifully packaged",
+        "The room was perfect temp, the heating blanket lovely and the music gentle and soothing",
+        "My therapist very knowledgeable and helpful- offering me water after the therapy",
+        "Sorry I’ve neglected my body for such a long time so booked for this week as well- will continue weekly to support my health and reduce stress",
+        "Kailee the owner has provided her diligent caring for years- and it shows everywhere in the spa"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "I love Healthwinds",
+      "text": [
+        "Healthwinds is my Go-to Spa for Therapeutic Massage, Facials, Mani-Pedis. The staff are terrific - friendly yet professional, the setting very clean and comfortable, beautiful teas and infused waters, relaxing music and scents.  Always a pleasure!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Solo"
+    },
+    {
+      "title": "Business Event",
+      "text": [
+        "We recently held a \"Wellness Afternoon\" for our management team at Healtwinds Spa.  The event was not only extremely well executed by the staff at Healthwinds, but Kailee Kline was extremely accommodating to us throughout the organizing of the event and the day itself.  The facilities are clean, well equipped, soothing and very well maintained.  Lunch was provided to us during our event and the food was plentiful and very tasty.  The staff was not only highly qualified, but easy to talk to and very open and informative about the types of treatments they were providing.  Thank you for a wonderful event Kailee and the Healthwinds team."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2015 • Business"
+    },
+    {
+      "title": "Unfortunately Disappointed",
+      "text": [
+        "When you go to the spa, one expects to feel welcomed and relaxed. After a long and stressful week, I booked a massage at this spa.",
+        "Upon arrival I was encouraged not to change in a rob and was not told to take advantage of the facilities (shower, steam). Furthermore, I was not even offered a beverage. ",
+        "I don't have any complaints about the massage therapist,  but there wasn't a heating blanket on the table and the air condtioner was on with a very loud fan. I requested the therapist to ask the reception to turn it off as it was very distracting. Overall, i had a medicore experience and would not return."
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2013"
+    },
+    {
+      "title": "Spa is too limiting a description; Healthwinds is sublime, attuned, caring zest home",
+      "text": [
+        "Virtually anyone with ten digits can hang a sign and claim to be a spa. For discerning people, those who appreciate being touched on physical, mental, emotional and even spiritual levels, then this is an epicentre of well being, renewal, refreshment, rest and rejuvenation. ",
+        "The owner is hands on, often at the front welcoming people. Her warmth infuses the space, which is meticulously clean and subtly elegant. Her integrity is impeccable: careful selection of products, and staff, to deliver on promises. Her staff is attuned and deeply caring. I leave always better, wondering why I didn't book a massage sooner than I did. (For those requiring deep work, see Katerina, a gift to athletes and others requiring deep work. And Victor is an extraordinary healer.) ",
+        "Namaste."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2013 • Solo"
+    },
+    {
+      "title": "Great Spa Experience",
+      "text": [
+        "I have been working a lot lately and have been finding myself quite stressed from work. My husband insisted that I go to a spa to relax and just get a way from it all. I decided to go to Healthwinds as I've heard great things from my girlfriend who goes there religiously. I went for an hour massage, manicure and facial and was blown away with the level of service that was provided. I have chronic back pain and the masseuse really took the time to help relieve the strain from my lower back as well as show me different types of stretches that I could do on my own that would help relax the lower back muscles. The facial left my face glowing all day long that even my husband noticed a difference. ",
+        "All in all Healthwinds is a true top notch 5 star spa experience. The staff is extremely professional and friendly. I would definetly recommend this spa to anyone who is looking to pamper themselves."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2012 • Solo"
+    },
+    {
+      "title": "Disappointing",
+      "text": [
+        "I was very excited to try this spa. I finally waited for 8 weeks for my next facial and made an appointment. Receptionist was very nice, spa is very nice, welcoming and warm.",
+        "However, I did not like that I was not told to change into a robe or use the steam room/sauna.",
+        "I came in 15 minutes early and simply sat waiting. I then asked the receptionist if I should change and/or if I could use the steam since I am in for a facial (it only makes sense).",
+        "She said no, I shouldn't. Then told me to change into a robe, later she told me to go into the steam.",
+        "The facial was very disappointing. Probably one of the worst ones for a very pricey price. The esthetician barely did any extractions. About 8. Then simply laid mask upon mask. There was no \"cleaning\" or the wand used to disinfect my face. ",
+        "Overall, the location is great with lots of parking (1 hr free). It is a very chic, modern, calm setting. I would never go back to this spa again. :("
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2011 • Solo"
+    },
+    {
+      "title": "Friendly, great location, and professional insights",
+      "text": [
+        "I have been having issues with my back and a friend recommended that I visit Healthwinds, and they certainly lived up to my expectations that were set based on feedback I heard.",
+        "When I called in to make an appointment, they were very friendly and able to fit me in to work around my busy schedule, which really helped.  ",
+        "As I have not had many massage therapy sessions in the past, I was somewhat skeptical about the outcome, but the level of professionalism and knowledge the staff at Healthwinds had really blew me away.  From the moment I walked in, I was very impressed with the level of service in the main greeting area, and the sheer size of the location (much bigger than expected).  My wait time was virtually non-existent and we started right on schedule.  The registered massage therapist (Lindsay) really made me comfortable and walked me through any key items and insights as we went, to ensure she met my expectations and listened to me.",
+        "I would definitely recommend Healthwinds to anyone looking for a great experience, professional staff, and a great location in the middle of Toronto!  Looking forward to my next session next week!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2011 • Solo"
+    },
+    {
+      "title": "AMAZING SPA!!! - LOVED EVERY MINUTE!!!",
+      "text": [
+        "I highly recommend this spa... if you are looking for a wonderful spa experience this is the place!!",
+        "I make regular trips to Healthwinds Spa, and I always walk away relaxed & rejuvenated.  ",
+        "The change rooms are clean and comfortable.  The staff is warm and friendly and always accommodating.   The waiting area/lounge is so calming with the sound of the waterwall (waterfall?) and faux fireplace.  The complimentary tea & apples are the perfect touch and really help set the tone of health & wellness.",
+        "On one of my visits the steam room in the ladies change room was broken, so the staff allowed me to use the one in the men's change room (it was a quiet day and there were no men in the spa).  I thought that was such great example of excellent customer service and quick thinking to keep a loyal customer/client happy :)",
+        "The owner is a lovely woman with whom I've had several conversations with.  I can see exactly so many of her staff have said such nice things about her!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2011 • Friends"
+    },
+    {
+      "title": "3&1/2 out of 5.",
+      "text": [
+        "Upon entering Healthwinds, the reception area is bright and lovely with a juice/tea/snack bar and a shopfront full of all kinds of spa soaps and sundries including robes, flip flops, scented epsom salts and essential oils (I really enjoyed looking at and testing these products).  Beyond the doors and into the spa waiting area, it is relaxing and zen-like, flanked on one side by a strange, albeit sooting electric fireplace and \"water wall\".  Spa music plays and there is a nice tea station behind one of the partitions as well as flavoured water, iced tea and apples to enjoy while you read magazines and wait for your services (I was quite impressed by how discreet and respectful the staff was when they had to pass through this area or refresh the beverages).  However, the change room was perplexing...though bright and minimalist (literally), it had almost no toiletries or spa products, save for the hand soap and hair gel in the common area and body wash/ shampoo/conditioner in the 2 showers.  It would have been nice to have some moisturizer or some of the other products out front showcased in here.  Change room was clean but could have been cleaner and would be much nicer if it was more spa-like instead of gym-like...could absolutely use an overhaul and some TLC. The steam room needs some updating but was a nice experience.  RMT Chris gave me a very attentive and thoughtful massage (75 minutes for $118), a perfect balance between her training and intuition and I would definitely re-book with her.  Value of services is very good, prices and array of services are excellent.  No free parking, you can park on the street for one hour or in the Green P parking lot in the same building (I paid $7.00 for about 2 hours). All in all, I will add Healthwinds to my list of spas, albeit further down on the list as one of my backups.  If this spa had a better change room experience and more amenities (i.e., sauna and whirlpool) my rating would be 4 out of 5."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2011 • Solo"
+    }
+  ]
+}

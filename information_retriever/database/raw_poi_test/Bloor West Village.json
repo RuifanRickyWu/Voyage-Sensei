@@ -1,0 +1,376 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Bloor West Village",
+    "url": "/Attraction_Review-g155019-d184781-Reviews-Bloor_West_Village-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bloor St. W. (between Jane St. and Runnymede Road)",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6S 1N8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 294
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/21/4b/3c/bloor-west-village.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Neighborhoods"
+  ],
+  "description": "Neighborhood with excellent schools and a popular playground particularly attractive to families with children.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Clean, peaceful and underrated community",
+      "text": [
+        "Very nice and clean community in GTA and Toronto City. There’re lots of underrated and unknown communities in Toronto like this. This is a Russian communities and almost all the Russian communities and supermarkets in Toronto are very clean and sanitized"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Solo"
+    },
+    {
+      "title": "Great vegan 🌱 option pizza",
+      "text": [
+        "This is the best vegan pizza I ever had! I have been to so many great vegan restaurants that I still go to, but somehow pizzas are not something I would reorder. Maybe it’s because they all try to imitate the original pizza by adding vegan cheese. This vegan pizza is loaded with veggies/roasted red peppers black kale and black olives are just a perfect combination that I am definitely coming back for. ",
+        "My friend had a regular pepperoni pizza and her comment was “delicious “. ",
+        "I also had a glass of organic Prosecco that was just the right note for me! ",
+        "There is also a coffee bar that I hope to try next time. ",
+        "I was told that this place opened recently and I would like to reach to the managers and owners of this place: please add more vegan options to your menu and at least one vegan dessert. ",
+        "Service was excellent as well. I definitely recommend this place!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Friends"
+    },
+    {
+      "title": "Very nice neighberhood",
+      "text": [
+        "Clean and save. Very good restaurants, bars and shops. The vibe is freindly and family oriented. Good place to go for a weekend stroll."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Many good food outlets",
+      "text": [
+        "Went for a walk through Bloor West Village to buy some specialty breads, meats, veggies, and fruit. The qualities offered are generally of an average to above average quality."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "My Neighbourhood!",
+      "text": [
+        "Lots of coffee shops, very close to High Park, and easily accessible by subway (get off at Runnymede or High Park subway stops) - what's not to love! Has a bit of a village feel. It runs from High Park west to Jane St. where there is another subway station."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019"
+    },
+    {
+      "title": "Nice street for shopping for the little things.",
+      "text": [
+        "I travel to Toronto three times a year and always head to Bloor St. West.  It has some nice little shops.  Not the high End you find downtown.  It has some nice bakeries, coffee shops, a couple of pubs.  A nice way to spend time in a big city"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Ukrainian Festival",
+      "text": [
+        "Lots of cute shops, coffee cafes, bakeries, and restaurants line Bloor West Village.  The day I visited the Ukrainian Festival was on. ",
+        "There were entertainment stages, one with traditional Ukrainian dancers and very colorful costumes. Lots of stalls selling everything from lemonade, pierogies, baked goods, traditional Ukrainian shirts and blouses.",
+        "I had the platter #2. It came with meat stick sauerkraut and pierogies. (I don't think grandma made the pierogies. They looked like they came from a grocery store). But the meat stick and sauerkraut were delish.",
+        "It was raining the day I visited,  but that didn't deter anyone from enjoying the festival."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Solo"
+    },
+    {
+      "title": "Eclectic Neighbourhood",
+      "text": [
+        "Bloor St West is an interesting area. Seems to come alive after noontime. It’s a little grotty with many shops empty but there are also some very cool, hip joints too. The Duffy Bar being one of the along with Daily Grind coffee shop. ",
+        "Gentrification of the area seems to be having an impact ... we enjoyed the hours we were there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "My Neighbourhood",
+      "text": [
+        "I live nearby and walk/shop Bloor West about once a week. Great bakeries, Lebanese takeouts, restaurants plus some mainline stores too. Very Ukranian atmosphere too. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "A relaxed part of Toronto",
+      "text": [
+        "On Saturday mornings Bloor West Village buzzes with activity as locals  go shopping for veggies, meats, pastries and other items. Me, I went to Bread & Roses to buy a fresh pie, and had a coffee and croissant. All was good."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Everything you need",
+      "text": [
+        "West Village is the place to see. It is aliive with culture and items of every kind. I love to walk the whole street from Bloor and Yonge to the wast as far as my feet can take me. I never get tired of walking, it keeps me young.I do not have to go shopping to walk in Bloor West Village. There is something for everyone. Please take your families, friends or yourself and  take a walh through Bloor West Village. Give yourself a break and take a look through this village."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Solo"
+    },
+    {
+      "title": "Nice neighborhood",
+      "text": [
+        "Lots of shops but not many restaurants really.  I finally found something at Jane Street - forgot the name but it was small but good.  Shopkeepers are very friendly!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Solo"
+    },
+    {
+      "title": "Both ethnic and trendy",
+      "text": [
+        "Bustling commercial and high-end resident area  with great small shops, businesses, LCBO and a librarian.  Mega Save Optical has lovely frames and lenses for as low as $120 .  Highly recommended.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "PERFECT!",
+      "text": [
+        "We stayed in this part of town and it was the best choice!  Was able to walk to some really fun (and delicious) shops.  The streets are nice and the homes were all so different.  Still don't understand how they get a car up the narrowest of driveways to the garage in the back yard!  Fun place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Good for food",
+      "text": [
+        "I like this neighbourhood, usually budget friendly, lots of student friendly places due to promiscuity with the University, you will find a very good diversity of good quality restaurants, best sushis and korean places of the city. Subway line all along is also very convenient. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Disappointing.",
+      "text": [
+        "Festival was supposed to start at 17:00 but by almost 18:00 most vendors were not ready to sell their wares and I was really looking forward to some perogies..We left after less than half an hour. Pretty disappointing.I doubt whether I'll bother to come to this disorganized festival again."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "A pleasant part of Toronto to visit.",
+      "text": [
+        "This is a European style street with shops, less stressfull than other similar well known areas like Chinatown or Yorkville. You can actually find parking too. Feels clean and prices are reasonable. It is my favorit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Lovely area with an array of little cafes, halal food options, bakeries and convenience shops ",
+      "text": [
+        "We stayed at an Airbnb not far from Bloor West Village n from the first evening we arrived in the country we were able to make use of everything that this area had to offer. Lots of food options including a few halal places. We found reasonabley priced fresh fruit from the greengrocer too. I was after some baking equipment and found the perfect place (Bulk Barn). Jane Subway station and banks were all handy to access. There was just so much to offer and it felt very safe and welcoming!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "small town feel!",
+      "text": [
+        "Love Bloor West Village.  So many small shops and lots to see.  The Bakeries are awesome with side walk tables.  Just feel the love in this area.  I am a people watcher so it is up my alley.  Just makes you smile.  oh and the treats are the best.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018"
+    },
+    {
+      "title": "A very nice neighborhood in Toronto",
+      "text": [
+        "I lived in the area for over 5 years. Beautiful shops, restaurants, close to subway. Many nice houses in the area.  Very close to High Park.  The area has an authentic Character.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Quaint neighbourhood stores",
+      "text": [
+        "I must confess that living in Bloor West Village means that my review is somewhat biased, but it does have a lot of food shops and places to sit and enjoy.  Give it a try on a nice sunny day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "One of the last of the old areas",
+      "text": [
+        "Getting gentrified, but still one of the last of the pleasant older neighbourhoods to stroll around, have a good coffee, browse family stores - Ukrainian, Polish and others. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018 • Solo"
+    },
+    {
+      "title": "A charming little street area for strolling around.",
+      "text": [
+        "Bloor west village is made up of many little shops, dining places and pubs on both sides of the street for many blocks of scenic strolling around.  There is also lots of public parking and the area is also accessible by TTC.  Good for family tourism."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Shopping, Eating, Strolling",
+      "text": [
+        "Bloor West Village is a neighbourhood in the west of Toronto, flanked by two subway stations (Jane and Runnymede) and offers something for everyone.  Cafes, restaurants, specialty shops (food, fashion, tea, stationery, kitchen gadgets), and delis.  All this in just a few blocks, so that the entire area can be covered on foot.  ",
+        "This area is especially attractive around Christmas and offers many opportunities for wonderful gifts.  Stroll along, have a coffee or a snack, and let yourself be tempted by the merchandise available."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Solo"
+    },
+    {
+      "title": "Wonderful district for Saturday morning food shopping......",
+      "text": [
+        "This is a wonderful area for food shopping on a Saturday morning.  Lots of great European type bakeries and Chinese fruit and vegetable shops.  Could use a few more places to enjoy a meal with friends as a few have shut down over the past couple of years and have not been replaced.  Good organic grocers as well"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "European style area",
+      "text": [
+        "Variety of cute little stores and look for unique things, bakeries, cafes, pubs and restaurants. on both side of the street. Nice for a stroll and to sop for a coffee and pastries or icecream or eat something new and different."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Couples"
+    },
+    {
+      "title": "Lovely Stroll",
+      "text": [
+        "If it is a sunny, winter day, a walk along Bloor West Village has its charm.From flower shops to the little shops and boutiques  you can find treasures here and there that you will not find in any other store. Along the way you come across a number of restaurants and coffee shops you can stop in and enjoy a lunch or dinner "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Family"
+    },
+    {
+      "title": "A great place to shop in west toronto",
+      "text": [
+        "If you prefer to shop at little retail stores instead of big supermarkets this is a great area.  There are many fruit and vegetable stores as well as butchers and bakeries.  Also boutiques and wine and liqure stores."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Fun Bakeries",
+      "text": [
+        "Fun area to get different food and see wonderful bakeries. In the summer you can cross the street and go to high Park, and all year there are many European restaurants with authentic cuisine to test you.All home n]made for the most part."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Family"
+    },
+    {
+      "title": "Love this pretty area",
+      "text": [
+        "If you are sick of downtown hussle and bustle and want to experiance a more authentic Toronto residential neighborhood, check it out. It still has MANY small mom and pop shops and since it is a Ukrain and Polish area, lots and lots of delicatessen and pastry shops. Homes are still kept in charachter with the 1920's and the trees are just as old, making it super pretty.",
+        "It has great schools, which draw many downtown to move here as it straddles the city core but is peaceful and clean.",
+        "It was voted #1 Toronto Neighborhood in 2018.",
+        "Check out Highpark (our smaller version of central park)",
+        "For food we love Camp off Jane. Book a reso since it is super tiny...FYI it does not take credit card.",
+        "For more younger demographic shopping, check out 'Bucks hard goods'. Has some great fashions.",
+        "Food, basically you do not need a grocery store. you can buy everything on bloor....and fresher."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Expert and Fun Team",
+      "text": [
+        "Physically, too narrow a space for the volume of people. Their coffee is most always fresh and rarely disappoints. ",
+        "The staff are the shining stars who make this location special. Way to go!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Pleasant outdoor shopping precinct",
+      "text": [
+        "This is what shopping used to be before malls! Bloor West has lots of shops and cafes of interest for both locals and visitors. We ate at a couple of diners for breakfast and enjoyed exploring the area while staying at a local AirBNB. Character and convenience!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Beautiful area to walk around.",
+      "text": [
+        "Bloor West Village between Jane St. And Runnymede Road has numerous restaurants, fruit and vegetable stores, clothing boutiques, coffee houses, banks, bakeries, etc.  It is right on the Bloor subway line.  You can get off at Runnymede if you are coming west from downtown and walk west to Jane Street. You can keep walking west on Bloor to the next subway stop, Old Mill and walk down behind the station and you will find a beautiful park that goes for miles along the river.. Etienne Brule park..  You can ask anyone to dirext you.  People in Toronto are very friendly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Fun and Artsy",
+      "text": [
+        "I attended some training that was held in a hotel located in Bloor West Village and walking to the location in the morning, I couldn't help but notice the many unique shops I was passing, thinking 'I've got to remember to check this out when I have time'.  So many artsy, handmade, interesting items in one small village, I wished I had more time to spend here. The food choices were plentiful and also unique in their own way.  To me, Bloor West was sort of a 'one-off' kind of place where new ideas are tried to see if they catch on. If you enjoy expanding your horizons, try this fun little spot when you visit Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018 • Business"
+    },
+    {
+      "title": "Amazing!",
+      "text": [
+        "I live there.  I love the range of things to buy and things to do. It's an amazing Village. Sometimes it's crowded but, Bloor Street has lots of festivals to entertain people."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "Weekend walk",
+      "text": [
+        "Bloor West Village is a neighbourhood with a commercial district along Bloor Street West roughly between the western edge of High Park and the Humber River.",
+        "The village is excellent for a sunny weekend stroll or shopping. It is also famous for the Ukrainian Festival held each September.",
+        "While you can still find many small, neighbourhood food vendors, clothing stores, and other stores, these places are being squeezed by rising rents and condo developments.",
+        "Best to enjoy it while it lasts. Toronto has no interest in preserving anything!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "It’s the village ",
+      "text": [
+        "This has been around for many years and the very best ",
+        "Come by shop eat and walk the wonderful village ",
+        "Excellent selection of eating places and shops ",
+        "The service e at this location is the best I have ever seen.   Wow",
+        "You will be back time and time again",
+        "Michael "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Business"
+    },
+    {
+      "title": "Great Neighbourhood",
+      "text": [
+        "A wonderful spot to walk and shop. Besides some of the major chains like Shoppers Drug Mart and DAVID's Tea, and all the major banks, there are many one-of-a-kind shops that are fun to explore. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Pleasant place to shop, kind of like one used to do in Europe",
+      "text": [
+        "Small shops, cafes, restaurants.  Easy to walk from one end to the other.  Unfortunately the village is changing and more and more large chains are moving in, forcing out the family owned stores.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Family"
+    },
+    {
+      "title": "one of not many places left",
+      "text": [
+        "I like the atmosphere there. Feels good not to be in concrete jungle between high rise buildings. It is old way neighborhood. Low buildings, tons of boutiques instead of regular stores.With interesting clothes , jewelry. Little restaurants, coffee places.",
+        "Close to High Park and Old Mill park.",
+        "Few pay parking places along the Bloor Street. Parking in residential streets is timed. Only 1 hour.",
+        "When you walking there go to Shoppers Drug Store. It was movie theater long time ago and since now it is historical building they left it as it was inside. You can watch few minutes video on the screen of history how was it built.     "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    }
+  ]
+}

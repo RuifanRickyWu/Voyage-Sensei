@@ -1,0 +1,263 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Step by Step Tours",
+    "url": "/Attraction_Review-g155019-d25376907-Reviews-Step_by_Step_Tours-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 Walmer Road, Unit 805",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5R 2W4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 28
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/71/f0/ac/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Cultural Tours",
+    "Historical & Heritage Tours",
+    "Walking Tours",
+    "Private Tours"
+  ],
+  "description": "Erica is the enthusiastic founder of Step by Step Tours, a walking tour company based out of Toronto. She completed her undergraduate in engineering at Toronto Metropolitan University before founding Step by Step Tours. She previously worked as a tour guide while she was a student and has a passion for understanding the built environment and creating shared community-based experiences. Follow us on Instagram @stepbystep.tours to keep up with the community or Facebook (Step by Step Tours).",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Incredible personalised tour!",
+      "text": [
+        "Amazing tour by Erica. It turned out I was the only booking for the day yet Erica didn’t cancel or try to rearrange so I had a very personalised tour! Only spent a couple of days in the city which included a day in Niagara so I really wanted to see as much as I could in the time I had. Erica was able to walk me from one end of the city to the other with lots of things I would definitely not have seen or understood otherwise. Also lots of tips and recommendations for things to do and places to go and set me up perfectly for lunch in the market. Super friendly and put up with my inane questions with patience and humour!",
+        "Can not recommend highly enough. Would give more than 5 stars if I could! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Greatest hits walking tour, Oct 08, 2023",
+      "text": [
+        "Amazing guide Erica and excellent tour!",
+        " Lots of fun, history  and warm memories.",
+        "Definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "A Fascinating tour with Erica",
+      "text": [
+        "We had a lovely experience on Erica's tour! Exploring Toronto's rich history and local culture, discovering iconic landmarks, and leisurely strolling through the city was both enlightening and enjoyable. We highly recommend this tour to anyone interested in not only Toronto's history but also its vibrant contemporary scene."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "The BEST walking tour in Toronto aka muddy york! ",
+      "text": [
+        "My wife and I booked this tour as a fun activity to do with family in town, and as both of us aren't originally from Toronto we figured it was a great opportunity for us to be tourists in our own city as well. Our plan worked out perfectly as we all had such a great day. Erica was a fantastic guide providing a plethora of knowledge of the city while making the day super fun as well. The walk was at a very nice pace (not too fast while not lingering too long either) and Erica is the friendliest person ever. Would absolutely recommend the greatest hits tour as well as any she does!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "As Torontonians and Seniors, we wish we'd learned about our great city's hidden historical treasures sooner!",
+      "text": [
+        "Our tour guide, Erica, is very knowledgeable in the many facts and research she must have done to make each stop extremely interesting. Her enthusiastic, positive personality and love for her city shone through at each stop!  This 1 1/2 hour tour gave us a taste of more to come, and we would strongly recommend both 'locals' and 'visitors' to take this WALKING tour (walking, rather than riding a tour bus allows one to enter the buildings, not just drive by).  You don't have to go to Europe to see history!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Our experience",
+      "text": [
+        "Very happy with history, sightseeing, friendliness. Thank you",
+        "You should not force to write 100 characters, this is ridiculous "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Great!",
+      "text": [
+        "Our guide Erika was very personable and a pleasure for the entire tour.  Her tour offered a good introduction to Toronto and took us to places that we probably wouldn't have experienced otherwise but were very unique and interesting. She added lots of historical details that we learned and appreciated.  It was definitely a fun time."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Brilliant 2.5 hours",
+      "text": [
+        "The tour with Erica was a great way to find out about Toronto, we would have missed so many things without it! We learnt a lot from a very knowledgable guide and would recommend it to everyone,"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "My husband and I had a great time on the walking tour of Toronto. We learned a great deal about the history of this city. We had wonderful photo ops along the way. It was a great way to start off the first day of our trip. Definitely recommend. Just make sure to wear comfortable shoes as it’s a lot of walking."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing tour, best one I've been on!",
+      "text": [
+        "Erica is a super knowledgeable, friendly and a fantastic guide! She gave lots of useful tips for the rest of my stay that I would never have known as a tourist. The tour finished in the market just before lunch which is ideal. ",
+        "I can highly recommend this tour to everyone! Thanks Erica :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Magnificent!!",
+      "text": [
+        "Very fun tour, 10/10, Erica was awesome! Thanks for helping making our trip to Toronto all the better  :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Family"
+    },
+    {
+      "title": "Fun and Interactive Tour for All",
+      "text": [
+        "Erica is very upbeat and passionate about what she's talking about; in a sense she doesn't leave you any choice but to have fun! A great way to augment the experience of seeing the city, especially on a nice day. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Solo"
+    },
+    {
+      "title": "Very enjoyable and in-depth!",
+      "text": [
+        "Thank you for showing us some of these Lovely learning about these amazing hidden gems that you normally don’t hear about Toronto! I’m not going to spoil them here but that was an amazing tour, well paced and very fun :) thanks!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Great intro to Toronto!",
+      "text": [
+        "Erica was the perfect choice to guide us through Toronto's iconic sites.  Her tour is full of history, stories, architectural and cultural information without being overwhelming.  She is thoroughly versed in Toronto and was able to answer many other random questions our group posed.  The tour was just the right length and ended at the St. Lawrence Market at lunchtime!  Thanks for a great morning! "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Fun & Impactful Tour!",
+      "text": [
+        "I really enjoyed this tour! Our guide was super knowledgeable and professional. I was pleasantly surprised by the variety of things we learned along the way. It’s a great length and my personal favourite was the market district and ending at St. Lawrence Market! Highly recommend - this is a unique and fun way to see the city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Erica is a great guide!",
+      "text": [
+        "I live in the city but decided to do the tour to learn more about it and WOW! There was so much I didn’t know!",
+        "Wanted to say a big thank you to Erica she was energetic and made the tour exciting and fun for a Torontonian! Highly recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "Great Value",
+      "text": [
+        "Erica was very well prepared, enthusiastic, and adaptable.  It was clear she had done her homework, was flexible and adaptable and the conversations two way.  The time flew by which is always a great sign! ",
+        "Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Interactive exciting tour",
+      "text": [
+        "The tour guide was friendly and kind keeping us entertained throughout the entire tour. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Very informative tour",
+      "text": [
+        "A very informative and fun tour, we had a great time and learned so much about Toronto. We were there for only two days and Erica not only provided us with information about Toronto's history but gave us some valuable tips on things to see and do in the short time we were there. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Great way to learn Toronto",
+      "text": [
+        "Erica was wonderful! Super friendly/engaging/professional - really enjoyed the tour and appreciated her recommendations!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Excellent and fun tour!",
+      "text": [
+        "Great experience, Erica was a knowledgeable and passionate tour guide. Enjoyed all the stops and was also given good recommendations for other things to see."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fantastic intro to Toronto",
+      "text": [
+        "Absolutely fantastic tour! Great way to discover Toronto s various neighbourhoods and history. Erica was a fountain of knowledge! I loved the fun facts, trivia and recommendations. Would 100% recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Good balance of walking and story telling. A must do!",
+      "text": [
+        "Great tour! Erica's enthusiasm is contagious! A pleasure to chat with. As someone who likes to stand / lean on things / isn't that much of an athlete, I was pleasantly surprised by the amount of stops that we made (not just all walking like other tours that I have been on!) and really enjoyed listening to all the exciting history that Toronto has to offer. Highly recommend on your next trip to Toronto! Will be telling my friends who visit to take this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Highly Recommend for Locals Too!",
+      "text": [
+        "Loved this experience! Learned so much about my own city! highly recommend for my fellow Torontonians. She is a great communicator and holds the attention of the crowd super well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Orientating in Toronto with Erica",
+      "text": [
+        "Erica was a knowledgeable and FUN guide! Taking this tour optimized our time in the city afterwards as we got to know a bit about many different neighborhoods."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great tour to see Toronto",
+      "text": [
+        "Small group, so we had a chance to ask questions, exchange views and feel we had a special time. Erica had great knowledge, that she passed on in a timely and relevant way and we got to see some fantastic sights, all done in a relaxed way."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Do it!",
+      "text": [
+        "Great tour that hits all the highlights.  Very personable guide willing to go above and beyond to make the tour enjoyaable."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Highly recommend this tour of Toronto",
+      "text": [
+        "I just want to say thank you to Erica for a great tour of Toronto. Erica’s enthusiasm and wide ranging knowledge made this tour special and very inclusive. I’d highly recommend this tour to both newcomers to Toronto and seasoned Torontonians as Erica has so much insight into this city that no doubt goes under appreciated."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Solo"
+    }
+  ]
+}

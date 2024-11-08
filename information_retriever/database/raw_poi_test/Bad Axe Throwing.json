@@ -1,0 +1,352 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Bad Axe Throwing",
+    "url": "/Attraction_Review-g155019-d8390339-Reviews-Bad_Axe_Throwing-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "346 Ryding Ave Unit 201",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6N 1H5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 396
+    },
+    "openingHours": "Mo-Su 08:30-23:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/15/8a/e1/happy-30th-from-bad-axe.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Game & Entertainment Centers"
+  ],
+  "description": "Bad Axe Throwing Toronto is located in the heart of Junction area, near Runnymede & St. Clair Avenue West. We're just down the street from Walmart. We host corporate events, birthday parties, bachelor and bachelorette parties, or people looking for a fun outing with friends. It's a fun and exciting environment while learning to throw axes. Take your typical night out up a few notches by whipping perfectly sharpened axes through the air at wooden targets to challenge your precision and skill in a whole new way. You can bring your own food & drinks (this is included in your admission fee). Our Toronto facility was designed for memorable, fun-filled times because it’s where being bad is totally acceptable--and always feels good, even if your game isn’t strong. Each space includes fenced-off throwing lanes where an expert axe throwing coach will guide you on proper form and technique to really impress your friends.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Great time!",
+      "text": [
+        "Great time! Rogue was fantastic!  Super outgoing and made it a great time!  Knife throwing was the best part!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022 • Family"
+    },
+    {
+      "title": "Sunday Afternoon fun",
+      "text": [
+        "First time trying axe throwing and had a great time.Found it odd satisfying when I hit the target! Staff was helpful in coaching and encouraged us.Next time I will bring water as none was available for sale. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Family outing",
+      "text": [
+        "We had a very good experience at Bad Axe throwing on February 22nd at walk-in time. It’s a nice welcoming place with a very pleasant smell of wood once you enter the room. The staff was very nice and accommodating, coming to us with some advices on effective throwing during our stay. Thank you for making our special family time such fun experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Family"
+    },
+    {
+      "title": "Great coaches. Great space",
+      "text": [
+        "What else is there to say? Great environment, the coaches are awesome and very patient. I brought my cousin here from out of town and they loved it too!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Friends"
+    },
+    {
+      "title": "Awesome way to spend the afternoon, go for the ‘Clutch!’ Shout out to Ryan our Chief",
+      "text": [
+        "A great time and fun way to celebrate an event. Ryan has great tips to improve your throw and get you on target, listen. I’ll be back next week!",
+        "Thanks"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Bachelor Party",
+      "text": [
+        "Went there as part of a bucks party. 9 of us in a mixed group of Australians & Canadians. Our host/instructor was extremely well organised and stressed safety to us. Once we got used to throwing he conducted a few competitions in 2 teams which added to the experience. I think we booked for 5.30pm and it was a little difficult getting there in the peak period. Better planning by us would have been better so allow time if travelling from the city. Great time & highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Good times to be had",
+      "text": [
+        "Great instruction, clean venue, and throwing axes.. It doesn't get much better. BYOB (wine and beer.) And bring your own snacks."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "AMAZING FUN EXPERIENCE",
+      "text": [
+        "Visited Bad Axe Throwing in Vaughan for the 1st time.  Had a blast! Our instructor Mark was incredible.   Amazing host and very knowledgeable.  Kept us safe and was engaging us our entire visit.  Taught us some great axe throwing skills.  ",
+        "Highly recommend if you've never tried this before."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "The most fun!",
+      "text": [
+        "Had a great time, staff was so friendly, and very helpful! In addition to learning how to throw an axe, also learnt to can’t recycle a pizza box!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Bad Axe Throwing, WINNIPEG, Birthday bash",
+      "text": [
+        "Had a great time! Fun! Big Dan knows his stuff and good at keeping things moving!  Highly recommend!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Bad Axe, Good fun",
+      "text": [
+        "I brought my group for a team building exercise. We brought in pizzas and had a great time! We set up teams and had some friendly competition. All in, it was a very good experience.Thanks,"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Business"
+    },
+    {
+      "title": "Amazing",
+      "text": [
+        "This was a great experience. The instructor was on point, so helpful and knowledgeable. Went with a group of coworkers and it was so much fun. Can’t wait to go again and I’m even thinking of joining the league"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Business"
+    },
+    {
+      "title": "Great experience! Way more fun then bowling! And you dont get soar!",
+      "text": [
+        "Was very hesitant at first, but after the owner went through a live demonstration showing the form and fitment, it made it much easier to stand up on line and throw a hatchet! Fun for all people!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Business"
+    },
+    {
+      "title": "Awesome fun",
+      "text": [
+        "So much fun and our coach, Anthony, was terrific.  I would love to go back and Am definitely recommending this place to everyone."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Fun family or group activity.",
+      "text": [
+        "Family outing with our 19 year old son and 21 year old daughter.   This is our second visit.    We came last year for our son's 18th birthday celebration with extended family.    The staff are friendly.   Safety and skill instructions are very clear.  We had a fun time and everyone had sufficient turns throwing the axes to improve their skills.    My skill seemed to be chipping chunks out of the target.      Had a great time and would definitely do this again.    "
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "Fun for everyone!!!!",
+      "text": [
+        "The evening was a work/team building event and everyone had a fantastic time. Great place for fun, laughter and a little stress reliever.I'd do it again with work, friends and family."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Business"
+    },
+    {
+      "title": "Great Tram Building",
+      "text": [
+        "Awesome 👏 time! Hosts were amazing and made it great. With their enthusiasm and great work made our trip fantastic."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Business"
+    },
+    {
+      "title": "Girls night antics",
+      "text": [
+        "A great option for a twist on girls night. We arrived for the Friday night drop in and Mark did a great job of explaining how it all works and setting up some fun challenges for us to do. Would definitely come back and do this again.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Amazing time and great stress reliever",
+      "text": [
+        "I had heard about axe throwing through the media and was a little hesitant and fearful at the beginning. Within the first five minutes of being there all of those fears and anxiety were laid to rest. I went with a group of 12 friends and we all had a blast! We had had an amazing coach (Patrick) who gave us great tips and techniques as well as encouragement throughout the whole night. Relaxing and cleaning environment. We’ve caught the big and will definitely be back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "I axe you and you axe me",
+      "text": [
+        "Great event for 8 people. Well organized, loved",
+        "the tournament, good coaching but a much bigger challenge than I thought. Highlight— anyone can try to do this—- beer is available its a fun night for any group."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "Today was my first time doing axe throwing and I had so much fun. Going into it, I was a little skeptical but the awesome staff Jane and Matt made it a wonderful experience. I went from aiming anywhere but the board to succeeding with some great hits. I had a great time and loved how they broke down the time into practice, training then to competing against each other. I would come back for sure. Thanks again Jane and Matt!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Lots of fun",
+      "text": [
+        "It was a good time, great instructions and a good way to let loose.  I would definitely recommend this experience. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Business"
+    },
+    {
+      "title": "Great night out at Bad axe throwing",
+      "text": [
+        "We had a great night out at Bad Axe Throwing. The coach gave great pointers, and held some fun competitions. Highly recommend it. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Better than expected",
+      "text": [
+        "During business trip you always have a 'team building' and they are always unique.  We were not sure what to expect, but it was a lots of fun for both the men and women (different sizes of axes)!  It was a great Corporate business team building exercise with us splitting into teams.  We were also laughing at how competitive we became.  Great novel idea and something I would encourage as a Team Building night after one of your long day sessions with your group.  They served plenty of liquid courage and we ordered food in.."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Business"
+    },
+    {
+      "title": "So much fun! `",
+      "text": [
+        "We hosted a 40th birthday party here. Host was awesome and all 15 people had an amazing time! Highly recommend doing this. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Lot of fun !",
+      "text": [
+        "That was a very nice experience, we had a lot of fun, the coach really helped us out as it was our first time throwing axes. We did 1h30, works out perfectly for us. Will highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "First Time Axers!",
+      "text": [
+        "So much fun!  Folks at Bad Axe helpful and patient...few throws and you're good to go.  Would definitely do again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Axe Throwing",
+      "text": [
+        "We had a fun, competitive night with friends. The host was good and brought good energy, enjoyed the night overall"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Great for everyone",
+      "text": [
+        "Went with a group for a birthday celebration and had an awesome time. Our instructor Niles was a blast and would definitely go back again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Bad Axe fun",
+      "text": [
+        "Great fun team event and ideal for relaxed competiveness on the day. Hosted well and recommend for something different to do."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Business"
+    },
+    {
+      "title": "Great expernience axe throwing",
+      "text": [
+        "Loads of fun and great coaching from Patrick McCauley.  There were 9 of us and we had a blast.  Its much harder than it looks. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Business"
+    },
+    {
+      "title": "axe kickers",
+      "text": [
+        "Great place, staff was excellent and facility was clean. would recommend this place to family/friends!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Business"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "Very excellent place to have fun, I’ll repeat the experience for sure. The staff very friendly too . "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Superb Experience!",
+      "text": [
+        "I attended Bad Axe in Vaughan with friends and was blown away by the incredible service. My friends and I were walk-in guests, however Mark went ABOVE and beyond to ensure our experience was memorable. Although we were there for an hour, Mark came by to suggest games, correct technique, and make us laugh. We all left extremely happy and we are already planning our next event there. Thank you Bad Axe Vaughan and Mark! Overall, 11/10 rating ! :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Bad Axe Throwing not so bad",
+      "text": [
+        "Had an amazing time! I would recommend a lot of my friends and colleagues here. The staff was very educational and friendly!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Business"
+    },
+    {
+      "title": "Amazing time for a good group of friends",
+      "text": [
+        "Jennifer was great! We all came in never have done axe throwing and all played well. Was nice having a few different games to rally threw. All in all I will recommend and return. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "WHAT A GREAT NIGHT👍👍👍⚒️",
+      "text": [
+        "We went there for my husband's birthday and had blast. The instructors are amazing. It's great for everyone. What a fun night out. We got pretty competitive and laughed all night. Definitely recommend it to everyone. We are already talking about when we can go back again.👍👍👍👍"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Friends"
+    },
+    {
+      "title": "BAD AXE THROWING",
+      "text": [
+        "Patrick was a great instructor.  The games he set up made the  event a lot of fun.  Highly recommended                           .:):):):)::):)"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018 • Business"
+    },
+    {
+      "title": "Had a great time at Bad Axe throwing",
+      "text": [
+        "We had an amazing time! Neil was a great instructor and helped us compete with each other and also showed us some trick shots. Would definitely recommend this to groups that want something different and want to have fun. Thank you Neil! You were a blast!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Best laughs in years",
+      "text": [
+        "Great place. I didn't think I was going to have fun but I did. best laughs in yearsWe are planing in going back with more friends ...game time"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    }
+  ]
+}

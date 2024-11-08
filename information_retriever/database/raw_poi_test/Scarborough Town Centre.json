@@ -1,0 +1,365 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Scarborough Town Centre",
+    "url": "/Attraction_Review-g155019-d4296772-Reviews-Scarborough_Town_Centre-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "300 Borough Dr",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M1P 4P5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 131
+    },
+    "openingHours": [
+      "Mo-Sa 10:00-21:00",
+      "Su 11:00-19:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/f8/b9/ae/entrance-7-at-scarborough.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Shopping Malls"
+  ],
+  "description": "Located at the 401 and McGowan Road, in the east end of Toronto, STC proudly boasts over 200 stores and services, 30 dining options and a multi-screen Cineplex all in one location. Also accessible from the TTC Scarborough line, this multi-level urban shopping centre is a shopping destination with a dynamic retail mix, including a flagship Sephora, H&M, and Aritzia as well as Zara, Michael Kors, lululemon, Victoria's Secret. Dining options include Moxie’s, Scaddabush, Jack Astors, Kwan Dim Sum, Chipotle, Starbucks and more. STC is proud to be a destination for tourists and is delighted to reward tourists for their choice to visit STC.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Not good",
+      "text": [
+        "It's over run with immigrants. Not a single white person in sight. Food court is way overpriced and no seats available around meal times"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2024 • Solo"
+    },
+    {
+      "title": "Typical urban mall",
+      "text": [
+        "Definitely a typical urban big city shopping mall. Nice selection of shops, boutiques, movie theater and public bus location. Completely wheelchair accessible with elevators. Plenty of stalls P ace for turning radius."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2024 • Solo"
+    },
+    {
+      "title": "BEEN TO MANY TIMES",
+      "text": [
+        "Been here many times. As usual bought some food and some clothes. Visitors might like the area more."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Scarborough Mall",
+      "text": [
+        "Good Mall at Scarborough with major brand outlets and a good food court. There's even a Walmart in the Mall"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Nice mega mall",
+      "text": [
+        "Never seen a place like this before ",
+        "It’s sooooo awesome.",
+        "My first time ever to Canada; this time in the winter season.",
+        "My recommendation for anyone to visit this awesome place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Solo"
+    },
+    {
+      "title": "Dirty town centre",
+      "text": [
+        "Dirty bins filthy pavements covered litter",
+        "Negative experience for shopping",
+        "Looks likecscarborough council are not spending money on cleaning ?"
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2022 • Couples"
+    },
+    {
+      "title": "Spent a weekend afternoon for under $20",
+      "text": [
+        "Parking is ample.Some good stores here like Muji and Walmart.Can start with Jollibee with tasty fried chicken and finished with a cup of Tim Hortons coffee or pastries from St.Germaine bakery(originally from Vancouver).Can spend an afternoon here for under $20."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Where I hung out in my youth.",
+      "text": [
+        "The Scarborough Town Center or (STC) was the hang out spot for teenagers in the 80s and 90s. You can still see teenagers there but it’s not like when I grew up here.",
+        "The mall in the pre-2000 era was a typical mall with flag ship department stores, a food court and movie theatre. Well it still has those things but not quite like before. It’s a posh high end place now. Even the Walmart has moved upscale since it was added.",
+        "All the record stores are gone (obviously) and so are the major department stores like Eatons and Sears. HBC is still hanging in there. Now the posh items are in their own stores and all the cool weird stuff (magic shop, they had one and a pet store) are all gone. What’s left. Just shopping. ",
+        "It’s not what it was. For some that’s good and others not. There is no reason to go here unless you’re shopping for high tickets purchases. Walmart is accessible from its own entrance outside the mall and the movie mega-plex too. Doesn’t much appeal to me anymore but maybe I’m just too old."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2022 • Solo"
+    },
+    {
+      "title": "Awful",
+      "text": [
+        "Not a very nice area. The people are inquisitive. Best avoided. Went there for work - one of the worst decisions of my short life. Stayed in a b & b - not very nice people. A town with absolutely nothing to do - to put it politely. Unforgiveable. Unforgetable. Far from my home. Never to return. Why would someone ask me my name ?  This is me being my most polite."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2020 • Solo"
+    },
+    {
+      "title": "Your neighborhood mall",
+      "text": [
+        "Everything you need and more.Fashion.Food.Books.Home decor.Right off Hwy 401.Ample parking.Near lots of restaurants and food trucks."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "My Go-To Mall",
+      "text": [
+        "I am in or around this mall a few times a week. It's a habit to just be there. Great shops. Terrific new food court. Loads of parking, although recently a huge chunk was lost to a massive garage demolition going on right now. Wondering what's going to go on there? Looks like a bombed out city at the moment."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Solo"
+    },
+    {
+      "title": "Shopping",
+      "text": [
+        "Not bad to spend a few hours walking around shopping. Some decent shops and restaurants .The only negative Is there was quite a bit of litter on the streets."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Summer shopping",
+      "text": [
+        "Lots to do... shopping, eating, beauty salon. Places also to just sit and relax. Something for all age groups. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Nice shopping mall",
+      "text": [
+        "One of my preferred shopping malls in Toronto. I usually find a lot of discounts at this mall as well as a lot of options."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "Great Mall ",
+      "text": [
+        "Lots of parking albeit you better get there early; tons of great retail outlets and a food court with lots of selection. You'd better be careful though because you can get distracted and even lose track of time. Remember where you parked!! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "Lot of shops",
+      "text": [
+        "There are a lot of shops around and plenty of things to do in the area. You can find something to do anyway."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Getting better all the time",
+      "text": [
+        "Best improvements in the last few years. Has almost everything even some high end stores.Plenty if parking and transit as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "A good place to spend half a day",
+      "text": [
+        "I watched a movie and had lunch here a few hours ago. The mall is well located with many parking lots. The food court serves a wide range of cuisines. Quite a good place to go!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Largest regional shopping Centre in Toronto’s east end",
+      "text": [
+        "It is the largest regional shopping Centre in Toronto’s east end & highway 401 ",
+        "More than 250 shops (incl. Shops like H&M, Zara, Michael Kors, Adidas). It’s Good for the People who lives in East end of Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018"
+    },
+    {
+      "title": "Scarborough Mecca",
+      "text": [
+        "This mall is average at best. I feel that the movie theatre warrants a lot of the traffic. I have lived in Scarborough most of my Canadian life. There are a few places to shop but for young people it is alright. For places to eat Moxies, Milestones are good choices. The food court itself has the typical franchise choices. I am not really a mall person so I have a different view of it. There are restaurants outside the mall such as Canyon Creek, Boston Pizza, Swiss Chalet in walking distance."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2018"
+    },
+    {
+      "title": "STC=MY IMPORTANT THING IN LIFE!",
+      "text": [
+        "Came to STC since 1990 May when I arrived Toronto since I live  McCowan/Steeles. It is public transit accessible and convenient. This mall has everything you need especially Walmart.  Food court is great since lots of customers and food is fresh as a result. The security guard is excellent that back in 2004 when my son lost his way when he is 4 years old  and they beside him all the way.  (Thank you so much)I always go to the mall at least once a week or more often. There is lots of security guard patrol and a police station there . I always go with my old aged mom we can walk around have breakfast and relax ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Solo"
+    },
+    {
+      "title": "Quick Bite",
+      "text": [
+        "Went for lunch the other day and I'm always impressed with what they've done to their food court. Very well done open concept. Lots of choice along with quick and healthy options make this venue a treat for both the eyes and tummy. :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Solo"
+    },
+    {
+      "title": "Scarborough's Largest Most Accessible Mall",
+      "text": [
+        "As a native of the Philippines that's pretty much dominated by mall culture (SM, Robinson's, Ayala, etc.), I know what any large mall should have. Factor in the Canadian culture, weather, and economy, STC would feel the closest to a grand mall in the Philippines. High ceilings, sprawling paths and although only two floors high, the floor area is sizeable and parking is abundant. On a good weekend, this place can get pretty packed. Access is easy via private car or public transportation. Shop till you drop, eat till you're full, come here and leave satisfied."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018"
+    },
+    {
+      "title": "I regret shopping at the Scarborough Town Centre",
+      "text": [
+        "I was at Scarborough Town Centre (STC) onNov. 11/18.  The parking was jammed at STC because of construction.  As a result, there is much less parking available.  There is so many cars looking for parking and with all the pedestrians crossing, it was not only congested but also quite dangerous.  There was no one to direct traffic, to help pedestrians cross safely nor to help drivers to find parking.  When I returned from my shopping after 30 minutes, I found a ticket on my windshield for $30.  I called STC on Nov. 12/18 and even though I asked to speak to management I was directed to Security. The security manager (K**e) tells me that the ticket was issued because of a complaint (I asked to see the documented complaint) of parking on hash marks.  He claims that they watch everything from cameras.  I submitted to him that rather than watching the cameras, send people out to help people find their way safely (both pedestrians and drivers).  It seems there are enough resources to go out and slap on tickets just not to do the services that people actually need.  I wrote and asked the property management I be reimbursed for this ticket.  After over a week I had still not heard a response and wrote back to ask again to respond.  As of the writing of review, I had not heard back.",
+        "I will not be shopping there going forward.  There is plenty of competition that I would recommend to those who want to shop in the area like Pickering Town Centre.  As well, take a busy mall like Yorkdale where there is support for parking with mall personnel going around to help.  As well, they tell you how many spots are available in each area and in the decked parking, there is actual lights above the parking spots that indicate if it is available or not.  What a fantastic idea. ",
+        " I also think that this experience will perhaps reinforce the fact that online shopping is the best way to go to avoid all the hassle."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2018"
+    },
+    {
+      "title": "Upscale mall.",
+      "text": [
+        "The renovations of a few years ago are all done and the place is unrecognizable from my youth. It was the hang out spot for many teenagers during my youth and I guess it still is, but it looks more posh with many upscale vendors now when it was more working class shopping 20 or so years back. Progress... gotta move on I guess. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "A Gem To Visit",
+      "text": [
+        "STC is a very good place to visit whether it be or shopping, movie going or to enjoy a great selection of restaurants & great prices !  The Centre has stores for all ages, kids, teen, adults & seniors. Lots of places to sit, people watch, wait for your fellow shoppers, eat, enjoy the cinemas or special attractions.....I hear Santa is coming soon.",
+        "Located in the East end of Toronto, with ample parking, transit services, banking & beauty salons. Very much family oriented with good security & visually inviting. Now go shop !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Solo"
+    },
+    {
+      "title": "Huge Food Court",
+      "text": [
+        "We went for lunch and checked out a lot of shopping. Shopping opens at 10am but some food vendors open a bit earlier. Parking near entrance 1 was busy and cramped. Easy to get lost so take a photo of where you park and your entrance."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018"
+    },
+    {
+      "title": "Scarborough finally included in Nuit Blanche!",
+      "text": [
+        "We always take the go train or subway and go downtown for Nuit Blanche, but this year we were so happy to hear that Scarborough would be included in the excitement. It did not disappoint. Parked at the mall had a nice chat while in line at Timmie's. We saw RISE in the loading dock at City Hall and wow there was a singer there named Brooke and she was fantastic. The movies on the side of the rotunda and the comments projected on the front of Scarborough Town Hall really connected. The display of the globe balloons were still in the mall yesterday. One of the performance artists was downton last year and her aboriginal stories are captivating. My favourite display was in Frank Faubert's woods the trail of lit up hand sculptures was ethereal. Bravo to all the artists and performers who really did such a great job and I hope that next year there will be even more participants."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "They Got It All For You",
+      "text": [
+        "This Mall has everything in it, You dont have to go out you can dine, buy things, and even watch a movie inside the mall.It has recently been renovated which made it become even larger.",
+        "It is also attached to the subway which is an advantage to the public who don't want to use their vehicles."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "Great walk for first Nuit blanche ",
+      "text": [
+        "Grabbed some pumpkin spice latte and walked around the mall and civic centre looking at Nuit blanche displays. The mall can get very very busy and congested around holiday season. Great mall for walking, shopping and people watching. They upgraded their food court so there are many options now. Can't wait to go back "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "Unpleasant Shopping Experience",
+      "text": [
+        "Security and plainclothes men manning the STC Mall should be disciplined to properly and politely deal with the guests. I am a regular customer and have spent a considerable amount of money shopping and dining for many years now. An unpleasant incident recently left me furious and indignant. Am considering other nearby malls for my future shopping needs-"
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Good shopping time at STC",
+      "text": [
+        "Haven't been to STC for years and I made a visit to STC before the lock down of the city. There are shops like Walmart, Dollarama ...etc and good food court at STC. Recommended to visit during weekdays when it was not very crowded."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Grey Hound Bus Terminal",
+      "text": [
+        "I had a horrible experience looking for Grey Hound Bus drop off.  There are no signs or clear pathways."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Lots of walking",
+      "text": [
+        "Has both municipal and provincial government offices.  Adequately marked.  Must pay for parking unless willing to walk a fair distance from the shopping mall parking lot.  Shopping mall itself is large, great selection of stores from inexpensive (Walmart) to high end (People's Jewelers).  Also has a Cineplex movie theatre."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "A lively mall.",
+      "text": [
+        "Fairly big mall located in Scarborough, easily accessible by train, bus, etc. It has a Walmart and various other stores, namebrands and otherwise. Was there on a weekday afternoon but lots of people. Nice and clean, lively vibrant atmosphere. An excellent food court with all types of food, among them five halal eateries. Super place for shopping or while away one's time."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "Killing Time",
+      "text": [
+        "The One-Stop Shop Mall! Everything is there. You’ll find reasonable prices of fashionable clothes. Gadgets, American Eagle, GAP, Tommy HIll, International Clothing, Old Navy, Calvin Klein, huge foodcourt... so many facilities and stores to choose from. Washroom are all clean!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Solo"
+    },
+    {
+      "title": "Best place for shopping ",
+      "text": [
+        "There are a lot of stores to go it's not that expensive . Lot's of options in the food court .I like it better then eaton centre. I visit a lot since it's near my house and it is not that expensive. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "Lots of great stores",
+      "text": [
+        "This mall is my go to mall because I live right next door. I can walk over but I usually park by the Bay. This mall has all the usual stores that I like to shop at-Reitman’s, Bath and Body Shop, Indigo, Old Navy, Walmart, the Bay. And the food court had lots of restaurants. My favourites are Thai Express, Taco Bell, Tom Hortons, Caribbean Queen and many more. The mall is close to the 401 and the Scarborough RT is right in the mall so it’s easy access to visit here. And I have to say that at Christmas we have the best Santa Display I’ve ever seen. I’ve been to other malls at Christmas and nothing compares to STC. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2016 • Couples"
+    },
+    {
+      "title": "STC has expanded, new store added and looks vibrant and energetic",
+      "text": [
+        "I have been to STC so many times even I live in Markham, ON.  I goes there when I need to buy important things for my friends.  Since the renovations, it makes me feel comfortable, vibrant and energetic to shop there.  Otherwise, 5 or 10 years ago; it seems to be run-down as the STC didn't wanted to renovate or not willing to do it.  People are coming everywhere to shop, see a movies at the movie theatre and dine-out as well.  We highly recommends that STC will prosper more, if they keep this high standards of shopping. "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Great Breakfast",
+      "text": [
+        "Went with a few friends for a late breakfast and thoroughly enjoyed my meal. Service was good and the place was nice and clean. I would recommend and go back again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    }
+  ]
+}

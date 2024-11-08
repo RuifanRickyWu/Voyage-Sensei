@@ -1,0 +1,378 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Pursuit OCR",
+    "url": "/Attraction_Review-g155019-d9595567-Reviews-Pursuit_OCR-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "75 Westmore Dr Etobicoke",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M9V 3Y6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 44
+    },
+    "openingHours": [
+      "Mo-Th 12:00-21:30",
+      "Fr-Sa 11:00-22:30",
+      "Su 11:00-20:30"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/aa/74/c3/pursuit-ocr-has-obstacles.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Game & Entertainment Centers"
+  ],
+  "description": "Pursuit OCR is Canada's largest indoor obstacle course! With over 30,000 square feet of adventures inside, you'll be laughing and sweating for hours! Our facility is 18+ (unless arranged through a schoolboard arranged visit) and is designed to let adults feel like a kid again. Our obstacle course is unlike anything you've ever seen at two and a half football fields in length (750 feet/230 meters). When was the last time you got to play in a ball pit? Well we've 100,000 balls four and a half feet deep! We are also home to the first ever indoor pedal powered Drift Trike raceway! Get your Super Mario Kart on and pedal your way around our separate raceway (included with admission) winding your way under our obstacle course! Also onsite is a free mini arcade when you need to catch your breath. If you're looking for a fun fitness based outing, you're coming to the right place!",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "The activities were great but the customer service with the Assistant manager was friendly.",
+      "text": [
+        "I traveled with my family of 5 from the United States and we were so excited about going. Upon arrival the person",
+        "That checked us in was so nice and accommodating. However the person that was giving us instructions introduced the Assistant Manager Ashley who threw her hand up with her back Turned towards us. She didn’t take any interest in even making eye contact with us. We then begin to see her in areas we were in like she was looking for something to find fault in what we were doing. She was so nice and pleasant with the other guest. However as we encountered her and she saw that we were not pleased with her demeanor towards us she started trying to engage in conversation and we told her at that point we didn’t want to talk to her she was not interested in talking",
+        "In the beginning. We felt uncomfortable being there around her it was not inviting. I would not recommend to have any interaction with her as African Americans which she is also because she definitely treated us like we were not wanted there."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "Coming back with more friends!",
+      "text": [
+        "Had such a dope time. The coaches are around so you can feel super safe and have fun. Will definitely be back! Thank you Pursuit OCR!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Friends"
+    },
+    {
+      "title": "Unreal!!",
+      "text": [
+        "What an incredible experience!!!!! I didn't quite know what I was getting into, simply only seeing Pursuit after my experience at Roller Pony last weekend.",
+        "Just wow, from the moment you walk into the back, you feel like a kid again, only as an adult.",
+        "The course itself is so fun, once I was tuckered out, there were so many games etc to play, I was completely engrossed the entire time.",
+        "Before I left, feeling a bit tired for the course, but wanted to be a bit more active, I got into a pickup game of dodgeball.",
+        "Between this and Roller Pony next door, you could literally spend an entire day, or maybe even weekend here.",
+        "Lastly, there's something to be said about the culture and community of a business,  something I'm always looking for. The staff here are amazing, super friendly, and always there to help when needed. ",
+        "It's very clear everyone there has a passion for what they do, and clearly a very positive atmosphere to be apart of the team.",
+        "Thanks Pursuit, appreciate the amazing time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "BEST PLACE ",
+      "text": [
+        "My favourite place in the entire city. Pursuit OCR is so fun and aesthetically pleasing. Always a great time! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022 • Friends"
+    },
+    {
+      "title": "A Great, Imaginative Exercise Space for Adults",
+      "text": [
+        "A lot of imagination has gone into creating this space. To my mind, it's even larger than their old space on Dufferin Street. The addition of the pedal powered Go Karts (4 Wheelers?) under the main course is inspired. If you're looking for something beyond a standard Gym workout, then consider Pursuit OCR.",
+        "I will definitely be returning."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "Fun experience ",
+      "text": [
+        "Heaps of fun if you’re close to the airport and looking for something fun to do. Worked up a sweat getting through the obstacle course and fantastic for a laugh. A new roller skating rink also opened up next door! Fantastic staff! Fun all round!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2023 • Friends"
+    },
+    {
+      "title": "Act like a kid with not kids around!!",
+      "text": [
+        "Great place to play.  This is a playground for grown ups.  Tons of fund activities for all levels of athletes.  I am not a flexible person but some of my friend are.  I was still able to participate with everyone but at my level.  Plenty of challenges that included less difficult options for me.  Best of all was the massive ball pit.  It was great to jump in and be a kid with no little children around."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Feel like a kid again, in the best way possible",
+      "text": [
+        "Two words: BALL. PIT. Remember when you were a kid and climbing all over something was your favourite thing? Return to your roots and be a goofball again. Pursuit is the best place in Toronto for so many reasons. I was first hooked at the old space on Dufferin, and they have outdone themselves at their huge space in Etobicoke. The most incredible staff and facilities. Inclusive, bright, happy place for all fitness levels and comfort. They have navigated the shutdowns with such grace and attention to health and safety of everyone who comes through their doors. Grab your tickets soon, because they are in high demand! You will love everything about your experience at Pursuit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Totally felt like a kid again, had so much fun with everyone!",
+      "text": [
+        "Went in with a lot of fear thinking I'd come out beat and broken but surprisingly it turned out to be a fun day. Went with a group and everyone tried the obstacles that they wanted to. No one was forced to do them all. The ball pit was so much fun. I definitely felt like a kid again - it was an adult playground. Left the facility with many fun, lasting memories and definitely can't wait to be back! Feeling the pain today but how often can you work out without even knowing it?! I'd definitely encourage everyone to go try it at least once! You'll become addicted! As parents to 2 young children, let's just say we had a BLAST without them for a few hours (we still love them  haha)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Amazing Staff",
+      "text": [
+        "Enjoyed the facility, and in the midst of having fun I misplaced my cell phone. After informing the staff we could not find it anywhere. However, the owner was extremely helpful and worked after midnight to locate my phone. Very grateful for his assistance in the matter. I highly recommend this place for great fun and all the assistance you need."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Lots of Fun! ",
+      "text": [
+        "I went on a Sunday and it wasn’t too busy. We went through the obstacle course twice then attempted and successfully climbed the ramp, then played on the rings and ropes a bit. After doing the course a couple times, there isn’t really that much left to do. I’m glad I went but I probably wouldn’t go back again. A fun experience but as a crossfitter, I can do most of the things here at my gym.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Burning a Sweat 101",
+      "text": [
+        "This place is a really fun way to burn off some calories on the weekend. It's a combination of a obstacle course and workout/crossfit fitness facility.  It's $20 for all day play which is awesome because you can leave and come back.  The obstacle course is smaller than it should be that included a ball pit, monkey bars, and tires.  You can finish the obstacle course really quickly and you probably won't resort to the course for the majority of the time.",
+        "Definitely bring a water bottle and a change of clothes because you will sweat and be thirsty. My personal favourite of Pursuit OCR is the ramp that you can run up.  It has two different heights and I spent the majority of the time there.  The rest of the facility included cryotherapy, rope climbs, free weights, and a plethora of monkey bars."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Awesome Experience!",
+      "text": [
+        "I was here on a class trip with 40 other kids. We had great staff that led us in a fun warm up and a great safety lesson. The obstacle course was very challenging and fun and the other tricks were also really cool. I really enjoyed myself and I would definitely go back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Friends"
+    },
+    {
+      "title": "So sore!",
+      "text": [
+        "Pursuit has a large variety of obstacles and activities that aren't on the obstacle course as well, and they make the obstacles there so they are frequently changing things around. The course itself is very challenging but super fun and we had a blast-- the other activities are diverse and they also have games for downtime so you can rest before your next race! Two days later I am still incredibly sore but it's the best feeling. It also was not too crowded on the Thursday night before the long weekend. Good way to celebrate finishing my undergrad!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Couples"
+    },
+    {
+      "title": "Different in a good way",
+      "text": [
+        "We've been looking to try this course out for awhile now but just never had the chance. It's a lot smaller than I thought. However, the obstacles are packed in one after the other unlike a race where there's running in between obstacles. It's a nice way to get a little bit of training for someone who's newer to OCRs. They also run fitness classes, but we didn't partake in them. The price isn't bad. We got a discount off the usual price because we're first responders. It's nice to be recognized. I'll definitely come again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2017 • Couples"
+    },
+    {
+      "title": "Good Fun",
+      "text": [
+        "The obstacle course is a unique challenge for athletes of all skill sets.",
+        "Definitely worth at least a one time visit."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2017"
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "Been here a few times, it's always a blast.  They change the coarse a bit too so that's awesome! They are adding new things in currently. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2017 • Friends"
+    },
+    {
+      "title": "So cool",
+      "text": [
+        "We came here to use the obstacle course. It was so much fun and such a cool idea. We purchased our tickets online in advance and signed our wavers online in advance as well. Getting in and really easy and we were given a quick tour of the place. Wish I had something like this closer to where I live."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016"
+    },
+    {
+      "title": "Fun family activity in Toronto!!",
+      "text": [
+        "My husband and I and our 7-year old son had a super fun day at Pursuit OCR!  It's an incredible indoor course with a lot of variety and makes me feel like a kid again. There are separate areas like the warped wall (American Ninja Warrior style!), and gym areas to increase your strength in new ways. It's a fun and innovative workout. We will definitely be going again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Family"
+    },
+    {
+      "title": "Super fun day at Pursuit OCR - group event",
+      "text": [
+        "Our group of 15 adults had an amazing time at Pursuit. We reserved the upper balcony for pizza, drinks and snacks. Spent 5 hours there just hanging out and doing the obstacle course over and over again with mini races against each other. ",
+        "Wil, one of the co-owners was amazing with our booking, he explained the other areas of the facility and how to make your work out or obstacle course even more challenging make it more fun. ",
+        "Definitely bringing other friends to OCR...a place where you can be a big kid, stay fit and be active! ",
+        "Loved it!",
+        "VL"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Awesome fun!!",
+      "text": [
+        "We had an absolute blast, laughing our butts off on the coolest race course riding these amazing trike bikes.  The obstacle course is really exhilarating and if you are inclined you can push your athleticm.  If you are really fit this course can push your limits. We both have shoulder injuries so we opted out of a few of the areas which is cool in itself that there is no pressue to do it all.  There were many areas to rest and overlook the fantastic facility.  The staff are incredibly helpful and very personable.  At only $20/person it was a great way to play and find that inner kid again while getting some fitness in.  Next time we will bringing a group with us.  We also found out that Police, Fire and EMS get 20% off."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "Great Alternative to Traditional Gyms",
+      "text": [
+        "I am not one for gyms, but Pursuit OCR makes working out fun! I was told there are more details and surprises to be added in later, but the course functions great as is. Love the massive ball pit and trike track and can’t wait to see what else is added in!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018"
+    },
+    {
+      "title": "Best adult playground!",
+      "text": [
+        "I went during the first week it opened and it was everything I had been waiting for! The massive ballpit is amazing!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "Top Recreational Space to Visit in Toronto",
+      "text": [
+        "Of all the recreational spaces for tourists and Toronto natives to visit, this tops my list. A totally unique, amazing, super fun date idea, too. I'm going to try to convince my boss to book our corporate party here next year!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "great total body workout in a fun way",
+      "text": [
+        "I am 60 years young and had an amazing time with my mid-twenties daughter at Pursuit.  Lots of different activities to test your physical prowess.  It is really a playground for adults. i jumped into a ball pit!  Loved the adult trikes--raced around the gym about a dozen times!!  Dress in leggings and t-shirt.  Gym gloves are helpful for some activities."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Completely amazing",
+      "text": [
+        "Okay, let’s forget about the fact that this feels like you’re going through the bowels of the Star Ship Enterprise, I have never had such an amazing workout. To have this cardio experience is something I have been craving as a larger guy. I was able to do most of the obstacles and now I have a clear goal to try to accomplish each time! ",
+        "I loved it! I’ll have to come back again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Solo"
+    },
+    {
+      "title": "My new second home !",
+      "text": [
+        "Absolutely love this place! For all levels of athletic abilities it allows you to challenge yourself and have a great time while doing it. Truly brought me back to my days on the playground at recess."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Solo"
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "Went with my GF. A ton of fun and great work out. No pressure. Smiled the whole time. ",
+        "Will go again, hands down."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "Perfect date night",
+      "text": [
+        "My fiancee and I had a blast at pursuit! ",
+        "The drift trikes are my absolute favourite...and the ball pit...and the foam pit...and warp wall...."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "Pursuit OCR",
+      "text": [
+        "Great place to go for awesome fun!",
+        "Free arcade, lots of stuff to do, even if you're out of shape like me there is still a lot of really fun stuff to make you more tired than you've ever felt! Such a cool place to go spend a few hours. Will happily be returning regularly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Better Than Expected",
+      "text": [
+        "This was our first time but it won’t be the last time. We had a ton of fun! The ball pit was fantastic and so were the drift bikes. We went through the course twice and worked up a good sweat. It was nice to have different levels available for each obstacle. Lots of fun to watch too. ",
+        "It never felt crowded on the Saturday afternoon we went. Plenty of parking."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "Really Fun Time",
+      "text": [
+        "Came here last month with a big group to give Pursuit a try and had an amazing time. The course is both challenging and fun at the same time for anyone. As a group we all felt very welcomed and a big thanks to James for guiding us through the course, hyping us up, getting the angles on all our pics and making the experience that much better. Would def recommend pursuit for just an overall good time, fact that you get a good workout in too is the bonus!",
+        "Also A1 on that Soca playlist! We'll all be back soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "SAGE Engineering Services Ltd. Team Building Event",
+      "text": [
+        "Pursuit OCR is centrally located and easy to get to with ample parking available.  Great facility that is clean and has a great ambience.  Loved the fact that they are working on bringing more oxygen into the space by building a living wall and water system...just amazing!  Our team had a great time and the obstacles were suitable for all capabilities.  The private party area was perfect for our catered lunch.  Be sure to bring your game face, comfy clothes/shoes/workout gloves and camera to remember fun times had.  ",
+        "A special thanks to Sebastian who made our event go to the next level with great obstacle instructions and demonstrations as well as some competitive fun for our staff."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Business"
+    },
+    {
+      "title": "Great team building venue",
+      "text": [
+        "Great facility, clean, great ambience and Sebastian our guide went above and beyond to ensure all abilities had fun. We got our event catered and the space they provided was awesome with activities laid on."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Business"
+    },
+    {
+      "title": "Amazing physical fitness activity/challenge in a wicked space",
+      "text": [
+        "My first thoughts when I stepped in Pursuit OCR (Etobicoke) was that they have the most amazing aesthetic and decoration sense. ",
+        "Inside, they have a great obstacle course with plenty of difficulty options, nicely located viewing areas, a 'more advanced techniques' area, a bicycle course, ramp, and large versions of classic games like Jenga and Connect 4. Other amenities include change rooms, a private party area (complete with foosball, air hockey, arcade games), a small arcade area, lockers and water fountains to fill up your water bottles. ",
+        "We went for a team bonding activity and our 'guide' Sebastian was energetic and enthusiastic when demonstrating and explaining all the obstacles, options, games, etc (despite the day being boiling hot and muggy)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Business"
+    },
+    {
+      "title": "Most Fun I Had In Toronto!",
+      "text": [
+        "Did this with a few friends our last full day in Toronto, and we had a blast!!! There are various things to do and we did just about everything in 2 hours. My sister and I found we had more upper body strength than we realized. The entire group had fun and this was a highlight of the trip! The staff were very welcoming, encouraging and explained every detail to us. Really good price too. Highly recommend it. You'll get a full body workout. We're still sore 2 days later. We recommend buying the gloves at the front desk or coming in with your own if you plan to do anything involving bars and hanging."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Awesome!",
+      "text": [
+        "This place had everything one could hope for in an indoor adult playground. It had an American Ninja Warrior-esque obstacle course, a tricycle racetrack, and all the free arcade games one could hope for!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "This is THE MOST FUN!!",
+      "text": [
+        "Just had the BEST time at pursuit OCR. Not for the faint hearted! You will enjoy this most if you have a good level of fitness. We came early in the morning on a weekday when it was almost empty which meant we didn’t have to wait for any obstacles. I can’t wait to go back but I need a bit of time to recover!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Feel like a kid again!",
+      "text": [
+        "If you enjoying watching American Ninja Warrior, then get off the couch and head over to Pursuit OCR.  It has a new location and it's 30,000 sq. Feet, much bigger than the old location.  Once you walk in, there is a line up but don't let that fool you.  Just head over to the iPad and sign a waiver first.  After you are done, then line up to buy your ticket(s).  Do NOT forget to bring your driver licence or else you are not getting in.  I waited approximately 5-7 mins. only, it moves pretty fast.  They have change rooms and lockers (bring you own lock).  Once you are inside, ask the friendly staff where to start. Now, it's not like Ninja Warrior, no Salmon ladder or Sea of poles, etcq.  This is from beginners to advance levels.  Some obstacles are easy and others are challenging.  All participants are positive and encouraging.  Learn from each other and have fun.  (Upper body strength is encouraged).  $20.00 for a Day pass and you can stay as long as you like.  You get your money's worth.  I don't remember the last time I paid $20 and have that much fun.  This is great place with a group."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Great experience!",
+      "text": [
+        "I booked Persuit for my 30th birthday because who doesn't want to feel like a kid again?  Everyone, including myself were having so much fun at this place.  It is jungle gym designed for adults.  Lots of obstacle courses, jumping and racing.  Total package for a fun and active time.  The ticket you purchase is for the entire day however, after a few hours you will be tiered so don't plan to be here the entire time.  They do sell snacks and there is a water fountain for use however, in terms of actual food there are no option at the place as well as in the neighborhood.  This is something that I think they need to look at and improve on.  You get super hungry after a few hours of playing around.  Recommend, until they figure this part out bring along some snacks for yourself to keep full and energized."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Friends"
+    }
+  ]
+}

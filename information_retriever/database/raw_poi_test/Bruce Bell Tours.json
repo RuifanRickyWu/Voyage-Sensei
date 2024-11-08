@@ -1,0 +1,364 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Bruce Bell Tours",
+    "url": "/Attraction_Review-g155019-d2329803-Reviews-Bruce_Bell_Tours-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": ""
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 57
+    },
+    "openingHours": [
+      "Mo 09:00-17:00",
+      "Tu-Su 10:00-17:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/e5/37/93/bruce-bell-private-tours.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Sightseeing Tours"
+  ],
+  "description": "Pandemic update. My St Lawrence Market/Old Town Toronto tours are $20 per person. Tours will be limited to 10 people and will run every Tues, Weds and Thursdays, Friday and Saturday. There will be an extra charge for my private tours. All tours will be in keeping with the latest Ontario Gov Covid-19 guidelines. Bruce Bell Tours: So much of Toronto's history is either buried under parking lots or confined to dusty history books hidden on the top shelves of libraries or just plain forgotten. Using his wealth of knowledge and experience well known historian and author Bruce Bell is determined to look under those parking lots to see what secrets are held in Toronto's much overlooked colonial and 19th century past. Bruce also does a great food tasting tour at Toronto’s famed St Lawrence Market.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Fantastic Tour and Guide",
+      "text": [
+        "Bruce’s love and knowledge of Toronto and its history is immense. We learned a lot about local history and American history as well. Bruce is very personable and shares his knowledge in a fun and engaging way. I highly recommend his tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Highly recommend any tour by Bruce Bell",
+      "text": [
+        "We thoroughly enjoyed our tour with Bruce of the St Lawrence Market and surrounding area.  Communication from booking thru arrival was excellent and finding him at the meeting point was easy.  He has a thorough knowledge of Toronto's history and delivers it clearly and with good humor.    I highly recommend touring with Bruce!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Bruce is best",
+      "text": [
+        "Amazing walking tour with Bruce this morning! His knowledge is second to none, and a bloody nice bloke as well. For history of Toronto, Canada and everything in between Bruce is the King! 2.5 hours of fun, facts and fables. If you want to know anything about Toronto be sure to ask Bruce. ❤️❤️🇨🇦  🇦🇺"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Saint Lawrence Tour",
+      "text": [
+        "Wonderful tour included both past and present in and around the Saint Lawrence market. Highly recommended! Bruce is a great guide and he made the tour a great  experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Don’t miss Bruce’s tour!",
+      "text": [
+        "Bruce knows everything, is marvelously entertaining, and very funny and patient. He is both a great historian and a piece of Toronto history himself. Don’t miss his tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Bruce Makes History Come Alive",
+      "text": [
+        "Bruce made history come alive!  He connected with each person on our tour on a personal level and periodically referenced items on the tour that would be particularly interesting to them.  We learned so much, too!!  His tour was definitely the hightlight of our Toronto trip.  We will definitely be back. Thank you!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "Wonderful way to learn about Toronto’s beginnings",
+      "text": [
+        "Had an amazing time walking St. Lawrence Market and Old Toronto with Bruce. He is engaging, full of passion for the content and I really enjoyed our conversation. I learned quite a bit and hope to do a future tour in another area of this amazing city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Old Toronto Walking Tour",
+      "text": [
+        "We are locals interested in our hood \"Old Toronto\" ... Bruce took us on a two hour historical walkabout.  I've done tours all over the world and honestly this was the best!  Don't miss it if you are visiting Toronto!  Bruce is personable, funny, engaging AND a walking encyclopedia about Toronto.  Thanks Bruce!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Don’t miss this tour, 10/10",
+      "text": [
+        "My husband and I missed",
+        "the Saturday tour due to a plane delay but Bruce was able to fit a private tour into his schedule which we were so appreciative of. Walking tours are always our favorite way to learn about the city and this tour was one of our favorites! Bruce is so knowledgeable about the city’s history and current events, it was a pleasure to chat with him and learn about Toronto and Canadian history and culture. He also is so helpful with restaurant recommendations and things to do during your trip. Thank you Bruce! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "A Treasure Trove Tour of Toronto",
+      "text": [
+        "Architecture.  History.  Government.  Business. Films. International Relationships.  The Law.  Québécois.  If you have an interest in it, Bruce will enhance your knowledge, with good humor, respectful mien and at a good pace.  If you would like Toronto to come alive, take a tour with Bruce!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022 • Friends"
+    },
+    {
+      "title": "Exceeded our expectations!",
+      "text": [
+        "My husband and I joined Bruce this morning for the St. Lawrence Market walking tour.  It was, and will remain, the highlight of our visit to Toronto - and a forever memory.  Bruce is not merely a tour guide - he is a historian of the finest calibre.  Charming, witty, articulate and solicitous - he took us around nooks and crannies, behind walls and stairs as well as all around the market.  Every stop had a story, and every story had a history.  Generous with his time, and his genuine interest in everyone he meets - there can be no better walking tour in Toronto than Bruce Bell's."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Couples"
+    },
+    {
+      "title": "An awesome tour and guide",
+      "text": [
+        "I connect Toronto women to come together and learn a little about our city. From start to finish, Bruce was a pleasure to deal with. He has attention to detail, humour, accuracy of historical facts and interacts congenially with everyone. The people that we passed greeted Bruce as the local that he is. He has an easygoing disposition and assured that we were well situated for our group lunch, after the tour.",
+        "We await the next tour in December!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Friends"
+    },
+    {
+      "title": "Get out and know Toronto with Bruce Bell",
+      "text": [
+        "I have been using the services of Bruce as a tour guide for over 6 years.  Together with Bruce, I arrange tours for the spouses of military personnel who are in Toronto attending a one year course.  Year after year, all attendees have always enjoyed Bruce's tours.  I highly recommend taking any of his tours.  Keep up the good work. Bruce!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016 • Couples"
+    },
+    {
+      "title": "Bruce Bell is the best",
+      "text": [
+        "It's not just a historical walking tour, even though it's one of the best of those. It's a half-day entertainment. Bruce will amuse and amaze. Doesn't matter if you are a tourist or a homey, you will have fun and learn something from Bruce. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Friends"
+    },
+    {
+      "title": "Great introduction to the Toronto, even if you've lived here all your life.",
+      "text": [
+        "Had a great tour with Bruce.  He knows an incredible amount of Toronto history. With his descriptions of how the area has changed over the years, he brings the architecture, the streets and the market alive. My 80 year old mom easily maneuvered the market and streets and Bruce was attentive to her needs.  We visited the Cathedral of St. James also - just beautiful. The tour is affordable and the start location in the St. Lawrence market was easy to find.  Parking is nearby. So glad we started our vacation this way.  Bruce gave us plenty of suggestions for mom's first Toronto vacation. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Best. Tour. Ever!!! Definitely don't miss!",
+      "text": [
+        "I can't speak highly enough of Bruce and our tour with him today. We were lucky enough to be the only ones on the tour so we got extra special attention. It was like we were walking around with a friend who knows EVERYTHING about Toronto history. Thanks, Bruce, for such a great time! We feel so fortunate to have met you and chat it up for a while. -Shelley and Susan from Denver. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Couples"
+    },
+    {
+      "title": "Great Tour, Awesome Tour Guide!",
+      "text": [
+        "My husband & I have visited the Toronto area several times, but have never been able to catch a glimpse inside The St. Lawrence Market. While doing a search for info on  the markets hours, I came across a link to Bruce Bell Tours. I had no idea what a great experience we were in for when we planned our visit! Of all the tours in all the cities we have been to, Bruce was one of the most informative and enjoyable guides we have ever met! His love for the city of Toronto and his vast knowledge of history made this a truly memorable experience. Thank you, Bruce! for taking the time to show the 2 of us around! We look forward to return visits, and hope to meet up with you again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016"
+    },
+    {
+      "title": "One of the best!",
+      "text": [
+        "Bruce is one of the most exciting tour guides I've ever had.  A deep knowledge of Toronto's history from its origins right through to the present.  The man with a 1000 answers helped our trip through Toronto teach us about what made Toronto a world class city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Couples"
+    },
+    {
+      "title": "Bruce Bell Rocks!",
+      "text": [
+        "For a guy born and raised in Sudbury, Bruce Bell sure knows a helluva lot about Toronto, my hometown. ",
+        "In fact, he knows so much that he has received myriad awards, some of which are ‒ Official Historian of St. Lawrence Hall and St Lawrence Market, Official Historian of Toronto’s King Edward Hotel, Honourary Historian of the Hockey Hall of Fame Heritage Building and Curator in Residence for the spectacular 1914 Dominion Bank Building. ",
+        "I had the pleasure of accompanying Bruce on a walking tour of St. Lawrence Hall and St Lawrence Market as well as downtown gems such as the old Post Office, St. James Cathedral, and we even whisked by the Hollinger building on Ontario Street made infamous by Conrad Black's late night break-and-enter to retrieve some important files prior to his US jail sentence! Imagine, the loquacious Lord Black pining away in a US prison, nonetheless able to return to Canada despite the fact he was a felon who gave up his Canadian citizenship (thanks to PM Jean Chrétien) to become a member of the British House of Lords. What some rich, bored people will do just to don a funny wig and a cape like Superman! Bruce can tell you all about it along with a multitude of other interesting Toronto anecdotes. ",
+        "Take a tour with Bruce. You will enjoy your time and learn some fascinating facts about the Big Smoke!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2015 • Couples"
+    },
+    {
+      "title": "Seattle four - Bruce Bell tour",
+      "text": [
+        "Outstanding in all respects.  A must do for Toronto visitors.  Bruce is the best.",
+        "Ed, Kathy, Suzanne and Pam"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2015 • Friends"
+    },
+    {
+      "title": "BRUCE BELLS TOURS",
+      "text": [
+        "Simply the best tour guide and Toronto Historian.  Bruce attends may of our client appreciation events and his stories about Toronto are simply amazing.  He has a real gift.",
+        "We put him in for the Order of Ontario for all the work that Bruce does quietly in the advancement of Ontario history."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019"
+    },
+    {
+      "title": "Awesome tour!",
+      "text": [
+        "Bruce is very passionate about Toronto and its history and it shows in how he presents the tour! Very knowledgeable about the history and he made it an entertaining learning experience. I highly recommend anyone who wants a fun tour of Toronto to go with Bruce!!! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Highly Recommended",
+      "text": [
+        "Only regret is that I only had one tour with him. He was informative, interesting, and great fun to listen to and learn from."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "A terrific tour of the Market and surrounding area",
+      "text": [
+        "Former actor Bruce Bell does a terrific job with this tour, not only providing a thorough an entertaining overview of the St. Lawrence Market itself, but also covering the nearby church and streetscape. As much a history tour as a Market tour, Bruce was a charming and informative host. Our only surprise that there wasn’t a morsel of food on a market tour. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Simply the best",
+      "text": [
+        "My husband and I had just a couple of days in Toronto early this month and so wanted to make the most of our stay. We took a tour with Bruce, beginning with St Lawrence Market. I am a wheelchair user and Bruce made sure that we took the most accessible route. We learned so much about the city and Bruce's humour, genuine enthusiasm and expert knowledge made it a day to remember. We have had guided tours all around the world with many different guides and Bruce has been the best ever, by a long, long way."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Toronto historic tour",
+      "text": [
+        "Bruce has one of the most interesting tours of a city from a different perspective.  He has been thee de facto historian of Toronto for a number of years and has placed plaques at historical sites throughout the city to share events that warrant attention.  He is known and recognized by the city's inhabitants as he conducts tours of such locations as the Saint Lawrence Market."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "No One Like Bruce",
+      "text": [
+        "Our group of 4 have traveled through 7 countries and 14 US Cities with private guides.  We all agree, Bruce was simply the best, hands down.  He was knowledgable, understanding, patient, fun, an excellent teacher and absolutely delightful.  We are all retired or almost retired professionals who love to study history, culture, adventure, athletics and just having fun.  Within the first 30 minutes, Bruce had taught us a side of US history we had never known but thoroughly enjoyed.  His love of Toronto was contagious and we are now big fans of the city.  While we have toured other parts of Canada before, we have a much better appreciation of the history and culture of Canada and its beautiful people.  Bruce was so respectful and fun that we quickly felt like he had been a member of our group for years.  We will never forget him and, because of him, I feel a sense of sadness and pity for all other tour guides we will meet in the future.  If you want to know and appreciate Toronto, Canada and its people and culture don’t do anything before you complete a walkabout with Bruce."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "10 stars out of 10!",
+      "text": [
+        "We had a group of international colleagues in town for a conference and, after some research online, decided a tour with Bruce would be a great way to show them around our city. ",
+        "Firstly, Bruce was very easy to get in touch with - after emailing him about the date/time availability he immediately got in touch and we had a phone chat about what we were looking for. He was very friendly and flexible - he essentially created a tailored experience for our group based on our ridged schedule and the before and after locations we needed to be at (in our case meeting at our conference location which was Bay and Adelaide, walking us to the St. Lawrence Market for a private \"behind the scenes\" look and then over to our dinner location on Queen East). ",
+        "Without completely giving it away, I have to say the tour was amazing! He met us promptly at our starting location and began the tour from there. I'm a Toronto native myself and he taught me a lot about the city and even pointed out places I had never even noticed! His historical knowledge of the city is evident in the way he tells his stories - lots of detail but with a lot of character, he even got the group laughing quite a bit! His passion for the city and its history was also clear - he's responsible for over 100 historical plaques around the city (see image) and is even painted right into a mural in the Market! ",
+        "I would highly recommend Bruce for any kind of event - whether it's with work, family, friends or even if you're a local looking for a fun activity-- trust me, you'll learn a few things and laugh along the way!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Business"
+    },
+    {
+      "title": "Wonderful Walking Tour",
+      "text": [
+        "Long time residents of Toronto, we decided to book this tour to learn a bit more about our city.  We thought we knew a lot, but Bruce knew a whole lot more!   ",
+        "Bruce is friendly and very knowledgeable of the city.  We booked our tour on a Saturday morning in January and the day turned out to be beautiful and sunny, making the walking tour even more enjoyable.  We lucked out and were the only people on the tour that morning, so Bruce customized our walk to the things we wanted to learn more about.  We thoroughly had a wonderful time and would recommend this tour to others living in the city as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Couples"
+    },
+    {
+      "title": "So glad we took the tour! ",
+      "text": [
+        "What a wonderful way to spend a part of your day! Bruce is a great guy and we had a wonderful time. He was on time, gave us a an amazing tour of the St. Lawrence Market and surrounding area. We all were very happy! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Terrific Way to Experience Toronto",
+      "text": [
+        "A great walking tour experience of the St. Lawrence Market and surrounding area. Bruce is very knowledgeable about the history and culture of the area and of Toronto, but he doesn't overload you with too much extraneous information. If you really want to understand the city and its history this is a fun way to do it with an engaging and personable guide who knows his stuff. We learned a lot and had a great time exploring with Bruce."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Best way to tour St Lawrence market an Old Toronto",
+      "text": [
+        "Educational, Cultural experience! What a fun and interesting guy. One of the best tour guides we’ve used. Great way to explore Old Toronto an the St Lawrence Market. Full of excellent advice."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Bruce Is The Best",
+      "text": [
+        "If you take a walking tour of Toronto...and you should.,.take it with Bruce!  He is knowledgeable, articulate and funny, a combination he uses to bring the history of the city to life.  Plus he is a well known personality which could lead you to meet some interesting locals along the way!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Amazing Tour, great guide",
+      "text": [
+        "Incredible tour guide, extremely knowledgeable and really fun. We came on a day the market was sadly closed but we were aware of that and it was still one of the best tours I’ve ever done. Accommodated our group member with a broken toe and great conversation between stops, with plenty of great stops."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Family"
+    },
+    {
+      "title": "Engaging, entertaining and educational!",
+      "text": [
+        "Bruce Bell is legendary and knows literally everything... like I mean everything. He's a great Tour Guide, the content is very engaging and the tour is well worth the 60-90 minutes. We did the St. Lawrence Market Tour, and it was great being able to see a lot of Bruce's projects out in the public!",
+        "Would recommend to anyone that is visiting Toronto or is interested in learning more about their neighbourhood."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "Great tour with a great guide!",
+      "text": [
+        "Bruce is very knowledgeable, engaging, and entertaining.  We enjoyed a very pleasant walk through a historic part of town."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021 • Friends"
+    },
+    {
+      "title": "Great Tour of Old Town Toronto!",
+      "text": [
+        "We so enjoyed the tour of Old Town Toronto with Bruce! He is personable, knowledgable and entertaining. We toured the St. Lawrence Market and surrounding area. We learned a lot that we wouldn't have on our own. Bruce also gave us some tips on what else to do in the area. So glad the Canadian border opened so we could come up from the U.S. and take this fabulous tour! Thanks Bruce! Angela and Alan"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Couples"
+    },
+    {
+      "title": "Amazing Understanding of Canadian History and a Fun Time At St. Lawrence Market and Surrounding Environs",
+      "text": [
+        "Mr. Bell gave us an understanding of Canadian government, politics, elections, and all things Canadian. Plus he was so much fun to boot! Highly recommend his tours. We were scheduled for a morning tour but Bruce contacted us to say there were lots of large tours going through the St. Lawrence Market at that time and it wouldn’t be as enjoyable. We moved our time to early afternoon and are so glad that we did! We were a group of 4 so we received all of his attention!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Best Tour We've Ever Had",
+      "text": [
+        "Bruce was the most entertaining, knowledgeable and overall interesting tour guide we've ever come across. We are so thankful that Bruce was able to accommodate our group of four - he is a true Toronto treasure. We are now armed with fascinating facts about Canada, Toronto, and the St. Lawrence Market and surrounding area. Thanks, Bruce, for the best afternoon we could have hoped to spend!",
+        "Eileen, Bill, Jan and Jim"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Great Tour in Toronto",
+      "text": [
+        "We just finished our day and this morning we had the most wonderful tour with Bruce.  You could not ask for a more knowledgeable person.  He was so interesting and knew so much about Toronto, it just made our day.  We highly recommend him for a tour in Toronto.  Great value and a very enjoyable person to listen to, talk to and learn from."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    }
+  ]
+}

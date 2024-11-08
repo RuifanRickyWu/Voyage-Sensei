@@ -1,0 +1,375 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Horseshoe Tavern",
+    "url": "/Attraction_Review-g155019-d185092-Reviews-Horseshoe_Tavern-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "370 Queen St W ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 2A2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 79
+    },
+    "openingHours": "Mo-Su 12:00-02:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/47/2a/78/queen-street-entrance.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bars & Clubs"
+  ],
+  "description": "Local landmark showcasing well-known country and rock bands, including some of international fame.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Legendary Toronto bar",
+      "text": [
+        "One of the last surviving  music venues in Toronto with a rich history. Terrific location for experiencing live music in a more intimate setting than large venues. Friendly staff passionate about music. I love coming to this place every time we are in town. Tasty dishes and amazing atmosphere. If your visiting Toronto you must at least pop in for a drink. Definitely a place to go and enjoy an evening."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Excellent dive bar",
+      "text": [
+        "This bar is a great place to get beers and listen to local bands. Definitely get there early if you want a place to sit or if you want to get a spot near the stage."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "First time back in a long time , finally my son can come to Horseshoe shows",
+      "text": [
+        "Used to love seeing bands at the 'shoe . ",
+        "My music loving son is now 19 so I am finally back.",
+        "Love this place , decently priced drinks. Great selection of tasty beers.",
+        "Bands always seem to be pumped to play this place.",
+        "Great night out. We will be back soon."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "great venue for concerts",
+      "text": [
+        "The Horseshoe is  a great venue for concerts.  Get there early as it is a popular place.",
+        "It is also best to take transit there"
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Scruffy area where band playing",
+      "text": [
+        "In Toronto for 4 nights stay from the North East of England - went here to see a band - friendly bar staff - band wad good but the tables were dirty and the seats old and ripped and the flooring smelt awful - even the stage looked as though it hadnt had a good clean in years  - we are used to old and characterful bars where we live but dirty and smelly is not  pleasant to sit and drink in"
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "Nice outside patio.",
+      "text": [
+        "Good place to stop off for a drink and rest while on a recent walking trip in the Entertainment district before heading down to the Harbourside. We enjoyed sitting outside in the wee patio area  watching folks go by enjoying our well deserved drinks."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Historic Bar",
+      "text": [
+        "Many Canadain bands have play in front of the checkerboard floor! More of a local place during the day but Max is cool."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Cool Little Bar.",
+      "text": [
+        "From the outside it is very unassuming but then you enter a musical history museum. So many famous acts have played at the venue. There is a pool table, plenty of beer and spirits. You can order food from A&W which is passed through the wall. The staff are nice and friendly. A must see in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Song Pop Canada Meet Up",
+      "text": [
+        "Met some friends from all over the world that live music Stopped in to this spot to check out some Toronto history. ",
+        "Great “dive” bar. Good Tunes a pool table and a bartender that made ya smile while pouring drinks 🍹 "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "More music than drinks venue",
+      "text": [
+        "fine establishment with broad with choice of beers. At weekend seemed much more focused on the music venue attached and clearly had a regular crowd for this"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "A Cool Venue",
+      "text": [
+        "A really cool venue and a great location for a fun night of music. Was here to see Greg Graffin and the place was packed. The sound is really good and you can see from everywhere in the venue. The reasonable drink prices make for a fun night out. Will be returning. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "A weird night",
+      "text": [
+        "We stopped in here after dinner on Spadina as it was the only place within walking distance open. We were greeted in a very odd manner by the doorman who seemed to be quite intoxicated. He first asked us if we had been drinking anywhere before and then searched our bags. ",
+        "There was like four people, including the bartender in the bar.",
+        "We sat at the bar and had a drink, the bartender was friendly and the prices were fine, but the whole atmosphere was so odd with the doorman and the neighborhood drunk that also pestered us.  ",
+        "I've been here before for a show, and it was packed and fun, but going on a Monday night was...memorable. But what I loved was how you could order A&W from next door and your order would come through the wall into the bar!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2016 • Friends"
+    },
+    {
+      "title": "Midday Drink.",
+      "text": [
+        "Had to visit this iconic watering hole and music venue during my visit to Toronto. Wished I could have stayed longer. Michele was an engaging hostess and very kindly offered to take a photo of us onstage. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2016 • Friends"
+    },
+    {
+      "title": "Historic club",
+      "text": [
+        "Best show ever...Foy Vance! ",
+        "Just saw the Rheostatics...great band! The Horseshoe is the place!",
+        "Lots of memorabilia on the walls, pool table, and access to the fast food outlet next door for snacks. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2016 • Friends"
+    },
+    {
+      "title": "So so bartender",
+      "text": [
+        "Sat on the deck on a sunny afternoon. Great people watching :) !!! Even though only two people inside bartender would no serve drinks on the deck. Understand if the bar was busy but..."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2016 • Friends"
+    },
+    {
+      "title": "Great sound, bands and beers",
+      "text": [
+        "Visited early August looking to catch some live music with a few other couples that were traveling with us and this place didn't disappoint. ",
+        "Great place!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "Always a good time",
+      "text": [
+        "Live music, cheap beers, good times.",
+        "Not too large and always a good crowd. ",
+        "Good place to catch new music or to see your \"back in the day\" faves."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Fabulous Entertainment, Lousy Wine",
+      "text": [
+        "About eight of us met on a Thursday night for an album release party of the band Jane's Party's first CD, Tunnel Visions. Admission was $10 in advance or $12.50 at the door, which included access to several bands.",
+        "There is no food - drinks only. Servers show up frequently to take orders and, if you like beer, you're in the right place, as they have more than a dozen to choose from.  If you like wine though, you're out of luck. They offer a house red or a house white @ $7 (no way is it 6 ounces), served in a whiskey glass. Oh, and apparently they don't know white wine is chilled. Both my orders arrived at room temperature. ",
+        "Limited seating is bench style and small stools with slim tables. Get there early if you want a seat. Probably 400 people crammed into the tavern for Jane's Party, and maybe 100 had seats. The rest was standing room only, leaving no dance floor. ",
+        "The sound system was excellent, and ambiance was youthful and energetic. This is a college student pub, although a few older folks were in attendance for the band (which was amazing, btw). ",
+        "With no wine and no dance floor and a student-age patronage, Horseshoe is definitely not my kind of entertainment venue."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2016 • Friends"
+    },
+    {
+      "title": "The greatest sound system possible ever",
+      "text": [
+        "I went here for a David Cook concert, and the place looked like a old dive bar. Not the cleanest of places, but certainly you can see there's a lot of history. It ups the cool factor. The sound system they have is genius. It is probably one of the best sound systems I've ever experienced for a concert. Worth the go! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2016"
+    },
+    {
+      "title": "Tricked ya",
+      "text": [
+        "Now, listen: I don't want any of you out-of-towners going here when I'm in Toronto.  This IS the best bar for hanging in Toronto; hands down.  You do not find bars like this ANYWHERE in Toronto.  I just walked 23 blocks to get back to this place after a 2.5 year hiatus from finding the place the first time I was in Toronto.  Great dive!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2016 • Business"
+    },
+    {
+      "title": "Great Venue, can't wait to go back",
+      "text": [
+        "The front of the bar is nice and the beer selection is good. The main venue at the back is so functional with seating and another bar. A great view of the stage from all areas. I can't wait to come back here, great place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Couples"
+    },
+    {
+      "title": "Awesome concert venue",
+      "text": [
+        "I went with a group of friends to attend a benefit concert in early February, 2018.  The Strictly Hip played (the Strictly Hip are a Tragically Hip tribute band).  It was a helluva night in a cozy atmosphere.  The venue celebrated its 70th anniversary as an establishment and the decor is very retro.  Three of us came to the 'Shoe in the afternoon to check out the venue before the concert and the staff were very friendly and welcoming.  Strongly recommended for anyone who sees themselves as a fan of Blue Rodeo and/or The Tragically Hip (\"The Hip\").  As a Hip fan, it was very cool to see where 5 members of Canadian Rock Royalty got their start, and they have a fantastic looking mural in the concert area (a fitting tribute to Gord Downie).  Hip fans should watch for a picture featuring (a very young) Rob Baker, Gord Downie, Johnny Fay, Paul Langlois and Gord Sinclair.  You'll be able to recognize it from somewhere ;)."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2018 • Friends"
+    },
+    {
+      "title": "It's exactly what you'd expect",
+      "text": [
+        "My trip to the Horseshoe was to see the Tea Party. I was charmed by the authenticity of the place...it is the well-worn leather sofa of music venues. The intimate atmosphere was amazing and people, for the most part, were respectful of personal space (it was a Wednesday however). The reason it's a 3 for me is the condition of the washrooms. Quaint is one things, broken and duct-tapped toilets is just negligent. ",
+        "Staff was lovely and prompt (again, it was a wed)."
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Great sound",
+      "text": [
+        "Small venue, great for live music, Great bartenders, and waitresses!!! Cold beer cold beer, and did I mention cold beer?"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Friends"
+    },
+    {
+      "title": "An Icon in the city of Toronto",
+      "text": [
+        "The Horseshoe is a history in the city of Toronto worth checking out, not only for drinks, or playing pool but to see a concert.  Went to see the Pursuit of Happiness, great group, an awesome performance that went well into the night.  Super staff that made on feel welcomed and of course a wonderful crowd.  Worth checking out if you are new to the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Friends"
+    },
+    {
+      "title": "Nice place with a lot of history",
+      "text": [
+        "I enjoy dive bars, and so the tavern was a fun time. The beer is not super expensive, and there was some live music happening on the stage in the back, but it was very sparse. It has some nice nooks and crannies in which to relax and enjoy your beverage. Fun place, I would return here."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Prides itself on its legendary divebar status",
+      "text": [
+        "The Horseshoe is a famous music bar. It works hard to preserve its \"smells like an armpit\" status. Great music, the beer isn't overpriced, staff understand the history they're standing in. A mandatory stop for all music fans."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Obligatory Stops",
+      "text": [
+        "Each and every time I go up to Toronto I try to make it a point to stop in at the Horseshoe Tavern for at least one drink and a giggle at the Hot Nuts. I have yet to see a show there, but service and beer have always been great! The nuts? Haven't tried them yet. They are just a good giggle!",
+        "This past time the bartender was so much FUN! She was just had a good nature about her and up and offered to take a picture of me, my two friends and my mother on the stage. That was a fun happening that might have made my mother's day more than anyone else's!!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Great to sit outside and people watch",
+      "text": [
+        "A few outside tables,  busy shopping street right outside of china town area. Quiet bar, great service,  nice place to stop and rest with a drink."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Don't have that....",
+      "text": [
+        "Popped in last Friday and the first 4 drafts I requested while looking at their taps had the same response.....\"Don't have that\". I was told I'd have to leave if my 5th request was also out of stock. Sad joke before the bartender said last week's Draft Inventory was even worse. We were considering  to pay cover for the back room and spend some cash but after drinking a horrible Horseshoe Pilsner our decision was to leave. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Some things never change...",
+      "text": [
+        "The iconic Horseshoe Tavern, established in 1947 has had so many legendary musicians grace their stage. It is a must see stop in Toronto period. Regardless of my 5 star experiences here, or others 1 star experience, it is an integral establishment to the Canadian music scene. Check out the checkerboard floors the Tragically Hip so iconically sang about!",
+        "Now for the nitty gritty... the Shoe at first glace is your typical dive bar, a lot of wear and tear, old photographs and gig posters line the walls. Average beer, old school cocktails (with new school names), and a mix between professionals to the more gruff folk sit at the bar. The staff on the other hand are anything but average. ",
+        "No matter their position, each staff member takes a genuine, unique approach to customer service. I don’t feel this type of service is trained. I feel it is demonstrated by ownership, and trickles down to the employees who then stamp it with their own personal love of the hospitality industry, their regulars, live music, history and culture. How else can you explain retaining phenomenal bartenders for 50 years!? Security/Door Staff for 30 years!? Having not visited the Horseshoe in over 5 years I’m so pleased to see something’s never change."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Business"
+    },
+    {
+      "title": "Truly legendary!",
+      "text": [
+        "Got in to see Okkervil River here, and it was everthing a Horseshoe experience should be: jam-packed, loud live music funnelling toward the door pulling you back, servers weaving through people trying to get them their ales, and smiles,",
+        "If you can’t see a live band - or four - hear while in Toronto, it’s still worth stopping in to have a beer, chat up the staff, and read the walls. Legennnnn...dary!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018"
+    },
+    {
+      "title": "Chrismukkah Concert",
+      "text": [
+        "My first visit to the Horseshoe Tavern was on December 20th for The OC Cover Tracks Chrismukkah concert hosted by indie88. All proceeds went to charity and it was a wonderful show! The venue was perfect, the drinks and service were great and the crowd of people it attracted was so much fun. It was the perfect way to celebrate the holiday season - it made me feel like a teenager again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "Good for seeing bands up close",
+      "text": [
+        "But of course, you'll only see them up close if you are one of the 75 or 100 that get close to the stage.  If there was a way for the Tavern to make the stage along the side wall, visibility would be great for all.  The seating area is nice for when bands aren't playing.  The bartenders were friendly and worked fast despite the thousands wanting a beverage.  On a quieter night, it's a good place to meet up with some friends to have a bite and pint."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018"
+    },
+    {
+      "title": "Great ",
+      "text": [
+        "Spit and saw dust bar! Loved it! Staff were so friendly and didn’t expect a tip! We did but coming from the uk we don’t tip for a beer. Worth a visit! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018"
+    },
+    {
+      "title": "Brilliant Live music venue",
+      "text": [
+        "Frankly, I don't care if no one new ever goes to the Horseshoe Tavern. It has been around since 1947, and has done just fine. This is a Toronto landmark, and is part of what makes this city the envy of the rest of Canada, especially when it comes to music and art. Whether you are at the bar at the front, or on the small patio, it is likely to be busy. We went on a Tuesday for a concert, and the place was jumping. And those people weren't going to the show. So many legendary bands have played here, and the place is seeped in history. The bands that play here know that, and their performances tend to reflect their respect for the venue and those who have come before them. Sadly, the area around the Horseshoe gentrified in the 80s (Queen West) and, basically, it is only tourists and suburbanites who frequent Queen and Spadina these days, unless you have a show to go to. We went to see Rolling Blackouts Coastal Fever. The concert space holds about 400 people, and it can get pretty jammed, and it was that night. On a Tuesday! I prefer to be near the stage, but you can stand elsewhere and sight-lines are amazing, except for one pillar. The space is so intimate and warm. But it is the sound that puts it in the Massey Hall category. It is immaculate. And the band is right in your face. The bar can get busy, but prices are very reasonable, and pours are heavy. Check out the history, and become part of the history."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Live music and good cider",
+      "text": [
+        "Looks a bit dark and dhingy from outside but it’s a fun and lively bar. Great range of alcohol served by great staff. The main man is interesting with plenty of stories and tales to tell. Live bands in the stage out the back with a $10 fee to watch, but you can hear them from the bar. Some outside seating which is lovely on a nice evening. Recommended."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Great Live Music Venue",
+      "text": [
+        "Went here because we read that the Police played here a long time ago. We lucked into watching a young band from Detroit who played a short set on a Tuesday night. Beautiful harmonies and a lot of energy. No cover and a space with a good vibe for live music. I would go back. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Amazing Venue for music ",
+      "text": [
+        "Must come by and have a great evening of music and fun.",
+        "Sound is great and the people are there for excellent music",
+        "Stop by anytime",
+        "Michael"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Horseshoe Tavern",
+      "text": [
+        "This is my type of bar! Good music, good beer and good staff. Music is coutry / rock / 50s & 60s so may not suit everyone's taste"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018"
+    }
+  ]
+}

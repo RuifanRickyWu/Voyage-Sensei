@@ -1,0 +1,409 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Centreville Amusement Park",
+    "url": "/Attraction_Review-g155019-d155503-Reviews-Centreville_Amusement_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "9 Queens Quay W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 2H3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 356
+    },
+    "openingHours": [
+      "Mo-Fr 10:00-17:00",
+      "Sa-Su 10:30-19:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/7c/2c/17/centreville-amusement.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Amusement & Theme Parks"
+  ],
+  "description": "Centreville Theme Park is nestled in over 600 acres of parkland just across the harbour from the city of Toronto on Centre Island. With over 30 rides and attractions (including a free 40-species farm!) and more than 14 food outlets, there's something for everyone at Centreville!",
+  "duration": "Duration: More than 3 hours",
+  "reviews": [
+    {
+      "title": "Make sure to go on the Sky Chair ",
+      "text": [
+        "I honestly loved it here and would definitely recommend this place to anyone who wants to go to an amusement park that doesn't have crazy fast rides. I believe these rides were made with younger children in mind however they aren't exclusively for them. Most rides have seats that are big enough to fit an adult so you won't feel awkward riding them. I personally really loved the sky chair and went on it multiple times. It's so relaxing and the view was so beautiful!! The line wait for the rides was pretty short and you could definitely finish all the rides in the park multiple times in a few hours. It's quite cutely designed and I really loved the vintage carnival theme they were trying to go for. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Worst experience ever",
+      "text": [
+        "This is the worst experience I have ever had.",
+        "We had a ride on this Jake’s livery & Garage, and there was a technical issue of the car, we stop in the middle of the ride, the girl staff ask us to LEAVE  and GO AWAY and she REFUSED to let us ride again because of their technical issue. It sounds like it was our fault. We complained  that it’s not fair for us as we bought ticket for one ride, and this is not our problem having technical issues. And at the end she let us ride again but her attitude is really bad, and she say ‘JUST GO!’ Very rudely, ",
+        "I  have never thought of a famous amusement park can treat a customer like this, and we are very upset from that girl, we try to look for the supervisor, hope he can do something with girl’s attitude, and then he just said “what do you want from me?!you have your second ride at the end! I am the boss, I will handle it.” The whole thing is absolutely disrespectful , disappointing!! I have never have such bad experiences in another amusement park before! When i said I would like to have a formal complaint, he writes me his name JORGE with the ticketsales email. They don’t even have a proper customer service hotline, they don’t have anyway to make a complaint. ",
+        "This SUPERVISOR JORGE is not doing anything to deal with the customer complaint, the girl in that  Jake’s livery & Garage has no knowledge to deal with customer when it comes to technical issues. And she is rude to customers."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Memories and revisiting childhood",
+      "text": [
+        "This park is designed for kids ages 12 and under - but they do manage have to have some rides that appeal to older kids - the bumper cars actually let you bump - and the Scrambler in the dark is fun as long as the DJ picks decent music.  The Haunted House ride is getting a bit run down but its good for laughs and jump scares.  For the really old people the train ride and the ski-lift ride are also enjoyable.  Attached is the Far enough farm which is kind of a petting zoo.   Also fun note outside Centerville there is a hedge maze that is ideal for parents as it only has one entrance/exit."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Great for small children",
+      "text": [
+        "Took our 2 year old for the day. It was not very busy and we barely waited in lines.  My husband and I commented on how fast the rides were compared to other parks.  The ride attendants were all pleasant and friendly.  My daughter had a blast and we were not bored.  The bumper boats were closed which was a little disappointing but we assumed it was due to inclement weather.",
+        "Would highly recommend this place for small children . The older kids (10? And up) looked completely bored on the rides."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "If only the rides worked",
+      "text": [
+        "I went on a Saturday and thought the crowds were manageable. However, six rides were closed, and all of them were family-type. No swans, trains, bumper boats, pony rides, and more. It only clearly states that the log flow is closed, but once you pay the full price, well, good luck.  The map and staff won't mention how many things are closed because it's just too many. Wonderland has shows, more rides, and things to do for around the same price. If you're thinking, but I'd have to pay for parking, well, you have to ride a ferry, which is great if it follows its schedule. Not often.",
+        "Centreville has some great attractions, but the safety of the place is in question. Take a ride on the Sky ride and enjoy knowing that your child could easily fall as there's nothing securing you in place. The bar that comes over top is held in place by gravity. The bumper cars have these large, solid pieces of metal with no padding, and you wait until you hit and your child's leg hits the bar and cries. The haunted barrel works is a sad version of what it used to be, as many things are fixed in place now and don't move.",
+        "If you're wondering about food, well, bring your own. It's very expensive and decent at best.",
+        "However, I will say the funnel is great, and price-wise, it wasn't bad.",
+        "In the end, it's almost the quality of the local fair coming into town. Put in place to make money, but everything else around safety is an afterthought.",
+        "Sorry, but invest your time with your family elsewhere."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Malissa ride operator amazing costomer service skills...",
+      "text": [
+        "i had an amazing experience at centreville ",
+        "brought the big kid out we we very much impressed with Malissa the ride operator at the bumper car's attitude, enthusiasm and costumer-care and service skills.",
+        "very polite employee especially after being on your feet all day in the sun amazing worker. ",
+        "-slim"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "A Few Improvements Needed",
+      "text": [
+        "We had a great day at Centreville.  We had a 4-year old with us who loved all the rides.  However, there could be more washrooms especially when things got really busy in the afternoon.  When a 4-year old has to go, they need a washroom close at hand.  I was also not very pleased with the accessibility of some of the walkways.  I was in a wheelchair and it was difficult to get around. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Great Day Out For The Kids And Families ",
+      "text": [
+        "Cheap and very quick ferry over from the front, downtown. Excellent day out. Lots to keep the kids occupied. Great fun, all day. ",
+        "Top Tip - Get there early."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Fun and Affordable Afternoon For Little Kids",
+      "text": [
+        "Great place for families, especially with younger kids (4-9) as a lot of the attractions were designed for them. I went with my friend and her kids and they had a blast. It was way more laid back, affordable, and enjoyable for the adults than some of the bigger theme parks."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Kids loved it",
+      "text": [
+        "We visited on a weekday early in July and were surprised by how un-busy it was. There was a heat advisory that day but there was plenty of shade and a splash pad in the middle of the park. There were lots of people on the ferry but lines at the park were short or non-existent. Our kids often got off a ride and lined up again to ride less than a few minutes later. Our kids are 2, 5 and 7 and they all loved it. Buy your tickets online in advance. The line up at the booth to get your wrist bands is a bit confusing but was the only line we saw all day."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "For kids 8 and under, this is a fantastic place!  (For older people, not so much)",
+      "text": [
+        "I went here about ten years ago before having kids, and hated it.  Now I came back with two kids, and they had the BEST day ever!  Able to do EVERY RIDE, and thankfully we were there on a light day with no lines anywhere, so it was just a fantastic excellent experience.  Fun carnival food, friendly staff, we had a great time and were sad to leave.  For kids 8 or under, this is a really great amusement park."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Enjoyable",
+      "text": [
+        "Enjoyed this growing up and now can watch my daughters enjoy it!  Very nice kiddy park.  Some rides are shut down because of the flooding but otherwise, mostly intact.  They really should discount the all day passes by 10% because of the shut down rides.  I also wish there was some police presence.  A strung out lady was panhandling people with a sob story -- it was more like creepy harassment.  ",
+        "New:  splash park was redone and is amazing.  Glad we brought the girls swim clothes.  Very well done and better than the other splash park on the island.",
+        "Highly recommend this park if you have young ones."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Fun for kids!",
+      "text": [
+        "We recently visited Centreville Amusement Park with our small children. The ferry ride was nice and expensive and it was a quick walk to the rides. We opted to purchase a sheet of tickets which was enough to ride about 6 rides total for my two kids. They loced the carousel! Center Island is very nice, makes for a nice day trip. Pack snack, drinks and comfy shoes and enjoy the day out."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Made for a fun, but expensive, day.",
+      "text": [
+        "Our children were happy at this park for hours and wanted to stay longer.  The setting is beautiful and although the ferry ride required waiting in line both to the island and back, we enjoyed the ride and the views from the boat.  ",
+        "A couple of notes: ",
+        "The park rides and the food/drinks are very expensive.  I REALLY wished I had brought snacks and water (no water fountains nearby).  Also, the line for tickets moves really slowly, and they won't sell you a wristband for someone who isn't with you, since they place all wristbands on you themselves. This means everyone in your party has to wait in this slow line. Lastly, by the time we left, the bathrooms were getting to be in rough shape."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Fabulous Day at Centreville",
+      "text": [
+        "Spent a beautiful day at the park.  Brought our bikes over on the ferry to Ward's island and then rode to Centre Island.  Note that there is lots of flooding on the island (due to the high lake levels) so you will need to ride on the boardwalk to get around the flooding.  Had a great picnic lunch that we brought on the grass and then spent the afternoon on the rides.  We all got ride bracelets so were able to have lots of fun trying all the rides and since the line-ups weren't too bad, were able to ride some rides ++ times.  Suggest getting your ticket for the ferry on-line ahead of time so that you don't need to wait in the long line at the ferry terminal."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Fun for the KIds",
+      "text": [
+        "Good place to take the kids on a nice summer day. l miss the historical Carousel. What beauty she was."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Don't but tickets beforehand.",
+      "text": [
+        "We are just back from a super visit to Centre Island. We swithered whether or not to but tickets beforehand for the amusement park as you get a small discount, however we are glad we didn't. The family pass seemed quite expensive so we had a look around to see what rides my little one would actually go on (four years old)  we bought the tickets for the individual ride and saved quite a bit. We were lucky enough to visit on a warm day, the small water park and beach were fab. Highly recommend, we will definitely look into visiting other Islands and returning to explore more of Centre Island. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Great for smaller kids",
+      "text": [
+        "My 5 and 7yos loved this place. You don't have to pay to enter the park, although you do have to pay to take the ferry over. Once there, there's two options for the amusement park:",
+        "Buy tickets (each ride costs a certain number of tickets)",
+        "Buy a pass (you can buy day or season passes that allow you to ride as many times as you want for that day/season)",
+        "I'd recommend getting a pass. There's enough rides that A) it's worth it if you're planning to be there for any decent length of time and B) it eliminates a lot of hassle as you're just given a bracelet you have to show instead of dealing with tickets.",
+        "The rides are ones similar to what you'd find in travelling fairs for the most part. The target age is probably in the 4-10 range IMO. If your kids are in this range, you can probably kill a whole day here.",
+        "There's food, which isn't horrible but not great either. You can also bring your own if you'd like. There's lots of spots to sit and picnic."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "A small amusement park for young kids",
+      "text": [
+        "Kids under 12 will enjoy the area. It is one of the few reasons to visit the Toronto Island. Older age groups need not bother visiting."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Summer of 2018",
+      "text": [
+        "Had a great time there as usual.  Went for a few hours.  Brought food there this time, and went on a few rides, went to the beach and had fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018"
+    },
+    {
+      "title": "Great day - spoiled at the end",
+      "text": [
+        "Went here for a really nice day out and can't really fault 99% of the place.  However, on the last ride my two children and two friends lined up for the roller coaster but one of the girls got separated from the other three by some pushy people in the line.  The three girls were settled on the ride and then the gate shut, leaving one alone.  When the girls on the ride stood up to explain to the young man running the ride what had happened he would not listen and refused to allow the last girl through, despite there being space on the ride for her next to her sister, therefore leaving her completely alone in the line. Very poor judgement shown by this worker and it really but a sour end to an otherwise lovely day out."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "First aid caution & experience with Toddlers at the park",
+      "text": [
+        "Date: Sunday in August ",
+        "Time spent: 1030am -2pm",
+        "Cost: $80/day",
+        "Who went: 2 adult, 1 toddler (2 year)",
+        "Cost breakdown: ",
+        "parking $25/ferry ride $20/ tickets for 2 rides $20/ pizza at park and snack $10/ Starbucks coffee back on mainland $15",
+        "*toddlers dont really need rides,we did it for an experience and we packed our lunches to save on costs.",
+        "Pros: ferry ride enjoyable, lots of space on the island to walk around and enjoy the water. Farm small but free and cute animals. Toddlers like to watch the planes and watch others on rides (makes for a cheap but enjoyable outing). Staff friendly. Water splash pad good. ",
+        "Cons: food and tickets expensive. A lot of the rides are for kids over 4 feet tall. Many things closed up such as games, mini putt, and some rides. Looked a little run down in areas. ",
+        "MAJOR CON: \"first aid\"",
+        "The first aid station, does not really have anything except for Band-Aids and gauze. Keep this in mind that this is not a true first aid station. For context, my daughter was stung by a wasp and I am allergic myself. I had my EpiPen but I was not sure if my daughter carried the same allergy. I forgot Benadryl at home. I searched for someone who sold Benadryl just in case she had a reaction and it would buy me some time to get her to the mainland. They were not helpful and did not offer any solution. Luckily she was ok.",
+        "I feel that at a park with children, especially since you are on an island and away from the hospital, there should be a legit first aid station in case of an emergency or at least to prevent one. Over the counter items such as Benadryl should be sold so that parents can choose whether or not to administer the drug to their child. What worries me is that if my child had a reaction, she would have not had the help needed to delay and give her time to get help."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Great Family spot",
+      "text": [
+        "Been a couple times with my wife and now 5 year old daughter and it doesn’t disappoint! From the boat ride over to the great kids rides at Centerville! See u next year!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Enjoyable Afternoon",
+      "text": [
+        "Among other things, we spent an hour at the amusement park eating ice cream and watching the kids play in the water park. Everyone was having a great time. Lineups for the ferry can seem daunting, but they handle more people than on might think. All in all, spending an afternoon on the Toronto Islands is very pleasurable. Buying ferry tickets online expedites things."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "So expensive, but child's smile is (probably) worth it",
+      "text": [
+        "Bought an adult (more than 4 feet) and child (4 feet or less) daypass--offensively expensive--but it ended up working out nicely. The same rides were enjoyed multiple times; thank goodness we didn't have to count tickets. The log ride was probably the most fun, and we even saw a non-walking toddler brought onto the ride! Overall, we got to spend a solid 4 or 5 hours there, and once I got over the price shock, the rest of it was above expectations."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Kids Enjoy this the most on Toronto Island",
+      "text": [
+        "Lots of kids friendly rides make interesting place for kids on this mighty Toronto Island Park. Ferry to Island was great and the beach was not open due to some unsafe conditions. Overall you can spend the whole day on these islands."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Aged Park, But Your Kids Won't Care",
+      "text": [
+        "We decided to spend the day on the Toronto Islands with our kids.  As soon as they saw the signs for this place, we had no choice.",
+        "The park is decent enough for little kids (ours are all under 10), but I bet kids older than that would be bored.  I don't think any of the rides have been updated in the past 30 years, but the bumper cars still bump, the log flume gets you a little wet, and the haunted house scares the crap out of my little guys.  ",
+        "We were there in July, and the island has evidently seen some flooding, as the train ride was shut down, and sections were pretty water logged.  But almost everything else seemed to be up and running.  So go buy a sheet of tickets and let the kids have some fun."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Fun day with the kids!",
+      "text": [
+        "My 5 and 8-year-olds had a great day here!  The rides were perfect for their ages.  I went on the coaster and the log plume with them but the other rides were mostly for kids only.  The ride tickets were a bit pricey but we got them both wrist bands for the day.  It's too bad some of the rides were closed due to flooding."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Magic Place ",
+      "text": [
+        "This places is really so magic you can enjoy the environment, the centreville Amusement Park with your kids, the trip at the Ontario lake, good gastronomic options and the amazing view of the Toronto City from the Island. I Highly recommended it! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Good for younger children ",
+      "text": [
+        "This is an amusement park on Centre Island, a 15 minute ferry ride from Toronto. ",
+        "We went on a Monday morning in July and were there when it opened at 10.30.  We were there until around 1pm and didn’t have to queue for anything.   It was starting to get busier when we left though, and a couple of people told us that weekends got busy.  ",
+        "This is a good place for younger children (up to around 7 or 8), but wouldn’t hold the interest of children much older.  ",
+        "A family pass was around $130, but we decided that our children would be fine going on the rides alone.  Therefore, we bought them passes (around $43 each), and just got individual tickets for parents to ride the log flume and sky ride.  These are the only rides that adults would be interested in really.  Adults have to accompany children on some rides if they are below a certain height.  If you had to buy a pass for adults as well, I think it’s a fairly expensive attraction.  ",
+        "We didn’t eat there - there’s a pizza place and fast food outlet.  I’d probably take a picnic if I was planning to eat lunch on the island.",
+        "It’s worth a visit if you have young children."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Wholesome family fun!",
+      "text": [
+        "Brilliant family fun. Wee people loved it and still things for adults to enjoy too. Staff were super helpful and friendly and food options decent. Ques for rides were small although we did go early in season so this may have been factor  small criticism; like a lot of things in Toronto absolutely zero signage for key things such as actually getting to the park! We basically just followed the crowds "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "if less people, shorter waiting time will be better",
+      "text": [
+        "we buy a family pass which is for 4 people, so we can ride on all the rides, but actually we don't have enough time to play all of them, as some of them required a long waiting time, e.g. the roller coaster need to wait for an hour, it's too much time, and the swing also need to wait for half to one hour, so we can't play this one and the bumper car as we don't have enough time, we already spend 5 hours there, but still not enough time to play all rides. But we do tried a number of rides, e.g. the lift chair, the boat, ferris wheel, and some younger rides for my kids. We do have a happy day except we can't ride all we want due to super long waiting time for some of the rides."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Childhood memories and the tradition continues!",
+      "text": [
+        "Childhood memories and the tradition continues. We took our 2 granddaughters to Centre Island on a Thursday mid day end of August. Prior to our visit it rained but rest of the day was nice and sunny! We got there by Tiki Taxi private water taxi that leaves the docks at the foot of Spadina and very glad we weren’t packed into the larger ferry.  We purchased wrist bands for the whole family and enjoyed the freedom to go on all the rides. There were no line ups at all except for maybe one or two children and we managed to get to all rides we wanted to try during our visit. It was a nostalgic visit as some rides looked the same as when I was a young child. Each ride was well maintained. There was no wait to buy pizza, subs or ice cream and the we found a quiet spot under the trees in the outdoor eating area. Other than a few wasps our outdoor eating experience was perfect. We found the ride staff to be quite helpful and pleasant. We finished the day with a cool off in the splash pad and found the Muskoka chairs in the shade a nice spot to relax while the girls played in the water. Note - the water refill station faces the splash pad if you need your water bottle filled and washrooms are located back there too. ",
+        "I went to this park as a child over 50 years ago and I brought my own children over 25 years ago and now we have let our grandchildren experience the same fun and continue the tradition. Don’t miss this beautiful place for young children and lovely mature parks for a day trip to an island minutes from downtown Toronto. ",
+        "Thanks to all the staff at Centre Island for a wonderful day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Pack your patience (and food)",
+      "text": [
+        "- ferry to/from the island was JAMMED. Waited 30 mins for the ferry to the island and watched passengers and crew yelling at each other. Massive line to go back so we bit the bullet and paid for the water taxi back. WELL worth the $12pp- would do that both ways next time. A much calmer experience.",
+        "- tried 3x (2 separate cards) to purchase passes online. Ended up having to pay more at the park. We all got all day passes. Could have saved a few dollars if we had just gotten passes for the kids and tickets for adults. There was only a few rides for us “big kids” ",
+        "-lunch at cider bar was TERRIBLE. Shortest line so we picked there, still waited 40 mins for cold food. They were out of half of their items. Cashier was fine but the back end staff was rude. Actually rolled her eyes and walked away from a customer asking something simple ",
+        "Ride line up weren’t that bad. The little rides usually didn’t even have a line. Longest wait was maybe 30 mins.",
+        "Overall, the kids had a great time but it was very expensive and a lot of stress for us adults. We went on a Saturday so that also contributed to the crowds. I think Santa’s village or storybook gardens is an easier adventure."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Fun day",
+      "text": [
+        "We had a fun day out. We bought ride wrist bands instead of ride tickets so we could ride whatever we wanted all day. Our older kids 9 and 8 had a blast and went on many rides. The late afternoon got a lot more crowded but the morning and early afternoon was pleasant. ",
+        "Our main complaint was that on a very hot day in the afternoon it was very difficult to find a place to buy a cold drink. Went to 3 places and waited in line to be told they were out. Finally went to the beaver tails place for frozen strawberry lemonade which was the only drink they had there but it was good. ",
+        "The ferry both ways was extremely crowded and the cost was $25 for our family. ",
+        "Food at the park was expensive and not very good. We ended up with Pizza Pizza. Next time we will bring food and more drinks! ",
+        "Overall it was worth checking out. We enjoyed the log flume ride and the kids absolutely loved the scrambler ride!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Extremely overcrowded and overpriced",
+      "text": [
+        "Visited on a weekday to avoid extra busy times ie. weekends/holidays.  Waited 20-30 minutes in line for a 45 second  log ride that I paid $8 per person for.  Decided to leave after this one and only ride...and after waiting in line 15 minutes for food as well.  My kids were fed up of and bored.  ",
+        "Way to crowded  and besides that, overpriced.  Not enjoyable at all."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Clear information about cancelled rides not provided",
+      "text": [
+        "Some rides were closed but there was no information about this on the website or on the notice boards about pass prices and ticket numbers needed for rides throughout the park. We went to Centreville especially for one particular ride. It was only after lining up for a long time in the hot sun to buy the tickets that we found out it wasn't running from the  ticket seller. It was terribly disappointing! "
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2022 • Family"
+    },
+    {
+      "title": "Worth it",
+      "text": [
+        "Great outing for young families. Few attractions for older kids and teens which makes it great for young families. Less crowded.",
+        "Animal farm is ok but at this time, not a petting farm.",
+        "Rides are fun, age appropriate and quick, less time waiting around, high turnover and kids enjoy many rides Vs long lineups.",
+        "Teddy bear barrels or teacups are similar, do bears if only doing one. They need a better system when one buys tickets online, as there is no visible dedicated wicket/window for pre purchase or seasons tickets. We got stuck behind a family of 16! Fun times waiting around like smucks when one buys in advance. And why must employees put on the wrist bands. If adults cannot out those on their kids, they should just hand in the drivers licenses… not hard task and clogs up wickets.",
+        "The scary ride was jump scary and older kids would enjoy it. My four year old hated it. I also told amusement park they need to put on padding on metal bars holding people inside the carts on scary ride, as my kid kept putting head down and was close to smashing their teeth into it. Fun ride when I had to keep my arm covering a metal bar…not.",
+        "Food is standard carnival junk. Hot dogs, hamburgers, pizza and subway. They need a healthy option (even if paying a premium).",
+        "We stayed almost 4 hours and had a blast. I would highly recommend everyone go at least once. Great outing, and the kids loved the ferry ride over as well."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2022 • Family"
+    },
+    {
+      "title": "Centreville Visit on Labour Day Weekend",
+      "text": [
+        "The rides haven't changed in years; the buildings are in need of some updating. Tickets are pricey for such a short experience. The haunted house ride looks like the exhibits haven't been dusted in 20 years."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Labour Day Weekend visit",
+      "text": [
+        "Our second visit here in 4 years we found it needed improvement. The fact that there is only one washroom for the entire amusement park was ridiculous! I had 2 kids crying behind me in line because they couldn't wait any longer and there were still 20 people lined up in front of us. I also waited over an hour just to buy tickets to get in. I had called ahead to ask what the best way to get tickets was (eg:on line), the woman said to not bother booking ahead or online and just get them when we arrive. Crazy. It was sad that we spent so much time in lines waiting and not really getting enough time to ride the rides. Also, food is expensive, 2 hot dogs, 2 fries, 2 drinks was $31.00"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019 • Family"
+    }
+  ]
+}

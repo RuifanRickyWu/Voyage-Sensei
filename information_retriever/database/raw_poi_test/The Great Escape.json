@@ -1,0 +1,389 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Great Escape",
+    "url": "/Attraction_Review-g155019-d6643942-Reviews-The_Great_Escape-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "165 Geary Ave",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6H 2B8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 83
+    },
+    "openingHours": [
+      "Mo-Fr 18:00-23:00",
+      "Sa-Su 13:00-01:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/dd/42/f9/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Escape Games"
+  ],
+  "description": "A real-life escape room in Toronto is here! A wonderful adventure, a task with a 100% unforgettable experience! Secret and/or closed doors, lots of creative logic puzzles and fun tasks to complete, locks with combinations, hidden things, riddles and codes, and items that may hold the key to your escape. Don't wait any longer for this fun and unique experience. You can easily book online today!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great fun!",
+      "text": [
+        "Our first time here and we’d definitely be back.",
+        "Ali, our guide was very informative and made the experience an informative and relaxed one.",
+        "Thanks Ali!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022 • Family"
+    },
+    {
+      "title": "Amazing first experiance ",
+      "text": [
+        "Amazing experiance, clearly explained by Lee. First time trying any type of experiance and this blew all expectations. Would reccomend to anyone looking for something different to do with a few friends. The great games area and bar is a nice surprise also! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021 • Friends"
+    },
+    {
+      "title": "FKIN AMAZING",
+      "text": [
+        "Had such an amazing time! Staff are fab, Lee is a great game master, we’re 100% booking to come back again "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020 • Friends"
+    },
+    {
+      "title": "Close to the worst experience",
+      "text": [
+        "The place is definitely not good. We have been to the Thai prison escape last week, and we were deeply disappointed. A few times we had to call for help as we were not able to open the lock with the correct answer because there was no indication on the lock on how to align the numbers. The manager was supposed to go through this with us before the game, but she did not do this. Her excuse was that there were a few groups starting at he same time, and she just did not have enough time to brief us. Also, one time giving us help she said that she would not be available for us in case we need her in the next 10 min as she will be busy with another team. I am not aware of why she has noone else to help or brief players, provided they got paid by both teams. We wasted half of the time in the beginning with those few locks and her being unavailable and the whole fun was killed by the frustration. When we told her about this, she behaved very arrogantly and aggressive like we were unhappy for no reason.",
+        "The game itself is illogical to the extent that sometimes you need to input POTS when the correct answer is STOP (the other direction). There are three rooms and you need to go back and forth and you never know what code is for which lock - when you find a code you literally go and try it on all the available locks (without knowing how to align the answer on the lock, so virtually checking all possible combinations). This eats all your time and gives lots of frustration. ",
+        "Result - the game would kill your day rather than make your day good..."
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Indiana Jones Room",
+      "text": [
+        "We did this room the other day and did not enjoy it. We have all done several rooms before and none of us really enjoyed this one. There is no flow and you need to listen to the clues on the tv. In other rooms they watch you and respond right away. This time it took too long for them to respond when we were stuck. It had no flow to the clues at all."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Worst escape room ever",
+      "text": [
+        "Went here last week with my husband and 18 yrs old son.  First of all the props and rooms are quite cheaply made.  We've done a few escape rooms before, so had some idea on how they work and what to expect, while understanding that each Escape room is different. However,  the Harry Potter room had no flow to the game, there were too many red herrings that weren't necessarily as the puzzles were complex enough. The \"locked\" door to the second room needed a code to unlock it however my son just turned the handle and it opened on it's own.  In my opinion the puzzle should start off fairly easy and then gradually get more challenging.   It's really frustrating when you can't even find the first clue and need to ask for help. The second one we did was the hangover and that wasn't much better some of the clues were very random and had absolutely nothing to do with the hangover theme I also think you need more than three players per room maybe to help with some of the puzzles all in all I would not recommend this place and definitely enjoyed the Imaginarium Escape room much better."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2019 • Family"
+    },
+    {
+      "title": "Terrible All-around Experience",
+      "text": [
+        "My experience at The Great Escape Canada was very bad from the second we walked in. We did the Harry Potter room at 9 pm on a Saturday night and you could tell the hostess did not want to be there. She clearly wanted to just go home, telling all of us that \"we are her last group and would like to get it over with\" and rushed us in the room. There were 13 of us in our group and she put us all into the same room (normally escape rooms would split big groups into 2 to compete) and I know they have more than one harry potter room to do this. The hostess basically threw all 13 of us in the room, gave us very minimal explaining, and just left. The puzzles were terrible and some of them didn't make any sense to 13 people trying to figure out one room. The Harry Potter \"theme\" was bad and cheap, having random printed off pictures of the characters. The door leading to the second room was just unlocked without doing anything! Whats the point of an escape room or solving puzzles if that's the case? I will not be going back to this escape room and I was very disappointed by our experience there. Highly recommend not going here."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Great fun!",
+      "text": [
+        "This was my dad's first time doing an escape room and he absolutely loved it! :)  My husband and I love doing escape rooms and we thoroughly enjoyed it as well.  The room we did was the Indiana Jones one.  We are looking forward to going back and doing The Hangover room - thanks for the experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Total Rip-off on Groupon",
+      "text": [
+        "This company has a misleading ad on Groupon and they know it. I recently bought a Groupon for a Private Escape Room at The Great Escape. The coupon says 'FOR UP TO 4 PEOPLE'. However, this is totally misleading since 1 or 2 players would actually pay less if they booked through their website directly. ",
+        "In our case, we were 2 players and when we got to The Great Escape, one member of the staff informed us it would have been cheaper to book directly through their site: the price would have been $56.5 -hst included- for the two of us. However, we paid $81.5 (taxes included) for the Groupon deal.",
+        "I emailed them to kindly ask for a refund of the difference ($25) and they declined. They know they can take advantage of the misleading information on the ad and easily sell their games to groups of 2 through Groupon for more than it is actually worth.",
+        "This is sad because we actually had a nice time and enjoyed the experience, however I felt ripped-off and therefore I'd say go have fun and spend your money to other Escape Rooms in Toronto were players are not taken advantage of."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "A poorly experienced escape",
+      "text": [
+        "The rooms are not well maintained and some of the clues are worn out. There are so many trashes in the room making you waste a lot of time searching each pocket of those dirty clothing. The combination locks are so worn that we have hard time to recognize the numbers. Very disappointing"
+      ],
+      "rate": 2.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "Professional quality, tons of fun",
+      "text": [
+        "The rooms we played in were set up and decorated in a authentic way - no paper cutouts supposed to be something else. Real furniture, real paintings, and a lot of curious objects that constituted the puzzles. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2015 • Business"
+    },
+    {
+      "title": "Fun and unique",
+      "text": [
+        "What do you do when you take an impromptu trip to Toronto? An escape room of course! I have heard of these previously and have always wanted to try one so why not do something new on vacation? If you ever enjoyed playing games like clue as a kid you will love this attraction. It really feels and plays like a lifelike board game, but instead of playing against your friends you have to learn how to work together to find your way out. My friends and I took on \"The Da Vinci Code\" game, which was explained to us by their very friendly staff as being the hardest game at the time. They also explained that they actually put in a lot of research before creating these games and will change them up from time to time. The game actually ended up being a bit more difficult than we thought it would be and I highly recommend bringing plenty of smart friends with you as the two friends I was with were not able to get us out of the rooms in time. We had a lot of fun though and time flew by extremely fast trying to figure out all the clues. Give it a try(I plan on doing more of these now), I'm sure you won't be disappointed!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "A well constructed and challenging game",
+      "text": [
+        "It was a refreshing change from the ordinary attractions offered in Toronto.  My friends and I arrived with few expectations and left with a memorable experience.  We were placed into the Da Vinci scenario.  The game had a lot of thought put into it, along with attention to detail of the room itself.  This particular scenario is challenging enough to have fun and be able to finish within the hour deadline (Although we did not finish in time).  The management is helpful and dedicated, which is shown through good service and thought provoking obstacles.",
+        "I highly recommend this game to anyone in the Toronto area."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "Great experience.",
+      "text": [
+        "Was in town visiting and came across this place.  Staff was extremely helpful, was able to get my group into their \"Da Vinci Code\" themed game.  ",
+        "The game itself was extremely challenging and fun.  The group I was with had never done one of these before, so it took a couple minutes for them to get into the rhythm, but once we did the clues started to piece together.  The intricate details of this game were amazing, you can tell the owners love what they do and put their hearts into it.  ",
+        "My group finished in just about 70 minutes (no one was behind us so they let us finish) with just a little help from the game manager.  It was a great experience and I hope to return on my next visit to try one of their other escapes."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "Good fun with a group",
+      "text": [
+        "Went and played the hangover and da vinci code.  The hostess was very friendly.  The games were done well, good creativity with the room and decor.  There is the chance to \"jump ahead\" which can really make the puzzles harder if you lose track.  Overall would recommend to beginner and intermediate escape players."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "The Da Vinci code",
+      "text": [
+        "We went in without a reservation and we're only able to do the hardest one since no one dared challenge it. The intro was well given by the two attendees (sisters). ",
+        "The room was well constructed. It was complicated and challenging. It really had us thinking and working together, delineating roles and tasks. ",
+        "They give multiple clues if needed yet not directly telling you what to do. ",
+        "Definitely one of the better ones in town. ",
+        "Try it out!! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "Great Experience!!!!",
+      "text": [
+        "We had such a great time when we visited The Great Escape. The staff were so enthusiastic and really made the experience worthwhile. We first tackled the Hangover escape room, it was so well planned an a lot of fun. We then attempted the DaVinci Code escape room - it was such a great challenge and extremely well thought out, I recommend it!",
+        "The owner really made our experience as he chatted with us about how escape rooms came to be and how he and his wife created the rooms. Really fascinating info. ",
+        "I highly recommend The Great Escape if you are looking for a fun night!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Couples"
+    },
+    {
+      "title": "Fantastic time!",
+      "text": [
+        "The workers were really nice and friendly. At first we didn't really know what to do, so they guided us in the right direction and we had a really great time! We played the hangover and thought it was really nicely put together! I have only played two other escape rooms in my life, but this was was probably the most fun! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Friends"
+    },
+    {
+      "title": "The Hangover Brilliant",
+      "text": [
+        "I was in Canada for a few weeks, visiting from Budapest and stumbled upon The Great Escape Canada, and was pleasantly fascinated!!! What an amazing game, it really feels like you are hung over, as the game is not logical and is designed to make you feel displaced, which is brilliant considering you are not hung over when you play the game. I would recommend this game to anyone who wants a unique experience. There games are at par with the ones I played in Budapest, which is the Epicenter of gaming in the world!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Friends"
+    },
+    {
+      "title": "Cool Idea, Poor Execution ",
+      "text": [
+        "My friend and I went to complete the hangover room and we escaped with seconds to spare. The puzzles weren't very clear and there were a lot of red herrings that made it very difficult. I don't mind a rough room but this felt a bit scattered. ",
+        "I was also not impressed that when you go to pay you can see the cameras that watch over the rooms. I felt that ruined a bit of the surprise for me... ",
+        "In terms of hints, they came in to provide hints which, I felt, took away from the story. The hints were definately useful to complete the escape, however. It also appeared that they didn't watch the cameras very carefully because they asked us to catch them up with what we did. ",
+        "Finally, during the entire game we could hear the employees listening to music and chatting which was distracting and took away from the experience. ",
+        "The room is a very cool idea itself but the execution wasn't great. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2015 • Friends"
+    },
+    {
+      "title": "A Totally FUN place to go!!",
+      "text": [
+        "We had a corporate function, and our whole team had an awesome time!! highly recommend this place for anyone that has a mind for adventure :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016"
+    },
+    {
+      "title": "A great birthday party",
+      "text": [
+        "We hosted my son's 11th birthday party at Great Escape and it was a big success. We had two groups of 8 boys each, none of whom had done an escape room before. They each did one room, then a break for lunch and then did the second room. Lots of fun and feedback from the parents was all positive."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Family"
+    },
+    {
+      "title": "Even better our second time!",
+      "text": [
+        "So last week we decided to go back to the great escape and check out another game! We played the Da Vinci Code and it was very fun. I really liked the design of the different rooms and how the game challenged our thinking skills. I've noticed a negative review for this game and I was surprised since we had so much fun. The staff is also very friendly and professional. Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Da Vinci Code is far from what I call fun",
+      "text": [
+        "Tedious, red herrings everywhere, terrible room design.",
+        "This is a review for The Da Vinci Code only, as it's the only room we played. The room has no concept of fun except for two puzzles. It's filled with books, maps, and other irrelevant stuff that make you search for nothing. Even a note you get from a locked box has misleading information, which we found out later that it's just a prop. Yes there are clues but no one could have figured it out among five hundred other red herrings, and black light shouldn't be put in this kind of room since it'll take forever to shine it on every single object. You never know if that black light is needed for one puzzle, so you are going to shine it on everything twice. That's two times forever long. Is it fun? I call that frustrating. ",
+        "They want the room to seem cool by having cool words and poems everywhere, and only one of them is relevant. Is it fun to spend 10 minutes trying to decrypt what you later realized is meaningless? Or to read a page long paragraph that is merely meant to add to the atmosphere? ",
+        "Many of the puzzles are just \"tasks\". I felt no satisfaction in solving (or rather doing) them. Why on earth would you give us an expression to find the 4-digit code, instead of the code directly? Is it fun? I ask the question again, and the answer is still no.",
+        "After an unsuccessful attempt to escape, I was exhausted, lost, unimpressed, frustrated. It felt like I just got released from a jail after 10 year sentence, like a man leaving an office after working non stop for 20 hours on a group project of the son of his boss. Why did I pay them to be tortured? Why did they create this nightmare? We will never know since we are all dead inside."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "Not a great room",
+      "text": [
+        "We came here because it had an open room in the right area at the right time.  We did three rooms today and four this weekend.  This was, by a wide a wide margin, our least favourite.  The male host is friendly, but he talks far too much both before and during.  Any room that requires that much explanation is not going to be good.  This instruction was necessary to make up for the lack of flow in the room.",
+        "This is the most basic of rooms (first endeavour).  The rooms are laid out nicely, great props, but as other have said, too much extraneous clutter.  The clues and riddles range from the ridiculous to he ridiculously simple.  ",
+        "When asking for clues, the host just gave too much information and would not go away.  The puzzles made little sense to anyone who had not designed them. One clue was just wrong and so unnecessary we tried to figure it out even though it contributed nothing.   Because the clues were so senseless we overthought many.  One exception was the female host who spoke little but effectively.",
+        "There was zero wow factor.  We were often frustrated and left the place feeling ripped off frankly. We saw the hangover room....similar theme to one in any other room we did, but nothing to compare...",
+        "Our least favourite room ever."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2016 • Family"
+    },
+    {
+      "title": "Highly recommended !!!",
+      "text": [
+        "Great place! I went a couple of times and its honestly one of the best! Definitely fun, very challenging and there's alot of variety! Its family friendly and its also a great place for friends to hang out! Zsofia Fekete, the hostess, is so friendly and professional! Definitely a thumbs up and definitely go check it out! Highly recommended:)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Friends"
+    },
+    {
+      "title": "Nice guy working there and a great experience",
+      "text": [
+        "My girlfriend and I went there a few months ago. It was our first time doing an escape room. It was lots of fun! Definitely very challenging."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2015 • Couples"
+    },
+    {
+      "title": "Unprofessional, poor customer service!!!",
+      "text": [
+        "Made a reservation online, received two confirmation emails and showed up 15 minutes early as per the email instructions. The place was closed! ",
+        "I called the phone number on the email and was informed that 1. The daughter was on the way to open the place for the day but stuck in traffic  2. Even though we had a reservation they didn't bother with it because people just often don't show up. Well what is the point of their online reservation system?!?",
+        "The daughter showed up 20-25 minutes later, while we waited. We had a very tight schedule and really could not stay for the whole hour at that point. She gave us two choices:  \"Well you can just leave...or I'll let you in for $20 per person.\" So, either we busted our butts to get there on time, eating lunch in the car, and waiting there for 25 minutes for nothing, or we could save ONE DOLLAR per person. Great choice! ",
+        "Ultimately after some arguing, (during which the employee did not take responsibility, \"It's not my fault. There was traffic.\") we got 50% off, but the whole experience put a real damper on what should have been a fun and enjoyable.  ",
+        "Additionally, the escape room was pretty lame. It is hard decide whether this is a 1/5 or a 2/5. The kids & teens I was seemed to enjoy themselves so I'll go with 2/5."
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2015 • Family"
+    },
+    {
+      "title": "Best escape game ive been too!",
+      "text": [
+        "The rooms were terrific! I've been to a few escape games around Toronto, but I gotta say that this one was the most fun I had at. First we played the First Endeavour, which was a very cool game, I was surprised that the game had three rooms. All the other games I've been to had only one room per game. After we finished the First Endeavour, our group had so much fun we decided to play another game, which was the Hangover. If your looking for a fun day out, I definitely recommend checking out the Great Escape. 5 stars. We shall be back for the Da Vinci Code! :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Friends"
+    },
+    {
+      "title": "There are better options",
+      "text": [
+        "Wasn't a great room escape experience. We escaped but some of the clues had been left out. There are more engaging and fun room escape options in Toronto. It wasn't fun. The girls at the front desk very customer service oriented though."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2014 • Friends"
+    },
+    {
+      "title": "My amazing experience at the Great Escape",
+      "text": [
+        "The Mummies Curse was definitely an amazing experience for my friends and I. We had an absolute blast and definitely recommend it for a night out with friends or even family."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Interesting but staff ruined it",
+      "text": [
+        "I booked Da Vinci challenge for four of us. This was to celebrate my son’s birthday. Unfortunately, the surprise was ruined by staff forgetting to leave a kettle in the room which got us stuck in the second room. The kettle was eventually brought into the room #1 but just 1 minute before our time was to expire. We just heard the door opening and when we got there we saw the door closing and noticed the kettle by the door. The staff claimed that the kettle was in the room under the table where the laptop is, which given how big the item is and how often four of us were there and looked all around the table, a ridiculous claim. I did not want to argue on the spot in order to not further ruin my son’s experience. However, I was really disappointed with this approach. Mistakes can happen but lying about it and putting a blame on a customer is not something that I can appreciate. I am very disappointed.",
+        "Aside from the above described, solving these challenges is an interesting experience."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2019 • Family"
+    },
+    {
+      "title": "Fun and exciting",
+      "text": [
+        "The great escape is a great place to go too!! My cousins flew in from New York and we decide to give the Great Escape a visit! The staff members are super friendly and welcoming I can definitely say we had a great time! Going to the Great Escape is both fun and excitingwith big groups! I can't wait to go back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "Disorganized & Disappointing",
+      "text": [
+        "We were going to buy from Groupon, but I called to find out availability and they offered us the groupon rate directly, so we booked for the next day in the DaVinci Code escape room. We arrived, completed the waiver, and were briefed. The lecture about not moving props and paying for anything that broke was a bit much considering how cheap most of the “goodwill store” props were, and how much moving of props was necessary to find the clues. We called for a hint about 15 mins in and nobody came, so after trying multiple times over 10 mins, we went out and found them in the next room. They gave us 10 mins credit for that delay, which was fine. Then we kept going and found all clues in the first room, but could not find the key to the next room. Wasted another 15 mins trying to find it. We called for another hint and were told that we had lost the key...but they would open the door for us and give us 10 more minutes. 2 mins into the new room I found the key to open THAT room. It was on the other side of the locked door all along. A new employee had messed up the set up. At that point they offered us unlimited free hints because the next party had arrived. We were so fed up by that point, we got through most of the second room then had to leave. Given their lack of organization, I think we should have been offered a free repeat visit. It was a waste of time, bad customer service, and I would not recommend it, even with the groupon deal. Very disappointing!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2018 • Family"
+    },
+    {
+      "title": "Fun but a bit chaotic",
+      "text": [
+        "First escape room experience so can't really compare. There were 6 of us in the First Endeavour. The rooms were fun and in character. I found that the clues could have used better writing and more structure. I found it a bit chaotic as the sequence was a bit out of place. Nevertheless it was fun and with some hints from the staff we were able to escape with a couple of minutes to spare. Free parking on the street, staff friendly, washroom on site. Got a deal on groupon."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2018 • Family"
+    },
+    {
+      "title": "All good once we got there",
+      "text": [
+        "I had bought a groupon on a whim and had some trouble finding a date that would work since they are only open on weekends. However, once we got there everything was great. We had a challenging room (Hangover) but made it out just in time.",
+        "Be ready to pay tax on the groupon."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017 • Friends"
+    },
+    {
+      "title": "Sadly disappointed",
+      "text": [
+        "I've done all the rooms offered at this location and after doing other escape rooms I realized just how bad this one was. The place wasn't well kept and seemed sort of dingy. The rooms weren't horrible but weren't great either! Most of the time you were going through things and unlocking 'clues' that didn't lead anywhere. There's a difference between a trick and a total waste of time that they haven't quite figured out. Seemed 'okay' for my first time escape room adventure but trust me, there are better places!"
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Dissapointed with the service and their sketchy sales tactics",
+      "text": [
+        "I bought a groupon to take my son and his friends for his birthday. Nowhere in the groupon website or the groupon confirmation itself was it mentioned there were restrictions on dates or additional services. When we tried booking our visit, they came up with restrictions on days (weekends only), I couldn't reserve the party room either (any of these options were available for a hefty $100 fee). They didn't gave us any options, so we had to cancel our party and look for something else to do."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2017 • Family"
+    },
+    {
+      "title": "Mr",
+      "text": [
+        "Purchased a groupon and had a blast.  Party of 9 tackled the da Vinci code room. It was challenging but fun. Would recommend to someone who can problem solve and has patients. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "This was a great team building exercise, bring your brain!",
+      "text": [
+        "Been to many team building events, hosted a few but this one event was attended by the entire team!",
+        "A great mind challenge, and each team (there were so many we broke in to 2 groups) fully participated, and had such a great time they are still talking about it today.",
+        "For a good mind game, please check it out. ",
+        "P.S. Use the clues and hints."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Business"
+    }
+  ]
+}

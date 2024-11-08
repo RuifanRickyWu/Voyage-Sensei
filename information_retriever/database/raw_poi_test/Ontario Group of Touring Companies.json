@@ -1,0 +1,188 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Ontario Group of Touring Companies",
+    "url": "/Attraction_Review-g155019-d3443085-Reviews-Ontario_Group_of_Touring_Companies-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 19
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/8d/31/de/ontario-group-of-touring.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Beer Tastings & Tours",
+    "Sightseeing Tours"
+  ],
+  "description": "Providing unique day and afternoon craft brewery tours in Toronto and Niagara with visits to small breweries and including a tour of one and flights of regular and seasonal beers at each. Ultimate Canadian Craft Beer Experience in Toronto, Canada's only craft brewery tour recognized internationally as a Canadian Signature Experience. Provides daily wine tours to Niagara and Canada's newest wine region, Prince Edward County for individuals and groups with return transportation to Toronto and surrounding areas. Includes experienced knowledgeable guide, visits to four wineries with a tour of one and flights of wine at each award winning winery, and lunch at a winery overlooking their vineyards or at a popular, local restaurant. More than 25 years experience organizing tours for small intimate groups and corporate visits.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "First Class Experience",
+      "text": [
+        "First class experience from start to finish. Jamie took great care of us and the venues he chose for our trip exceeded expectations. His Suburban was spacious & clean. Recommend unconditionally"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great way to celebrate a 40th bday. ",
+      "text": [
+        "Jim was absolutely fantastic. The wineries he selected were a great variety. Lunch was awesome. Overall a fantastic experience and great way to celebrate my wife’s 40th. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Couples"
+    },
+    {
+      "title": "Awesome Wine Tour Experience",
+      "text": [
+        "Wine tour including a tour to Chateau des Charnes, ",
+        "Maria was a fantastic host, personable and knowledgeable. Shout out to her and please acknowledge her with a special bottle of vino! She deserves to celebrate!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Friends"
+    },
+    {
+      "title": "Incredible Experience!",
+      "text": [
+        "Cannot say enough good things about this tour. It was a wonderful way to experience wines from a number of different wineries in the Niagara region direct from our hotel in downtown Toronto with absolutely no hassle or planning required. Our tour guide, Jim, went above and beyond to make our experience great! I was extremely pleased with the value I got from this experience and I would highly recommend it to anyone visiting Toronto and looking to be introduced to Niagara on the Lake. ",
+        "Delicious wines, delicious 3 course lunch, and an incredible day all around! Thank you again, Jim."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Excellent",
+      "text": [
+        "Highly recommend this touring company! Our tour guide was a gentleman and the overall tour was a ton of fun. Very very pleased and will definitely be telling friends about it. Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Friends"
+    },
+    {
+      "title": "False Advertisement!",
+      "text": [
+        "I’ll start by saying my tour guide, Bill was an excellent host. We did not however get the trip we paid for. We never visited Pelier Vineyard or The Ice Bar. Although clean and modern, there was no luxury vehicle. When I contacted the company, I was told it was a seasonal experience. This was never told to me in advance. The description I’m Trip Advisor and my confirmation described a totally different experience. The photos in the confirmation are of people in the Ice Bar! It is unfortunate that this misrepresentation occurred. I would NOT recommend booking with this company!"
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Winery Tour of Toronto",
+      "text": [
+        "I had a wonderful time with  my tour guide Bill! Im from Los Angeles ,California and i choose my first EVER winery experience with the beautiful Canadian winery! Im here to celebrate my Dirty Thirty and had a wonderful time with my fiancé! I had never experienced the taste of Ice wine 🍷 until Canada! I will be back and hopefully for another tour!  All four winery were unique in there own way and the pure taste of Canada in every taste! 😇 Thank you again! From L.A.!!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Couples"
+    },
+    {
+      "title": "We loved our tour",
+      "text": [
+        "Because it was the off season, our tour was small (just two of us), but we got the full tour experience. We couldn’t have had a nicer time. Jim drove us to four wineries and to lunch—a super convenient and stress-free way to see the Niagara wine region. We loved the tour and had a lovely day. Thank you Jim!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Couples"
+    },
+    {
+      "title": "Wine tour",
+      "text": [
+        "Excellent courteous gentleman made the tour so great we we’re there for medical reasons and forgot everything except the tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "Perfection!",
+      "text": [
+        "We are well traveled, and this was still a special tour.  Jim could not have been kinder, and the wineries he chose were elegant and tasty. Lunch was generous, and we were blessed with great weather to boot!  Highly recommend!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Excellent Experience!! ",
+      "text": [
+        "From pick-up to drop-off... simply amazing.  Jim was our guide and his commitment to excellence exceeded expectation! He was informative, kind and fun! Our favorite spot was Peller Estates and Arienne is one of the best I’ve encountered during a wine tour (this includes Napa, Sonoma and Tuscany). I will definitely be back to visit Niagara-on-the-Lake and Luxury Wine Tours is on the list! "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Excellent Experience",
+      "text": [
+        "If i could give more stars i would. Jim was absolutely an amazing. He was prompt and professional and extremely accommodating. The selections of wineries were amazing Pillar Estates is an experience that wine drinkers should have. Our guide was extremely knowledgeable and we learned so much.  We also visited some smaller wineries giving additional variety and they were absolutely phenomenal. I would absolutely use this service again and highly recommend Jim!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Wine tour Niagara-on-The-Lake",
+      "text": [
+        "OMG what can I say Jim Bruce you made our wine tour the most awesome day ever. We had so much fun you were so patient and kind, and very informative. The winery’s, the lunch, the pub amazing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Outstanding Tour!!",
+      "text": [
+        "A large group of us did a Niagara Wine Tour as part of a bachelorette party and it couldn't have been any better! We were picked up early in the morning and taken to four different wineries throughout the day. In between wineries we stopped for a nice lunch that was included in the cost of the tour. ",
+        "Our driver Jim was exceptional and he made the tour an incredible experience for those of us on the trip that rode with him. His knowledge of wine and the Niagara region was also a great benefit! I am looking forward to booking another trip with Jim in the future! ",
+        "Highly recommend this tour company!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Glorified taxi service",
+      "text": [
+        "I can't see why we (4 adults) paid $600 to visit 4 wineries, and have a lunch. Save your money, drive down yourself. There was absolutely no tour included, private or otherwise. Completely dissapointing, and not worth the money at all."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2015 • Friends"
+    },
+    {
+      "title": "Awesome experience - Toronto to Niagara Wine Tour",
+      "text": [
+        "My friends and I booked for a 7 person Toronto to Niagara Wine Tour and had Jim as our guide. He was very helpful, was very knowledgeable and made sure to even inquire about what wineries we'd been to before to give us the best, new experience. We went to Inniskillen, Reif, Lailey and Fielding Estates - and the 3 course lunch was in a fantastic spot with amazing wood fire oven thin crust pizza. The chocolate desert wasn't too bad either! ;)",
+        "I love that we were able to arrange pick up at my condo - as I live right downtown Toronto.",
+        "The service at the wineries was great, even with a larger group.  We had a a special tour and tastings in a couple of private atmospheres - we felt all the staff knew Jim well and were really on their game.  Jim seemed to have impeccable timing as well - at every location we got there with only a few others around and as we'd be heading out the crowds would come in - impressive.",
+        "My friends and I had such a great time, we're looking for another date to book again - maybe the brew tour next time! I'd highly recommend this to anyone!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2015 • Friends"
+    },
+    {
+      "title": "Explore Toronto's hidden gems!",
+      "text": [
+        "On Jim's \"Where the Chefs Dine\" tour we were able to explore the diverse food markets that Toronto has to offer. As well as discover hidden gems across the city and eat like the chefs do!",
+        "This chauffeured tour allowed us ample time to explore each location at our leisure without pressure to move on. I would definitely recommend this tour to anyone wanting to sample the delicious mosaic of food culture in Toronto. ",
+        "What a great way to spend an afternoon. Thanks Jim!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2014 • Solo"
+    },
+    {
+      "title": "You drink, they drive.......A great way to spend a Day!",
+      "text": [
+        "This was our second time doing this tour. On making the booking, I advised Jim that we did this tour a year ago. He made to sure find out what breweries we had seen already (not just on the last tour but even through our own tastings) and he arranged a customized tour so that we would get to experience a whole new set of breweries. Both Jim and Bill are great tour guides with genuine, classic customer service and a desire to please. I would recommend this tour to anyone who enjoys a few brews. The breweries all make sure you aren't thirsty and Jim and Bill make sure you get to the next one on time....teamwork at its best!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Friends"
+    },
+    {
+      "title": "Ontario Craft Brewery Tour",
+      "text": [
+        "We toured 3 GTA micro breweries (Mill Street, Black Oak and Great Lakes) and sampled some fine craft beers. We had a detailed tour with a brewmaster and learned a lot. The chauffeur/guide was great. I would not hesitate to recommend this tour to anyone. They also have other types of tours. Great value and a great gift idea for family or friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2012 • Friends"
+    }
+  ]
+}

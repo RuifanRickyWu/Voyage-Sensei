@@ -1,0 +1,199 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Tiki Taxi",
+    "url": "/Attraction_Review-g155019-d11678396-Reviews-Tiki_Taxi-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "437 Queens Quay W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 1A2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 18
+    },
+    "openingHours": [
+      "Mo-Fr 10:00-20:00",
+      "Sa-Su 09:00-21:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/da/94/6e/tiki-taxi.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Boat Tours",
+    "Ferries",
+    "Private Tours"
+  ],
+  "description": "Tiki Taxi is the best way to get to and from the Toronto Islands. Experience direct, on-demand water taxi service to Hanlan's Point and Centre Island from our city-side dock at Spadina & Queens Quay.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Easiest transport to Hanlans",
+      "text": [
+        "This is my preferred way with getting to Hanlan's beach. Service is fairly quick, but can get a bit busy during the weekends at the peak of summer. Streetcar stops right in front of the pier where the boats are docked."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "10/10 Best Water Taxi service in Toronto!",
+      "text": [
+        "My friends and I always have great experiences on the Tiki Taxi. The staff are incredibly friendly and helpful, and always go out of their way to make the guests feel welcomed. Shout-out to Captain Ron for providing such great customer service this afternoon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2020"
+    },
+    {
+      "title": "Exploring Toronto Islands",
+      "text": [
+        "What a wonderful experience of zooming across the Harbour ",
+        "Bay, puttering along shady silent canals and drifting while photographing swans and cygnets being trained by their parents to swim and eat seaweed. Thank you to Captain Mario for making the trip so memorable with the comfortable seating, romantic music, soft breezes and forgetting all about our recent Covid life."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2020"
+    },
+    {
+      "title": "Private Tiki Taxi ride",
+      "text": [
+        "My boyfriend and I booked an evening private tiki taxi ride yestersay. We went for the 8:15PM ride. It was AMAZING!! ",
+        "MArk was our captain for the evening and he was such a delight!! ",
+        "He took his time and made sure we captured all the right pictures and he even took pictures of us without us even asking!",
+        "He took turned around just because we kind of missed taking a picture of the sunset. He is so sweet!",
+        "Paid $180 plus tax and it was definitely worth it!! You get an hour to go on a private tour with music, and you can bring food and something to drink. They are so friendly and we had such a GREAT time!",
+        "This is perfect to just unwind and relax, spend a birthday, anniversary, or just treat yourself just because! ",
+        "They are always booked, so try to book early! You will not be disappointed!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2020"
+    },
+    {
+      "title": "Great Service, Personable and knowledgable drivers!",
+      "text": [
+        "If you're trying to get outdoors and want to go to the island this summer, this is the best service I can recommend. Sometimes lines but it's worth the wait, fastest taxis, best service, nice drivers always willing to chat, ask them anything about Toronto and they'll answer!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "This is insane value",
+      "text": [
+        "I’m actually pretty angry - I’m born and raised in Toronto and have been going to the Islands my whole life and HOW did we not know how cheap this service was?! ",
+        "The Ferry tickets are $2 cheaper and you spend SO long waiting to go to the island - and sometimes hours in the sun in long lines to come back. ",
+        "I was at a festival at Harbourfront and the sales guy was like $10 and $5 for my kids - what?! ",
+        "We went over and then back and on a beautiful sunny day the ride was half the fun! ",
+        "Also this Taxi team plays music and are really nice, coming back the guy stops 1/2 way and takes pictures of me and the kids on the skyline! ",
+        "If you’re coming to Toronto, skip the lines and gross Ferry. Take the Tiki! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "Just $10 each way?!",
+      "text": [
+        "If you’re from out of town (like me), these are the best $10 you’ll ever spend in Toronto. Take the tiki taxi at sunset and you’re guaranteed the best pictures of Toronto’s beautiful skyline. Not only is it a fun ride if you’ve got the need for speed but the driver is so friendly and even offers to take a picture for you. Loved every minute of it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Excellent Service!",
+      "text": [
+        "We usually take a water taxi to the Toronto Islands, but had never been on the Tiki Taxi until recently. We were returning from Ward's and heading to Jack Layton ferry terminal. The Tiki Taxi usually only goes to and from Spadina, but the driver was happy to make a detour for us.",
+        "The driver was super friendly, offered to take our picture, and helped us load our wagon onto the boat. The water taxi itself is super cute. Love the tiki theme.",
+        "Costs $10 each way and it's well worth it for the excellent service you receieve."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Excellent service",
+      "text": [
+        "These guys are great.  Not only is it fast and efficient, they're really friendly and helpful too.  They'll load your bicycle on and off and offer advice about Centre Island if you need it.  I'll always use them to get the islands."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Awesome service and so much better than the ferry!",
+      "text": [
+        "We were headed to the island for the Dominion Day Regatta. I haven’t been to Centre Island in years because I hated the whole crowded ferry and experience the last time we went. I contacted Tiki Taxi and arranged for an early morning pick up at 7:30am. Tina was great and our boat and captain was very punctual and friendly. We had a smooth, peaceful ride over and beat the hundreds of people that were packed on the first ferry at 7:30. ",
+        "At the end of the day, wewere going to take the ferry back and stood in line for a couple of minutes. Then saw Tiki Taxi pulling in and ran over to catch a ride back. ",
+        "Thank you Tiki Taxi. We have told all our friends about your boats and will be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Fast and Fun!",
+      "text": [
+        "We were told about the 'fast' boat and I am so glad we took it!  The Tiki Taxi is affordable and it gets you to the island quick.  We decided to take the ferry back (it's free for the return trip.)  and we had a great time at the island.  ",
+        "Tiki Taxi is the best way to get there and it's fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Best way to get to Toronto Island!!!!",
+      "text": [
+        "Wonderful service! Helped us with the stroller and were super friendly. SO nice to avoid the ferry boat crowds and have an easy breazy ride across the water. Just lovely!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "Getting to the Toronto island ",
+      "text": [
+        "One phone call and they were in within 5 min. Easiest way to get to the island. Even got a history lesson on the island. Great people!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "Sunset Cruise",
+      "text": [
+        "This pst week we arranged with Tina and Luc for two taxis to arrive at the Spadina Wave deck to take 24 guests out to see the sunset and then take photos of the city line.  ",
+        "Highly recommend contacting Tiki Taxi for a romantic surprise sunset cruise of family fun.  Affordable and Stephane and Marc made the experience awesome!",
+        " "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "Absolutely Amazing!",
+      "text": [
+        "I love taking tiki taxi! Staff are fun, prices are reasonable, and taking their Hawaiian themed boats out to the island is SO MUCH BETTER than the ferries. You can bring bikes and dogs for free, making time on the islands even more enjoyable!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Solo"
+    },
+    {
+      "title": "Absolutely fantastic, ,,,",
+      "text": [
+        "My son is living in Canada and my self my husband and my daughter went to Toronto to see him in june.He brought us three times on the lakes.We went with TIKI TAXI and a lovely gentle man Marc took us around the lakes and my god it was an experience of a lifetime.....He never brought us to the same place.twice. We seen so much.There was another lad Stephane who was equally pleasant and both told us so much history.My biggest memories of Toronto is going on the boat and we will definitely be back to visit again and the first thing we will do is head for TIKI TAXI for another memorable trip.....and it's only 10 dollars  ...Thanks MARC and STEPHANE. .PAUL AND LINDA DUBLIN IRELAND"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Family"
+    },
+    {
+      "title": "City empolyee",
+      "text": [
+        "Perfect service.very nice people",
+        "We are enjoying riding it very day",
+        "I will advise to everybody to use the service if who interested to visit Toronto island"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Business"
+    },
+    {
+      "title": "Rip off!!!",
+      "text": [
+        "When I asked about the price I was told $4. When I paid after the ride I was charged $12."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2023 • Solo"
+    }
+  ]
+}

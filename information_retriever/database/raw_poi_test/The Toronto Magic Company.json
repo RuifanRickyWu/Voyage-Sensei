@@ -1,0 +1,356 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Toronto Magic Company",
+    "url": "/Attraction_Review-g155019-d12903441-Reviews-The_Toronto_Magic_Company-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 90
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/98/73/db/the-art-of-magic-show.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Theaters"
+  ],
+  "description": "Congratulations, You have just discovered Toronto's underground magic scene. The Toronto Magic Company produces magic shows all over the city every single week featuring the best magicians from around the globe! So stop missing out on the fun, here are a few which might interest you: Currently we're featuring: 'Hokus Jokus'- At the world famous YukYuks Toronto 'The Art of Magic' - Monthly Art installation/magic show featuring TMC founders, local favourites, and world famous headliners We have magic shows all the time for people of all ages, head to Torontomagiccompany.com, or send us a message and we'll make sure to find the right magic show to make your night amazing!",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Not worth it",
+      "text": [
+        "The location is great. The show is amateur. The camera person had no idea when I trick was to happen I guess, because you couldn’t see the close ups of the magic being done.  The price for these tickets is ridiculous for what we saw. Don’t waste your hard earned cash on this show. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "So much fun",
+      "text": [
+        "Excellent show. Fun. Awesome magic tricks. We highly recommended this show! Me and my husband saw it many times!!!!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Fun times!",
+      "text": [
+        "The show was entertaining and hilarious! We enjoyed the magic show and  how much fun everyone on and off the stage was having.  A great date night idea!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Funny and entertaining!!!",
+      "text": [
+        "I was skeptical at first until they chose me to come up. Not only do they do fascinating tricks but they are both hilarious. Audience was nice and intimate. 10/10 would recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Fantastic show! Great time",
+      "text": [
+        "Fantastic show! Great time!highly recommend! The magic tricks are incredible and the hosts are funny and entertaining. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Great clean fun",
+      "text": [
+        "Extremely funny acts with talented magicians who are super funny. I really like the venue too. It was a comfortable  clean, not like the typical comedy caves."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Fantastic",
+      "text": [
+        "If you like magic or just good entertainment I can't stress enough how enjoyable of an evening this is. Especially for the cost being as low as it. Can't recommend the experience enough."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Delightful and wonderful experience",
+      "text": [
+        "It’s always a fantastic experience watching Jonah - he’s got such a great energy and is a wonderful performer. He takes time before shows to interact with small groups which gives many a unique experience of some close up magic! We left the show “Hokus Jokus” full of wonder and delight! I’d go out of my way to watch their shows and definitely recommend it to others!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "We had a blast!",
+      "text": [
+        "What an incredible time we had! The captivating performances of each magician left us utterly amazed and filled with joy. The sheer uniqueness of their talents was awe-inspiring, and we couldn't help but be swept away by their mind-blowing tricks. Without a doubt, I'll eagerly return for another unforgettable experience, this time accompanied by dear friends and beloved family members. A heartfelt thank you to Jonah and Ben for orchestrating such a truly magical evening. Your dedication and passion for enchantment are truly commendable. Please continue to delight and astonish us with your extraordinary talents!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Magic in the magic",
+      "text": [
+        "Viding from Vancouver, we booked the show not really knowing what to expect. What a surprise evening it was! Funny, entertaining and engaging. ",
+        " It was really a magical surprise for all ages!",
+        " All magicians were exceptionally skilled. The coziness of the place made for a very interactive show, with plenty of laughter and, yes, Magic!!!. ",
+        "Kudos to the staff  for the good service as",
+        " well.  Bring your kids and your parents!  They will love it as well!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "TMC Scares Up A Great Time",
+      "text": [
+        "Attended a Zoom magic show for Halloween. The TMC did a great job! In these times when we are stranded inside during the pandemic, it is awesome to have a place that still is able to provide a fun, friendly environment to enjoy some entertainment. And they are entertaining! Great humor, great magic, and a truly one-of-a-kind experience. Thanks for the fantastic show."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Fun and much-needed interactive online magic!",
+      "text": [
+        "My partner and I attended their Halloween virtual magic show and really enjoyed it. The magic was impressive, the hosts were engaging, and the whole event was well crafted to have wide appeal and be fun for everyone, especially including kids. We particularly admired how successfully the Toronto Magic Company was able to reproduce the interactive experience of an in-person magic show via Zoom. In this time of widespread isolation, it felt great to be part of such a fun, lighthearted communal event - thanks so much for making it happen!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Magic show with bar is the best place to start!",
+      "text": [
+        "A+ hosts!  Venue isn’t overly polished, but most of the acts are!  There’s a bar, so get seats near the back and you can drink away any nervous anxieties about being picked during the show."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020 • Couples"
+    },
+    {
+      "title": "Truly magical",
+      "text": [
+        "Interactive and fun night! So excited to have a magic company with regular shows exhibiting local and abroad magicians! Great energy from the hosts. Super fun date night as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020 • Couples"
+    },
+    {
+      "title": "Great way to spend an evening",
+      "text": [
+        "Lots of fun, the performers all exceeded my expectations, and the host made the entire experience lighthearted, engaging, and just a blast all around. Highly recommended!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "A Fun Night Out!",
+      "text": [
+        "I've been to at least three or four TMC magic shows, including one online during COVID. I always have a great time and laugh a bunch. There are even some free shows offered, making it more accessible for everyone! ",
+        "It's always new material and performers each time I see them so it's a new and exciting experience each time. I highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Great experience! We'll organized, funny hosts and entertaining magic!",
+      "text": [
+        "Attended the virtual magic show during quarantine. It was very well organized. The magicians who performed were amazing, even though it was through the computer. It was still interactive and my partner and I were very engaged. The hosts set the stage perfectly and were very entertaining. If you love magic or are just curious, you will definitely enjoy."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020 • Couples"
+    },
+    {
+      "title": "The best magic in Toronto! ",
+      "text": [
+        "The Toronto Magic Company is absolutely amazing! I have been to three shows so far and can’t wait for more! As a magic lover with no friends into it - I attended two of The Art of Magic earlier in the year and it was incredible. Even though I went by myself it did not matter as everyone is so welcoming and I made friends each time. You legit laugh the whole time as all the magicians are hilarious and get to see mind blowing magic! Today I attended the The Newest Trick in the MacBook and it was amazing! Even though it was live on Zoom my mind was still blown! Really appreciate everyone at the Toronto Magic Company! I missed going out to the shows so it was such a special treat to get to watch tonight and it has made my week ;) take care magic friends! Appreciate everyone and take care <3 "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020 • Solo"
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "I've been to in person shows, as well as virtual zoom shows during COVID-19. It's ALWAYS a blast, super interactive, and a guaranteed great night. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020"
+    },
+    {
+      "title": "Newest Trick in the MacBook",
+      "text": [
+        "I appreciate Ben and Jonah really trying to make magic fun and accessible here in Toronto.  They are generous, entrepreneurial and good at their trade.  Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020"
+    },
+    {
+      "title": "Virtual Show in the Snow",
+      "text": [
+        "Great family production put on.  It was interactive, funny and of course magical. Kids loved it and was easy on the adults too.   Can’t wait to watch live magic again....in the mean time it’s awesome to have this alternative and happy to support. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020 • Family"
+    },
+    {
+      "title": "Good show and had my kids entertained!",
+      "text": [
+        "First off I would like to recognize Ben and Jonah for doing what they did on December 20th. Is not easy to host a virtual show to begin with. My family enjoyed the show despite technical difficulties we were experiencing on their end, otherwise it kept my family entertained for sure! ",
+        "Hopefully we can see them live one day. ",
+        "Happy holidays everyone!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020 • Family"
+    },
+    {
+      "title": "Really enjoyed the magic show for the kids!",
+      "text": [
+        "My family and I participated in the virtual magic show for kids. Ben and Jonah did a great job engaging with the audience considering the limitations of a virtual forum and managed to gear both to the kids and the adults with different jokes intended for both. The tricks were really interesting and fresh (at least I haven't seen them before) delivered with a good sense of humor. The show was dynamic and felt festive. I think the kids also really enjoyed the fact that the hosts not only showed the tricks, but also taught a couple of tricks. My son spent the rest of the day trying to master these tricks. Thank you, The Toronto Magic Company!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020"
+    },
+    {
+      "title": "So - So",
+      "text": [
+        "Virtual office show. It was ok , not really for me but others enjoyed it. Ben and Jonah looked like they were trying a little too hard. A little more relaxed mature presentation would be better. In their defense the show would definately be better live but no choice these days. Did not appreciate anti-conservative quips. Half of North America is conservative. Lets leave politics out of the show."
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2020 • Business"
+    },
+    {
+      "title": "Super Amazing",
+      "text": [
+        "These guys are the real deal! And they put on an incredibly entertaining, funny, astonishing show. We have seen them in-person and online. Their online show is INCREDIBLE! Not sure how they do what they do, but just glad they are doing it and keeping us entertained remotely. Thanks guys!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Virtual Spooky Halloween Show",
+      "text": [
+        "Though the real Halloween was cancelled due to pandemic, the team of The Toronto Magic Company brought spooky mood right to my home! The great line up of magicians, that totally gave Halloween vibe, amazing decorations, plot, jokes, intermediate acts and work with the public(who can think that you still engage the audience into magic tricks via zoom!).",
+        "Of course, nothing can replace real live shows, but in the current situation, the job was well done!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Virtual Halloween Show was a hit!",
+      "text": [
+        "The Halloween virtual magic show was great! They made it very interactive, it was family friendly and fun to watch. I really appreciate entertainers that try to make something enjoyable on a day when we normally trick or treat. This show was definitely a TREAT!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Fun Magicians with Lots of Heart",
+      "text": [
+        "Joined the virtual Halloween show and it was a blast.  Great mix of live magic, video performances and audience participation with tricks that everyone could try.  Lots of fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Halloween show was a hit!",
+      "text": [
+        "Great virtual magic show for Halloween! Our friends came over and we all loved it! Production value was far better than any show I'd seen virtually!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020 • Couples"
+    },
+    {
+      "title": "Wow! Awesome!",
+      "text": [
+        "My friends and I attended the virtual Halloween show last night, and we had a ball! Lots of great tricks, fun jokes, and awesome magic! Thanks for an awesome evening Toronto Magic Company!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020 • Friends"
+    },
+    {
+      "title": "Perfect Night Out!",
+      "text": [
+        "I took my husband to see the Toronto Magic Company at Yuk Yuks. The show was amazing and entertaining. What talented performers! I would definitely recommend this show!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "A Must See Magic Event!",
+      "text": [
+        "We went to the Art of Magic show and had a wonderful time! The performances never disappoint. Don’t even bother with the Harry Potter HBO re-boot, see this instead! Expect a night full of laughter and amazement. We’re still guessing how the tricks were done. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Good laughs and magic!",
+      "text": [
+        "A ton of fun! Funny, entertaining and mind blowing. Totally worth it. Wasn’t sure what to expect but was pleasantly surprised at how engaging and hilarious this show was. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Great show",
+      "text": [
+        "Lots of fun, highly recommended. There were a few different performances with magic tricks and mentalism. we had a great time."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Sooooo good!",
+      "text": [
+        "MIND BLOWN! What a show these folks put on. I can’t recommend more. Check out the Toronto Magic Company! Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "Family friendly magic tour",
+      "text": [
+        "We attended Ben and Jonah’s Magic Road Trip in Edmonton and loved it! Family friendly magic show, that still had some good adult humour to it too. It was at the Grindstone Theatre, which only holds about 40 people so makes for a small interactive show.",
+        "Would highly recommend, great family fun, Ben and Jonah put on an excellent show."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Family"
+    },
+    {
+      "title": "The best night out",
+      "text": [
+        "Haven't laughed and enjoyed an evening so fun in (literally!) years. Thrilling and good natured fun for all ages!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022 • Family"
+    },
+    {
+      "title": "Virtual magic show was a hit!",
+      "text": [
+        "The virtual magic show was a hit! Appropriate for all ages, great value for money and very entertaining."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020 • Family"
+    },
+    {
+      "title": "Virtual magic show",
+      "text": [
+        "Purchased tickets to the virtual magic show for the kids in our household as a fun covid friendly experience and they had a blast. It was so nice to see them have a good interactive time. Would definitely do it again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020 • Family"
+    },
+    {
+      "title": "We want more shows, alot of fun.",
+      "text": [
+        "The Toronto Magic Company did a fantastic job on Sunday keeping 5 children and 3 adults entertained, interested and engaged with their performance.",
+        "It's easy to appear that you are enjoying yourself when putting on a show, but with Ben and Jonah, I felt they were actually having fun which made (the audience)  my family and I feel so lucky to be apart of their magic."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020"
+    }
+  ]
+}

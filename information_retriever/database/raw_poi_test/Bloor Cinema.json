@@ -1,0 +1,219 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Bloor Cinema",
+    "url": "/Attraction_Review-g155019-d3207961-Reviews-Bloor_Cinema-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "506 Bloor St W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5S 1Y3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 24
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/8e/91/25/bloor-cinema.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Movie Theaters"
+  ],
+  "description": "Midtown is a dynamic part of Toronto with some of its most stylish high-rise residences and heritage buildings. The area sees busy shoppers with bag-laden arms balancing lattes in paper cups as they travel from one luxury brand to the next, taking advantage of the proximity of high-end shops. The reflecting pools, jogging trails, and nature treks of the Rosehill Revision are always a hub of outdoor activity, and after a workout from either running or splurging, many take advantage of the spas and massage parlors Midtown has to offer. Away from the bakeries, boutiques, and glamorous old theaters of the district's center, locals use the weekend to embrace the more suburban feel of Midtown's parks, tennis courts, outdoor markets, and the manicured grounds of Casa Loma, while families indulge the area's state-of-the-art playground and learning facilities. Of course, no high-brow district is complete without a healthy counter-culture: Midtown boasts some of the wildest street art and full-wall graffiti of any neighborhood in Toronto.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Toronto's Gem",
+      "text": [
+        "Bloor Cinema, Hot Docs, Hot Docs Ted Rogers Cinema . . . call it what you want . . . the theatre provides Torontonians with an oustanding array of documentaries throughout the year, all at a reaonable price.  Sign up, become a member, get their newsletter and you wil be certain to find something you 'must' see all year long.  Oustanding value."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Woo! lots to experience.",
+      "text": [
+        "Thank you , Bloor Cinema you guys made my whole weekend a mind blowing cinema . The place is clean and has free wifi."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Lots to see",
+      "text": [
+        "In the past few days we have seen Buster Keaton's The General here, as well as Peter Bogdanovich's documentary The Great Buster. Today we saw: You Are Here: A Come from Away Story. The latter was particularly touching because on Friday we saw Come from Away at the Royal Alex Theatre. Hot Docs has a schedule for showing many different documentaries, and it should not be missed. The theatre is comfortable, you can bring a drink inside, and you will leave feeling you have spent your time well. Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "A Great Location for Docs Lovers",
+      "text": [
+        "The Hot Docs Cinema is conveniently at Bloor and Bathurst; just steps away from Bathurst Subway station. It's a small theatre which is reflective of the audience size of documentaries. There are two levels; the stair to the second level is outside the auditorium which isn't hard to find. The theatre shows sign of an ageing providing an extra indie vibe. In spite of its size and age, the cinema is very clean including the lavatories. ",
+        "If you drink alcohol, you're in luck because you could bring booze inside the theatre. There are no cup holders on the second level, so just be cognizant about that. The food offering is pretty basic but very inexpensive; I had a fountain drink and medium popcorn for under $10. Just give you context, Cineplex charges roughly $20 for popcorn and pop. Hot Doc's portion is much smaller - just enough for one person. ",
+        "I've been here a few times and I can say that I am happy with the documentaries that they play. From time to time, you'd be able to listen to filmmakers talk about their documentaries."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Great space for documentaries,",
+      "text": [
+        "This is a great cinema for documentaries. Comfortable seats, popcorn with butter and many beverage options. They always have new and older interesting documentaries on offer."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018"
+    },
+    {
+      "title": "Genuine Movie House",
+      "text": [
+        "The Bloor (now Hot Docs) Cinema is independent and dedicated to screening documentaries. The range of films they offer is outstanding. Although there is only one screen (part of what makes it a good cinema), they offer several docs each day and run each film for at least a week so you're bound to find something you like at a time convenient for you.",
+        "The snack bar offers beer, wine and coffee in addition to traditional popcorn, candy and soft drinks.",
+        "The seats are comfortable although there isn't much leg room. The best seats (and I've tried many spots) are in the balcony, last row of the first tier! Sometimes, the filmmaker is there for a Q&A after the film. In those cases, they project the stage on the screen for those sitting in the balcony.",
+        "Popular screenings can sell out but you can buy tickets online if you're worried about missing out."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017 • Couples"
+    },
+    {
+      "title": "Cool spot to see a movie",
+      "text": [
+        "Dropped by Thursday Night for a Salomon Freeski TV premiere",
+        "Great mini doc on climate change now available on You Tube \"Guilt Trip\"",
+        "Cool spot great seats and sound, and any theatre that serves craft beer and killer popcorn is my friend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Friends"
+    },
+    {
+      "title": "Attended TIFF Movie here",
+      "text": [
+        "This is an old theatre that has very poor seating allthough the seats were very comfortable,  unless you're in the last four or five rows your going to be looking up @ the screen. The seats do tip back but you're probably going to get a sore neck. Washrooms are upstairs. The concession stand was out of most things & expensive. I wouldn't return to this theatre."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2016 • Couples"
+    },
+    {
+      "title": "Another very fine documentary",
+      "text": [
+        "We went to Hot Docs the splendid theatre committed to showing documentaries, to see \"Weiner\", a documentary about the former US congressman who wrecked his career by sexting. It's a sad story: all the positive things Anthony Weiner has done and is capable of doing get negated by media obsession with his highly inappropriate behaviour a few years ago. Weiner comes across as generally sympathetic, but although he keeps apologizing, he offers no explanations. The real object for sympathy is his wife Huma Abedin, who has loyally stood by her husband. The film is well worth seeing. \"Weiner\" is scheduled to be shown a few more times during the next month."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Great old school feel....",
+      "text": [
+        "I have totally gone off the cinema in the past 8 years. It's so Comercial and they all look the same. The good is crappie and it's an expensive evening with little reward.",
+        "Hot docs is different, it feels like an old cinema, they make their own popcorn with butter if you wish. You can hear the popcorn machine popping away as you enter the theatre.",
+        "They only show awesome documentaries which makes it interesting and totally worth while..."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Smashing reno",
+      "text": [
+        "The renovation is really beautiful, keeping the age looking warm and inviting, but with all the modern necessities. You can see from wherever you are in the theatre, and generally the films are great.  Go if you like docs and to see a really fine renovation."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2012"
+    },
+    {
+      "title": "Much better before",
+      "text": [
+        "I realize that the theatre was dated, with dated interiors, but it had character. I really liked the mix of kitchy movies, indie movies and blockbuster movies. ",
+        "Now that the theatre was changed to hot docs, it's lost a lot of its charm. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2012 • Friends"
+    },
+    {
+      "title": "Great documentary",
+      "text": [
+        "We went to see the documentary \"Robin and Mark and Richard III,\" in which the renowned director Robin Phillips, who died recently at age 75, instructs Mark McKinney in the role of Richard III. It is both fascinating and deeply moving, worthy of the fine theatre in which it was shown. See it if you get the chance, and visit the Bloor for one or another of the documentaries shown there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Couples"
+    },
+    {
+      "title": "Best Documentaries in Toronto",
+      "text": [
+        "Downstairs was renovated within the past few years - new seats, bar, etc. Upstairs is still the same - and huge. Best place to watch documentaries in Toronto.   Good popcorn, reasonably priced snacks, and they don't mind if you bring in food from outside (where there are plenty of options)."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2016"
+    },
+    {
+      "title": "Renovated and much improved",
+      "text": [
+        "The last time I was in Bloor Cinema it was still a repertory house, functional but rather run-down and shabby. I was there today to see a fine documentary about Vienna's Kunsthistorisches Museum, and I was greatly impressed with the renovations. The place looks a lot better, the seats are much better than before, and the washrooms are much improved as well. Also: you can get a beer to drink while watching the film. Bloor Cinema is now worthy of a very interesting neighbourhood."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2015 • Friends"
+    },
+    {
+      "title": "Off-Hollywood - Great spot to enjoy \"Hot Docs\" and Toronto's Annex area",
+      "text": [
+        "Comfy, casual theatre located at Bloor and Bathurst, a bustling and interesting intersection with easy subway and streetcar access.  Great coffee shops nearby, and drop in to shop at \"Ten Thousand Villages\" before or after the show.  Complimentary water fountain with cups is very nice if you're not feeling like concession indulgence."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2015 • Couples"
+    },
+    {
+      "title": "It's the little things",
+      "text": [
+        "My family and I go to a screening of the Banff Mountain Film Festival every year and this was our first time getting tickets to the Bloor Cinema. We got seats on the first floor and they were very comfortable full back seats with a bit of a tilt recline. Plenty of leg room so our tall guys were comfortable. I checked out the balcony seating and it looked pretty good as well, slightly smaller seats with less room but a good view. The washrooms are located on the second floor and I didn't check them out because there was a huge lineup so not sure about the facilities.  ",
+        "My boyfriend bought a small bag of popcorn and a cup of sprite for 8$ so comparable to any other cinema. One of my favourite things about this venue was that they had water fountains WITH disposable cups - a very rare but greatly appreciated feature that makes me want to return to this venue. ",
+        "To top it off, my boyfriend forgot his beloved sports hat at our seats and when we returned 20minutes after the show, the attendants were very helpful and had already put the hat aside. A nice end to our evening out. A big thanks to the lovely staff at the Bloor Cinema xo. "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "A highlight of our trip",
+      "text": [
+        "We were in Toronto for a convention and only went the cinema once during the week- we wanted it to count! We saw a collection of short films, and it was GREAT. The cinema is comfortable, and we were not disappointed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2012 • Couples"
+    },
+    {
+      "title": "Great films in a comfortable theatre",
+      "text": [
+        "The Bloor Cinema specializes in documentaries and has at least a half a dozen on offer at any given time. For Torontonians it is worth buying a membership -- reduced price of admissions, free popcorn, and reduced DVD prices. The theatre is comfortable and even has a balcony. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2013 • Couples"
+    },
+    {
+      "title": "Check out the Bloor Cinema",
+      "text": [
+        "Bloor Cinema shows documentaries you are not going to find elsewhere.  It has also been beautifully renovated to preserve its heritage."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2013"
+    },
+    {
+      "title": "Best Place in Toronto to see a film",
+      "text": [
+        "Top-notch picture and sound. cosy environment, the anti-thesis of loud and crazy multiplexes. Great documentary-focussed programming."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2013 • Friends"
+    },
+    {
+      "title": "Hot docs galore!",
+      "text": [
+        "This cinema at Bathurst on Bloor is a testament to the city's love of film - with great documentaries which feature films from all over the world.  It is also the first to offer wine and beer with the show.",
+        "Directors are often in attendance and offer answers to audience questions.  Seating is new and comfy, and focus is on recycling and Eco packaging for food and drinks.  Volunteers are on hand to answer questions, take tickets etc and are a valuable asset.",
+        "Cinema has an accessible washroom and has accessible seating on the main floor.  You are welcome to bring in coffee.",
+        "You are guaranteed to find films you want to see each month - buy a membership and get tickets for less!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2013 • Friends"
+    }
+  ]
+}

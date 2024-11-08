@@ -1,0 +1,364 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Kensington Market",
+    "url": "/Attraction_Review-g155019-d185093-Reviews-Kensington_Market-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "160 Baldwin Street ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5T 3K7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 2993
+    },
+    "openingHours": "Mo-Su 09:00-00:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/df/64/73/photo3jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Neighborhoods"
+  ],
+  "description": "Immerse yourself in the heart of Toronto’s bohemian culture at Kensington Market. Restaurants and hole-in-the-wall eateries offering food from all over the world are interspersed with vintage thrift shops, coffee joints, tattoo parlors, bars, art galleries, and Victorian-style houses. The area is part gritty, part chaotic but it has tons of personality. The best time to visit is on Pedestrian Sundays (last Sunday of the month from May to October), when street parties and festivals are the highlights. Take public transportation to get there as parking is hard to come by. You can experience the neighborhood on a food, walking, or bike tour. – Tripadvisor",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Interesting area near China town",
+      "text": [
+        "Interesting area with lots of little shops and eateries. Easy to get to, we walked. Maybe more for the younger age groups, we found it a bit grotty and not really for us, did a lap and went home."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Culture market",
+      "text": [
+        "Amazing area in Toronto to explore, dine & soak on local culture. So much character, culture, places to eat, places to dine, places to explore. We explored Kensington on a weekend afternoon & loved it! So much art around too. You can find ANYTHING you dream of for food- every culture & cuisine you can think of! Lots of vegan friendly spots including Bunners vegan bake shop! Loved finding all the cat statues around- can you find them all?"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Overhyped, not worth the time to walk through.",
+      "text": [
+        "Not sure what the draw was.  This neighborhood seemed to have a few interesting restaurants but not much else.  There was a general malaise and dirtiness to the streets were walked on.  We did not see any shopping to draw us in.  A tired neighborhood trying to keep it's vibe.  It's a lot of streets though in a multi-block square neighborhood so maybe we just choose poorly."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Don’t Bother!",
+      "text": [
+        "A waste of time, I don’t see how this can be rated 4 stars.  The area is a filthy, congested, with narrow streets, next to no parking.  Businesses look dirty and run down.   No way I would eat in any of the restaurants in this area.  There are way nicer areas in Toronto to spend your time"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Artsy and Vibrant",
+      "text": [
+        "This is the place to be in Toronto for a lot of vintage shops in close proximity. We're big thrifters, so we enjoyed this area. Your mileage may vary. It's a fun, vibrant, artsy, and not quite as expensive area of Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "What a let down!",
+      "text": [
+        "Website said open at 10am .er nope, very little open.  It's a ropey area, full of dull shops like Cheese World.   What the fuss is about is truly beyond us.  Even if the shops were open it still would be poor.  The UKs Brighton Lanes are light years ahead..sorry Toronto!  Hey, we liked the Eaton centre at least.."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "multicultural hipster neighbourhood",
+      "text": [
+        "This is the multicultural hipster neighbourhood of Toronto. Quirkly second-hand shops, lovely decorated cafes and unusual flower pots can be seen in every corner. There are signs and posters with love is love and it seems that all people respect each other. Everything is so colorful and there's so much love in the air. ",
+        "I liked the Victorian houses on the tree-lined streets so much that I don't want to withhold these pictures below from you. Wall paintings decorate the houses and authentic shops characterise this neighbourhood. Simply stroll around leisurely and take a big breath of Torontos multicutural area. ",
+        "There are times when we have to mix more colours in our life."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Big disappointment",
+      "text": [
+        "Went with family to see hidden gem - about 11am on weekday.  This was a total dump , dirty, full of homeless people.   A few food places were open only.   No shops that we could see.   A total waste of time and not suitable for family with kids   I don’t know how it gets such good ratings ??"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Over rated!!!",
+      "text": [
+        "Nothing to see, nothing to do.  Nothing is vibrant about this neighbourhood. Still looking to find the hiddwn gem people are talking about.  Over rated x 1000!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Must see",
+      "text": [
+        "Tons of little shops food and entertainment to check out. We drive up from Niagara Falls to check out the city and we heard this was a must see. A lot of local vendors and vintage clothing shops. Glad we made the trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "A cute little neighborhood",
+      "text": [
+        "Such an amazing place to be, one of my favorite place in Toronto. Very pretty neighborhood, with a lots of little second hands stores. Lots of little boutique and restaurants. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "OMG",
+      "text": [
+        "What a dumpster fire that was. A disgusting unkept smelly place- worst area of the city with absolutely nothing to offer."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Over Rated",
+      "text": [
+        "Kind of a dump. I get the so-called bohemian vibe, but too gritty for my taste. There are a few good coffee shops and a bakery, but the overall experience was shabby. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2022 • Friends"
+    },
+    {
+      "title": "Disappointing",
+      "text": [
+        "As a tourist attraction it was disappointing.  All looks a bit run down. After half an hour walking about had enough."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Don't bother",
+      "text": [
+        "Stinking cesspit of a place. Air is filled with the stench of cannabis, drug addicts on every corner. Nothing decent to be seen or visited here. Do yourself a favour and go elsewhere"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Couples"
+    },
+    {
+      "title": "Terrible",
+      "text": [
+        "Absolute waste of time. Filthy , smelly place full of drug addicts tripping off their heads. Nothing worth seeing at all , unless you like the zombie apocalypse."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Couples"
+    },
+    {
+      "title": "Do not visit, not worth your time",
+      "text": [
+        "I was expecting something like Camden market in London with small boutique shops and independent businesses.",
+        "What we got instead was a run down, dirty, garbage filled, walk with homeless and mentally ill/drug affected individuals all over the place.",
+        "Most of the small food places didn't look inviting and we were really disappointed.",
+        "Shops are made up of cannabis dispensaries, fabric shops and thrift stores.",
+        "Graffiti Alley also a disappointment with graffiti name tags all over instead of real graffiti art",
+        "Would not recommend, I felt very unsafe and we quickly got out of there"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Couples"
+    },
+    {
+      "title": "Small Market",
+      "text": [
+        "Maybe I came at it from the wrong angle and missed something of the area but the market I walked into was small and not much to see (we have a bigger, nicer market at home). ",
+        "It was maybe 3 rows of small grocers and food places, a couple of tourist stalls and that was it. Took me 5mins to walk around then turned and walked back!"
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2022 • Solo"
+    },
+    {
+      "title": "Not what we expected ...",
+      "text": [
+        "Not all all what we expected with all the hype.  We actually felt unsafe ... the place reeked of weed and urine, very dirty streets, the shops were nothing special ... teeshirts, trinkets and very few interesting things. I thought it was going to be more green grocers, cheese shops, bakeries, etc., but we didn't see anything that we wanted to purchase (or even browse). Lot of very stoned people hanging out. Not someplace I would head back to."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Don’t bother",
+      "text": [
+        "This place is not very nice at all!! It’s dirty, rubbish everywhere and the ‘shops’ are thrift shops and if that’s your thing then great. Not for us"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022 • Family"
+    },
+    {
+      "title": "A Market for Outsiders",
+      "text": [
+        "In the spirit of other markets around the world Kensington Market is a place to visit if you like things a little different.",
+        "It is reminiscent of Camden Market in London and there are shops and stalls to get things like hats or sunglasses. There are also stores selling vintage clothes and food from around the world too. One thing you will see here that you will not see in London is the dispensaries where you can buy cannabis. It's legal in Canada but make sure if you do want to buy something that you have your ID. ",
+        "One of the things I loved was the street art which is in abundance on walls and also on the roads as well. There is also a car there that has become art. It is covered with different designs and has plants growing out of the windows too. Superb!",
+        "Go and check it out. You may come away with an opened mind."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Quirky shops",
+      "text": [
+        "Liked it. Good selection of quirky shops. Lots of choice, lots of variety.",
+        "An under rated part of town."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Family"
+    },
+    {
+      "title": "Dirty, run down drug addict paradise",
+      "text": [
+        "If inhaling smoke from all the pot smokers/addicts is your thing then the Kensington Market is the place for you. Two overdosed individual that required naloxone was the highlight. The cat calls and aggressive pan handlers were awesome too. I think there is a homeless shelter where two guys got into an all out brawl after a screaming match was a highlight as well. I learned some new word combinations I had never heard before. The shops are run down, the streets are dirty (watch out for needles/syringes).  Lots of places to eat if you dare."
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Worth a Visit",
+      "text": [
+        "This is a bohemian style neighborhood in Toronto worth checking out at least once when you’re here",
+        "There’s plenty of shops and restaurants to see. It’s very close to the Chinatown part of the town too. There’s plenty of thrift shops along the streets as well, but they tend to be a bit pricey.",
+        "  Plan on spending at least 2 to 3 hours here to check out everything."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Run away",
+      "text": [
+        "Awful. Run-down collection of uncaring merchants capitalizing on what may have once been legitimate bohemian cachet. Filthy streets and storefronts just waiting for rock bottom value before Toronto’s grey/blue glass sky-tower developers raze the whole place. Proximity to homeless shelter and Chinatown skid row creates a  self-perpetuating supply of roving mental patients that adds to the overall low-key threatening ambiance. An overnight in Toronto’s drunk tank lockup is a good bet for a similar experience."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "Busy area. Don’t eat before!",
+      "text": [
+        "Interesting shops and tons of food. Made the mistake of going after lunch & couldn’t eat all the wonderful things we saw! Churros, birria tacos, all the things looked delicious."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Great place for local handmade craft and food",
+      "text": [
+        "Greatnpla e to find local food and handmade craft. Free to go and visit in Toronto. Lots of restaurants and stores. Cool Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Poor overall",
+      "text": [
+        "Hard to find and even then just a couple of streets with many run-down exteriors. Often the shops don't open until 11.00 as well adding to the disappointment."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Fun afternoon",
+      "text": [
+        "I went by myself and just wandered and checked out the shops. My favorite was the spice shop!! I loved it!! Bought a bunch!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Solo"
+    },
+    {
+      "title": "Street art is the main attraction",
+      "text": [
+        "The walls are painted with street art, some are pretty, some are a bit hard to appreciate. The shops looked rundown from the exterior."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2022 • Friends"
+    },
+    {
+      "title": "Kensington dump",
+      "text": [
+        "Total dump.  Dirty.  Very overpriced mediocre food.  Don't waste your time unless you want to experience a ghetto. Homeless and drug addicts everywhere."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Wonderful diverse area",
+      "text": [
+        "Loved the area to explore. Was very bohemian like and relaxed atmosphere. Colorful area with many restaurants and beautiful, colorful, prints of clothing for sale.",
+        "Numerous people selling their very nice made merchandise."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Beautiful Kensington",
+      "text": [
+        "Great community. People friendly. Food excellent. There is part of Confederation Trail that goes tru Town. There is also a Tim Horton coffee place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Nice walk around the market",
+      "text": [
+        "A good place to spend your evening and some shops selling local and different items. Many restaurants around and is a Tourist spot with art work around"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Enjoyed the atmosphere on a Sunday",
+      "text": [
+        "We enjoyed strolling around Kensington market - which comprises a number of streets with numerous food outlets as well as artisan and vintage shops etc. There was a good atmosphere on a Sunday afternoon."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Very offbeat",
+      "text": [
+        "I think Kensington market is an acquired taste. It is home to all kinds of offbeat shops, bars, people and artwork. It reminded me of the Northern Quarter in Manchester  and the Baltic area of Liverpool much nearer to my home. I liked the zaniness but not my wifes cup of tea"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Couples"
+    },
+    {
+      "title": "It was crap",
+      "text": [
+        "It was awful with nothing to do. It was disgusting with homeless drunk people all over the place there was a répondant smell and it is extremely overrated."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2023 • Family"
+    },
+    {
+      "title": "Stores of curiosity in the",
+      "text": [
+        "Over the weekend I had chance to finally visit Toronto.  I asked some locals about things to do in there and everyone suggested going to Kensington Market. I love this place because it was just average type of flea Market but you had a variety of different stores and restaurants.  Rather you are looking for trendy fashion or thrifting. The food restaurants available were all over the place and they had some really great sweet shops. Also enjoy all the street art and murals all around."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Friends"
+    },
+    {
+      "title": "Wrong timing!",
+      "text": [
+        "Unfortunately we visited the area too early in the day. Most of the shops were closed and the area was pretty deserted with none of the vibe that we had read about. We still enjoyed walking through the eclectic neighbourhood with colourful shop fronts and Victorian row houses. I'd definitely suggest an afternoon/evening visit."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Great little gem!",
+      "text": [
+        "This is a small Gym in Toronto and a great place for local color/fare.  Gus's tacos are supposedly the best in Toronto, there is a Birriaria, and Brunner Vegan bakery. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Family"
+    }
+  ]
+}

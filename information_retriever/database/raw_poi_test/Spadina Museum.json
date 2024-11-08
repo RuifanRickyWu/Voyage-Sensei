@@ -1,0 +1,372 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Spadina Museum",
+    "url": "/Attraction_Review-g155019-d186828-Reviews-Spadina_Museum-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "285 Spadina Rd",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5R 2V5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 322
+    },
+    "openingHours": "We-Su 11:00-16:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/36/8d/92/photo1jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Historic Sites",
+    "History Museums"
+  ],
+  "description": "The years between the two Great Wars, when Toronto experienced increased immigration, the vote for women, the stock market crash, prohibition and the introduction of public health and welfare. It's also the time of the Charleston craze, tabloid journalism, new technology and more. And it can all be seen, heard, felt and lived at Spadina Museum - Toronto's only museum to represent the 1920s and 30s, a transformative period that dramatically changed the City. For over a century, Spadina was home to three generations of the Austin family. Opened in 1984, it is one of 10 historic sites operated by the City of Toronto. Spadina Museum completed an extensive interior restoration in 2010, bringing the house back into the twentieth century. Visitors may view what the house looked like during those years through artifacts, furnishings and reproduced and original decor or explore the estate's six acres of restored 1905 gardens. Today, Spadina Museum interprets the interwar period through a rich slate of guided tours, school programs, special events, changing exhibits, lectures and workshops. Spadina Museum is one of 10 historic museums operated by the City of Toronto. Toronto's Historic Sites engage visitors, inspire passion, challenge ideas and connect the past to the present.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "An old fashioned gem",
+      "text": [
+        "This lovely house restored to the 1920/30’s era was an interesting step back in time.",
+        "Erin the guide was informative  and knowledgeable with a great sense of humour.",
+        "The gardens still lovely even though we are coming into Autumn.",
+        "Thoroughly enjoyed our visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Guided Tour Is Required and Timings Are Limited",
+      "text": [
+        "We tried to visit after our time in Casa Loma as this house is only steps away, but we had just missed a tour leaving and another one wouldn't start for an hour. We decided not to stay. I'm sure the house is great and worth the time, but just be aware that you cannot tour it without a guide and one may not be available at a convenient time."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Absolutely worth your time",
+      "text": [
+        "We got treated to a very informative and well-balanced free tour. The guide was so knowledgeable and lively that the 45-minute visit felt almost a bit short. We preferred it to Casa Loma, which seemed a little too theme-parkey, plus it was nowhere near as crowded when we were there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Lovely free museum",
+      "text": [
+        "The guided tour was informative and highlighted items in the house and provided historical context. Worth the visit, especially if you are already near Casa Loma."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "Fascinating house. Frustrating tour.",
+      "text": [
+        "Spadina House is a fascinating part of Toronto history. But if you want to see the house, you’ll have to take the tour. It’s compulsory. Yet the tour is largely irrelevant. So, if you want to learn about the house’s owners, or the social life of Toronto’s elites back then, you will be disappointed. Those topics are barely discussed.",
+        "Instead, on my visit at least, the tour focused on the oppression that prevailed in the American South, prior to the Civil War. Even the Underground Railway was discussed! But why? Those topics had little relevance to Spadina House, which is located in Canada, not in the Deep South! Moreover, the American Civil War ended one year before this house was even built.",
+        "The tour was presented from the perspective of a female servant who was employed in the house. I felt sad to hear how she was separated from her Deep South relatives. But her story was only tangentially related to the house that I had come to see. Surely the owners’ lives were interesting too, yet we were not told much about them. ",
+        "One thing I did learn was that the owner of the house founded several successful Canadian banks. He must have been very clever and skillful. In contrast, the female servant likely had no such skill, yet the tour questioned why it was not she who owned the house, rather than the bank founder. In short, the theme of the tour was unfairness – in the context of some irrelevant American history. ",
+        "Overall, the tour narrative was heavily influenced by critical race theory. The effect was like rubbing salt on old wounds. Historian Christopher Rufo would describe this as part of a woke Maoist movement to incite resentment and divide our society, and that does seem plausible.",
+        "Should you visit Spadina House? Only if you can tolerate the mandatory neo-Marxist agitprop. Otherwise, if you are hoping for a balanced and relevant presentation of some Toronto history, the Spadina House Museum will leave you disappointed."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2024 • Couples"
+    },
+    {
+      "title": "Intriguing",
+      "text": [
+        "This museum is very, very unique. I had never heard of a museum dedicated to pottery, ceramics, and porcelain throughout the ages. This intrigued me. I actually spent longer in this museum than at the Royal Museum of Canada! It was just to interesting! The history, the methods used by different cultures to achieve their desired result... Amazing!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Interesting place",
+      "text": [
+        "Really interesting house kept in the 1920s era. Free tour once an hour & gardens to walk around afterwards."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Make Sure To See The Garden/Orchard",
+      "text": [
+        "I lived in Toronto for 25 years, and I didn’t visit key attractions. So now when I return to the city, I see a few each time. This trip it was Spadina House. My sister in law and I arrived around 1130am, toured the lovely garden and orchard, munched an apple each, and chatted about varieties with their friendly gardeners. You need to see the House via guided tour, so we planned to come back for 115pm, after Jamaican food and ice cream near St Clair and Vaughan. On our return, the tour starts in the basement with a great video about Toronto in the 1910’s and 1920’s, and pronunciation - Spa-die-nah vs Spa-dee-nah vs Spahh-dee-nahhhh. Upstairs, you are led through a dozen rooms - a palm room, a games room, a kitchen, dining room, bathroom, bedrooms, a telephone room. It’s so informative, and it’s free."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "A Gem in Toronto",
+      "text": [
+        "Spadina House is a gem!  We planned our day so that we would visit Spadina House and Casa Loma.  They are very close to each other.  Took public transportation from city centre and walked from subway to venues.  Casa Loma was huge disappointment, only stayed long enough to grab a quick lunch.  Walked to Spadina House and were amazed!  It is lovely!  Beautiful gardens, relaxing grounds, friendly staff, no lines, and FREE!   Took a fabulous tour with a young guide, Tiber, who was fantastic!  Lots of interesting interior to see and information about about the region at the end of the 19th and beginning of the 20th centuries.  This is a must see in Toronto.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Well worth a visit",
+      "text": [
+        "Thoroughly enjoyed our visit and can recommend the guided tour, which was informative and led by a very knowledgeable and friendly guide. The house itself is quite an impressive place, with a fine collection of furniture, paintings and other exhibits. The gardens are also worth a look, particularly if the weather is good when you visit. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Beautiful Gem, Well Interpreted!",
+      "text": [
+        "This was my favorite stop in Toronto for several reasons. For one, the interpreter who led the tour was fantastic—very engaging, informative, and welcoming to young children. It is also a beautiful home, well appointed inside as well as in the garden where I sat on a rather comfortable bench under shady trees for quite a while. Plus, this is a great stop if you’re a fan of Anne of Green Gables. The Sullivan production used the inside and outside as Aunt Josephine’s house! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Splendid accompanied Tour of fascinating period home",
+      "text": [
+        "A great place to visit on a cold and wet Sunday afternoon. The house is as it was in the 1920's but with the furnishings of the previous generation from the late Victorian era. The guide was obviously totally immersed in the history of the family and the house and was able to put across his excitement and knowledge to our small group of visitors"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Step Back in Time",
+      "text": [
+        "This was a great way to learn about the history of Toronto and a prominent family. The gift shop is excellent and the gardens beautiful."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Tulips Galore",
+      "text": [
+        "I was driving by, and saw some beautiful colors blooming! I have to turn around and wonder thru all the gorgeous colors, and different types of tulips! U will see colors that R not normally seen in fresh flowers! Great place for a stroll, and fresh air!  U can wonder thru the flowers and plants! See the Canadian ducks in the Crete!"
+      ],
+      "rate": 2.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "Beautiful House..but we were too rushed",
+      "text": [
+        "We were a little bit rushed through the rooms and I didn't have time to take many photos.  I thought the tour guide was a bit rude,  she didn't like that sometimes I was taking photos and not listening to her. I would suggest that the tour guides be less in a rush and let people concentrate on the decor and have more time to spend in the rooms. ",
+        "Other than that, the home is beautiful and definitely worth the visit. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Great piece of Toronto history ",
+      "text": [
+        "Located in the shadow of Casa Loma this museum doesn’t get as much attention as it deserves. A beautiful home full of artifacts from a bygone era. It is also nice to be able to take everything in without having to commit a full day; 2 hours should do it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Beautiful Grounds",
+      "text": [
+        "Worth a visit in the summer if you are in the area. Very beautiful gardens. Serenity at its best! Easily accessible. Steps away from Casa Loma."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Happy with my visit",
+      "text": [
+        "I did enjoy my visit and was worth spending a few hours exploring . I am unsure if I will come.agajn"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "How the rich used to live",
+      "text": [
+        "A small \"museum\" housed within the Spadina Museum and adjacent to Casa Loma.  A bit on the shabby side and it feels like a community project.  The space outside is beautiful and has been used for community festivals.  It's often a school trip destination when learning about Canadian history"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "Beautiful museum and wonderfully preserved",
+      "text": [
+        "Visited this house today and it has a very beautiful and interesting story. Must cost while in Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "perfect for summer wedding",
+      "text": [
+        "attended an outdoor wedding at the BEAUTIFUL Spadina Museum.  The grounds are lush and the greenery was peaceful and the house was MAGNIFICENT as the background in wedding photos."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Now this place was excellent!",
+      "text": [
+        "After a disappointing visit to the Casa Loma, we stumbled upon the last guided tour of the day at this lovely mansion next door.  We were so glad we did.  We had a small group of 10 people, saw a movie with the history of the family and the house and then toured 4-5 beautifully appointed rooms that were recreated with original art, furniture and updated wallpaper, etc.  Even the piano was in tune and someone in our group was allowed to play it (beautifully) for us.  We were able to ask questions and see how the family lived almost 100 years ago."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Quiet gem across from Casa Loma",
+      "text": [
+        "Originally the Austin home of the founder of Dominion Bank, it's a great step back into the early 1900s.  Guided tours are mandatory but well worth it.  The docents give a great history of this 55 room house and the family that lived here.  It's much less visited than the Casa Loma just across the street, but not to be missed if you enjoy Victorian to early 1920s design."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "The Roaring 20s Come to Life!",
+      "text": [
+        "Visited the Spadina House yesterday. Loved the Informative guided tour , apple cedar and homemade cookies included with the admission.  I was really impressed with the beauty and design of this grand house. The staff were friendly and so knowledgable. I will return for their other events at this wonderful venue.",
+        " Thanks.",
+        " 🦋"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Wonderful house and Gardens!",
+      "text": [
+        "Visited Spadina Museum house and gardens with a friend. You can only visit on a tour, which lasted about an hour. We found the cost (8$ for seniors) very reasonable. Our visit started in the basement, with a short but very informative film about the mansion and the time period it was built in. Our tour guide, Kathy, was a veritable font of information and delightful tidbits about the Austins, who owned this beautiful home/mansion from 1866 to 1982. Just as well we had a tour guide, how else would we know the trapdoor in the conservatory floor provided access for the gardener without him tramping through the house? Our guide's anecdotes really brought the former occupants to life. There are many stairs to climb but a lift is available for anyone needing assistance and the staff were very helpful. The washrooms, which are in the basement, are also accessible After the house tour, we visited the gardens at our leisure. We really enjoyed the entire visit and are planning to return in the spring, with more friends!",
+        "If you come by car, you can park at Casa Loma, just across the street."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "It’s a lot smaller than Casa Loma, but also less rushed and busy. It’s a nice house and you get to see many rooms at a fraction of the cost of Casa Loma. Definitely worth $10 per adult. Very happy we did this tour. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019 • Friends"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "We really enjoyed our tour of the Spadina Museum, our guide was very knowledgeable and pleasant.  There are some beautiful gardens to visit on your own.  We felt the tour was well worth our time and money. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Beautiful Building",
+      "text": [
+        "I stumbled across Spadina Museum, as it's on the way back to Dupont Station when leaving Casa Loma. I just walked around the grounds and popped in for an ice cream."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Stale Air - Got Ill",
+      "text": [
+        "This is a typical old house /  mansion from the late nineteenth century turned into a museum. Except for the Green House, everything looked, smelt and felt stale. There was no fresh air or ventilation in the house. The upper level was terrible. I got ill and almost fainted. The entrance is tucked down the basement on the side. Avoid."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "It's really just an old house...",
+      "text": [
+        "It had an interesting moment or two but this tour lacked any special meaning or memory for our family.  It is totally overshadowed by Casa Loma next door and the family stores were not very engaging or endearing.  I'd skip it and go to the contemporary art museum instead."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "A Lengthy Historical Tour of a beautiful home-- Come and stay a while. ",
+      "text": [
+        "The Spadina house and grounds are LOVELY. The museum offers a free tour and you can also enjoy the grounds. The tour was very informative and gave some interesting context about both the family who lived in the house and the first nations people who originally settled the land. My only complaint is that the tour is VERY long. We left after an hour and did not get to see the upstairs of the house. BUT really liked learning and seeing the stunning first floor rooms. (Certain tour members being very curious likely played a part in the length of the tour). ",
+        "We sort of wandered in to this museum after looking at Casa Loma and deciding it was out of our budget. Spadina house provided a great, budget friendly alternative.  I'm glad to have stopped, but would not do the whole tour if you are on a time crunch. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "A wonderful museum",
+      "text": [
+        "The museum is a short walk from Casa Loma, so if you're not too tired after visiting Casa Loma stop by for the tour.  It's entirely different than the castle."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Amazing museum with free guided tours",
+      "text": [
+        "Had the greatest experience visiting this museum! They hold free guided tours a few times a day, which is just amazing and so enlightening. When I visited, it was the Dis/Mantle temporary exhibition that is just such a thoughtful, coherent and organic blend between the house's history and Black culture."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "In my opinion, this  was not a good choice for a visit.",
+      "text": [
+        "Spadina Museum has been reimagined for the immersive Dis/Mantle art exhibit. ",
+        "Although there is no charge for the tour, it was weird in every way.  We cut out early."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "No Connection to Casa Loma; No Free Tour",
+      "text": [
+        "We enjoyed our visit to Casa Loma very much—the free audio tour brought the castle to life. Based on the July 2022 review, I assumed we’d also get a free tour of this museum. No free tour; I was told the museums are separate and have always been separate. I highly recommend the Casa Loma tour!"
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2022 • Couples"
+    },
+    {
+      "title": "Wonderful free bonus attraction to the Casa Loma",
+      "text": [
+        "Wonderful mansion to go in for a tour as a supplementary attraction after finishing with the Casa Loma. And best of all, it’s free!",
+        "It’s unfortunate that there is no self-guided touring allowed, and the guided tour only lasts about an hour at most. That is where I have to take one star off. ",
+        "I recommend visiting earlier so that there aren’t too many people crowding in."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Free attraction worth doing",
+      "text": [
+        "This attraction is now free as another review pointed out. With set times to view the house accompanied by a tour guide.",
+        "Check the website for more details.",
+        "The staff were very friendly and accommodating to our queries. The house itself has a lot of history. If you are visiting Casa Loma it's definitely worth an hour of your time. You can tell the staff put effort into bringing the house to life."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Solo"
+    },
+    {
+      "title": "IMPORTANT INFO IF YOU PLAN TO VISIT",
+      "text": [
+        "Recently, all 10 Toronto History Museums became free! The website doesn't tell you this yet, but you have to go on a guided tour to see the house; you can't go through on your own. They are closed on Mondays and Tuesdays, but here are the opening dates and tour times: ",
+        "Wednesday, Friday: 12:15, 1:15, 2:15, 3:15, 4:00",
+        "Thursday: 12:15, 1:15, 2:15, 3:15, 4:15, 5:15, 6:00",
+        "Saturday, Sunday: 11:15, 12:15, 1:00, 1:45, 2:30, 3:15, 4:00",
+        "Tours are limited and do have a capacity. Arrive early to avoid disappointment (at least 30-45 minutes before your desired tour time). The gardens are also STUNNING, so bring a picnic. The grounds are open till 5 pm Wed, Fri, Sat, and Sun, and till 7 pm on Thursdays. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "I wasn't here.",
+      "text": [
+        "I rated it thinking it was Casa Loma Parkette, that is not listed in the attractions, and is a beautiful building to take pictures of."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "exllent museum",
+      "text": [
+        "We went to this museum on Doors Open Toronto 2019. The house is magnificent although visible signs of age (it's been here since 1866) are showing. There was a archeology dig in the basement, which is very cool."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    }
+  ]
+}

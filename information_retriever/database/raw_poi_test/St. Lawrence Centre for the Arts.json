@@ -1,0 +1,231 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "St. Lawrence Centre for the Arts",
+    "url": "/Attraction_Review-g155019-d606276-Reviews-St_Lawrence_Centre_for_the_Arts-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "27 Front St E ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5E 1B4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 25
+    },
+    "openingHours": "Mo-Fr 12:00-18:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ec/f6/89/photo1jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Ballets",
+    "Concerts",
+    "Operas",
+    "Theaters"
+  ],
+  "description": "Constructed in 1967 as Toronto’s Centennial Project, the St. Lawrence Centre for the Arts opened its doors in 1970.The building houses two beautiful auditoriums; the Bluma Appel Theatre (868 seats) and the Jane Mallet Theatre (497 seats). In 2015, the St. Lawrence Centre for the Arts became a part of Civic Theatres Toronto alongside the Sony Centre for the Performing Arts and the Toronto Centre for the Arts. The mandate of Civic Theatres Toronto is to provide quality performance and event facilities and to promote its contribution to the artistic, cultural and social vitality of Toronto and its communities.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Don't waste your money on Potted Potter",
+      "text": [
+        "Went with my husband and son to see Potted Potter. We were very disappointed. Did not expect that the entire show would be done by understudies. The jokes fell flat. The timing was off and thus the show longer than advertised. It's unclear who this show is geared towards, but it was not a good parody of the Harry Potter novels. What a waste of money. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2024 • Family"
+    },
+    {
+      "title": "Potted potter is a waste of money and time. The reviews makenit seem good. I fell for it and also kissed their bogo",
+      "text": [
+        "Went to see potted potter",
+        "It was horrible ",
+        "Obnoxious play Screeching voices",
+        "All over the place",
+        "Waste of money ",
+        "I should've know when they offered a bogo which I missed out on. Even if I got that deal it wouldn't have been worth it. Drove 1.5 hrs in horrible rain for nothing. I love live theatre but my daughters were very upset. It was also inappropriate in parts. I dont know how others thought it was good at all."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "Great Facility",
+      "text": [
+        "Attending a show here. Great facility, Some menace of construction and dust. Inside its clean and well kept. Seating is convenient. Sound and light systems excellent. Stage perfect. Enjoyed ths show."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Taj Express - A Bollywood Journey of music, life, love and sensory overload....",
+      "text": [
+        "This has to be the musical of the year. What an absolute fantastical musical and colorful trip to take. An amazing beautifully choreographed adventure in color love dance and scents. Touches every one of the senses and leaves you wanting more bhangra. The cast were phenomenal. The costume are stunning. So good. A must see. Grab tickets. You won't be disappointed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Cirque Eloize’s HOTEL show review",
+      "text": [
+        "Really interesting show with incredibly talented performers. Unusual and quirky, unique and enjoyable. Had a fantastic evening there and would definitely go back again. The St Lawrence Centre itself is a welcoming sophisticated environment where you feel part of a lively arts scene and comfortable within the theatre atmosphere."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Grandson Xmas Experience",
+      "text": [
+        "Took our Granson to the BlumaTheater to see Champs of Magic. We had great seats. View was perfect. Seats where very comfortable. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Family"
+    },
+    {
+      "title": "New Years Eve 2019 in Jane Mallet Theatre",
+      "text": [
+        "We saw Die Fledermaus in the Jane Mallet theatre on New Year’s Eve 2019. The theatre is great. Small and cozy theatre. The stage is visible from the top. It is clean and well maintained. Good experience."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "Accessibility access very poor ",
+      "text": [
+        "We enjoyed the show We saw Champions if Magic - it was very entertaining.  We were disappointed with the accessibility of the theatre.  One party in our group was on Crutches so we changed our seats from the balcony to the orchestra level in the handicap seating area.  There is a lift but you need to find a staff member in order to use it - we asked several people before we found a person to help us but she said there were just as many stairs to our seats from the lift that they were just less steep.  We  ended up just using the stairs but they sent us to the wrong entrance and so my daughter ended up going down twice as many stairs as she had too only to have to go back up half of them.  Then when we got there we saw where the lift went and if she had of taken it she would have only had to go down three small ramp type steps.  It was a brutal experience.  The theatre needs to improve this process for people with mobility issues and educate their staff better in order to properly assist people that have mobility issues.  "
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2018 • Family"
+    },
+    {
+      "title": "Slavas Snow Show was so bad I couldn’t even find it on the menu to rate so I had to go with the venue instead.",
+      "text": [
+        "We went to see Slavas snow shoe yesterday and what a huge disappointment. Intact, disappointment doesn’t even describe the event. Don’t be fooled by the trailers or the tv commercials. It was non-sensical, rediculous dark and depressing. What a huge loss of time and money. As an avid theatre goer I was Disgusted with the garbage they call a theatrical performance. And the tickets weren’t cheap."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "Nice and good performance ",
+      "text": [
+        "We liked what we saw, the way that we felt being there, and consider it as a nice and good performance ."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Great Little Theatres",
+      "text": [
+        "The Bluma Appel Theatre is about 1000 seats.  The programming is more artsy than formula musicals.  The appeal is what's on the stage, smaller productions and often avant garde."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "In the heart of the city",
+      "text": [
+        "Lovely theatre right next to the old O'Keefe.  It has comfortable seats and a number of different venues.  There are nice clean washrooms, food for sale, and easy access for the dsiabled."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2012"
+    },
+    {
+      "title": "Wonderful venue!",
+      "text": [
+        "Excellent theatre; beautiful venue and stage; wonderful exposure for local and international talent."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Worst Play Ever!",
+      "text": [
+        "Rock n Roll at the St Lawerence Center for the arts - don't waste your time! Loosely centered around the evolution of the Marxist theroy and Rock n Roll. It was hard to follow and did little to develop the characters. Complete waste of money!"
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "The Overcoat: Opera",
+      "text": [
+        "This is a review of one performance: The Overcoat. Having recently read The Overcoat by Russian writer Gogol, I was excited to see how the short story translated into opera. I've seen many operas and musicals in Toronto and elsewhere and this was bar none the worst performance I have ever seen. For the first time in my life I refused to clap - the disgraceful way the mentally ill were portrayed pushed the perfornance from awful to intolerable. The original brilliant story is about a humble, ordinary, poor man who copies documents. The transformation into a vapid semi-musical (there were no actual songs) about an accountant made no sense. The actors overdid it at every turn, never showing one moment of subtlety.Shockingly, this show received rave reviews, which makes me question the entire theatre scene in Toronto. Go and see Come From Away instead - it is brilliant!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2018 • Couples"
+    },
+    {
+      "title": "Hannaford Street Silver Band May Be Best Silver Band in North America",
+      "text": [
+        "The Hannaford Street Silver Band calls this home and even has its name on the building. This is a well-deserved honor, as this British-style brass band (no French horns, of course!) plays some of the most interesting and challenging music written for this up-an-coming genre. The British-style brass band is not what you think! With over 400 bands playing this formula in the UK alone, and hundreds more around the globe, it offers a remarkably fun and fascinating repertoire, ranging from Broadway, to Latin jazz, to Movie themes (especially John Williams!), and includes was moving and exciting classical music as well as contemporary music written just for this format. The St. Lawrence Center offers many other types of groups as well, and stresses innovation and high performance values. But if you are in town, if you have ever played in a band, or just want to hear something exciting and new, if the Hannaford Street Band is playing at the St. Lawerence....go for it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016"
+    },
+    {
+      "title": "Kim's Convenience",
+      "text": [
+        "This play is a \"must see\".  The script is terrific, the acting strong and moving,and the staging enhanced but did not take over the drama.  The play was pretty much sold out with a high school group there, which meant for a noise-y and crowded theatre.  Once the play began you could hear a pin drop.  It's a movingly eloquent production which my husband said was the best theatre he had seen in years."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Couples"
+    },
+    {
+      "title": "Bluma Appel Theatre: a superior venue",
+      "text": [
+        "We were in the Bluma Appel Theatre for a performance of Julie, an opera by Philippe Boesmans. The work itself was generally interesting and attractive, although it had some limitations. The theatre is first-rate. The seats are comfortable, the sightlines good, and as a whole the space is more appealing than the smaller Jane Mallett Theatre that is part of the complex."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2015 • Couples"
+    },
+    {
+      "title": "Great venue",
+      "text": [
+        "Great venue. good comedian. The centre needs the get there stories straight on what food and drink can go into the auditorium. Buddy selling me my coffee says yes than I get down to our seats and lady says no."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2015 • Couples"
+    },
+    {
+      "title": "Good sightlines",
+      "text": [
+        "We were in the Jane Mallett Theatre for an Opera in Concert performance. It was okay, though a fully staged production would have been better. There's no way a piano can replace an orchestra. The space itself is nice, however, even though our seats felt a bit narrow. Leg room was sufficient, and our view of the stage was excellent. Service at the food-and drink counter during the intermission was fast."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2014 • Couples"
+    },
+    {
+      "title": "Fantastic venue",
+      "text": [
+        "Saw Bill Frisell here and totally loved the venue.  Smaller hall, very comfortable seats, staff were so friendly and helpful, not a bad seat in the place.  You can enjoy a class of wine, sit back and listen to the music.  For serious music lovers only.",
+        "Close to transit and great restaurants - thoroughly enjoyed it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2014 • Couples"
+    },
+    {
+      "title": "Nice theatre but....",
+      "text": [
+        "Nice theatre but beware of two things - the heat is too high and more importantly the second floor has no elevator - quite a deterrent in this day and age when things should be accessible to those with mobility issues."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2014 • Family"
+    },
+    {
+      "title": "Temperature was way to hot!! Nice theatre",
+      "text": [
+        "Location great, atmosphere is inviting. Service was excellent...staff always there to assist. There wad a little cafe there but we didn't buy. The event we went to see was called sisters speak which was excellent.",
+        "My only problem was the theatre was way to hot...I was sweating. And we.were just sitting down. My mouth was so dry...I just could not believe how hot it was in there."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Lovely Theatre",
+      "text": [
+        "This is a great place to see a lot of international talent and great music.  A must for theatre goers."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2012"
+    }
+  ]
+}

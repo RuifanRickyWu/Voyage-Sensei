@@ -1,0 +1,392 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Rec Room",
+    "url": "/Attraction_Review-g155019-d12644350-Reviews-The_Rec_Room-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "255 Bremner Blvd",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 3M9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 353
+    },
+    "openingHours": [
+      "Mo-Tu 11:00-00:00",
+      "We 10:00-00:00",
+      "Th 11:00-01:00",
+      "Fr-Sa 11:00-02:00",
+      "Su 11:00-23:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/fc/45/b4/the-main-bar-at-three10.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Game & Entertainment Centers"
+  ],
+  "description": "The Rec Room redefines the meaning of fun with over 40,000 sq. feet of great games, mouth-watering eats and amazing entertainment, all packed under one roof! With Canadian-inspired cuisine, virtual reality, arcades games, live entertainment, and more, The Rec Room is the ultimate gathering place to grab a pint, host an event, or just play.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Nice recreational area of activities ",
+      "text": [
+        "Stop to check it out, as the area was a hype of activity when I visited, it was clean and welcoming, restaurant and bar fully stocked with table service, as also retail shops for purchasing of toys or merch.",
+        "The gaming area was interesting and fitting for the whole family, can be a bit noisy as a more younger crowd was there the day I visited...security was on hand in case of eventualities...a cool area for recreational activities for sure."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "No Service",
+      "text": [
+        "Service? What service? Seated to a table and waited 20 minutes, no one came to take our order. Probably for the best the prices didn't seem that great for pub food."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Third time - home run",
+      "text": [
+        "Ok, this is the THIRD time I’ve had a great meal here I’m going to take the roasting for liking this insufferable tourist trap - for fellow PARENTS. ",
+        "My sibling lives in the city and our kids love the Aquarium and we end up at Blue Jays games when people visit. So we end up here a couple times a year ( and we try to use time off ) on a weekday so it’s slow. BUT the food at the Aquarium (sorry it was in the newspaper they messed this up) is not food for anyone except kids under 16. All good, got the Rec Room across the street. The food is subsidized by the video games - we had a $10 kids meal that came with a salad, a personal pizza AND Tiny donuts with jam (AnD and a drink?). ",
+        "I always have a nice fish and chips or burger…..and the APP? ",
+        "MOVIE popcorn 🍿- goodness. ",
+        "Of course great for kids, stroller friendly, accessible. And for a tourist spot the staff in the restaurant are a delight."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Great food @ the Rec Room Toronto.",
+      "text": [
+        "A great place to eat w/entertainment for the family!!",
+        "We stayed in downtown Toronto for a week and this was by far our favourite place to eat! Food was great as was the service! They even have a huge arcade w/enough games to keep any age happy!",
+        "5 star……."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Cool place to hang out",
+      "text": [
+        "Dropped in for a Cold Beer and enjoyed Breaded Chicken Wings.",
+        "Noise, Hustle, Cold Beer, Great Snack Food options. Air-Con inside, seating options outside. EXCELLENT SERVICE",
+        "Listening to the Arcade Games new n old and watching the Calgary Stampede, Baseball (?)  & Motorsport on the array of Giant Screens. Great way to spend a few hours",
+        "Highly recommend "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Good portions",
+      "text": [
+        "I spent $34 for a loaded nachos with taxes and tips. Plates are very well served. Service is slow. Waitress Venus was nice to us."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Expensive",
+      "text": [
+        "4 people earring was 300$ that is disgusting on my good. I wanted to puke after eatting because of the price. Eww what the frigg."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Pretty meh bar / adult arcade",
+      "text": [
+        "Sort of like Dave & Busters, very mediocre pub-ish food, only OK drinks, and a bunch of arcade games. About half the games are for tickets that you can redeem for plushies and candy and board games, though you need quite a lot of tickets to get anything reasonable. The other half of the games are pretty much racing or shooting games (though there are some modern versions of old-school ones too and 3 pinball machines)."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Great place for drinks and sports!",
+      "text": [
+        "Grabbed a few drinks here before the BlueJays game. The vibes were awesome and everyone was in for a great time. Staff was great!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Great ambience and service from Mercedes",
+      "text": [
+        "Outdoor seating at The Rec Room was relaxing. Our server, Mercedes was extremely pleasant and knowledgeable about the menu."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Amazing place",
+      "text": [
+        "What a place. Loads of arcade games of all calibers, many games where you can throw things yourself too and it all works without needing cash. You can also drink at the same time anything you want from a bar and they even have some decent craft beers here. This is a definite highlight of Toronto if you like arcade games and beer."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Nice location downtown",
+      "text": [
+        "Nice location downtown. Is more an entretainment centre rather than a restaurant. The menu is quite limited but the food is good and the personnel is attentive. Has to be booked in advance since is often crowdy. Prices in the"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Terrible food & service",
+      "text": [
+        "Food was terrible service was terrible short staffed but couldn’t get flat drinks swapped and lunch took forever to come waitress kept walking past us and ignoring us"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Disappointed ",
+      "text": [
+        "Visited the recroom for lunch after visiting the CN Tower with my grandkids, son and daughter in law.  Waited 30 minutes to get a beverage.  After ordering food waited another 40 minutes for it to arrive.  French fries were cold, gravy was just out of the fridge.  Thought it would be a much better experience due to its location.  Will not return."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2022 • Family"
+    },
+    {
+      "title": "Slightly pricy, but enjoyable",
+      "text": [
+        "Visited last week after being up the CN tower",
+        "Service a little slow at first but came good in the end",
+        "Drinks and food were great, waiter knew about beer and recommended a local one which went down well. ",
+        "Burger was deliocious and the tofu lettuce wraps were good too",
+        "Bill was a lot more than other places but we were right by CN tower and rogers centre."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Decent visit to a food and arcade place",
+      "text": [
+        "Food was good, kids at their meals, cheese pizza and Margherita pizza and my burger was good, maybe a little overdone but still good.  Great atmosphere there with the arcade but service was very slow.  No refills on drinks ever given and they never brought my sons ice cream."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2022 • Family"
+    },
+    {
+      "title": "Hostile welcome from the ‘welcome staff’. Won’t be returning.",
+      "text": [
+        "Came here for drinks on the patio late afternoon (4:30ish) on July 20th. The girl at the stand at the outside entrance who finds you a table was very grumpy and didn’t smile once at us. We were shown our table and THANKFULLY we had a lovely waitress after that who was smily and attentive. The drinks were fine, but the group of staff who were at the front post at one point were looking over at our table and laughing. We also saw them roll their eyes at another family who they had just served. Group of them just standing around doing nothing it seemed but judging everyone. When we left, none of them said anything to us as we left, not even a smile. I felt very awkward smiling at them on the way out but then again, I’m not a rude person. Maybe they were all having a bad day, but it’s very off putting and I won’t be returning. What a shame, as it’s a great location and seems like a nice venue and the waitress we did have was lovely."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2022 • Family"
+    },
+    {
+      "title": "Burtal Service/ food basic",
+      "text": [
+        "Just left!  Been serving tables for 27 yrs...was not busy!  Waitress took forever to deliver 1st drink...took the order like a robot..forgot the nacho appetizer...mains were delivered..no plates or cutlery to eat with...   no offer of 2nd drinks or even water..  my wife paid as I refused to tip"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022 • Family"
+    },
+    {
+      "title": "Great place while in toronto",
+      "text": [
+        "Perfect for kid and adult, we appreciate the service and the speed, the food is good ans the kid can play while waiting"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Family"
+    },
+    {
+      "title": "Convenient to tourist spots",
+      "text": [
+        "Came here after the aquarium because it was so close. We arrived just as it opened so we easily were given a table even though there was seven of us. We didn't realize it was like a Dave and Buster's...we just thought it was a huge restaurant! We didn't let our kids play the games though and they didn't complain...we're the mean parents! ",
+        "It took a while to get our drinks and our food but the food was good and the portions were large. The bill was a little high but we expected that when it's in such a touristy area."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Not friendly",
+      "text": [
+        "No Parking and servers favored some customers over others; generally, it wasn't welcoming.",
+        "You can go to play, but the food is too oily."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Go For The Fun, Not The Food",
+      "text": [
+        "Similar to a Chuck E Cheeze, but for adults.  Elegant decor, good assortment of modern games (i.e. no pinball, etc) and crappy pub food make this ideal for the 20-20-something crowd.  The food was horrible.  I have rarely disliked a burger, but my double-patty was dry and tasteless.  Even the fires were dry and largely unedible.  Staff were friendly and very busy.  No cutlery, no napkins, were some of the minor items that were overlooked.  Obviously, this is a gaming experience, with food avaiable, rather than a restaurant experience.  Good for large parties."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Not impressed",
+      "text": [
+        "I recently visited this downtown location with adults and children in attendance. I must say, that I was actually quite shocked by the extremely strict security detail at the entrance; they proceeded to not only request bag check, but also ruffled through my entire purse, not to mention checked my pockets as well. Apparently they are checking for food and beverages to be brought in, but I thought this was quite excessive, and they were doing the same to all patrons. It was probably more than I've experienced at airport security lately.",
+        "The space itself is quite large, with separate areas for gaming, the bar area and the restaurant.",
+        "The restaurant menu has many 'generic' options, and not particularly healthy ones, especially for kids, which is concerning, and the portions are small.",
+        "Additionally, if you are dining in then planning on enjoying the games, they don't let you leave items at the table, and there's no place around the gaming area to keep your belongings. Also, the service was quite slow and not particularly attentive.",
+        "It is QUITE noisy as well, with not only the games, but also noise from the televisions broadcasting games, but background noise as well. ",
+        "Overall, individuals might come here for a bday/party or a bar night, but it's nothing special, and certainly, I wouldn't come here relying on customer service (and security not to mention).",
+        "Not a place I'll be coming back to myself."
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "Called in for Lunch",
+      "text": [
+        "We ate here twice whilst staying in Toronto. Both times we ate outside. Un  be known to us we did not realise how big the building was inside and  further  tables were available. All manner of play games etc. So if it rains you can  get inside.",
+        "The food  was very good and served up by polite staff."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Fun for all ages!",
+      "text": [
+        "Great concept to keep young and old diners entertained between courses. It is clean and food was really tasty. Quality of games are good and great variety so all ages can get involved. Staff were friendly and helpful. It was a little crowded at times however we did visit during peak times."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Go to The Rec Room",
+      "text": [
+        "Were warmly greeted by the Rec Room staff. Seated and wait staff were efficient. The meals were plentiful, good bang for your buck. Bathrooms were very clean. The games area and dining area super clean. We will definitely go back when in Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Fun Vibes & Good Food",
+      "text": [
+        "Visited on a Thursday evening with a group of 6 and were seated in the dining area right away. They have tons of games/arcade options (we didn't partake, but it looks fun). ",
+        "Ordered a few cocktails, beers, appetizers, and meals (poutine, chicken sandwich, tempura jalapeno poppers, cobb salads, mac & cheese). Food and drinks were all decent/enjoyable. Service was friendly, and prices were mid-range."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022 • Friends"
+    },
+    {
+      "title": "Rec Room is Excellent",
+      "text": [
+        "We had dinner here (4 adults/2 children). Outside. LOVED the location! LOVED the server. LOVED the food! The game room looked like fun, but we had just returned from the Game Garage at CNE, so.... It started raining and we didn't have an umbrella over our table. The waitress immediately told us she had a table ready for us inside, but we chose to sit outside. She immediately dragged an umbrella over, which didn't cover the entire table, so she started to drag another one. I told her I was finished & could stand, but she wouldn't have that and got a 2nd one anyway. Excellent experience all around. Thank you!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Amazing View",
+      "text": [
+        "Located right  across the street  base of CN Tower. Arrived for 645pm reservation,dinner with friends.We both made reservations patio but were told that we had none. At first hostess claimed no tables available,but when I asked to speak to manager promptly seated. Others were being told the same. Inside is arcade bar atmosphere very loud !Our young waitress did an amazing job under the circumstances. Didn't expect fast service but others were not so polite,not sure how many tables she had but she,was a real trooper dealing with things,about 45 min.to get entrees, they were hot well made  and reasonable portions for the area.Average $25 For a tourist I thought it was great sitting under the CN tower as the lights came on. Reason for 3*? shrimp in pasta had shells and I felt silly sticking my fingers in my food to remove them.No salt pepper shakers."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Awesome place but slow",
+      "text": [
+        "The amount of time it took to get out food is the only reason I out 4 instead of 5. Even with that, half of my family said this was their favorite restaurant of out entire trip. It’s got a huge gaming area so it’s a little crazy in there but it’s a cool concept. We saw another family have the kids go do the arcade stuff while the parents could enjoy some alone time which seemed nice. Our waitress was nice. They bring popcorn as an appetizer. We had poutine as an appetizer as well which was great. Everybody’s food looked and tasted amazing once we finally got it. We had an hour and a half to be there before we had tickets to go elsewhere and the food took just over an hour to get so we were hurrying at the end. I doubt (at least on weekends, this was a Friday night) that it’s an isolated thing. Even with the wait though, this place was pretty awesome."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Fabulous Place For Families",
+      "text": [
+        "This place is amazing. Great for families so many games for kids to play while waiting for food. Also great entertainment that allows adults to enjoy an after dinner drink while kids are occupied. Would be a great place for a group of friends or first date night. Food and service excellent. With games fairly noisy but lovely quiet patio"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Just OK",
+      "text": [
+        "If like to give the Rec Room a great review but I can't. The staff were all really nice and the food wasn't bad but I probably won't go back or recommend it ",
+        "Our server was nice and friendly and seemed happy, but he messed some things up. He forgot to bring a drink we requested.  He made us believe he'd make up for a non-existent mistake he made in our order by bringing us each a free dessert but only brought one and it appeared on our bill. It seemed like much of the wait staff were trainees.",
+        "The food was ok but not great. I ordered a chicken Cobb salad and found my first piece of chicken when I was 3/4 done. The chicken in it was shredded but I don't think there was much there. The fish tacos were ok but not as flavourful as I'd hoped.",
+        "The location is great though; right across the street from the CN Tower and aquarium."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "its nice",
+      "text": [
+        "yesterday ,i went out with my friends; we ate in East Sude Marios. So",
+        "many people ate with me and i wanted to go out. i saw rec room BLOW UP!!! i was so lost S to wtf was happenening!!!!!$$$$&&"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "Great fun!",
+      "text": [
+        "Really fun place where you could spend hours in here without realising it. (Which I did!)",
+        "Not as big as other Rec Rooms I’ve been to but definitely worth a visit if in the area."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Lovely terrace in the summer. Good salads and sangria.",
+      "text": [
+        "Nice outside terrace, good sangria, great soft pretzel. Service was efficient at times. Nice big salads."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Food terrible",
+      "text": [
+        "Place is manic but it is an amusement arcade! Outside but played live music and was more chilled. Ordered jalapeño peppers but they were way undercooked and sent them back. Batter nor pepper were cooked. Inedible. Service was very quick to ask for payment of everything. Wouldn’t go back."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Try a Canadian Caesar Coctail",
+      "text": [
+        "What a fun place.  The kids kept busy while my husband & I got to talking to other adults at the bar.  The place is modern, in a great location (next to CN Tower & the baseball field) in Toronto, & offers good food."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Fun place to spend a couple of hours",
+      "text": [
+        "It’s basically an arcade with a bar, loads of machines to play on - shoot em up games and racing games. Great fun and friendly staff, it is however very easy to spend $$$$$$ playing the games"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Arcades yes. Food avoid",
+      "text": [
+        "Really disappointed to rate this 2 stars as the experience we had earlier on in the week was amazing! The front of house staff (who sold us the game bracelets) amazing! I couldn’t rate them higher if I tried. The manager on duty was lovely, very polite as were the two gentlemen who served us during this process. We had a lovely chat about how me and my boyfriend are from London and similar attractions we have there! Super friendly super helpful. 5 stars for the front of house team on the 5th of April 2023 around 4:30pm. ",
+        "However we went back today - 7th of April 2023 at around 5:30pm. Once again front of house were lovely, and all staff manning the games very cheerful and happy despite the Easter weekend chaos. The restaurant however, was absolutely diabolical. Our waitress (didn’t catch her name unfortunately) was lovely, and really helpful considering this situation was nothing to do with her.  We ordered the mac and cheese and the fish and chips. I watched the fish and chips be sat under a “hot plate” for 23 minutes before they decided to finally serve us. ",
+        "For obvious reasons we sent this back. To then watch the new waiter (didn’t get his name either) and what only I can assume to be the head chef discuss with each other about my complaint. The chef in the kitchen then proceeded to simply move my food from one plate to another without re cooking or changing the items. I am an ex fast food restaurant manager, I know how customer service works. And this is not how a successful restaurant should be ran. My meal was taken off the bill due to the inconvenience (I barely ate it anyway as it was stone cold). Yet we were still left with a $39 bill. Which in my opinion is unacceptable. ",
+        "Bottom line- arcades and front of house staff amazing, really know their stuff and show a genuine interest in their job. ",
+        "Restaurant- poorly run and wouldn’t even bother wasting your time there let alone your money."
+      ],
+      "rate": 2.0,
+      "tripDate": "Apr 2023 • Couples"
+    },
+    {
+      "title": "Not Friendly",
+      "text": [
+        "Not Friendly at all",
+        "Really it was one if our worst experiences.",
+        "the waiting time to play is loge, and the order is not organiezed, someone can pass you if they are reguler customer and they know the servers. The food is oily, we ordered 4 dishes, the last one came to table when others were finishing there food.",
+        "It deserve not the time and effort made for the visit",
+        "And the Waiters behavior were extremly rude "
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2023 • Family"
+    }
+  ]
+}

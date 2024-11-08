@@ -1,0 +1,418 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Sky Zone",
+    "url": "/Attraction_Review-g155019-d4115494-Reviews-Sky_Zone-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "45 Esandar Dr Unit #1A",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4G 4C5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 58
+    },
+    "openingHours": [
+      "Mo,Tu,We,Th,Su 09:00-21:00",
+      "Fr-Sa 09:00-23:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ec/e5/69/freestyle-jump-court.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Game & Entertainment Centers"
+  ],
+  "description": "Chain of indoor trampoline parks featuring freestyle bouncing, dodgeball, birthday parties, group events & more.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "They claim that they support people with disabilities under the access2 program, but this is a lie.",
+      "text": [
+        "The policy regarding the Access2 card is strange. Parents accompanying children get free access here. Twice, my child with a disability was allowed in for free, but on the third occasion, they said I had to buy a pass. We spent over an hour getting here, feeling disappointed and upset. I kindly request Sky Zone's administration to withdraw from the Access2 program to avoid misleading people. You're not providing any real assistance to children with disabilities, so participating in the Access2 program is deceptive.",
+        "The manager showed me an internal email that said that children with disabilities do not have free access, only accompanying parents who already have free access"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Poorly organized, unsafe environment.",
+      "text": [
+        "Having been to the flying squirrel trampoline park this facility ranks pretty low. Very little variety and poor safety standards , I had trouble finding an actual adult who seem to be in charge of this facility. When my grandchildren first went on the trampolines, there were three members of the staff who  standing talking to one another, I asked what their job was and they said to watch the children. I told them I didn’t think they were actually doing their job. At that point they split up and circulated. There didn’t seem to be any monitoring of the staff. Most of these kids seem to be teenagers and it’s part of the beast that they socialize .(in this case, leaving young children unsupervised. ",
+        "The snack bar is pretty lame. They advertise pizza that you can actually buy a whole pizza but at 12:00",
+        "All they had were  3 pineapple slices. One person working the snack bar does not seem sufficient.",
+        "Because there doesn’t seem to be any monitoring whatsoever of the facility, the tables that I assume were there for eating, we’re occupied by adults on laptops or cell phones so that there was really no spot for us to sit down. Pictures below",
+        "We will definitely not be returning, and I wouldn’t be recommending it to any of my friends and their children."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2023 • Family"
+    },
+    {
+      "title": "Worst customer service I've experienced ",
+      "text": [
+        "The day of my daughter's birthday was ok and they had fun but...",
+        "Received a voicemail yesterday saying there was an outstanding balace on our visit $204...",
+        "Received another voicemail today for $267 and threats to take it to a collection agency... wth???",
+        "I just got back from being away and picked up these voicemails... NOT IMPRESSED to say the least.",
+        "Will not be returning."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2018 • Family"
+    },
+    {
+      "title": "Great way for a kid to escape.",
+      "text": [
+        "This is the regular go to place to drop your kid off and let them go wild. there are employees monitoring them to make sure they are not reckless.  its a great place for a birthday and also GLOW nights are so much fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018"
+    },
+    {
+      "title": "Bad experience",
+      "text": [
+        "We had two bad experiences in there. I am asking the manager why does he think it is acceptable to be rude to a child? Is this a part of his job to make children feel bad and cry  in birthday party? While they are invited to have fun there! My son just asked the manager to be with his friends and he respond him: sorry that I can’t make you tall! You are short! How did you think that you can insult and hurt my son’s feeling? Is this a part of your job ?  I don’t suggest anyone to go there."
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2018"
+    },
+    {
+      "title": "Fun, Safe Indoor Exercise Activity",
+      "text": [
+        "A fun and safe way to exercise indoors for all ages on a rainy or cold day. My kids love jumping around at Sky Zone. Wear loose, breathable active wear clothing as it gets really hot inside when you are sweating. The 10 for 8 pass is worth it if you have energetic jumpers + friends. I don't know how my kids do the 60 min jumps but I can only do 30 min before everything hurts from falling down. I guess that means I better get into better shape or become younger. The orange socks are great to wear in or out of the jump zone. Noisy inside so not really a relaxing place to wait for your kids but the toilets are clean and they have seating/snacks available. Good for birthday parties and events. Bring $2 for the locker, sign/print online waiver and buy tickets online since they sell out quickly. It's fun but pricey."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2017 • Family"
+    },
+    {
+      "title": "Great indoor solution",
+      "text": [
+        "Great solution for cold or rainy days ",
+        "The kids (11 and 15) had fun and asked to come again.",
+        "It's a bit noisy, not kind of a place you can seat meanwhile and read a book... ",
+        "If you don't want to spend a lot of money, bring some food with you, because they were very hungry at the end of the hour and the food in the cafeteria is very expensive. ",
+        "On weekends you better order a place online before you come."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2018 • Family"
+    },
+    {
+      "title": "Perfect fun for active kids!",
+      "text": [
+        "Took my son here while my wife was busy at a convention. He had a blast. Too much fun, in fact. Left in pain because he just did not stop! LOL! Safe, fun, active, he is ready to go back again and again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Family"
+    },
+    {
+      "title": "Fun for the kids!",
+      "text": [
+        "We brought 12 kids for a  Birthday party, the kids had a blast, it was one of the cheapest Birthday's I've thrown. The staff could have been friendlier and the establishment should be cleanier (all garbage over flowing) The areas where parents sit is not large enough. If you have not been before prepare to purchase socks. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2016"
+    },
+    {
+      "title": "dirty and rude",
+      "text": [
+        "the staff is rude and it was really dirty with rappers and all that on the trampolines my son was jumping and got pricked with a pin while he was jumping"
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2017 • Family"
+    },
+    {
+      "title": "Vaughan Location",
+      "text": [
+        "We had a birthday party, and the staff was helpful and professional. The kids had fun bouncing around for an hour. However, there were two issues: one is that there is no way to check ahead of arrival that the online system has accepted your waiver (and this led to long delays at check in).  If you are booking a party, there needs to be a way for the host to be able to check this ahead of time for all the invited guests, so that reminders can be sent around. The second, more serious thing is that the Vaughan location has very limited parking, so carpooling is essential"
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2015 • Family"
+    },
+    {
+      "title": "A great spot for fun, exercise and parties!",
+      "text": [
+        "We stopped in to see our grandchild's birthday party and were very impressed by the facility - very clean and supervision was impressive.  There was also a dedicated staff member for the party who brought drinks, pizza and cake at the appropriate times.  What a great place to bring kids for some fun and exercise - and for parties! No mess at home!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2015"
+    },
+    {
+      "title": "Great Place for Kids!",
+      "text": [
+        "My husband and I took our two kids here (aged 16 & 9) and they had a blast! I think its a great place to take your kids to burn some energy and get some exercise. SkyZone is well run and supervised in my opinion and would also be a great place for birthday parties. Highly recommend SkyZone! We'll be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Family"
+    },
+    {
+      "title": "Birthday Celebrations",
+      "text": [
+        "Fun Outing,",
+        "Very dirty atmosphere. ",
+        "Filthy washrooms and floors, quite the turn off for the amount of money being brought in."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2015 • Friends"
+    },
+    {
+      "title": "skyzone vaughan -fun time for kids but not a whole family outing",
+      "text": [
+        "don't get me wrong, the kids (10 and 8) have a good time, and they use up their energy in one hour.  its' relatively inexpensive, and I recommend max one hour.  the socks they must buy for $2 but they get to keep it for future visits. however, because of safety reasons, the staff separate you based on size.  so if you are thinking that you and your kids get to bounce close together, or play together, you are wrong. at best, you will be separated by a row of trampolines. I would recommend taking your kids there and let them run for an hour, but bring a book or your wifi phone."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2015 • Family"
+    },
+    {
+      "title": "AH-Mazing!",
+      "text": [
+        "Love this place makes me feel like a kid again, I went with the family mid July and it was very fun, only thing to be careful about is to not do a back flip (bad idea on my part)!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Couples"
+    },
+    {
+      "title": "Fun night ",
+      "text": [
+        "We came here with our 12 year old and two adults in their 20's who all had a blast jumping around in the different zones .",
+        "Everyone was friendly and kids of all ages joined up to play against each other for dodge ball .",
+        "A really good time had a cafe etc also did parties too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "A Real Blast - Skyzone Vaughn",
+      "text": [
+        "We came here two days in a row - my son had a blast. I'm sure we will be back. It's his favourite thing to do so far.",
+        "Before you can use the facilities you must complete a waiver. It is kept on file for one year, so you don't have to fill one out each time. You must purchase special Skyzone socks (with grips) which you keep and can be re-used, cost a few bucks - nice colour.",
+        "Skyzone Trampoline Park is an indoor activity for KIDS AND ADULTS (maximum weight is 300 lbs). It's a great way to get some exercise and burn calories for children and adults.",
+        "The admission costs depends on your length of stay - gives you access to all the various trampoline activities: open trampoline jump, foam pit (you jump from a trampoline into the foam pit any which way you like, you can show off your skills - flips), trampoline basketball (jump & shoot or dunk), trampoline dodgeball (you are grouped by age). ",
+        "I suggest one and a half hours - but start with one hour, If you choose just one hour and at the end you decide to stay longer, you just pay the difference. That's what we did the first time. The second time we purchased 90 minutes.",
+        "It's comforting to know they separate the bigger/older/adults from the younger/little kids. This is to prevent the little ones getting trampled upon.",
+        "During the open/free jump there are about 48 squares of trampoline space, divided into three groups, one person per space/square at all times.",
+        "It's nice to see the Skyzone staff supervising various activity courts - making sure everyone is safe, and following the rules and having fun.",
+        "They let guests into the activity area every 30 minutes (:00 & :30). So give yourself time to fill out the waiver before the hour or the half hour.",
+        "This is an excellent form of exercise. My son had a flying time!",
+        "I'm sure we will be back before we depart from Toronto.",
+        "Yeh … they have a location in Ottawa.",
+        "No food services - just snacks, chips, energy bars, energy drinks, cold beverages, sitting area, wi-fi, washrooms, lockers, shoe racks, mezzanine, free parking."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "Skyzone Vaughan.",
+      "text": [
+        "The kids had a wonderful time. The Staff was friendly and informative. Will definitely be going back."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "SkyZone was a BLAST! The staff familiarized us with the rules before our hour of jumping. The trampolines are divided by age and size, so that everyone was very safe! I would recommend booking ahead, as well as filling out the online waver, before arriving. As well, try to arrive early in the morning (around opening time), as it gets quite busy at peak times!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "Birthday party",
+      "text": [
+        "Fun and healthy choice. ",
+        "We went for an 11 year old birthday. ",
+        "Unless you know first and last name of all your guests they can't confirm if your guests have completed their waiver prior to getting there, not everyone had it done, so we ended up acting as guardians for some of these kids because they carpooled and their parents were not there. ",
+        "We had car problems and had to change the time we had initially reserved literally last minute,  they were very accommodating, it would have been a disaster without their help. ",
+        "Very polite and helpful staff they arranged for pizza (2 slices per jumper and drinks) bring your own water or they have water fountains, kids can be very thirsty after a few min jumping.",
+        "You have a choice to bring your own cake and they kept it refrigerated until the appropriate time for us. There are monitors supervising the kids. Lots of place for sitting so parents can relax while the children  play. ",
+        "Overall the kids had a lot of fun while parents got together and talked for an hour worry free... Actually more like forty bucks per jumper after all is said and done."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2016 • Friends"
+    },
+    {
+      "title": "Whitby location Birthday Party for 6 year old",
+      "text": [
+        "Had a birthday party at the Whitby location.  My Son had a great time the kids really enjoyed jumping but I didn't like how some members of his party had to separated into a different areas because they were still only 5 years old.  I would have thought that because we booked for a party of 10 ( $250 ) that there would have been a section reserved and each child would have had a spot to jump but it was a bit of a free for all. One of them got upset because he had to wait for a free spot before he could jump. All of the kids regardless of their age were able to jump into foam pit and they were able to play dodge ball in another court if they wanted too. So in the end it didn't really matter",
+        "definitely helped to have the waived done online ahead of time. as check in was fairly long.  ",
+        "The host was very nice and she did a good job helping us to our room and serving the pizza ( pizza and drinks were included in the party package)"
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2016 • Family"
+    },
+    {
+      "title": "Skyzone Vaughan is run by kids ",
+      "text": [
+        "I went one afternoon with my kids and was really surprised. Mind you, not a good surprise. It was a fairly dead day and not even one person greeted us or smiled at us. The court monitors that were there to supervise were clearly not loving their job. I asked to speak to a manager regarding an issue and this young man came to me and instead of helping me, gave me the one word answers and seemed disinterested. Then another manager comes over to me, this time a young lady and she didn't seem to know what she was doing. She didn't know what she was talking about and it really baffled me. ",
+        "The pricing is pretty decent but I'd rather spend my buck at another venue rather than go back to the Vaughan location. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2015 • Family"
+    },
+    {
+      "title": "Good for young kids but pricey",
+      "text": [
+        "Attended a young kids birthday party this past weekend.  This is a large facility.  Good amount of space for kids to jump up and down.  They also have basketball net.  The party rooms are a good size.  The downside is they make you buy their drinks and food.  The price is a bit high. They allow to bring your own cake only.  This play zone are good for young ones under 12 years old."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2016 • Family"
+    },
+    {
+      "title": "Was Expecting Much More",
+      "text": [
+        "Went with couple friends and my wife to celebrate my birthday in a goofy way. Half of the areas were closed and one was being used for some sort of trampoline yoga. Basically they did not have enough staff so everyone had to be packed into one court so they could monitor you, and monitor you they do. You are being watched constantly by some teenager and if you even land by mistake in someone else's square they are all over you. Couldn't play the trampoline dodgeball because once again they only had one area open and everyone was jammed in there so would have not been fun at all. Also, you have to change in a toilet. Don't even try and stay one minute late cause they are all over that too. The only real great part was that there is a microbrewery next door so had a few beer afterwards."
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2015 • Friends"
+    },
+    {
+      "title": "Vaughan location has horrible parking and registration could be better",
+      "text": [
+        "The parking situation at the Vaughan is poor, parking is very limited to start with and they share their the parking lot with a banquet hall.  When the banquet hall has an event they actually have parking attendants limiting parking for Skyzone to the front section only, making parking horrible.  Even if you are waiting for someone there are limited areas to stop and it's extremely difficult to drive around.  Once in, even though we did sign their waiver online, it seems since we did not do it way in advance, they did't have a record of it and made us do it again.  One line-up to register, another to get socks and finally they let your group in, which is extremely frustrating and seems like a very disorganized system.  Once you get through the parking and registration, the kids did have a great time, not sure it's really worth all the initial frustration though."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2016 • Family"
+    },
+    {
+      "title": "Not worth the cost",
+      "text": [
+        "We went for a friend's birthday. It was fun, but not all that organized. Kids running everywhere, and no real changeroom. People were getting ready and changing clothes in the bathroom. Highly unsanitary! A lot of people came straight from work and didn't have the luxury of wearing appropriate clothes when they arrived. ",
+        "Also, one of the party goers got hit by a stray ball, and she had symptoms of a concussion. The staff looked kindof flustered. Lucky we had people with us trained in first aid. ",
+        "Also, the foam block pit was a mess. The line is divided into four slots, like at a wonderland ride where you wait in whichever line you want. But the girl directing traffic either had no idea what she was doing, or she was letting the people through that she liked best. I waited atleast five times longer than some kids. In fact, one guy went three times before I was able to go once, and that includes the time it takes to climb out of the pit (not easy, harder than it looks!). Now, we were told that our fee would entitle us to the block pit. If it was meant for kids, that should have been specified when we paid. ",
+        "The staff at the food counter looked so bored, and the pizza was all dried up. In the warming window. ",
+        "Oh, and the locker at my change. The staff did give me my money back for that. ",
+        "Needless to say, I was not impressed with the overall experience. The place really needs new management. Unless it's a social obligation I can't escape, you can bet I will never go back. ",
+        "The one good thing was free socks! with some great grip on the bottoms. If your feet get cold easily, these are great. Mine overheated pretty quickly and I was itching to get them off within half an hour. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2015"
+    },
+    {
+      "title": "Super fun !",
+      "text": [
+        "I'm 20 and went with a couple friends. I really enjoyed it! Great for everyone of all ages! Kinda pricy but good indoor fun for the winter time. I payed about $15 for an hour. And then you have the buy the mandatory socks for about $2-$3 can't remember exact. :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2016 • Friends"
+    },
+    {
+      "title": "Bouncy fun",
+      "text": [
+        "New location in Whitby. Looked like a very busy place. Scheduling a time online and printing off waiver forms was time consuming. When we arrived for our set play start time there was some confusion with the waiver because my daughter brought a friend. We were directed to a kiosk then back to the service desk. Was not a smooth operation. In the end the girls ended up getting additional 15 minutes because with all the confusion they missed their scheduled start time. At the end they had a fun time. Expensive for just bouncing around for 1 1/2 hours. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2015 • Friends"
+    },
+    {
+      "title": "Vaughn Location  ",
+      "text": [
+        "I've been to other indoor trampoline parks before and I must say this was the worst experience I have ever had. I brought a group of 7 children with me. Registration was a breeze and the lady at the front desk was more than helpful. Once we entered the children were split into 3 groups. One child was forced to jump alone in a secluded area and forced to only use 2 jumping squares as the other area was being used. I understand this is not the staffs fault. They blame it on safety , but plenty of other indoor trampoline parks allow the children to mingle and jump together. It's unfortunate I already spent $100 for the kids to jump separately. If I had know these facts or was informed , I would not have came here. Skyline will be boycotted by my family and all my friends. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2015"
+    },
+    {
+      "title": "Awesome time",
+      "text": [
+        "I attended sky zone for the first time with a group that had children from 7 to adult ages and everyone had a blast! The staff was very friendly and informative. Facility was clean. After a certain time they dimmed the lights and had disco balls going. Highly recommend. I will be coming here again"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Family"
+    },
+    {
+      "title": "Fantastic Customer Service!",
+      "text": [
+        "My son already loves the fun at SkyZone, but I'm now a huge fan of the folks who work there as well. ",
+        "I just received outstanding customer service on the phone from an employee named Garick and then David, the new General Manager. Both went above and beyond to help meet my needs for an upcoming event. Moreover, because I mentioned that my son particularly likes dodge ball there, David said he would hand select an employee who is especially good at leading dodge ball games. ",
+        "We are really looking forward to our event and just had to go ahead and recognize the stellar customer service we have already received."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Family"
+    },
+    {
+      "title": "Jumping for Joy",
+      "text": [
+        "We took a group of special needs students here and we all had a blast.  Our group of 16 had children aged 6-11 and a variety of special needs from mild to severe.  Our children had the run of the place for 30 minutes (which was plenty) and staff were permitted to jump and play with the kids.  The only downside was we had to wait for much longer than we had been told and keeping such a group of children entertained in a new environment was tricky.  All said, we would go back again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2017 • Business"
+    },
+    {
+      "title": "Fun times",
+      "text": [
+        "I have gone twice, once during the day and once for GLOW and my entire group had so much fun. Keep in mind we are all adults so we were put off into an area together, but people are seperated by size.  I would say an hour is enough, but during GLOW you get 2 hours, and if you can power through almost everyone is gone by the end. GLOW also has good music and it's, in my opinion, a lot more fun. You also get a shirt along with your ticket. Don't forget to sign your online waver and print it before you go in or you will be waisting a lot of time when you get there. That is a down side, if you arrive late, that time is taken from you. We arrived 15 minutes late the first time we went during the day due to a snow storm, so we only got 45 minutes of jumping even though we paid for an hour. Make sure you get there early! Also lockers cost $2 so if you want to keep your phone or wallet in them don't forget to bring a toonie."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "G R E A T ! ! ! ",
+      "text": [
+        "Visited with the family, 3 boys: 19, 17 & 14 - all boys !!!",
+        "Best place ever !!!",
+        "If you're like me looking for good inside and outside adventures for 3 boys, this is the place for you.",
+        "The concept is very simple, check in, get the rules and behavior presentation, sign the waivers and the decide:",
+        "1 hour",
+        "2 hours ",
+        "Or more ",
+        "You just get a different wristband and sticker with check in time and your off !!!",
+        "Facilities are clean and in great shape, staff was fun and friendly (make sure they understand you're there with 3 teenagers LOL), not sure on the food menu, we went out to eat afterwards.",
+        "In summary - great place for a fun family oriented place to go to !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Family"
+    },
+    {
+      "title": "\"Toddler Time\" was a Complete Disaster",
+      "text": [
+        "My friend and I went to \"Toddler Time\" this morning (9AM - 10AM) with our two 2.5 yr olds and it was a disaster. ",
+        "First off, we were told that due to overcrowding which sometimes (but doesn't always) happen, we wouldn't be allowed to jump with our kids. We had to watch from the blue perimeters of the trampolines. Then we were also told we couldn't sit on the perimeters, that if we wanted to sit we had to do it on the one designated sideline. But we were also told that our toddlers couldn't share a trampoline (only 1 kid per trampoline square) so we couldn't sit on the designated sidelines because we had to constantly chase down our toddlers to make sure they weren't playing together on the same trampoline. ",
+        "Then at 10AM when Toddler Time was over and Open Jump began, we were herded over to one smaller section of the trampoline zone and told that our kids had to stay there because they were too small to use the whole zone during Open Jump. So we tried to contain our kids to the side we'd been herded to -- only to be told by another employee that we were now in the \"adults only\" section and had to go back over to the  other side if our toddlers wanted to keep jumping. At which point I said enough's enough and asked the worker to explain how any of these rules made sense. He tried, bless his heart, and eventually explained to us that the first employee was incorrect; our kids WERE allowed to play on the other side of the zone. But that the side we were currently on was for \"adults only\". (Note: there were ZERO adults jumping at this time. And not a single person used the \"adults only zone\" until 10:30). ",
+        "I understand that for safety reasons these places need rules. But being super stringent about rules that are essentially impossible to follow especially for toddlers -- i.e. Don't bounce on the same square as your friends; don't sit down on the trampolines; you can't go on that half of the zone even though you were just over there because at some point some grown up MIGHT want to jump over there... It's too much. It actually became stressful for a number of parents. I heard at least 6 other parents complaining that the rules were difficult to understand and impossible to follow.",
+        "A word of advice for management... allow your employees to use their discretion. There's no point shooing parents and toddler away from the \"adults only\" zone if there are NO ADULTS playing in that zone. Inform parents about the rules and say \"If bigger kids/adults show up and want to use this side, your kid will have to go play over there.\" Totally fair. But trying to explain to a 2.5 year old why this square is okay to jump in but this one is not, but the one that was okay to jump in earlier is no longer okay to jump in because it's now 10:30... you just ensured that my family and our friends will never go back.",
+        "I will give a shout-out to one employee though. Miguel was awesome and helped us clear up the discrepancies between what two different employees told us. He was also very patient and understanding with the families who were breaking rules all over the place without realizing it."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2017 • Family"
+    },
+    {
+      "title": "Fun for the whole family - but does get a bit bland if you visit too often (IMO)",
+      "text": [
+        "We have been to a couple of Skyzone trampoline parks, and we generally have a pretty good time.  Our kids are 11, 9, and 4, and there is something that is good for both age groups.  How much enjoyment you get out of the visit depends on whether you enjoy trampolines.  It is definitely a good exercise (unexpectedly) and you feel can work up a good heart rate and sweat during your visit.  There is a giant foam pit (which my 4 year-old loves), as well as basketball nets of varying heights that my older boys like trying to dunk on.  Dodgeball is by far their favourite, but the games are scheduled by “groups” and they don’t get into as many games as they’d like during the 60 minute visits.",
+        "The initial visit can be quite pricey given you need to purchase their specialty socks.  I suggest doing the online waivers to save yourself some time.",
+        "Overall, our kids really do enjoy visiting Skyzone, but it can get a bit bland if you visit frequently (I find, as we had a couple of back to back events there recently).",
+        "We found the overall cleanliness and upkeep of both Skyzone locations that we visited were quite good, and the staff generally quite helpful and friendly."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2016 • Family"
+    },
+    {
+      "title": "Adult workout the best",
+      "text": [
+        "A group of friends at the adult trampoline class as a work out it was so much fun you could be new to exercise or an expert and still have a good time"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "fun, but discriminates against size",
+      "text": [
+        "I went to sky zone with my younger 13 year old brother, whom of which i was exited to jump around with. However, we were told by the staff that we would have to be separated to opposite sides of the trampoline area due to his smaller size compared to mine (being 14). This was very unfortunate as my brother is not only small for his age but also feels bad about his height and dislikes that he bounced with only eight year olds while I was jumping beside people younger than him. After about ten minutes, most of the kids left to go play dodgeball and my side of the trampoline area was almost empty. I then told my brother that he could come to my side as it seemed safe. To much dismay, an employee immediately came over to tell him to get back over to his side of the trampolines. I get the safety concerns, but still, they should be able to make some situational exemptions. other than that, it was an hour well spent as we could communicate across the trampolines. Just for next time, I wish the staff would be more understanding and lenient, especially when it involves older six-conciouss teenagers."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Family"
+    },
+    {
+      "title": "Would never return",
+      "text": [
+        "Arrived with my kids - 8 and 10 years old on a Tuesday morning.   Purchased 2 hours of jumping for each of them.  Within  20 minutes to a half hour, they complained of boredom.  The boredom was brought about by the kids who work there continually interfering with \"rules\", such as (1) they could not jump on trampolines near each other, (1b) were told to leave the trampoline area when a camp arrived (2) not being allowed to play dodge ball - 3 courts were running, all with teens and smaller kids weren't allowed to play where big Kids were.   All 3 courts however were taken up by older kids, (3) the lines at the foam pit were not fair, as described by other users on this site... workers would allow the same kids to go over and over. ",
+        "I complained to staff that my kids had paid the same to be there as others, however were being barred from  every attempt to jump or play.  After 90 minutes of complete frustration, we left.",
+        "Oh yeah ... I tried to buy them a drink at the canteen, waited a good 5 Mins plus to be served to no avail (no staff at counter).... we went elsewhere for drinks. ",
+        "We won't be spending any more money here..  ever. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2016 • Family"
+    }
+  ]
+}

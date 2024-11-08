@@ -1,0 +1,370 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Bicycle Tours",
+    "url": "/Attraction_Review-g155019-d2301516-Reviews-Toronto_Bicycle_Tours-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "275 Dundas St W ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5T 3K1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 1422
+    },
+    "openingHours": "Mo-Su 08:00-18:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/76/d7/4d/yonge-dundas-square.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Bike Tours",
+    "Sightseeing Tours",
+    "Private Tours"
+  ],
+  "description": "Take a ride with Toronto Bicycle Tours and you’ll have a fantastic, fun time while gaining a deeper appreciation for Toronto, its people, culture, history and food. Our rides are perfect for guests of all abilities and ages, including kids. In fact, you can come along even if you can’t ride a bike (on one of our tandem bikes). We can also accomodate private groups of 2 to 60+. Tours include bicycle, helmet, water, snacks, lunch (on full day tours) and a tour guide - of course! Tours offered year round. No matter what time of year you’re visiting Toronto, you can always embark on a tour with Toronto Bicycle Tours! We also offer bike rentals for self guided sight-seeing.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "So glad I went",
+      "text": [
+        "Sydney was a great tour guide! Very knowledgeable and looked after us all! Trip was v enjoyable, 10 min ferry tide then a few hours to explore the island which was stunning! Great views, history and easy to bike around! Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "I had an amazing time touring downtown Toronto with Ryan as our guide.  It was a small group, just three other tourists and myself, which meant we travelled at a good pace from start to finish.  Ryan gave clear instructions through his hand signals so I always knew when to turn left or right and stop, because of that I felt safe cycling on the main roads with the traffic.   Ryan also made sure we had plenty of water and even had granola bars if we wanted a snack, which I thought was a nice addition.  I would do it again. 5*****"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Brilliant bike tour!",
+      "text": [
+        "Brilliant tour around downtown Toronto. Consuelo was our tour guide and we are extremely grateful to her for the experience she provided us. She has amazing knowledge of the city and offers a friendly, relaxing experience! Highly recommend booking 🚲"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "great way to see toronto",
+      "text": [
+        "Well organized, excellent way to see the city.  Consuelo was an excellent host and very knowledgeable about the sights."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Top Toron'o tour!",
+      "text": [
+        "This was a really good bike tour of Toronto.  The route our leader Consuelo took us on passed through some fascinating areas and I'm pretty sure included everything and more of what we'd hoped to see.  Consuelo gave us plenty of information, time to enjoy each stop and took plenty of photos which she later gave us a link to.  Yes, we loved the experience and we'll certainly be recommending it to anyone we know travelling to Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Magical lights of Toronto",
+      "text": [
+        "Our twilight bicycle tour was terrific. A highlight during our trip to Toronto. Oscar was knowledgeable and made our trip special. The ride was easy and so relaxing from the active city. The island is beautiful. The ferry ride back to the city was spectacular with the lights of Toronto magical."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Toronto isn’t just a big city!!!",
+      "text": [
+        "Toronto is not just a busy city.  It has a stunning grouping of islands that offer stunning views of the city and a relaxing charm of island living. Our tour included a ferry ride over and back.  While touring the islands we saw historical markers, beautiful beaches and a lighthouse from the 1800’s.  Our guide, Sydney was was knowledgeable and funny. She even had a ghost story up her sleeve. The tour was not difficult at all and the bike trails and lanes made even the most cautious rider feel secure.  We went in September and had a cloudy day and the tour was still very enjoyable. Would highly recommend a bike tour of the Toronto Islands"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "The PERFECT excursion!",
+      "text": [
+        "It was the perfect amount of riding (no hills other than one on the way back but not bad at all) and the bikes were in fantastic condition which really helped because switching gears made it quite easy to manage any small challenges (I'm over 60) but truly anyone can do the ride. Sydney, our guide was friendly and knowledgeable and guided us with skill through city traffic (before and after the ferry) and we were able to spend ample time at each feature on the island, have our questions answered, and since we had a bit of extra time before the ferry we (with the two other people on our tour who were delightful) have a quick treat at one of the island's outside coffee shops. Choosing the morning ride was nice because as we finished the ferry seemed to drop of A LOT of people, we enjoyed the island almost to ourselves as it was early morning on a weekday.  EXCELLENT experience and value!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Amazing Tour of a Wonderful City",
+      "text": [
+        "We took an e-bike tour of Toronto with Terence.  We went all over the city exploring neighborhoods tucked and areas we would never have seen otherwise.  We truly enjoyed our time and the e-bikes were easy to learn and use.  We always felt safe and cared for in Terence’s capable hands!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Do it! Great city tour….",
+      "text": [
+        "We booked this bike tour so we could see sights of Toronto. Our guide Ryan was amazing 🤩 so friendly, knowledgeable & professional!! We saw everything of interest and thoroughly enjoyed every aspect of it! ",
+        "Plenty of time for photos & Ryan took some of us which we have since received by email! ",
+        "Worth every penny!!! Do it!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Great way to see downtown Toronto",
+      "text": [
+        "Perfect activity upon arrival in Toronto. Gives you an overview of the city and the history of the area. Our guides were informative and fun and kept us safe. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great time",
+      "text": [
+        "We had the best time on our bike tour!  Diana was fantastic and explained everything to us.  Bikes were in great shape, we were given helmets, water, and granola bars.  It was cold, but she had extra gloves and ponchos available.  Trip was safe, ferry ride was short but fun, with best views of Toronto!  We loved biking around the islands, which were so beautiful.  Highlight of our trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Never received our pictures ",
+      "text": [
+        "Overall,  it was enjoyable.  Just a few things you should be aware of.",
+        "You will meet up in a parking garage, which is a little confusing at first but It was convenient for parking purposes. ",
+        "The traffic in Toronto was crazy. give yourself plenty of time.",
+        "You will be riding on city streets, to get to the ferry.   I was not a fan of that but obviously I survived. If that's a deal breaker for you then this may not be the tour for you.",
+        "Also we tripped our tour guide with cash after the trip but still got an email asking for a tip and no one sent us our pictures.  Emailed the company but no response. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Take this tour!",
+      "text": [
+        "Diana was super friendly and very knowledgeable. The whole experience was very professional and lots of fun. A great way to spend the morning in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Nice ride but not as interesting as we had been told by others",
+      "text": [
+        "The office was easy to find (if you followed their instructions) and the bicycles were well maintained and comfortable.  As the beginning of the trip was early on a Sat morning, we did not have any trouble navigating through the streets of Toronto at the start. Ferry rides to and fro from the island were seamless.  Tour of the island was so-so.  There were a few antidotes that were interesting, but the majority of the tour was the same information we had read about online prior to the trip.  The return bike trip from the ferry to the office was a little nerve racking as the traffic was heavy.  We felt that our guide (Katelyn?) should have been more cautious and stopped at some of the intersections to wait for everyone to catch up.  We would have liked a more experienced and professional guide.  If we were to bicyle on the island again, I would just take the ferry there and rent the bikes there too.  For the price, it wasn't worth having a guide.  Just read up on the island first."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "A highly recommended tour! Even for inexperienced cyclists.",
+      "text": [
+        "We had a morning tour with Marianna. It was just a perfect way to see the main sights of Toronto before deciding where to spend more time during our short stay. Marianna was knowledgeable and looked after us all excellently. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Great tour",
+      "text": [
+        "We really enjoyed our bike tour to the Islands. Caitlin was a great guide, handing out extra water when needed and sharing lots of interesting facts along the way. The bikes were very easy to use and the trip was easy to follow - the steepest hill was getting out of the parking garage! Plenty of opportunities to get a nice photograph, and a really interesting place to visit, we definitely recommend for anyone who has a free morning in Toronto. Thanks so much to Caitlin for the great tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Great tour with Liam",
+      "text": [
+        "Really great tour with Liam. He is very knowledgeable about the history and architecture of the city and used this to make a really interesting tour"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "Really great tour of downtown Toronto to get your bearings and see all the major areas.",
+        "Have a lot of stops so the 3.5hrs isn't straight cycling (which we found good). Highly recommend "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Wonderful tour of Toronto Islands",
+      "text": [
+        "The bike tour was wonderful. Our guide was very prepared, knowledgeable and pleasant. The island trail is easy and has great views of downtown."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "I’d do it again!!!",
+      "text": [
+        "Outstanding!  Fun, beautiful ride with a great sprinkling of history and notable sites. Good equipment and the tour was well organized. Would absolutely do it again!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "A Wonderful Morning",
+      "text": [
+        "The day the started well when the meeting point was well signposted in the car garage we were told to meet them in. It made it very easy to know where to park. Ryan was very knowledgeable about local history and had amusing stories and fun facts along the way. It was great fun riding the bikes through the city to the ferry port and even more fun riding through Toronto Islands and seeing how lovely it was there along with amazing views of the Toronto skyline across the water. He provided water and snack bars along the way which was appreciated. Multiple restroom stops if required. The bikes themselves were very good quality and easy to use. Would defiantly recommend to anyone who is considering it."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "Our family of five (kids 19,17, and 12 yrs old) had a lot of fun. The tour was a great introduction to Toronto. Carlos, our guide, gave clear instructions, provided so many interesting facts, and made sure we were all fine throughout. Would highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Epic bike tour experience ",
+      "text": [
+        "The whole experience was epic! Highly recommended. The whole tour from start to finish was amazing, great experience, the tour guides were very knowledgeable & friendly. Would definitely do again if I come back to Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Such a fun morning!",
+      "text": [
+        "Such a fun morning getting away from the city life and riding bikes on peaceful Toronto Island.  Sydney and Consuelo were great guides and taught us so much about the history of the island.  The photos they took and shared were icing on the cake!  Everything would have been perfect if the guides could have controlled the weather.  We rode back in torrential rain. lol"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great tour!!",
+      "text": [
+        "Great tour with Ryan! Saw many different neighborhoods in Toronto , learned a lot of history about the city and many interesting things about the culture the city. Toronto is an easy and safe city to navigate by bike. Would definitely recommend this excursion!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Great way to see the Toronto skyline",
+      "text": [
+        "We couldn't have chosen a better way to start our trip out in Toronto.  The most difficult part of the tour was getting out of the parking garage.  Our guide, Silvia, was great!  She made sure out group was well taking care of:  safety, information, guidance and even fixed a bike chain, what a girl!  Our group ranged in age from 22-64, and we all did fine.  Once we got to the ferry the ride was more relaxing, but Silvia made sure we got through the city all together.  She was very knowledgeable about the history of the island.  Would have loved to see the island in it's glory days!  Would definitely recommend the evening tour - our sunset from the island was amazing!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Great active way to see the Toronto harbor and islands",
+      "text": [
+        "Went as a group from a parking garage in downtown Toronto to the harbor to board a ferry.   The bikes were comfortable \"cruiser\" bikes.   They aren't electric - but we didn't need them as most of the ride is flat.   Toronto has bike lanes and riding in town is safe.    The harbor ride is pleasant and takes ~ 10 minutes.   Once on the island, we rode around and saw the yacht club, historic buildings and cute neighborhoods of the few people who get to live on the island.    No meal - but there was water and granola bars available."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Excellent way to see Toronto.",
+      "text": [
+        "Mike was a great guide, with lots of interesting stories about Toronto. A lovely way to see, hear, smell, and experience downtown Toronto. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "The views were amazing and the tour guides did an amazing job. We had a great time.  It includes biking in the city, the islands park, and a short trip on the ferry boat. Recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Amazing trip",
+      "text": [
+        "Terrance was an amazing guide. He made the ride interesting and informative. We really enjoyed the journey. We saw so many areas off the beaten path that we would not have seen from a car."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great way to see the city",
+      "text": [
+        "Excellent day riding around downtown with our guide Ryan.  So much to see, and great information about the city,  Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "The Best way to see the City",
+      "text": [
+        "My husband and I really enjoyed the tour which takes you all over the Toronto Metro area.  Our tour guide, Mike, was absolutely terrific!  Mike provided just the right amount of current information, history and amusing facts to help understand the make-up of a beautiful city that is constantly growing.  I would highly recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Fantastic!",
+      "text": [
+        "Absolutely amazing. Carlos was so nice and informative, we learned a lot about Toronto. Bikes were in great condition, guide had water for us. Plenty of breaks, safe ride. Would definitely recommend to friends!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Awesome views and a enthusiastic guide.",
+      "text": [
+        "The enthusiasm of our guide, Sylvia, was radiating. We arrived just in time in their starting location and were greeted with a big smile. After fitting and testing the well equipped bikes in the underground parking garage we hit the very busy streets of Toronto, still suffering a bit from the floods of a few days before. We headed out to the ferry terminal while sightseeing the area around the CN tower and the old Powerplant. The tempo was perfect for everyone. Just before boarding the ferry we got a talk about what we would be about to see. They ferry itself gives you a prime view on the city skyline while the landing smaller planes come over head. It takes about 10 to 15 minutes to cross the water and debark on the Islands. Starting from Hanlan’s Point we drove the Island across with multiple stops & a very solid guide on the how’s and why’s of the Toronto Islands. We were given the most beautiful sunset from the residential Algonquin island overlooking the city skyline. After one more stop we reached the ferry and our way back to the shop. 3 hours, 15km and a ton of pictures and information later we said our goodbyes after taking a group selfie. A lot of fun and beautiful on a Thursday evening. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Safe and informative.",
+      "text": [
+        "Oscar and Daniela confidently led us through a busy downtown Toronto and to the ferry. Once on the island, they gave us lots of information about the island and kept a great pace for the whole group that included families with young children. They were patient and accommodating."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Absolutely Amazing Bike Experience!",
+      "text": [
+        "I’m an avid bike rider, and I love to experience different cities and countries via two wheels. The Toronto islands evening bike tour was by far one of the most exhilarating and fantastic biking experiences that I’ve ever had!",
+        "The tour description doesn’t do justice to what an exceptional tour this truly is. Having the opportunity to get on two wheels and adventure out of the city and onto a ferry to visit the surrounding islands fascinated our group.",
+        "The booking process was extremely simple, and mobile tickets were provided to us immediately. The meeting instructions were clear and concise, and no confusion was had on the part of our touring party.",
+        "Any tour worth it’s weight, is only as good as the tour guide. We were fortunate to have an exceptional tour guide. Sylvia is absolutely the best person to give you insight and information regarding the city, the surrounding area, and especially the islands in which we toured.",
+        "Her knowledge is incredible, and only matched by her winning personality. From the onset, Sylvia placed everyone at ease and made us feel extremely comfortable as she went over the safety rules of the bikes. She was extremely thorough, but also friendly as she gave us the dues and don’ts.",
+        "After a brief tutorial, and a test to ensure that everyone felt comfortable on their bikes, we were off for the adventure of a lifetime. The light rain that we experience during the beginning of our tour didn’t put a damper on the experience. The sprinkles ended as quickly as they begun, and we were off touring the city and heading toward the ferry.",
+        "If you like the outdoors, and love the feel of getting a little exercise and seeing a city from a different vantage point, then I highly suggest this tour. It is by far one of the best bike tours I’ve ever been on. If you have the opportunity and can request Sylvia, I suggest that you do that without hesitation. The tour itself was magnificent, but Sylvia stepped it up to a completely different level. I commend the company for hiring this young lady, she should be the model for all future tour guide!",
+        "If you’re thinking of something fun and exciting to do while you’re in Toronto, and you want to see a different side of the city I suggest this tour. You will not be disappointed and the views and scenery will blow you away!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "The tour to do in Toronto",
+      "text": [
+        "If you like cycling, then forget the bus tours, hop-on/hop-offs and even a walking tour, and try this bicycle tour of Toronto. As long as you’re lucky with the weather (not too cold, not too hot and not too rainy), which was our case, except for a downpour in our last stop at CN Tower, this tour takes you around the main highlights of Toronto’s center in an open and much more personal way, including Chinatown, Kensington Market, City Hall, Dundas Square/Eaton Centre, Financial District, St. Lawrence Market, Distillery District, Harbourfront and CN Tower / Skydome (ok… Rogers Centre). They take photos during the tour and share them with you after, apart from offering to take photos of you during stops. Very knowledgeable and a lot of nice stories. An extremely well spent time with Carlos and Ryan, many thanks!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing Sunset Ride of Toronto Islands",
+      "text": [
+        "My brother myself, and my sister-in-law had the opportunity to take part in this wonderful experience. ",
+        "Our experience began Friday morning on a plane ride from Detroit. We were traveling to Toronto to spend a few days there and our goal was to make it out to Niagara Falls on the Canadian side. As we sat on the plane, we thought “hey, we don’t do our Niagara Falls trip until the next day let’s do a bike ride.” So we started searching on Tripadvisor for the best opportunity and we came across this tour. ",
+        "Well, we had a glitch as we actually booked our tour for the next day, Saturday, the same day that we were going on the Niagara Falls trip. We arrived at the site for the bicycle tour on Friday evening about a half an hour early and Sylvia in all of her professionalism was able to change our tour date from Saturday to Friday and we were able to participate. ",
+        "Let me just say a few words about Sylvia. Quite frankly, she is the best. Her energy level, enthusiasm, knowledge, and love for what she does was on full display during the tour. Sylvia was gracious, patient, and just provided an outstanding tour. Her knowledge of not only the islands, but of Toronto proper was extraordinarily on point and interesting. There were only six of us on the tour, and she made each one of us fell as if we were the most important person in the world. ",
+        "Sylvia by far is the best tour guide that we’ve had in a long time, and my brother and myself, and my sister-in-law have gone on many Bike tours. Back to the tour, if you love bike riding and ferries and interesting facts you’re going to love this tour. We went from the downtown area of Toronto to the ferry, landing to the islands of Toronto all in 3 1/2 hours and I could tell you it was not whirlwind, but it was satisfying. I highly recommend this tour and if it all possible you should specifically ask for, Sylvia"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "A must do Bike ride in Toronto ",
+      "text": [
+        "Everything about it was lovely. Consuela our toir guide was lovely, caring, friendly and very knowledgeable. She took pictures of each stop. We visited so many places that we would not have seen. Bikes were really nice and easy to ride with plenty of gears. Water and granola bars were complimentary, which was great as it was so warm. We had 3 hours and got to see so much of Toronto. Pictures were taken by our tour guide and tjen sent to us on email complimentary. Thanks Consuela "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

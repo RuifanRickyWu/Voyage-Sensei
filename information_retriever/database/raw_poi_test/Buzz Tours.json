@@ -1,0 +1,367 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Buzz Tours",
+    "url": "/Attraction_Review-g155019-d12289740-Reviews-Buzz_Tours-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 2Y6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 310
+    },
+    "openingHours": "Mo-Su 09:00-18:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d9/05/8c/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Cultural Tours",
+    "Walking Tours"
+  ],
+  "description": "When in Toronto, take some time to experience all that this great city has to offer. Let the great guides at Buzz Tours show you show you around the city, on one of our many 2-3 hour guided tours. Our walking tours are limited to a maximum of 8 guests per tour, so that we engage in conversation with our guests rather than have them following a flag and 100 other people through the city streets. We will show you the sights and tell you the many stories that make Toronto one of the world's great cities. Our guests generally comment that a Buzz Tour is like a city walk with a friend. If group tours are not your thing, that's not a problem. Try one of our Private Walking Tours. Select a tour that we offer and make it your own (and include 7 of your guests if you'd like). Whatever tour or type of tour you choose, we are certain, you will enjoy your time seeing the city.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "This is a MUST when you visit Toronto!",
+      "text": [
+        "Our tour guide Ken was the absolute best! He gave us an incredibly informative and engaging tour of the city, and made every minute of it worthwhile!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Couples"
+    },
+    {
+      "title": "Toronto walking tour",
+      "text": [
+        "Our guide Nick was great- he had depth of knowledge and information— the three hours flew by. We would definitely book another tour with Nick."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Couples"
+    },
+    {
+      "title": "5/5 very good VFM",
+      "text": [
+        "5/5 For Tour & Guide Dave.",
+        "First class knowledge and delivery.",
+        "Great friendly tour, describing many relevant points of history around the city and its current and future areas of interest, but the star was Dave!",
+        "We were out walking 3 hours outside and on the PATH,  so great VFM."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fascinating underground city",
+      "text": [
+        "We had a fascinating tour of the underground PATH system, a network of walkways connecting most downtown buildings. We were surprised by the dozens of concourses, food courts and shopping areas in this underground maze. Our guide gave us helpful hints on how to navigate and not get lost. No matter what the weather this is the place to go to find food and shops that are not on the streets above."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Terrific Toronto Tour",
+      "text": [
+        "Dave was such a wonderful and knowledgeable tour guide! We learned so much about the city that we would have no idea about. He led the tour with such warmth and humor. Would highly recommend to anyone traveling to Toronto for the 1st time, or that would like to know more about this great city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "If you get Dave to show you Toronto you are in for a treat!",
+      "text": [
+        "Learnt loads and so interesting and thanks to the wealth of knowledge of Dave our tour guide, made for a really great experience of discovering Toronto! Thank you Dave"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Recommended",
+      "text": [
+        "Excellent afternoon. Our guide, Nick, was knowledgeable, informative and great fun. The tour covered both the interesting history to the city plus much more"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Successful in every respect.",
+      "text": [
+        "Fantastic walking tour.",
+        "Guide Jason was very knowledgeable and well prepared.",
+        "The walk continued for about 3.5 hours but was not strenuous & included a number of interesting places.",
+        "Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Very cool and better than I expected",
+      "text": [
+        "Great walk through downtown Toronto. The guide provided lots of details of the history, He provided concepts for what is happening as far as growth, the housing market, art and entertainment , and sports. I thought it was a well rounded walk and information"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Sensational!",
+      "text": [
+        "Jason the tour guide was absolutely Outstanding!",
+        "This was the best walking tour I have ever been on.",
+        "A complete success."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Excellent guided tour of Toronto",
+      "text": [
+        "Nick was an excellent, knowledgeable and entertaining guide. It was our first time in Toronto, and Nick was able to give us a lot handy tips a visitor needs. Thoroughly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "A great way to experience Toronto!",
+      "text": [
+        "Nick did an excellent job!  This was a very informative and engaging tour, with a great overview of the city and its highlights in the Downtown area.  Would highly recommend to anyone!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Great walking tour",
+      "text": [
+        "Vey informative. Rom had a great sense of humour and managed to avoid the showers and still compete the tour!",
+        "Would highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Walking tour of Toronto.",
+      "text": [
+        "Great tour guide who knows the city very well.  We saw highlights of the city and were able to go back and revisit several of the great locations we learned of on the tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Great tour of Toronto",
+      "text": [
+        "Nick was our guide and he was awesome! Got to see a lot of the area in 3 hours and learn about some of the history of Toronto. Highly recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Amazing facts of PATH",
+      "text": [
+        "Ram was an excellent, knowledgeable and enthusiastic guide and covered every aspect of the area we visited. Very enjoyable."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Excellent",
+      "text": [
+        "Great guide, Nick has been absolutely spectacular. The tour was not only interesting but his good mood was very contagiuous. Recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Tour.",
+      "text": [
+        "Great tour.  We covered more and I learned more than I expected, while still a relaxing time.  My guide Jason was great.  And ending at St. Lawrence - I highly recommend the lunch Jason recommended - Po-Boy Sandwich."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "A wonderful way to see downtown Toronto!",
+      "text": [
+        "This was a great experience all the way around. It was a lovely day, and our guide, Nick, was fantastic. He was cheerful, patient, informative, personable and very proud of his city. We had a great time in the small group getting to know each other and the city. Highly recommend this activity!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Go for It!",
+      "text": [
+        "Ken the tour guide was knowledgable and upbeat… Ken also had photographs of the city to share. He took us too. lol and interesting places.",
+        "Ken did walk very very fast. Lots to see in 3 hours! Lots of steps and stairs.",
+        "Wear comfy shoes and bring a bottle of water.",
+        "Book way ahead of your trip. I wanted to book an additional walking tour, but sold out!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great way to learn about Toronto",
+      "text": [
+        "Great way to spend half a day leaning the city. Dave was so knowledgeable and the pace of the tour was perfect. Felt good to walk the downtown area. Very easy walk but wear comfortable shoes!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "A Walking tour of Toronto",
+      "text": [
+        "The walking tour of Toronto was a great afternoon! Very enjoyable, informative and fun because of our tour Guide. Our guide Jason was full of information , knew the nooks & crannies of the city and infused all with a great sense of humor. We would ask for him again on our next visit to Toronto. We highly recommend this tour as a great way to get to know this amazing city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "A nice downtown walk",
+      "text": [
+        "The walking tour was really good. Nick, our guide, was very friendly and knowledgeable and made the walk enjoyable. Thanks again Nick."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "A great tour of Toronto!",
+      "text": [
+        "The tour was very informative and a great way to spend an afternoon in Toronto. The tour was especially fun solely because of our tour guide Jason. He was full of great information, very personable and a great sense of humor. If my wife and I were to book again we would ask for Jason!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "3 hours walking tour around Toronto",
+      "text": [
+        "Nick was very friendly tour guide. For a first timer like me to visit Toronto, joining this tour group is a good way to know more about it. We visit few historic part around the city. We end up at St Lawrence Market and had lunch there!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Warm welcoming tour of Toronto!",
+      "text": [
+        "Highly recommend this walking tour of Toronto! Nick was a fantastic guide..truly the best! He combined an amazing knowledge of the city both past and present, with a warm welcoming approach picking up on the interests of each group member!  Gained a richer understanding of Toronto while feeling like we were conversing with friends! Don’t miss this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Perfect active way to explore Toronto",
+      "text": [
+        "For my first time in the city, this tour was the perfect introduction to the history of the downtown core, waterfront, and old Toronto. Our tour guide was Nick, and he did a fantastic job pointing out historical tidbits and giving real life recommendations for us tourists."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Great tour with the best guide!",
+      "text": [
+        "This was a fantastic introductory tour of Toronto. We got to see and learn so much about the city. Nick was an incredible guide, and even had photos to add historical context throughout. We ended up with a small group, and it felt like we were on a walk with a friend! Highly recommend. :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Fabulous tour with a fabulous guide",
+      "text": [
+        "This walking tour was the perfect introduction to a number of key points in Toronto. Nick was an amazing guide, even providing historical context with pictures. We ended up with a small group and it was like strolling through the city with a friend. Highly recommend!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Fabulous Tour- Don't miss it!!",
+      "text": [
+        "Fabulous tour. Our guide showed us the major sights in Toronto including the St. Lawrence market and the CN tower. Highly recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Worthwhile and Pleasant",
+      "text": [
+        "Our guide, Nate, was extremely knowledgeable and personable. As expected, the area covered was just a fraction of the cityscape and emphasized the fantastic urbanization of the last twenty years. Nate’s collection of historical views was very helpful in getting a perspective of the urban development that has taken place. All in all a very pleasant walk through a portion of Toronto past and present."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Great tour !!",
+      "text": [
+        "We had a great tour with Ken our host .We saw all the sites with background information on this historic city … we even got to see 2 paintings by Banksy …!  Highly recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Not to be missed, funny, friendly and excellent guide.",
+      "text": [
+        "This walking tour was fun, informative and very enjoyable. ",
+        "Dave made it feel a very inclusive and friendly tour, which we would highly recommend. ",
+        "We've completed 3 walking tours in different cities during our holiday in Canada and this was definitely the best !."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Toronto walking tour",
+      "text": [
+        "We had a brilliant 3 hour tour with our guide Nick. The pace of the tour was perfect, as was the tour group size (8 in total). There was a bathroom break halfway through and we finished at a market which was the perfect place to pick up lunch. Nick was extremely knowledgeable and also used a folder of photos to give us an idea of how Toronto looked in the past and how it has developed. ",
+        "Nick was very welcoming and easy to chat to and I would definitely recommend a walking tour with him!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Great way to see a lot.",
+      "text": [
+        "Ken was excellent, and we learned a lot about the city, its  sights, and history. It is a great way to see a lot, and I would definitely recommend it. Since it was a small group of 4 people we covered a lot st a nice pace."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Take this tour!  You will not regret it!",
+      "text": [
+        "This was the first thing we did upon arriving in Toronto. Dave did a great job sharing a lot of information. He was the perfect tour guide!  The tour was every bit of 3 hours. I highly recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "SHOW ME TORONTO",
+      "text": [
+        "Our Tour guide Dave, had excellent knowledge of, and is rightly proud of the city of Toronto. If you are visiting, I strongly recommend this Tour. Whilst we walked a gentle pace we covered a lot of ground. Fantastic!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Excellent tour that hits all the major spots.",
+      "text": [
+        "Nick was an excellent guide.  He’s got all the information and shares it with wit and a chuckle.  He gave us so many places to explore more in depth for the rest of our visit.  This is our first visit to Toronto and we really feel like we have our bearings now.  We are already thinking about coming back.  Toronto International Film Festival, we missed you, but now that we know, we will be back."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Book the Tour!",
+      "text": [
+        "Nick not only showed us the city, he immersed us in its history and culture enough that we both felt at home there! The whole morning, we felt like we were walking around the city with an old friend.",
+        "The tour was especially fun solely because of our tour guide Nick. He was full of great information, very personable and a great sense of humor. If we were to book again, we would ask for Nick. This was our first time to Canada and/or Toronto so we really wanted to see/do/learn as much as possible in our short time here. This was a great way to spend half a day learning about the city. Nick was so knowledgeable, and the pace of the tour was perfect. Felt good to walk the downtown area and see a lot while getting in some steps. Very easy walk but make sure to wear comfortable shoes! We were lucky enough to be the only ones to sign up for this time frame so it was like a personal tour! We took a bathroom/refreshment break at an indoor mall area halfway. Nick knew the nooks & crannies of the city and infused all with a great sense of humor- the 3 hours truly flew by! We would ask for him again on our next visit to Toronto. ",
+        "I highly recommend this tour as a great way to get to know this amazing city. Thank YOU again Nick."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Toronto immersion tour in 3 hours",
+      "text": [
+        "Dave not only showed us the city, he immersed us in its history and culture enough that we both felt at home there and want to return! My sister and I were in a group that Friday afternoon of 7 customers. We took a bio/refreshments break at an indoor mall area halfway.  We recommend the tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    }
+  ]
+}

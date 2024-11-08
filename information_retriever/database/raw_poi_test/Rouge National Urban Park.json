@@ -1,0 +1,390 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Rouge National Urban Park",
+    "url": "/Attraction_Review-g155019-d17386830-Reviews-Rouge_National_Urban_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Zoo Rd,",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M1B 5W8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 60
+    },
+    "openingHours": "Mo-Su 00:00-23:59",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/b0/bd/6d/rouge-park.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Nature & Wildlife Areas",
+    "Parks",
+    "Hiking Trails"
+  ],
+  "description": "Situated astride Lake Ontario, Scarborough is a district heavily influenced by immigration. With a number of low-rent shopping and dining options making it a highly affordable part of town, and boasting one of Toronto's largest shopping malls, the otherwise green suburban neighborhood is a good place to go for bargains and discounts. It also draws in photographers. The spires, archways, and cavernous rooms of the BAPS Shri Swaminarayan Mandir Palace are filled with breathtaking art, architecture, and detailed reliefs – it’s like entering a different world, The ruins of columns and installation art at the Guild Inn makes a free-for-all exploration site, while the big-name draw for young photographers is the menagerie at the Toronto Zoo. While many visitors shirk Scarborough as too suburban, its houses are some of Toronto's most mystical and haunting architectural beauties. And for adventure lovers, it has river-rafting and some unique hiking trails.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Great Hiking Just 20 km from Downtown Toronto",
+      "text": [
+        "You park for free near the park's entrance, not far from Toronto Zoo, and then it’s time to put on your hiking boots and get going.",
+        "Right at the entrance, several relatively short trails are marked. Vista Trail is a bit longer and can be combined with Mast Trail, giving you about 10 km of ups and downs over steep hills, sometimes with nice views. Find more routes at alltrails.com.",
+        "Along the way, we saw hundreds of squirrels and, oddly enough, a lone turtle. The downside is that the noise from the nearby highways can be heard in much of the park."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Lots of trails which are clearly marked",
+      "text": [
+        "We did the mass trailhead trail. The parking lot was half full at 10:30am. We went at 1pm before and there was not one spot. So go in the morning. The parking lot closes at 9pm. Parking is free. The trail is a dirt path and it’s well marked. There was mosquitoes so wear bug spray. We went May 20. There was a few hills and some log steps -40 something. It’s not a suitable trail for bikes or strollers. I would definitely go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "lovely walking area",
+      "text": [
+        "beautiful terrain from bridges over rivers to cedar forest bathing, lots of birdlife and",
+        "views. Road in is full of potholes, free parking, well signed in the park, but no posted sign at the entrance, so you may drive by first time, as we did."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "Nice stroll from Pickering to Rouge River",
+      "text": [
+        "We walked from Pickering Beach to this park. A nice path and some great views on the bluffs onto the lake. The Rouge River outlet was full of waterfowl."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "High Parking fee at Rouge River Urban Park",
+      "text": [
+        "The Rouge Urban Park is wonderful for hiking, walking and viewing nature. Not usually crowded. Family and pet friendly. Various areas have unique features. However, parking is no longer free. Since Aug 1/22, parking machines are on site charging $4/hr, with a flat rate of $13. Who hikes/walks for only 1 hr?"
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2022 • Couples"
+    },
+    {
+      "title": "Not bad but.",
+      "text": [
+        "Beautiful park, lots of choices of trails.  It loses a star because the website tells you that the bathrooms are open, yet when we got to the Reesor Park entrance the bathrooms were closed, and when we went to the second entrance near 9th line those bathrooms were also closed.  Kinda hard to do a 10k walk if my wife has nowhere to go pee…"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2022 • Couples"
+    },
+    {
+      "title": "A Cross Between Algonquin Park and High Park.",
+      "text": [
+        "Rouge National Urban Park is midway between a city park (High Park, Toronto) and a wilderness park (Algonquin Park, Ontario).  You're a lot less likely to run into a bear, put tick warnings are posted on the trails. ",
+        "      It is the most challenging way to travel from Toronto to Pickering in the east.  You enter the park through Twyn Rivers Drive, which involves crossing bridges that you share with (hopefully) slow moving traffic.  You leave the park and follow the road into a middle-class suburban street."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Mast Trail",
+      "text": [
+        "We came here on the Monday of a very busy long weekend. We  parked at the Glen Rouge Campground and  parking is free. This was very busy and we were fortunate that we got a parking spot. There was security on site to monitor the parking lot and let others know if the lot was full.",
+        "The Mast trail is a well traveled and well marked trail. There is a variety of elevations. Including a massive hill, depending on which way you take the trail you are either going down, or in my case going up. Its like 45 degree angle. ",
+        "There are also lots of Ferns throughout the trail.",
+        "Overall this is a great place to hike, but this is a busy trail for the most part."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2021"
+    },
+    {
+      "title": "Good place for small hike",
+      "text": [
+        "Best place for a small hike and If you want to go extreme, go down through the park and get to Rouge River and walk through the lake."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Scenic Walking Trails",
+      "text": [
+        "New directional signs have been posted throughout both Orchard and Cedar trails.  These signs are much better than the white markings on trees which can be hard to see in winter.  ",
+        "It's quite busy and parking is limited. So if you go there during the weekend, get there early",
+        "Go out and enjoy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2021"
+    },
+    {
+      "title": "Canada's FIRST Urban National Park",
+      "text": [
+        "This is Canada's FIRST URBAN NATIONAL Park. What differentiates it from our other National parks is it's proximity to Toronto, the largest metropolitan area in the country.  While it  brings to mind my other favourite urban park- Central Park in NYC,  when the Rouge National Urban Park is fully established, it will be over 20 times the size of Central Park!  In addition, some of the  trails (e.g. Glen Eagles Vista Trail) are wheelchair and stroller accessible. ",
+        "This afternoon while enjoying the Fall colours, the sunshine, the forest and the Rouge River on the Woodland trail,  I met two young mothers hiking along with their babies, proving it's never too early to start the next generation of conservationists."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016 • Solo"
+    },
+    {
+      "title": "A highlight of the big city",
+      "text": [
+        "This is a great park, and definitely worth a visit, though it is a relatively strange choice as a national park, considering Canada's other standout national parks.  While there is lots of nature here, two major four lane highways cross this park's path, and signs of urbanity are never far away.  In terms of great parks, this is more of a compromise for people who might wish something bigger, but can't get there."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016 • Couples"
+    },
+    {
+      "title": "Twenty seconds from the parking lot and into the woods",
+      "text": [
+        "Great linked hikes within the city limits of Toronto but you feel as if you are far far away. Open Carolinian woods, a rushing stream (Little Rouge Creek) a bit of elevation, wildlife, lots of birds, peace and quiet. This park is transitioning to Canada's first Urban National Park and no doubt there will be more trails and more areas as time goes on, but is is already a really worthwhile place to spend a day in the country in the city. Start at the Twyn Rivers trailhead. If you head north two of the well-marked trails (Vista and Orchard) form a nice loop of almost 5 k. We liked that so much we took the Mast Trail south as well before we called it a day. 30 minutes from downtown. Best with a car but you could do it by taking public transit to the Toronto Zoo and finding the north Vista or Orchard trailhead from there. Other trails are supposed to be nice as well but we did not try them yet. Next visit (and we will be back). "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "best place",
+      "text": [
+        "this place is awesome for hiking, relaxing, jogging and taking your dog for a nice exercise run.  close to the toronto  and its free!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Large Park with lots of potential. Don't underestimate it.",
+      "text": [
+        "If you are looking to avoid long trips, traffic and expenses to get away for a day or two this is a good alternative. Slated to be part of a very unique National Park in the future, this will be the first truly urban National Park to be created. In the meantime it offers a lot of wild and semi-wild ecosystems to explore and you can get to it by public transit which is a bonus. ",
+        "There are acres of trails and parkland to explore in safety and comfort. Lots of ponds, marshes and even Lake Ontario at the southern-most tip. There is even a public campgrounds near highway two that offers access to this trail system. ",
+        "Throw in a partnership with the Toronto Zoo to protect and manage the ecosystem and to protect the wildlife and you have a winning combination. There are lots of bugs, critters and aquatic life for the kids to explore and even bike trails in some of the areas. ",
+        "Check it out. You won't be sorry. Save yourself a long drive to the country and enjoy a wonderful urban natural treasure."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Family"
+    },
+    {
+      "title": "Nice park for different activity",
+      "text": [
+        "This is one of the rare places in Toronto that you can see ups and downs and hills, you can walk, cycle, picnic and fishing. Rouge river especially the last part which connects to lack Ontario is good place for fishing"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2016"
+    },
+    {
+      "title": "Gorgeous!",
+      "text": [
+        "Gorgeous park with great views and lots of trails to walk on. Wear comfy shoes and wear lots of bug spray!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Couples"
+    },
+    {
+      "title": "Peaceful national park area, with 20 minutes of the city",
+      "text": [
+        "Its a really beautiful conservation area, within 20 minutes of the city.. it's worth a trip .. Plenty of outdoor trails, and routes to walk"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Solo"
+    },
+    {
+      "title": "A very big park good for walking",
+      "text": [
+        "I like it , this park is very big , but you have to be careful about the bugs, and do not forget the anti- insect spray . It is extended from south of Markham to North with a lot of nice scenery."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "Good for Day Hikes",
+      "text": [
+        "The park isn't huge, but if you're looking for a hike in the woods this is a great destination. Wildlife is elusive, but there are still many opportunities for photographs of smaller subjects. I've been here on my own and also with organized hikes offered by naturalists. Look for free hikes from volunteers for a great introduction to the park.",
+        "The park is also in for some changes as its classification is updated to a National Urban Park and its boundaries expand."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Solo"
+    },
+    {
+      "title": "Wilderness in the City",
+      "text": [
+        "Get off 401 at the Port Union exit, turn left onto Kingston/Highway 2  and two minutes away ,you're at the Rouge Park parking lot.  It is also the entrance to the Glen Rouge Campground.  Cross the bridge and you're in a wilderness area right in a busy city.  Follow the trail that hugs the river.  It is very pretty.  You walk along a dirt trail that is surrounded by lush greenery.  You hear the ripples of the river and the constant  chirping of the birds.  It is so peaceful.  It's a nice break from our busy city."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Couples"
+    },
+    {
+      "title": "Rouge Valley Hiker",
+      "text": [
+        "The hike trail is very scenic, fairly easy and suitable for family.  I prefer to start the hike at the parking lot on Twyn Rivers Dr. at Toronto-Pickering border and end at Meadowvale Rd.  This parking can be full on a nice warm day in a weekend, thus be sure to get out early.  Allow yourself 2 to 3 hours for the entire hike especially if you want to stop to take photos."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2018 • Solo"
+    },
+    {
+      "title": "Perfect place to canoe in Toronto",
+      "text": [
+        "We went canoeing during the 3rd weekend of Oct. and saw LOTS of birds - great blue heron, white swan, at least 50 ducks and more!",
+        "We drove to Rouge Beach on Lawrence, east of Port Union.  There are a few places to dip in there and we saw several others who had kayaks, stand-up paddle boards and canoes, like us.  From there (which is Lake Ontario), we canoed up the Rouge River all the way to the 401 and back.  It was flat and calm - perfect for kids.  No portages needed.  ",
+        "It was relaxing and you almost forget that you're in the city!",
+        "We are lucky to have our own canoe, because there are no rentals there.  You definitely need to bring your own."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Family"
+    },
+    {
+      "title": "Not ready for prime time as a National Park",
+      "text": [
+        "We've visited about 30 National Parks (and Park Reserves) in Canada, and countless provincial parks.  The ball has been rolling on making Rouge River into a National Park (NP) since 2011, but much remains to be done to reach the NP standard, notably better signage (no directional signs from the road, no NP signs in the park), better parking, better facilities (washrooms), more diverse trails, and maybe some \"red chairs\".  Currently, this park seems better suited to locals making short visits to an area, rather than travelers visiting to get a fuller experience.",
+        "Currently the park has five main sections:  the river mouth,  the campground, Twyn Rivers, Zoo Road, and Bob Hunter Memorial Park area.  We spent a day strolling (none of the trails we tried would qualify as a \"hike\") around the river mouth, Twyn Rivers and Zoo Road areas.",
+        "The river mouth area (signs still indicate Toronto's Rouge Beach Park) has a nicely-restored wetland, a delicate sand peninsula where river meets lake, a beach (likely crowded on a hot day), and a view of waterfront Pickering, especially the nuclear generating station.  Hiking is limited to a nice but very short boardwalk beside the wetland and the paved waterfront cycling trail.",
+        "At Twyn Rivers, the parking lot holds about 15 cars;  a few trees could be sacrificed for expansion.   The few interpretive signs on the short Glen Eagles trail are holdovers from the former Rouge Valley Conservation Area.  We saw lots of blue jays and other birds, and had some good views of the valley.  The trailhead on the north side of Twyn Rivers Road seems to be a slim gap between bushes, but in an hour rambling along trails, we saw no trail maps or markers (nor the Celebration forest memorial). ",
+        "The Zoo Road area was the best part of our day.  Parking was permitted on the street the day we visited (signs were covered, probably because the Toronto Zoo wasn't using the overflow parking lots nearby).  There was a large parking area on the NP / Conservation Area grounds, but it was closed off.  The only NP logo we saw was on the canvass tent / park office on Zoo Road, but the office was closed during our visit (in October it's open Wed to Sun only).",
+        "The short walk around the restored Beare wetland was pleasant (except for a freight train passing on the adjacent track).  The view from the tower (a short walk south of the park office)  highlighted the results of decades of efforts to preserve and restore the natural appearance to the Rouge River valley.  Former properties have been acquired and re-naturalized.  Even the former landfill to the east could pass for a large hill.  As far as the eye could see, it was river valley and vegetation, with no sign of roads or buildings (except for train tracks and a large electricity transmission line).  Pretty impressive for still being within our most populous city. ",
+        "Coming from out of town, we wanted to see more than one area of the park, and we weren't confident that public transit would be adequate to get from one area to another.  We will probably visit again (we often pass through this area), but not for another 5 or 10 years - hopefully by then this will be closer to the caliber we expect from a National Park."
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "Wonderful place to walk",
+      "text": [
+        "We walked for several hours on trails that are neatly kept and reasonably well marked (except for one that crosses Twin River Drive).  The park was staffed that afternoon by National Parks employees and they were stationed all around the trails and able to easily give help and directions when needed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "A great forest escape",
+      "text": [
+        "I have been spending time hiking and playing in the Rouge park since I was a kid a few decades ago. It is nice to see the lands are now recognized as a National Park.",
+        "There are some very nice trail options and traversing these hiking trails is a wonderful experience.",
+        "Most of the marked trails can be accessed from the top of the hill by the Pearse House.",
+        "I recently hiked the Cedar Trail which is a 2.5km one way hike from the old landfill road to  Meadowvale just north of Old Finch.",
+        "The trail is pleasant and has a few steep grades but overall pretty easy.",
+        "The Vista Trail and Orchard Trail can be used as a loop trail and a excellent two hour stroll. Scenic views abound on these trails.",
+        "What I enjoy most about the Rouge is there are plenty of frogs/turtles and birds and a large variety of plants/flowers to take in if you just stop and look and listen.",
+        "Weekdays the trails are not busy at all and it doesnt cost you a thing to get out in nature here.",
+        "The trails are marked but they could do a little better of a job in the signage.",
+        "Another trail to access is at Reesor Rd and Steeles Ave at the Woodlands Lot.",
+        "There are also access to the Riverside and Mast Trails from the Glen Rouge campground at Kingston Rd.",
+        "Overall the trails are in excellent condition and rewarding. The views of the rouge Valley are stunning especially in the fall.",
+        "There are no real toilet options except for some porta potties and parking can be a challenge. I'm hoping some money is invested eventually by the goverment now that the Rouge is a National Park to upgrade parking and toilets and for park enforecent as there are parts along Sewells and Reesor where people illegally dump."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "No signs on the trails...",
+      "text": [
+        "Trails in this Park are easy level. There are not good and clear signs to indicate the right ways. I have not seen any animals (birds or beaver or squirrel). There are 4 trails to do: Orchard, Rouge, Vista and Woodland.",
+        "All are easy..."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "It is so close!",
+      "text": [
+        "Just next to that zoo, you won't imagine you will find a national park! We went for a festival and enjoyed it very much, hope to go back soon!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Family"
+    },
+    {
+      "title": "Choose your trail wisely",
+      "text": [
+        "We went for a walk on a cool March day. There is no winter maintenance in this park. The riverside trail was fairly flat, but the shoreline had eroded away in several parts and made the walkway very narrow or dangerous. The other trail we followed went from the riverside up the bluffs to the top of the ridge. There were several steep parts on this trail. Both paths had very muddy sections. Neither trail was an accessible route.  We began our walk at the Glen Rouge entry off Kingston Road."
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Urban Nature",
+      "text": [
+        "While I never felt totally removed from the surrounding city, it is nonetheless a very inviting escape from the hustle and bustle. Lots of trails and wildlife to enjoy, and especially nice around fall with the colourful leaves. There are many access points and intersecting paths giving visitors numerous hiking options, don't expect to see it all in one trip. The city has also done an impressive job of revitalizing the area to encourage wildlife to thrive. I was pleasantly surprised by the diversity of scenery: meadows, woodland, marshes, etc. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2016"
+    },
+    {
+      "title": "Easy to get to",
+      "text": [
+        "Rouge National Urban Park is located conveniently near HWY 401 East and the Toronto Zoo. It has a number of hiking trails that are well marked and provides the opportunity to take a short hike outside. There isn’t much in the way of facilities so bring water, snacks and anything else you may need with you. There is also very little parking which is really inconvenient so you may need to park at the zoo. Not in my top ten places to go in Toronto but it’s a way to get some exercise outside away from traffic, especially if you are in the east end of the city."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2020 • Couples"
+    },
+    {
+      "title": "Awesome park for FREE right in the city!",
+      "text": [
+        "Lots of nice trails and places to explore the Rouge River and Little Rouge Creek. We even saw MANY crayfish in the Rouge. ",
+        "The Cedar trail is nice but the part closer to the Meadowvale trailhead is better because it's more shaded. The half of the trail closer to the Pearse House (where you can park) is mostly in the full sun.",
+        "Along the Vista trail, there's a wooden lookout tower with 2 different platforms for viewing the Rouge River."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2020"
+    },
+    {
+      "title": "to Rouge National Urban Park Markham/ Stouffville ",
+      "text": [
+        "Parks Canada Urban park between Stouffville and Markham links from Stouffville to the north east section of Markham. Groomed gravel trail well maintained walkable in winter but not winter groomed day areas at each end have lots of parking and washroom as well as sitting and picnic areas. Enjoy the day!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Family"
+    },
+    {
+      "title": "Forest in the City",
+      "text": [
+        "A wonderful place (in the City) to get away from it all and connect with nature. Various entry points and trails provide different landscapes and views to swoon over. It’s amazing how many people don’t know about The Rouge or take advantage of it. We’ve done guided hikes and exploration on our own as a family and it’s a beautiful gem we are so lucky to have!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "Nature Trail",
+      "text": [
+        "Its a beautiful landscape. Walking through the woods gives a good view. Its good for hikers. A good nature walk."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "Great Year Round Access to Nature",
+      "text": [
+        "Enjoy nature near the city year round. Rouge National Urban Park is a wonderful place to walk, hike, bird watch and it's all free of charge. During the off-season there is free parking. It's also close to the Metro Zoo. Ponds are a great place to observe water fowl, turtles and beavers in the spring and summer. The rivers host spawning salmon in the fall. There are spectacular views and look outs and various levels of challenge from walking on the flat to climbing up steep inclines. In addition, the site includes some interesting historical buildings."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Winter Hiking: Rouge Marsh Trail and Mast Trail",
+      "text": [
+        "Rouge Marsh Trail: A stunning view of the largest remaining wetland in the City of Toronto. The trail is a very short walk, great for skill level. With an abundance of nature photography opportunities, the trial is limitless for someone with a creative eye. Also great for selfie-takers!",
+        "Mast Trail: A great hike that I’m looking forward to doing in the summer months. As there is no winter maintenance for Rouge Park, there was a LOT of dog droppings and it was extremely slippery – particularly when you get to the uphill areas. The downfall per each season, however, is the lack of signage throughout (from beginning to end). At one point, there is a fork in the road (three different trails) and you’re not quite sure which one to go down. In the summer, this wouldn’t be a major issue, but in the winter it may have been risky. My friend slipped 3 times, but I found it fairly intermediate in the winter. Definitely do it in the summer if you’re new to hiking!!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Nature at its best",
+      "text": [
+        "My husband and I enjoyed a nice and easy walk with our dog, following the river/creek stream. My son used to go for a harder track. You can find all sort of trails there. And it's so relaxing! I highly recommend this place for exercising, just relax at the shores of the creek or for a picnic."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "A great place within a short driving distance of Toronto for a picnic, swim, getaway",
+      "text": [
+        "Simcoe day is a busy holiday, lots of summer cottage traffic and crowded beaches, but this year I was looking to find a quick and close getaway for an afternoon picnic swim. We’ll Rouge Park is great. There is a kind of 60s/70s working class/family vibe going on...tons of families from the Indo/Canadian; Asian Canadian diaspora with fabulous picnic meals on display. People set up sun tents and umbrellas and swim and lounge. A train passes overhead. The mouth of the Rouge River meets Lake Ontario with fishing possibilities and paddling through march grass. There are paths for hiking and the sandy Bottomley swimming beach is perfect. I was reminded of my childhood when working class families would venture all throughout Canadian towns looking for affordable relief from the summer heat and where families bond. The makeup of the cross section of families has shifted a bit from my childhood, but beautifully so. A reminder of some of the multi-cultural direction of a city like Toronto that works. And my puppy had a ball too. Lots of dogs."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Fabulous.",
+      "text": [
+        "What a great place to enjoy nature within the city! We came here for a nice walk on a nice day, and found the trail to be quite easy. There is some climbing, but it is mild. The only thing is, this park is now a known source of tick issues, so cover up and check yourself after!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    }
+  ]
+}

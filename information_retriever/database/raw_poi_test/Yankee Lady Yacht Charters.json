@@ -1,0 +1,386 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Yankee Lady Yacht Charters",
+    "url": "/Attraction_Review-g155019-d10422621-Reviews-Yankee_Lady_Yacht_Charters-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "249 Queens Quay W (behind the Radisson Hotel)",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 2N5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 63
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/f2/2c/29/view-of-toronto-from.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Boat Tours"
+  ],
+  "description": "Yankee Lady Yacht Charters owns and operates two 300 person capacity vessels. Main function is to host weddings, corporate events and private parties. Yankee Lady also hosts a number of open to the public lunch/dinner cruises. Two ships: Yankee Lady III and Yankee Lady IV. Full service venues. Liquor licensed. Catering. Decor. Entertainment.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great Cruise",
+      "text": [
+        "Just took dinner cruise on Yankee Lady 3…great experience…huge vessel , very clean with great staff…greeted us with complimentary cocktail …and gourmet food including sushi, steak with potato salads and hotly prepared pasta dish in front of you…boat sailed for 2 hours among many of Toronto islands with great scenery"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Exteremely Amazing!",
+      "text": [
+        "It was a blast onboard! I enjoyed every single one of it, the cruise is very beautiful as well! I really loved how the staff were, the staff were kind and friendly!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Air Show Cruise",
+      "text": [
+        "A beautiful day to catch the Air Show from the water.",
+        "Staff were wonderful, very accommodating and helpful.",
+        "The Captain placed the boat in the perfect position for viewing as the planes went directly over us. He even stayed out longer so we could enjoy the whole show. ",
+        "Great views of the skyline.",
+        "Food was okay, simple lunch of sausages and hamburgers with corn on the cob and salad. Drinks were very reasonable in price.",
+        "I would recommend a cruise on Yankee Lady and I will be booking again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "Proposal",
+      "text": [
+        "I did my proposal on the yacht on a Wednesday night, and it was a great and unforgettable experience. The staff were all very helpful, I feel really grateful to be at that night and recommend all visitors can enjoy the trip on this beautiful yacht."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "KX Country Dance Party",
+      "text": [
+        "Had a blast and I don’t even listen to Country music. I’m starting to enjoy it though. I hope this cruise is an every year thing!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "KX Country Cruise",
+      "text": [
+        "Loved almost everything about the cruise! The price is unbeatable. The timing and atmosphere were great. There were a lot of staff on board to assist with anything you needed. Nonetheless, I really didn’t like how there is smoking allowed on board. It was a very hot day and being outside was the only relief. But there were smokers everywhere. They were also throwing their butts in the water which really bothers me. The food was also mediocre as it was dry/salty and no forks we’re available."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "First experience on the Yankee Lady",
+      "text": [
+        "This was our first time experiencing the Yankee Lady Cruise. I took my boyfriend for his birthday. the food was amazing! however, although it was a Hawaiian theme, there was never any Hawaiian music and I think they could have done it up a bit more to feel like a Hawaiian cruise. There was not very many people aboard, but none the less, it was relaxing and so cool to see the City from a different view! I would definitely do this again!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Daughters sweet 16",
+      "text": [
+        "What an amazing time! The staff was amazing to work with and very accommodating with food allergies. Very clean!  Loved the route. Everyone had a great time!! Will definitely cruise on yankee lady again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Magical evening, making me like Toronto",
+      "text": [
+        "This was a Country and Western themed cruise (not an option for the dropdown menu) July 5th PM and we were given the tickets by a neighbour, so not strictly my favourite music. ",
+        "The staff was helpful and the cruise showed me a view of Toronto I had never seen.  It was spectacular.  The yacht was clean, the music was at a reasonable decibel level and, the crowd was friendly.  The only complaints I would voice is the quality of the food, which was what a young bachelor might serve to his friends for his first backyard barbecue.  Nothing wrong with it, but nothing worth standing in line for.  When they said \"finger food\" I didn't expect ripple potato chips.",
+        "BUT the food was not the focus here.  It was the skillful way the pilot positioned us to catch all the best vista's, from the sun setting behind the skyline, to the secluded niches where swan families were swimming."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Lovely Luncheon Cruise on Yankee Lady III",
+      "text": [
+        "Beautiful day for our luncheon cruise on Yankee Lady III.  Buffet luncheon was delicious. The Redpath Waterfront Festival was on so the Tall Ships were in the harbour.  The yacht is very nice and the staff very helpful.  There were many visitors who had never been to Toronto before and we, even though we have lived in the Oshawa area for many years, have never been to the island and around the harbour.  The only thing missing from our cruise was an historical commentary telling us where we were and what we were seeing.  It certainly would have made this an excellent cruise."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Birthday Lunch Cruise",
+      "text": [
+        "Boat ride was pleasant. The boat was clean and the food was good. Maybe felt that they liked to clean the tables sooner than what the people were ready to have happen."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Waste of Time and Money - Smelly boat",
+      "text": [
+        "We went on the dinner cruise ( Yankee Lady 3) as group of friends on 27th June 2018.",
+        "cruise time 7.30 - 10.30pm.",
+        "Food: terrible , could'nt even eat half of their 6oz sirloin  ",
+        "           Not fresh salad (seems kept for many days) just filled our stomach with their ",
+        "           boiled vegetables as we were hungry. Desert even worse.",
+        "Smell: 2nd level of the boat was very smelly , there was an old fridge kept there which was spreading a disgusting smell like rotten fish (we were holding our breath to see outside and came down to the main level)",
+        "very old smelly carpets on all 3 levels.",
+        "They says smoking not allowed , but many people were smoking and we could even smell like a skunk smell everywhere (we**d).",
+        "***Not recommended for families coming with children or infants.",
+        "Overall we were very frustrated for  wasting our 4 hours of time and hundreds of $$$.",
+        "If you want to see the night view of harbor front, you can even view it from the deck. This boat trip view will not give any excellent view rather than make you sick. ",
+        "Families with kids- you can simply enjoy taking a ferry to center island and return, rather than wasting your money and get sick with this trip.",
+        "We cannot give a single star to this and will not recommend to any of our relatives or friends."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Lovely Lunch!",
+      "text": [
+        "The Yankee Lady Tour was really great! We had a two hour boat ride with a buffet lunch. The food was good and the view was amazing! We saw spots in Toronto that we never knew existed! They have all of the tables set out and reserve a table for each group. There is also many spots on the boat to get photos with the scenery and view of Toronto. I would highly recommend this tour! Make sure you book it on Groupon- I saved a lot compared to the prices advertised on the website."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Yankee Lady Toronto harbour lunch cruise",
+      "text": [
+        "What a pleasant surprise- so well organized with reserved seats and all with fantastic views.  The food was fresh and tasty, service very friendly.  Very clean boat all round!  Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Amazing Cruise",
+      "text": [
+        "A lovely boat, clean and spacious. A warm welcome right from the start, to the end. Good food and lots of it, friendly staff and amazing views of Toronto from all angles. Great party atmosphere and made to feel very welcome. This is a must do trip when in Toronto, very good value for money, we had the best time, thank you sooooooo much!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "Looooved this ",
+      "text": [
+        "We really loved our evening dinner cruise on the Yankee lady. 50's and 60's theme and the scenery was amazing, especially seeing the Toronto skyline at night. The food was good, and the crew does a great job trying to make sure the trip is enjoyable. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Went on Wednesday June 20th.",
+      "text": [
+        "Bought this on Groupon and would definitely recommend.  Both the music and food was good. Even though the theme night was 50's 60's music, the crowd was a mixture of families with young kids along with both older and younger couples having fun and enjoying the experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Enjoyable evening on the lake",
+      "text": [
+        "Get friend get together on the Yankee Lady. Crew were welcoming and very friendly. Buffet had a good assortment of food choices and were tasty. You could get a beverage from the bar and enjoy the sail before dinner and afterwards. A DJ played music throughout the evening and there is a dance floor but as the crew announced, dancing is acceptable anywhere.  Our table was next to the dance floor and speakers and we found it quite difficult to have have conversation with other friends at our table due to the volume of the music. We did not complain or mention it to the crew. We might have been able to move to another table. Washroom are downstairs and not accessible for those in a wheelchair. Maybe there were accommodations in that case. Overall a great evening enjoying food, friends, and the Toronto waterfront."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Great Father's Day Cruise",
+      "text": [
+        "We had a great time on this brunch cruise.  The tables upstairs are way too close together.  We asked to be moved and they accommodated us.  The servers were great!  I would definitely go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Yankee Lady Father's Day Cruise",
+      "text": [
+        "Had a great time on the cruise. The staff was very friendly and everything ran on time. The food was very good, particularly the salmon and the chicken. Really enjoyed cruising through the Toronto Islands. Would definitely recommend and would definitely do it again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "Toronto harbour cruise",
+      "text": [
+        "The staff on board was very pleasant and courteous. The boat was clean and well maintained. The views of the city were just amazing. A very relaxing cruise.",
+        "A live jazz band instead of recorded jazz music would enhance the cruise experience.",
+        "Plated service instead of the buffet would be a nice step up. The food was okay. However, the salmon was great."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "organised",
+      "text": [
+        "Went with my mother who has a walker. There was a smooth ramp to board the boat. Tables were assigned so no need to rush. Boat left on time and went around the islands and across the Toronto Harbour. Lunch was delicious and again very organised. Weather was perfect."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Margaret B.",
+      "text": [
+        "Did both nights Caribbean theme nights. Food, music, decor and crew were wonderful. Everything was on time. Scenery great and view of downtown Toronto at night was beautiful. Very leisurly cruise. No pressure. Loved indoor ,outdoor access"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Another awesome cruise on Yankee Lady",
+      "text": [
+        "Went on the disco dinner cruise with 14 friends. Nothing like a beautiful evening on the water watching the sun set on the ever changing skyline. This was topped off by the reflection on moonlight on the lake as we cruised all around the Toronto islands. ",
+        "Passed finger foods and a special Cozmo made a great start as we left the dock. ",
+        "This season, Yankee Lady is offering various themes with accompanying menus. ",
+        " We enjoyed an extensive make your own salad, roasted new potatoes, green beans almondine, veggie lasagna, meatballs and chicken breast. ",
+        "The DJ kept both indoor and outdoor dance floors hopping. Staff were very friendly and helpful. Dessert and coffee were the finishing touch. ",
+        "A great time was had by all. Already planning our next outing on Yankee Lady."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Date Day- Amazing Experience",
+      "text": [
+        "Everything about this cruise was great! Boarding was quick and we left as scheduled. Lunch was served not long after we left but we didn't know this since we were out on the deck and came in after everyone was finishing up. Lunch was a Greek style buffet with lots of options to choose from. This could be vegetarian friendly if someone were to choose the vegetable only options and pita on the table. We choose this as a date day adventure and loved it! The time we went (Saturday, mid day) was not crowded as there were 3 decks to look out from. Staff were all friendly, bar service was quick (cash bar) and the boat was clean throughout the trip."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Birthday Celebration",
+      "text": [
+        "We celebrated our friend's birthday and spent a very good time together. ",
+        "Beautiful scenic views and great service. ",
+        "Staff made us feel comfortable and DJ was esceptional so we keept dancing all the time. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Dinner Cruise",
+      "text": [
+        "If I could give a 3.5 I would. ",
+        "Staff were lovely and the boat was clean and roomy.",
+        "The food was ok. Most of us at the table couldn’t eat the chicken as it was soggy. The rest of the dishes were ok. ",
+        "We had a blast drinking and taking pics with the gorgeous views! All in all it was a lovely night with friends."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Yankee Lady Cruise",
+      "text": [
+        "Had a great time ! It was overcast but a nice break from the heat wave we’ve been having. The cruise was so enjoyable, all through Toronto Islands. The food was amazing. Cash bar, a little pricey. Staff were very pleasant . Overall, a wonderful day, would definitely do it again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "James Bond Theme Night",
+      "text": [
+        "What a great evening! The staff were very pleasant and helpful & the food was great.  Loved that they had \"fun gambling\" with fake money to play some casino games as well as great music to dance to. Overall a great experience. We will definitely be going back for another cruise."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Great food and Awesome crew",
+      "text": [
+        "A large group of us went on the Country theme cruise and all had a great time.  The crew members were courteous and very welcoming.  Customer service was top-notched.  Cold drinking water was readily available and quickly refilled on each table.  The food was delicious.  I enjoyed everything that was served from the ribs, chicken and ham.  There were plenty of side dishes also.  I wasn't too impress with the desserts of apple and blueberry pie though.  Overall a great dining experience.  Food was plentiful.  The seating was also great.  Enough spacing between table for comfort.  My group enjoyed the food, dancing and beautiful view of Toronto skyline.  Will definitely book again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Perfect day",
+      "text": [
+        "From ticket sale to lift off to end of event it was all well planned and carried out.  Thank you to Jill for helping me with the glitch with Groupon and directions on how to get from our hotel to the port, which was way more than expected of her."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Great cruise",
+      "text": [
+        "My co-worker recommended this cruise. I enjoyed these two hours immensely. Beautiful views, very nice crew, good food - what a way to enjoy a sunny Saturday afternoon! Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "The Way to See The Toronto Skyline",
+      "text": [
+        "The trip consisted of a cruise around the Toronto Bay and winding through the interconnecting channels around the 3 Toronto Islands.",
+        "The lunch was well served via a buffet approach and finished with an ice cream sundae.",
+        " Drinks were extra. ",
+        "The boat was fully booked which meant that the centre isle between the outside tables on the main deck was filled with a line of extra tables and chairs. Unfortunately this made it quite difficult to move away from your table to either go to the outside decks or to the food area etc.",
+        "Also this boat have very narrow side decks that lead to a large bow area. Again if people were standing on the side decks it was difficult to navigate around the outside of the ship on the main deck.",
+        "The weather was hot but thankfully had a breeze which made the whole experience more enjoyable."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Fun night out",
+      "text": [
+        "The ship is beautiful one of the nicest in the Toronto harbour.  The sunset was unreal, it was beautiful.  The only issue was there didn't seem to be enough food, we were one of the last to eat and there was little left.  The food was amazing especially the brisket, but I think due to a low number of guests they underestimated how much food to make.  That was a little disappointing.  Also the tables are put way to close together so you can hardly get into your seat.  Other than that it was a nice night, good DJ and staff were generally friendly."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "AIR SHOW CRUISE",
+      "text": [
+        "I was not impressed with this outing.Very disappointmented. The boat was dirty; spider webs neared the windows and the windows were not clean. The food was burnt, burgers and hot dogs. The server use his bare hands to fill ice in the water dispenser, yes a student. The captain was not friendly and the crew were not interactive. The only reason I got it a 2 was because I sailed in Lake Ontario. The compmay needs to make some serious changes. If anyone rated this above 2, there is an issue. Issues that need to be fixed cleanliness, interaction, food and decor. I would like some type of acknowledgement for this review from the company as well. Thank you."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "GREAT CRUISE",
+      "text": [
+        "Afternoon Cruise on the Yankee Lady.  Well organized, well run cruise. Was able to see the Air Show in style. I recommend this cruise."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "Beautiful Views",
+      "text": [
+        "The evening was lovely, great views, hosts, music and tour. The meal was ok and could stand improvement otherwise worth the value."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Take a pass",
+      "text": [
+        "The boat was clean and well presented.  The staff was courteous but rarely present.  When you board the boat there are staff members walking around with appetizers (in our case...spring rolls and meatballs). The spring rolls were delicious but the meatballs were cold and bland. The wait staff only carried about 12 spring rolls at a time to feed a hundred people. When the tray was empty, she had to go back downstairs and refill. The same could be said about the meatballs. This process took a long time and in the end our table received one spring roll and one meatball each. It was a frustrating process. The bar was no different.  After waiting in line for 35 minutes, you paid for overpriced drinks and the beer was warm and the pop was flat and syrupy.  When dinner was finally served, they asked the patrons on the second floor to be fed first, however we watched as people from the main deck also had gone up to get food. This is not the fault of the staff but rather than ignorance of the patrons. The main floor was never called to wait in line for food So eventually we just all got up and moved into the food line. We had already waited approximately 45 minutes and then had a nother 40 minute wait standing in line. The food consisted of buns, mixed green salad, rice, steamed mixed vegetables, thin Teriyaki steak and chicken breast. The food quality was subpar. The buns did not taste fresh, the rice was bland, the steamed vegetables were undercooked even for steamed vegetables,  the Teriyaki steak was paper thin and the chicken lacked flavour. My son was very hungry and was told he could go up for seconds, when he went up they had already cleared the food with the exception of the Buns so he grabbed a couple of those to make do. A few hours later, dessert was put out consisting of brownies fruit and apple crisp. Everyone was told that you were only allowed to have one piece of dessert. I did not get any dessert before it was gone but i understand that the fruit and brownies were good.  As for the music, it was typical club music.  It was blaring and did not cater to the patrons which was evident by the lack of participation on the dance floor.  The city scape at night was the only saving grace. For most of the evening I was hoping for a dinghy to come and take me back to land so I could end the miserable night.  If i were you i would take a pass.  "
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Nothing but fun",
+      "text": [
+        "This was our second time on the cruise, my family and I had so much fun last year, so we went again this year. Would recommend this."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Weekend outing",
+      "text": [
+        "It was our first experience it was as Absolutely fantastic.",
+        "The weather the food the service the music was great. ",
+        "I will defiantly go back again and again. I highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    }
+  ]
+}

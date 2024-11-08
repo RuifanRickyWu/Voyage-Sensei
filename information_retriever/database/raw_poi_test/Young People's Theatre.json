@@ -1,0 +1,218 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Young People's Theatre",
+    "url": "/Attraction_Review-g155019-d600783-Reviews-Young_People_s_Theatre-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "165 Front St E ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5A 3Z4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 22
+    },
+    "openingHours": "Mo-Fr 09:00-17:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7e/27/2f/young-people-s-theatre.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Theaters",
+    "Educational sites"
+  ],
+  "description": "Young People's Theatre (YPT) is the oldest professional theatre company in Toronto and is a national producer and presenter of theatre for young audiences - the first and largest of its kind in Canada. Over the past 50 years YPT has staged many of the most important plays that form the canon of work for youth in our country. The enriched learning experiences of YPT's Education & Participation Department also provide young people with opportunities to develop their whole being. At Young People's Theatre we strive for a positive and lasting impact on the emotional, social, and intellectual development of young people - giving them the chance to grow into the unique and wonderful people they were born to be.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Mary Poppins",
+      "text": [
+        "Watched a production of Mary Poppins here. Excellent singing and dancing, The set was well thought out and colourful, The actors were experienced and projected well. There were many children of coarse in the audience and they seemed captivated and entranced during the play."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2019 • Family"
+    },
+    {
+      "title": "School Trip",
+      "text": [
+        "I have been to this theatre twice. Both times I was very impressed. This week we took our grade five students on a school field trip to watch Mary Poppins and I fell in love. Such a great production!!! The songs were so well done and the characters were so modern and amazing.",
+        "I definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Business"
+    },
+    {
+      "title": "Romeo and Juliet",
+      "text": [
+        "Don't get me wrong I'm open for new and modern but this play was either. I appreciate the actors effort they work hard and did the best they could with this play but who ever was the director of the play I have one question for you: Are you crazy? I took my 15 years old son to see the play he was learning Shakespeare last year and I thought it would be fun to see the play in an other point of view. This play had no point of view. When the actors where running around and around for 10 minutes and shouting I am Romeo, I am Juliet even though in the beginning they introduced them self with different names. It was confusing to hear a man saying I am Juliet. I just couldn't explain it to my son what does it means. Is he become gay or did he forget he suppose to be Romeo? The play was called What if ……. we didn't get the answer for this question. If you or your child haven't read Romeo & Juliet don't go to see the play it would very much confuse him or her. If he or she already read it don't go to see it because the original story is so beautiful don't mess with it. I think the theatre has to seriously consider to remove this play. All together it was awful!"
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "Perfect Performance",
+      "text": [
+        "During March Break, we went with a kids a variety of ages to watch Secret Garden. It’s a great outing or rainy day activity. The recommendations of audience ages was spot on, although the many grandparents also seemed to enjoy the show."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018 • Family"
+    },
+    {
+      "title": "A Magical adaptation of a Disney classic!",
+      "text": [
+        "I recently took my family to the Young People’s Theatre presentation of “Beauty & the Beast” to kick off the holiday season and we truly loved it! This was our first visit to the lovely theatre in the St. Lawrence Market; what a wonderful venue to watch this production that kept us fully engaged with great musical numbers from the 25 year old classic as we sang along to all our favourites like “Be our Guest” and “Beauty & the Beast”. The costume and set design provided the prefect ambience for the talented ensemble cast of 14 that played over 50 characters. We appreciated that the YPT had kid friendly performance ties on Tuesday and Sunday with a great, interactive Q&A with some of the cast after the performance! We also loved how ethnically diverse the cast was, which is a tribute to the production management, the YPT and the talent of the actors. I definitely recommend “being the guest” of this production and I will surely be back soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Family"
+    },
+    {
+      "title": "An entertaining afternoon with a 10 year old",
+      "text": [
+        "I took my 10 year old granddaughter on a PA afternoon.",
+        "It was my first visit to YPT and I was pleasantly surprised. The sets were not grandiose but very well done. The cast, most of whom had double roles, were very good. ",
+        "We saw Beauty & the Beast -- a production all kids see in some form with a timeless message. ",
+        "It was a most enjoyable afternoon. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2017 • Family"
+    },
+    {
+      "title": "James and the giant peach!",
+      "text": [
+        "After reading this book with my two sons we travelled to Toronto by go train to see the production. It was terrific,kept my kids attention for entire time 80 minutes no intermission I think that works well for young people. The singing. Acting were top noch professionals geared toward a young audience. I enjoyed it. We especially loved the live music, and singing. After the show cast members answered audience questions a nice touch. Our visit to the big city to see this play was well worth it! We will definitely be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Family"
+    },
+    {
+      "title": "Amazing place for children",
+      "text": [
+        "I love taking my daughter to the YPT since she was 6 months old.  It's a great venue, easily accessible by TTC and has great rotating shows.",
+        "The prices are a bit expensive however don't mind supporting their productions. ",
+        "Definitely take your child if they are 6 months and up :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Family"
+    },
+    {
+      "title": "\"YPT-Excellent production of Seussical!\"",
+      "text": [
+        "My sister and I took our niece (age 12) and nephew (age 5) to see \"Seussical\" during the holidays.  It was an outstanding production and very engaging for both adults and children.  The cast was very talented with beautiful voices and lots of energy.  My nephew and most of the other children in the audience were riveted throughout the 80 minute performance.  I was able to get Super-Saver seats for $15 per ticket online and the parking right across the street from the theatre was reasonably priced and easily accessible. It was totally worth it. Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2016 • Family"
+    },
+    {
+      "title": "Such Fun  !!",
+      "text": [
+        "We booked seats (everyone sat on the floor) for the production for 3 to 18 month old  children. The  children could move around as they wished and there were Change Tables, etc...available  for use. The  performance  was geared perfectly to the age group...bouncing balls, flowing material, pretend water, peek-a-boo,  bubbles etc....   It was absolutely mesmerizing for the children !!!  I strong suggest you go.   The children could go up on  the stage after the performance and play with all the  balls, etc....  As true experience for  the very young  to expand  their minds"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016"
+    },
+    {
+      "title": "Intimate setting. Great for kids.",
+      "text": [
+        "I saw Seussical the Musical recently. It was a great performance for both the kids and the adults in the audience. It was not a very long production so kids would not get restless. There are drama programs for kids/teens during breaks from school. I thought the performance would feature young actors but the entire cast were adults. I would go back for another production."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2011"
+    },
+    {
+      "title": "A must for families!!",
+      "text": [
+        "Some of my fondest childhood memories are visiting Young Peoples Theatre. My grade school did annual visits to the theatre and I vividly remember  watching The Diary of Anne Frank, Jacob Two Two and Helen Keller. ",
+        "Now with two young children of my own I am so thrilled this theatre is still around and has not changed (although it briefly changed its name to the Lorraine Kimsa Theatre for Young People...it is now back to the original Young Peoples Theatre), the theatre is still wonderful and entertaining for both parents and kids. It is wonderful to see my boys as excited as I used to be. We just watched The Studio (Oct 1, 2011) a wonderful contemporary dance production, my 3 year old was dancing around the living room afterwards. We are very excited about the upcoming Suessical- a musical based upon Dr Seuss books (Dr Seuss is huge in our house!).",
+        "I would strongly recommend YPT to anyone with kids!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2011"
+    },
+    {
+      "title": "Had a fantastic time watching all the babies had completely enjoying the play for 18 months and under.  ",
+      "text": [
+        "took my 3 month old to go see a play/production specifically designed for babies 18 months and younger. it was fantastic watching all the babies mesmerized by the performers and the parents mesmerized by the kids. i would recommend taking your little one to see this performance, you will both have a great afternoon. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016 • Family"
+    },
+    {
+      "title": "Kids love it!!",
+      "text": [
+        "We have been to Young People's Theatre for Pinochio and The Wizard of Oz.  Both performances were exemplary.  It is pretty rare that our 4 & 6 year olds will sit still for 90 minutes but WIzard of Oz did the trick.  We hope to return many times in the future.  This place is worth every penny!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Family"
+    },
+    {
+      "title": "Perfect family theatre experience",
+      "text": [
+        "You can mortgage your house to buy tickets to The Nutcracker or Cinderella, but you can't do better than the reasonably priced, age appropriate and artistically excellent productions at this iconic Toronto venue. We have taken our children and now, our grandkids to many shows here, over the decades...consistently well produced and outstandingly performed.",
+        "This holiday, we saw a first-rate production of Jacob Two-Two.  Can't wait for the Spring and Wizard of Oz!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Family"
+    },
+    {
+      "title": "Shows are good but check age level ",
+      "text": [
+        "Great place to intro little people to theatre ... Shows are very professional but check for length and age levels as they are sometimes too long for younger types.  Their drama classes are fantastic as well ... Well worth the time and money!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "We all LOVED James and the Giant Peach",
+      "text": [
+        "Fantastic theatre and great performance. I try and check what show is on if I know when we'll be in Toronto. Boys loved the current musical adaptation of James and the Giant Peach. Good $10 parking lot across the street (Sunday, so price may vary on a different day of the week). We arrived 35 minutes before the show and it was well timed to have a treat and look around. Performers do a question and answer afterwards which was nice. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2014"
+    },
+    {
+      "title": "A great show",
+      "text": [
+        "I had the pleasure of watching Annie this morning with my daughters and an audience packed full of school groups. ",
+        "The show was great. We all really enjoyed every moment of it. The set and props were well thought out and fun. The performers did a great job. they really looked like they were enjoying themselves. ",
+        "My only complaint is the staff that sat us. They were rude and very pushy. One was busy kissing her teeth, with her hands firmly planted on her hips, as all of our little ones took their seats. "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Top notch plays for children at a fraction of the price.",
+      "text": [
+        "Those that have children and are not taking them to this theatre to see very well produced plays are doing a dis-service to them. You must see their plays. Awesome performance and really cheap prices. This time we took the subway to union and walked to the theatre which is about 10 mins."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2013 • Family"
+    },
+    {
+      "title": "If you have children you must take them here every year",
+      "text": [
+        "Excellent theatre performances for children. We have been going to all it's plays for the past four years and every year our children have simply loved the variety of dramatical plays and performances. Top notch acting. The price is simply nothing to see high quality performance. Save your money and do not go to any Ed Mirvish production and instead buy tickets to this local theatre. I purchase front row seats every year to all 8 of their performances and the total cost for four people to attend all 8 shows comes to the same total I paid recently for seeing the Wizard of Oz an Ed Mirvish production. In my point of view, you get much better value and better quality performances from LKTYP than any Ed Mirvish production."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2013 • Family"
+    },
+    {
+      "title": "Always a great performance!!",
+      "text": [
+        "We're frequent visitors to this theatre.  The ticket prices are super reasonable and there are no bad seats in the house!  Their website clearly states the ages groups each performance is geared towards and there are frequently question and answer periods after the play.  LOVE this place!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2013 • Family"
+    },
+    {
+      "title": "Excellent Experience!",
+      "text": [
+        "I went to this theatre as part of a school trip for my Grade 4 daughter's class.  Wow!  What a production.  We saw Seussical which was an adaptation from Dr. Seuss' Horton Hears A Who.  It was actually much, much better than I was anticipating and our entire school group and parents thoroughly enjoyed the production.  The actors were phenomenal and the singing outstanding.",
+        "I thoroughly recommend to others with children!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2011"
+    }
+  ]
+}

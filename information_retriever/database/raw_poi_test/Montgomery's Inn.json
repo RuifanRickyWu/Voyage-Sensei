@@ -1,0 +1,223 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Montgomery's Inn",
+    "url": "/Attraction_Review-g155019-d4310053-Reviews-Montgomery_s_Inn-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4709 Dundas St W Dundas and Islington",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M9A 1A8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 21
+    },
+    "openingHours": [
+      "Tu-Fr 10:00-17:00",
+      "Sa-Su 13:00-17:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/cd/22/ab/montgomery-s-inn.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Speciality Museums"
+  ],
+  "description": "Montgomery's Inn is a museum that has been a Toronto landmark for over 180 years. Surrounded by a rapidly expanding metropolis, it continues to provide visual evidence of early 19th-century hospitality. Built in 1830 by Thomas and Margaret Montgomery, the Inn was a place where locals gathered to exchange news, views, as well as a good meal. Exhausted travelers were also offered a bed for the night. City of Toronto Historic Sites work collectively as 10 historic museums including: Colborne Lodge, Fort York National Historic Site, Gibson House Museum, Mackenzie House, Montgomery's Inn, Scarborough Museum, Spadina Museum, Todmorden Mills Heritage Site, York Museum and Zion Schoolhouse.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Lovely old house.",
+      "text": [
+        "Lovely big room which totally lent itself to a big family party! Huge fireplace, fantastic professional kitchen."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Montgomery's Inn",
+      "text": [
+        "Montgomery’s Inn Museum was a tavern, farm, local gathering place and community hub in the development and history of Etobicoke.",
+        "The building includes the 1830s Inn with twelve restored rooms, a tea room, a bar room and a commercial kitchen, as well as a modern addition featuring a 3,000 volume research library, a gallery space, archives, and a gift shop.",
+        "Visitors can explore the role of the tavern in colonial Canada through ongoing educational programs, tours, events, exhibits, and farmers’ market."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "A home tour back in time.",
+      "text": [
+        "A wonderful weekend activity to learn about history in the Etobicoke neighbourhood. Hours are 1-4pm and our volunteer tour guide offered an intriguing history of the property and life in Dundas circa the mid 1800's.  The tea package afterwards we incorporated into our tour and it was simple but delicious.  Both my senior mom and the littles equally enjoyed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Excellent Tour",
+      "text": [
+        "We visited Montgomery's Inn and had a great time! The staff was very friendly and our tour guide, Jane, made a special effort to accommodate us and practically gave us a private tour! We went for the tea with biscuits and it was excellent as well. We're currently planning to visit again during the summer.",
+        "Highly recommended for anyone with an interest in Toronto's history."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "A Historical Toronto Treasure",
+      "text": [
+        "I have visited Montgomery's Inn on two occasions.   I attended two  operatic performances at that venue. ",
+        "It is an amazing reflection of the historical time period.",
+        "The opera  that I attended  was Scenes of Joshua and it was staged at the  Inn because of the historical significance.  The opera was played out in different  rooms in the Inn, which served to highlight  every aspect of the Inn.  I loved the Inn's  authenticity, Well worth visiting. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018"
+    },
+    {
+      "title": "Ms",
+      "text": [
+        "The tour was excellent. The guide was extremely knowledgeable about the era as well as the history of the inn and it’s orig owners. Good history lesson . Nice concert. Great grounds."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "TEA FOR TWO",
+      "text": [
+        "My grandson was given some monetary gifts for his 15th birthday and wanted to do something nice for his Gran. He knows I like afternoon tea and especially in a nice setting. He consulted with his parents and when he called to invite me he already had Montgomery Inn as the one on the top of his list.  The ambiance was so comfortable and calming and their scones with strawberry jam and cream was delightful!   What a nice way for my grandson to learn how to 'treat a lady'.  I felt very  honoured to seemingly be the first!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "Cherishing Toronto’s Past",
+      "text": [
+        "Just returned from a wonderful afternoon at the Montgomery Inn. We were so fortunate to enjoy a free movie Maudi, aspart of the annual Canadian celebration. ",
+        "In addition, we loved the selection of foods available at the weekly Wednesday Farmers Market.",
+        " It was so interesting to relax in a beautiful historical structure.",
+        " Amazing and informative staff.",
+        " ",
+        "Thanks so much,"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "A pearl in the Etobicoke oyster",
+      "text": [
+        "Surrounded by city, Montgomery's Inn offers a blast from the past. From high tea, to a weekly farmers market ad cultural activities throughout the year (including a corn roast). Montgomery's Inn always offers a fun and unique experience for people of any age looking to learn about their community and for something to do."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "I visited the Inn for free and attended the annual corn festival!",
+      "text": [
+        "I live on Dundas West a short walk to Islington and this is one of the places that always attracted my attention. It is a beautiful tiny inn that takes you years back into the history. I like their kitchen and all cute utensils. The garden specially in September when they have a corn festival with dance and food and cultural things for the whole family. I also visited for free as I am a library member and I can get free pass to visit any of the City of Toronto Historical sites every 3 months. Take advantage of that if you are from Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "A little peice of History",
+      "text": [
+        "Such a quaint Inn to visit, employees dress in period and take you on a guided tour of inn and tell you stories of how it was. There is a tea room and souvineer shop and also a kitchen with a big brick oven where they sometimes make bread or other goodies for you to sample. Dont miss it. Show the kids how it was done and how much work it was back in the day. lol"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2014 • Family"
+    },
+    {
+      "title": "Charming historic place",
+      "text": [
+        "These historic site of Toronto city is very nice with kind staff. I have been only one visitor at morning so it was very comfortable for me 😉 The entry fee is very low and u can stay as long as u want."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2017 • Solo"
+    },
+    {
+      "title": "Well worth a visit",
+      "text": [
+        "We visited this place on July 3",
+        "We all like history and we were given a very good bit of history from the tour guide she was so nice and really explained !,!",
+        "what the Inn was about",
+        "It is very well set up and in the lovely area for walking and sightseeing",
+        "There is a room there and apparently a farmers market on some days",
+        "It is a gem!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Farmers Market yum!!!",
+      "text": [
+        "Go on a Wednesday early afternoon and the farmers market will wow. Fresh breads, tofu to die for (and I HATE tofu!!!) and loads of fresh veg. Great to do tastings to see what you like to buy. Will go again. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "Cool place to visit",
+      "text": [
+        "I did not get the guided tour but I got a planhflet that i used to guid around. I liked this tour on my know because i could take the time and maybe go to places that the guided did not go. It was interesting seening things in the past and how they were.",
+        "Also while being here go to Centennial Park Greenhouse, it is close by and you will not regret it, also it is Free."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2015 • Solo"
+    },
+    {
+      "title": "This is a prime example of a living museum; lots to do, see and EXPERIENCE",
+      "text": [
+        "I've been at several meetings here over the years, but only yesterday did I get a proper tour of the whole building -- from a very skilled and keen interpreter, I might add, who didn't get ticked at all the questions i kept interrupting him with.",
+        "Being an inn was just part of the story, and that tells us a lot about rural society (yes, this area was once a day's coach ride from downtown Toronto, so stop complaining about how slow traffic is today) of the time. It was a family home. It was the home base for a 240 acre working farm ( another 240 acres unworked). It was a bed and breakfast for a maximum of three people a night.  It was a meeting hall for political meetings and meetings of the Orange Order.And likely, it was mostly a restaurant and bar, probably managed solo by Mrs Montgomery -- as most of the inns and taverns of the time were. Women's place on the frontier was a lot more edgy than back in the old village in ireland or Scotland.",
+        "I love the way the staff here treat this as a living museum. They have an open bar one Thursday a month. They have a farmers market. They have workshops in the kitchen. They bake stuff in the open stone oven out back. They're as enterprising as old Montgomery himself.",
+        "Different people can enjoy it in different ways. History buffs will want to know about its special role in North American Black History. People with kids will enjoy the surrounding lands, and the farmers market. People interested in heritage foods will love the workshops. And people who like oldfashioned beer whisky and sasparilla will enjoy bar night."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2015 • Solo"
+    },
+    {
+      "title": "A nice bit of history in a lovely part of town",
+      "text": [
+        "Visiting the inn gives you a nice insight into the social aspect of society from a couple of centuries back. Unfortunately the tours are self guided so be sure to pick up a brochure which explains the varied multi-purpose of the building as it was not just an inn but a bar and diner as well alongside being a community meeting hall on top of being a family home . It was nice to wander the rooms at our leisure. Free parking, very short opening times. Located in a lovely part of Etobicoke - not far from the Centennial Park Conservatory / Garden (a free and beautiful city indoor garden) so perhaps worth combining the two attractions at one go."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2015 • Family"
+    },
+    {
+      "title": "Go back in time ... Worth the stop\"",
+      "text": [
+        "Really the tour guide made this a must! I can't remember her name but she was a 85+ Year old charming maden that told stories and asked questions. This really made learning about history exciting. I highly recommend this tour $10. For time travel is really cheap! Please stop and step into the past."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2015 • Friends"
+    },
+    {
+      "title": "Little Charm",
+      "text": [
+        "What a sweet little treasure next to a bustling city. Tour was given by director who was incredibly clear, enthusiastic and highly informative. What a fantastic little treat and look into 19th century life. Definitely worth the visit and especially on Wed afternoons for the farmers market held on site."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2014 • Couples"
+    },
+    {
+      "title": "Best Museum Ever",
+      "text": [
+        "From the moment I walked into this building until I left.... I felt like it was 1837 and I was part of the action.",
+        "A tavern bar complete with wooden cage around the spirits; hidden staircases up to the room where guests stayed; large dining room with huge fireplace, and the residents quarters!!",
+        "All these areas have been furnished to make you believe you were there.  This blast to the past was the best I have experienced.   The pictures on the basement walls showed the dedicated women who arduously repaired and replaced the vintage furniture.",
+        "My hat goes off to them and I highly recommend this self guided tour.  It was excellent.",
+        "The area around this Inn is beautiful and worth checking out as well.  Mimico Creek has a long history as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Family"
+    },
+    {
+      "title": "Go back in time",
+      "text": [
+        "This inn takes you back to the 1830's. You get a guided tour of the whole inn as it would have been with all the period furniture, utensils, and clothing. You can imagine being a traveller's staying here. In the afternoon you can have a tea with goodies such as cakes and cookies from the old days. Well worth the visit if you are a history buff."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2014 • Couples"
+    }
+  ]
+}

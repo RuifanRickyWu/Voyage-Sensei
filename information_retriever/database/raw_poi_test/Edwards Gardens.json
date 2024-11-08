@@ -1,0 +1,364 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Edwards Gardens",
+    "url": "/Attraction_Review-g155019-d185075-Reviews-Edwards_Gardens-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "755 Lawrence Avenue East ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M3C 1P2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 713
+    },
+    "openingHours": "Mo-Su 10:00-20:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/fe/28/4a/edwards-gardens.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Gardens"
+  ],
+  "description": "Garden enthusiasts will enjoy a stroll through this manicured landscape.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "One of my favorite gardens in Toronto",
+      "text": [
+        "This is a beautiful garden. A bit out of the way, but worth the drive. Its lovely to walk around the paths and see the greenery."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Beautiful Garden",
+      "text": [
+        "The best time to come here is during Spring where there is a nice display of tulips and cherry blossoms."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Ok but nothing special.",
+      "text": [
+        "Ok for a nice short walk if you want to see flowers.  Fairly popular for wedding pictures and slightly crowded on the weekends.  Nothing special but it’s a good way to pass an hour."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Nice",
+      "text": [
+        "This garden is super beautiful in spring because it is full of flowers and with a lot of space for picnics and family activities. They have a nice trail through the park as well."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Put Spring in your step",
+      "text": [
+        "Enchanting place for rest, relaxation and rejuvenation. Every season offers new colors, flora and fauna. It may not be as extensive as Hamilton's botanical gardens but it is still a lovely respite in the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Keep coming back to the place",
+      "text": [
+        "We keep coming back to this place whenever we are in the area due to the combination of great wildlife and floral arrangements:",
+        "- this place is free to enter, however we tend to avoid the weekend when seems to be busier and the car park gets full rather fast",
+        "- there is a shop, toilets etc with very nice friendly staff",
+        "- lots of flowers, as you would expect but we are keen ornithologists and had several birds come and eat from my palm, besides black and brown squirrels following us around, together with chipmunks and other type of birds.  I did not see the ground hog we came across several years ago but we had ducks flying around us - that is why I like coming here when there are not many people around after all",
+        "- we spent around 90min relaxing on the bench, talking to animals and birds and taking pictures of this beautiful place",
+        "Well done to the hard working staff.  Most surely we will be back."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Fantastic place for kid hikes",
+      "text": [
+        "Fantastic place to take kiddos at any time of the year.  My kids are 4 and 5 and they love wandering off the trails, playing near the streams, and spotting wildlife.  In Autumn, we hit up the \"golden forests\"."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021"
+    },
+    {
+      "title": "EZ park & walk",
+      "text": [
+        "Spend a free afternoon exploring nature on well-groomed park grounds and observe all sorts of wildlife like groundhogs, and hawks in trees or just feed the Chipmunks! ;)"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Amazing gardens",
+      "text": [
+        "We toured the gardens. Many blooming plants and lots of huge old trees. Paths wind through the gardens and trees. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "An Oasis to Sooth the Soul",
+      "text": [
+        "Many a times during the pandemic we escaped to this beautiful space! It is not that close to us but it was worth spending the time to get there. Everything is opened up and we tend to less frequent them. Just went back for a visit and it is jsut as charming with many flowers in bloom.",
+        "Some of the paths blocked during the pandemic are now open providing further trolling options. A place to sooth your soul !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Perfect for Landscape/Nature Photography",
+      "text": [
+        "I went to this park last year of winter (2019). Despite the snow and the ice everywhere, there were a lot trees with leaves still intact. The trees had a nice mix of snow and green leaves around. There's also a pond and a small water falls in the park."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019"
+    },
+    {
+      "title": "Scenic Gardens",
+      "text": [
+        "Edwards Gardens is located at the corner of Leslie St. and Lawrence Ave. adjacent to the Toronto Botanical Gardens. As we live nearby we have spent many hours walking the variety of trails that meander through the valley, over bridges and along a creek. There is an amazing array of flowers, shrubs and trees and many rest areas where you can enjoy nature’s beauty and escape from the reality of the noisy city. On weekends it does get crowded with families enjoying an outing and wedding parties taking photos. Best to go during the week or early morning. You can enjoy these scenic gardens during any season but fall presents a wonderful display of colors. Admission is free and there is a minimal parking fee."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Lovely",
+      "text": [
+        "In the heart of Toronto, sits a beautiful park with steams running throughout it. The few flowers and vast array of plantation still serve to leave you enchanted with nature. ",
+        "A definite place to visit!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "great place for a romantic walk",
+      "text": [
+        "go there often for a walk with my partner. its peaceful and not too crowded. you have to pay for parking now. thats sad."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "garden",
+      "text": [
+        "A beautiful place on a nice sunny day to walk through and see all the gardens. Visitors and weddings photos its all great to spend time here for anything"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Beautiful park.",
+      "text": [
+        "We visited this park on a sunny Saturday afternoon.  The parking lot was busy but not full. The park is free but there is a small parking fee. There was an indoor building and a small cafe. The cafe was a little on the pricey side. ",
+        "The park was very clean and well kept. It is a very good place to go for a leisure walk."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Family"
+    },
+    {
+      "title": "Spacious and beautifully manicured grounds in east mid-town Toronto.",
+      "text": [
+        "This is a lovely low cost place to visit that is great for horticultural viewing or a fairly extensive hiking experience, almost in the middle of Toronto. ",
+        " This is one of my favourite places to check out the colours of the Autumn leaves changing colour, there is a winding brook with foot bridges and Willow trees plus a great  ",
+        "gift shop and a snack bar.",
+        " Edwards Gardens also has fabulous Orchid and other plant shows through-out the year, it is a great place to go for a nice relaxing walk in the north-eastern heart of Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Great Visit, awesome photos...",
+      "text": [
+        "Overall it is an awesome park to walk around, if you like to take great photos this is a place to be in, clean and lots of sculptures, flowers. This is great for people who is looking for peace, great for hiking."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Great to place to visit: Edward Gardens",
+      "text": [
+        "A must see. It is free and free parking as well. Lots of landscaping designs and various types of flowers and shrubs. People do their wedding portraits and photo shoots there but they have to pay. Actually my sister did hers there. You can bike as well all the way south on the bike lane. It can go all the to Lakeshore if you follow the bike path."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Good for recreation",
+      "text": [
+        "Its attached to botanical garden, so mostly people get confused with botanical garden. The landscaping is good and good for evening stroll during summer. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Nice autumn walk",
+      "text": [
+        "Several years have passed since we last visited Edwards Gardens, but in these pandemic days we are retracing our steps through a number of parks and ravines. On Sunday afternoon the Gardens were quite full, though it was cool and overcast. Evidently many other people had the same idea we did. The flowers are mostly gone now, though asters and chrysanthemums are still in flower. The scenery is nice as always. The cafe is open, as is the gift shop."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Teeny Tiny (but perfect) Botanical Gdns",
+      "text": [
+        "A little underwhelming when you consider botanical gardens in - well - just about any other city in North America or Europe, but this one, despite it's proximity to not much other than upscale housing (and problematic to get to via public transit)..it transcends it's naturally occurring obstacles and in the end is -  pretty ,well-kept, well sign-posted, and has plenty of parking and a small cafe for a coffee or nibble. The valley portion is very natural and pretty while the more studied, planned and tamed upper is designed to impress. Lovely shop for gardeners and gifters, a pleasant water feature, and an event space which seems often to host weddings, makes it a popular spot. Check it out.....  "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2020"
+    },
+    {
+      "title": "Green Garden",
+      "text": [
+        "Also known as Toronto Botanical Gardens, Edwards Gardens is an ideal place to have some time in nature. It's a huge lark where you can go for a long walk or a time out with yourself. It can also be a nice spot for a picnic if you're in the mood."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2020 • Solo"
+    },
+    {
+      "title": "2019 Review",
+      "text": [
+        "I feel a little embarassed by Edwards Gardens because they are waiting for Toronto Botanical Garden to fix the broken patio, bridge, and other crumbling areas when they have money.  Toronto Botanical Gardens fought for management control of this place, and got it in 2018, and then first thing they did (after making their vision plan) was to charge parking fees.  I think Rupert Edwards would turn in his grave if he knew, because he sold it to Metro Parks on the condition that there would never be any fees charged to enter his former estate.  I'm so disappointed in the city's decision to allow the TBG to do this to the public.  Otherwise, this is a beautiful park, full of memories for me and my family and friends, I go there almost every week in every season to walk."
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "lovely park",
+      "text": [
+        "best to come in June to see the rhododendrons bloom. Bit crowded in the weekends but very good for walks jogging, biking etc"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Beautiful place",
+      "text": [
+        "Great for summer activities. A very nice and shady trail. A parking spot might hard to be found during weekend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Great Walk",
+      "text": [
+        "Walk around the park was wonderful, we ended up in a neighbourhood with beautiful homes. Ended up back at the garden, but was a nice walk"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Our finest public garden goes to pay per visit system!",
+      "text": [
+        "For more than 50 years my family has been visiting this urban treasure in all seasons.   From music in the park to varying floral displays and simply opportunities to sit, meditate and watch the birds and squirrels, this has been our go to place for peace and quiet.   Unfortunately, our politicians have expanded the  shameful policy of charging visitors to park if they wish to enjoy this part of the wonderful Toronto parks system.   As they did with the Brickworks, access to these public places has been placed in the hands of affluent volunteers who give of their time and expertise but have introduced a relatively expensive parking system which penalizes those who make frequent visits to the parks or wish to linger for longer walks along the trails.   I do not believe that visits to any public parks should come with a price tag.   I anticipate the outcry when Councillors approve parking fees for High Park."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Edwards Gardens",
+      "text": [
+        "Nice piece of nature in the middle of the city. There is a ravine with trails for walking/biking and it's popular spot for wedding photos."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Serenity in a busy city",
+      "text": [
+        "Come here just to wander the beautiful gardens and trails.  However, last summer, we held our daughter and son-in-law's wedding anniversary party here.  Fabulous venue with fantastic caterers.  Later came back to see the beautiful sculptures on display from Zimbabwe and the sculptors at work there as well.  These sculptures were available for purchase, although they were too expensive for us."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Small garden",
+      "text": [
+        "Edward Gardens itself is rather small. While the park and trails are big, the botanical gardens can be walked through in a short time. Compared to other gardens, it is not a big attraction."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Beautiful Creations",
+      "text": [
+        "a Gem in Toronto. (Botanical gardens, curated to perfection). Scenic and a nice walk-through from spring to fall. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Green Stuff Galore",
+      "text": [
+        "...and colour too. Space. Plants, trees. ",
+        "Go early.",
+        " Avoid weekends unless you like crowds. ",
+        "Outside, inside all good. ",
+        "Stay a while, join a class"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "A typical forest that's nice to venture through if you're already at the Toronto Botanical Gardens",
+      "text": [
+        "Parking is cheap ($2.50 per hour at the Toronto Botanical Gardens), and admission is free as it is an open park. Good for taking a walk or bike riding. Not much to see though."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Lovely morning visit",
+      "text": [
+        "So peaceful and tranquil, walked for miles and saw some beautiful flowers. Well worth a visit if you are interested 8n gardens"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Beautiful, calming",
+      "text": [
+        "They have 'forest bathing', so I guess Edwards Gardens can lay claim to 'garden bathing'. A beautiful place to relax and enjoy nature, with both educational gardens and access to miles of park paths. The gardens by the main building are diverse and well marked for gardeners, and attract birders (you often will find groups of people holding expensive camera equipment and standing stock still, waiting for a hummingbird.)  There is also a charming teaching garden in another section. Entrance is free; parking is not (although there is free parking at the west side of the Gardens.) "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Gorgeous Place for Photos",
+      "text": [
+        "A beautiful garden oasis, right in the middle of the city! We had our engagement photos taken here and it was a wonderful experience. The different river, garden, and woodland landscapes were so fun to take and it was a great nature escape. Would recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Very pretty but not suitable for someone in a wheelchair",
+      "text": [
+        "The wheelchair gets stuck on the uneven paths.  I thought the children's garden would be wheelchair friendly, but sadly it was not.  There are children in wheelchairs that would love to get up close to some of the thoughtful flower and vegetable beds constructed for learning."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Beautiful",
+      "text": [
+        "Beautiful well worth the trip.  Gorgeous scenery and flowers.  Nice place to walk.  Lots of places to rest and sit as well"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Lovely walk",
+      "text": [
+        "Started walking here last year and now live it. Lots of different trails and you will always find something new everytime. Love walking in every season. Just that the place gets super crowded when the weather is good. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2020 • Friends"
+    }
+  ]
+}

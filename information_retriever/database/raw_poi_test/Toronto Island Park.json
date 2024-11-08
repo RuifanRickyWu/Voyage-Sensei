@@ -1,0 +1,393 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Island Park",
+    "url": "/Attraction_Review-g155019-d185115-Reviews-Toronto_Island_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "9 Queens Quay West Bay Street, Jack Layton Ferry Terminal",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 2H3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 8597
+    },
+    "openingHours": "Mo-Su 10:00-17:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/21/23/3b/the-cn-tower-standing.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Islands",
+    "Parks"
+  ],
+  "description": "This park in Toronto is a haven for travelers looking to spend a fun-filled day in the great outdoors. Rent a bike at Centre Island Pier—which has fantastic views of Lake Ontario—and explore the park's many trails and paths. You can also have a picnic at Olympic Island while admiring the stunning views of the Toronto skyline. The kids will love the Centreville Amusement Park and petting zoo, too. In the evening, head to Hanlan’s Point Beach to catch one of the best sunsets in Toronto. The park can be explored on a bike tour of Toronto, which often includes other sights along the city's waterfront. – Tripadvisor",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Toronto Islands",
+      "text": [
+        "It's a lovely island, close to downtown Toronto.",
+        "You take and ferry,its a small ride. Beautiful island to spend a sunny weekend."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "A Perfect Day Out at the Toronto Islands",
+      "text": [
+        "Just a short ferry ride from the Toronto waterfront, the islands provide a fantastic way to see the city from a different perspective. They’re perfect for leisurely walks, picnics, and soaking up the outdoors, with plenty of spots to grab a bite or go for a swim during the summer months.",
+        "We hopped off at Centre Island and enjoyed a scenic 3km walk over to Wards Island, where we caught the ferry back. The journey was peaceful and relaxing, with lots of beautiful views along the way. At around $9 per person for a return trip, it’s an affordable and enjoyable way to spend a day outside the city hustle. Highly recommend!”"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Nice park with great views of Toronto",
+      "text": [
+        "This park has amazing views of both Toronto and Lake Ontario. I visited in the morning, and it was very quiet and peaceful. You could certainly spend a whole day here, but I walked to the pier and back to the ferry dock, taking about 45 minutes total. While it's bucolic, the beach and gardens could use a bit more upkeep."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Peaceful Escape at Toronto Island Park",
+      "text": [
+        "Toronto Island Park is a beautiful and peaceful escape from the busy city. It offers amazing views of the Toronto skyline, clean beaches, and plenty of space for picnics and outdoor activities!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Nice places",
+      "text": [
+        "We came in spring. The weather was fresh. You can easily reach there by ferry. However, you should know that it is crowded. I enjoyed being here. It was beautiful."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "QUIET day out",
+      "text": [
+        "A great way to spend the day away from the hustle and bustle of downtown Toronto. Hired a two seater bike and also had a stroll around. Unfortunately Centreville was closed but saw the small animal farm before returning back to main city. Great day out"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Great Atmosphere.",
+      "text": [
+        "Very beautiful park ,very clean ,great amazing atmosphere to relax,its a nice place to spend the day.lots of things you can do."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Sail to Centre Island Just to Capture Toronto’s Skyline",
+      "text": [
+        "The ferry from Toronto Harbourfront to Centre Island is affordable and only takes a few minutes—do it! While Centre Island itself is stunning and worth hours or days of exploration, even a quick trip to capture the Toronto skyline will give you the best photos. The shots from within the city don’t compare.",
+        "Catch the ferry at 3 PM and return by 4:20 PM. That’s plenty of time to find the two viewpoints, both within a 10-minute walk from the Centre Island ferry dock. Search for the exact locations online."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "A relaxing and beautiful escape at Toronto Island",
+      "text": [
+        "Toronto Island Park was an amazing getaway! The lush greenery and peaceful atmosphere made for such a relaxing day. We even took a small dip in the lake, which was refreshing and added to the experience. The weather was perfect, making it even more enjoyable to explore the island.",
+        "We took a water taxi to the island, which was quick and convenient, and then returned by ferry, adding a fun touch to the whole adventure. Overall, it was a wonderful experience, and I highly recommend it for anyone looking to unwind in nature."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Nice",
+      "text": [
+        "We visited Toronto Park in summer. The weather was good and perfect for strolling. We didnt know there was a free ferry so we took water taxi going to the park. I recommend riding water taxi going to the island since the ferry would take around 40 minutes and is a bit crowded."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "A must to visit the islands",
+      "text": [
+        "We loved our trip to Toronto islands. We took the ferry over to Centre Island from where we were able to hire bikes and explore the various islands. Our favourite was Ward’s Island with a lakeside boardwalk, network of pathways, variety of residential properties and wonderful views of the Toronto skyline. It was so peaceful and relaxing to be out of the city with just a 15 minute ferry ride."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Nice little walk",
+      "text": [
+        "Lovely little place to visit but I imagine it's really busy in the summer. We visited in April 2024 and it was quiet and most food outlets etc were closed but it's a nice walk with scenic views so worth it. Would be good for kids if you want to entertain them for a few hours in easy reach of the city. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Couples"
+    },
+    {
+      "title": "Toronto Islands, Toronto, Canada",
+      "text": [
+        "It's a good escape for those who are bored of city life. I've been there twice, both in the daytime and at night. You should rent a bike and take a tour of the island. There are also some spots where visitors can snap the city view."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Quiet in April",
+      "text": [
+        "I went mid April so very little open but the walks and views are worth the ferry over. Ferry price is for a return and lovely to see the vastness of the lake from the other side of Centre island. Numerous viewing points of the Toronto skyline."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "Huge Park with plenty to see and do.",
+      "text": [
+        "Visited 27/05/2023.",
+        "Loved visiting this Park. Absolutely huge, and so much to do. Surprises around every corner as we were not expecting the fairground rides, and mini farm. Came across a beach style area which was filled with sunbathers, and plenty of space to spread out and not feel crowded, even on busy days. We didn't go on them, but was nice to see you could hire bikes and quadricycles to see the whole island. They also have frisbee gold set up around the Park, and lots of gazebos and picnics benches, water fountains, and places for snacks, food and drinks. ",
+        "You also get amazing views of Toronto Skyline as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "A beautiful island that needs a lot to patience to get there",
+      "text": [
+        "It was a bright and sunny day and a perfect day to check off Toronto Island off my list ",
+        "It’s a beautiful place with lush green patches that are well maintained ",
+        "One can laze around on the benches and grass or go to the nude beach ",
+        "Cycling and carts are made available by paying for them as it’s a huge huge island ",
+        "We choose the paid cart that updates you about the scenic views and history ",
+        "But beware it’s super over crowded and the wait for the ferry to reach the island from the town is tiring and so long"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Visited in February, place was deserted and wonderful",
+      "text": [
+        "Visited in February and it did not disappoint. ",
+        "The island was virtually deserted. So peaceful and picturesque. ",
+        "Lovely place to walk around and unwind / relax. ",
+        "Looking back across the lake to the main land gave a great contrast between the two places. ",
+        "Happy to have gone whilst it was quiet."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "Went off-season. Be aware of a few things",
+      "text": [
+        "The islands are BEAUTIFUL make no mistake.",
+        "The islands are also VAST and we walked the whole length of them all and back.",
+        "Our feet were in agony at the end so I highly suggest using a bike if you want to explore all the islands.",
+        "We went off-season in the winter and although it was great for pictures as not many tourist, there was an eeriness to certain areas, especially the theme park which is just abandoned.",
+        "BE AWARE: There are only a few washrooms open and no food stalls. Plan accordingly!",
+        "We got some great pictures and found the LGBTQIA+ Beach on the islands where clothes are optional.",
+        "Great to do to if you’re park of the community. ",
+        "Wish I could visit in the summer when it’s bustling but I had a lot of fun visiting in the winter, seemed quite romantic."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Couples"
+    },
+    {
+      "title": "Best by bicycle",
+      "text": [
+        "It is possible to walk the full length of the Islands, however, a bicycle is highly recommended for getting around more quickly. This enables one to explore the 3 main islands: Ward Island with its quaint and picturesque residences, Centre Island which is the entertainment hub and Hanlon Island, known for being natural. One can also bike across the connecting bridges to some of the smaller islands. There is something for everyone - stunning iconic views of the Toronto skyline, beaches, Centreville Amusement Park, boating, picnic areas, historic lighthouse, to name a few. Also cafes and restaurants, toilets and bike rental. We rented our bikes on the mainland and took them across on the ferry. This allowed us to explore further once we returned to the mainland, before handing our bikes back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Day on the island's",
+      "text": [
+        "Spent the day on Centre Island while visiting Toronto on a city break. First off, we took a water taxi there and back, very reasonable price and quicker than the ferry - although the ferry is a cheaper option. ",
+        "The Islands provide a great view of the Toronto skyline, and that is where many people take their obligatory picture of the CN Tower & Rogers Centre. ",
+        "The weather was great the day we visited and the beach area was really nice and clean. There is a small amusement park, which is aimed at younger kids, who all seemed to be having a great time. ",
+        "Was really nice to just around the island and there are a few options for food as well. If you are in Toronto it is well worth a visit. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "This one isn't worth it",
+      "text": [
+        "I don't think coming here is worth it at all. The ferry is a nightmare, having to wait up until the last minute until the floodgates open and everyone tries to get by pushing people around. I even witnessed a couple of shouting matches. Once you get there, it really is no different from any other park, besides the spectacular view of downtown Toronto. It is also extremely crowded, even on a weekday. If you must go here, take the water taxi."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "It's the place for summer fun.",
+      "text": [
+        "The views of the Toronto skyline from the ferry-boat are out of this world.; the skyscrapers and the CN Tower.  ",
+        "On the island,  there's a family friendly theme park, Centreville.  There's also Far Enough Farm, which is essentially a petting zoo.  ",
+        "At the south side of the island are beaches.  The water is very clear, and I've seen people swimming.  Also, people soak up the sun on the beaches.  The beach bar is a good place to enjoy some refreshments and to people-watch."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "A great place to visit, especially with bikes",
+      "text": [
+        "We visited the islands on a sunny Monday afternoon with bicycles and road around all areas (only the boardwalk along the south side is restricted) but all other areas of the island are accessible by bicycle. A wonderful location to get away from the downtown vibe, for some relaxation, quiet, nature and, especially, marvellous views of the city. The Riviera Runaway Café on Ward’s Island is a nice stop for a refreshing drink (like blue lemonade). You’ll need a few hours to take in the different areas of the islands. There are also some nice beaches to spend some time and plenty of places to stop for a picnic and rest under a tree."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Lots of waiting for ferry",
+      "text": [
+        "Horrible!! No ferries working!! Had to wait almost 2 hrs waiting for ONE working ferry to get back to mainland.  Make room for lots of time to wait for ferry to take you back and forth.  Island was OK."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "*Warning do not go ⛔️ *.   I survived the ferry queue",
+      "text": [
+        "10years ago, Toronto Island use to be a pretty place where you can go with your family and friends at any day of the week.",
+        "Unfortunately, It has been declining horribly in many aspects. ",
+        "Stay away from this place if you value decency and fun times with your family, due to:",
+        "1) too many uneducated visitors, that usually run over you with their carts, push an hit others while queuing to take the ferry, sadly, most of them imported from other countries. ",
+        "2) change rooms at the beach are dirty, it looks like have been taking over by savages. Poop and toilet paper all over the place. ",
+        "3) by the numbers, it feels like you are visiting an island in South Asia. This is not a multicultural place anymore, it became a one culture, dominated by individuals with primitive behavior and low hygiene standards ."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "A good day out !",
+      "text": [
+        "We spent a day on the Islands, hired bikes on the mainland first and took them over on the ferry with no problem. You can hire bikes on the islands at a reasonable price but it is a bit of a walk to the bike hire place. The block our hotel was on (Radisson blu) had a bike hire shop so we got them from there.",
+        "We started off on Center island and headed to the pier, there is a nice beach there which got very busy,  but it's worth going up the shoreline a bit as there are plenty of quiet spots, as well as the Naturalists beach ! Plenty of places all around for picnics. We visited the small animal farm and had a good look round the village which was interesting.  We took our own food and drinks, just bought ice creams which were on a par price wise with everywhere else.",
+        "Ferries run frequently all day and are cheap imo. Stay as long as you like jus don't miss the last ferry. A good day out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Beautiful Park and Views",
+      "text": [
+        "Beautiful and clean park. Nothing much to do on islands. Ferries leave every 40 minutes. The Toronto Skyline is very well seen from Olympic Island. Enjoy the view."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Not much going on",
+      "text": [
+        "I came with my teenage daughter as part of our University of Toronto tour. We decided to spend the morning exploring the island, so took the ferry over. We were pretty underwhelmed. It's a big green park, but not a whole lot going on. When you get off the ferry at center Island, you're met with a decrepit Subway sandwich shop and not much else. This could be really fun if they added some more attractions, better food outlets, a really nice Cafe, maybe a really cool ice cream shop, but there's none of that here. At least not within a 5 to 10 minute walk from the center Island ferry terminal.  Perhaps one of the other two ferry stops is more lively, I don't know, but definitely would give center Island a miss.  ",
+        "Too bad.  It has tons of potential as a fabulous summer hangout!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Toronto Island Park",
+      "text": [
+        "Toronto Island Park is a lovely little place to visit but I imagine it's really busy in the summer. We visited in March 2024 and it was quiet and most food outlets etc. it's a nice walk with scenic views so worth it. Would be good for kids if you want to entertain them for a few hours."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Toronto's second best attraction (After CN Tower)",
+      "text": [
+        "Wonderful place to relax and chill away from the hassle of downtown Toronto. Great ferry system, we travelled by a private water taxi outward journey, about $12 each but used the free public ferry for the return. Amazing views of the city skyline, lovely walks and trails, plenty to see, no traffic and no pedestrian crossings !!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "A Must See and Do",
+      "text": [
+        "The Toronto Islands are a must while visiting Toronto. It just a short ferry ride ($9 round trip) from the harbor front on Bay Street and runs every 20 minutes. There’s an amusement park on Centre Island along with a small petting zoo.  Also there are lots of nature trails in which you can bike or walk. You can even bring your own bicycles on the ferry or rent one on the island."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Well worth a visit if you are in Toronto for a few days.",
+      "text": [
+        "We loved the time spent on the Island - so much to see and some really nice beaches. We hired bikes and rode around the islands for 2 hours ($10 an hour per bike) - perfect way to see everything. We caught a water taxi over ($27 for two adults) and got the free ferry back. Would definitely NOT recommend the ferry unless you’re prepared to wait an hour and be amongst the crowds. We definitely wish we had caught the taxi back - it would have been well worth the money!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Terrible ferry service / unsafe crowd control during the wait",
+      "text": [
+        "Pay the extra for the water taxi. ",
+        "The ferry service is terribly organized. When you’re heading to the island, people pile up at the gate because there are no organized queues. People were pushing through in order to get to the front instead of lining up in an orderly way because there are no ropes and stanchions organizing lines. When we were there, a woman had a medical emergency near the front of the line and people just tried to push their way to the front even more instead of allowing room for staff to help her.  ",
+        "People in crowds become impatient and rude and unfortunately I don’t see people getting better in such situations.  However, these situations could be controlled by having organized lines. Otherwise, waiting for the ferry will continue to be an unsafe, slightly chaotic situation."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Terrible",
+      "text": [
+        "Ferry service is a joke.  Waited over an hour in the sun. Ferry  arrived and then didn’t board people.  Complete chaos.",
+        "Don’t waste your time; there are better things to do."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "So much to see and do",
+      "text": [
+        "Alright the islands have different things for different people but to get to the other ones often involves a lot of walking.",
+        "For the price you pay the Subway and Pizza are better options - however there are several cafes/restaurants spread out over the island Im not a fan of them as their quality has degraded quite a lot.  However the restaurant by the Centre Island docks has an amazing patio with great views especially at sunset.  For kids Centreville and Far Enough Farm will obviously be their attractions of choice.  The Farm and the splashpad in Centreville are free but nothing else is.  The beaches are lovely with the food trucks and kind of restaurant near by easy spot to just hangout.   The bike rental place by it is pretty reasonable although I wish I could ride in one of the fancier carriage ones. ",
+        "Now my favourite part of the islands is the hedge maze.  Based on the original maze which was donated by the Dutch and part of the legends of Toronto like the bells in the garden at Casa Loma.  The business man WIlliam Meany donated to have it rebuilt with pretty much the exact same layout.",
+        "It has only one entrance and one exit so its like a rest break for parents.  However for couples there is a challenge to go seperate ways in the maze and meet in the middle.  There are 2 ways to solve the maze. so with 2 ways to go its like there are 4 ways to solve the maze.  The middle is just a fun extra to find.  In the back corners of the maze there are birds nesting so dont hit or brush the hedges or they will attack."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Prepare for long waiting lines.",
+      "text": [
+        "Beautiful island but very very crowded.The waiting time for ferry to come back to Toronto is so long even it was very late at night.They were waiting for more people to come to the island and then they pick the hundreds of people waiting in line.It was so humid,Dark and kids were crying,And people pushing each other to get on the ferry after waiting for so long.There was no light and lots of insects and mosquitoes make’s people uncomfortable.Not a good experience."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Need a break from the city life then escape to the island.",
+      "text": [
+        "What a fun day out for the family. Starting with a pleasant and reasonably price ferry trip across to the island it’s a perfect place for a picnic. With beaches galore, theme park rides and park like grounds it’s a good half/day out. ",
+        "We hired a two person bike to cycle around the beautiful island."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Nice island, bad transfer",
+      "text": [
+        "Nice island but we had to wait nearly one hour in line to get back because they don’t send enough ferries to pick people up. Best solution is taking a water taxi for $13 per person"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Best part of Toronto... by far... and just a very short (but crowded) ferry ride away",
+      "text": [
+        "The islands are the best part of Toronto. By far! You feel like you're way out in the country and it's just a very short (but crowded) ferry ride from downtown. Definitely rent a bike in the city and bring it onto the ferry... otherwise you'll have to walk a mile (or several kilometers) to get to the rental shop on one of the islands. Excellent views of the skyline from many locations. A really charming place to spend your time in the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Not worth it if Centreville is closed",
+      "text": [
+        "My boyfriend and I decided to come here on our trip to Toronto because I remember it being such a fun experience when I was younger. While the Island is beautiful and has lots of scenic views, during the off-season there isn't a whole lot to do unless you bring a picnic or a sports ball with you on the ferry. A lot of the restaurants ended up being closed and the island was pretty dead.",
+        "I loved Centreville as a kid and honestly remember having so much fun in the park. I was disappointed that Centreville wasn't open during our trip."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2024 • Couples"
+    }
+  ]
+}

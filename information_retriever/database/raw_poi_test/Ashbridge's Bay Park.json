@@ -1,0 +1,360 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Ashbridge's Bay Park",
+    "url": "/Attraction_Review-g155019-d184776-Reviews-Ashbridge_s_Bay_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1561 Lake Shore Blvd. E.",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4L 3W6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 50
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/af/8d/00/ashbridge-s-bay-park.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Parks"
+  ],
+  "description": "With its beaches and boardwalk, this park is perfect in the summer for a waterside retreat.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "THE BEST",
+      "text": [
+        "The best in town to go for a stroll, walk your dog, excercise, swim! Can get crowdy on the weekends during summer, so make sure you arrive early!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "A good escape from the city",
+      "text": [
+        "I’ve lived in Toronto for a few years now and just went to Ashbridge for the first time recently. It really is a great recreational area with many amenities including volleyball, walking and cycling paths, showers, etc. As well, it is a blue flag beach which means that it’s safe to swim at for those interested in cooling off during the summer. A really great place for an outing with family and friends. "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "A beautiful ride in the Beaches",
+      "text": [
+        "Right beside Woodbine Park and connected to a endless array of bike paths, Ashbridge’s Bay Park is a treat. ",
+        "With great views of tall buildings downtown and endless lake, this park, local for me has become one of my favourites. ",
+        "Picnic perfect with nice weather. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "A bit crowded but what can you expect in the city",
+      "text": [
+        "Ashbridges is a lovely beach and park.  Lots to see and do with kids and family.  When we want some sun and sand but can’t get out of  tHe city - we always have a great time at Ashbridges.  Year round a great spot to take a walk, etc."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "Great walk on the path",
+      "text": [
+        "We had a great time walking on the paths of this nice park. There are lots of yahts in the area also."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Needs help (from the city)",
+      "text": [
+        "Any waterfront park has a natural advantage, but there's a difference between good and great. This area has incredible potential. Unfortunately, the City of Toronto has no vision for this area and it drifts along. If they but could find the bandwidth to make some investments in some great landscaping, extend the boardwalk in both directions and rip down that idiotic mini stadium, it'd be a good start. Unfortunately, it'll be 20 years before they wake up and have a look at the best open and FREE recreational area in Toronto. Honestly, at times in the summer, it's nicer than Maui. But yet, they seem to think it's the Burlington roller rink."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2018 • Friends"
+    },
+    {
+      "title": "Beautiful urban park",
+      "text": [
+        "Lot's of greenery, paved trails, sailing marinas, and beautiful views of the Toronto skyline. Playgrounds, parking for a moderate fee. Only downside is that most of the park is quite a way from the parking lot so if you're planning a pic-nic you need to carry your stuff quite a way. Fireworks displays take place here on summer long weekends. Right next to Woodbine beach and a 100+ beach volleyball courts most of which are available to the general public (for a fee I imagine)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Family"
+    },
+    {
+      "title": "I will always find a beach",
+      "text": [
+        "This park and Woodbine  Beach sit on Lake Ontario and are a quick trip from downtown water front (once you get out of traffic) if you want to be able to lay out and get into the water. A few eateries located there so you can easily have lunch and make a day of it. Great for kids to burn off some steam and life guards are on duty. The beauty of this is you get sand between your toes with out going too far. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2017 • Solo"
+    },
+    {
+      "title": "A Great Place to Walk Your Dog",
+      "text": [
+        "We stopped by this beach a week or so ago and enjoyed walking through the trails and through some water near the volleyball courts. It's a good place that has lots of parking nearby and even has a couple of ice cream wagons hanging around. We were mainly interested in taking our dog Charm for a walk and it suited fine, but required that she be leashed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Excellent beach and park.",
+      "text": [
+        "This place has everything. Parking is a little difficult because it is a very popular destination especially during summer.   Activities include walking, jogging, biking, rollerblading,swimming and beach volleyball.   There are tennis courts and a diving pool.  Everything is free.  There is also a playground for kids and a dog park.   It is a great place to visit on a nice sunny day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Family"
+    },
+    {
+      "title": "Still the beaches but getting better",
+      "text": [
+        "The famous boardwalk, the fire works, the nice ice cream place, a nice walk by the marina, a good play to relax after a long day of work. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2012 • Solo"
+    },
+    {
+      "title": "Relexing outdoor",
+      "text": [
+        "I went there with friends to see the Victoria day fire works... very good place to rex enjoy the water and sand. ",
+        "The view of the fire works were great and enjoyable."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2012 • Friends"
+    },
+    {
+      "title": "One TTC ticket will get you \"To the beach\"",
+      "text": [
+        "I spend many hours walking this park, which is connected to the Woodbine Beach Park ,One can take the Queen East Streetcar, and you could transfer to a bus that will take you to the Coxwell part of the beach, or take the Eastbound Bloor and Danforth Subway to the Woodbine stop and take the Woodbine South Bus, stay on this bus, until it makes a turn on the Lakeshore and you are seconds away from the beach, I walk friend's dog's there, fantastic boardwalk,  for me the best time is early am as this is a great place to watch a sunrise, part of the Woodbine Beach Park to the West you will find a stretch of park which was created by landfill, now a beautifully landscaped, not too landscaped to destroy its natural beauty, one walks along the shore of Lake Ontario, and can see the downtown skyscrapers in the distance, I have taken many fantastic pictures there"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2013 • Friends"
+    },
+    {
+      "title": "Ashbridge's Bay Park",
+      "text": [
+        "A great place to get away fromt the noise of the city. Take a picnic, play ball or frisbie. Enjoy our waterfront with the family or by yourself."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2012 • Family"
+    },
+    {
+      "title": "Beach with pool",
+      "text": [
+        "Easily the most frequented beach in TO, complete with an olympic pool and 10 metee platform diving.  Also lots of volleball nets.   Great place to see people."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2012"
+    },
+    {
+      "title": "Beautiful Park",
+      "text": [
+        "Like all parks in Toronto, the best time to go is in the spring and summer. Althogh if you have a dog, it is a great place to go and let him run.  Nice to go for a walk and see some pretty gardens and views."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2012 • Friends"
+    },
+    {
+      "title": "love the view and the dogs running about",
+      "text": [
+        "a lovely place to chill out near the downtown core..take your bike or stroll...u will not be disapointed"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2012 • Solo"
+    },
+    {
+      "title": "always a great place to visit",
+      "text": [
+        "This part of Lake Ontario and waterfront is always a great place to visit.",
+        "Most of the time a place to park can be found, there is a well maintained boardwalk and paths for bicycles, skateboards and inline skating. Pet friendly (leashed) and public washrooms - what more can anyone ask for so close to downtown toronto"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2012 • Couples"
+    },
+    {
+      "title": "This is a great way to see the city from Lake Ontario and it also has bike paths and nature paths for hikers.",
+      "text": [
+        "This is a excellent way to see the city along bike paths and nature paths to see the city and enjoy the nature around it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2012"
+    },
+    {
+      "title": "Relaxing walk around the bay",
+      "text": [
+        "Love walking leisurely around the bay part as well as the boardwalk.  On hols and weekends it's quite crowded, so it's a little less relaxing, but just nice to be there and get away from the pace of the city. Also a plus is the air, which is definitely fresher and feels cleaner than the city air."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2012"
+    },
+    {
+      "title": "Fun, busy beach.",
+      "text": [
+        "Ashbridge''s is a great beach if you are looking for a bit of a party.  It can get quite crowded and dirty (people don't always pick up after themselves here).  Not the greatest for families.  If you are looking for a beach party - this is the spot. Otherwise head east along the boardwalk for the more tame, family friendly spots.  Bring your own food as it is quite expensive at the restaurant or the Pizza Pizza vendors.  If you are driving be sure to either park in the Green P lots just west of the beach (however these fill up quickly) or just North of the Park by the Beaches theatre (just south of Queen Street).  DO NOT park in the lots right at the entrance to the beach (near the restaurant as it costs $20 while there are much cheaper options right around the area."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2014 • Friends"
+    },
+    {
+      "title": "Very nice park",
+      "text": [
+        "Huge beach but the water was bone chilling cold - in July.",
+        "The beach is very large (lots of volleyball courts) and the board was is great.  Lots of grassy arreas to set up a picknic / bbq.  Public washrooms are OK.  ",
+        "Take a volleyball net with  you."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2014 • Family"
+    },
+    {
+      "title": "Nice Beach Park",
+      "text": [
+        "This is the place to come to in TO for picnicking, dog walking, swimming and/or to use the board walk for walking purposes. It is a fair size pair beach  park to do things but is extremely busy on weekends plus holidays. My only complaint about this place is that one has to pay for parking!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2014 • Solo"
+    },
+    {
+      "title": "Beautiful Jewel of Toronto",
+      "text": [
+        "We stopped here for a walk and a picnic. It is a beautiful spot with great boardwalk and walking trails. Nice beaches and views of the water. Public bathrooms are available and clean. It was a very nice day and a great place to go for a walk."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2014 • Friends"
+    },
+    {
+      "title": "Can't beat this area on a nice day",
+      "text": [
+        "When the sun is out, the water sparkles and this area of the beach is just lovely. Easy to get to - you can take the Queen Street car to Coxwell, or take the 2 subway to Coxwell and take the bus down to Queen Street.",
+        "A great place for a picnic and watching the May Long weekend fireworks, we love this little park."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2014 • Couples"
+    },
+    {
+      "title": "Trees, Birds, Water and great Photo opportunities",
+      "text": [
+        "Most people visiting Toronto won't get to Ashbridges Bay Park.  It's a park in the east end of Toronto that affords the opportunity of walking by the lake and being able to see the city from a distance.  It's a good walk no matter what the season.  If you take a picnic with you there are lots of picnic benches to sit at and some are right next to the water. To get there you'd take the Queen Street car east to the Coxwell stop and then walk south to the entrance of the park.  You have to cross Lakeshore Road.  It's about a 10 minute walk from the streetcar stop.  There is a public  washroom there and a very wide beach.  In the summer Ashbridges Beach i where the volleyball competitions take place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2014 • Solo"
+    },
+    {
+      "title": "Hot sand, frrrreezing waters and a closed (!) community centre pool :(",
+      "text": [
+        "My fiance and I have traveled to this beach and park in July, 2013 and it has been a tan-only day for us. All of the beach volleyball courts were taken and the people were not willing to share. The community center that is a walk away from the beach with a swimming pool was closed for the summer-which was a big let down for us as we didn't see that information anywhere online. People were actually standing outside the doors and bickering about how absurd this is. The trip was a waste of time and body fluids really...Really nice nature around the beach and in the park, though. You can enjoy live music (some of which may be ethnic) performances on your walk from the parking lot to the beach/park."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2013 • Couples"
+    },
+    {
+      "title": "A treasure in the city",
+      "text": [
+        "Coming from London I couldnt imagine a beach so near to a city and a sandy beach on a lake!! but what a little treasure it was, we parked easily, right on the beach and near the toilet and changing block, and the parking was free!!  The beach is very wide so lots of space, it was clean and well looked after.  We went for a few hours before we flew home after travelling back from Niagara Falls."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2013 • Friends"
+    },
+    {
+      "title": "Ugh",
+      "text": [
+        "What a shame that this beach has the worst lake bottom I've ever been on.  Rocks that dig into your feet so you cannot ever stand in it.  It's cold, but that's to be expected.  There is not enough parking - we drove around probably 45 minutes or so trying to find a place.  Ended up at the far end of the park and walking quite a distance to get to the beach area.  Not much in the way of food or rest rooms.  The safety though, was quite good, with lifeguards actually watching carefully.  Beach was clean enough.  Could be soooo much nicer."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2013 • Family"
+    },
+    {
+      "title": "great for a visitor with a bit of time",
+      "text": [
+        "a nice green space with plenty of parking($), you can walk or bike for miles.If you go further east to the Beaches its getting harder to park."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2012 • Couples"
+    },
+    {
+      "title": "Unique in North America, Toronto's Great Natural Feature",
+      "text": [
+        "OK what do you want to do? Kite surf, swim, boat, playground, dive, bike, play volleyball, jog, hike, kite fly, sunbathe, dine, the list goes on. 24x7x365 days there is a unique north America feature. A natural non developed commercially non wilderness, beach and park adjacent to residential - minutes from the city center. No where else will you find this that I am aware of in North America. And the Beach Villiage is a block away. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Business"
+    },
+    {
+      "title": "Lots to do and see",
+      "text": [
+        "There is no bad month to visit the beach. The sunsets are awesome, the cloud formations provocative, the sand is layable, the grounds are very clean. You can swim in the free city pools, rollerblade, windsurf, fly a kite, sail a boat, have a picnic, ride your bike, toss a Frisbee and of course walk your dog. The restaurant I do not recommend and you have to pay to park, be careful, read the signs, some spots are tricky."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2015 • Friends"
+    },
+    {
+      "title": "Fun year round.",
+      "text": [
+        "Wonderful place in the city. A place to swim, paddle, run and walk year round. It get super busy during summer months on weekends which is a minus."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2016 • Solo"
+    },
+    {
+      "title": "Sandy beach",
+      "text": [
+        "Lots of sand close to the water...we play volleyball for free in the summer..great spot for a walk or hanging out"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "Full Day Trip",
+      "text": [
+        "We have spent a full day in this Park as one of the good places where you can enjoy a nice scenery with a beautiful and sandy beach on the eastside while the yacht club on the west",
+        "Also for young people they can play volleyball as there are plenty of courts",
+        "As we brought our own snacks/drinks but unfortunately there were short of benches to keep your stuff so we had to eat on the grass. Another obstacle was you had to pay for parking if you keep your car next to the entrance which was costly"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "Wonderful parks of Toronto",
+      "text": [
+        "This park is neighbouring the Woodbine beach to east side. West of the park is engaged by a yacht club which provides a nice scenery combining with Toronto skyline. There are shared bicycle paths in it. It is quiet and wonderful for a stroll or to ride a bike on its trails."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Couples"
+    },
+    {
+      "title": "If you love playing beach voleyball - this is the place for you!",
+      "text": [
+        "Our 15 yrs old son played an OVA beach tournament at the Ashbrodge's Bay park last weekend. However, anyone can rent a court (they are plenty) and play voleyball as long as you have a partner and an oponent team !!",
+        "Tthere is also a beautiful, wide, sandy beach adiacent to the park (Woodbine beach) so if you are not into voleyball you could just come for the beach part :-) The water was freezing cold though - so just be aware of that. ",
+        "There is a Tom Hortons 8 minutes driving from the park/beach. Keep in mind that you most likely will loose your parking spot (the place gets very crowded). Next time: I will pack food/drinks and snack so we don't have to do the run to Timmy's. ",
+        "Enjoy a day at the beach without travelling too far!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "Great place for A day trip.",
+      "text": [
+        "Ashbridges Bay  Park is a   great place to take the family for a day picnic or just a few hours on the beach. Pleanty of volley ball courts and a great beach. there are a few place to get some food but not to many. The west end of the beach is more for young people partying but the east end is great for families."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2015 • Friends"
+    },
+    {
+      "title": "Great place for an outing with the family.",
+      "text": [
+        "Went with the family and friends on 17 of May.  The beach had just opened up after winter.  It was nice. You can go for walks, swim (it was a bit cold when we went), take your pet (dog park available too), small eateries too.. Its not far - 30 kms from Mississauga. A lot of beach volleyball was in progress.  We visited this place, after living here for 3 years. Its nice.  I think it would be great during summer. Advisable to go early to get a great spot and of course parking too. "
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fireworks at there best",
+      "text": [
+        "Ashbridge's Bay is at the east side of Toronto down by the lake with a huge beach.  On most days in the summer you will see 80 beach volley balls courts set up.  On Victoria Day and this happened last night they lit off 10.5 minutes of fireworks.  The newspapers reported it as 14 minutes but that wasn't true.  there aren't many firework displays any more in the city.  These are pretty good!  "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

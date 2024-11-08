@@ -1,0 +1,405 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Escape Manor",
+    "url": "/Attraction_Review-g155019-d15158518-Reviews-Escape_Manor-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "383 King Street West",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 1K1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 47
+    },
+    "openingHours": [
+      "Mo-Fr 16:00-23:00",
+      "Sa 11:00-23:00",
+      "Su 11:00-22:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/d5/87/69/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Escape Games",
+    "Game & Entertainment Centers"
+  ],
+  "description": "'Axes, Escapes, Immersive Entertainment & Licensed Games Lounge! Escape Manor is Toronto's hottest new experience for a day or night out, team building, chilling with friends or family bonding. An official TIFF Hospitality partner, Escape Manor is equipped for parties of 2 or 200. State of the art sound system and multi-level licensed entertainment make it the ultimate place to celebrate or team",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Axe throwing",
+      "text": [
+        "It was my first time trying axe throwing and I really enjoyed it. I discovered myself a hidden talent 😂",
+        "Great vibe and I recommend it with friends"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Most fun I've had with an axe",
+      "text": [
+        "Great time- we went for axe throwing (a new experience for me), and our coach Hayley was fantastic. She made it far more fun than I ever thought it could be. Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Friends"
+    },
+    {
+      "title": "Expensive. Great design and fun puzzles.",
+      "text": [
+        "We have done over 65 escape rooms in several countries. The rooms here are very well made and fun with interesting puzzles. Would recommend for something to do with family that is a lot more fun than going to the movies! Only downside is that it is very expensive when bringing a family. The pricing for escape rooms has gone through the roof and it isn’t very logical. If anything, it cost them less to have more people in the room because they complete it faster, and therefore have more time to reset for the next group."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "9 out of 10 will probably go back, it's amazing!!!",
+      "text": [
+        "Amazing Place & Staff!!!!, the rooms are really well crafted, the place is big! and it has a huge variety of rooms plus the WHOLE staff's attitude was really nice, from the girl at reception, to the waiters and the staff that welcomed you to your room!",
+        "Worth going at least once honestly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022 • Couples"
+    },
+    {
+      "title": "Will go again",
+      "text": [
+        "The concept of the room was really good.",
+        "We went with Cabin 13.",
+        "I feel the puzzles/difficulty were very fair and challenging.",
+        "Exactly what you'd expect in an escape room.",
+        "We spent the first 10 minutes trying to find a light in pitch black darkness.",
+        "Our lone youth of the group (11 year old) finally found it.",
+        "We lost an additional 10 minutes being told to continue looking where we already had for a key the lady who'd brought us into the room had forgotten in her pocket and had to throw into the room for us.",
+        "Other than that (really annoying), it was a great experience.",
+        "If not for the time lost I believe we'd have been very close to finishing.",
+        "I'll come practice throwing an axe before our next escape room."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2022 • Friends"
+    },
+    {
+      "title": "Great game play and decor",
+      "text": [
+        "Loveddd this escape room my family, boyfriend and I have played roughly 30 rooms between us we played two here (The Asylum and Devils Advocate) escaped both with 17/19 mins remaining. ",
+        "The game play was great, the story lines were great, all puzzles were understandable yet some still challenging. The decor and effort put into these rooms were wonderful too. ",
+        "All staff were lovely too. ",
+        "The only downside we were brought down to our games atleast 15 mins after our start time and devil’s advocate we were the first game of the day so we don’t understand why this kept happening? ",
+        "We would love to come back hopefully we get another chance to someday when we’re back in Canada!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Family"
+    },
+    {
+      "title": "Nick was outstanding and super creepy in Cabin 13!",
+      "text": [
+        "We attempted the escape room called Cabin 13 on Saturday, and while we were not able to escape, the overall experience of Escape Manor was fantastic!",
+        "We have been to many escape rooms and we found that the ambience of Escape Manor was by far the best we've ever had! Our game leader Nick always stayed in creepy character and really made the room for us. The room itself was hard enough but achieveable - we were just too scared to get it done! Next time we look forward to having the live actor in the room because it would have made the experience even scarier. ",
+        "Highly recommend this venue."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Amazing hidden gem!!",
+      "text": [
+        "Matthew the axe throwing floor manager was amazing. He felt like a friend having fun. The reservation process was simple, atmosphere was amazing and the staff was friendly and funny. 10/10 will be back!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Couples"
+    },
+    {
+      "title": "Best Birthday Escape!",
+      "text": [
+        "WOW! I had the most amazing 28th birthday here and they made us feel so safe despite it still being a restricted environment due to covid! I will definitely be back to try the axe throwing but I was nervous this time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "It was Our first time with the Escape Room Experience.  We really didn't know what to expect but it was really fun & interesting.  Our Host SCOTT was fantastic.  He stayed in character from beginning straight through until the end, no matter what we said to him.  Scott was very helpful with Hints when we got stuck, without giving anything away.  Cabin 13 was quite the challenge and definitely would recommend giving it a try.  Needless to say our group of 4 didn't survive but we will be back to try another room for sure!  Grateful to have experienced this and make memories with My Fam."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Family"
+    },
+    {
+      "title": "Escape Rooms",
+      "text": [
+        "My review is solely for the Escape room experience at Escape Manor. I was not impressed. My group and I have done over 100 escape rooms, and this experience ranks very low on our list. First, $29 for a 45 minute room is steep. There are so many other escape rooms in Toronto that offer a full 60 minutes for the same price, or even less. Also, the Ottawa Escape Manor rooms are $23. I didn't find anything special about the Toronto rooms, why the extra $6? Second, the whole experience just felt really rushed. I felt like I was in an escape room mill. Our host and game master kept yelling at us to hurry, and they delivered the room backstory to us all in one breath. I get that some of it was probably for effect, to get us hyped up for the room, but we received the same hurried treatment after the room. I am paying for the whole experience, not just the 45 minutes in the room. Third, the game masters we had need some coaching on how to give clues. We asked for a clue over the walkie talkie about one puzzle and when they asked us what combination we had, their response was, \"ok, wait a second, let me check my notes\"...and \"nope, you're wrong,\" and then we were promptly ignored. Of course we know we are wrong, that is why we are asking for a clue. I had to ask them to help us more, and they didn't seem to know how, they just kept asking us what other combinations we've tried. This was wasting a lot of time, and my team actually figured it out on our own without a clue. Now, the actual room itself was quite fun. It was well built, with cool props, and quite immersive. Some of the puzzles were a bit tricky, but all solvable. However, for the price and the lackluster experience with the staff, I don't recommend doing the escape rooms here. Plenty of other great places for escape rooms in Toronto."
+      ],
+      "rate": 2.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Wine cellar",
+      "text": [
+        "It’s a bit overpriced for the experience.",
+        "I feel like all escape rooms in Toronto are this exciting, the only difference is that they have a bar and a “vintage” sitting area."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2019 • Friends"
+    },
+    {
+      "title": "Much, much more than just escape rooms",
+      "text": [
+        "After booking an escape room for a group to celebrate our friend's birthday, the opportunity arose to have an additional friend join us as a surprise guest. The entire staff, and Bria in particular, went above and beyond to make the event memorable, from hiding our surprise guest and bringing her out at just the right time, to adding a special birthday touch to our escape room.",
+        "The bar/lounge area was an excellent place to hang out both before and after, with plenty of comfortable seating and board games to play while you wait. Our group did the Wine Cellar and had a great time. The puzzles were interesting and challenging, and the room well designed.",
+        "Escape Manor turned a small celebration into a truly memorable event. We will definitely be returning."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019"
+    },
+    {
+      "title": "management",
+      "text": [
+        "I had a good time with my friends and families at this place. our biggest concern was the management style. We witnessed many incidents that were just very unprofessional and not suitable for the workplace."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2019 • Family"
+    },
+    {
+      "title": "Great spot for team building!",
+      "text": [
+        "I took my team out to Escape Manor for a team builder to reward and recognize their hard word. We attempted the Wine Cellar which was challenging. Unfortunately we got stuck on one of the clues and was close to solving the second room but ran out of time. There are 3 rooms in total. My team was new to escape rooms - I have only done one previously at Casa Loma and another team member had little experience with escape rooms as well. This was the first experience for the other 3 members. This location also has axe throwing. The location is great and the set up looks great as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Business"
+    },
+    {
+      "title": "Pretty good experience",
+      "text": [
+        "Customer service was great, the people there are helpful and kind. I did the Asylum room with 7 other people. The room wasn’t decorated as elaborate as I expected. I was hoping for a better environment. Bar closed at midnight so couldn’t get any drinks after our experience. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2019 • Friends"
+    },
+    {
+      "title": "Great Ambience ",
+      "text": [
+        "We visited Escape Manor Toronto in late December and we were all thoroughly impressed. First off, the sheer size of this place was striking. I’ve never been in an escape room so spacious. ",
+        "On the first floor is the lounge. This is where you wait before you are called upon. It is also a bar with lots of little puzzles and games, a vintage arcade game (no charge), and other hidden secrets. I encourage you to explore and ask the staff some questions.",
+        "Upstairs is their axe-throwing bar. It looks cool. Like the escape rooms, it is bookable online via their website. It’s fully licensed. We didn’t do the axe-throwing. ",
+        "Downstairs are their escape rooms. We visited Death Row and the Wine Cellar. Both were awesome rooms. Neither were cramped, which happens sometimes at other establishments.",
+        "Death Row is tied into the City TV show Bad Blood. Declan Gardner is even a big part of the plot line, but you don’t need to know the show to immerse yourself into the room. The ending of this room (if you can get that far) is my favourite of all time, and I’ve done around 75 rooms. ",
+        "The Wine Cellar was our group’s consensus favourite. The stakes are just as high in this scenario with an added gruesome twist. My wife loved that she could actually bring her wine into the room (all rooms are licensed).  I felt they did a great job in non-linear puzzle design. ",
+        "Escape Manor pays attention to detail, and that is most evident in their staff. All our hosts were fantastic; the bar staff too; and managers Bria, Meghan, and Dave each took time to chat with me and make me feel welcome."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Family"
+    },
+    {
+      "title": "Great Location, Great Coach, Awesome Time!",
+      "text": [
+        "We were in Toronto for the weekend and wanted to do something fun! We found the Escape Manor that was located downtown. Having gone to the Escape Manor in Ottawa we wanted to try a room there. We learned that this location had Axe throwing!! We had an amazing time. The venue was great, the staff were super friendly our coach Spencer was hilarious and an amazing coach! This place is a must do if you are in Toronto. We will be back for sure! ",
+        "A+"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Great room for larger groups! ",
+      "text": [
+        "Unlike any other escape room this place was stunning. Gorgeous bar with couches and tables great place to hang out have a drink while you waiting for your game to start. They allow for the drinks to be taken into the room and can even order drinks during the game. Having done a few escape rooms, i like the concept of locking your belongings like purse, cell phone in a locker.  Opposed to just hanging your jacket up in an armoire. ",
+        " After a review of the rules and a quick introduction it’s then on to the game itself.  We did the Asylum room, which allows for 2 to 8 people. We were a bit skeptic, since the room accommodates 8 and there were only 2 of us. It was very difficult to complete within 45 min. The room was done well, good size to accommodate larger groups, the props and overall room was great. I was disappointed and hoped we had more time, for 2 people an hour and half would be ideal. We had asked if there was another booking after us in order to extend our time which would have been more satisfying. But unfortunately, we were not able to, even though the place was completely empty when we were leaving.  Great room for 4 or more players. Definately would not recommend if your group is less it's just not satisfying. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "great room, enthusiastic staff",
+      "text": [
+        "We arrived about half an hour before we were set to go into the escape room, just enough time for for a quick drink, a little banter and game of connect four. ",
+        "The person that led us into the room was a pro! set the mood and the scene perfectly. The room was challenging, but we should have made it out... just needed 30 seconds more.",
+        "The venue itself is really cozy, we stuck around after for another drink and a rematch of connect four. ",
+        "It was a really great night, I will definitely be back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Great rooms with awesome games master!!",
+      "text": [
+        "I’ve done several escape rooms and this is my favourite!! The games master is awesome to set up the room and feel! No cheap props or dollar store items!!! The rooms really immerse you in the environment, with great variety, did two rooms with a group of four and loved it! Asylum in the morning and had to go back and do another in the evening “devil’s advocate”. My favourite of the two was asylum but that’s cause it gives you that creep horror vibe more. Definitely a place to check out and even hangout after!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Corporate Team Building Event (50 people)",
+      "text": [
+        "We just completed a fabulous team event (50 people) at Escape Manor.",
+        "A few notes from our event:",
+        "- Our event consisted of each player taking part in an escape room and axe throwing ",
+        "- As Escape Manor currently does not provide catering, we brought our own food in (via platterz.ca). ",
+        "- The Escape Manor team was easy to work with to coordinate logistics of the event.",
+        "- We were provided a closed off section for our team. ",
+        "Everyone thoroughly enjoyed themselves. I would absolutely recommend to anyone looking for a fun team event in the GTA."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Business"
+    },
+    {
+      "title": "Awesome Night Out!",
+      "text": [
+        "What a cool place, friendly staff and an awesome atmosphere. We did the axe throwing and Matt was our instructor, he was amazing. We will definitely be back. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Great Time!!",
+      "text": [
+        "The escape room was great, and throwing axes was even more fun! We had never thrown axes before but Maria coached our whole family through it. We all had a great time (2 adults 2 teenage boys). Great setup. Great facility. Highly recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "nice place",
+      "text": [
+        "last week we went after work.for myself it was my first time axe throwing.  axe throwing seems dangerous, but way place is built and they coach how to handle axes, makes every thing looks easy without compromising safety.",
+        "we had great time. nice friendly staff. even food/snacks was very good."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Great fun!",
+      "text": [
+        "We were at the Escape Manor as part of a team building event from work.  Each one of us had a blast although none of us could get out of our rooms.  The place was so much fun, I would definately go back and am trying to plan a family event!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Business"
+    },
+    {
+      "title": "Excellent, High Quality Escape Room!",
+      "text": [
+        "Our family did the Asylum Room and we were very impressed.  We've done two other rooms in Toronto and this one is by far superior.  The props were of high quality and the clues were difficult but solvable.  We managed to escape with just under 3 minutes to spare.  The building itself is easy to find and very impressive as soon as you walk in the door.  Staff were amazing and very friendly.  Our host was great and his clue was helpful but he didn't give away too much information.  We will most definitely be back next time we're in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019"
+    },
+    {
+      "title": "Amazing escape room experience in downtown Toronto!",
+      "text": [
+        "We had a great time at Escape Manor.  Online booking was really easy; the staff were friendly and welcoming; and the bar/front area is really well set-up with drinks, puzzles and board games while you wait.  The production value on the rooms themselves is excellent - we were really impressed with the Wine Cellar room.  The room puzzles were challenging enough to make escaping in 45 minutes tough but not impossible.  Will definitely visit again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Walking into the escape manor immediately transports you to another world. The lobby/bar & lounge is beautiful and welcoming. The attention to detail in the room itself was amazing. The staff are wonderful. It was such a fun experience, We had a drink at the bar afterwards and would have stayed longer if is wasn't closing time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Amazing Escape Rooms",
+      "text": [
+        "Escape Manor has excellent ambience while you wait for your (on time and well scheduled) turn. The puzzles are detailed and intricate and follow through with the theme of the rooms. The puzzles work across all the areas of the escape room and are solvable while still not being \"easy\" or \"trivial\". The props and decorations add to the theme in an excellent way. Staff are friendly and explain the locks and details that you need well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Family"
+    },
+    {
+      "title": "Want to end a great Escape Room by feeling ripped off? Look no further",
+      "text": [
+        "I did the Death Row escape room with my husband. At the time, it was so much fun, even though one of the puzzles didn't work (the staff managed a work around). The game was immersive and challenging.",
+        "But now, it's hard to say this was a fun experience when I have to monitor to see whether Escape Manor will refund me an overpayment. Escape Manor has not honoured a 2-for-1 code I used via Toronto's winter promo. When I first paid on the Escape Manor website, the website told me I had paid in full for 2 people and Escape Manor would refund me the admission of one person. In fact, the confirmation email said \"If you have a pre-purchased ticket code or promo code, it will be redeemed upon check-in at the Manor.\"",
+        "However, when I got to Escape Manor, no one mentioned a refund. I later had to approach staff, who then told me that it would take approximately TWO WEEKS to give me the refund! The apologetic and embarrassed staff members said the owners know the discount code doesn't work online, but they haven't fixed it, so a staff member has been tasked to manually refund all people using this code.",
+        "So of course, now I have to add to my massive daily \"to do\" list a note to periodically check if Escape Manor has given me a refund. If they don't, it's off to my credit card company to complain within the allotted timeframe.",
+        "It's a ridiculous situation that Escape Manor could easily fix, if they cared. For example, Mysterious Minds (a really fun escape room in Toronto) only puts a hold on your credit card, and does not charge people until they show up in person just before the start of the game. At the very least, Escape Manor should be emailing people to reassure them of a refund instead of passively waiting for customers to ask frontline staff for an explanation.",
+        "Part of the experience of an escape room is great customer service. And the residue of: (a) feeling tricked; (b) feeling temporarily or permanently ripped off; (c) feeling like the business does not care (e.g. no email from the company on this issue); and (d) being an unwilling participant in giving Escape Manor an interest-free loan, is not a feeling that would make me want to return."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Great Axe Throwing Experience",
+      "text": [
+        "I tried their classic axe throwing experience and it was quite amazing. There is an official tutor who first teaches & guides you. It is totally safe and 100 percent fun. Also, they have a great lounge where you can play some nice board games."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Overcharged us but the room was worth escaping",
+      "text": [
+        "BE AWARE if you book a room for 10 people and 7 show up they will still charge you for 10 people even though you are still only using one room. Makes no sense. We ended up paying $1/minute in the room because of this. If you have 10 people better off booking for 5 and just adding people to the one room if they show up. Otherwise, a fun experience and well designed escape room."
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Escape Rooms, Axe-Throwing & Great Ambience!",
+      "text": [
+        "In my opinion, this is the best escape room location I've been to in Toronto - the rooms are challenging, the storylines have just the right amount of spooky, and there are lots of options to choose from! In addition to the excellent downtown location, the bar is a great area that you're happy to spend an hour or so hanging out in either before or after an activity. I've also tried the axe-throwing upstairs as part of a fun and unique bachelorette party I attended, and everyone involved had a great time. The staff at Escape Manor have always been terrific. Friendly and very helpful, ensuring guests get the most out of their experience! Highly recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019"
+    },
+    {
+      "title": "Night out with family to celebrate the bride and groom",
+      "text": [
+        "Tons of fun playing axe throwing games - our hosts Matt and John kept the games structured but fun. Our escape room was also challenging and the decor was impressive (we were in the Death Row room). We had a blast!",
+        "My first time doing both and I will be back! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Friends"
+    },
+    {
+      "title": "great experience!",
+      "text": [
+        "Its like snakes and lattes but with more. ",
+        "Downstairs you have escape rooms, chess (some really intricate chess design), and few other games. Each table has some board game set like jenga or taboo for you to play. There is bar on the side. The place itself looks very well interior decorated. ",
+        "We went here for axe throwing with couple of friends. There were three sections (two each, so 6), to do axe throwing. The trainer was really nice as well. He made us play in teams for four different rounds. And hell it was a competitive game. really enjoyed it. ",
+        "a great experience indeed!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Death Row",
+      "text": [
+        "Visiting from the UK in December 2018, my partner and I took her brother to Escape Manor to challenge the Death Row room.  We're both escape room enthusiasts and were keen to show how much fun escape rooms can be to her brother - we were not disappointed.",
+        "Escape Manor has a beautiful bar area where you can grab a refreshment before your escape experience, or to debrief with your team after! We were playing Death Row, which had some really fun elements to it, with a generous mix of both logical and physical puzzles.  The only element we didn't like (but it is personal preference!) was a decryption puzzle which we felt was a little large given the number of puzzles and time given, however do not be discouraged as the room as a package was very good with great production value also.  We failed to get out, eventually completing all activities approx one minute post the 45 minute deadline.  We would recommend this game, and shall certainly return to Escape Manor on a future trip back to Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018"
+    },
+    {
+      "title": "Axe throwing drawdown!",
+      "text": [
+        "This whole place was excellent! We had a group of 12 family/ friends from teen to almost 60 and had so much fun axe throwing under the instructions of our excellent instructor Michelle. She was informative, fun and safety minded- which really matters when throwing axes! Their waitstaff were attentive and the food  and vibe in the bar/ lounge was VERY good ! Nice vegetarian options too. We didn’t manage an escape room but I’ve heard they are excellent- will definitely be going back here:)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Good times",
+      "text": [
+        "Already did them all and LOVED each experience. Finally a new one - Cabin 13 and it held the high standard. Great environment and actors stay in character very well!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Great concept but poor execution.",
+      "text": [
+        "Pros: Friendly bar staff and hostess, beautiful lounge and reasonably priced drinks. ",
+        "Cons:",
+        "We had selected the Asylum: The look of the room seemed a little unfinished but it was serviceable. The following experience ruined the room. Basically with 10 minutes left and several of us trying to open the lock as instructed, we asked for assistance. When a staff member came in, he attempted to open the lock and failed to do so (while killing the time on our clock) even though he had performed the same methods and tasks we had. We were unable to continue to the rest of the room because this lock was a major component to our escape. ",
+        "We were let down not because we did not escape, but because the room was rigged for us to fail. The staff member tried to justify saying that others in the past other groups have been able to open the lock, but it seemed dismissive of how our experience was ruined. Especially since he was unable to open the lock. The staff member tried to appease our disappointment by giving us a 20% discount to our next booking. I felt was not the appropriate course of action. After all, why would I be incentivized to make a new booking if one of your basic components to solving the puzzle did not even function properly? The experience was so empty that we weren't even offered to take pictures as a group. After our Escape room, we had a drink to enjoy the lounge at least, though  I am unlikely to recommend this venue for their Escape rooms in the future."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2019"
+    }
+  ]
+}

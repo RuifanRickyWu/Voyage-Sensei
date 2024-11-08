@@ -1,0 +1,376 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Archers Arena",
+    "url": "/Attraction_Review-g155019-d8399623-Reviews-Archers_Arena-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1140 Sheppard Ave W Suite #3",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M3K 2A2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 48
+    },
+    "openingHours": [
+      "Mo-We 16:30-21:30",
+      "Th 01:45-21:30",
+      "Fr 13:45-21:30",
+      "Sa-Su 10:00-21:30"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/13/8e/02/gather-your-squad-and.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Game & Entertainment Centers"
+  ],
+  "description": "Archers Arena, Toronto’s largest indoor Archery Arena is located right off the 401 and Allen Rd, conveniently transit accessible. Our 10,000 square ft facility includes two different competitive playing fields, a shooting range for target practice, a lounge and snack bar. Archery Tag is a team-based game that is played similar to dodge ball except with bows and safety foam-tipped arrows.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Amazing Team-Building Experience at Archers Arena!",
+      "text": [
+        "Our team of colleagues had an absolute blast at Archers Arena! We participated in both combat archery and dodgeball, and it was an experience we’ll be talking about for a long time. From the moment we arrived, the staff was welcoming, professional, and organized, ensuring everything ran smoothly.",
+        "Combat archery was a major highlight—it’s like a mix of archery and dodgeball, where you get to tap into your competitive spirit! Whether you were a seasoned archer or a first-timer, everyone was fully engaged, and it really brought out the best in teamwork and strategy.",
+        "We also had an awesome time with dodgeball—it was fast-paced, fun, and full of laughs, giving us a great opportunity to bond with our colleagues in a friendly, competitive atmosphere.",
+        "The venue was spacious, clean, and well-maintained, and the staff made sure we were all comfortable with the rules and, most importantly, focused on safety. We left feeling energized, motivated, and much closer as a team.",
+        "If you’re looking for a fantastic place for team-building or just a fun day with friends, I highly recommend Archers Arena. We’re already looking forward to our next visit!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Business"
+    },
+    {
+      "title": "Great place!",
+      "text": [
+        "Fantastically fun time, combat archery is such a good idea.  Incredibly fun to play, and what a workout.  Adam was our coach and he was fantastic, and let us play a few moments overtime to take some time to fire on the groom of our bachelor party. Overall, very fun and a great time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Great way to try something new!!",
+      "text": [
+        "Was more fun than we expected! Our coach, Lev, was friendly and able to teach us the basics even though it was our first time there. Once we got the hang of it, the mini games are really fun!! There was a good variety and the facility was very clean. Since it was just the two of us, we really felt like we were able to immerse ourselves in the experience without any performance anxiety. Gabby was amazing also! A few days before, he checked up on us to make sure we knew what to expect. He is very responsive and made accomodation for our bookings. Overall, a fun way to try something new! We definitely be back for another session!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Awesome experience!",
+      "text": [
+        "We had an awesome time taking a beginners archery class! Our instructor, Kelvin, really made the experience for us - it was fun and engaging the entire time. Definitely would highly recommend this place, and hope to go back again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Fun and exciting",
+      "text": [
+        "Aravind was awesome and explained everything very well and thoroughly. Highly recommended, will do this again for sure."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Fun night out",
+      "text": [
+        "Great group activity to do with friends. You don’t even have to be good at it to enjoy yourself. Aravind did a great job at explaining what to expect. Great cardio workout too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Fun archery",
+      "text": [
+        "Great beginners archery lesson - Coach Kelvin was very helpful, giving clear instructions and tips. We're planning to go back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "So much fun and a great workout!",
+      "text": [
+        "Our host was the best! Aragon was great!!! I'd definitely like to do this again with my family next time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Business"
+    },
+    {
+      "title": "Archery lesson",
+      "text": [
+        "Had an awesome time with Aravind as instructor. Great lesson, tons of laughs, packed with fun. Highly recommend. ",
+        "Phil DuBois "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "LFG archers",
+      "text": [
+        "Awesome time, lots of fun, great pictures, great coach Kelvin. It was my birthday party event and it was amazing time investment."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Great place for indoor activities in winter",
+      "text": [
+        "We visited this place in late Nov. This place is prefect for groups of friends.",
+        "Everyone enjoyed the visit.",
+        "I am also surprised that they are selling water and energy drinks even lower than market price."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Great fun for a group of adults and teens!",
+      "text": [
+        "We had a group of 13 people ranging from the ages of 13 to 50 and everyone had such a great time! The care that the staff takes in explaining everything in a fun but safety first manner was greatly appreciated. We were all laughing and enjoying ourselves from the moment we arrived until we left. Most of our group had never played before but the pregame training and practice was perfect for all levels of skill and the variety of games kept it interesting. We would absolutely go back again! The group size we had was just right as more would have made the field a bit crowded."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "Lots of fun!",
+      "text": [
+        "Did a team-building event here for work. You don't need any archery skills to play here. It's actually a lot more fun then I thought it would! It's not only very combative, it's a pretty good workout too. Highly recommended."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Solo"
+    },
+    {
+      "title": "Great game and fun",
+      "text": [
+        "Not to worry if you have never been an archer before, you will receive  a 30 minute training before the game. You will be divided into two groups and provided instructions for each game.  We had a great time and a good workout.  There is no changing room so you either change before you arrive or use their washroom to change."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Excellent Archery Spirit",
+      "text": [
+        "My adult friends and I did a Saturday night archery tag and we thoroughly enjoyed ourselves. The session includes 30 minutes of practice at targets and 60 minutes of objective game play. You play several different game styles that require teamwork and strategy to be successful. We were with a great group of players, so the mission were well-played. The coaches made sure we were playing responsibly to avoid injury. They take photos for free, so you can get some great action pics off of their Facebook page the next day. I think it was absolutely worth the cost and the travel time to go."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Friends"
+    },
+    {
+      "title": "Loads of fun; exceptional customer service",
+      "text": [
+        "I cannot speak highly enough of this place. The kids had a ton of fun and are begging to go back. The customer service here is just outstanding -- helpful, kind and attentive to every last detail. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Family"
+    },
+    {
+      "title": "Small and HOT",
+      "text": [
+        "Overall experience, it's super hyped up as such a great place but it's sweltering hot!!! like hotter than outside 30 degrees, can't breathe!!!! Game was pretty fun but it's very repetitive and they played us on one of the half fields.. it's about 3 of me in width, so pretty small for the price we paid... my friend said he's been to a bigger one in Toronto."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Great time, definitely a workout! ",
+      "text": [
+        "Archers Arena was great, my two kids 13 & 14 had a great time. Jones was a great coach, explained the rules thoroughly and was very patient. Be sure to be in your running sneakers because you'll be doing a lot of it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Family"
+    },
+    {
+      "title": "Awesome, Exercise that is fun",
+      "text": [
+        "We visited Archers Arena outside Toronto on our family vacation.  We are a family of 4 with two teen boys.  I called ahead and reserved a time, and they were willing to open early for us, which was awesome.  It allowed us to get back downtown before the bad traffic.  ",
+        "First, we had our lesson. They are fiberglass bows with arrows about a long as your arm with rubber on the end that looks like a big marshmellow.  This makes it so they don't hurt much when you get hit. During our lesson, he first taught us how NOT to dry launch an arrow.  Then how to shot correctly.  You also put on a hockey helmet so that your head it protected.  I did get hit in the head twice and it was ok.",
+        "Then we played a game that was like dodgeball with arrows and then a few alterations. One with an engineer and one with a sniper. Both were great fun.  The boys thought it was the best part of who vacation!! Thanks."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Family"
+    },
+    {
+      "title": "Awesome Team Building Event",
+      "text": [
+        "A group of about 50 of us went here to do some team building exercises for work. Our experience was great. The facility was nice and clean. The leaders were very informed, skilled, funny and professional. ",
+        "When you check in there are washrooms and lockers available for all of your personal items. They do a very thorough \"lesson\" on how to hold, load and fire your bow. the equipment was in good shape, didn't smell, etc.",
+        "We did several different kinds of games within the arena itself. You don't have to be an extreme athlete to have fun doing this. You should wear workout gear as you do move around quite a bit. And, you will work up a sweat.",
+        "Keep in mind you do need to wear a helmet of some type. There are a few styles to choose from. But, you will be wearing head gear the whole time.",
+        "All in all, a great experience. Our group had a blast and I felt awesome pretending to be Katniss!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Business"
+    },
+    {
+      "title": "Birthday party",
+      "text": [
+        "This was booked for my teen daughter's birthday...the kids enjoy both archery and the nerf battle.  The instructor was great at interacting with the group and keeping them going.  They had a blast.",
+        "Only recommendation, change on the bathroom 🚻  they are unisex and when you have different groups ranging from age it's a bit uncomfortable. ",
+        "Otherwise the place is very clean and the instructors are very friendly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Friends"
+    },
+    {
+      "title": "Fun with pointy arrows 😃.",
+      "text": [
+        "I enjoyed my first session of shooting metal-tipped arrows.  The session had several different modes of play to keep things interesting.  Looking forward to my next lesson."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Solo"
+    },
+    {
+      "title": "Fantastic time!",
+      "text": [
+        "I brought my kids for the first time. The employees were awesome and my kids had a blast! Hoping to book our next birthday party there!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022 • Family"
+    },
+    {
+      "title": "Training Lessons are very good!",
+      "text": [
+        "Very informative training experience (Lesson 1 training), that showed us much of the basics for using a bow and firing an arrow properly so that no one gets hurt. We played several games in the second half of the session and that really helped us get more used to holding and using the bow, and even developing a good aim.",
+        "Shooting an arrow is not like what you see on TV, and they teach you the right way to here at Archers Arena."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Amazing 16th birthday party!!",
+      "text": [
+        "We booked 10 people for my son's 16th birthday party.  It was SOOOO much fun! The coach was amazing.  They had safety precautions in place.  We would love to go back and try the other games!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021 • Family"
+    },
+    {
+      "title": "Community night is great, even for beginners!",
+      "text": [
+        "Archers Arena was really fun and welcoming. They hold regular community nights suitable for all skill levels. You'll have a great time and get a great workout too!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021 • Couples"
+    },
+    {
+      "title": "great for kids, lessons and play time",
+      "text": [
+        "I took my nieces and nephew (8-11 yrs old) for lessons and play time.  30 min lesson with 30 min play time.  It was great!  Daniel, our instructor was great with kids! Lesson area had very fun targets to aim at.  Equipment was great, plenty of foam tip arrows.  Play area was spacious and allowed me to sit in and watch."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Family fun and a great workout!",
+      "text": [
+        "We had a great time at Archer’s Arena. Our group of 8 had the court to ourselves for our session. The training was thorough and the games were fun. Our coach Peter was great and was very patient with our endless questions and our silly jokes. What a workout! Be prepared to sweat! Fun time and would definitely go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Best stag party experience",
+      "text": [
+        "Our group of 13 truly enjoyed the hour-and-a-half experience including the education session. Tim was an amazing coach. We had a great experience filled with fun and action. At one point I lost my phone, as it fell behind the boards. The amazing team scrambled in between new client sessions, and unscrewed the boards to pull out my phone. Very thankful to everyone for their help."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Great experience!!!",
+      "text": [
+        "Went a second time and still the same great experience as the first time! Coach was great. brought couple my family with me and they had an awesome time as well"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "Best Archery Place in Town",
+      "text": [
+        "Great facility. ",
+        "The instructor knew how to train beginners methodically. ",
+        "We had fun competing with family members and completing timed missions."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "We had a blast!",
+      "text": [
+        "We had a blast!",
+        "I took my son with a few friends for his 16th birthday celebration and they had a blast!",
+        "Many received us and gave us all safety and proper equipment use tips: posture, equipment handling, aiming tips, etc. ",
+        "kids enjoyed it and said they will like to come back again. ",
+        "It’s a good family or group plan. Recommend this place!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Blast",
+      "text": [
+        "Had an amazing time with the group. Always a blast Very entertaining with lots to do. Professional establishment. Already recommended it to friends. Will definitely be doing this again"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Fun Experience!",
+      "text": [
+        "Had my recent bachelor party here. It's a bit far from the downtown area but overall worth the trip. The group did archery and dodgeball and we had a blast."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Excemplary Service",
+      "text": [
+        "They are so helpful. Absolutely so accomodating and friendly staff. Even navigating the place so helpful."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Solo"
+    },
+    {
+      "title": "Amazing indoor fun activities",
+      "text": [
+        "Amazing experience, great indoor activities, fun to do with friends. We had a great time. The crew were very friendly, patient and clearly explain everything. We will definitely go again and tell more friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Friends"
+    },
+    {
+      "title": "Crazy fun and guests enjoyed.",
+      "text": [
+        "Very fun time, and the party room is great, lot of space, clean and the staff very helpful, thumbs up for Archers Arena. Definitely I'll be back there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022 • Family"
+    },
+    {
+      "title": "Amazing experience, super unique",
+      "text": [
+        "Fantastic night with friends-- the staff are super helpful, everything is done with safety in mind. Super clean facility. Totally worth the evening, you will not be bored with the variety of activities and games they have to offer. Thanks for a lovely time and we will be back!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "Great fun, no frustration",
+      "text": [
+        "So much fun. Staff was knowledgeable, friendly, helpful. Small class sizes. Will go again, would recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022 • Solo"
+    },
+    {
+      "title": "The community is so welcoming!",
+      "text": [
+        "Community Night happens every first Friday of the month and, since we had almost no experience leading up to this, we were really expecting to be beat or targeted by the more experienced players. It was nothing like that!! They were extremely helpful and welcoming, both the usual players and the coaches. They’d share their arrows, teach us new tricks, and even invited us to a hangout after the game. It was truly an experience to remember and we will for sure aim to come back another time to play again with this great community. :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Friends"
+    }
+  ]
+}

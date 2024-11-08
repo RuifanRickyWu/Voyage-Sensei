@@ -1,0 +1,368 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Markham Museum",
+    "url": "/Attraction_Review-g181720-d187011-Reviews-Markham_Museum-Markham_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "9350 Markham Rd",
+      "addressCountry": "Canada",
+      "postalCode": "L3P 3J3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 62
+    },
+    "openingHours": [
+      "We-Fr 12:00-17:00",
+      "Sa-Su 10:00-17:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/c8/42/a8/markham-museum-logo.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "History Museums"
+  ],
+  "description": "Year-round exhibits about history, environment, and science. Visit our 25-acre historic village, wetland area, working gardens, orchards, ride the carousel or play some mini-golf. Educational programs examine various aspects of life in Markham with a focus on history and the environment. Watch for many special events during 2007, offering a variety of experiences that celebrate our community. Visit our research facility by appointment. Site rentals are available for weddings, family picnics/parties or corporate functions.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "This is a great local children's museum with a rotating exhibit",
+      "text": [
+        "This is a great children's museum. They have a rotating exhibit at the top floor which is interesting as well. Great place to kids to explore if it is too cold to play outside."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2023 • Family"
+    },
+    {
+      "title": "Markham museum visit",
+      "text": [
+        "We visited during the week and it was a very quiet and peaceful place to learn about the local history. The staff were very friendly and we had a guided tour of the settler buildings which had been moved to the museum grounds. I would highly recommend a visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Interesting exhibits",
+      "text": [
+        "This is a very kid friendly and family friendly place. Visited with my family during the weekend. The tour guide (very knowledgable young girl wearing black t-shirt with the museum logo) gave a very interesting tour of all the historical houses exhibited in the museum. Got to hear a lot of historical facts about the various items and artifacts displayed there including the horse carriage, loom etc. She was also very patient and waited for us to catch up during various points in the tour as my baby was also in tow and we had to soothe him at times. It was time well spent and a good family excursion."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sept 2019"
+    },
+    {
+      "title": "Best place to see the history of Markham",
+      "text": [
+        "Markham Museum is a very nice presentation of history of Markham. It represents the different stages of historical events happened in Markham. Very well organized and maintained."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018"
+    },
+    {
+      "title": "Wedding venue",
+      "text": [
+        "Great venue for wedding. Very helpful and knowledge staff. Plenty of antique farming items to admire. Beautiful grounds."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Great family fun",
+      "text": [
+        "lost to see and do for both parents and children.",
+        "Clean organized .",
+        "Great for learning for kids. lots of activities and great kids summer camps"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Good - Can be better",
+      "text": [
+        "The exhibits or the old structures are only accessible with a tour guide and hence one has to wait for the tour guide or join an ongoing tour to get to really step in to the houses, shops etc and understand the history.",
+        "There can be more of Markham like the early settlements etc - but still and enjoyable afternoon especially if the weather is good.",
+        "We went on a weekend and it was not crowded - a fair splinkling of visitors"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "The Past is Fading",
+      "text": [
+        "My recent visit to the museum has seen something I don’t like....history I have seen in the past. I asked and was told they are changing the look of the museum and using space for history instead for space for events.  We will be able to watch and view artifacts on tv?  You can’t replace history and history is our past, present and future."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2018 • Family"
+    },
+    {
+      "title": "Geared towards children",
+      "text": [
+        "I was rather disappointed with my visit: In contrast to most of the “pioneer villages” I’ve visited in Ontario, all the historic buildings were locked and only accessible with a tour guide. Although my guide was pleasant, the tour felt rushed and I would have rather had the chance to explore the buildings at my leisure. The museum runs summer camps and the campers seemed to take priority over ordinary paying customers. The main museum had strikingly little on display: only a bit of farm equipment and pottery."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "Trip back in time",
+      "text": [
+        "Walking into this modern museum you will be greeted by a horse  dressed in rainbow clothes. The staff was friendly. The price was $6 for adults, free for under 24 months and 13 and under $4. Parking is free. There are 3 floors and you can use the elevator. The third floor has a large play area for kids. You can walk through this place in less than 30 minutes. So I recommend that you do the tour. You will get to go inside some of the houses and stores outside. You won’t see the inside of those places unless you take a tour. There are some buildings like the church that we didn’t get to see cause they are under construction. We got to see 2 cabins, blacksmith, general store, bee house, printers shop. There is also a cute mini golf course with little buildings. It was raining so we didn’t get to try it. You can spend up to an hour or more  here including the tour. This is also a wedding venue. Our tour guide Isabel was very knowledgeable and friendly. For $6 it’s worth the visit. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2018 • Couples"
+    },
+    {
+      "title": "Always somethng fun happening",
+      "text": [
+        "Make sure you are always checking what they have for the weekend this past weekend  September 26/27 was Applefest, last weekend was Classic Cars, then it was Museum Day! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sept 2015 • Business"
+    },
+    {
+      "title": "Historical Village Tour",
+      "text": [
+        "We were given a knowledgeable tour of their Historical Village. It was especially interesting to us as we were in Markam to pay our respects to our Hiltz Ancestors."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "Love the Markham Museum",
+      "text": [
+        "We lived in Markham many years before going to the Museum, but now we send our kids to camp there, use it for girl guides, and visit on the open house days.  Its a wonderful facility and right now there is a special PanAm sports exhibit which is really first rate (as good as one would find in any museum in Canada).  The collection of historical buildings is wonderful, it really does balance the past and the present.  Lovely grounds as well, staff are great."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "A must see if you are passing by Markham",
+      "text": [
+        "this is a must-see if you are in Markham or looking to do anything in markham. The area for the muesem is quite big and it has a lot of interesting features. I highly recommend"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2015 • Friends"
+    },
+    {
+      "title": "geneology research",
+      "text": [
+        "They stopped to help us when they were busy. Great staff went out of there way to help us. great place to visit it I would recommend it for a stop when you are there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2015 • Family"
+    },
+    {
+      "title": "Great job in preserving history",
+      "text": [
+        "We enjoyed visiting \"old\" Markham when we were touring the area to visit the old stomping ground of our Canadian ancestors.  So nice that the old homes, train stations, general store, etc. have been preserved.  I especially liked the signs that explained the history of the structures.  Thanks Markham - job well done!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2015 • Couples"
+    },
+    {
+      "title": "Great family outing!",
+      "text": [
+        "We took our adult children and grandchildren here for a family outing.  Tons of interesting displays and some very interesting Markham history.  We also visited the Historic village and it was wonderful for the grandchildren to see how things were a hundred years ago and more.  Very worthwhile."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2014 • Business"
+    },
+    {
+      "title": "Very nice",
+      "text": [
+        "Was there  for a wedding the room is small but very nice, the atmosphere was very nice, the room where the wedding reception was keep was very big and lots of space, it was very nice and different."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2014 • Couples"
+    },
+    {
+      "title": "Wedding and reception",
+      "text": [
+        "Our friends' wedding was outside and the weather held off for a perfect afternoon.  The atmosphere was light, friendly and beautiful.  There were several people along the way from the parking lot guiding us where to go.  ",
+        "After the wedding, snacks and beverages were set up outside of the reception hall.  It started to rain lightly unfortunately but the staff was quick to move everything inside.  ",
+        "The facilities were clean and standard.  ",
+        "The \"dance\" area was nicely surrounded by fencing.  ",
+        "The DJ was awesome!  I'm not sure if I can find a place on here to rate him, but 5/5!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2014 • Friends"
+    },
+    {
+      "title": "Very interesting site to visit!",
+      "text": [
+        "Lots of historic buildings are preserved here. Even the train engines and platforms. Very peaceful - can easily spend 1-2 hours learning about history of the place! Entry is pretty reasonable - $6. Other exhibits inside the building are very nice as well..."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2013 • Solo"
+    },
+    {
+      "title": "Great Children's Party Place",
+      "text": [
+        "We were invited to the museum for a children's birthday party. It was an amazing first visit for our family! The kids had an opportunity to participate in a scavenger hunt outside,  which was run by one of the staff. They had a great time and the parents followed with their cameras. Then they had a quick snack of smores followed by a craft, led by staff, back at the museum. The party ended with pizza and cake. It was a great time for everyone!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2016 • Family"
+    },
+    {
+      "title": "Indoor EXHIBITIONS KEVA Planks - super good! Outside Exhibitions nice to see, nice to play Mini Golf",
+      "text": [
+        "indoor friendly and super good for kids & families",
+        "outdoor mostly for weddings and events",
+        "nice for a slowly walk"
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2016 • Family"
+    },
+    {
+      "title": "Attended a friend's wedding reception here",
+      "text": [
+        "There were about 150 guests and more than enough parking spaces. The reception was outdoors under a big top tent and use of the gazebo for photo booth as well as a large shelter for dancing. They were able to set up large audio speakers and so they were able to use microphones and DJ equipment for music. The event was catered by Brettone's catering from Woodbridge. We were able to use the museum washrooms but we're unable to see the museum exhibits. A very picturesque setting combining modern and yesteryears."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Couples"
+    },
+    {
+      "title": "Halloween",
+      "text": [
+        "I have to say this was a fun night but everything we have ever fin here has been fun. I have been coming here for atleast 35 years first as a child and now I have with my 3 daughters ages 22,17 and 6. I love when they show movies and have popcorn outside I still remember seeing Jumunji with my daughter and husband and we had a great memorable night"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2015 • Family"
+    },
+    {
+      "title": "Fun for families/friends on a nice sunny day",
+      "text": [
+        "Lots of activities.  Lots of special events.  Nice property and great place for a stroll on a sunny day.  Make sure you ask for a tour and learn about the history and upcoming events."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "Always something going on!",
+      "text": [
+        "The Markham Museum always has something going on, it is a nice place to visit and go for a stroll and see all the heritage buildings that are located at the back. Great for pictures and learn about history from the pioneer times."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Family"
+    },
+    {
+      "title": "Fascinating visit to the past and present",
+      "text": [
+        "The Markham museum offers a blast of the past and programming that connects with the present.  Great childrens programs and links to the community.  From farm to table was an excellent exhibit creating links to the quickly disappearing countryside.  Markham was originally a farming community so the exhibit had great poignancy as ",
+        "our grade A farmland vanishes into tract housing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2015 • Friends"
+    },
+    {
+      "title": "Interesting Pioneer Museum",
+      "text": [
+        "A very interesting museum to learn about the history of a very unique area of Ontario.  Many historical buildings have been moved to the site, including a pioneer church.  This is available to be booked for weddings.  Beautiful."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2015"
+    },
+    {
+      "title": "Visit the local museum",
+      "text": [
+        "Learn about the history of York Region going back to its pioneer roots. The museum also provides in door and outdoor activities. Great for family fun."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2014 • Family"
+    },
+    {
+      "title": "Step back in time",
+      "text": [
+        "I was on a bus tour so our time was limited. We did not get to see all the buildings. Everything was well maintained. Our Tour Guide Catherine was very well spoken and very knowledgeable. Very willing to answer questions. Of course everyone's favorite building was the General Store. Would love to visit again"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2015 • Friends"
+    },
+    {
+      "title": "Overlooked",
+      "text": [
+        "An overlooked museum, with some interesting exhibits and a well maintained open air portion.  Our tour guide was engaging and provided good insight into the buildings.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018"
+    },
+    {
+      "title": "Great space",
+      "text": [
+        "We’ve taken great pleasure in enjoying many facets of Markham Museum over the past few years. ",
+        "Annual festivals bring the grounds to life - AppleFest in September, ScaryFest at Halloween - but there are also interesting standalone exhibitions. The collection of structures and equipment from Markham’s past are well maintained and staffed by interested volunteers.",
+        "We’ve also had our kids attend summer and school break camps at the Museum, in programs run by the city, and they’ve had s great time! Fun and educational - like all of the events and exhibits.",
+        "There’s still some untapped potential to do more, but it’s still a pretty special place."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Family"
+    },
+    {
+      "title": "Wedding at the museum",
+      "text": [
+        "The museum area was the venue for the wedding we attended. There was another one earlier. This is a great place as a venue, lots of places for pictures(weather permitting). Things to see while waiting, clean bathrooms. Good security. Friendly staff. Lots of parking."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "No Surprise",
+      "text": [
+        "Not much to see.  A lot of room to improve.  Traffic outside is busy.  Parking okay.  Admission fee is required."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Beautiful place good for summer months",
+      "text": [
+        "the administration/ lobby of the building looks modern but once you step through you get a glimpse of the olden days. Great for school trips, anyone who likes museums and are interested in history. Also offers classes here and they have a great pottery studio. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Family"
+    },
+    {
+      "title": "Excited!",
+      "text": [
+        "It's pretty educational and amazing, staff there are friendly and patient to answer questions. I would say it is all worth it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2016 • Friends"
+    },
+    {
+      "title": "Excellent historical museum.  ",
+      "text": [
+        "The buildings are excellent but are not left open.  Just look at the map of the buildings and choose a few buildings you want to see inside.  Then ask for a tour.  Staff are history experts and happy to show you are around.  The houses, sawmill and blacksmith shop and store were our favourites.  The big new museum building has very good exhibits and a great section for children.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016 • Friends"
+    },
+    {
+      "title": "A quiet place",
+      "text": [
+        "Came with a three year old and a 14 year old. They really enjoyed the construction exhibit (especially the roller coaster construction). The outside area is beautiful -- love the old buildings and the trees. It was disappointing that you couldn't get into them easily. Found out halfway through our visit that we could ask the front entrance staff about getting a tour, so we had an opportunity to explore three (that's all the three year old could handle), which was nice. It would be nice if the museum had the resources and volunteers to open more of them more regularly.",
+        "The staff was very helpful and friendly, and I enjoyed the conversation I had with one of the museum's directors. Thank you!",
+        "This will be a place I will visit again, For sure when there's a special event and I know there will be buildings opened. And I am curious to try their geocaching adventures."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2016 • Family"
+    },
+    {
+      "title": "Not too much things can see",
+      "text": [
+        "Kind of empty here without events, I picked the place because I stayed in Monte Carlo Inn, it's a bus at the front of hotel and can transfer ",
+        "one bus to here.  The exhibition is poor without organized things.  "
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2016 • Solo"
+    },
+    {
+      "title": "Wedding vintage casual but classy",
+      "text": [
+        "Attended a beautiful wedding here.  Unique, vintage casual but very classy. Beautiful grounds to wander and attentive staff."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Business"
+    }
+  ]
+}

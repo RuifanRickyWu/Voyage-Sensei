@@ -1,0 +1,187 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Public Library - North York Central Library",
+    "url": "/Attraction_Review-g155019-d3824663-Reviews-Toronto_Public_Library_North_York_Central_Library-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5120 Yonge St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M2N 5N9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 23
+    },
+    "openingHours": [
+      "Mo-Fr 09:00-20:30",
+      "Sa 09:00-17:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/fa/c1/e1/north-york-central-library.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Libraries"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Excellent just excellent",
+      "text": [
+        "Really an excellent place to come to read and study and be able to use computers. You can find just about any book and lot of different topics"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "EVENT OCTOBER 26: Complex Regional Pain Syndrome Conference at NYPL",
+      "text": [
+        "Lovely library with accommodating administrator Matthew D who made sure we had all the AV, chairs and other supplies we needed. Our room held 50 and was just the right size.Lots of room for computers for younger adults, university students and kids.We held our event there due to the good location near the North York Centre subway station which served all of Toronto. Three excellent speakers and a tasty lunch completed the day.."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Inviting place",
+      "text": [
+        "The Library is a great place for the public to use. Tax dollars are well spent on books, materials and service received. Welcoming place for children, adults, seniors and students for sure. Would encourage people to use this library or other libraries accoss the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "For study or browsing - Best Library in Toronto",
+      "text": [
+        "This newly renovated library is my favourite in the city now. It has six floors of stacks and study spaces so there is always room for you. Newly expanded kids section is also great for families on the weekend and after school, with lots of books and activities for the little ones."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Solo"
+    },
+    {
+      "title": "My favourite library!",
+      "text": [
+        "The renovation took a while, but well worth the wait!  This library not only has books, computers, lounging areas, but 3D printers, sewing and embroidery machines, cameras for filming...!  There are free classes to learn all sorts of things!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Top notch service. Kids hub and professionals feel welcomed",
+      "text": [
+        "This library is huge, but extremely functional.  The scanning option for you to scan to self is actually free.  That's a welcome addition, as I messed up the printing because I didn't repeat my username and passcode, why do I need to do this almost three times just to print?  Anyway, good thing thereciscalways someone around to guide.  The kids Center is amazing.  Learning grows here!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019"
+    },
+    {
+      "title": "wide array of books & great service",
+      "text": [
+        "North York Central Library is one of the largest libraries in Toronto encompassing several floors w a wide array of books, magazines, and videos in English as well as other languages. Altho the renovations have been going on for quitesome time now, there is a temporary pop up one on the ground floor of the same building. And one can still put books on hold & borrow books selected from other branches."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Solo"
+    },
+    {
+      "title": "Possibly the Best Library In Toronto",
+      "text": [
+        "Aside from the Toronto Reference Library which I haven't fully explored, the North York Library is the best I've been to in Toronto. It has multiple floors, a children's section, many computers for public use, free wifi, and many evening talks. It's right on the subway line and food is nearby.",
+        "I can't think of anything else a library should have except for a 3D printer which I understand a couple of other branches have :-)",
+        "I wouldn't call the library an attraction for tourists, but anyone that lives in Toronto that is looking for a good library should consider it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2016 • Solo"
+    },
+    {
+      "title": "North York Public Library at Mel Lastman Square.",
+      "text": [
+        "This library has an overwhelming selection of books, magazines and reference material. At Mel Lastman Square-it is easily accessible to TTC. There are parking lots in the street to the west. If you have books you are finished with-donate them here. One of the few places you can do this."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2015 • Friends"
+    },
+    {
+      "title": "A good library with free WIFI",
+      "text": [
+        "Make a brief stop at the North York Central Library for free WIFI, I was on the upper floor because it was quieter there."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015 • Solo"
+    },
+    {
+      "title": "Great Library",
+      "text": [
+        "Been here several times and this Library has tons of information for adults and kids to learn, the library is huge and you have access to computers as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2015"
+    },
+    {
+      "title": "Good, but limited",
+      "text": [
+        "This library is just a few blocks from where we live.  It is the central library for our area.  They have a lot of books to read, but it takes a long time to get new ones recently published.  There is an area for research and a large study hall for students. What's best is the librarians who are helpful and friendly."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2014 • Friends"
+    },
+    {
+      "title": "Super hub of activities",
+      "text": [
+        "One of the libraries that  has everything in the city, maybe because of the very large multicultural area it services. It's a very big, modern library, with substantial renovations and additions in 2014. ",
+        "Many Eastern European collections are well represented, as are the Asians ones.  The staff is knowledgeable, efficient and helpful. ",
+        "The space is well designed, easy to reaserch it and with enough private, quiet study areas. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2015 • Family"
+    },
+    {
+      "title": "Outstanding library in a great setting",
+      "text": [
+        "I've been to this library many times and always enjoy it.  They have an excellent collection of books and magazines.  I especially like the art books section which is very extensive, and also the music collection on the second floor, which comprises a huge range of CDs of all genres.  The design of the library is very attractive and it is part of the North York City Centre complex, so you have immediate access to shopping, restaurants, and a very pleasant park area right next to it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2014 • Solo"
+    },
+    {
+      "title": "Stellar library – but Sunday hours restrictive",
+      "text": [
+        "I have frequented this neighbourhood library so many times in the past 14 years, I felt obligated to review it.  I have used this library as a patron and for work purposes on so many occasions.  ",
+        "Their facilities have accommodated meetings for my workplace, and I have attended meetings here many times as a partner and local committee member.  ",
+        "They have an extensive collection of DVD movies.  It’s always a thrill to get your hands on a recent release, as they disappear quickly.  And their extensive collection of travel books has facilitated successful journeys for me countless times.  This library has even been a source of entertainment a few times for my niece and nephew.  I like the fish aquariums at the back in the children’s area, although I’m not sure if they’re still there.  ",
+        "The on-line reservation system is a painless and convenient way of having books or movies placed on hold for you.  If this library doesn’t have what you’re looking for, another library in the city will.  The hold system will get that book ready for you at the selected branch pick-up location.  ",
+        "Even the open-concept atrium is impressive as you enter the library, or as you look down from an upper floor. ",
+        "My only complaint is about the hours.  The Sunday hours are quite limited, and even more so during the summers.  During the summer they’re closed on Sundays.  And during the school year I believe they open at 1:00pm or so.  I find this very unfortunate.  What a better way to keep kids (and adults) occupied in the summer at no cost.  Often times I see several people (mostly youth) sitting outside the closed library with their books, waiting for it to open on Sunday.  The city is getting so much tax revenue from the increase in population, condo property taxes, and so on.  You’d think this could finance longer hours."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Solo"
+    },
+    {
+      "title": "If you are reading this title, you need to read a book... at the library",
+      "text": [
+        "North York Central Library is conveniently located for locals and visitors staying at Novotel Hotel in the north end of city.  If you are on the Toronto Transit Commission (\"TTC\") subway, exit at North York Centre Station, follow the exit, walk across the road to the west side of Yonge Street and there it is. One of the best libraries in the City of Toronto.  Access is through the City Centre mall and you gain entry by these addresses:  5140 Yonge Street and 5160 Yonge Street.  Please note that as of May 19, 2014 the entranceway at 5140 Yonge Street is partially blocked and under construction, so use 5160 Yonge Street where an alcove gives you access into 5140 Yonge Street.  Follow the signs to the library on the main floor.   ",
+        "This library has a study hall and a separate area for teens to read and research.  Across from the study hall is the main library, set on two floors.  ",
+        "A nice feature is that you can drop off your books in the main foyer of the mall without even having to enter the library.    ",
+        "Once inside, the main floor has an abundance of children's books, computers, a quiet play area complete with crayons and pictures to color.  Plus there are fish tanks and really helpful staff.  ",
+        "If your child can not find a particular book then have the librarian's search for you.  Often books we can never find at other libraries in this great city, are located at this branch and the helpful staff will get the book and put it on hold for you.  ",
+        "There are children's events planned throughout the summer, such as story writing workshops and register to get a spot.  Use www.torontopubliclibrary.ca to register for programs for every member of your family, and also renew books.  All you need is a library card.  ",
+        "The first floor also has thousands of interesting books, CD's and video's for everyone.  Video's can be rented for one week.  ",
+        "Books for adults from every range possible are found on the 2nd floor.  Visitors will find plenty of space to read.  Many tables and chairs are throughout and it is comfortable and quiet.  ",
+        "What makes this library so special... it is easy to access to the Novotel Hotel.  Plus there are many nice, clean coffee shops and small restaurants where you can get a quick snack, coffee, tea, pastry or sandwich. Well known coffee shops like Starbucks, Second Cup are also found in this mall, convenience store, clothing shops for men and women.  If you venture outside and across to the east side of Yonge Street, you will find Loblaws Grocery store that carries everything you can imagine and within the Loblaws complex there are movie theatres upstairs.  If you need to take your car then use the Loblaws parking; it is free with groceries. ",
+        "This library is for everyone.  North York Central Library has so much to offer and it is always free as long as your books and videos are returned on time.  ",
+        "If you are reading this ad, its time to read a book... at the library.  Onegreatmomanddadof2 offer that if you take the time and begin reading to your child(ren) when he is one, two, three, four or five years of age, then you will give him a life time of imagination, creativity, A+ grades, love of reading, brillance and tools to succeed in the future. Mom here began reading to our kids at three days old and our house is filled with books. Enjoy!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2014 • Family"
+    },
+    {
+      "title": "A comfortable good place to spend time with good resources for me!",
+      "text": [
+        "Yes indeed. If you need way to get close to Toronto's many sources of information without having to go to that central city this smaller library might provide you with an answer. I came across it by walking almost aimlessly down one central street from the subway. I believe it was Yonge Street. This turned out be a wonderful discovery for me because I found this place both comfortable, friendly and welcoming with a good educational value as a place to read stuff that I do not have at home. I did like spending three hours there while my relatives were working elsewhere and I had no money to spend on buying tickets to see various attractions that cost money here. Subway is within walking distance. But most important knowledge was right in front of me. I like to read reviews of music performances and films which I have seen and heard elsewhere. I found several reviews of many performances that I wanted to read just to refresh my memory about my reaction to the events in question. Film reviews and reviews of classical music are important sources of knowledge for me. I compare what others have said or written about the same events. This is how I think. I do like to read foreign language materials especially from newspapers and journals. This library gave me access to this information.  I was not hurried to begin leaving the library after checking out details concerning two books. Instead I was encouraged to sit down and continue reading and researching topics to my delight. Help was available. They did not want to get rid of me. Computer skills were important for me to learn and librarians did help me. I was satisfied with the library. The technological center did put me closer connection through many devices that I did not understand with other sources of information in other places. I was able to compare libraries here with what I was accustomed to back home. Comparisons of this type  should be made for this purpose alone. I was impressed with the library policy not to allow patrons to eat food while using materials in the library. I was also interested to know how the library handles people who come there to sleep or to rest with a dirty slovenly appearance. I imagine that younger children and teenagers will find good reason to use many parts of this library for completing school work. I enjoyed browsing and looking around to find good stuff to read. Listening center was good too. Since this was my first visit I needed time so I took two or three hours to explore the library since I had little else to do then Time well spent for sure. New journals and periodicals were there for my discovery. I did compare collections of books for certain segments of knowledge. I wanted to know if library patrons were any different in their behavior at Canadian public libraries. Decorum might be different in some ways. No real complaints. I wonder what happens to floor space when libraries house e-books more than traditional books on shelves. I wanted to see or count the number of desks for librarians to use while dealing with a patron. I wanted to see the number of librarians were on duty at certain times of the day. Library was crowded or busy with many patrons for a suburban type learning center. In total it was a good experience for me as I did enjoy and profit from being at the North York library. Cross referencing was made easier with technology. Searching for information was also faster with these advances. If you need a place to stay while it is raining or snowing I have a suggestion for you to follow. Go there!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2012 • Solo"
+    }
+  ]
+}

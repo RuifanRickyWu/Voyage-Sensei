@@ -1,0 +1,368 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Tallship Cruises",
+    "url": "/Attraction_Review-g155019-d274278-Reviews-Tallship_Cruises-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "235 Queens Quay W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 2G8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 2579
+    },
+    "openingHours": "Mo-Su 09:00-17:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/de/41/17/tall-ship-kajama.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Boat Tours"
+  ],
+  "description": "This 165-foot three masted schooner offers non-guided tours of the Toronto harbor on Lake Ontario from the start of May to the end of September. Day and Evening Cruises Available.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great start to our trip",
+      "text": [
+        "Having arrived in Toronto at lunchtime after a very early start from the UK, we wanted to do something relaxing for the afternoon and this fitted the bill perfectly.  We were actually out on the lake for around 90 minutes but it didn’t cost much more than a 45 minute harbour cruise.  The weather was fabulous and we had some amazing views of the city skyline.  There was food available on board although we didn’t want anything.  A lovely start to our trip!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Unforgettable Tall-Ship Cruise with Stunning Toronto Views",
+      "text": [
+        "I recently took the tall-ship boat cruise around Toronto Harbour, and it was an unforgettable experience! The schooner itself, a stunning 1930s vessel, added a unique charm to the entire trip. Watching the crew raise the sails and even getting to help out was such a cool touch. The views of Toronto's skyline and islands were absolutely breathtaking, offering perspectives you don’t typically get on regular tours. The atmosphere was relaxed, with drinks and snacks available on board, and the sea shanties really set the mood. The cannon firing was an unexpected and exciting highlight. Highly recommend this for anyone looking for a fun and scenic adventure on the water!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2023 • Friends"
+    },
+    {
+      "title": "Lovely trip",
+      "text": [
+        "Had a lovely boat ride very tranquil weather was great had a really nice time would recommend this trip people on the boat kept us entertained"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Beautiful Toronto",
+      "text": [
+        "Breath taking view of Toronto.   This was all we expected and more.  Crew was absolutely fabulous and service and food was excellent.  Will do this again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Lovely evening sail",
+      "text": [
+        "Very pleasant way to spend a couple of hours (from boarding). Had a lovely evening for a sail departing at 6, able to buy drinks onboard (orders taken after boarding, and bar open during sail). Invited passengers to assist with hoisting sails, and performed a sea shanty later. Got to see a different perspective of city skyline and island, which was good as well."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Best Experience",
+      "text": [
+        "I had a great time sailing on the Kajama with my girls.It was such an unforgettable experience for me and my kids.Toronto city skyline was looking awesome as we sailed through Toronto harbour and islands .Crew were very friendly,letting kids raise the sails and they even made Aira's Birthday very special by announcing and singing a song for her. Great way to see the gorgeous views of Toronto city. Awsome young team making this experience more enjoyable by being very friendly and helpful❤️👌@toharbourtours @cruisetoronto",
+        "#kajama #tamil #Toronto #fyp"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Great few hours on unique sailing ship",
+      "text": [
+        "Very well organised and the crew were very engaged, letting kids help raise the sails, and they even sang a sea shanty. They serve food and drinks on board. Gorgeous views of the city and islands."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Terrible experience after purchase of Tickets on Kajama ",
+      "text": [
+        "Wd booked a group of 4 on Group. Booked a time . Sept 1 1st 5:30 pm   my friend and her Dad 85 years old were turned away after showing them the Groupon code , staff said they weren't registered on the Kahana website  Terrible  and expensive booking,  check-in didn't not seem to care !  Gimme a break We showed proof of purchase  and they turned us away saying they were fully booked after travelling two hours on the bus and train to get to the dock . Shame on Kajama  staff "
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "A perfect way to spend a couple hours",
+      "text": [
+        "What a perfect way to spend a couple hours on the water on a gorgeous summer day! The air show happened to be going on as we were leaving the dock which made the trip even better."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Good time",
+      "text": [
+        "The crew was great.  A bunch of younger people who seemed to enjoy their job.  Very enjoyable time and great way to see Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Tall Ship was a great afternoon adventure",
+      "text": [
+        "This was a great experience. The sun was shining, the wind was blowing. They let out the sales and fired a cannon! The crew were all so nice! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "A wonderful trip on the high seas of Toronto harbour",
+      "text": [
+        "What a great crew!",
+        "We were \"that family\"... the guests were business associates,  couples out on a date and we show up with a 3yr old, an 8yr old and a teenager.. I'm sure you could hear the groans. :-)",
+        "But the crew were awesome. They included our 8yr old granddaughter in hoisting the sails, provided magic rope trips for our 3yr old grandson and provided a great informative experience for our teenage grandson ",
+        "I recommend this adventure to anyone looking for a few hours of fun in downtown Toronto "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Fun cruise on the Kajama!",
+      "text": [
+        "We had a wonderful time on the Kajama.  The cruise was awesome with such good views of the city, harbor, etc...  Even though it was an uncomfortably hot day the shade of the masts and canopy and the cold beer from the bar made it a memorable event!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Nice trip but could have been better.",
+      "text": [
+        "Nice ship and professionally managed, but would have appreciated some narrative about the city and what we were seeing."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "A great day on a Great Lake.",
+      "text": [
+        "Overall, beautiful views of the city centre and our islands and beaches. The staff were welcoming and engaged. The sea shanty they sang was fun! Our son realized that raising the sails was hard work!We did order a sandwich and it was surprisingly good and ample! Overall, a great way to spend a beautiful, very warm day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Pirate time ",
+      "text": [
+        "Very cool, little bit slower than we thought. But nice experience. Accessible with a stroller. Kids love the experience and the crew was very nice. They let the kid help to raise the sails."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Fab way to be a Tourist in my City and Watching the Airshow! ",
+      "text": [
+        "It's a great way to get out on the water, enjoy the weather, the city views, and BONUS see half of the airshow! Staff very nice, things ran on time, great drinks (at extra cost), spacious deck. Overall good value for the price.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Overpriced",
+      "text": [
+        "It was an interesting experience to sail for 1.5 hour, however, $45 per person is too much, considering that you have to find yourself a spot to sit and there are not enough spots, so if you are late, you need to stand the entire time (of course, there are places on the lower floor, but there are no windows). The ship only sails to a specific point and back, so after 30 minutes you get bored and start using your phone. In my opinion, it's better to buy a ticket to islands for $15 and you will be able to get the same experience and see the view of the city PLUS you can walk on the island and see the lake from different angles. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Best ship and crew for a fun cruise in Toronto",
+      "text": [
+        "Enjoyed an excellent sailing cruise on the tall ship Kajama with my son. It was even better than expected, with a great song performed by some crew, and even some interesting rope tricks. Really friendly and engaging crew, great food and bar options. Lovely to spend some time out on the water and see Toronto harbourfront and island."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Beautiful Day",
+      "text": [
+        "This was a wedding gift and we enjoyed it alot nice staff especially the ticket booth guys they accomated with watching my bag and changing my time of boarding "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Great outing",
+      "text": [
+        "Great fun, great staff. Wonderful birthday outing for a family. 1 and 1/2 hours just right. Different perspective seeing Toronto from the boat"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "No refund greedy company",
+      "text": [
+        "It was impossible to find a route to this location on June 30th when we booked, ",
+        "So many streets were blocked off due to the Toronto pride parade. My family were visiting from the uk so we could not rebook for a different day. The company would not refund my money which amounts to absolute greediness."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Great boat ride",
+      "text": [
+        "We had a good time- we enjoyed the sea shanty and seeing the sights from the water. We didn’t try the food because we went right after lunch, but it looked good and was the same price as the restaurant we had been to. You really have 30 minutes to board. I thought we were leaving at 3:30 but we were actually getting on at that time and left at 4a no big deal, just something for others to know. Also- bring a jacket or something warm (we did not). It got cold on the water (and the sun had disappeared behind the clouds as soon as we got on)."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Beautiful views, but not actually a “set sail” experience and crew was too busy hanging out to interact with customers.",
+      "text": [
+        "I was very excited for my first sailing experience and my first experience on vacation in Canada. I loved the boat and the views of the city. But I was disappointed that the motor was really what powered the boat the entire time, so never really got to experience SAILING - which is what it is billed as. It was also really annoying to not hear a word said by the young man on the microphone because none of the speakers were working and none of the crew bothered to explain or even acted troubled by that fact. The crew seemed nice, but interacted only at the beginning of the trip while still waiting to get sails up, and only to ask us what we wanted to eat. I think it is a great idea to use (what appears to be) college kids on the crew, but it would have been nice if, instead of clustering together in groups at either end of the ship looking bored and having their own personal conversations, they had made even a small effort to engage with passengers and possibly even ask if we had any questions or wanted them to point out some of the buildings downtown or things along the shore, etc. it just felt very much like we were sailing on an automated boat with no crew at all and no locals to interact with. I was a bit surprised to be honest. The views were wonderful and the ship is laid out well for passengers, but with one shanty sang before we left harbor, the crew was done with us. When I made the effort to speak to the manager directly, telling her I go out of my way to compliment great service but also like to provide feedback directly if it’s not so great (with no expectations on my part), all she said was: Thanks for sharing. No apology. No thanks for the great suggestions. Nothing."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Very cool experience",
+      "text": [
+        "Great experience, love the treatment that we got from the crew and the show that they put together. Long enough to enjoy the view of the lake. Very friendly people."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "Relaxing Excursion ",
+      "text": [
+        "Perfect way to see Toronto from the water.  The tour was comfortable and smooth with a little commentary about the ship.  They do have a bar/restaurant on board and also offers tourists a chance to help raise the sails.  The kids really seemed to enjoy that!  We took many photos and enjoyed the warm breeze."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Sunset sail",
+      "text": [
+        "The weather was lovely and the ship crew were fantastic and brought a great level of energy to the evening sail.",
+        "Would definitely recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Kajama Tall Ship",
+      "text": [
+        "The girlfriend and i enjoyed this boat ride very much. She loved the experience as she has never been on a boat. She loved seeing the coast of the city all lit up at night"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Great Night!",
+      "text": [
+        "We took the evening trip to see the gleaming lights of Toronto and it was an amazing view.  We did have a terrible time finding the ship dock and wished that we had called ahead to find out that it is located on the water behind the Harbourfront Centre."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Nice but expected more",
+      "text": [
+        "The ship was nice, and people running the cruise were great. However, we really did not sail with a majority of the power coming from its engine not the wind. Also, did not leave the bay and for 10 minutes we did not move before turning around. Lastly, sunset cruise is not worth the extra money because you really can’t see the sunset because we stayed in the bay. I expected some real sailing, at least exit the bay so we could see the sunset."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Boat trip in Toronto",
+      "text": [
+        "Good trip although was cold and windy that day. Staff were very friendly and helpful.  Boat was nice, with real bathrooms."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fabulous day on Lake Ontario",
+      "text": [
+        "We had a beautiful day on the water yesterday. It was beautiful and the staff were excellent 👍. I would highly recommend this!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Awesome experience",
+      "text": [
+        "Had a great time on the tall ship cruise. Amazing views of the city. Great crew. They serve food and drinks. You can also participate in the sail preparation. ",
+        "Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Crowded, late, and lacking",
+      "text": [
+        "Supposed to sail at 3:30, but didn’t depart until 4:00. Overly crowded, we had a hard time finding a place to sit. The line for refreshments moved slower than molasses. They could do so much more with a little effort. The staff looked hot, tired and just done. There was a serious lack of enthusiasm except from the booze-cruise crowd. The sea shanty (they sang one total) was definitely them just phoning it in."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "They sail in lightning storms!  Don’t prepay!",
+      "text": [
+        "This merchant is horrible.  There was a huge thunderstorm, with lightning strikes every few seconds, and they would not cancel.  “We sail no matter what”!   ",
+        "And forget trying to find the place or finding parking!  ",
+        "I will never prepay for anything through Tripadvisor or any similar site."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Worth It!",
+      "text": [
+        "I enjoyed this trip solo and thought the trip in the Toronto harbour was lovely! Be on time or they will leave without you."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "They sail in a thunderstorm and take your money!!",
+      "text": [
+        "Don’t  do it!   They charged me in advance for four people.  The day of the cruise there was a massive thunderstorm, lightning all over the place and they said they were going!  No one was on the boat, no one got a refund.  This company is horrible.  And finding them is another trick altogether.  They are not at the address listed.  Heaven knows how many people lost their money because they couldn’t find the place.  I will never book anything on Tripadvisor again."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "No good!",
+      "text": [
+        "Waste of time and money.",
+        "Tour is only 90 minutes.",
+        "First 30 minutes you wait, if you are unlucky you wait in the sun.",
+        "Sails are raised partially for nothing. ",
+        "Boat is run by engine.",
+        "Crew reads some little info about the boat in a speed even a native English speaker would not understand.",
+        "Don't do it!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Considering this…. DON’T",
+      "text": [
+        "The tour is 90 minutes, not 120 as advertised. We sat in the  sun for 30 minutes waiting to leave.",
+        "The sails are only for looks. They don’t even raise them all.",
+        "The canon is 1 meter and a joke.",
+        "Might be ok for a 4 year old. ",
+        "Waste of time and money."
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great city views from the ship",
+      "text": [
+        "We tried this tour for something different and to get photos of the city from the water. We had a great time and great shots of the city. The staff was friendly and the drinks were good for us. I think the actual cruise was about 60 minutes but was enjoyable. We walked down to the ship to avoid parking delays. TIP: They do not accept the ticket from trip advisor you have to exchange at the ticket window before boarding."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    }
+  ]
+}

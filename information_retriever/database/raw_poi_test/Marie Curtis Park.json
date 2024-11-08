@@ -1,0 +1,226 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Marie Curtis Park",
+    "url": "/Attraction_Review-g155019-d8535905-Reviews-Marie_Curtis_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 Forty Second St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M8W 3P2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 22
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b3/f3/a5/marie-curtis-park.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Beaches",
+    "Parks"
+  ],
+  "description": "Etobicoke is a relaxed area along the Humber River. It's saturated with green spaces and conservatories, making it a premier destination for outdoor sports, hiking, and nature walks. Its abundance of parkland and lakes makes it a typical spot for fishing, picnicking, and camping out, especially in warmer months. The peaceful area is also enjoyed by families, who appreciate its boardwalks and sports facilities. Locals enjoy the variety of golfing and country club opportunities, which also provide lessons for golfers of any skill level.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Lovely Park Off The Lake",
+      "text": [
+        "Wonderful place too see ducks and a lovely view of the lakefront. Lots of greenery and you can set up for a picnic. Public washrooms available as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Etobicoke Creek recreation trail, beach litter, overflowing bins",
+      "text": [
+        "We live less than 5kms away but have never been to Marie Curtis Park before. My family agreed to a Sunday morning visit in early July as we were curious to see this nearby Toronto park which boasts a public swimming beach. I read that there are even lifeguards on duty.",
+        "There were plenty of parking spots available when we got here around 8:15AM. The weather forecast may have something to do with the half empty parking lot as it was a slightly cool day and rain was expected before noon. We headed for the pier and immediately came across the temporary fencing surrounding what was supposedly the wooden boardwalk area. According to the project signage, construction work should be finished in August 2021. We walked back, past the public washrooms and food concessionaire (Sunset Beach Cafe) to get to the beach. The beach was not much to look at and was littered with garbage. The water looked terribly polluted. I cannot imagine anyone swimming in it. ",
+        "From the beach, we explored the park until we reached the bridge over Etobicoke Creek. Nearly all recyclable and garbage bins inside the park were full to overflowing with yesterday's trash. It was a relief to finally see a city garbage truck doing what was likely a scheduled morning collection. There is ample green space and shade for a family picnic though not a lot of picnic tables. The more popular spots seemed to be those near the creek and the splash pad. There are 2 group picnic areas which require a permit--picnic area 1 is to the north of the park while picnic area 2 is closer to the parking lot. One thing I like about Marie Curtis Park is the Etobicoke Creek recreation trail. Its winding path parallel to the creek, surrounded by plenty of big shady trees, is just perfect for a relaxing stroll, bike ride or dog walk. ",
+        "Pros:  recreation trail, free parking, splash pad, playground, public washrooms, food concessionaire",
+        "Cons: overflowing bins, fenced off construction area, beach litter, polluted water"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Big park with lots to do",
+      "text": [
+        "Marie Curtis Park is a very big and spacious park with lots of parking and lots of different activities on both side of the water.  It can be very busy, but there is lots to do.. playgrounds, picnics, beach, some like to swim here.. boat launch, fishing, trails.  During the day the park hosts day camps but there is lots of room for everyone.  The only issue is the shape of the parking lot and drive into the parking area.  badly needs repair and maintenance."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2021"
+    },
+    {
+      "title": "Lovely find at Marie Curtis Park Beach",
+      "text": [
+        "Marie Curtis Park Beach is located on the east bank of the Etobicoke Creek. It was a lovely unexpected find. Marie Curtis Park Beach is exactly what a local park and beach should be - fun for walking, hiking, biking, relaxing on the beach, fishing and great photo opps as well. From Toronto it can be reached by the Queen streetcar line. You can explore some nature trails and wooded paths with lovely bridges that cross it. It is a everyday place for the people who live nearby, it's relaxing just to sit there and watch the world go by. That is what makes Marie Curtis Park Beach so special."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020"
+    },
+    {
+      "title": "So glad we went",
+      "text": [
+        "Went on a Thursday early afternoon with four kids. It was not busy at all. The beach was nice though the water right at the shore had a fair bit of algae; not sure if that's typical of Lake Ontario beaches. The kids played in it anyway. The lifeguards were friendly and attentive. Once the kids had played enough at the beach, we moved to have lunch under the nearby trees. Then we went into the sizeable splash pad and play area just beyond the parking lot. There was a little place selling some refreshments, we had brought our own lunch/snacks so didn't check it out. We had an excellent time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Perfect Launch Site",
+      "text": [
+        "Looking for a good spot to park and start a bike ride along the lakeshore into Toronto? Marie Curtis Park is perfect. Plenty of parking in the west lot. The Waterfront Trail is well marked from here into Toronto. Approximately 20k to Queens Quay. Only downside is the park entrance is not signed so you’ll likely drive past the west entrance the first time you go."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Such a Beautiful Local Attraction!",
+      "text": [
+        "Marie Curtis Park is the most perfect place for everyone of all ages. Perfect for everything from a stroll, to a run/jog, to a bikeride, skateboarding, rollerblading, dog walking, swimming, fishing, sunbathing and anything in between!",
+        "Make sure to pick up your garbage though- it's very easy to be responsible about your litter and waste, the park is quite generously filled with garbage AND recycling bins. Anything you leave behind WILL blow straight into our aquatic lives habitats. ",
+        "Lots of places to sit and soak in the beauty, there are a handful of entryways into the park. Beautiful songbirds coat the woodland with peaceful melodies. Chipmunks also occupy the area! As well as Coyote's, chipmunks, raccoons, etc.",
+        "Truly a place for everyone! It aslo extends into a beautiful creek, which is absolutely worth following the trails into discovering more of Etobicoke Valley Park. ",
+        "It leads farther into following the creek, but it is currently closed off from entry as the rocks are all falling down into the creek, which isn't safe for the public at the moment. But it could easily turn into a 3 hour (give or take depending on how far you want to go, and how fast you walk etc) adventure from the beginning of Marie Curtis Park, all the way to Etobicoke Valley Park. It is just enchanting!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "Lovely day",
+      "text": [
+        "Marie Curtis Park is a public park in Toronto, Ontario, Canada. It is located at the mouth of the Etobicoke Creek on Lake Ontario in the Long Branch neighbourhood. Marie Curtis Park was built after the devastating floods of Hurricane Hazel in 1954 destroyed 56 homes and cottages on the site, leaving 1,868 persons homeless and 81 dead."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "Great Park for the Family",
+      "text": [
+        "I went for a picnic with a bunch of other moms who all had kids. We took the kids to the splash pad/park after and it was great. The only thing is that people said the water by the lake was not clean enough to go in. Other than that, this is a great park for the family."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Lakeview Waterfront project will decimate west beach",
+      "text": [
+        "If you enjoy beach combing-the west beach is the place.Unfortunately the writing is on the wall-the bulldozers are already out and trucks are dumping in the dirt(to the west right now)This is a 10 year project and where the beach is now-will not longer exist-It will be covered in dirt and the rock shoreline  will be much further out.",
+        "Visit while you can.This beautiful Toronto spot will soon be gone."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Solo"
+    },
+    {
+      "title": "Nice place for a bike ride",
+      "text": [
+        "Went with friends with our bikes",
+        "Rode around nice path by the lake",
+        "Stopped in to a lovely lakeside restaurant for lunch",
+        "All in all a lovely day"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015 • Couples"
+    },
+    {
+      "title": "On the Toronto – Mississauga border",
+      "text": [
+        "This is a serene and beautiful park, located both sides of the Etobicoke Creek between Lake Shore Boulevard West and Lake Ontario. There is a water splash park for kids. The south end of the park is just by the Lake Ontario. Nice and sandy beaches are right over there. It is a very good option for weekend picnics and to cool down in the lake in summer time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "Walking paths galore!",
+      "text": [
+        "What a great walking area with the lake and the river alongside the walking paths winding in three directions: north, east and west.  So close and accessible- very pleasant during the day."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2018"
+    },
+    {
+      "title": "Nice little park",
+      "text": [
+        "We were here recently on a warm Sunday afternoon. The beach was closed for swimming, unfortunately because of high bacteria levels. The park itself was nice, parking was free, although the lot was rather full. The waterfront trail comes through the park, offering a good place to run/walk/bike. Scenery is not spectacular, but it's a nice place to relax for a bit."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Good spot to have some fun ",
+      "text": [
+        "Went there on last weekend with friends.it was fun filled day.parking was easy and free.playground and splash pad is good.small area for sand play.beach was rocky and small.water was not very cold.no change area or washing area near beach .address is not right it's 2 forty second street."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "Great place to socialize and cycle through....love the ambience of the park....great for all diverse groups..",
+      "text": [
+        "Love the park,as its a great place to socialize and cycle through...includes all minorities and diverse groups...love the people...fun...crowd"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "Great Leash Free!!",
+      "text": [
+        "Marie Curtis has been greatly improved.  They've updated all the paths and now there is a Leash Free Area for dogs.  It's not very busy and it is quite large"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Clean and beautiful ",
+      "text": [
+        "This park is very beautiful with lots of places for a toddler to run and play around. You can go and relax at the lake, see the ducks in the river, play at the water playground or play at the big playground for all ages. Free parking and lots of space to enjoy the nature. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Family"
+    },
+    {
+      "title": "Picnic",
+      "text": [
+        "Nice place for a picnic. It's quite contained and very busy in a Saturday. There's also a splash pad and playground for kids. The place washroom is modern and clean. I wouldn't swim in the water but many people did. There were also these kite flyers. They seemed professional so it was nice to watch. Long branch is a very nice neighbourhood. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Family"
+    },
+    {
+      "title": "Alot to offer!",
+      "text": [
+        "This park is underrated.it has a alot to offer. Like...",
+        "It has a nice beach where you can enjoy sun and water together ",
+        "Play volleyball on beach ",
+        "Take your dog for walk not unleashed ",
+        "A 20 km Lake view cycling track starts from here. ",
+        "walk inside jungle area. ",
+        "Children playarea ",
+        "Lake Ontario view deck "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016 • Family"
+    },
+    {
+      "title": "Long branch ,Toronto.",
+      "text": [
+        "This park is under rated. I have a lot of cool activity's in this park.fishing, surfing, sea doing, swimming, private and public beach,dog walking , biking, wind surfing.Then at night it can get crazy with party's. If you like any of these ,check the weather and have fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Solo"
+    },
+    {
+      "title": "Spectacular Park & Beach",
+      "text": [
+        "We visited this park/beach last Saturday for a fall picnic along with a group of friends. There is ample free parking available and we chose a picnic bench close to the play area so the kids could enjoy and we could keep an eye on them as well. There is a playground, two colour children’s labyrinth with a push-button activated spiral water fountain, a public swimming beach, a dog off-leash area, picnic spots and walking trails which connects to the Waterfront Trail along the lake-side. This place very close to the Dixie Outlet mall, is absolutely beautiful, you don’t have to drive too far to get here either. Throughout this park you can find an abundance of wildlife and native plants. ",
+        "We had carried our own snacks/food as there is another available for purchase apart from an ice cream truck selling ice creams. It was a bit chilly that day so the kids took time to get into the splash pad and enjoyed themselves but they really enjoyed the playground for the whole day. ",
+        "The beach has lovely sand and is mounted with a 32 pounder cannon. The waterfront is really something and we enjoyed taking pictures and watching the waves hitting the shore. Apart from the washrooms being extremely filthy and stinking, all of us absolutely loved the place and we will definitely be planning to visit again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Friends"
+    }
+  ]
+}

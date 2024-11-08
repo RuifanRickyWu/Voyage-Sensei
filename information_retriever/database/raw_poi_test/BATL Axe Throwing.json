@@ -1,0 +1,375 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "BATL Axe Throwing",
+    "url": "/Attraction_Review-g155019-d7655814-Reviews-BATL_Axe_Throwing-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "33 Villiers St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5A 1A9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 388
+    },
+    "openingHours": [
+      "Mo,Tu,We,Th,Fr,Su 11:00-23:00",
+      "Sa 12:00-23:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/49/0e/94/batl-axe-throwing.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Game & Entertainment Centers"
+  ],
+  "description": "At BATL Axe Throwing, we believe that sport should be inclusive, fun for everyone in the family, and above all, be a safe entertainment bullseye. With safety and teaching being the highest priority at BATL, our coaches help everyone over twelve years old remember the feeling of their first bullseye. Whether you're bringing your young family out for some in-town entertainment or putting on a stag, bachelorette, birthday, team-building, or fundraising event, we'll make sure it's memorable and safe. No matter what BATL location you visit across North America, you can expect delicious food and drinks, axe throwing lanes, expert coaching, and a fun tournament. Easy online booking in less than 3 minutes and group discounts are always available on our website.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Go, I don't think you will be disappointed",
+      "text": [
+        "My office went here a few years ago and I didn't go, I didn't think it was for me. I went this time and had a great time. It was fun and the staff were amazing!! Marcus and Patrick were excellent in giving instructions, hints and very accommodating to me who was with a cane and a scooter. Brian was great behind the bar. Their smiles were great, their personality is excellent for customer service work. You do get to find out who is competitive at your work. I also thought it was great they have pink t-shirts and any profit goes to non-bullying (may not be the right words but you get my drift). Thank you for a fun day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Business"
+    },
+    {
+      "title": "Best venue ever!",
+      "text": [
+        "Thank you batl for creating this sport and keepieng it the same for all this years! Your rock! It is so hard to look at other venues made as mony makers only... Thank you for being true!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023 • Friends"
+    },
+    {
+      "title": "Great fun delivered!!!!!!",
+      "text": [
+        "Omg that was sooooooo much fun!!!!!! ",
+        "The place is a little difficult to find. It's a little hidden away. Maybe a bigger sign would help. ",
+        "We were greeted by some lovely people that confirmed our booking directed us to the bar , provided us with some refreshing drinks that were included in our group tickets and off we went!!",
+        "Our instructor was very nice, explained the rules, how to handle the axe, how to throw and after a couple of practice throws left us to enjoy ourselves on our own pace. ",
+        "Thank you so much guys. We enjoyed it and will be coming back soon"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Friends"
+    },
+    {
+      "title": "Worth going",
+      "text": [
+        "Planned a bachelorette party for my lovely friend and the staff at the port lands was SO AMAZING. Our coach named “Brian” was the best! The staff honestly did make our experience so memorable. In the middle of our event there was some issue with the internet but it was resolved within minutes. It did not take away from the experience. For a male majority staff I was very surprised on the cleanliness of the bathrooms."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2020 • Friends"
+    },
+    {
+      "title": "Best Bachelorette",
+      "text": [
+        "I came here for my bachelorette party recently and it was everything I thought it would be and more. Brian was absolutely awesome and helped us out and made the tournament really fun! Thank you again BATL Axe!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020 • Friends"
+    },
+    {
+      "title": "Awesome!",
+      "text": [
+        "Came out tonight for a bachelorette and had the best time! Brian was absolutely amazing, super knowledgeable and safety focused while definitely keeping the party energy going! This guy deserves a beer! ❤️"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020 • Friends"
+    },
+    {
+      "title": "Great fun!",
+      "text": [
+        "We had a Friday company team building event and spent our afternoon throwing axes. We definitely had a great time learning how to throw axes and having a mini tournament. Many thanks to Mark (our coach) for our exciting Friday team building activity. What a terrific way to end our very productive week!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Friends"
+    },
+    {
+      "title": "Great company team building!",
+      "text": [
+        "Our company went here for a team building event and it was so much fun! Mark with a K was definitely the best coach ever. It was our second time here as a company and definitely won't be the last. If you are in the city as a tourist or are just looking for a fun activity, I highly recommend coming here. Definitely ask for Mark with a K to be your coach because he is the best."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Business"
+    },
+    {
+      "title": "Great service",
+      "text": [
+        "Gabriel and Hayden were amazing coaches, brought great service and made the experience even more entertaining!! ",
+        "Had an amazing time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Friends"
+    },
+    {
+      "title": "Awesome afternoon spent at BATL",
+      "text": [
+        "Sarah was an incredible host. She was informative, personable, and really made our experience a great one. Hope to have Sarah as a host again next time. ",
+        "Cheers!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Great experience with Vince",
+      "text": [
+        "Great time, Vince was a good and fair referee. He made our competitive and friendly ax battles fun and enjoyable. Quick service at the bar was also notable. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Had a blast! ",
+      "text": [
+        "Had a great time at this corporate event with 14 of us! Super friendly staff and great atmosphere. I recommend the wheat beer on tap! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Business"
+    },
+    {
+      "title": "Awesome corporate team building",
+      "text": [
+        "Had a great time with 12 employees! Andres was super fun and helpful, and the location was great. ",
+        "Having the bar on site was convenient, and the casual atmosphere was condusive to conversation, laughs, and team building."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Business"
+    },
+    {
+      "title": "Bat Axe - Villiers, Toronto",
+      "text": [
+        "We had a great time at the Villiers location - Adam was a great coach and a very witty commentator. 🤣🪓 Would definitely go back - great way to spend date night."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "Super fun evening!",
+      "text": [
+        "We went for a friends birthday party and had such a great time. At first it seemed daunting but the instructors Scott and Ryan were fantastic, offering great encouragement and advice. I ended up hitting a bullseye and got to throw the big axe. Top night! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Boys Just Wanna Have Fun",
+      "text": [
+        "Dan is the squirrel-iest man! After one night of knowing him, I want him to MC my wedding. I’d then get a divorce and meet someone else so I could get him to MC again. He’s the type of guy that’s too good for anyone. He makes you want to be a better man. After spending 5 minutes with the guy, I want to quit my fantasy league, move out of my parents’ house, and eat something other than Papa John’s for the first time in 3 years. He’s the type of guy that would give you the last nacho with the good toppings.",
+        "Seriously though, exceptional host. He hosted a birthday for a friend of mine (The Garbage man - he’ll be following up with a review) and we couldn’t have asked for a better experience. Super patient, chirps the right amount (we invited it), and just chill overall. 6/5, would share a plate of ‘chos with this guy. ",
+        "Someone get this guy a puppers!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Business"
+    },
+    {
+      "title": "Buy Dan a beer",
+      "text": [
+        "Dan was squirrelly but he sure knew how to throw a big ole axe. He's clearly used to swinging something big and deserves a beer of his choice @ Mr. manager. Had a great time at my coming out party and Dan was accepting of my sexuality. XOXO gossip girl"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "I threw sharp things and it was awesome ",
+      "text": [
+        "We drank beer (thanks to bartenders Gab and Potter), threw varried sized sharp axes, it was awesome. Our coach Mary put up with our insane amount of ridiculousness and nobody died despite our best attempts cause she was that great a coach. Good vibes all around "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Business"
+    },
+    {
+      "title": "Wonderful Experience, Great Staff!",
+      "text": [
+        "It was my first time axe throwing and the coach, Andreas, made the whole event a lot of fun in addition to providing good training and feedback on how to improve my throws! Would definitely go back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Super fun",
+      "text": [
+        "Came to the Villiers Batl location with a few friends while coached by Ryan who did an amazing job! Even more so he taught us how to throw one-handed as well AND got us to throw the BIG axe til we were tired of it. He really made sure to coach us on the points we could work on and it really improved our throwing throughout the session. Thanks again Ryan, cheers!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Had a great time!",
+      "text": [
+        "My wife and I had a great time throwing axes. Michelle was  an awesome instructor!!! Great time. Thank you Michelle!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Couples"
+    },
+    {
+      "title": "Ryan and Sarah were awesome !",
+      "text": [
+        "Amazing fun. Great instruction and from Ryan and Sarah !! So fun !! Never done it before and it’s super organized ! Cool building."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Business"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "It is lot of fun. You meet people with different type of skills from all walks of life!",
+        "It is about experience! Most and foremost where you ability is irrelevant! But if you hit the spot not only you meet new people but the whole team will be routing for you!!",
+        "Go try it! You might be surprised what skills you have and you might find a friend/s for life!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Solo"
+    },
+    {
+      "title": "Best birthday activity",
+      "text": [
+        "My friends and I went for a birthday celebration and had a great time. Our coach, Sarah, was welcoming and helpful in showing us throwing techniques. Her great sense of humor kept us engaged, and we all felt encouraged. Thanks to her, we'll be back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Friends"
+    },
+    {
+      "title": "Lots of fun for a group.",
+      "text": [
+        "Fantastic event for a birthday. Sarah was our coach--she did a fabulous job. Fun was had by all; no humans were harmed. Highly recommended group activity."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Soooo goooood axe throwing",
+      "text": [
+        "After visiting other amazing axe throwing club in Poland and hearing the story of them and of axe throwing, I’ve decided to visit, like they said in axe nation, „parents of axe throwing”. Everything was soooo good as in first club I’ve visited. Maybe because they are both in the same league? Nevermind - it was just perfect! I highly recommend!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Friends"
+    },
+    {
+      "title": "Bachelor party",
+      "text": [
+        "Gabriel was awesome and very informative and helped to make the event a memorable one ...would definitely recomend this place",
+        "  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Business"
+    },
+    {
+      "title": "Awesome family time",
+      "text": [
+        "Visited during Christmas break with sister and all our children and partners",
+        "Kristina (so) our coach rocked",
+        "Loved the facility interaction ",
+        "Algorithm to create tournament was great",
+        "Everyone was included in the action",
+        "Everyone want to do it again"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Family"
+    },
+    {
+      "title": "Awesome time!",
+      "text": [
+        "We came for our friends birthday and Brian and Aiden took great care of us. Best experience I've had throwing sharp objects!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Friends"
+    },
+    {
+      "title": "Epic group activity",
+      "text": [
+        "Who would think drinking beer and throwing axes would be so epic. The most amazing group evening at Batl Toronto, with the greatest Coach Ryan!",
+        "Highly recommend Batl.",
+        "Thanks Mark Hill for the motivation."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Total blast",
+      "text": [
+        "We went for a birthday and had a great time. Despite what you might think,throwing axes is not intidimidating at all. Mary, our coach, was awesome and we shared lots of laughs with her. #protractor"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Friends"
+    },
+    {
+      "title": "Great experience for work event",
+      "text": [
+        "Went with 15 people from the office for a work outing, and had a great time. The coaches are great and teach you everything you need to know. Overall had a very good time and would go back. Thanks to Michelle and Shayle the coaches, and Markus for making our time awesome."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Parcheggio, a great Italian restaurant at Bayview Village!",
+      "text": [
+        "I was with two of my girlfriends at Parcheggio (Oliver& Bonacini),and we were impressed. Beautiful interior, delicious food,we had PICCININ’S NONNA’S SALAD (arugula, tuscan kale, creamy romano beans, lemon, parmigiano-reggiano), MIXED FRIED SEAFOOD (squid, baby scallops, shrimp, spicy parcheggio), BUCATINI WITH PANCETTA \"all’Amatriciana”, tomato sauce, chili, red onion), their homemade Tiramisu was a dream, the red wine and the service, everything was perfect! ",
+        "It was a wonderful dinner.",
+        "Thanks,",
+        "Camelia"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Friends"
+    },
+    {
+      "title": "Bachelor party event",
+      "text": [
+        "Went for a bachelor party, in a group of 12. Only got two lanes so it took a while to play buy the staff were accommodating and entertaining.",
+        "Great spot for any kind of event, but only for smaller groups of less than 20."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Amazing night! 10/10",
+      "text": [
+        "Michelle Shale were great highly recommend!  Was a great team building exercise for a work team.  The time flew by and my only regret was not booking more time! 10/10"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Business"
+    },
+    {
+      "title": "All of the fun",
+      "text": [
+        "Gabriel was our coach, and Nick was our bartender for the day! We had an awesome time today axe throwing. Would definitely recommend this experience for a group outing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Friends"
+    },
+    {
+      "title": "Awesome time with our coach Andres",
+      "text": [
+        "Really enjoyable time throwing axes! Hahahaha so funny thanks to our coach Andres! Really friendly people there and our coach was really motivating us to do better !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Business"
+    },
+    {
+      "title": "Best fun",
+      "text": [
+        "Had a really great time here last Saturday. Mary was our coach and did a great job of making it fun and teaching us to throw. We all need some axe-throwing in our lives!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Business"
+    },
+    {
+      "title": "The instructors make it a great time! Thx Michelle",
+      "text": [
+        "This was my second time at BATL, first was the Port Lands district and the second was Stoack yards. Both times were fantastic! I took my team there for a an event and we enjoyed the friendly competition along with Michell's coaching made sure everyone was throwing well!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Adam the man!",
+      "text": [
+        "Thank you Adam for making it a fun bachelor party! Will definitely try to come back and keep getting better."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Friends"
+    }
+  ]
+}

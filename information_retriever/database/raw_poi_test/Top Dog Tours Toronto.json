@@ -1,0 +1,341 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Top Dog Tours Toronto",
+    "url": "/Attraction_Review-g155019-d17747774-Reviews-Top_Dog_Tours_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "60 Atlantic Ave Suite 200",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6K 1X9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 39
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4e/29/a2/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Cultural Tours",
+    "Ghost & Vampire Tours",
+    "Historical & Heritage Tours",
+    "Private Tours"
+  ],
+  "description": "From the iconic and famous to its distinct neighborhoods, history, food, culture and the hidden secret corners, Toronto has a lot to offer.\n\nFrom first time guests to locals looking to explore a new neighborhood, we want to give you a personal and enjoyable experience. Our tours are in small groups, or private groups with local guides.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Confusing but warm in winter and dry when it's rainy",
+      "text": [
+        "The PATH is confusing, but it does have good food options depending on the building and it will keep you dry and warm. Definitely get a paper map, and add 5 mins to your travel time because you will get lost if you aren't familiar with the routes. Google Maps doesn't work well down there, but people are friendly and willing to help you find your way."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Well worth your time for this Kensinton Market and Chinatown Walking tour",
+      "text": [
+        "It was our first visit to Toronto.  This walking tour was very informative and the guide was very knowledgable.  She was very organized and appeared to enjoy sharing the highlights and tidbits of the area."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Don't waste your time.",
+      "text": [
+        "Wouldn't bother booking with this company,  the guide didn't turn up and I'm having to claim a refund. Total waste of time when your on a short visit to the city."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Awesome!",
+      "text": [
+        "We did this tour with Marilyn. She was amazing, knew the anecdotal details, was very very accommodating with us, had excellent suggestions for local eateries. The experience of Kensington Market was worth it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Rachel.....an excellent tour guide!",
+      "text": [
+        "Rachel was the PERFECT tour guide for this 2 hour walk.  She was so knowledgable about the area and city.  Not only did we learn the history of these two districts  but she had such fun commentary as we walked among the sites in both Chinatown and the market.    Would highly recommend this tour for  all visitors to Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Nice citywalk",
+      "text": [
+        "Very informative citywalk. We enjoyed the tour vey much.",
+        "We have been at places we probably would not have seen if we wouldn’t have taken the tour.",
+        "Great information by our tourguide Rachel"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great walking tour",
+      "text": [
+        "Our tour guide Rachel was great, very knowledgeable, talked about some local historic events, showed nice places with comments of architectural details and gave us good tips fro eating and entertainment."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "Great afternoon experience!",
+      "text": [
+        "We had an amazing time on this walking tour! Our guide, Rachel, was so incredibly informative and friendly. She truly made this a wonderful, interesting, fun, and educational experience. If you do the tour (you should), I recommend to carve out extra time once the tour ends to explore Kensington Market further and try the yummy food and neat shopping all around.  I highly recommend this tour! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Friends"
+    },
+    {
+      "title": "Walking Tour of Toronto; St. Lawrence Market and the Underground among others",
+      "text": [
+        "This was a great tour—even in the torrential downpour we still had a blast. Great tour to do at the start of your trip to Toronto—will see some of the major sites and get history into them as well. We had a personal tour with tour guide Rachel, she was super informative and overall just a great tour guide! She even did a detour so we could keep part of the tour underground to avoid getting soaked. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Friends"
+    },
+    {
+      "title": "Marilyn is the best tour guide!",
+      "text": [
+        "Our tour guide Marilyn was amazing! She was extremely knowledgeable and give her twist and opinions to every place we crossed. She accommodated us to make sure we were engaged and made us feel extremely welcome. 11/10 experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022 • Friends"
+    },
+    {
+      "title": "awesome tour with Madison",
+      "text": [
+        "Was looking for a fun, easy tour of downtown Toronto for my first visit and I got exactly what I was looking for! ",
+        "Learned so much and had a great time with our guide Madison who was funny and knowledgable. Would definitely recommend to any friends planning a first time visit to Toronto. An excellent way to acquaint yourself with the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Solo"
+    },
+    {
+      "title": "Great Downtown Tour",
+      "text": [
+        "My family took the Downtown Toronto Tour with Kyle this week. What really stood out to me was the pace of the tour. We moved at a good pace, and covered a good amount of ground without it being exhausting. It was a great way to see the Downtown area in a short period of time.",
+        "I would highly recommend to all friends and family/"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Great tour, awesome guide!",
+      "text": [
+        "I went on a tour with Madison around Kensington Market and China town On July 20th. It was such an amazing time! I learned so much about the city and the rich history that it has! I would recommend this tour to all my friends coming to Toronto as it is a great way to see the city and learn about the history if you’re only visiting for a short period of time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "I had such a fun time on this tour. The guide Dayna was entertaining and fun. I learned so much and definitely want to take another tour with this company! Would highly recommend!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Knowledgable guide, good company, great food!",
+      "text": [
+        "My husband and I had used this company in NYC and were excited to use them again on our trip to Toronto this week. Dayna was an amazing guide and had a wealth of knowledge about the neighborhoods we visited and about the city in general. Of course the best part was visiting Kensington Market and trying local cuisine. I recommend going hungry!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Downtown - Great Tour!!!",
+      "text": [
+        "My family and I took the Downtown Toronto with Madison and had a really great time. We learned all about the history of the city and saw all the \"must see\" sites. We got much more out of the experience than if we had done it ourselves. Thanks Madison for a great tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Taste of Toronto",
+      "text": [
+        "I had a great time on my tour around Kensington Market. The guide Kyle was friendly and knowledgable, and we got to sample some amazing food as we visited the neighborhood."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "For too hot days, the ground is recreation",
+      "text": [
+        "It really exists, I didn't believe it either, but we found it, and it's really interesting. You should have seen it. The number of KMs is exactly right, we have expired them."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Fantastic",
+      "text": [
+        "Excellent way to get to know Downtown on our first morning in the City. It was certainly a small group only consisting of my husband and I. Had Madison as our guide who was very knowledgable about the area and showed us things we would never have found if we had wandered about ourselves. Excellent value for money and would highly recommend to anyone visiting Downtown Toronto. Suzanne and Colin"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Great tour, lots of interesting information",
+      "text": [
+        "I had Madison as a tour guide and he was really knowledgeable about the city and was able to answer any questions I had. I really enjoyed learning about the history of Toronto and seeing sights I would never have noticed while wandering around. Thanks very much!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Solo"
+    },
+    {
+      "title": "Such a unique Experience",
+      "text": [
+        "My girlfriend and I were lucky enough to get Dayna as our guide on this tour. She really seemed to know her stuff, and was excited to share all the information with us. I'd been to Toronto before business, and was taking my girlfriend as fun getaway, but I'd never been to that area before. Definitely worth the price of the tour! I'd recommend it to anyone looking for a different Toronto experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Fantastic Tour!",
+      "text": [
+        "My boyfriend and I took the Kensington and Chinatown tour with Dayna this week and had a great time! We really enjoyed learning about all the street art and all the great photo ops on the tour. Kensington Market is such a unique place, and this tour was the highlight of our trip in Toronto! ",
+        "Thanks Dayna!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Toronto, the foodie City!",
+      "text": [
+        "I had no idea what a fabulous multicultural food scene Toronto had! I grew up in Southern Ontario and had never explored much of Toronto on foot. Kyle was so enthusiastic about the local store owners and their delightful delicacies, I could have spent the whole day there! It was fun getting to hear some stories of how Kensington Market has been shaped over the years. Highly recommend this tour for visitors and locals alike!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Fantastic downtown Toronto tour!",
+      "text": [
+        "My partner and I have had numerous previous visits to Toronto and felt like we knew the city pretty well, but our recent downtown tour- with our super friendly, knowledgeable guide Kyle- breathed new life into a otherwise familiar place. We particularly appreciated how Kyle brought the stories of this city to life in a very animated, exciting way! We had a blast and certainly learned a tonne. We'd definitely recommend this tour, and this guide to those looking for fun, adventure, and a heightened appreciation for this dynamic city!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "Incredible Tour with Dayna",
+      "text": [
+        "I'd never been to Toronto before and had heard that Kensington Market was one of the areas I should check out. I'm so glad that I decided to take a guided tour of the area. My guide Dayna was awesome. Definitely would recommend this company to anyone looking for a great experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Great tour- highly recommend!",
+      "text": [
+        "My family took the Downtown Tour with Kyle and we all had a great time. Kyle was funny, personable, and very knowledgeable about the area. We especially enjoyed his recommendations on restaurants and other things to do in the area after the tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Great way to start your Toronto trip",
+      "text": [
+        "Visited Toronto with a group of friends - many them had ever been to Canada before. This walking tour was the perfect way to start our trip! First of all, our tour guide Madison was so fun (and cute !!). We learned a lot about Toronto as a city and it’s history, and the tour helped us get a feel for the different areas of downtown Toronto which helped us plan the rest of our trip (where to shop, eat, etc)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Toronto Downtown Tour - Highly recommend!",
+      "text": [
+        "I love taking tours in new cities I visit and this downtown walking tour of Toronto was one of the best I have experienced.  Toronto is an amazing city and our tour guide provided a ton of interesting information on the various landmarks we toured. Thanks Madison.  Really enjoyed it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "Downtown Toronto Walking Tour",
+      "text": [
+        "I recently had a downtown walking tour with tour guide Marilyn (Lenny) and I had a great experience. The tour guide was pleasant and knowledgeable and the sights were interesting. I especially liked seeing the Old City Hall building, the financial district, and the Fairmont Royal York hotel. I'd definitely recommend this tour if you're in downtown Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Tour of Kensington and Chinatown",
+      "text": [
+        "My husband and I did the small group walking tour of Kensington and Chinatown today. We had a wonderful guide who was very friendly, had lots of information, made everyone feel right at home. Very knowledgeable guide. The tour was 2 hours and we stopped for a quick coffee in the middle. We would very highly recommend this company."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Great experience!",
+      "text": [
+        "I enjoyed the entire tour from the beginning until the end. Our tour guide was awesome- so knowledgeable and friendly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Friends"
+    },
+    {
+      "title": "Disappointing",
+      "text": [
+        "Unfortunately our guide never showed up. We arrived 15 minutes before the assigned time and stayed 15 minutes after but no one ever came."
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Awesome downtown Toronto walking tour!",
+      "text": [
+        "We really enjoyed the downtown walking tour.  Madison was a great guide!  He was very knowledgeable about local sites and had a lot of information to share.  Thanks Madison!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Learn About Toronto",
+      "text": [
+        "We loved the stories behind the sites we visited on our walking tour of Chinatown and the Kensington Market. Madison, our guide is knowledgeable, interesting and provided historical background as we walked   I recommend this tour for those who want to learn about Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great tour by Madison",
+      "text": [
+        "Our tour guide was Madison. He was informative, personable, engaging. He gave us just the right amount of information about downtown Toronto. Walked at an easy pace, alternated outside and inside, shared interesting details, took any questions. We thought he was great."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Fun and Interesting...",
+      "text": [
+        "Madison was a brilliant guide. Quite knowledgeable and extremely nice. The tour was interesting and pointed out some of the fun highlights of downtown Toronto including some not-so-known places. He answered every question we had no matter how off-the-wall they were. Well worth the price of admission."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Exceptional tour!",
+      "text": [
+        "Kyle led us on this exceptional tour of China town and the Kensington market.  We had no idea what to expect, but learned so much!  We went into shops that I would not have wandered into without Kyle’s urging!  He was one of the best tour guides I have ever had, and that is saying a lot as my husband and I have traveled the world extensively. I would highly recommend Kyle and this tour company!  It was definitely the highlight of our trip to Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Awesome tour",
+      "text": [
+        "Our tour guide was great! The sites were great! He showed us things about the history and architecture that we would have never seen without this tour. We even saw a Mountie! Highly recommend this tour. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

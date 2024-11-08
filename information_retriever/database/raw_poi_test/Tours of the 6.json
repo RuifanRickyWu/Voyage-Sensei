@@ -1,0 +1,238 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Tours of the 6",
+    "url": "/Attraction_Review-g155019-d12441945-Reviews-Tours_of_the_6-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 1E6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 25
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/7f/f2/c1/where-else-can-we-spot.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Walking Tours"
+  ],
+  "description": "Step into Toronto with this 2.5 hour walking tour that is as young and fresh as Canada itself. Join our 6ixperts, as they lead you on an engaging and factual tour of Toronto, as well as give you insider tips on where to eat, party and perhaps catch a glimpse of the 6God himself. Book a private tour for your school, group or party now!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great private tour! Definitely recommended!",
+      "text": [
+        "My husband and I were visiting Toronto and due to our schedule, we reached out to Tours of the 6ix and requested a special date and time. They were so responsive and willing to work with us so we could take the tour! The entire process of booking the tour was so accommodating and that really spoke highly how much they care. On the day of our tour, we met Heather in Union Station and she took us all around the cool places. She had a lot of great info and was very funny. We loved our private tour and would highly recommend it to any and everyone. It was the perfect combo of Drake info and info about the city! Thanks!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Walk an awesome experience!",
+      "text": [
+        "Just wanted to send a note after our walk yesterday with Heather! ",
+        "She was absolutely phenomenal and we thoroughly enjoyed the walk, her knowledge of the city and her energy! ",
+        "I’ll definitely be telling people about this walk for certain!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Great walking tour of Toronto with a bit of Drake",
+      "text": [
+        "Don’t be daunted by the fact that it’s called Tours of the 6, it’s actually a great and informative walking tour of Toronto in general. The guides are super knowledgeable and engaging about the city and offer a local’s perspective on where to go and what to eat. I do think it could have been more Drake-focused, but there were certainly a lot of fun facts incorporated in the tour."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Awesome tour of TO",
+      "text": [
+        "My friend told me about this tour so I can get to know the city. The tour was awesome, our guide was very knowledgeable, and gave excellent recommendations. This is the best walking tour in the city, I’ll be recommending it to everyone."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Comprehensive and Professional",
+      "text": [
+        "I was looking for something new and sort of active to do with some colleagues and clients. This tour group led by Eleni had everything I was looking for. History, great info a d knoweldgable guide, funny and just the right amount of talk time versus time to digest. The tour is accessible to all abilities and I especially appreciated the guide's awareness of each person's interests. With a focus on the love for Drake, my clients loved learning about our beloved Toronto performer and "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Business"
+    },
+    {
+      "title": "Great way to see the city",
+      "text": [
+        "I had such a great time on this tour! Tour guide Ellie knew all the greats spots for the beat Instagram worthy shots! She had tons of great info to share and really showed me a different side of the city! Can't wait to do it again this summer with friends"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Solo"
+    },
+    {
+      "title": "Learnt new things",
+      "text": [
+        "The tour was fun, informative and interactive. I learnt a lot about where to go in the city for different food and cultural experiences. The guides were knowledgeable and friendly...funny as well. Enjoyed the walk. Worth it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Great walking tour",
+      "text": [
+        "I had a great time with my friends walking around the city. We saw some awesome stuff and the guide was very knowledgeable. They were funny too and stopped when we wanted to take pics!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Amazing time in the 6!!!!!",
+      "text": [
+        "Went on this great tour of Toronto today! Tour guides were friendly and very knowledgeable and super entertaining! Lived outside of Toronto most of my life and thought it might be a good time to get to know the big city. Someone recommended this tour to me and I'm glad they did!!! Never knew there was so much to see! Highly recommend for visitors and locals!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Learned so many new things!",
+      "text": [
+        "Having grown up just outside Toronto, I thought there couldn't be that much more to learn and discover in the city, but boy was I wrong.  Tours of the 6 was so fun and informative and its like I got to see a city I know and love for the very first time!  The tour takes you through 2.5 hours of fun filled facts and side streets of Toronto's rich history.  This tour is for everyone, even if you are not a Drake fan.  I would highly recommend this tour to both Torontonians and visitors alike.  Cannot recommend enough, the tour guides are full of energy and passionate about showcasing the best that Toronto has to offer. Go on this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Solo"
+    },
+    {
+      "title": "Great time!",
+      "text": [
+        "This tour was amazing! The guide was very informative and engaging as she walked us through Toronto. We stopped by the ACC, CN tower and Rogers center before walking down cool streets like Queen and even taking a trip to graffiti alley where we all had mini photoshoot!! We even got to learn more about Drake and his connection to the city he loves. Overall, I would recommend this tour to people sightseeing in Toronto, people who live here or even anyone who just simply likes Drake."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Friends"
+    },
+    {
+      "title": "Tours of the 6 ",
+      "text": [
+        "the tour was really good and filled with awesome information about where to go, and if drake and other famous people have, the tour was also filled with great information about drake and other famous people who are from Toronto and come. the hosts were so friendly and great with everyone (all ages). "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Friends"
+    },
+    {
+      "title": "Learn about Toronto and Drake 1 step at a time!",
+      "text": [
+        "just took the tour with about 20 other people, and it was fantastic. The guide was really engaged with all the guests and gave random factoids that as a Toronto native I didn't even know. All in all great way to spend the morning. Would recommend to other natives or people from out of town."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Solo"
+    },
+    {
+      "title": "Amazing informative and a great walk",
+      "text": [
+        "This Drake inspired walking tour is incredible. We started at Union Station and made it all the way to Graffiti alley. I learned so many interesting facts and the tour guide was hilarious. I generally do not take on Walking tours but this tour, I would do again and again. A complete and total recommendation for anyone visiting the city as well as locals who just want to learn a lot of new things about a place they already love. A must do attraction! ",
+        "Best part is that Its free! I tipped out 20 dollars at the end and really that was nothing for what I got out of the tour. ",
+        "Thanks for an incredible experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Friends"
+    },
+    {
+      "title": "Amazing!",
+      "text": [
+        "Went on this tour today with my sister. We are huge Drake fans and had a great time. Learned a lot about the city. Loved that it is a walking tour we love walking around the city and getting a feel of downtown Toronto life. Took lots of great pics. Can't wait to bring my friends!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Friends"
+    },
+    {
+      "title": "Best Tour I've been on in AGES",
+      "text": [
+        "I would highly recommend this tour! I've been on many walking tours around Europe and North America and this one takes the cake! Who would have thought I knew so little about the city I live in! Thanks for an amazing, and very informative, morning! Also...the tour guide rocked and really made the experience unforgettable!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Excellent tour of Toronto, including two very distinct neighbourhoods",
+      "text": [
+        "Went on a wonderful walking tour today to learn a little more about the city I grew up in and live in.",
+        "Our very passionate and energetic tourguide, Ellie, took us on a journey starting at Union Station (a Toronto landmark where thousands of people travel through each day!). During the tour we learned all sorts of interesting facts relating to Drake. Not knowing much about Drake, I was totally impressed about the great love he has for this wonderful city! ",
+        "We visited several Toronto landmarks learning some very interesting facts along the way. Then we visited two very distinct and very cool neighbourhoods (just blocks apart) and Ellie took us through the culture, landscape, community, and uniqueness of each. Ellie's passion, her energy, and love for Toronto is very evident and makes the tour a great and entertaining experience.",
+        "Whether you're a Drake fan or not, whether you're from the GTA or the other side of the world, this is a not-to-miss tour. A great way to spend a morning in TO!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Solo"
+    },
+    {
+      "title": "Torontonian approved!",
+      "text": [
+        "My friend and I, (we are both locals) decided to randomly take this tour because we are both fans of Drake and loved the idea of being tourists in our own hometown. As someone who has been on other walking tours around the world, I would highly recommend this for all types of travelers visiting Toronto, even if you are unfamiliar with Drake. Our tour guide, Stephanie was amazing - she was full of energy and very passionate about her job. She mentioned that the tour company is made up of enthusiastic, avid travelers who wanted to start high quality walking tours in Toronto, like you would see in many other cities around the world. Surprisingly, there aren't many offered in \"The 6\" - and this tour is a great way get started! We had lots of fun on our path, which starts at Union Station and ends at Queen & Spadina. The tour opened our eyes to so many new hot spots and we learned interesting facts about our city that we didn't otherwise know as locals (the ACC used to be the Canada Post, who knew?!). Kudos to Tours of the 6 for putting together something that both locals and travelers from around the world can fully appreciate."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Friends"
+    },
+    {
+      "title": "Awesome Tour of Toronto!",
+      "text": [
+        "My husband and I went on the tour to do something \"different\" in our city. We were pleasantly surprised by how entertaining and engaging our tour guides Ellie and Eleni were! I was a bit hesitant as i'm not a big Drake fun but my husband is so we gave it a shot and it was equally entertaining for both of us. The tour offered a different perspective on the city, the inside scoop on restaurants and go-to spots all while listening to a boombox and walking with some \"friends\". The time flew by and we were both really happy with the experience. Definitely recommend to people who live in and around Toronto as well as all visitors. Drake fan or not, this tour has something to offer everyone. PS wear comfortable shoes and bring your cameras - some really beautiful photo ops!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Loved it!",
+      "text": [
+        "I had such a great time on this tour! Learning about such an amazing city centered around one of my favorite artists was such a good combo. Highlight of my trip for sure. Thanks Steph!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Solo"
+    },
+    {
+      "title": "Feel like I discovered my hometown",
+      "text": [
+        "I have lived in \"the 6\" all my life and still learned SO many interesting facts about Toronto on this tour. The tour guide - Elly - was so friendly, informative and obviously LOVED Toronto- Not to mention the 6god himself. I would definitely recommend this tour to tourists and locals alike. Whether you like Drake or not- this tour allows you to see Toronto in a very unique lens. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Tours of the 6",
+      "text": [
+        "This tour was great! It felt like being taken around Toronto by 2 friends, the L's. The girls were very friendly and let me ask as many questions I could possibly think of. Though the tour is based around Drake I would recommend it to anyone. We walked around the major parts of the city and it was amazing how excited they were about the place. We went to parts of the city I would have never thought to go and they had interesting facts about all the places. They had extensive knowledge and tips on everything from where to get the best view of the city to where to hang out in the evenings. They also showed me the best cookie place in Toronto! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Solo"
+    },
+    {
+      "title": "Views (of the 6)",
+      "text": [
+        "The tour was awesome! Our tour guide was Steph, who was enthusiastic and knowledgeable. She clearly has a love for the city and it comes through as she tells you all about Toronto. The tour starts at the hub of Toronto's transit centre: Union Station and takes you through the main city attractions, as well as ones referenced by Drake. I especially enjoyed the walk through Graffiti Alley as it was cool to see all the local artists work."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Amazing walking tour!",
+      "text": [
+        "Great for fans of Drake. Has a good mix of major tourist attractions and hidden gems! The tour takes around 2.5 hours, and there are many photo opportunities."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Solo"
+    },
+    {
+      "title": "Amazing Drake-inspired walking tour",
+      "text": [
+        "I had the pleasure of joining in on one of the very first tours that the lovely ladies at Tours of the 6 put on.  ",
+        "I, admittedly, am not much of a Drake fan myself, but found the concept really fun and very different from many of the other tours out there.  I learned not only a bit more about Drake, but about the buildings and neighbourhoods on the tour - and this is coming from a Toronto-native.",
+        "The girls present the information in a fun format, complete with their own in-house paparazzi who follows the group around and will gladly take photos of you and your friends - no selfies necessary.  On my tour, one of the 3 tour guides even busted out into Drake raps that were somewhat connected to the location on the tour.  Super fun and memorable!",
+        "I would highly recommend this tour to any visitors to the city, Toronto natives, and, of course, Drake fans!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Solo"
+    }
+  ]
+}

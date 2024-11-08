@@ -1,0 +1,230 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toplink Limo",
+    "url": "/Attraction_Review-g155019-d26265536-Reviews-Toplink_Limo-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ingram Rd",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "L5L 4N7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 22
+    },
+    "openingHours": "Mo-Su 00:00-23:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/8e/16/44/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Taxis & Shuttles"
+  ],
+  "description": "Experience luxury with Toplink Limo, your top choice for premier transportation in Southern Ontario. Our service shines in airport transportation, wedding day elegance, and exclusive vineyard tours. Toplink Limo offers unparalleled comfort and class, taking your journey to the next level.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Toplink",
+      "text": [
+        "Great company. Used them from Pearson to downtown. ",
+        "Professional, courteous and on time. ",
+        "Will Use them again always every time I’m in town"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "5 Stars for Toplink",
+      "text": [
+        "After having some unpleasant experiences with another airport limo company, we were on the search for a new company.  Very happy to have found Toplink Limo.  Both our trips to the airport and back home again were well organized with great communication, on-time, clean vehicles and pleasant drives.  We'll be going with Toplink from now on!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Awesome service",
+      "text": [
+        "Great customer service, very professional and on time. Highly recommended especially when you are travelling with little kids. Two thumbs up."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Toplink Limo review",
+      "text": [
+        "This was a limo service from Pearson airport to our home",
+        "Good communication with driver when we landed he was there. Beautiful SUV great driver, and a fair price. I would highly recommend 👍"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Couples"
+    },
+    {
+      "title": "Great limo driver",
+      "text": [
+        "Sean was Amazing ! He text us , to let us know he is waiting at the airport , he texted us clear instructions where to me him at , with his car plate number ! He is a very good driver , and pleasant to talk with , he even took us to the Tim Hortons drive thru at my request .",
+        "Thanks Sean",
+        "All the best !",
+        "Joe & Val Pouget "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Friends"
+    },
+    {
+      "title": "Excellent - smooth, safe ride",
+      "text": [
+        "Excellent service; skilled drivers, always arrive on time, deliver a smooth, safe ride — and arrive when needed. Friendly, helpful - both behind the scenes and the drivers themselves."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Amazing service and fleet",
+      "text": [
+        "Great service!",
+        "Always on time! Reliable for airport and downtown Toronto taxi service.",
+        "Super clean fleet and in great condition."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Solo"
+    },
+    {
+      "title": "Toronto Airrport to Hamilton Mountain 5 pm Nov 7th",
+      "text": [
+        "Great trip in pm rush hour    Driver was great  car was great     A great experience   third time used since September   "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "Toplink Limo Service - Memorable",
+      "text": [
+        "Toplink Limo warrants a review of their service for a pre-arranged airport pickup we had with them. Our driver, Dean, had tracked our flight and knew when to reach out to us when we were not at the location he had emailed. He was unable to reach us as we inadvertently provided an incorrect number or my backup cell number that had not been switched out of Airplane Mode after landing. ",
+        "We did not receive Dean's email with explicit pickup details for location and car identification on our offline phone (lesson learned) and navigating the size of Pearson airport made for a lengthy delay before we decided to call Toplink and meeting with Dean within 60 seconds of starting that call (on my husband's cell).",
+        "Dean's thoughtfulness was exceptional, including an offer to swing by somewhere to pick up something to eat (on a fixed price ride) helped make for a very rare memory of the ride home from a 2 week island vacation full of memorable moments."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Well managed experience ",
+      "text": [
+        "Well managed ride to airport. Price quoted upfront. Text messages about arrival time estimates. Clean car and competent driving. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Amazing Service ",
+      "text": [
+        "Very professional, pick up on time and arrival on time. Enjoyed the ride and water bottle is provided to clients.",
+        "Will use their services again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Business"
+    },
+    {
+      "title": "Stellar service!",
+      "text": [
+        "Great service, and timely response to requests!  Would highly recommend utilizing Toplink Limo services!  Great and friendly staff!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "Fantastic!!",
+      "text": [
+        "Fantastic!!!   Very reliable to the airport and returning home!!   Would highly recommend their service!!   We had use them for several years!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Great service!",
+      "text": [
+        "Super efficient service ! Driver was extremely courteous and went out of his way to help me with my bags. Would use again without question. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Very good service",
+      "text": [
+        "Great limousine service. ",
+        "Very professional and prompt. ",
+        "Excellent communication. ",
+        "I highly recommend them. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Best Limo Service!",
+      "text": [
+        "I use only Toplink Limo for my travel needs. The drivers are always on time to pick me and my family up at our home, and again at the airport following our trips. The responsiveness with all logistics communication is exceptional. The SUVs are modern and clean, and the drivers are friendly, courteous and pleasure to ride with. I highly recommend Toplink Limo!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "100% Recommend them! Professional and reliable",
+      "text": [
+        "Have been using their limo service for two years now and have been super reliable every single time. I can count them to pick me whether it's as early as 4 am or as late as 10 pm for my departure and return flights. Would 100! Recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Business"
+    },
+    {
+      "title": "Professional limo service",
+      "text": [
+        "We booked with TopLink Limo three days before our trip.  We needed a larger vehicle as we are a family of six with six suitcases and carryon bags.",
+        "The gentleman who I spoke with, was very pleasant, helpful and professional. It took only a couple of minutes to book a car to pick us up.",
+        "We received a confirmation email right away. ",
+        "Two hours before pick up, I received a text to introduce who the driver would be, and confirm that the car was on its way.",
+        "When the vehicle arrived, the driver was very friendly and immediately took our luggage.",
+        "We decided to book the service to pick us up from the airport when we returned from our trip ",
+        "Our flight was delayed and that was not a problem for them.",
+        "The driver was waiting for us once our flight landed but unfortunately our luggage was delayed and we waited over an hour from expected pick up.",
+        "I contacted the driver and told him it was okay if he wanted to leave to which he responded no he would wait and that it was not a problem.",
+        "I highly highly recommend their services. ",
+        "I will for sure use them again, and I will pass their number along to all my family and friends"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Always there",
+      "text": [
+        "Reliable and accommodating.. have gotten me out of more than 1 jam. I’m a huge fan and I’ll continue to use their services."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Family"
+    },
+    {
+      "title": "Best ride service",
+      "text": [
+        "I definitely recommend them , great price , very professional , on time , extremely clean car & wonderful service.",
+        "We will use their service again ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Good experience",
+      "text": [
+        "Very professional drivers 100% recommend to use them . Their drivers are well dressed and very cooperative "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Great reliable service",
+      "text": [
+        "I recommend Toplink limo service for ride to the airport , pick-ups and other destinations. They have reliable and friendly service and large comfortable SUV to fit large groups ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Family"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "CJ's Skate Park",
+    "url": "/Attraction_Review-g155019-d4941109-Reviews-CJ_s_Skate_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "560 Hensall Cir",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "L5A 1Y1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 13
+    },
+    "openingHours": [
+      "Mo 16:00-22:00",
+      "Tu-Fr 12:00-22:00",
+      "Sa-Su 10:00-22:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/c8/34/d2/cj-skateboard-park-school.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Game & Entertainment Centers"
+  ],
+  "description": "C.J. Skateboard Park and School is the world's largest Not-For-Profit air conditioned indoor skateboard park serving all kids in the community including at-risk youth and those with special needs. If you would like to learn about sponsorship opportunities or make a donation, please contact me for more information. The C.J. Skateboard Foundation is a registered charity dedicated to the development of all children and youth, including at-risk and special needs, through the benefits of skateboarding, scooter riding and inline skating.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "CJ's Skate Park",
+      "text": [
+        "Great place to burn off some energy with the kids. I had my son in for week long camp and dropped in a few times for the family skate on the weekends. Well maintained pipes and ramps, and really well stocked shop with rentals if needed. Highly recommended for anyone who is interested in starting up, or dusting off the gear and getting back into shredding!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "A favorite!",
+      "text": [
+        "This place is clean and very cool looking.  My son had 3 lessons during our stay.  The staff is friendly.  The instructor was so nice and very supportive to my son.  This was my 9 year old son's 1st time skateboarding.  He loved it and that makes me so happy.  Great physical activity.  This is a must if you have kids and you want them to learn something new.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "A great afternoon ",
+      "text": [
+        "A rainy day in Toronto lead us to CJs to kill a couple of hours. Our son had an awesome time!  ",
+        "Such a cool facility with ramps and tricks for boarders and scooters of all levels. ",
+        "During our visit there were summer camps going on so it was a bit busy but watching from the viewing area it was amazing to see the level of respect and cooperation of the participants. An unofficial pattern developed and everyone seemed to instinctively know the direction to skate and how to avoid bumping into others. When the odd collision did occur everyone was quick to lend a hand up and ensure that those involved were okay. ",
+        "The facility itself is laid out very well and very organized. There is rental equipment available for those who do not have their own and onsite there is a canteen for snacks and drinks. ",
+        "The viewing area upstairs offers charging ports for technology and also free WiFi which is a nice option for younger siblings who are waiting or parents wanting to catch up on emails. 😉",
+        "An employee named Homer was extremely knowledgeable and helpful and provided lots of information on the facility and also suggestions and ideas on other places to visit and skate parks to try while visiting the area. ",
+        "I highly recommend CJs Skate Park. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "best skatepark in canada almost as good as woodward",
+      "text": [
+        "amazing smooth ramps and nice foam pit i learned backflips on scooter and great vert halfpipe and awesome staff. i had a good time and i was sad to leave"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Cool school is here",
+      "text": [
+        "I am not a skateboarder, but have to say this is one neat place. It is so darned cool to see the variations they have be it for beginner to what I imagine is expert. It is full of happy kids and is simply something that has to be seen. Great looking place to take your kids."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2016 • Business"
+    },
+    {
+      "title": "Best Skatepark ever!",
+      "text": [
+        "My son had the time of his life during his lessons at CJ's Skatepark. Many thanks to all the staff, particularly Matt,"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2016 • Family"
+    },
+    {
+      "title": "CJs is the best!",
+      "text": [
+        "My daughter's weekly visit to CJs is the highlight of her week! The park has everything you could want but it's the people that put the experience over the top. Absolutely everyone is super friendly, helpful and encouraging. Her instructor has taught her so much while making sure it's fun and safe. Great park, great folks, great vibe!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2016"
+    },
+    {
+      "title": "Great Indoor Skatepark",
+      "text": [
+        "If you love skateboarding, or would love to learn, this is the place to go.",
+        "As a skateboarder, I really appreciate the friendly atmosphere and huge variety of options to skate.",
+        "It's got a great street section, mini ramps of variable sizes, a full sized vert ramp, and even a launch ramp into a foam pit. ",
+        "You can really learn any aspect of skating here.",
+        "An added bonus is the lounge and on site skateshop with friendly staff to help you choose and build whatever you need."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Friends"
+    },
+    {
+      "title": "Awesome Family Skate Sundays",
+      "text": [
+        "I skate with my kids every weekend we possibly can during the amazing family skate sessions held every Sunday morning from 10-12. During this time CJ's staff instructors will session with the kids and adults providing free tips and instruction to those who want it. We have a great session with some other Dad's who still skate with their kids. Fun times."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Family"
+    },
+    {
+      "title": "Very fun spot to learn to skate",
+      "text": [
+        "CJ's is an amazing Skatepark!  Both me and my kids learned here.  They have good variety of terrain/ramps and the staff are super helpful."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2016 • Family"
+    },
+    {
+      "title": "What makes CJ's different",
+      "text": [
+        "I was curious to learn what would motivate someone to create, invest so much money ,time and resources in creating what I found out was the 4th largest Not-For-Profit indoor skateboard, Scooter and Inline park in the world.It’s an amazing place serving all kids in the community including those with special needs.They give so much back which is incredible and rare these days. I learned the founder and main investor Jay Mandarino  has been acknowledged in many editorial articles, letters of praise and with numerous awards including two medals - the Diamond Jubilee Medal from Her Majesty Queen Elizabeth II and the Ontario Medal for Good Citizenship from the Lieutenant Governor of Ontario, recognizing individuals who, through exceptional long-term efforts, have made outstanding contributions to their communities. Jay has always had a strong passion for helping others conquer their own human challenges and it is this passion that drives him to give so much back.We are lucky to have people like this who give so much back to our communities.The sk8 park project is one of many things he has done and I and many parents/kids are grateful for that.",
+        " As someone who almost never reviews, I found it necessary to share what I have learned, as a customer you would never know all the great things that are happening because of CJ's.",
+        "Thank you guys, and keep up the good work!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2014 • Family"
+    },
+    {
+      "title": "C.J'S is the Best!",
+      "text": [
+        "We were so lucky to find the indoor C.J. Skateboard Park & school in Etobicoke!",
+        "Our kids go almost every week and they love it!",
+        "As parents we find it a safe place for kids to enjoy skateboarding, scooter riding and Inline skating!",
+        "The facility is huge and accommodates all  levels from beginner to experts .",
+        "They  have their own pro-shop and rent everything as well!",
+        "The staff are very knowledgeable and truly take pride in their work.",
+        "You can sign up for lessons or camps as well and they are open 7 days a week.",
+        "The establishment is a Not-For-Profit and as well caters to special needs kids and offer free program for kids and their families living with cancer!!",
+        "The place is first class and state of the art, they even have Canada largest foam pit and vert ramp.Different areas with different obstacles and are adding rock climbing in the fall!",
+        "The place is  perfect for  birthday parties as well!",
+        "We give it a 10 out of a 10!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2015 • Family"
+    },
+    {
+      "title": "Great facility but disappointed with day camp.",
+      "text": [
+        "My son is 11 years old and was excited to go t Cj's Skateboard park.  We live 4 hours north and I had to attend a business meeting in the area, so I signed my son up for the skateboard day camp.   I called and asked if they would teach the children to skateboard and the sales person said they would and that they would group students according to abilities.  I guess my son was one of the two older children attending the camp and it was more like a daycare service than teaching kids to skateboard.  The students weren't put in groups.  During the three breaks, the children were put in a room to watch the same video, \"Future Nature\" over and over.  They played tag.  The skateboard facility was great other than the air quality (very hot) but disappointed in the day program.  The instructors were not that friendly either."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2014 • Family"
+    }
+  ]
+}

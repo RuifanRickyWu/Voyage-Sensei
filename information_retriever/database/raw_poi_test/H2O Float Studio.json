@@ -1,0 +1,394 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "H2O Float Studio",
+    "url": "/Attraction_Review-g155019-d7621685-Reviews-H2O_Float_Studio-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "25 Mill St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5A 3R6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 341
+    },
+    "openingHours": "Mo,We,Th,Fr,Sa,Su 10:00-19:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/7b/64/20/our-float-cabins-are.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": "Welcome to H2O Float Studio in Toronto's Historic Distillery District. Experience a level of total relaxation that you have to feel to believe! Melt into a serene experience of weightlessness and tranquility, restoring balance to the mind and body. Float in one of our Cabins, where the temperature of the water and air are maintained at a constant 34 degrees Celsius. As this is the body's normal skin surface temperature, it creates a feeling of oneness with the water. Our Float Cabins each contain over 1000 pounds of the highest quality of Epsom Salt dissolved in 10 inches of water. The water is circulated and filtered 24/7. Although the 1000+ pounds of Epsom Salt is already extremely sanitizing, the water also passes through a UV and an Ozonator filter.",
+  "duration": "Duration: < 1 hour",
+  "reviews": [
+    {
+      "title": "Just What I Needed ☺️",
+      "text": [
+        "This is a nice place; easily accessible with pleasant staff. My aromatherapy massage was really lovely and eased an injured ligament while relaxing me, which was very welcome."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "H2O Float studio",
+      "text": [
+        "The customer service was excellent. And the deprivation tank was incredibly relaxing and rejuvenating. All in all, it was amazing, I would go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Wonderful",
+      "text": [
+        "It was a surprise for my friend and we love it. Thank you so much for the great time we had. My friend after she was so relax. ",
+        "Amazing!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Floating in Space?",
+      "text": [
+        "Really friendly staff. Quiet,calming environment. The pods are larger than I have used before. Loved the stary lights in the ceiling. Will definitely be going back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Amazing relaxation",
+      "text": [
+        "I enjoyed my time with amazing water, also I got a very nice treatment. I recommend everyone to visit that place. I will go back for sure"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "RMT Massage",
+      "text": [
+        "Such an amazing experience! All the staff are so friendly and the massage was wonderful! Very relaxing, I will definitely be back! I highly recommend to anyone looking to relax or work on any muscle pain."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Rude and disrespectful staff",
+      "text": [
+        "I booked a float and massage. ",
+        "I received excellent assistance from staff at the front desk, and enjoyed my float spa experience. ",
+        "I followed all of the instructions and promptly exited the float spa when the experience ended. However, a member of the staff rudely interrupted a serene and pleasant experience by forcefully banging on the door while I used the restroom. This type of behaviour was more in keeping with a police officer than a relaxing spa. When I walked out of the restroom, the attendant loudly told me that I needed to rush and my massage would be cut short. I found her communication style to be sorely lacking in professionalism and courtesy. ",
+        "This experience put me in a poor headspace and meant that I was unable to enjoy my massage. ",
+        "When I paid for my appointment, the wonderful person at the front desk asked how my session had gone. I shared how everything had gone well until someone started banging on the door when I was in the washroom. The person who chose to bang on the door overheard this and again started talking loudly to me and stated that she knocked on the door. This was incorrect - she banged on the door. To end the conversation, she offered a perfunctory apology followed by muttering under her breath. When I said, pardon, she responded by saying she was talking to herself."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "A Phenomenal Floating/Massage Experience",
+      "text": [
+        "I decided to treat myself with a day at the spa with my friend. My experience was awesome! My 60min massage with Chantaine was so relaxing it was just what I needed. This was my first time experiencing the hydrotherapy float and it was worth it. I like the idea of having different themes. My friend and I chose starry night, the stars and lights added to the experience of the float. Would definitely come back again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Amazing massage",
+      "text": [
+        "The body work practitioner, Shahri, was amazing. She asked me where I want her to focus more. Consistently asked about the pressure. Understood my tension spots and gave me the best massage possible. I felt so much lighter after the massage."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Solo"
+    },
+    {
+      "title": "Skilled and Attentive RMTs",
+      "text": [
+        "I really enjoyed my massage at H2O Float with  RMT Chantaine. ",
+        "Chantaine was attentive, professional, and very considerate. The massage was intentional and truly felt like therapy. I will be back to work on problem areas ongoing.",
+        "Parking is challenging, especially during the Distillery District Winter Village and there are no amenities to enjoy outside of your massage. The environment is simple, clean and comfortable.",
+        "If you are going to H2O Float solely for a massage, the skilled RMTs are the draw. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2023 • Solo"
+    },
+    {
+      "title": "Great",
+      "text": [
+        "I loved the massage and Himalayan Salt Soak I recently had.",
+        "The staff and RMT are very kind and helpful.",
+        "Great place to experience a Float Session and/or Massage! ",
+        "Very clean as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Relaxed and glowing",
+      "text": [
+        "My first time at H2O float. Was greeted by friendly staffs. Decided to treat myself to the purification package.It was absolute bliss. Soothing and relaxing. Stella was wonderful and kind. I came out glowing and I looked a few years younger. Thinking about my next treat real soon."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Solo"
+    },
+    {
+      "title": "Very relaxing",
+      "text": [
+        "First time trying out the float experience. Staff was warm and friendly, answered my questions and explained the process. I had a relaxing time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "A Life Changing Experience!",
+      "text": [
+        "I purchased the Float and Glow package. I did the Ocean Float and Inolo Holistic Facial: Reset + Restore. It was an incredible experience. I decided to purchase this package after seeing a woman on tik tok review this same package. I was getting married and decided to purchase the package a few days before my wedding so I can truly reset and relax before the big day. I never really had a self care routine, or understood the importance of a self care routine until attending the Float and Glow package.",
+        "The staff at H20 were so accommodating and easy going. They really make you feel calm and ready to go even before you start the treatment! The float tank was something I was super nervous to do. Sitting still for an hour is something I just can’t do, or have never tried. The cabins are gorgeous. The showers and toiletries they provide you are incredible. I could spend hours in their showers. The hour I spent in the float tank was life changing. I don’t think I have ever experienced anything like that before. You are truly relaxed and numb to any outside stresses. It takes a bit for your body to adjust but once you just let go it becomes an experience that you realize you need regularly in your life. ",
+        "Once my float was over (I was so bummed out) I went to have my facial. I have cystic acne so I was a little worried that the treatment would cause a flare up. It was quite the opposite. I haven’t had a flare up since my treatment (it's been almost 2 weeks). My skin has never glowed like it has since the facial. It was such a nice experience. Stella did my facial and she was so personable and I felt I really connected with her. She really made me realize I needed to do more things like this for my self care routine.",
+        "Overall I couldn’t possibly rate this experience because it was out of this world. I can’t wait to come back for another Float and Glow package! ",
+        "All the Best",
+        "Patience Kerr"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "Great massage downtown",
+      "text": [
+        "My first visit to H20 Float studio was to have a massage. The location is in the distillery district, which can make street parking a challenge so give yourself a few extra minutes as you may need to park in the parking lots on the other side of the building ",
+        "My RMT was Evangeline, she was excellent. Unfortunately my luck with RMT's lately haven't been great. Many seem to just try and do their routines and get through the service. Evangeline was not like that, she was assessing my problem areas and talking about corrective actions as she worked through the areas with tension. Super professional, great massage. ",
+        "If you are like me and do not want to chat about your weekend when getting a massage, Evangeline is the professional you want.  Great experience, will definitely go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "Fantastic experience at H2O Float Studio in the Distillery District.",
+      "text": [
+        "I had a fantastic experience at H2O Float Studio in the Distillery District. I have been dealing with insomnia on and off for a couple of weeks. I had a great night's sleep after a restorative and relaxing trip to Float Studio. I felt like a new person walking out of there and it was a relief to release a build-up of stress. I had a massage after the float with Ryan Gaal which was incredible. I love how he used essential oils by the headrest. It was very calming. I look forward to coming back and making this a part of my wellness routine."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "AMAZING!",
+      "text": [
+        "I think it is a very unique experience. I will definitely do this more in the future. I also strongly recommend people to go as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022"
+    },
+    {
+      "title": "The Best Float Studio In Toronto",
+      "text": [
+        "H2O Float Studio is the best float studio in the city. ",
+        "To clarify, it is not a spa, but it offers access to sensory deprivation/float chambers, and other services are offered at the studio, like massage therapy. ",
+        "I meditate in sensory deprivation/float chambers at this studio somewhat frequently, at least twice a month, and I would not have been able to endure the stressors of the COVID-19 pandemic without it.",
+        "Even though I engage in a myriad of stress-reducing habits, activities, and environments, like hatha yoga, different forms of seated meditation like mindfulness meditation, different forms of journaling, and psychotherapy (in the form of cognitive-behavioral therapy), almost none of them can reduce my stress levels to the degree that meditating in a sensory deprivation/float chamber at H2O Float Studio does.",
+        "H2O Float Studio is excellent, and so are the studio's staff and owners.",
+        "I went for a float yesterday, and I will be going for another one in approximately a week.",
+        "I highly recommend this venue."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022"
+    },
+    {
+      "title": "Best part of my weekend",
+      "text": [
+        "You’re greeted by the nicest staff, who get you all comfy and settled right away. They were a little behind schedule but that didn’t stop their amazing service. Once in your own private float room, you take a quick shower before drifting off into bliss. You feel the most wonderful sensation of weightlessness, while complete tranquility. Now I’m normally someone who suffers from claustrophobia, so I was a little nervous going in. But once in the float tank, you feel so safe and secure. No room for fear. I got the 90min facial too & Stella was incredible. My face is literally glowing, my body feels like heaven. She took her time and you can tell she absolutely loves what she does, because it felt incredible. Overall so happy and will definitely be going again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022 • Solo"
+    },
+    {
+      "title": "Average",
+      "text": [
+        "I found the float quite cool in temperature, so much so that I left the float to see if staff could increase the heat. The water was not very warm, and the parts of my body that were exposed to the air felt cold. I had to cross my arms beneath my back to keep them submerged. The staff I spoke to were nice and said that they would increase the temperature to the maximum allowed for safety, but I did not really feel any difference. I remained in the float but did not feel relaxed during my time inside the cabin. I emailed the company to see whether this is normal but no-one replied. I would not recommend this to anyone who feels the cold easily."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2022"
+    },
+    {
+      "title": "Deep Tissue",
+      "text": [
+        "Got a deep tissue massage from Ryan and it was hands down the best massage! It seems like he really know what he's doing and he's made my back feel a lot better"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Solo"
+    },
+    {
+      "title": "Extremely relaxing and meditative",
+      "text": [
+        "The facility is extremely clean and serene. I would advise that you ask the staff how to operate the controls within the tank (i.e. to lower the music, and adjust the lighting) as it is not that intuitive. Had an incredible experience, and would highly highly recommend this place!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "H2O float is amazing!",
+      "text": [
+        "The flat was amazing and relaxing. The salt water was also really good for my skin.",
+        " I also found out we can book a massage after as well so I will do that next time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022 • Solo"
+    },
+    {
+      "title": "A tepid bath with TTC noises",
+      "text": [
+        "My husband bought me a $240 gift card for a massage and float. I wish I could give it 5 stars, I really do. But I just didn't find the float experience relaxing.",
+        "The spa is clean and serene, but to be honest I feel that should be Standard Operating Procedure for a spa, not something I give \"extra points\" for. The staff member asked my shoe size upon arrival to give me a pair or shoes. \"Size 8\" I said cheerfully. She proceeded to give me a pair of size 8. Mens. *ahem*. I had to shuffle back and switch them out myself for a pair that fit.",
+        "Then came the obligatory 5 page health and wellness form to fill out before the massage. Why do we do this ? I have YET to go to *any* spa where they look at these forms. The massage was great, but I feel I could have written I had all manner of diseases and ailments on that form and no one would have read it. The RMT just asks \"So what are we working on today ?\" H2O is not alone in this approach, but again... what's the point of these forms if no one reads them ? I suppose it's for insurance purposes.",
+        "After the massage, the float tank was introduced and a very prelim verbal explanation given of the controls, but no one actually shows you how to use them. But how hard could it be anyway ? I thought. Well... kind of hard. The volume & light controls have no read-outs /lights to indicates if you're increasing / decreasing stuff so I faffed about for quite a while before I figured out exactly what settings worked for the lights and sound.",
+        "I did float. My upper right neck and shoulder twitched as the Epsom salts released tension so that was nice. But the water was *barely* warm at best, and the ear plugs meant that my \"rainforest experience\" sounded like muffled construction or transit noises. ",
+        "Basically my float experience was like sitting in a tepid bath, while the TTC subway roared underneath me.",
+        " I don't find tepid baths 'relaxing'. I floated around, not warm, staring at the LED lights in the ceiling, listenting to the erstwhile \"rainforest\" / TTC noises mumbling to myself \"When does this get relaxing ?\" for about 45 mins. Then I just got fed up with how uncomfortable I was, and got out of the tank before the session ended. I couldn't wait to have a hot shower to warm up!",
+        "Clearly some people love this experience. And as I said, I really *wanted* to ! I really, REALLY did !! But it's not my cup of tea. Chalking it up to \"trying something different\", but nothing I'd want to do again."
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "Trying it again 7 years later",
+      "text": [
+        "I had this float experience with H2O 7 years ago, in a different location.",
+        "I see at the time I wrote it was more of a novelty, one-time experience. However, here I am back! It only took 7 years. What drew me back was the changes they have undergone since 7 years ago, including the 'theme' floats. I did the 'Strangest Thing' float and it was a good experience. ",
+        "I see 7 years ago I paid $39 on Groupon for the Experience. Now it's a $105 plus tax!",
+        "One thing I wish I knew going in is that you can change the settings inside the float chamber. For instance, I also experienced complete sensory deprivation on one setting, and 'starry night' on another setting. Something worth noting when booking, as I find that to be a plus. ",
+        "I did enjoy listing to 80's music, and it was surreal to hear the 'Stranger Things' theme song with a red glow inside. The experience is even better when you close your eyes and submerge your ears (with ear plugs). You can hear the music through the water, and see the red glow through your eyelids, while floating in very densely salted water. I felt like I was in the 'upside down!' ",
+        "I did the solo experience, so cannot speak to the 'crowded' factor some reviews have mentioned for couples/pairs. When I first did this 7 years ago, it was in those smaller, egg-like pods. The problem with those at the time is that they got too hot inside. This time they are in larger chambers, which I find helped keep it cooler. However, it was not too cool for me, as some reviews have indicated. My temperature inside was quite good. ",
+        "Fun experience to have with an 'out-of-towner,' but I think the price puts me off from trying it again anytime soon, especially when you have two different Nordic spas that have recently opened up in the province. It might be another 7 years before I am back! ",
+        "Staff here were amazing."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Sensory Deprivation Tank",
+      "text": [
+        "Warm welcome and helpful staff.  My partner and I experienced a tandem sensory deprivation float.  Very easy to use, well set up, clear instructions, they thought of everything.  My back pain melted away in the warm and soothing salt water and darkness.  Towards the end, we put on the starry night effect, was really calm and intimate.",
+        "Definitely will go back and take advantage of other services on offer.  ",
+        "Would recommend without hesitation."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "H20 Float Studio",
+      "text": [
+        "My daughter and I floated in a cabin while under the stars! This was extremely relaxing and a great activity to do together. We had excellent service from the staff. The spa was clean, and organized and even provided drinks and a blow dry bar. We were relaxed for the rest of the weekend after our visit here. We highly recommend!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Excellent services",
+      "text": [
+        "I love the serenity and intimacy of this place.  My massage has always been customized to my needs.  Never a poor experience"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Solo"
+    },
+    {
+      "title": "Very nice",
+      "text": [
+        "Very nice environment and helpful staff.  I did the Starry Night experience as my first and it was lovely, great salts in the water, lots of space, a nice neck rest to keep your head afloat, effective free ear plugs to keep water out of your ears.  It took me a while to figure out how to turn off the mood lighting so I could just enjoy the twinkling stars on the ceiling of the pod but managed to do so, keeping my eyes mostly closed for the experience, occasionally glancing at the stars above.  Tranquil, what I hoped it to be, didn't want it to end, 75 minutes goes like that.  It's tempting yes to stay for longer if they offer it.  $85 for this seemed decent enough and worth it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Amazing unwind",
+      "text": [
+        "Very friendly staff who guided you each step of the way.",
+        "This was an amazing way to unwind leading to the deepest, most restful night sleep."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Solo"
+    },
+    {
+      "title": "Interesting & Relaxing Experience ",
+      "text": [
+        "First time trying and it was definitely an experience! We opted for the dark side float and I really liked it since it wasn't complete silence (for our first time). We also had the option to switch off the lights if we wanted do which was great. The place was super clean and service was great. I kind of want to go back myself and do a solo float sometime - would definitely recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Lack of Information Experience",
+      "text": [
+        "Massage was nice. However, they did not tell us it was not covered by insurance in the beginning. We had to pay for the full price even though we went there to use our benefits. When I asked the receptionist to help to apply for it, she did not even try to do anything.  "
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2023 • Solo"
+    },
+    {
+      "title": "A great experience ",
+      "text": [
+        "The spa is very clean and the staff are very friendly and knowledgeable.   The float was great and I felt good afterwards. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Absolutely loved it!",
+      "text": [
+        "Had a wonderful massage experience here on my first visit! Was booked for 90 mins with Lingling and the whole session was amazing. She is not just great at her job but also at being courteous, kind and friendly. I am going back for more soon :) with my husband ! I am sure the other RMT’s must be good too because the whole vibe of this studio is so warm and welcoming, right from the girl at reception ! So even though I might pick lingling again for my future sessions I know that even if she is not available I will be in good hands !",
+        "Thank you H2O for this awesome experience. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "It was a facial that made me float.",
+      "text": [
+        "What a wonderful facial, perfect end to a stressful week. Shahri was attentive, kind and knowledgeable. Having sensitive skin, appreciated her care and explanation of her approach. ",
+        "Will go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Memorable and recommended",
+      "text": [
+        "Loved the float. It’s great for overthinkers like me, finally had a chance to switch off. I appreciated the little details like high quality towels and robes. I will definitely be back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Relaxing Tandem Float",
+      "text": [
+        "My husband and I had the most incredible experience at h2ofloat. My sister had bought us a tandem rainforest float for our anniversary and it was a perfect gift. From the moment we entered the studio is was warm and inviting and we felt a sense of calm instantly. The staff were lovely and ensured we were well looked after throught the process. The float tank was the largest I’d ever seen and we both fit comfortably together. The float under the soft green lights with rainforest music was the most calming experience and a great escape from the kids! I had the best night sleep that evening. We can’t wait to come back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Relax Relate Release ",
+      "text": [
+        "Great experience",
+        "Feel relaxed rejuvenated and my skin feels so soft. I would recommend to try, bring a friend do a couples float save money "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Solo"
+    },
+    {
+      "title": "Amazing relaxing spa day",
+      "text": [
+        "Amazing staff with excellent service. Relaxing experience that was unique and enjoyable. Very calm environment and the experience was calming and blissful. Definitely would come back! "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "Float your hard earned money elsewhere",
+      "text": [
+        "I felt much worse after \"float\". Extremely sore neck & jaw. All your weight from your body travels to your neck/head on an optional floating pillow. Very awkward. Not comfortable or relaxing. Even tried without pillow. I had a stubborn headache for days after. Inexperienced staff. I wouldn't  purchase package outright. Their site ONLY spotlights their perceived good without the many many downsides.  I strongly DO NOT recommend this overblown hyped up service."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2023"
+    }
+  ]
+}

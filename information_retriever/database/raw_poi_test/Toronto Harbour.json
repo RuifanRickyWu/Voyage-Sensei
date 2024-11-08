@@ -1,0 +1,363 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Harbour",
+    "url": "/Attraction_Review-g155019-d184960-Reviews-Toronto_Harbour-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Along Queens Quay W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 2G8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 576
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/95/fc/1f/restaurant-from-tall.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Points of Interest & Landmarks"
+  ],
+  "description": "Encompassing the city's downtown area, the harbor is known particularly for its shops, restaurants, ferry terminals and marinas.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Lovely Harbour",
+      "text": [
+        "I love the calmness of the harbour, a cool place to hang out in the evening too...while watching the boats go by.",
+        "While there take a boat ride you won't be disappointed with the wealth of information and history about the harbour and the islands  off in the distance...a few restaurants and shops lined the area as well.",
+        "Beautiful and picturesque skyline of Toronto when on a cruise on the lake, shouldn't be missed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Beautiful harbor and informative",
+      "text": [
+        "This was an interesting and beautiful tour of the Toronto harbor. We learned the history of industry, plus the unique story of the islands. I highly recommend this one hour excursion. Captain Katie was funny and informative."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "A great lively area of Toronto to check out!",
+      "text": [
+        "I’d forgotten how lovely a stroll down the Toronto Harbour was until I recently went to the Rogers Centre to catch a ballgame with the new Renovations.  Food trucks, restaurant options galore, pubs and bars.  Also, some culture was available with a Banksy exhibit.  There’s something for everyone, which explained the lively feel to the area.  I cannot wait to check out the area again and soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "What a place !",
+      "text": [
+        "Great views, great hospitality and everyone you meet is so warm and friendly.",
+        "There's so much to see and do, there is enough to spend an entire day and still there would be more to see and do"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Nice walking area",
+      "text": [
+        "Toronto harbour makes for a really nice walk along the lake front. You have the skyline of the city behind you and the islands in the lake to the front. A good selection of bars and outlets along the harbour."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "Toronto Harbour, Toronto, Canada",
+      "text": [
+        "If you go there on a sunny day, you can take a tour to see the attractive city view of Toronto, including skyscrapers, Rogers Center, and CN Tower, from the lake."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Island Journey",
+      "text": [
+        "Your Lake Ontario sailing journey will start at here. This place is easy to navigate and clean. The access is convenient too."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "crowded and lovely place",
+      "text": [
+        "Alive and crowded the Toronto harbour, many places to visit, restaurants and cafes, a lot of people walking around, very nice sightseeing tour by boat."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Harbour ",
+      "text": [
+        "Great views even with the rain, the sky would clear and open up to great views of the city. The islands were. Great touch to see"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Couples"
+    },
+    {
+      "title": "Great vibe",
+      "text": [
+        "Busy area with stages and always something going on. Whether you just want to sit by the water, or eat and drink in the many bars, waterfront is well worth a visit as great vibe."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Harbor Front",
+      "text": [
+        "Walked along Harbor Front with gorgeous views of Lake Ontario and Centre Island.  Headed for Amsterdam Brewhouse to have a late lunch.  Staff extremely friendly and helpful and food was your very typical good Canadian/American fare.  We tucked into their spinach and artichoke dip, screaming hot chicken wings, lemon chicken schnitzel, 12 hour smoked brisket, fish tacos and a huge salad.  Great place to spend a few hours and the sun was shining so sitting outside on their patio by the water was just lovely."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Family"
+    },
+    {
+      "title": "Beautiful view to enjoy!",
+      "text": [
+        "So pretty & calming, a must to just walk around and enjoy! You can walk a pretty long way with tons of parks and benches."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Check it out",
+      "text": [
+        "We went there twice during our stay. Beautiful and relaxing. Some nice places to eat. A short walk from the Royal York. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021"
+    },
+    {
+      "title": "Leslie Street Spit- Tommy Thompson Park",
+      "text": [
+        "A beautiful 5 km wild but safe park, perfect for a Lakeside walk or bike ride.  Lovely lake views and best views of downtown Toronto.  Great bird watching.  Perfect any season but dress warmly of cold day.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021"
+    },
+    {
+      "title": "Beautiful view",
+      "text": [
+        "Awesome view of the city. Great place to relax and enjoy the scenery and atmosphere. Cool breeze. You can catch a ferry to the Toronto Islands from the Harbour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021"
+    },
+    {
+      "title": "This is not right",
+      "text": [
+        "The water is taken over by concrete here. Concrete everywhere. This is not right. The natural beauty is destroyed."
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2021 • Family"
+    },
+    {
+      "title": "Lovely sunset",
+      "text": [
+        "Great location to grab a cup of coffee and take a walk during the lockdown. Lovely view. Don’t forget to take a warm jacket!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2021 • Friends"
+    },
+    {
+      "title": "Wonderful Harbourfront",
+      "text": [
+        "Really enjoyed the fresh air, looking out at the Islands and boats in the distance and those gorgeous old relics from the past.  I did miss the joviality of the past whereby so many, many people had all the restaurants buzzing!  Every which type of restaurant!  But Covid has stopped all that.  Or at least the doctors have.  So I did miss that."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Great Place to While Away some Leisure Time",
+      "text": [
+        "This is a great place to spend time....the options are endless. Terrific cycle and or jogging/walking trail that goes for many kilometers along the lake (and links to many streets and cycle paths going north into the core). It has harbourfront centre with art and entertainment spaces, right next to the Queens Quay indoor mall riddled with shopping and dining, and the Power Plant art gallery. Lots of good spots along the waterfront to take the sun too. There are stretches of grass to sprawl out on, muskoka chairs to take the sun, and the odd picnic bench for a bite or a card game.  This is a happening, lively part of a vibrant city. Rent a canoe! Rent a paddleboard, go for a cycle.....take a walk, then have a bite to eat. Enjoy! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Nice evening walk",
+      "text": [
+        "I went there after visiting CN Tower and Aquarium. After tiresome day, the walk on the harbour was a relaxing one. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Pleasant walk along the waterfront",
+      "text": [
+        "Walking along the harbor front is a must do for a Toronto visit.  The water views, art installations, cafes, and views of the City's buildings make for a pleasant walk.  If you visit the nearby Roundhouse Park, you can see what the harbor front of the city was not very long ago, and how the harbor front has been developed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Ferry ride from Toronto Harbour",
+      "text": [
+        "A must do experience to watch the Toronto Skyline .Once on ",
+        "the ferry you can experience the Toronto Skyline with the CN ",
+        "Tower in all its glory.",
+        "Tickets are reasonably priced at Canadian 8.70 compared to",
+        "other attractions.",
+        "It is a short experience but we'll worth it. I remained on the ferry",
+        "but if you wish can get down and explore the area to take more",
+        "time on the islands."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Harbour Boat Ride",
+      "text": [
+        "The weather was fabulous for our boat trip around the islands and the harbour. The historical commentary was excellent from the lovely lady on the boat, would really recommend "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Lovely place  to cool off on a hot day.",
+      "text": [
+        "Easily accessible via street car,   lots of benches to sit and enjoy the sail boats as they come and go.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Nice evening walk",
+      "text": [
+        "Well worth a relaxed walking after your dinner. End of july there was also the Jamaican festival with vibrant athmosphere and live concert. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Lovely Harbour",
+      "text": [
+        "Lots of bars cafes and places to eat.Spotlessly clean and amazing view over the lake while walking along"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Fun for All",
+      "text": [
+        "A pretty good time, great to walk down and take in a good view. We got to see a street performer, super entertaining and a fun surprise. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Meh ..",
+      "text": [
+        "This was an OK tour but only if you have seen all other things you want. It is a slow tour around the island which is neat to see but no real amazing views or information. View of TO skyline was nice"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Harbor front",
+      "text": [
+        "A great place to walk around & hangout and enjoy the views of the water.  We came here twice during our 1 wk stay in TO.  Once for dining & shopping… 2nd time to do the harbor/TO islands cruise, which was fun."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "amazing",
+      "text": [
+        "if visiting or even living downtown Toronto the Harbour front is a great place to walk and look at scenery."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Great lake view.",
+      "text": [
+        "Fun water ride. Great views of Toronto coming and going. Three beaches to choose from, one being the clothing optional beach. Water was calm but cold. Take the ferry or the water taxi across but come back on the ferry as it is free. The ferry is $9 per person going but free coming back. The water taxi is $12 per person each way. Try icecreaminology on Queens Quay West."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Nice walk",
+      "text": [
+        "It is so nice to take a walk along the shore and stop to take some pictures. Plenty of food options on the way."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Chill out from the crowds in the streets",
+      "text": [
+        "Nice area to chill out a bit from the busier hustle and bustle of downtown Toronto.  Take some time out, give your neck a break from looking up at the CN Tower and all the other high rise buildings. Just look out over the lake for a while……preferably with a cold drink of your choice!!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Too much construction",
+      "text": [
+        "Toronto has grown hugely in recent years and there is construction work everywhere including at the harbour, we were supposed to have a boat trip on Lake Ontario but were unable to because of the construction in the area."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Not Persuasive",
+      "text": [
+        "The harbour it self is nothing specail unless you are interessted in boats. The view on Ontario Lake is nice. Depending on the weather you may enjoy yourself. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Chill out !",
+      "text": [
+        "Strolling around the admittedly chilly front this morning was refreshing. Lake Ontario is vast by UK standards at any rate. The high rise buildings on the waterfront are quite spectacular."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Take a Stroll",
+      "text": [
+        "Its really nice to take a walk along the harbour any time of the day, look out to the Island or just sit down and people watch.  Thats what the locals do."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Nice spot for walking, running or cycling",
+      "text": [
+        "Nice place for a walk, run or cycle. ",
+        "Lots of seating areas so you can look at the shops passing by as well. ",
+        "Nice spot for an hour."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2022 • Couples"
+    },
+    {
+      "title": "Nothing good here",
+      "text": [
+        "The roads in and around Queens Quay (pronounced key) in this horrible city. Like a war zone. Really really bad. Watch out if you go there.",
+        "I wouldn't.",
+        "Traffic is so bad.",
+        "Helicopter needed to get around this awful place in Toronto"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Harbour trip",
+      "text": [
+        "Visited harbour to do boat trip, quite a small area and not a lot there.  A few bars and restaurants.  "
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2022"
+    }
+  ]
+}

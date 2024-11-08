@@ -1,0 +1,462 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Miraj Hammam Spa",
+    "url": "/Attraction_Review-g155019-d3474695-Reviews-Miraj_Hammam_Spa-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "188 University Ave Fifth Floor",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5H 0A3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 145
+    },
+    "openingHours": [
+      "Mo-Sa 09:00-21:00",
+      "Su 09:00-19:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/43/6d/08/miraj-hammam-spa-by-caudalie.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": "An exotic oasis tucked away in the luxurious surroundings of the Shangri-la hotel in Toronto. Experience a voyage inspired from the ancient rituals of the Middle East. Old world traditions, introduced into the new world. This will be your Miraj Hammam Spa journey.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Disappointing ",
+      "text": [
+        "I cannot even begin to express how frustrated I am with this spa.  I've been to Elmwood spa multiple times, Scandinave Spa also multiple times, and I was so excited to visit this spa as I initially felt that it was more luxurious and I expected top service.  Unfortunately, this was not so. My massage was not continuous. The last would start w my arm, then leave to pick something up or wash her hands, then massages my leg and then back to my arm.  I was confusing and not relaxing at all.  Furthermore, the water therapies was nice when it was quiet, but becasuse it was part of the hotel, it got so loud when there were families with children etc .  After I wrote my review on Google, the manager reached out and seemed like she was interested in touching base. I've emailed them back 2* and nothing!!!! No response. The facilities too looked and felt cheap.  The napkins were rough and harsh. The curtain they had in their lounge was about to fall off the ceiling.  On their page it talked about caudelie products that they use, I saw it nowhere. The shampoo, conditioner, and other things like gel, mouse etc were terrible for curly hair.  After using these products my hair was so dry and tangled. I don't think I'd come back here again. I was and am so disappointed with their service. It's sad because my husband and I went here to celebrate our anniversary and smto do something special and different before ringing in the new year. Disappointed just disappointed "
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2023 • Couples"
+    },
+    {
+      "title": "Such a safe, welcoming and luxurious experience.",
+      "text": [
+        "Once again Miraj Hammam Spa allowed me to experienced an unforgettable day, making me feel so special and welcomed. Thank you!!!",
+        "I had the pleasure to be in the very capable hands of Haily, my service provider for my body treatment and I must say, the high quality product selection, the scents, the welcoming and luxurious environment along with her experience and skills, allowed me to feel safe, relaxed, and able to comfortably enjoy quite an amazing  experience.",
+        "Starting with the friendly and welcoming front desk staff, to the lovely lady who took such good care of me for the rest of my stay, before and after my treatment, and indulged me with a lovely arrangement of tea, baklavas, banana chips and raisins while I relaxed in their comfortable lounge beds.  ",
+        "If you find yourself in Toronto, looking for an unforgettable and luxurious spa experience, Miraj Hammam Spa is my recommendation."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Solo"
+    },
+    {
+      "title": "spa experience for friends",
+      "text": [
+        "it was a pleasure to spent here 2 hours in spa with my friends , we enjoyed the massage and whole spa thing experience was amazing, can not wait to come back here again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Disappointing",
+      "text": [
+        "Not sure if it is Covid related or there has been changes in management but quality of client service has gone down.  We were staying at Shangri-La hotel where spa is located and tried to booked time for massage.  They were fully booked and being guests of the hotel provided 0 priority. While that was unfortunate given that we were quite flexible on time and days, that is not in spa's control. What was more disappointing was their response to us asking for recommendation for alternative spa.  We were told to look up on internet. Wow, how insightful and helpful.  When you aspire to be a five star spa, your \"concierge\"  needs to be able to do more than check the calendar.  Disappointing.."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "So relaxing!",
+      "text": [
+        "This is my go to spa for when I need a total re-set. I have only ever encountered thoughtful, personalized service. The spa is clean, quiet and relaxing. Exactly what you need when you live in downtown Toronto! ",
+        "I have attended the spa numerous times during the Covid-19 pandemic, and have always felt that the spa was a safe experience. ",
+        "I'm plus sized, and they have the comfiest robes! I used to feel nervous to go to a spa, never knowing if the robe they gave me would fit, but they handled my worries and made me feel so welcome and cared for. Thank you and hope to see you when you are able to re-open!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "Excellent",
+      "text": [
+        "I had the most incredible experience! I had a deep tissue massage followed by a 15 minute scalp and head massage. It was absolutely heaven. The place is beautiful and tranquil and very clean. Everyone was respecting social distancing so I felt very safe. The lounge was beautiful. Overall the whole experience was delightful, I will definitely go back and recommend it to all my friends!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020 • Solo"
+    },
+    {
+      "title": "Comically Bad",
+      "text": [
+        "I went for a hot stone massage intended to \"encourage deep relaxation and relieve muscle tension,\" but I had exactly the opposite experience. ",
+        "The welcome people were excellent and the checkin process was straightforward. I arrived on-time with my mom and we were escorted to our respective change areas. ",
+        "The men's change-room is by far the worst that I have ever experienced at a spa, let alone a luxury spa in Canada. I have attached some pictures (I was the only one in the change-room the whole time I was there) to illustrate. The showers were both gross. The toiletries looked like they had been left behind by guests at the hotel rather than bought for the spa; numerous brands, all shared, some with price-tags still on the back. Numerous non-GFCI outlets right by the wet floor areas. One small bench in the entire change-room to sit; I was alone, but it would literally be impossible for more than 5-6 men to share that changing area despite there being dozens of lockers. There also wasn't a clock in the area, which is definitely a first for me in a spa change-room. The area also does not have a sauna or steam-room; the water amenities are in a different part of the hotel.",
+        "To get to the water amenities, I had to walk back through reception, across the elevator area to another reception for the hotel's gym. The gym reception is seemingly not connected to the spa, and so I had to confirm that I was a spa guest before signing another waiver to use the wet area. Then, in my housecoat and sandals, I had to walk across a gym full of people in workout gear mid-workout, around the weight-set, to get to the water area. The hotel pool is nice, and so is the hot-tub area, but the other amenities are inside of the gym change-rooms. It felt awkward going into a gym change-room full of people post-workout, while in a spa robe and sandals to enjoy a relaxing steam, and so I left without using those facilities. It seems like the only sauna area is co-ed and in the pool area but I could be wrong. ",
+        "After walking back through the gym, doing my best not to leave too much water on the wooden gym floor from my swim (I towelled off, but I definitely accidentally left some water near the weight area), I went into the spa waiting area. The pre-treatment room is relatively nice, with a good selection of teas and sitting areas.",
+        "The masseuse took me to the treatment room to begin the hot stone massage in a nearby private room. Although I filled out a health form, the masseuse did not discuss any of the health-specific feedback with me. I thought this was odd, as I have never had a massage where health questions were not asked or clarified at the beginning of the massage.",
+        "The first few minutes of the massage were used by the masseuse to get ready. As the hot stone treatment began, the masseuse started using a gross sounding oil dispensary to get oil for the stones; every few minutes, for the rest of the massage, I heard the loud SQUISH-SQUISH sound of a pump dispenser.",
+        "~10 minutes into the treatment, I noticed that the head crater (massage-table headrest) was broken. It was not properly connected, and so it kept slipping away from my beck, resulting in my head straining to stay on the headrest. The masseuse did her best to try to fix it, but it would not stay in the socket. After lying flat on the bed for a while, which was uncomfortable, she offered to fix it again by stuffing rolled up tissue in between the headrest poles and the sockets. This worked relatively well, but meant that when I opened my eyes anytime during the massage, I was staring directly at balled-up tissue. The masseuse told me that she would address the broken table with management later but she did not offer to switch rooms or change the treatment approach. ",
+        "The masseuse just could not seem to hold onto the rocks. Whenever I did relax a little, I would suddenly hear the crash of a rock on the ground. This was fine a few times, but it happened so often, coupled with the loud SQUISH-SQUISH of the oil bottle every few minutes, that there is no world in which I could actually relax during the massage. At one point, something else fell on the floor that sounded different and so the masseuse asked me if I had dropped something: neither of us knew what that sound was! I suspect that it was probably something falling off the broken massage table.",
+        "There was also so much oil on me throughout the massage that occasionally I would hear a splash/squish sound as the masseuse massaged me due to the excess oil. ",
+        "Between the squish-squish of the oil, the crash of the rocks, and the sound of the excess oil, it was a very loud massage... ",
+        "I first noticed the back pain when I was instructed to roll over on my back to finish the treatment. A sharp pain in the middle of my back that felt less like a workout or massage pain and more like I had been lifting something incorrectly. I haven't had any pain in my back at all this week, and I had a different massage last week which was fantastic (not at Miraj Hammam), so I can only conclude that this was a result of this treatment.",
+        "While lying on my back, a little towel was used to cover my eyes. Unlike other spas, which use a weighted bean-bag like towel, this was almost a tissue-like material. I kept my eyes open due to the pain and discomfort, only to have the towel accidentally yanked off allowing bright light immediately into my eyes. Why are the treatment room lights so bright? ",
+        "I was really disappointed near the end of the massage when it seemed as though the masseuse re-used one of the rocks that had fallen on the ground. There didn't seem to be enough time from when she picked up the rock with her right hand off of the ground to when she continued the treatment with her right hand (the left hand was on a different rock) for her to have put down the rock to grab another. I don't know how many rocks are used in the massage, but I felt like there was a dirt/sand like feeling in the leg area where she used the rock that had fallen. This is obviously really gross, and I almost got up to leave but I knew there was only a few minutes left.",
+        "I spent the last half of the massage wishing that it would end as soon as possible. ",
+        "The massage ended with a room-temperature towel being put over my face and then a gentle misting; when I opened my eyes after the misting as instructed, my eyes lightly stung (from the bright-lights/mist combo). Not sure what either of these post-treatment things were for, as the towel was neither hot or cold; the towel was meant to be cold, but probably had been sitting at room temperature for too long. Very weird post-treatment ritual. ",
+        "At the very end, the masseuse reminded me that she would speak to management about the broken table. I am genuinely not sure why we could not have just switched rooms to one of the numerous rooms not being used. ",
+        "I declined the post-massage baclava and tea so that I could hurry back to the change-room shower (the towel had been cleaned up) to wash the oil off and to get as much heat on my back as possible to calm the pain. Usually I leave massage oil on, as it's good for my skin, but I felt like a rotisserie chicken doused in oil. ",
+        "While paying and checking out, the receptionist, who was really nice and professional, asked about my experience. I told her and she offered me 10% off my treatment (10%?) or a voucher for a return visit. I told her that I didn't want 10% off as I am using insurance, nor did I want a voucher as I am not planning on returning. She told me that management would follow up with me by email. If management does follow up, then I will update this review accordingly. ",
+        "I definitely cannot recommend this spa to anyone. This is not only my worst 'luxury' spa experience, but also my worst spa experience in general, across price-levels. This was definitely not a $220 spa experience. ",
+        "As a result of the comically bad experience and the sudden back-pain, I feel like I now need to go for another massage (not at Miraj Hammam Spa of course...) to relax!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Great place for massage!!",
+      "text": [
+        "Would definitely recommend and come back to!!",
+        "My wife and I had an amazing experience and it was very relaxing. Great way to end an evening."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Couples"
+    },
+    {
+      "title": "Terrible mani and pedi",
+      "text": [
+        "Although the staff were friendly and the services ok, the quality of the manicure and pedicure was suboptimal.  I had their “signature manicure and pedicure” done, and the polish chipped away by the next day. For the price I paid, I was expecting much better quality."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2019 • Solo"
+    },
+    {
+      "title": "Birthday",
+      "text": [
+        "I called to make the reservation and was handled very professionally and courteously. I was given the various options to select for a couples retreat. ",
+        "I arrived to the front reception and was not disappointed. Check in process was seamless and again professional. ",
+        "The Turkish Hamman Bath was out of this world. The therapists are very very professional and make you feel quite comfortable having only a minor piece of clothing on *smile* and the mud scrub.. I cannot explain this experience but it's a must do!",
+        "Next was the famous facial...again I have never had a facial done like this. Very thorough and you receive a list of products to use on your face if required. What made my day was.... \"you have beautiful natural skin\" yes thank you; I wear no make up. ",
+        "If you have never had a Spa experience please please please... take my word for it...this is the place to start. Be careful though I dont know what I'm going to do until I go back to Toronto. This is a hard one to beat!",
+        "Thank you see you next time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "Mediocre... Far superior options at equal or lesser price point!!",
+      "text": [
+        "I went to the Miraj Hammam spa for a massage, facial and scalp massage.",
+        "I will first say the spa is beautiful. Friendly front desk staff who show you to the change room and then escort you to the patient lounge where you await your service.  It feels luxurious and indulgent - as it should. ",
+        "The scalp massage was great.  I'll give credit where it's due. ",
+        "The facial was OK. I would recommend instead of getting a facial here for $150+, just splurge on some of the Claudalie products and do your own facials for months to come. Of course it feels nice to have someone exfoliate and moisturize your face for you, but .... meh.",
+        "The massage was BEYOND underpar. I get an average of 1 massage per month, so I can be confident in that statement. The bed was not very comfortable (although the sheets were silky and lovely).",
+        "First, my masseuse washed her hands 5 times throughout the treatment. She probably spent a solid 10 minutes washing her hands, despite the fact that she was also wearing gloves.  I'm all for hygiene, but this was absurd and I have never experienced anything like it. ",
+        "Second, she couldn't get the pressure right. She was all or none. I would say, \"I little more pressure\", and she would dig her elbow into me. \"A little lighter\" and the pressure would be cut in less than half.  ",
+        "Lastly, I was offered a \"fresh cooling lotion\" at the end of my massage... sure, why not.  It was literally extra strength tiger balm.  I am a girl who likes tiger balm. My whole back started tingling like crazy and I had full body shivers from how strong this stuff was (it makes you feel freezing). I had to ask her to wipe it off with a wet towel (another 5 minutes wasted). I told my masseuse that this was not a cooling lotion and that she should describe it more accurately for future clients. She acted surprised. Maybe because she was wearing gloves.  I seriously thought I might be on candid camera.",
+        "I can think of 3 spas in the downtown core that are far superior, and at least 3 outside of the city that would blow it out of the water. Take your $500 elsewhere."
+      ],
+      "rate": 2.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "Best Client Experience",
+      "text": [
+        "I went to the Mirah Hammam because I wanted a change from the Four Seasons Spa, that I frequently visit and had the best experience. I originally booked the wrong date and called shortly after and they were so accommodating despite being extremely busy the day that I wanted to book. During my time there everyone was so lovely and welcomed us by showing us around the spa. The massages had the perfect pressure. My partner and I left floating on a cloud. ",
+        "Two months later I contacted them because I was doing my insurance claim, but I had lost my receipt. They answered my email inquiry immediately and scanned and sent over my receipt via email. I was so stressed out because most website contact info sheets are never answered but I was so pleasantly surprised and I was contacted by a lovely woman named Jennalou. Had the best experience and I will be back, frequently!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018 • Couples"
+    },
+    {
+      "title": "Great experience!",
+      "text": [
+        "I truly enjoyed my visit to the Shangri-la. I had a massage with Caitlin who is a very knowledgeable massage therapist. I would also like to mention the impeccable customer service offered by the spa manager Andrea and the rest of her team at the spa. I hope to come back soon."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Solo"
+    },
+    {
+      "title": "A  peaceful oasis away from the city",
+      "text": [
+        "If you want a quick getaway and de-stress yourself, go to the Mirah Hammam; the Caudalie spa has everything you need to relax and the luxurious products are to die for. I went in for a personalize massage, grand caudalie facial as well as the hammam and gommage with the Rhassoul clay body masque. I went for my birthday and had such a lovely experience. ",
+        "Starting off, the lounge and change rooms were very clean and ultra modern. As soon as I walked in, the girls at the reception desk were super friendly, welcoming and brought me straight into the change room and gave me a great little tour of the spa. I felt relaxed already, even before my service started. The service provider came in and greeted me and throughout the massage was very kind and asked me how I was feeling and if she could change the temperature of the room, the music level, etc. Jennifer was amazing and relieving the tension in my back, and the massage was so amazing, I didn't even realize my 60 mins was up!",
+        "Next I went into my facial with Melissa, and she was wonderful and really dug deep into my skin and provided amazing recommendations for my skin type and concerns. The facial was amazing and the room provided a great experience. The facial included the décolleté and I had a few extractions done where I felt congestion. The hand and foot massage while the mask sat on your face felt lovely as well. Overall, after the service my face was glowing and any congestion I had disappeared. I received many compliments afterwards.",
+        "Lastly the hamman and gommage is a stunning steam room with gold marble and eucalyptus infused. It is a service that you need to experience as it is very sensory. Holly did an amazing job exfoliating and detoxing my entire body. I just wanted to sit in there all day.",
+        "I would highly recommend this spa, they made me feel so special inside and out for my birthday and their services are absolutely worth it. :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Solo"
+    },
+    {
+      "title": "Relaxing and enjoyable afternoon",
+      "text": [
+        "My wife and I had a couples massage last weekend at this spa. ",
+        "We both loved our services and the staff was fantastic. ",
+        "We also used the pool and hot tub which is an extra fee but worth it! I read the reviews before we went and noticed a few complaints about this but they do tell you on the phone when you're booking, so it's not a surprise.",
+        "They also have a relaxation room for after your massages and they served us tea and baklava...nice touch!",
+        "All in all, it was a a relaxing and enjoyable afternoon. We will definitely be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018"
+    },
+    {
+      "title": "5 Star Service and Quality!!!!!",
+      "text": [
+        "I visited the Miraj Hammam Spa yesterday at the Shangri La Hotel and it was by far the best experience in a spa to date. My friend and I wanted a getaway and some relaxation time, we booked a massage and made time to hang out in the beautiful pool area. From the moment they take you sign in, you are treated with respect and staff is extremely sweet and accommodating. We relaxed in their waiting room where we had tea and were picked up (right on time) by the ladies doing our massages. The massage was by far the best I’ve ever had. Amy and Kylie were incredible and very experienced. They were asking questions along the way to ensure comfort, the professionalism is truly outstanding and the massage was fantastic. We were so pleased that we both booked to come back in 2 weeks. I also forgot to mention how clean it is. Nothing is better than a super clean spa. Great job on running an amazing atmosphere at the spa, if you haven’t gone yet I highly suggest this experience, best spa in Toronto hands down."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "Save your money and go to one of Toronto’s other great spas",
+      "text": [
+        "If you are looking for a below average experience for a higher than average cost this is your place! So disappointed in our experience at this spa...",
+        "My boyfriend and I both purchased massages $185 per person (our total with tax and gratuity was $490) for about an hour and half experience... We had brought our swimsuits hoping to visit the pools and steam room but no, an extra $25 each if we wanted to do that...although we had already spent almost $500 on our total bill. ",
+        "The massage itself was ok, too cold in our room, certainly not worth the money. There are much, much better experiences in the city that include pool use. Listen to the reviews and go somewhere else! "
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2018 • Couples"
+    },
+    {
+      "title": "Very disappointing",
+      "text": [
+        "My friend and I purchased the spa deal to Miraj Hammam spa in Shangri-la Hotel through Groupon. The coupon was 199$ and included 45m massage and 45m facial using the Caudalie products. On line, its presenting itself as a traditional Hammam spa which provides  traditional Hammam and Gommage services which offers a ‘Mystical journey into the past’ and dwell on the century old Hammam traditions. Should I say more? It sounded amazing and we jumped right on it especially having experienced other Hammam spas before. ",
+        "It took us few attempts to make an appointment over the phone, but finally we got through. Friendly voice booked us and appointment and informed us that since the Groupon deal was under 200$ we will not be able to use all of the spa facilities, which we know from experience, is a must for any Hammam spa. So, we purchased extra services to get access.  ",
+        "We visited this spa in mid March. It took me a while to summarise our visit and here it goes:",
+        "•\tTo put it up front, very disappointing experience, as you feel that you are shamelessly squeezed for every penny without getting anything in return.",
+        "•\tIt’s extremely overpriced for what this spa has to offer. On top of exuberant prices + HST, 18% gratuity is applied automatically for each service. Overall services are average or below average.  If you are in need of good spa experience with pampering, massage or facial, you are better off looking for it elsewhere. There are lots of other excellent spas with great facilities which you can enjoy and where you can really get your money worth. ",
+        "And here is more about the spa and services: ",
+        "•\tThere are no Hammam facilities whatsoever or any other facilities you would expect in Hammam spa or any other regular spa. However, there is gym and very strongly chlorine smelling pool. ",
+        "•\tThere are only two washroom cabins in the ladies spa change room, which is on its own is not enough when the spa is full. However, during our visit, one was closed and one was occupied for a long time.  ",
+        "•\tMy massage and facial were OK, but really nothing special. My estetitian told me that it’s a very basic facial which does not include masks which are better for my skin but are not part of this deal. After applying final creams, she told me that I can get some samples at the front desk to try before buying. Needless to say, there were no samples for anything available.",
+        "•\tAs I mentioned before, we were duped into purchasing additional services: Steaming, 15m for 25$ + HST and Hamman scrubbing, ‘Ultimate detoxification treatment’, 30m for 135$ + HST+ 18% gratuity. Steaming procedure turned out to be just a regular steaming in a big steaming room. It’s very hard to justify this additional cost based on what’s has been offered.  Hamman scrubbing was another overpriced and not worth it disaster.",
+        "•\tObviously we did not come there to eat, but our deal included a serving of tea and baklava. Tea was so sweet, that I had to dilute it with water and still could not drink it. Out of three other pots, I was informed, there was only one not sweetened, but it was not labelled and somehow, all the teas I’ve tried, were very sweet. Served baklava was the size of the fingernail. ",
+        "•\tOn the positive side, stuff is very friendly and there are lots of black clad stuff members ready to escort you and direct you to your procedures and back, but unfortunately, this is where all of the pampering starts and ends."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2018 • Friends"
+    },
+    {
+      "title": "First Time ~ Excellent Quick Getaway for New Mum",
+      "text": [
+        "I’ll preface this review by stating upfront that I am a die-hard Toronto Four Seasons Spa fan. They are my benchmark for the spa experience. Given that they were under renovations and Miraj has always intrigued me, I scored myself a Groupon and decided to give it a try.",
+        "Since I did have a Groupon, I reset my expectations, however Miraj far exceeded a Groupon experience. I had booked myself in for a 45 minute Boost facial and a 45 minute massage on my birthday. This was the first real “me time” I’ve given myself since giving birth six months prior. ",
+        "The reception area of the spa was nicely presented on the 5th floor of the hotel. Once checked in, Eudelie kindly showed me to the ladies change room and waited outside until I was “robed up” and took me to the waiting area. The spa area is expansive very reminiscent of the spas in Morocco. The waiting area, however, was small and co-ed. It wasn’t busy though since this was a Wednesday, but I could see this being crowded on the weekend. There was a bowl of apples, some dried fruit and three tea selections to snack on before and after your treatments.",
+        "My RMT, Katelyn came and escorted me to my 45 min massage. She was friendly and I could tell right away my post natal sore breastfeeding body would receive a great massage. The room was spacious and had a huge soaker tub in it. She asked where in particular I’d like to focus and I had a selection of lemongrass, ginger, or unscented massage oil. The massage was attentive and thorough. I would definitely recommend Catelyn for a treatment. ",
+        "After my massage, it was time for my facial with Tracey. She was also lovely and asked me about my skin concerns and prepared a treatment based on those; melasma being one of the concerns due to my recent pregnancy. Caudalie is their facial line and it was amazing! Hot towels were used throughout the facial and the Caudalie Beauty Elixir was spritzed liberally throughout. My face was glowing at the end of the treatment. Tracey had the whole treatment written out on a card at the end of the session so I could purchase any product out front. I did get the beauty elixir. ",
+        "Back in the waiting room you are given some hot tea and baklava to enjoy. ",
+        "I would definitely recommend Miraj to anyone in the area. It won’t disappoint. I’d definitely return without the Groupon. This was a lovely 90-minute escape for a new mum. Just enough time away to not feel guilty but you still walk away feeling pampered. My only recommendation would be for the reception lady to use a different greeting when you walk in aside from the sometimes off-putting “Can I help you?”. It almost came off as her thinking I was lost instead of booked in for a treatment. A “Welcome to Miraj, do you have a treatment booked or can I have your name” might come off a little better. This was my only negative point albeit a tiny one."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018 • Solo"
+    },
+    {
+      "title": "Will Keep Coming Back",
+      "text": [
+        "One of my favourite spas in Toronto! The facility is very clean and has a very tranquil vibe. Everything is slow-paced, dimmed lighting and comfortable. If you spend at least $200, you get full access to the gym, pool, sauna and hot tub as well. I love that the pool/jacuzzi have couches with curtains, pillows and tv's. It make this spa a place you could stay a little longer, chat with a friend and enjoy.",
+        "I have gotten a deep tissue massage, hot stone massage, Hammam steam room and added on a moisturizing facial. I found that the RMTs were all very very skilled. Amazing massages, which is reason enough to come back! I found the moisturizing massage to leave my face feeling a little sticky, therefore would probably not do it again. The steam room and exfoliating scrub was really relaxing, and a great way to unwind before being massaged! Also left my skin feeling incredibly soft!",
+        "Complaints: RMTs spent the first 15 minutes of my massage trying to figure out who was assigned to which person and if it was possible to add on the 15 minute face massage. Essentially I paid for the face massage and 60 minute massage and got a 50 minute massage and 10 minute face massage. However, upon explaining this to the front desk they were very accommodating and added the time on to my next massage.",
+        "Overall, a great experience!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2018 • Friends"
+    },
+    {
+      "title": "Makes me feel like james bond",
+      "text": [
+        "I LOVE this place, I can't tell you how good it feels to be pampered sometimes. I'm a rough and tumble carpenter, (manly man of sorts) but boy did this place make me turn my opinions around for spas. The front desk staff were super professional, treated me very respectfully. I opted for the pool cabana area ( well worth it!) then hit the hammam (hot! got a good sweat on) then a massage (forget the lady's name but it was so good I fell asleep, woke myself up to snoring! lol) Afterwords made use of the phenomenal lavatory, did a shower and shave.....left feeling like a million bucks. Boys, telling you it's just as much for men as women. Go there and be won over."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "Upselling and ridiculous policies create an entirely unrelaxing spa experiance.",
+      "text": [
+        "I would not recommend this place. I have gone twice and tried to book a third time... ",
+        "Upon calling expect an aggressive up-sell to add additional spa treatments. This has happened 3 times, the first time I did purchase an additional service... second and third time I became quite tired of their up-selling various services and treatments, $50 here $75 there. As well, upon exit they automatically add gratuity and coming from the front desk who was upselling me in the first place this isn't appreciated. I don't tip aggressive salesmen. I tipped directly to my therapist.",
+        "Within the spa, there are many inconsistencies from my first to second visit, including rotten-tasting snacks, although the tea is delicious, fewer and empty changeroom products on my second visit, changes in policy that didn't allow me to use the health club facilities, and , unhelpful and unknowledgable  staff making getting around harder. This was quite important as the staff were so late i noticed that although I was in the spa and on time my appointments were starting late (I was brought to them late) although they ended on time. thereby reducing my treatment time. My first visit i was allowed use to the health club which in combination with a massage wasvery relaxing experience. The second visit policy had changed in that I needed to book more, be upsold on various services in order to use the health club as well. There were many disturbing discrepancies as mentioned above and basically forgotten about within the spa and rushed out, having the music shut off and staff cleaning the changeroom for the night as i'm changing after my massage. Then the same upselling front desk forcing a comment card on me 3 times to address my issues, aggressively again until she finally gave me the option of a call back to review my experience. It was entirely unrelaxing and aggressive. I received my follow up phone call and the manager was sympathetic to my experience. She offered 50% off the next time I came in so i could have a relaxing overall experience at the spa. I try booking a 3rd time, ask if i can apply the 50% to a couples package, the answer is no, again they revert to upselling. Policy is too strict to give me 50% off booking a couples massage, bringing my sig other i thought would be a nice way to enjoy the spa again. The proceeded to up sell for many services again. While many of the offerred massages are 60min, you require 75 minutes of services to have full access to the spa and health club. Also, although a couples massage is cumulatively 120 minutes you don't even get one access to the spa and health club as even individually you'll have to book more time but instead haev to spend $50 additionally something I received for 60 minutes of service in my first visit. Upselling, inflexibility and both inconsistent policies and policies that push more upselling to the client. The massages also, were not anything spectacular, although supposed to be personalized and then a deep pressure, there was hardly any pressure after immediate and multiple times of feedback and definitely not worth the $250 they charge. ",
+        "I tried to give the spa a chance to redeem itself and it gave me stress and a headache instead. Stereotypical greasy used car salesmen are easier and more pleasant to speak to than this spa. I have spa'd many places. I would definitely not suggest this one."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "An Oasis in the City",
+      "text": [
+        "Oh how I love a spa day...well this was only a couple of hours, not a full day that I squeezed in. ",
+        "A first time visit to Miraj, but an avid \"spa-er\" any time I can treat myself. ",
+        "I've not been to Morocco but appreciated the cultural accents that make you feel like you've left the city transported to another place.",
+        "  Nestled inside the Shangri-La hotel, this spa Oasis is located on one of the main arteries of city, on University Ave.",
+        "The hotel is Luxurious and grand, busy even during the mid day but once you step off the elevator and enter Miraj.",
+        "The warm tones engulf you and you simply forget that just below is University Ave, which has 4 major city Hospitals in close proximity and many office buildings.",
+        "From arranging my visit over the phone to arriving on the day the Staff were very pleasant and polite.",
+        "My two back to back treatments were divine. ",
+        "Asami, attended to both my treatments (facial and Body Buff) and she was excellent (Arigatou gosaimasu)",
+        "The pre/post lounge room was a welcomed extension of the spa experience.",
+        "A place you are welcomed to relax and continue to unwind with no pressure to leave.  ",
+        "This was a me-time, mini retreat that I thoroughly enjoyed.  ",
+        "If I don't get to Morocco any time soon I would consider returning to experience the HAMMAM treatment here at the Miraj.   ",
+        "For guest staying at the Shangri-La, it is a lovely addition to the hotels' amenities and services; so of course, why not completely indulge yourself! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018"
+    },
+    {
+      "title": "Hammam gommage excellent",
+      "text": [
+        "Quite pricey but the Hammam and gommage was excellent ! I can’t recall her name but she was very pleasant and thorough ! Would definitely go back for the same treatment with my husband. ",
+        "The only downfall was the front desk staff that weren’t as organized upon arrival and the fact that other guests were very chatty in the relaxation lounge. The relaxation lounge was meant for a quiet space and no one let them know to keep their voices down."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "Check your way spa certificates!!",
+      "text": [
+        "We came 2 days in a row. The first day we used vouchers that we got from Travel Zoo for a body buff and facial. We had completed our intake forms online so we were greeted and sat in the waiting lounge while they brought sandals in our sizes to use. They showed us to the changeroom and gave us a locker to use with a robe to utilize. No lock needed...lockers have a programmable lock.",
+        "There is a pitcher of water and glasses in the changeroom, washrooms, showers, towels and mirrors with makeup counters and hair dryers. They have tampons, deodorant, razors, toothbrushes, etc...for your use.",
+        "They then bring you to the relaxation lounge to wait for your treatment. Nice comfy seating with water, teas, and banana chips, craisins and apples. You also end up here after your treatment and they bring you a tea and small plate with a few grapes and a baklava. Hubby was sad that some people were given 2 baklava and we only got one...lol.",
+        "Holly was amazing with my body buff and facial.",
+        "The next day we had a couple's Swedish massage and scalp massage. I don't know the RMTs same that did mine but she was awesome. We even got receipts so we could claim the massage from our health benefits plan.",
+        "One major problem we experienced was that we were gifted way spa certificates to use here. Upon redemption the certificates came up as invalid or already used and we had never used them. When trying to contact way spa, they could not access the info on a weekend?!? We had to pay the $500 and will have to deal with this issue later.",
+        "The spa staff were very professional and nice during this problem, while trying to keep us calm. My advice if you have way spa certificates purchased from Costco.....call way spa with your certificate # prior to going to the spa to ensure they are active!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Amazing",
+      "text": [
+        "Spectacular facial with top notch professional service, even with a groupon! Treated like royalty in a gorgeous environment ! Loved it !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Solo"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "I visited the Spa today and it was wonderful, completely exceeded my expectations.",
+        "My facial was very thorough and completely relaxing,  The woman was magical.",
+        "Next, Jenny gave me the best manicure and pedicure I’ve ever had.  My experience was very relaxing and calming, I’m more than satisfied. I would wholeheartedly recommend this Spa !!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Solo"
+    },
+    {
+      "title": "Amazing Experience",
+      "text": [
+        "My experience at the Miraj Hammam Spa not only met, but exceeded my expectations.  Having never been there, the stories I had been told about the exquisite atmosphere and services led me to believe I'd be getting \"the royal treatment\" in a comfortable robe--and I did!  When I walked into the check-in area I was greeted by friendly staff who displayed a warm and welcoming professionalism.  After I filled out the tablet-based check-in form, I was escorted to the changing room where the attendant informed me of everything offered in the facilities: robe, spa slippers, showers, pool area, bathrooms, and a wide array of toiletries.  I changed, walked out of the changing room and was escorted to the relaxation lounge to wait for my masseuse, who came to get me shortly thereafter and offered me a glass of cold water.  The massage was great and every question or request I had was met with a good answer or accommodation, respectively.  I was escorted back to the lounge after the massage to relax before the facial therapist came to get me.  The lounge has plenty of healthy snack foods and drinks for loungers to enjoy.  I was similarly greeted with a glass of cold water by the next therapist who showed me to the next room.  The facial was pleasant and interestingly informative (never did I know how much work goes into maintaining healthy facial conditions).  I was escorted back to the lounge after the facial was over and offered more snack materials.  Once you are done with your treatments, you're welcome to stay in the facilities for as long as you'd like.  Though I left soon after, I will definitely free my schedule next time to stay and enjoy the pleasant atmosphere longer.  Overall highly recommended!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "The guest comes 1st at  Miraj Hammam Spa",
+      "text": [
+        "I was looking to unwind and that happened at Miraj Hammam Spa. Jackie and Melissa were top level professionals and extremely likable and comforting. Thank you to the entire staff for treating me so well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "Best spa experience I've ever had!",
+      "text": [
+        "I went to the Miraj Hammam Spa for the first time for a Caudalie Grand Facial and it was definitely the best facial I've ever had, my skin had never looked better! The staff are extremely friendly and knowledgeable and the newly renovated relaxation lounge is beautiful. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Several Hiccups in service but good in gerneral",
+      "text": [
+        "Had some issues to take care of such as parking was told to me as one thing by spa and another by hotel, we paid to use gym as there is essentially nothing else to do there but the one or two services you are recieivng.  Then was told 3 different stories on why the pool area closed on us.   I know the gym area (pool) is serviced by hotel, but there must be some inter communication as there is a certain limit to be spent then that area access is free so being told it has nothing to do with us, is not full disclosure as there must be some arrangement between the spa and the gym for it to be free for the some who pay the price.  Having said that , there is literally nothing esle to do so I would stick go going at your service time unlike other spas where you can make a day out of it.  Ordering lunch may be an option and they try to make it as private as possible, but it's not a separate room as it's main waiting area.  Also lunch must be ordered about 45 minutes before a service.  They did try their best to accomodate for the lacks on their behalf, I just think some more communication should be in order, especially in terms of parking time, yes even as a spa guest I double checked.  Now having said all that, I can only speak to the service I received which I would say is five star;  The hammam.  It was excellent and I wish that it had been communicated to me before that I should have added Turkish bath to it.  The provicer, told me so while I was in there but it was too late to add.  I felt unrelaxed before and after that is why only a three as I have been to many a spa before.  The service ended close to clsoing time and I was being rushed insdie the changing room to get out as they were closing? I had explained the service just ended however I was met with disdain and I suppose soemone who wanted to go home? I cannot say for certain.  All in all the service was great, it was the before and after that was iffy.  I was very honest in my account and hope the spa can take that all into consideration."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "First time experience",
+      "text": [
+        "I went yesterday with my partner for a couples hot stone massage, It was a first time at the Miraj Hamman for both of us, but we both love to check out spas in the city. Definitely the best massage I've ever had. It outshone massages at the Elmwood, Old Mill etc, and my partner felt the same. Our RMTs were Sam and Louise and they were fantastic. They listened to our concerns and were so attentive and thorough we didn't want to get up and leave haha. ",
+        "The spa itself is gorgeous, so many beautiful Middle Eastern elements that make it feel cosy but luxurious at the same time. You're escorted from the change room to the relaxation lounge where you can help yourself to biscuits, tea and water. Some people brought their phones in and were listening to videos but it was short-lived and didn't ruin the relaxation experience. After the massage, you're brought back to the lounge and served baklava, some grapes and tea. ",
+        "Our service was 75 minutes and that gave us access to the pool, hot tub and sauna. I didn't realize these water facilities were public in the sense that the hotel guests and residents were also able to use the same. It was not as \"spa like\" as I would have liked due to the numerous families and children enjoying the pool. But we made the most of it. ",
+        "I will definitely be going back here. It is worth the money and we had a great experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Surprisingly Disappointed",
+      "text": [
+        "I rarely feel compelled to leave a negative review, but I was surprisingly disappointed. The good things - level of service is 100% top notch and the quality of my massage was fantastic. I’m just bummed out it wasn’t all good because I was looking forward to this self care day for months! Was told I had to add a treatment on top of my 1 hour massage to get access to pool, hot tub, sauna and steam room. So sure I opted for a head and neck massage. I was the most excited to go in the steam room. Immediately I noticed it was WAY hotter than any steam room I’ve experienced. I tried to breathe, sit still, hoping my body would adjust and after 2 minutes my entire body felt like it was on fire. I knew something was wrong and I dramatically dashed for the door and got out. My entire face and body was beat red as if I had been burned. I then went on to the hot tub (sub par) and the dry sauna (good). I wasn’t told that the oil they put on my head/hair was going to leave it thick with grease - even after shampooing 2x! If I had known this I would have opted out. I have an important meeting tomorrow morning and I have to rewash my hair again in hopes that this greasy look will go away. To the spa’s credit, they listened to my concerns and gave me a discount and gc to put towards another treatment - so thank you for that, but I really expected a better, flawless experience at a spa of this caliber. The decor and design is outdated as well. It’s not the chic/luxury vibe that it should be."
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "Just What the Doctor Ordered!",
+      "text": [
+        "My daughter and I were transported into the lap of ultimate relaxation and luxury at the Miraj Hammam Spa.  Kinks and knots have been worked out of our tense spots and mother-daughter quality time was definitely enjoyed.  All staff was very attentive and the atmosphere is so relaxed and elegant, in stark contrast to the hustle and bustle of the city that surrounds it. Lovely touches such as aromatic teas and treats to enjoy with the option of using the pools and saunas nearby.  For a bit of time, we just chatted and relaxed in the cozy cabanas by the jetted pool. It made for an ultimate mini staycation.  Kudos to the team for such a warm welcome and attention to clientele.  We cannot wait to go back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019"
+    },
+    {
+      "title": "Relaxing getaway in the heart of the city",
+      "text": [
+        "Amazing experience! I went for a salt stone message and it was a fantastic overall experience. The treatment space is beautiful, calm, and relaxing. Lots of spaces to unwind-  highly recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "AMAZING SPA",
+      "text": [
+        "Such an amazing experience! I got my eyebrows done and they made it a luxury experience in every aspect. Can't wait to go back!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "My go-to spa in the city!",
+      "text": [
+        "This is for sure one of the best spas in Toronto! The spa is beyond beautiful, well located, amazing service. All the ladies are really nice in terms of customer service and spa-treatments. My significant other and I went for a couples massage and it was amazing! Will definitely come back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Overall great experience!",
+      "text": [
+        "Amazing experience! Friendly and professional staff, great facial (my skin never looked better!!) and gorgeous newly renovated facilities. Would definitely go back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018"
+    },
+    {
+      "title": "For a luxury spa, sure doesn't hit the mark.",
+      "text": [
+        "1) Treatments",
+        "I had 3 treatments, the hammam & gommage, vinoperfect facial and deep tissue massage. Hoping for a day of relaxation after a stressful period at work.",
+        "The hammam was gorgeous but the gommage didn't seem worth it. No difference to the skin afterwards. Its basically sitting in a steam room for 45 minutes and have someone wash you...which was fine, but nothing special. I enjoyed the steam though.",
+        "The facial was terrible. The person providing the treatment could barely speak english and at the end of the treatment there was still clay all over my face....and...pretty sure the clay mask comes near the beginning of the treatment not the end. This was the most disappointing facial I've ever had, literally no difference to my skin that I couldn't have done myself. Also the music was terrible and you couldn't change it.",
+        "The massage was probably the best part, but even here, there was no choice in music and the massage was limited to jus the legs, back, arms and shoulders. No head, face, glutes or hands. Sheets were soft though, I'll give them that...",
+        "2) Facilities",
+        "Small men's locker room, no lounge area in the change room. You had to go to a crowded and small communal lounge. Terrible. Also the showers were poorly maintained, the shower heads were dripping, there was rust dripping off the bar, there was puddles of soap on the ground. You'd think there was no attendant that maintains the change rooms consistently.",
+        "Why is there no \"quiet\" lounge? Had to stay in a tiny room with people gossiping loudly about weddings they've attended. Not how I describe relaxing.",
+        "3) Staff",
+        "Included 18% gratuity??? After some disappointments with the treatments and I expressed them to front desk, I felt super awkward to reduce the tip. I just left it at that and decided never to return.",
+        "4) Data Security",
+        "When you arrive they give you a tablet to enter your details in. What I found ridiculous was this was a browser site, and I accidentally pressed back to fix a mistake and I realized I was viewing the previous guests info, all their health concerns and surgeries. Like....this cache should be cleared before the tablet is passed on to other guests. Or come up with an app that protects personal information!!",
+        "After staying at the spa for 4 hours, I think I have a good sense that there are some operational issues in terms of staffing. Probably trying to cut costs. Its a lot of little things that added up to disappointments. If you just come for a massage I think you'll enjoy it but don't make a day out of it."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2018 • Solo"
+    },
+    {
+      "title": "A Downtown Getaway",
+      "text": [
+        "I absolutely love this spa!!!!!!!!!! We had the most relaxing afternoon -- the space is beautiful, the service is amazing....we didn't want to leave. Can't wait to go back again...bravo"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Couples"
+    }
+  ]
+}

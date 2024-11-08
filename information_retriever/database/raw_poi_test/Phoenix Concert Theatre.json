@@ -1,0 +1,384 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Phoenix Concert Theatre",
+    "url": "/Attraction_Review-g155019-d600826-Reviews-Phoenix_Concert_Theatre-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "410 Sherbourne St ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4X 1K2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 68
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/dc/5b/ed/img-20170711-223623-largejpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Concerts",
+    "Theaters",
+    "Theater & Performances"
+  ],
+  "description": "One of the oldest dance halls in Toronto, the Phoenix attracts an all-ages, all-races crowd that includes straights and gays. As a rock venue, it showcases such artists as Screaming Headless Torsos and Patti Smith. On the weekends, it gets the crowds dancing with a mixture of retro, Latin, alternative, and funk.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "AVOID!!! AVOID!!!",
+      "text": [
+        "AVOID!!!! This is a HORRIBLE place. Extremely rude security pushes people away for no good reason. \"It's our private property and we can do what we want\" is the response they give random people. They were not let in for no good reason. ",
+        "$5 for a can of pop? REALLY?? $14 for a beer? I thought baseball games were bad for this. The building is old and run down. The music sound quality is very poor.  ",
+        "Don't waste your money on this place.",
+        "THIS IS A REALLY GOOD PLACE TO AVOID!!!!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Security Guards Will Treat You Like a Criminal",
+      "text": [
+        "Power-tripping security ruined the show for us before it even began. Most invasive bag search and patdown I've received anywhere, including airports. ",
+        "Security actually went as far to smell my partner's hand sanitizer, as well as issue an impromptu field sobriety test. They are NOT police officers but they sure think they are. The rude and pestering treatment completely ruined the vibe of the evening before we even got through the door.",
+        "Avoid seeing a show here if you can! They treat their customers like criminals and not guests. Easily the worst venue I have been to in 20+ years of concert-going."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Homophobic business",
+      "text": [
+        "This place isn’t queer friendly! Security was overly aggressive with my group and told my trans friend she looked weird and called me a f@g and told me to leave for literally no reason… we waited for two hours and witnessed him treating other people the same way. Ruined our entire evening"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Disgusting",
+      "text": [
+        "An absolute nastiness from the venue’s security team. Disrespectful, aggressive, overly pushy guys on some power trip.",
+        "Can’t comment on the venue itself, after 6 hours of drive I wasn’t let in for no apparent reason."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "Nasty security!",
+      "text": [
+        "Horrible and degrading security, overly physical and borderline rude people. I cannot comment much on the venue itself so don’t take my review based on that factor, but if you’re someone who likes feeling secure and comfortable I would not recommend this venue with their security who seem to enjoy the the more negative side of their job over anything. Very much actions first, conversation later… or never with this venue. If you’re in the wrong place at the wrong time then your journey here will be a waste of time and money despite how polite and reasonable you may be. Treated with very little respect alongside a very strong threatening underlying feeling wether you are in the right or wrong. Whatever side of that argument you may be there should be a level of professionalism and basic humanity everyone should be treated with that truly is not met here. But hey, I’m just your average mid 20’s event goer so what do I know ( never been ejected in 8 years of events). So heads up people if you want to enjoy yourself like any other person here, be prepared to be under strict scrutiny by all staff and security. ✌🏼"
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Awful sound quality. Dated building.",
+      "text": [
+        "Horrible sound quality. From all venues that I’ve been to, this one has the worst sound quality by far. We were up at the front and the bass was so strong that you couldn’t hear the melody on most songs and it was shaking you to your very core. And it seems like it was equally as bad for people at the back. It was so disappointing that it completely drowned out all the intricate layers that Yann Tiersen adds.",
+        "The second biggest problem are the security guards. The most unprofessional ones I’ve seen at any concert. During the concert almost all of them, aside from the youngest one, were constantly moving back and forth and we’re telling jokes. This was extremely distracting and also took away from the concert experience greatly.",
+        "In brief, if you want horrible sound quality and unprofessional security guards, choose The Phoenix. It’s long past it’s expiry date."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Couples"
+    },
+    {
+      "title": "Intimate venue",
+      "text": [
+        "Here to see Mark Tuan (Got7) solo concert. The balcony seating was great for us. Clean, venue tech seemed to be enough for the crew to put on their fantastic show! Good temperature and ventilation, helpful and friendly staff "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Great Venue for live music",
+      "text": [
+        "Live music is always playing.  beverages prices reasonable and very friendly staff.",
+        "Social distancing was well maintained "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021"
+    },
+    {
+      "title": "Wonderful first concert experience for my daughter!",
+      "text": [
+        "We saw Todrick Hall.  During the concert, my daughter came over faint.  Security (Rochelle and Amy) were quick to wish her out the back door for some fresh air and provided her with ear plugs (forgot her noise-cancelling headphones at home).  Any piped by after she returned to make sure she was okay.",
+        "Yeah, okay, the place is a bit dated but honestly, given the jam-packed crowd today I'm not surprised it's got wear and tear!",
+        "Amazing concert, excellent caring staff, nuthin but net!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Family"
+    },
+    {
+      "title": "Rundown and sweltering ",
+      "text": [
+        "My husband and I took our daughter to see Dean Lewis last night. We had never been to this venue before. We drove three hours to Toronto and arrived an hour before the doors opened at 7:30. ",
+        "There is a paid parking lot across the street which was great but there was already quite a line outside the Phoenix. After standing for an hour, our bags were checked we were briefly frisked and allowed inside. ",
+        "The venue is rundown. The bathrooms (only 3 stalls for women) were small and the actual concert space is just one big, dark room with a flat floor. Think school gym. We were about 20-30 feet from the stage but had a hard time seeing Dean at the best of times. We stood, including the hour outside, for almost four hours. ",
+        "My biggest complaint was how unbelievably hot it was inside. You’d think, knowing they’d have hundreds of people inside for hours, they’d crank the A/C but it was sweltering inside. Why on earth were the large wall fans barely used? Even Dean mentioned how hot it was in there. ",
+        "When the concert was over people rushed out, tripping over cups, beer cans and carpets while the staff just stood there. ",
+        "We came to see Dean and his performance was great. I wouldn’t be going out of my way to go back to Phoenix.  "
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "Surprisingly my first time here!",
+      "text": [
+        "It's a great place to see a band live. Its small enough so that there isn't a bad spot in the venue.I saw James Vincent McMorrow here, came in last minute and was able to grab a drink quickly and a close spot to the stage. I hope to see another artist here soon!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2016 • Solo"
+    },
+    {
+      "title": "The Trews",
+      "text": [
+        "Small club with a balcony.  Balcony has leather couches but the sound is terrible.  Good sightlines though.  Definitely not my favourite venue.  Saw a show here a few years ago and I think I'd prefer to be downstairs but I'm 6 feet tall.  My girlfriend appreciated being in the balcony for the sightlines alone."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2016 • Couples"
+    },
+    {
+      "title": "Good venue/event space",
+      "text": [
+        "Went to a small event at the Phoenix Center and I really enjoyed the flow of their event space. They have multiple areas inside that can be used to meet your needs for your event. As an example we had food service in one small area and then used the larger space and upstairs seating area for mingling and socializing and announcements. I liked that there were multiple bar spaces so there was never a long wait for drinks. The bathrooms were clean. There was a lot of seating available. The security was a bit tough (not even allowed to bring in empty drink containers (not even an empty camelbak)), but I could understand the measures being taken."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016 • Friends"
+    },
+    {
+      "title": "Excellent concert venue",
+      "text": [
+        "By far my favourite concert venue in Toronto. Just the right size to see your favourite bands up close. Well shaped venue with good sight lines and good acoustics. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "Great place for a show!",
+      "text": [
+        "Very small and intimate, this place is great to see a band up-close. Drinks were good but it tends to be a nightmare trying to get out afterwards. Nearby parking but will need to pay/walk. Great place for music!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2015 • Family"
+    },
+    {
+      "title": "Excellent Little Venue",
+      "text": [
+        "The Phoenix is a shabby little \"theatre\" that has seen better days. But this makes for an awesome little music venue. We saw Bloc Party there and was surprised at how small the venue was (which I much prefer to pointless stadium and arena concerts - its smaller than Sheps Bush and Brixton academies). With small, easy to-get-to bars either side of the stage, selling the obligatory cans of beer and cider at reasonable prices, and good air-con. Its a fair walk from downtown. Nearest tube station is probably College."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016 • Friends"
+    },
+    {
+      "title": "Had a great time at the Phoenix!",
+      "text": [
+        "Came in from Ottawa to see my favourite band Collective Soul preform at the Phoenix. Let me say first that the show was AMAZING. The boys really rocked it that night. The venue was good, the sound was good as were the site lines. And even though the show was sold out, the service at the bar was great. Would recommend for seeing a concert for sure. "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016"
+    },
+    {
+      "title": "back for the 1st time in along time",
+      "text": [
+        "My son the rock star leading me on a trail of concerts far and wide. Most events here tend to be 19+.",
+        "Great hall to see bands no bad spots, tends to get pretty loud due to the smaller space and if the sound mix is off it could be rather harsh. Good sized GreenP lot directly across the street."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2016 • Family"
+    },
+    {
+      "title": "Bass massage",
+      "text": [
+        "Saw the Junior Boys / Jessy Lanza show here while I enjoyed it, the bass was ramped up waaay too high, particularly for Jessy Lanza's show, which at times was almost unlistenable. Sound was slightly better on the floor than the balcony. But overall was below average for a venue of this size/type.",
+        "Staff doing the ticket check / frisking were friendly - the ID checker wished me a very belated birthday. Didn't buy anything from the bar so no comments there.",
+        "For those who like a seat the balcony had rows of couches with a decent view, though sounds like they aren't always set up this way. ",
+        "A bit of a walk from downtown Toronto but definitely doable if you don't want to cab or transit (looks like a tram to the subway is your best bet for transit). Was also super quick to get out when Junior Boys finished. Would go again but hope that the band / venue does a better job with the bass."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2016 • Couples"
+    },
+    {
+      "title": "Wicked",
+      "text": [
+        "saw a great show here Butcher Babies & Cradle of Filth,drink prices reasonable,looking forward to 2 more shows in the spring,great parlour for merch & meet & greets"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2016"
+    },
+    {
+      "title": "Toronto's Entertainment Gem",
+      "text": [
+        "Event: camH Blues Brother's Revue. Large Dance floor, modest sound system and several beverage counters. Very good venue for a intimate entertainment experience. Standing room only for general admission."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Couples"
+    },
+    {
+      "title": "First time at this venue",
+      "text": [
+        "We saw Glorious Sons here.  I had looked online to check out the venue first and discovered there was a second floor with a view of the stage.  Once we got in past security, checked our coats etc, we headed directly upstairs.  Since I am not 20 anymore, I had no interest in being in the “mosh pit”.  It was a great decision.  There was room, it wasn’t as hot as the main floor was.  The patrons upstairs appreciated being there, they were all mostly around my age....older than 20.  There is a bar upstairs so it’s convenient.  If there was a restroom that would have been great, but you can’t have everything.  I found the experience to be all positive, even the “frisking” before we entered the building.  The woman who patted me down was pleasant and complimented me on my coat.  That was a nice personal touch.  The other staff we dealt with were all very personable."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2017 • Couples"
+    },
+    {
+      "title": "Needs A Renovation",
+      "text": [
+        "This place is in desperate need of repairs. At least repair the air conditioning so it’s not sweltering! "
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "I saw the Mike Gordon concert last month and the venue is set up great",
+      "text": [
+        "I saw the Mike Gordon concert last month and the venue is set up great.  A big, wide open arena.  There was a taco stand and few a bars inside.  A convenient parking lot is across the street and many bars and restaurants within walking distance.  The security pat downs were a little ridiculous. There were two female security workers who went pretty high up and around the legs.  I've been to hundreds of concerts and never experienced anything like that before.  Maybe it's a Canada thing."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "Comedy show - Brendan Schaub",
+      "text": [
+        "First time going to this venue to see a comedy show. The place has so much character, loved it. The staff were friendly and welcoming. The space is wide open, had a great time.  Would definitely go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Excellent sound and lighting",
+      "text": [
+        "Went to see Men Without Hats at the Phoenix last night.  The sound and lighting were excellent as were the sight lines.  Drinks were easy to purchase.  It was a good night."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "The Damned concert",
+      "text": [
+        "Staff were very friendly ,  seating  in vip section was quite comfortable .  Several bars for quick service"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017 • Couples"
+    },
+    {
+      "title": "Concert ",
+      "text": [
+        "1st visit to the Phoenix Concert theatre.  Attended with my teenaged daughter and two of her friends for the Pentatonix concert.",
+        "I was thoroughly impressed with how organized things were while we waited in line to enter, and his continued as we made our way into the concert theatre.",
+        "Of most importance to note was how helpful & friendly the staff were.  They went out of their way to take care of me and ensure I had a seat (despite it being general admission with standing room only).  I have a knee injury and had no idea it was standing room only and was prepared to sit outside in my car throughout the evening.",
+        "Instead, after asking for possible seating the staff escorted me to a chair close to the stage, the barkeep ensured I had water if needed and staff checked on me a few times during the concert.  Can't say enough about how impressed I was.",
+        "Thanks to the Phoenix Concert theatre staff!!  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Family"
+    },
+    {
+      "title": "Great place to see a band.",
+      "text": [
+        "Saw Big Wreck in February 2017. The show was excellent, and what made it so great was the excellent sound. We were in the VIP section upstairs which cut out much of the noise - the sound was simply amazing. Comfortable place to see a show including seating if you wanted. And access to the general admission downstairs - which was a lot louder so the sound was not quite as good - but still fine. ",
+        "Mostly friendly service, although one of the security crew thought I pushed a door (I didn't) and he was a bit aggressive towards me - not very professional from someone who was supposed to keep things peaceful and safe. Better training and selection perhaps required for their security..."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "Fun night",
+      "text": [
+        "Attended Drive by Truckers.  Excellent   atmosphere. Larger than it looks outside with plenty of bar space. Balcony seats excellent acoustics. Parking across street at city lot if you arrive early. Reasonable and would return there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "Treated like a V.I.P.!!",
+      "text": [
+        "My husband and I had attended the Peter Murphy concert and really appreciated all that the staff had done to look after us.  As a person with a disability who requires assistive mobility devices, I had called ahead to inquire about accessibility. The main entrance has 2 sets of stairs; 1 outside plus 1 inside.  On the phone I had been made aware of this and was offered an option of a back entry which is barrier-free. I chose entering through the main doors and was offered assistance in getting not only myself up the stairs but my upright walker as well (I’m stubborn and figured I’m going to try the stairs for as long as I can, what could go wrong?!). We had arrived early to attend a sound check which was included with our “meet and greet” tickets, and upon our arrival, discovered that the sound check had been cancelled : (. ",
+        "A very kind and considerate Security personnel Rochelle, had brought us up to the front of the line to be on level pavement while we waited.  She had let us in a little early to ensure  I could get in safely (slowly...) without being caught up in a rush of eager concert goers. That was a Godsend!",
+        "The Phoenix has a cordoned off area to the far left of the stage with folding chairs if required. We were able to see the stage from this area and did not have to stand to see over top of heads, which was an amazing bonus! ",
+        "We were also assisted by Helen and Tonya who checked in on us throughout the concert to ensure that we were comfortable. At one point, I was even offered a chair to elevate a swollen leg that I was unsuccessful in hiding!",
+        "At the end of the evening, we were assisted by 2 other equally as lovey Security guards who helped get us through the crowd to the “meet and greet” area with great care and speed.",
+        "From someone who sees barriers everywhere and who thinks it’s taking FOREVER for places to be more accessible, The Phoenix did everything they possibly could to ensure that we had a safe and enjoyable evening. It meant the world!  Thank you 😊",
+        "P.S. I now see more concerts in my future! Yay!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Easy to get close to band, better than a stadium gig.",
+      "text": [
+        "Went to see Kodaline, totally sold out, last minute ticket from reseller, STILL managed to get close to stage for REAL concert experience ",
+        "(compared to sitting 400 metres away up in the clouds at the ACC/Scotia and watching a distant TV screen  or microdot guitarists).",
+        "Winter, so big crowd for coat check pick up at end.... but security were very friendly, let us charge phones on wall while we waited."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018"
+    },
+    {
+      "title": "Great venue to see live music!",
+      "text": [
+        "Went to see GODDO's farewell concert at the Phoenix.  It was our first time there, and it was a great spot to see the band.  We purchased tickets for the main floor, but learned that if we had bought the slightly more expensive tickets for the second floor lounge, we could have chosen to spend time on either floor.  The drinks weren't cheap... $9 for a tallboy, but the bartender also kept a couple of jugs of ice water and cups on the bar so you could at least also quench your thirst with water on occasion... we still spent $100 on beer, but REALLY appreciated the ice water.  There was a 'smoking pit' outside too.  I thought it was a great venue overall, and plan to monitor their upcoming shows so we can try it again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018"
+    },
+    {
+      "title": "Good concert venue",
+      "text": [
+        "I have been coming here off and on for 25 years, since the CFNY live Saturday nights until more recent events like Pitch Talks and a Sebastian Bach concert. I find security at the door polite and the venue welcoming. There are 3-4 bars open, plus a taco bar at the back. a nice smaller venue for a concert which ensures close stage proximity and a pretty good sound system. I will be back at some point."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Rude and Power Tripping Staff",
+      "text": [
+        "I went to the Phoenix last night for their 80's Halloween Costume Party and although the party itself was good with great music, lots of awesome 80's candy (hats off to the organizers) and a happy vibe, the security staff was unbelievable rude and in my opinion power tripping.  I occasionally smoke and wanted to go out side to have a cigarette and was given very unclear directions on how to get to their smoking area.  I was finally able to find the door after battling through the crowds to get there tottering on 4 inch heels which I'm not used to wearing (for my costume) and then had to climb down steep fire escape stairs to get to the smoking area. Exhausted to try and get there I momentarily sat on the stairs to get my wind back and was immediately told by \"security\" to get off the stairs and I apologized and immediately got up and went down the stairs saying I just had just needed to sit for a couple of seconds and asked why it was an issue.  I was told it was a violation of insurance and out of curiosity I asked who their insurance provider was (I work for an insurance company and always pitch us as the best) and was told I had to leave.  In shock I asked why and was told I was drunk (I had one drink and had ordered a second drink which I had only had a few sips of in a 3 hour period of time) and denied the accusation.  I was asked how many drinks I had and told them two (which as per my earlier statement it was actually less than that) and advised them they could even ask the bartender or even do an alcohol test on me and was then told I was rude to the staff.  Again, in disbelief I stated I only asked a question and how on earth by asking who their insurance provider was could be deemed as rude and went on to explain that I work for an insurance company (and although did not tell them that I actually work in HR and hired all of the security staff for my company which I have excellent relationships with).  I then realized that I was being subjected to \"power tripping\" and anything I said in my own defense would only fall on dumb ears and as I was there with a group of other people sucked it up and apologized saying I was deeply sorry if I mistakenly and unknowingly insulted anyone, that it was not done on purpose and would not happen again. They allowed me to go back in with a warning if there were any more incidents I would have to leave.  After getting back inside I told the group I was with what happened and we all abruptly left the venue as I simply didn't want to stay there and felt very uncomfortable.  I was and still am extremely angry at what transpired and the so called \"incident\".  Again I hire people for my company including all of our security was well as fraud investigation staff and am very careful to vet them to ensure they know of our strong customer values to ensure the best customer experience which obviously the Phoenix does not but instead was subjected to and had to endure rather dubious customer experience which will not be repeated - ever. I will never go back nor will my friends who were with me last night. I am off to another party this evening with another large group of friends and will be sure to tell them of my \"experience\" at the Phoenix as well as posting on FB and Instagram.  Don't go there unless you are in the mood for paying money to be harassed and abused by their security for no reason."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "A classic music hall/venue.",
+      "text": [
+        "The Phoenix has been around for years and is starting to show its age. Still it is a great place to see a concert."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018"
+    },
+    {
+      "title": "great venue",
+      "text": [
+        "great venue to see your favorite artists up close and personal. you can get really close to a stage. all standing. there are seating places on a balcony. but is you want to be up front you will need to stand. lots of history in this place. lots of great bands played here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Outstanding show it to Phoenix, Nazareth",
+      "text": [
+        "What a great venue packed house last night Nazareth played an amazing show sound was great lots of people great fun got to do it again ",
+        "Michael"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "the japanese breakfast concert ",
+      "text": [
+        "felt quite grateful for the two industrial sized fans on both sides of the venue.  good place to hangout.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018"
+    },
+    {
+      "title": "Us The Duo concert ",
+      "text": [
+        "Attended Us The Duo concert with my teenager daughter and a couple of her friends.  I was impressed with how organized thei were while we stood in looking me waiting to go in.  Staff kept checking to ensure everyone was in the correct line.  Once in, I realized there was no seating option for us (I’d never been to a general ticket venue).  I had just had knee surgery and knew I wouldn’t be able to stand.  I spoke to staff asking if there was any chance I could sit at all and within minutes I was sitting beside the stage, the bartender offered to get me anything I needed and staff were so helpful and respectful.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Family"
+    }
+  ]
+}

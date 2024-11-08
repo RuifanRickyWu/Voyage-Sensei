@@ -1,0 +1,289 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Cineplex Cinemas Yonge Dundas & VIP",
+    "url": "/Attraction_Review-g155019-d7258242-Reviews-Cineplex_Cinemas_Yonge_Dundas_VIP-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 Dundas St E Suite 402",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5B 2G9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 79
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/97/73/0d/comfy-seats.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Movie Theaters"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "VIP experience was great!",
+      "text": [
+        "We loved the VIP experience. They kept everyone socially distanced and extensively sanitized the theater between movies. You do need to buy your tickets ahead of time so you can sit together otherwise if you wait you’ll be stuck with whatever seats are left. And since the theaters aren’t at full capacity that would be a problem if there’s more than one person in your party. Popcorn was good."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021 • Couples"
+    },
+    {
+      "title": "Amazing Service",
+      "text": [
+        "I went to watch Bad Boys and decided to go with paying for the VIP service. I ordered the beyond meat sandwich which exceeded my expectations. The server was amazing as they took a turn running orders. Katrina who helped run the food to us was amazing as we were able to chat a bit before the movie had begun. Her service was stunning and met my expectations."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "First time VIP",
+      "text": [
+        "As a first timer using the VIP it was a bit of a search what to do. Ofcourse you can ask around but if you dont you might end up buying popcorn and a hotdog before you realize you can order from a menu in your seat; which was awesome. We’re not used to such a concept. Had a power salad (it was named something like that) and truffle fries. The food was okay. The cocktail was very good and also very large. The seats are very good. Not as good as the full-flat ones but nevertheless very good.",
+        "Would come here again for the VIP."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019 • Couples"
+    },
+    {
+      "title": "Nice IMAX and They Serve Beer and Wine! :-)",
+      "text": [
+        "I saw Star Wars: The Rise of Skywalker in IMAX 6 and was blown away by the sound. Seated in the centre of Row E in the front section was perfect!",
+        "I love that they've got beer and wine for sale, although a couple of brew cost me over $20. The concession stand has got loads of stuff.",
+        "There is a food court just downstairs with, well... food court-y stuff. But with the number of commercials and previews before the movie, at 6 minutes before showtime we had time to grab a snack at the food court and bring it to the theatre."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Volume wasn't loud enough.  Incompetent staff.",
+      "text": [
+        "We used Costco coupons and the staff at the concession stand had no idea how to process them.  First one staff, then two, and then finally the third knew what to do.  I had to repeat my order five times- yes, five times to finally get it through their heads. How hard is it to read a coupon and scan a bar code from it for Pete's sake?  Mind you, my movie had already started.  Then to boot, they didn't bloody raise the volume after the ads in the cinema once the movie started.  I left twice to tell someone and finally I caught the manager and 40 minutes into the movie, he finally got the volume turned up so we could actually feel like we were in a cinema.  Sooo disappointing :("
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Need a break?",
+      "text": [
+        "Dundas Square is a fairly vibrant area of Toronto in itself. There is usually something happening on the street and there are lots of casual dining options. The theatre is also a great spot to chill out with 3D and VIP options. It is my refuge when I am \"shopped out\". The former Eaton Centre is across the street. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Very nice place and not bad Saw Detective Pikachu.",
+      "text": [
+        "My Uncle and I went to this very Nice Place it used to be Called AMC a while ago but Cineplex bought that out and things have Changed a bit like VIP and Ultra AVX theatres and did hear there is a special Cinima too that is very unique. We did the Ultra AVX atmos theatre with Speckers on the Celing and this was a fun Experence. We has to also go up a few Escalators to I think the third floor I'm not sure if there is a Elevator for Wheelchairs this may be a Probelm for you as I not sure if this place is Wheelchair Accessible. There are also Escalators going up to VIP and some other Theatres. I was on The main Floor when I came in to the place. maybe 20 to 26 cinemas Altogether there. Lots of great Choices there. It was a fun Experence and staff were nice and there was a sign for way out or exit too after the show. I recommend this place in downtown Toronto but Yonge St can be quit busy on weekdays or the odd Tuesday's but we got in no Trouble and Tuesday's are Cheeper if you want a better deal. I wasn't disappointed and you might find a very good film here of your choice. I found this a Little nicer then the other one Scotiabank Theatre Downtown. I preferred this one."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Our first time using the VIP service",
+      "text": [
+        "The staff food and atmosphere was absolutely stunning and quite refreshing to see how they upgraded cineplex cinemas."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "VIP treatment ",
+      "text": [
+        "We came here and watched Hobbs and Shaw in one of there VIP screens it was such a treat with a private area to sit and have drinks/food before the movie, relax inside the screening with the recliner chair and side table also someone is on hand to get your order of drinks or snacks before the movie starts. A lovely treat for anyone who likes being pampered or wants something a little bit special. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Movie and Dinner",
+      "text": [
+        "We wanted to see Rocketman and were short on time. Went to VIP and watched a great movie while eating popcorn, coconut shrimp and a beyond beef burger. Good portions and great value. A fun way to do dinner and a movie!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "The best way to see a movie",
+      "text": [
+        "We went to this theatre on opening night of Blade Runner 2049. We grabbed a pint of beer at the bar then took them in to our seats in the theatre. There we ordered our snacks for the movie, which were delivered to our seats in a timely fashion. ",
+        "The seats were almost too comfortable, as I had trouble staying awake through a movie that was an hour too long. ",
+        "The length of the movie notwithstanding, this was another excellent experience. The staff is friendly and efficient and the theatre gives you lots of room and comfort."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "VIP is great!",
+      "text": [
+        "My friend and I went on a Wednesday for the VIP deal. It was a great experience. Neither of us had done VIP before. The price is pretty reasonable for what you get. For $50 we each got a ticket and a main meal. You go into a smaller more private theater, get a very comfy seat, and a server comes to take your order and answer any questions. We ordered alcoholic drinks (Caesar and a glass of wine). We ordered the pierogi starter (which i do not recommend, they were over hard). Then we each ordered a main; my friend got the chicken strips w fries which she said was good, I ordered the pulled pork burger which was really good w fries. The food came quite quickly. We arrived early so we had time to sort everything out and eat most of our food. When the movie starts, all the lights go out as usual, so if you still have food to eat, you will be eating in the dark/movie lighting. ",
+        "It took us a while to get to the place. We're not Torontonians and had never been to this theater before, so finding the actual entrance and making our way up all the escalators with no signs pointing us in the right directions was a bit annoying.",
+        "The general location is great though. Right downtown, anything you need is in the building or in the squre. Parking, bus and subway are close too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Good location, comfortable and friendly",
+      "text": [
+        "Really easy to find, very helpful staff and comfortable and reasonably spaced seats.",
+        "Lots of places to eat at in the complex"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "As good as any",
+      "text": [
+        "The experience of movies doesn't really change much, but this cinema has just about as much as possible in terms of options available between regular cinemas, 3D and VIP.  It is a central place for watching movies and one of our go-to locations for blockbusters (Beauty and the Beast, Kong Skull Island, Wonder Woman).  Just be aware that it is quite busy at times, even 11pm shows sell out routinely."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "great hive of activity",
+      "text": [
+        "This cinema is central to a very large shopping mall and a lovely outdoor eating and live music area. The cinema was a well oiled machine, good staff and everywhere looked very clean. Cinema had very comfy seats and lots of leg room. Worth a visit as plenty to see and do in the surrounding area"
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2017"
+    },
+    {
+      "title": "Great cinema experience",
+      "text": [
+        "Cineplex is located a few steps from Dundas TTC station within a complex that includes a food court, 4 or 5 restaurants, A couple of coffee shops and some other retail. You really can't miss it.",
+        "Entry is via a series of elevators -it's on the top floor. Ticket pick up is easy and it all looks well organised and clean.",
+        "We had VIP tickets for Guardians of the Galaxy. The theatre was great with about 60 seats (all leather recliners) lots of space including leg room and great sound. It's a bit more expensive but I thought it was worth it. You can also get food and drink served directly to your seat (before the movie starts). "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "Worth the extra cost",
+      "text": [
+        "The VIP at Yonge and Dundas is worth every penny!",
+        "We had a drink at the bar then went to relax in the plush, roomy seats. The seat service was excellent and quick and the food and drinks we got were delicious.",
+        "It's a smaller theatre but that doesn't take away from the quality or experience. I'm sure we'll do this again."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Couples"
+    },
+    {
+      "title": "More than meets the eye.",
+      "text": [
+        "This is a huge theatre complex with lots to offer the full family. It is a very busy place on a Saturday night but we were processed fairly quickly at the full-service wickets. There were lots of self-serve terminals as well, which we should have used, but they did look busy. As we waited we could see that, even though busy, they moved through quickly. ",
+        "The individual theatres are pretty standard, but there are lots of them and the capacity seems very large. They also offer a full range of new releases and even some older ones, especially in their VIP theatre, that while being $10 more, offers bar service and more spacious and comfortable seating with at-seat catering before show time. ",
+        "You seem to be able to use the VIP lounge to have a drink even if you are a general patron. You just can't take alcohol to your general seating.",
+        "It is a hike to get up to the higher up theatres so leave some time, but there are escalators and elevators to make it easy for everyone."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Christmas Eve VIP experience",
+      "text": [
+        "First time experiencing the VIP theater service. On average it's $10 more per person.. The seating and overall experience is worth it. Having food and beverage served is a new experience in a theater for me.. I feel it's a great way to see a special movie."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2016 • Couples"
+    },
+    {
+      "title": "IMAX not quite MAX for people with disabilities",
+      "text": [
+        "I like this theatre and I like the staff there which is why I didn't give it a lower rating. The accessible seating for wheelchair users varies from cinema screen to cinema screen. In IMAX it's terrible. You pay extra for the big screen and they give you a platform to sit on and your family or friends are seated way below you. It's like a small island of isolation. Other theatres have the accessible seating way close. None have centre seating. We are way behind the USofA when it comes to seating in movie theatres in regards to availability and choice. Again, great staff, poor accessible design."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2016 • Couples"
+    },
+    {
+      "title": "Food, movie, dollarama",
+      "text": [
+        "It has a Starbucks on the ground floor. The dollorama is one of the popular places, where normally $6-7 stuff are available at one dollar plus. "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Fun!",
+      "text": [
+        "Want to see a new movie in a comfortable theatre? Go here. It has IMAX and all the movie night fixings you need including a VIP option.",
+        "We went to see The Grizzlies. A heart wrenching and heart warming true story about Inuit kids who changed a community, for the better. Fortunately on our visit we were treated to a Q&A with the director, producers and one of the stars. Must see movie, if you read this close to the review date. I even bumped into Ed from the Barenaked Ladies at the screening. Good movie house."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "Somehow never too busy",
+      "text": [
+        "I always go there for Gallery series and am never disappointed - it is always clean and with enough seating available."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Solo"
+    },
+    {
+      "title": "Regular Theatre",
+      "text": [
+        "We went to see \"The Green Book\" on a Thursday night and got what we expected. The movie experience was all right, the seats didn't recline much but the height was such that I, as a very tall guy, didn't feel self-conscious about sitting up in my seat and blocking the view of the person behind me. The experience did not disappoint, neither did it wow me. I did win the TimePlay, which was nice! Ticket price was $14 for a standard movie with taxes in."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "Great theatre - go see a movie!",
+      "text": [
+        "I had not seen a movie at the theatre in a long time and then saw three movies in one week.  I saw Bohemian Rhapsody at the VIP theatre, A Star in Born (regular) and Fantastic Beasts 2 (regular).  ",
+        "VIP - I saw Bohemian Rhapsody on a Monday morning.  The theatre was pretty quiet which was awesome.  The staff were very cheery and pleasant to deal with.  The VIP theatre experience was great - I got to select where I wanted to sit and the Cineplex staff took my order and served me right from my seat.  The theatre was very clean and the seats were super comfy! I did just order regular food.  So if you are not ordering special food or an alcoholic beverage, I am not sure if it is worth the additional cost.  ",
+        "Regular theatre - I saw one movie on Friday during the day and the other on Sunday.  On both days the theatres were clean.  I enjoyed my experience.  I did have people walk in near the end of the movie.  They did make a lot of noice entering.  That was really odd.  It was definitely busier than my movie experience on Monday but that makes sense.",
+        "For all the movies, the theatre was chilly.  So I do recommend to dress warmly.  ",
+        "The wifi at the theatre is very week.  I tried to buy tickets using the app at the entrance. The purchase would not go through."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "Nice theater ",
+      "text": [
+        "We didn't do the VIP as we thought it was too expensive given we arrived 10 minutes before the show. We did the basic regular movie. Comfortable enough. No issues. Very central if you're downtown. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Really Cool Cineplex to Visit but VIP Food is Just Okay",
+      "text": [
+        "I joined my wife at the Yonge and Dundas Cineplex VIP to have dinner and watch a movie and ordered the stacked hamburger with the perogies on top which was delicious up at the Cineplex VIP at Yonge and Eglinton when I tried it for the first time and was shocked when it turned out to be a complete disappointment. The burger patties were overcooked and dried out and the meal in general was so poorly done that I would have returned it if I wasn't sitting in a dark theatre watching a movie. The other thing I noticed is that the seats in the Yonge and Dundas VIP theatre, while very comfortable, do not fully recline like at the VIP at Yonge and Eglinton. So while it is an okay or average VIP theatre you will enjoy the food and seating much more at the Yonge and Eglinton location which I previously reviewed."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Great Moviegoing Experience With Celebs!",
+      "text": [
+        "I came here on a Sunday evening to watch Crazy Rich Asians with Simu Liu and Andrew Phung (the actors on the revolutionary Canadian TV show, Kim’s Convenience)! They posted about the screening on Twitter which I came across and had to come to be able to meet them. I arrived an hour and a half beforehand and a line was already starting. We were let into the theater 30 minutes before showtime where Andrew Phung arrived and took photos with everyone who lined up. Simu Liu came during the trailers. Although I wasn’t impressed with the film, finding it to be just decent as I felt that it was over-the-top, shallow, and vapid with questionable plot points, the experience of watching the film with the two celebrities, which livened the atmosphere was great as there would be cheering throughout the film. The sound quality was good. The picture quality was also good, but towards the end, the film got a bit blurry for a few minutes. Overall, it was a great moviegoing experience!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Expected better ",
+      "text": [
+        "Went along to the 3D showing of the new Mission Impossible movie in one of the VIP Cinemas.  The staff in the VIP Lounge & on the Sales Desk were very helpful & friendly.  The food in the VIP area was tasty.  Signage was particularly poor throughout.  The seats were not that great - very worn.  The table was also sticky.  Other cinemas equivalent (eg. Gold Class & Lux) are superior."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Adult only VIP.....need I say more",
+      "text": [
+        "My most enjoyable movie experience ever! The seats are all big, comfy recliners. Wait staff approach you once you are seated to enquire about drinks or snacks - and the menu is far wider than popcorn or popcorn. Oh, and that’s real grown-up-people drinks,so you can sip a Bellini or a beer while you relax and watch your movie. Best of all - I watched a Star Wars movie on a Saturday afternoon in peace and quiet without any kids.",
+        "The caveat is that you pay a premium for all this comfort. I felt it was worth it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    }
+  ]
+}

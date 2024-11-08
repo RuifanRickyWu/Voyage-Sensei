@@ -1,0 +1,173 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "LOST Canada Toronto Station",
+    "url": "/Attraction_Review-g155019-d10045045-Reviews-LOST_Canada_Toronto_Station-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "685 Queen St W 2/f",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6J 1E6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "2.5",
+      "reviewCount": 15
+    },
+    "openingHours": [
+      "Mo-Th 15:00-21:00",
+      "Fr 15:00-22:00",
+      "Sa 13:00-23:00",
+      "Su 13:00-20:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/68/f2/44/reception.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Escape Games"
+  ],
+  "description": "LOST Canada is a series of reality escape rooms which is a physical adventure game where players are locked inside pre-set scenarios rooms. The escapers are limited to use only the elements inside the game along with their abilities to find clues, solve puzzles, and perform actions in order to escape within 45 minutes. The goal is to excel their “cognition”, “communication”, “cooperation”, and “observation” skills while having a great time. Started in 2013, headquarter located in Hong Kong branching out to 8 different locations in Australia, Canada, China, Philippines, Singapore, Taiwan, United Arab Emirates and Vietnam.",
+  "duration": "Duration: < 1 hour",
+  "reviews": [
+    {
+      "title": "I've had better",
+      "text": [
+        "It was a neat idea, but definately not the greatest quailty of an escape room. The Alcatraz room felt out dated. Floors were broken, the wallpaper coming off the wall. We found a used lollipop stick, that had nothing to do with the room. ",
+        "Silly puzzles that made no sense without getting clues.",
+        "We booked a group of 6, but we're given only two flashlights - it's a dark room. ",
+        "I wouldn't be back to this location. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Lousy business practices",
+      "text": [
+        "Booked in Feb on at Saturday. Took credit card info. Had to call back twenty minutes later as my daughter got ill. No problem they said. Got a screen shot of cancellation confirmation. Fast forward to May and I have not recieved my refund.",
+        "Good luck in trying to call them. Answering machine always says closed (no matter what time I call) and to call back during regular business hours. They don't indicate when regular business hours are. Tried to excerise option of leaving message but the system won't let you.",
+        "Read numerous on line complaints they do not answer.",
+        "Wish I could give no stars"
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2019 • Family"
+    },
+    {
+      "title": "Low budget escape room",
+      "text": [
+        "Our group selected the Alcatraz escape room. We were given a two sentence backstory before we were locked in a jail cell. We were not told that there were clues outside of the jail cell as we  asked if the cell was separate from the rest of the room it opened up to so we wasted a good chunk of time before we were told the whole room was in play. The employee placed 40 minutes on the clock rather than the 45 their website advertises and we were on the last clue when the timer ran out. So we assumed the employee would come give us a clue and our remaining time, instead she just came in and told us the last step (which we were in the middle of). Overall, we will not be returning as this location is not worth the price."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2019 • Friends"
+    },
+    {
+      "title": "Outdated",
+      "text": [
+        "A lot of the clues were faded, walls scratched up. Was disappointed for the amount of money it costs per person the upkeep should be better"
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Escape Room v1.0 with actual fire hazards",
+      "text": [
+        "I recently played a couple rooms at this company. I wasn't impressed. Felt like a very v1.0 level quality. Not much that was innovative. Things worked, and a few of the puzzles were decent... but nothing felt particularly original. Needs a big refresh. ",
+        "My 1 star rating, though was because there are total fire code violations. You get locked in a jail cell, for example, in the Alcatraz room... and there is no emergency escape button. You legit cannot get out unless you complete the puzzle (which is shooting a laser to hit 8 targets... I'm spoiling this because if you're in there you need to know). They need to fix this ASAP before someone gets hurt. Even if they fix the fire code problems, I don't think I'd give it more than a 2 star. I should have checked escroomaddict.com before going."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Very fun activity",
+      "text": [
+        "Went here last month with some co-workers for fun activity after work. There were 8 of us, so we didn't really have much choice to which rooms we could pick from. However, that didn't seem to matter because we all had fun. It was definitely more challenging than we had all thought it would be. We had to use up each of the 3 hints throughout the allotted time. In the end though, we made it out just as the timer was going off.",
+        "Pros: fun, challenging, scary, entertaining. Obviously this can change depending on the people you have with you, but overall this is a good experience.",
+        "Cons: the room we were in was not temperature controlled, so it got hot pretty fast. Some A/C or at least fans to circulate the air would have been nice.",
+        "Tips: if you are scared of the dark or uncomfortable in confined spaces, this may not be for you."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Great experience!",
+      "text": [
+        "Visited to complete the Cemetery room and stayed to do the Prison one as well! The puzzles were creative and the props were interactive. The games were both easy if you've done a lot of other escape rooms. Shout out to our game master Tyler, he was professional and super friendly! Definitely check out this escape room company if you're in the area.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Couples"
+    },
+    {
+      "title": "Poorly Executed/Poorly Maintained",
+      "text": [
+        "We played with a group of 4 - 2 couples. 1 couple had lots of escape room and experience and the other had none. We were initially impressed because the stairs played notes as you walked up, and that was kind of fun. However, then we started the Royal Cemetary Game.  There wasn't really much of a backstory, which turned into the smallest of problems. When we started playing, locks started randomly triggering and then continuously beeping. It wasn't really possible to tell if we had completed a puzzle or if a door opened for some other reason. The gamemaster couldn't even tell us if it was supposed to open at that point. Some of the puzzles had broken and were held together with duct tape. The potential was there but the extremely lousy execution means I would not recommend this escape room."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Lost Canada Escape Rooms (The Gallery Codex)",
+      "text": [
+        "At the time of writing this review, my group had completed approximately 20 escape games. We found this place while in the neighbourhood and was the only place that had availability. Going up to the room had really cool steps that played a note when taking each step. We did the Gallery Codex room. The room itself was a little worn, but the puzzles inside were well thought through and made logical sense. There was a little hiccup in one part when we opened one of the locks, where a key was supposed to be, it wasn't. The room was not properly set up. This itself was probably not that big of deal, but trying to contact the game master took a few tries. There seemed to be only one game master for several rooms. He did seem like he was overwhelmed dealing with other groups. I wouldn't preclude myself from going back again to see what the other rooms were like, but be prepared with figuring the stuff out without timely clues."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2017 • Couples"
+    },
+    {
+      "title": "Potentially Dangerous Broken Rooms & Overpriced (even for Groupon)",
+      "text": [
+        "4 of us used a Groupon last night at Lost Canada.  The Groupon was $60 (original price $120) and we chose 1 room challenge.  The challenge was 45 mins long, pretty expensive for a badly designed escape challenge company, I can't imagine how bad I would have felt if we had paid full price.",
+        "The room contained a magnetically locked prison cell that we started in.  The room was broken and the cell would not open when we solved it.  After the (very helpful and nice) attendant told us to try a few times, without luck, she came in to help.  She tried to turn off the power to disengage the magnetic lock and that did not work.  She called the owner who told her that we had to climb onto the cell, open the ceiling and unplug the lock.",
+        "If the building had started fire or there was a real emergency, we would have been locked in that cell with no way to get out.  The fire marshal should be sent in to investigate this place!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Best escape room in toronto",
+      "text": [
+        "SOOOO much fun. I'd recommend it to friends and I'm definitely going back. The staff was super fun and friendly and the puzzle was awesome!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "First time doing Escape Room",
+      "text": [
+        "- Got this on Groupon for $20 for 2 people. Well worth the money. Was in there for 45 mins. ",
+        "- This was the first Escape Room my boyfriend and I had ever done and we did pick the hardest one but it was still a lot of fun. Would go back and try other rooms. ",
+        "- The place is easy to find, but the place itself it not set up that great- kind of confusing and things are everywhere, does not seem professional."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2016 • Couples"
+    },
+    {
+      "title": "Disappointed - More Info or Instruction Would Have Been Nice",
+      "text": [
+        "A group of 14 of us went to Lost Canada to see what this new \"Escape Room\" fad was all about.  We booked 3 escape rooms and we split up into groups.  None of us had ever been to an escape room before so we had absolutely no idea what to expect.  I was in a group with 3 other friends and were shown the room.  We were asked if we had any questions.  Uhm, ya, what do we do??!!  She said, I suggest you start here.  We were never told we were looking for things that had a four digit code.  We thought there might be notes or something as clues.  Nope, everything is code.  Would have been nice to know that - and the number of digits.  It also would have been nice to get a brief overview of the theme of the room as that may have helped.  Even the \"clues\" you get (2) if you press an intercom button were completely obscure and difficult to figure out.  And we signed up for the \"easy\" rooms.  They really should give more direction/information and not assume people know what to do when they get into the room.  Simply providing that information is helpful for the newbies, and if someone's been to an escape room before, they can skip that.  Considering the price of these things is approximately $30 per person, I expected much more."
+      ],
+      "rate": 2.0,
+      "tripDate": "Apr 2016 • Friends"
+    },
+    {
+      "title": "Challenging Rooms & Mediocre Customer Service",
+      "text": [
+        "We attempted the Codex Gallery room after purchasing a Groupon voucher for four people.",
+        "Upon arrival we were told to sit and wait until we were called for our room.  We waited for quite awhile and were then told that someone had broken part of the game in the room we were scheduled for.  We had to wait close to 25 minutes before entering.",
+        "There was only one person at the desk.  He had to greet people, take any payments, explain the rooms, provide hints, answer the phone, reset the rooms, etc.  This guy was run off his feet.  We were actually trying to ask for a hint for more than 20 minutes before we had a response from him.  Thank goodness that nothing was seriously wrong since we were locked in the room and couldn't get out with no response from him.",
+        "The room was challenging.  We didn't manage to solve all the puzzles but came pretty close.  However it turned out that the last element was actually still broken from the previous people so even if we had figured it out, it wouldn't have worked.",
+        "As compensation, he gave us a second room to do but indicated it was the hardest one (The Lost Den) that they have and less than 1% of people escape.  Suffice to say neither did we.",
+        "The rooms are set up well but the puzzles are difficult.  The only real problem with this place is the lack of personnel and the washrooms are filthy."
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2016 • Family"
+    },
+    {
+      "title": "Frustrating Experience",
+      "text": [
+        "I went with four of my friends, all of whom I feel are pretty smart.  We chose the prison escape room and were given 45 minutes and two clue asks.  We didn't even make it through half of the challenges before our time ran out.  The different aspects of the escape were not at all intuitive which made it very frustrating.  When we asked how many people actually successfully made it out, they said 20% but I find that even hard to believe."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2016 • Friends"
+    }
+  ]
+}

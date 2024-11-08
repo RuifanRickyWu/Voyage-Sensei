@@ -1,0 +1,382 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Happy Niagara Tours",
+    "url": "/Attraction_Review-g155019-d24000460-Reviews-Happy_Niagara_Tours-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "300 Front St W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 0E9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 46
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/21/68/5e/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Private Tours",
+    "Day Trips"
+  ],
+  "description": " Happy Niagara Has been Providing Premium Day Tours of the Niagara Falls from Toronto Be treated like as our important guest! With Happy tour you will not have to stand in-line for tickets anywhere. You will be picked up and dropped off at your hotel. Your tour will include Niagara cruises, Farmers Market, chapel, Maple Syrup tasting, 3 Course Lunch and 3 Hr Free time at Clifton Hills",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "I think I missed something or something was missing from the tour",
+      "text": [
+        "This booking was really confusing. I thought my pick up was at my hotel, and it wasn’t. I thought it came with a 3course meal and it didn’t. There was really no guide or guidance. However, the driver was great and sincere. For it to be a 5 Star rating, I was expecting it to be that. It wasn’t but overall the Niagara Falls splendor made up for it."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Niagara Falls Day Tour",
+      "text": [
+        "We had a great day experiencing Niagara Falls, and opted to add on a boat ride and a Behind the Falls tour. The bus trip included a stop at Maple Leaf Place where we tasted maple syrup, fudge and chocolate (yum!) Thanks for a fab day Haroon! "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "I'M Thrilled❤️",
+      "text": [
+        "The sightseeing was amazing. We have enough time on each attraction. Time was great. Mr haroon tour guy he was amazing, provide good knowledge of history."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Once in a lifetime trip",
+      "text": [
+        "Very good experience seeing Niagara Falls in person, our tour guide Haroon was very friendly and knowledgeable about Niagara Falls and its history. The tour bus came and collected us from our hotel in Toronto and after collecting the other parties made our way to the Niagara. Comfortable journey on the bus both ways with a bonus stop at the Maple Leaf Place to try maple syrup / chocolates. Overall a really good experience and would recommend anybody to do it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Niagara fall",
+      "text": [
+        "Driver was late exactly 45 mins late, didn’t get chance to shop around Niagara fall, really good tour guide he guided us around…"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Niagara fall tour",
+      "text": [
+        "Good experience, required more time here, driver came late today exactly 45 mins late and that’s why we didn’t get more time at Niagara fall and I couldn’t shop around much .."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Never heard back from TripAdvisor",
+      "text": [
+        "12June2023",
+        "A large price discrepancy.  We booked online 2 people - falls + boat ride(Ticket TripAdvisor-Julie Prior-BR-1021114703) total $270.00 Canadian dollars,  however without advisement ",
+        "my visa was charged $458.00?  I checked the Happy Niagara tour website and the $270 looks correct for 2 people. ",
+        "Why is the charge double through Tripadvisor ?"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Day trip to Niagara Falls with add on lunch at Sheraton. Guide Haroon",
+      "text": [
+        "Travel ",
+        "was efficient. Faster than expected and comfortable.",
+        "Ist stop Sheraton for lunch. Very ordinary. Find is was not hot and very limited choice",
+        "Staff cleaning up around… do not recommend this option",
+        "Boat ride excellent and a must",
+        "Skylon tower well worth the photo opportunity",
+        "Maple Syrup tasting could have been amazing but wasn’t",
+        "Lacked any ambience. Basically taste the syrups and shop. No ",
+        "Stories about how the syrup is harvested etc",
+        "Whirlpool stop could have been amazing but only 10 min and no time to get on the cable car over the river which would have been a highlight.",
+        "At $323 Australian  ( and the Canadian $ is 91 cents) I would not recommend buying from trip advisor.",
+        "Happy Niagara which is the tour provider do it direct for $224ca with lunch or 189 without lunch which also includes a short stay at the smallest chapel in the world and a farmers market.",
+        "Haroon was knowledgable and professional and tried at all times to meet the needs of all the guests",
+        "Before you buy check your pick up options",
+        "My hotel classed as downtown but no pick up option on the day",
+        "Closest access was 15 min walk which is no issue in the morning but as a solo an issue walking back at 7 at night.",
+        "All in all a good day but with a bit of tweaking could be amazing"
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Majestic Niagara Falls",
+      "text": [
+        "Tour guide Haroon from Airlink was delightful. He was responsive to inquiries before the tour and provided just the right amount of knowledgeable  guidance.",
+        "Even though I had a hotel out of the pickup zone, the location for pickup in Downtown Toronto was easy enough to locate - with the convenience of WiFi, restrooms and coffee ( courtesy of Starbucks!) while you wait.",
+        "I was in awe of the falls- behind, in front of and over .. every which way ..they are certainly worth a look!",
+        "Thanks Haroon, Airlink and TripAdvisor !"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Niagara Falls",
+      "text": [
+        "Haroon was a great guide with a lot of knowledge. We had a comfortable drive to the falls from Toronto. The boat ride was great and we also did journey behind the falls during our free time. Great weather."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Family"
+    },
+    {
+      "title": "A great choice for your day trip",
+      "text": [
+        "I can definitely recommend this tour. ",
+        "With this tour, you will taste Ontario maple syrup, visit Niagara Falls, have a three-course meal and visit local farm where you will see the smallest chapel and try handmade ice cream. ",
+        "Driver was really nice and funny, explained a lot of stuff, answered our questions and even provided free Wi-Fi access for the entire group during our trip."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Excellent experience",
+      "text": [
+        "Excellent experience, great tour guide. Great knowledge of history about Niagara. Nice additional stops on the route. I would highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Friends"
+    },
+    {
+      "title": "Unforgetable Tour",
+      "text": [
+        "This day was wonderful!! Picked up at our hotel. Then we drove to a maple sirup shop and then our highlight of the day, the niagara falls!!! The view was sooooo impressive !!! Was wonderfull!!",
+        "And our tourguide (Shahzaib) had sooo much information for us and he was soo friendly. This guy has so much knowledge about canada, unbelievable! We learned a lot.",
+        "All in all we want to recommend this trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Couples"
+    },
+    {
+      "title": "Awesome Trip",
+      "text": [
+        "The Tour was so great. Pick up at the hotel. Awesome Tour. Our Driver/Guide Shehzaib was such a nice person and had an awesome time together. The falls are so impressive and a must see when you are in Ontario."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Couples"
+    },
+    {
+      "title": "Highly recommend the Niagara Falls tour",
+      "text": [
+        "Best way to get around the city hotpots for a small group. It was great not needing to plan since the entire process and itinerary is already set."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2021 • Couples"
+    },
+    {
+      "title": "Boat is the Best",
+      "text": [
+        "Good tour and tour guide. Niagara falls is nice, the boat ride was definitely the highlights of the whole Trip.",
+        " Would recommend to anyone traveling to Niagara Falls!."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Solo"
+    },
+    {
+      "title": "Nice tour for my group",
+      "text": [
+        "Our group of 12 had fun on this day tour. We were picked up on time by our driver Shahzaib. Nice lunch at skylon tower with views of the falls .We had alot of fun and learned alot about Niagara falls."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Business"
+    },
+    {
+      "title": "Niagara Falls was amazing!!!",
+      "text": [
+        "I went on this Niagara falls tour from toronto today and it was amazing. Me and my wife were greated by Haroon our guide. He was very nice accomadating . We went to maple syrup tasting and had fun taking shots of maple. Next was niagara falls it self which was beautiful and unmatchable. Our tour guide arranged the lunch for us at nice restaurant with the views of the falls.",
+        "Upnext was visit to Farmers market which was just relaxing and enjoyable. They had local ice cream to try which were delight. We also did other sightseeing on the tour.",
+        "We were dropped back to our hotel by 6pm. I would highly recommend this Small group Niagara Falls tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Couples"
+    },
+    {
+      "title": "Awesome experience!",
+      "text": [
+        "The tour was worth it! We had Haroon as our tour guide, and he made the trip very enjoyable and memorable. He was very informative and he knew all of the answers to our questions. He made us feel comfortable and told us about places to visit and tips on how to make the most out of our trip. Would definitely book again if we come back, 10/10 would recommend the tour and our tour guide!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Couples"
+    },
+    {
+      "title": "Best experience with them.",
+      "text": [
+        "It was my first and the best experience hiring a tour company. They properly educate throughout the trip. They are super friendly and managed the whole trip very well. If anybody really wants to explore a Niagara. Book your tour with them. Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Solo"
+    },
+    {
+      "title": "Niagara Falls Excursion",
+      "text": [
+        "I had a great day on this tour.  The Falls were amazing.  There were several stops that perked up the outing.  Haroon, our driver/guide was great.  I would definitely recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Solo"
+    },
+    {
+      "title": "Fun",
+      "text": [
+        "Great! The tour guide was very patient with other members and he was informative took us To a fun maple tour and gave us time to take breaks"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Friends"
+    },
+    {
+      "title": "Amazing",
+      "text": [
+        "Loved the tour! Our guide Haroon was great and made everything so easy! I loved all the extra sights."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Couples"
+    },
+    {
+      "title": "Great guide",
+      "text": [
+        "We got Haroon as a guide and he was very friendly and helpful. The tour was very nice and we got the time to do everything we wanted. I recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Friends"
+    },
+    {
+      "title": "Amazing trip",
+      "text": [
+        "Hands down AMAZING trip. I was picked up from the Chelsea hotel and our guide Shazaib was awesome. The trip was outstanding from beginning to end. If you are contemplating booking this trip, DO IT!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Solo"
+    },
+    {
+      "title": "Absolutely Brilliant!",
+      "text": [
+        "Me and my wife went on this tour to niagara falls from Toronto we were collected at the pick up location by our tour guide shahzaib we were then taken to maple syrup tasting it was a amazing experience then we were taken to the falls we were given plenty of free time to experience the falls we also had good lunch at one of the restaurants after lunch we did some site seeing and then we had some ice cream at the farmers market which was delicious and finally after all of that we were taken back to our pick up location back in Toronto ",
+        "I would definitely recommend this small group tour to all Couples!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Couples"
+    },
+    {
+      "title": "Amazing Tour",
+      "text": [
+        "I made this wonderful and amazing Tour. Haroon best tour guide ever, he explain us before the trip what was the plan, he stay on schedule and gave us very good recommendations. Maple syrup taste super, very good explanations about everything, when you got in the boat, no words to explain that feeling. Something I would never forget."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Superb Experience",
+      "text": [
+        "Superb experience with Happy Niagara Tours. Met all my needs, they provided the boat tickets and a lunch at small restaurant overlooking the American Falls. Maple syrup tasting was a nice surprise. Haroon was a great guide and very pleasant. I would highly recommend these guys."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Solo"
+    },
+    {
+      "title": "Niagara Tour",
+      "text": [
+        "Took this tour in May 2022 and it was an amazing experience. From pick up to sightseeing, food and drop off, everything was well timed and really smooth. The tour guide, Haroon, was amazing at explaining the importance of all the different spots on the tour and keeping everyone engaged. Would definitely recommend or take it again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Solo"
+    },
+    {
+      "title": "Good experience of boat and Clifton Hills",
+      "text": [
+        "Nice little Group tour with our tour guide Haroon. He was very knowledgeable about the area. ",
+        "We had plenty of time for boat ride and explore in Niagara Falls on Clifton Hill. I would definitely recommend Happy Niagara Tours if you prefer adventure with small group of people!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Solo"
+    },
+    {
+      "title": "Niagara Falls",
+      "text": [
+        "Fantastic day at Niagara Falls with a comfortable bus ride in. Haroon was a great guide sharing lots of information. The maple tasting was a great way to end the day."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Haroon was amazing!",
+      "text": [
+        "Had an amazing time on this tour! Our tour guide Haroon was great, loved seeing Niagara Falls! Also loved seeing/hearing about how maple syrup was made. :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Family"
+    },
+    {
+      "title": "Great",
+      "text": [
+        "I had an amazing time. Thank you to Harogn for being so accommodating. Had an amazing day with my family"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Family"
+    },
+    {
+      "title": "Best way to see Niagara Falls from Toronto",
+      "text": [
+        "Best way to see Niagara Falls this side of the border (Canada). We were picked up from our hotel on time and taken to the Falls with a few other families/groups. Haroon was a great both as a point of contact (he answers all calls) as well as the guide . He managed to cater to group and individual needs at the same time. I was considering driving from Toronto but now recommend you book via Haroon and Airlink through Tripadvisor"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Strongly recommend ",
+      "text": [
+        "Picked up from directly from the hotel, which made it super easy as I just arrived in Canada. Fun and friendly group of people with the best tour guide made my experience of Niagara Falls AWESOME!! Thanks heaps"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great trip even on winter",
+      "text": [
+        "It was a great tour even with the snow and bad weather our guide Shahz was very nice and showed a lot of the way to the waterfalls"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Couples"
+    },
+    {
+      "title": "Day trip",
+      "text": [
+        "Haroon was kind and attentive. The hotel pick up and drop off was seamless. The hotel lunch buffet was pretty limited and basic, but tasty…and the view was amazing."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "The Niagara Falls experience",
+      "text": [
+        "Excellent service. Very good guide. Our guide Haroon was very knowledgeable and took good care of us."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022 • Couples"
+    },
+    {
+      "title": "Highlight of Canada",
+      "text": [
+        "Great tour!",
+        "This was the highlight of our trip to Canada!",
+        "I really recommend this tour because it will meet every expectation. You get to do maple syrup and chocolate tasting.you get to 3 hours in the Niagara Falls of free time along with your ticket to the boat ride. You also get to visit the little chapel where you can also get amazing homemade ice cream at the farmers market. Then you take the ride back home through these amazing residential streets were you see amazing multi million dollar homes. I really recommend this tour"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Couples"
+    },
+    {
+      "title": "Never Forgetting Niagara",
+      "text": [
+        "Haroon was an excellent guide and driver with a lot of charisma. You can tell off his energy how much he loves what he does, which is always a key factor in being a guide. He was also nice enough to include a souvenir with our tour to remember for a lifetime! However, Michael (the booking manager I believe) can be a bit unprofessional. I was late to the tour which I understand can get a tour operator frustrated, however he texted me some things I found uncalled for and unnecessary. I ignored them to keep things calm and leveled however he would text me a slick comment again which is unnecessary. But aside from that small problem, overall the tour went very well and I recommend it."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

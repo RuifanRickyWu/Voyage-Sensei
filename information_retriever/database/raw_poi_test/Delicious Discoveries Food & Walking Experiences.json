@@ -1,0 +1,224 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Delicious Discoveries Food & Walking Experiences",
+    "url": "/Attraction_Review-g155019-d27996549-Reviews-Delicious_Discoveries_Food_Walking_Experiences-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Po Box 99900 SC980 189 Rpo Davisville",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M46 0A6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 23
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/bf/a4/4d/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Cultural Tours",
+    "Walking Tours",
+    "Private Tours",
+    "Food Tours"
+  ],
+  "description": "It's not about being a foodie; it's about appreciating delicious food in all its forms.\nJoin us and embark on a food and walking experience like no other, where you will be taken off the beaten path to explore authentic tastes and hidden gems. Say goodbye to tourist traps and hello to eating like a local!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "So many delicious discoveries!!",
+      "text": [
+        "This was such a great tour experience! As a relative newcomer to Toronto I learned a lot from Maya about the St Clair neighborhood. The stories and facts she shared were up to date and relevant and she has such a great personality for giving tours and sharing information. Everything was wonderful before even discussing the food!",
+        "On the food front, it's clear Maya put a lot of thought into the vendors she partnered with. They obviously have a good rapport as each owner/vendor was genuinely happy to discuss their offerings and speak about their business with us. Even better, all the food we tried was delicious! While we did make a lot of stops and tried a bunch of different cuisines the timing was thought out and interspersed with walking so we never got too full.",
+        "Truly highly recommend this tour for anyone interested in learning about a different part of Toronto and discovering some new and delicious restaurants! I'll for sure be going back to all the places we visited!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Proud of Toronto",
+      "text": [
+        "This tour organized by Maya was so beyond what I had expected.  She chose such great food sources and, even better, shared the history of the diverse neighborhoods we walked through so the group learned lots about Toronto too.  Take this tour - you will not be disappointed!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Wonderful tour!",
+      "text": [
+        "Absolutely loved this food tour with Maya! She is full of local knowledge and took us to some amazing spots with a great range of food! I even had leftovers for dinner."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Taste of the real Toronto",
+      "text": [
+        "Incredible tour experience with great food! I really enjoyed the dose of history and how well-planned everything was. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Great food, a nice walk, and lots of great information!",
+      "text": [
+        "Maya does so much more than just bring the group to different eateries to sample their (excellent) food and drinks. She's clearly built a relationship with the owners and staff, introduces them to us, and we get to learn about the history of the shop and even some family history. It's a great way to build a personal connection to a space. I mean, all shops are owned by a human or two, but it really makes me want to come back for more after having a chat with an owner, or happy employee!",
+        "As far as the walking part, it was perfect. It was a hot day, so definitely bring some water (in your large bag that has room for guaranteed leftovers). Some good trivia and facts throughout.",
+        "Overall, it's absolutely worth doing if not for the food alone. But I do recommend listening, learning and chatting as well!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Solo"
+    },
+    {
+      "title": "Delicious food and wonderful guide",
+      "text": [
+        "We had an amazing day with Maya as our guide as we got to experience the real Toronto and its wonderful cuisine. She took us to this little coffee shop where we had the most amazing cherry pie. I normally don’t like cherry but it was absolutely delicious. And we had the most incredible falafel I’ve ever eaten. I can’t recommend this tour enough and Maya is so knowledgeable and such a warm and friendly person. Do yourself a favor and take this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fun & Informative!",
+      "text": [
+        "This was a really fun few hours, filled with delicious food and amazing discoveries of streets I did not know existed (and I have lived here for more than 30 years!).  Maya is a very personable and knowledgeable tour guide, and made our time extremely pleasant!!  I highly recommend this tour of a wonderful neighbourhood in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Unique and fun tour of Toronto!",
+      "text": [
+        "What a unique and fun way to see Toronto and experience delicious mouth-watering food! We had a walking tour guided to five different restaurants. Wow! The food was amazing. Bring a bag to carry away the extra food.  I learned a lot about Toronto including history, culture and architecture. I highly recommend this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Great and delicious tour",
+      "text": [
+        "This is the best food tour I had in Toronto. I frequently go on food tour in different places in Europe and the states and this one with the lovely Maya is up at the top. I am in my seventies and sometimes it is hard to keep up with the group but this tour was effortless and smooth. Maya arranged for breaks in the wonderful restaurants she discovered so it fits all age groups. The food was delicious, the owners engaged with us with their histories and the portions generous and great quality. Maya also introduced some architectural gems on the way that made the trip interesting and educational. Great tour great guide and great city! Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Great walking tour; so full",
+      "text": [
+        "What a great tour of the St Clair neighborhood!  I’ve never really explored this area and was fun to learn about the little things that make this area special.  The food picks were great and I was left so full.   I’ll have to go back to some of these places for a meal sometime!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Fun Food Tour!",
+      "text": [
+        "I had so much fun on the tour. It was a nice mix of different types of food and all very delicious!  The portion sizes were good and we were able to bring some food home to enjoy later. ",
+        "Maya was very attentive and it was interesting learning about the St. Clair West neighborhood, as it is not one that is usually visited. There were lots of opportunities for washroom breaks too, which I appreciated. It's a well executed tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Great food, treats and exercise!",
+      "text": [
+        "A great tour for those looking to get (slightly) out of the downtown core. Meeting spot was easy to get to by Subway and finishing at Casa Loma gave us an opportunity to take some great pictures of the city. There was also a great variety of food!  Thanks Maya!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Amazing food tour!",
+      "text": [
+        "Fantastic food tour in Toronto! Maya is  professional to work with and very knowledgeable about the history of the St. Clair West & Casa Loma neighborhoods. The food was delicious and the portions generous. The restaurants were authentic and reflected the unique characteristics of the city. Whether you’re coming to Toronto for a visit or have lived here your whole life, put this tour on your must do list!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "One fun walk for foodies and firiends",
+      "text": [
+        "Great tour of the St Clair area!  Maya was a very  fun, enthusiastic and attentive guide.  She prepared us well for the trip and provided lots of very interesting information about the history and the present of the area. The food, well the food was very good, very tasty and varied, and lots of it!  All the restaurants were very proud of their products and history!  This was my first ever food tour, but I will definitely go back!  I highly recommend it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "Great for tourists and locals alike",
+      "text": [
+        "A wonderful food and walking tour. Maya is a fantastic guide and is very knowledgeable about the neighbourhood and city. The food stops were varied and everything was delicious! It was a generous amount of food that left me feeling comfortably on the verge of being stuffed while still being able to walk and enjoy everything. I still dream about some of the treats we had on this tour! You can tell that Maya has developed great relationships with the owners of each stop, too. ",
+        "It was also really nice to spend some time in a neighbourhood off the beaten track but still very accessible and central. Maya led us through some beautiful residential streets and shared a lot of the history of the neighbourhood and city. I've lived in Toronto for most of my life but still learned a lot and, yes, made some delicious discoveries!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Amazing food walking tour",
+      "text": [
+        "The tour was amazing and Maya was a great guide. She told us stories about the area, its original residents and the history of the restaurants visited. The food was varied, delicious and plentiful."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Excellent Food Tour",
+      "text": [
+        "What a wonderful experience! I live in Toronto but had not been to any of the places listed. I liked them so much I ended up going back to a couple! It was a great way to experience the city in a deeper way. I learned so much from all of the fun facts and stories Maya shared. ",
+        "I went with my newborn baby and Maya was very accommodating in making sure I had appropriate spots to nurse my baby and change her diapers. ",
+        "Each stop gives a very good tasting and I was very full by the end of the tour with lots of leftovers :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "A great way to know Toronto from the inside",
+      "text": [
+        "Maya's walking tour was one of the high points of our visit to Toronto. She showed us things about the history and culture of a part of this diverse city that I doubt many natives are aware of. The food stops were selected to highlight this diversity. The quality of the food was exceptional, and the portion sizes were perfect for a 3.5 hour walking tour. At three of the five restaurants the owner came out to meet us and treated us to stories about their businesses that complemented Maya's presentation. Maya made sure that each restaurant was notified in advance that one member of our party had dietary restrictions, and in each case a special dish had been made ready for her. But the best part of the experience is Maya herself, a fun person who loves what she is doing, and cares that each person in her group is having a great time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Aptly Named!",
+      "text": [
+        "Delicious Discoveries with Maya was a delicious discovery!  The food offerings she selected were a perfect way to sample the finest foods in the West St. Claire part of Toronto without having to do trial and error on my own. We tasted fab falafels, great guacamole, awesome Jamaican food and the best apple pie we've ever had!  All book-ended by wonderful bubble gum ice cream and refreshing hibiscus tea and espresso.  Maya makes sure you are having fun and feeling pampered.  In between stuffing your faces she enlightens you on the history of the neighborhood in a way that makes you want to come back on your own and bring friends.  Strongly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Delicious tour of mid-town!",
+      "text": [
+        "Maya was an exceptional tour guide who went above and beyond to ensure we remained on scheduled (but didn't rush us!) and answer all our questions. The restaurants and views were amazing, and Maya was entertaining, engaging, and knowledgeable as she shared interesting stories about the history and development of the areas and restaurants we toured. Tip: bring an extra bag to carry any extra food!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Fun afternoon exploring and eating",
+      "text": [
+        "This was a fantastic way to spend an afternoon. Being new to the city, I got to experience life as a local with a friendly and knowledgeable guide. The food was delicious, and just enough to feel satisfyingly full. Plus learning about the the history of the area was really cool. Thanks very much! Definitely recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "An excellent experience for locals and newcomers!",
+      "text": [
+        "This is a fantastic experience and a great way to learn more about Toronto!  Maya is incredibly knowledgeable and has curated a wonderful experience for locals and newcomers alike. The restaurants she has chosen are local businesses with excellent food and beverages that you'll want to support long after the tour. As a long-time Toronto resident, I learned so much about this neighbourhood that I never knew in my time living nearby! Maya takes you off the \"beaten path\" and takes you through hidden gems in a neighbourhood with a rich history. This experience is a fabulous way to spend your day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "A great way to spend an afternoon!",
+      "text": [
+        "Such a great experience! Maya’s tour is fun, informative and full of delicious bites. I’ve been living in Toronto for a number of years and learned so much about my own city. Whether you’re touring the city or a local looking for something to do, this experience is for you! A special shoutout to all the lovely local business owners we met along the way!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    }
+  ]
+}

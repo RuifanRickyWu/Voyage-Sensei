@@ -1,0 +1,337 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Royal Tours of Niagara Falls from Toronto",
+    "url": "/Attraction_Review-g155019-d1729082-Reviews-Royal_Tours_of_Niagara_Falls_from_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16 York St Suite # 2006",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 2Z2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 41
+    },
+    "openingHours": [
+      "Mo-Fr 07:00-23:00",
+      "Sa-Su 08:00-20:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/0a/bd/09/royal-tours-of-niagara.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Sightseeing Tours"
+  ],
+  "description": "Experience the Magnificent sights and sounds of the Falls. Enjoy a quality tour, fully commentated by a Niagara Parks Commission Government Licensed guide as you view the main attractions of the region. Ride from the Toronto area to Niagara in the comfort Mini Bus. Free pickup from Toronto and Airport Area HotelsCall us for Reservations at 1-888-786-7906",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Royal Tours of Niagara Falls",
+      "text": [
+        "First, Niagara Falls is beautiful and I liked that part of the tour.  But, the tour company was terrible.  We had called them first and they said they would pick us up from our hotel, but we had to make reservations on their website.  The website even has a spot for hotel pick-up.  But then, it turns out that they don't pick up from your hotel; they only have designated pick-ups locations (which is fine, but they shouldn't say they pick up from a hotel if they don't).  Then, the driver/tour guide was very hard to understand, and he did not make things very clear about how long stops were going to be, or where he was going to pick us up.  We had to ask him several times to clarify these things. Finally, we stopped at a couple of places that were not very interesting, but apparently are routine places to stop on this tour.  Having more time at the Falls would be time better spent. ",
+        "Bottom line is the Niagara Falls is fun to visit (a bit crowded, even in the fall), but don't use this tour company."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Too long and poor planning",
+      "text": [
+        "Nothing went right on this day, outside of seeing the spectacular falls. The tour guide didn’t meet us until we got to the site, then the site was overcrowded and we missed our lunch by two hours, and we were supposed to be back by 7pm and didn’t get back until 9pm. Don’t buy the back by dinner song-and-dance. There is just no way. Just plan this for the whole day, and eat dinner at your hotel at 10pm when you get back to Toronto."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "What a Dreadful Company",
+      "text": [
+        "Expensive and extremely poor. We even had one passenger urinating on the bus, A rude driver too boot! We followed this with a trip on Rocky Railway. What a difference "
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2017"
+    },
+    {
+      "title": "Great vacation tour",
+      "text": [
+        "We had a great time on our tour over the falls our guide Robbie was great he told us about everything he was very accommodating he did rush us I would recommend Robbie as a tour guide thank you so much Robbie for making our tour so much fun we loved it"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Really professional service",
+      "text": [
+        "Our driver was excellent, took us to the best spots and waited patiently for us to sight see before taking us on to the next spot. Whilst Niagara is beautiful, that’s not what the review is about. The tour and wine region were both enlightening and enjoyable. Would fully recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Couples"
+    },
+    {
+      "title": "Family Vacation from Singapore",
+      "text": [
+        "We are a family of 3 from Singapore. We visited and booked Royal Niagara Tours for our private visit. We choose to keep it private as we had our Mum with us who speaks very little English and she is not young at 70 walking is slowed down.",
+        "From the time of booking about 3 months before our trip on 3 May 2017 we had a wonderful booking experience with Brigit. Fast-forward to our trip with Royal Niagara Tours, on the actual day Tuddi was send to guide us and fetch us around in a nice Lincoln Town Car. He was so good that we even found time to translate his commentaries into Mandarin and Cantonese for our mum.",
+        "We visited the Niagara Falls (both day and night views), Took the cruise, got ourselves drenched by the falls waters and took many pictures and video shots of both the Canadian Horseshoe Falls and American Falls, Niagara on the Lake, Flora Clock, Lunch and Dinner was at Sheranton Hotel (Fallsview Buffet Restaurant) and even a Helicopter Ride (our 1st helicopter ride as a family).",
+        "Tuddi even showed us the smallest church in the world enroute to sampling some of Canada's finest Ice Wine from the Niagara Region. ",
+        "Please express our appreciation to Tuddi and we wish him well in all that he does.",
+        "Thank you Brigit and team for the wonderful family vacation time we had with you.",
+        "Keep it up."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Family"
+    },
+    {
+      "title": "Great Trip & amazing sights",
+      "text": [
+        "It was the best tour group I've ever been on, the trip was a really fun trip, even if the weather was a bit hazy! After completing all the 'pick ups' we received a brief overview of the winery and sampled the lovely ice wine, our guide was number Mary!. After short trip to the beautiful Niagara by the Lake with a stop to enjoy this lovely place.  Simply thats was a great tour which I believe enjoyed by all the group despite the weather. Our driver Steven was good as was our tour guide  who provided lots of information along the way and kept us informed and entertained."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "Niigata boat trip ",
+      "text": [
+        "Very enjoyable way to spend the evening , boat trip and fireworks brill ",
+        "Amusements and tourist tack shops a must to see , over all and nice trip out of Toronto "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016 • Couples"
+    },
+    {
+      "title": "Thank you, Tudy!",
+      "text": [
+        "Wonderful trip with magnificent stops and views! I personally thank our guide Tudy for going the extra mile for my fiance and I to make this trip an exceptional one and specially adapting it and catering it just for the two of us! My fiance is in a wheelchair and cannot walk nor stand and although I am capable of transfering him in and out of his chair myself, Tudy was extremely kind, attentive and helpful and did it all himself on every single stop during our tour, saving me from a lot of physical work. I cannot emphasize how grateful I am with Tudy's kindness and exceptional service; he is not only an excellent driver and a wise and studied tour guide but also a great human being! This trip is something I will forever treasure in my heart. Thank you for your service, Tudy!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Couples"
+    },
+    {
+      "title": "beautiful",
+      "text": [
+        "every body here is a place you must visit its stunning  the falls are a pictures sight",
+        "every thing thay say is true I  could stay there all day just watching them beautiful"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Family"
+    },
+    {
+      "title": "Winter Festival of Lights Amazing Tour",
+      "text": [
+        "We took tour with Royal Tours of Niagara Falls for Winter Festival of Lights from Toronto. It was great. At least 100 of Disney Lights to be seen and fireworks. This was second time I have done tour with this company and once again it was the best. Guide was number A1!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2011"
+    },
+    {
+      "title": "The Best Trip Ever",
+      "text": [
+        "It was the best tour group I've ever been on.  The driver was professional and courteous.  Knew all his stuff.  I would recommend them to anyone."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2011"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "This is a must do if you go Canada Toronto in my eyes. Breathe taking and worth every penny. Make sure you pay extra and do the boat ride up to the falls. Great place for pics every lasting memories. 100% must do. I don't have any bad things to say about it. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2014"
+    },
+    {
+      "title": "Everyone Has Off Days",
+      "text": [
+        "We use TripAdvisor for almost everything and carefully read the reviews when traveling. We looked this company up and everything was positive. Went to our hotels concierge to have them book for us. They said that they had never heard of this company before and recommended another well known company. They called for us asked our questions and said that they sounded pretty good.",
+        "This trip was not as we were told, we left downtown at 8:30am and were returned to our hotel at 7:20pm. This bus broke down twice on our way back. Spent maybe a total of 2 hours in Niagara Falls, which includes lunch time. Rest of the time your on the bus going to a winery, Lake Niagara, large clock?, Cable car that goes across the falls (just to watch) and a large souvenir shop for 1/2 hour. ",
+        "We asked other people who they booked their tour through on no people had called the same tour company, so we were co-oped together. ",
+        "Out of all my reviews this only my second negative. I would ask a lot of questions if you are thinking about using them."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2014 • Couples"
+    },
+    {
+      "title": "Be Prepared for a Long Day but Great Day",
+      "text": [
+        "We booked online from Australia. All worked extremely well and Heidi our Tour Leader arrived on time to pick us up from the Hotel.  There were only four on the tour and Heidi showed us extra sights. Loved the touristy things - tasting ice wine - walking through Niagara on the Lakes. We did the helicopter tour (reduced cost because we were on the tour) - boat tour - buffet at Sheraton - the Illuminations. We were entertained from 1pm to 11pm. Thank u Heidi."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2014 • Couples"
+    },
+    {
+      "title": "Good value Niagara Tour",
+      "text": [
+        "We booked with Royal Tours on the basis of TripAdvisor reviews, though it was a Zoom Tour minibus that turned up! Garry, our driver, gave us a full day and the weather was great. The Falls and the boat ride were an amazing experience though Niagara Falls resort is just a place to spend money! One suggestion - we liked Niagara-on-the-Lake and wanted to stay there longer - 45 minutes not enough. Maybe leave out winery - really a waste of time - and Floral Clock and Souvenir City. All in all it was very good value (77 dollars each) for an eleven hour trip!",
+        "terryl34"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2014 • Friends"
+    },
+    {
+      "title": "Impressive Royal Niagara Tour",
+      "text": [
+        "My first experience was fabulous. My nine colleagues and I had a fabulous time on the Royal Tour of Niagara Falls.  What a pleasant experience; no lines, special access, and a very knowledgeable tour leader. My friends and I got so wet, but we had our handy \"rain\" ponchos. It was a blast and an amazing experience!!!  we highly recommend Royal Niagara Tours for your all inclusive Niagara Falls tour company. Overall i want to say its the best tour i had it with Royal Tours.",
+        "Thanks a lot for making my tour the most memorable tour of my life."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2014 • Friends"
+    },
+    {
+      "title": "Amazing tour",
+      "text": [
+        "This company is simply amazing, We only had one day and wanted to see as much as possible, so we Booked Niagara Falls Day Tour based on other Trip Advisor reviews, and I am so glad we went with Royal tours. Nora was very friendly and polite she explained the complete itinerary on call and offer the best package to us. Driver show up on time to pick us, Total trip did take about 6 hours and not once did we feel rushed to exit an attraction. Royal tours have your itinerary planned out very well, the amount of time allotted per attraction is reasonable. Our tour guide Ronnie, was great. Very knowledgeable and friendly. It was an amazing experience and we had a great tour. Thanks a lot Nora, Ronnie and Don for providing us a good service... :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2014"
+    },
+    {
+      "title": "A great day!",
+      "text": [
+        "We were picked up on time.  Our driver, Ross was very friendly and gave a commentary as we drive out to Niagara.  Once there we were given choices about what we wanted to do for the day.  It was a cold winter day so some of the things offered in the tour were not available, but Ross gave us other choices and was very accommodating for the people on the bus.  We chose the Sheraton buffet lunch and Ross escorted us to the restaurant and spoke to the staff about giving us good service.  A very professional company and an enjoyable day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2014 • Family"
+    },
+    {
+      "title": "Worth the Money",
+      "text": [
+        "Checked out all the reviews before booking with Royal Tours., and was very happy with my choice.  The driver picked us up on time and would even call people to check on them if they weren't waiting when he came.  It wasn't a hot day, but he did have a cooler with free, bottled water.  We had 45 minutes in Niagra on The Lake.  Would have loved a longer time there.  It's such a lovely little town with shops and nice restaurants.  Our stop at the winery for a tasting was enjoyable and informative.  We even had a chance to sample a few grapes from the vines, which are marked with the type of wine they make from that grape.  We had 3.5 hours at the falls.  Plenty of time to have lunch, see the falls and wander around all the tourist attractions.  There's even a casino.  Most of the people on the tour did the Maid of the Mist boat ride, but I didn't want to get wet.  The poncho doesn't protect everything.  We were picked up at 8:30 a.m. and dropped off at 6:00.  We had a very enjoyable day and I recommend this company."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2013 • Couples"
+    },
+    {
+      "title": "Exceptional",
+      "text": [
+        "I have been to Niagara Falls quite a few times before, however, this was the first time when I actually felt like I did something there. It was very professional but at the same time very casual too. It's hard to explain, its a mix of professionalism with even casual to keep everyone happy. The tour guide was also very informative and I learned a lot of new things. The best part I would say is how, its a tour, however, it doesn't really feel like one. There is a lot of flexibility and they make it very customer oriented. I would recommend to anyone who would like a tour but without the restrictions."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2013 • Couples"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "That was my first experience.  That was fabulous.  Experimented guide who knows the best spots.  We had a lot of free time in Niagara Falls and on Niagara on the Lake for walking and shopping. I recommend this compagny."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Beautiful trip with an amazing driver.",
+      "text": [
+        "My fiance and I wanted to see Niagara falls and this had even extra things that we didn't really consider prior to. First off I'm a paraplegic, normally they only do pick ups from downtown Toronto and we were in North York, but they picked us up anyway and the van was just for us so it was basically a romantic private tour. By far the best part of the tour itself was the driver Tudy. When you schedule this tour I recommend personally requesting him as a driver. Not only was he incredibly friendly, personable, knowledgeable about every area and every part of the tour, but even more incredibly and something he absolutely didn't have to do and most uber/taxi drivers don't... Keeping in mind I'm a paraplegic, EVERY TIME we got in and out of the fan he personally carried me out to put me in my chair and the same back in the van, at least a total of 8 times and I'd bet none of the other drivers would have. Normally they leave it to my female fiance to do it by herself, not to mention carry the wheelchair, put it together etc. He saved her so much work and he volunteered to do it on his own, he was an amazing guide. So if you want the best request him, especially if you have a disability. The tour was beautiful, everything amazing even in the freezing winter on our first trip to canda. The only complaint is it is a bit expensive, but I can't imagine how much doing it all yourself would cost. Also we did the afternoon/evening trip and the lights at night we're beautiful especially being on a date. All in all I absolutely recommend this and thank you Tudy for a wonderful tou"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Couples"
+    },
+    {
+      "title": "What an experience !",
+      "text": [
+        "I recommend 100% this well organized tour.  Our gide Saby was awesome. Great stories, professional and funny too. This guy loves his job. The falls are must to visit. Be sure to take the boot-trip and buy your tickets on the bus to avoid the queue. ",
+        "Great place for pictures. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016"
+    },
+    {
+      "title": "Awesome tour",
+      "text": [
+        "It was a great experience, ",
+        "Everything on the website is real, we travel in small group of 3, in a nice luxury car. ",
+        "We took the night tour so we can see the falls both when it's dark and in the day.",
+        "Friday is a good one as well because there's a firework.",
+        "The tour guide pick and drop  us off in the hotel, while traveling explaining the history and giving trivia about the place, then we went to the wine tasting, the floral clock, ontario lake where he gave us time to go around the place, then we head to the falls where we did the boat ride. (It's a must, you really need to try this) make sure to bring extra clothes because you are going to get wet, or you can buy from the souvenir store nearby. The dinner at sheraton hotel is fantastic ( try the smoked salmon on the buffet), with the breath taking view of the falls. You will also have time to go exploring the place, there's a wax museum and all different attractions nearby.",
+        "Over all we really had an extravagant time. ",
+        "Thank you royal tour!!! ",
+        "Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Couples"
+    },
+    {
+      "title": "Personalised tour, with good tour guide",
+      "text": [
+        "Gary the tour guide was a really nice guy and made the day good. Was very attentive and helped out a lot, have lots of information along the journey as even took us to places outside of the tour, such was his helpfulness",
+        "The reason I give it a 3 is basically because of the admin for the tour. We booked a Xmas day tour and also the boat trip, now called hornblower. At no time until we sat in the car were we aware that the boat wasn't running until too late. We were offered an alternative which was the behind the water tour, which we accepted",
+        "Overall I'd recommend this tour as it was good and the driver is great, but make sure you clarify before you go, exactly what you're getting"
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2015 • Couples"
+    },
+    {
+      "title": "The Falls are the star",
+      "text": [
+        "Tour minibus turned up on time with a cheerful driver and complimentary water if required. Bit of a drag picking up other guests, which involved a delay but hey ho.",
+        "Bus was air conditioned but not luxurious. It did mean that we could get close to attractions rather than be dropped in a distant coach park so you decide.",
+        "Our guide Hanif was keen to do his tour guide spiel but his command of English was a bit shaky at times with some 'facts' questionable.",
+        "We did the afternoon and evening tour with buffet dinner at the Sheraton. This was very good and the ride on the Hornblower boat sensational. Go on a Friday or Saturday and there;s a nice free fireworks show over the falls too before returning home."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2015 • Couples"
+    },
+    {
+      "title": "Royal Tours day trip to Niagara",
+      "text": [
+        "This, like so many other tours starting in large cities, makes several pick ups from  Downtown hotels before you can get going.",
+        "We drove to the Royal Tours office to pick up our driver/guide and then headed off to Niagara.",
+        "Our man was informative and friendly.",
+        "We parked close to where we picked up the boat. It’s well organised and we only had to wait about 5 mins to board the boat. ",
+        "The falls are spectacular and there is more than enough time for photo ops and lunch before the return journey.",
+        "The tour has a number of stops as well as the falls in Niagara ",
+        "These include Niagara on the Lake - A quaint town with lots of history.",
+        "A Niagara Winery -  2 free tastings of ice wine and a chance to buy more.",
+        "The Floral Clock - Good for a photo and a toilet break.",
+        "2 Hydro power stations - A photo maybe?",
+        "Stop at the Whirlpool Rapids and Niagara Cable Car - Good view and history.",
+        "Queenstown Heights Brock Monuments - Viewed while driving along.",
+        "It’s a long day but really worth it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2015 • Solo"
+    },
+    {
+      "title": "Royal Tours did NOT treat us Regally at all",
+      "text": [
+        "Without going into any detail of disaster that threatened to derail a hugely expensive once-in-a-lifetime trip to Niagara Falls for us and 12 other tourists may we suggest before booking a tour with either Royal or Zoom, you take note of the following points:",
+        "The core problematic issues are the, as yet unexplained, link between Royal Tours and Zoom Tours and the distinction between the description and claims of the tours each company provides and the reality.",
+        "(a) ensure the transport used by the Zoom and/or Royal that collects 'you' displays either or both their logos (neither company conveniently has logos as yet)",
+        "(b) ensure the transport that collects 'you' is both luxurious and air-conditioned as each company claims on their websites",
+        "(c) ensure the driver/guide is using a bluetooth headset- this will ensure the driver/guides don't drive one handed while using the microphone, which is particularly dangerous when driving in the fast lane of the motorway.",
+        "Prior to booking ensure that:",
+        "(d) the link between Zoom and Royal Niagara is clearly indicated on each their websites; ",
+        "(e) Zoom has clarified which of the business' 2 websites correctly displays Zoom tours",
+        "(f) their claims to have 'award winning' tours are more than 'hot air'. Both organisations need to show the logos of the awards, the year won and the organization that awarded them on their websites and ",
+        "(g) clearly state their refund policies.",
+        "Our personal advice, in the meantime, is to book with Gray Lines - their prices are comparable and they do use luxury air-conditioned coaches (not Royal/Zoom's shabby hired minibuses)."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2015 • Couples"
+    },
+    {
+      "title": "stunning",
+      "text": [
+        "This is mesmerising, the power of the water going over is stunning, we went down onto the appron right next to the falls at the base, (take a hooded Mac) the roar of it is overwhelming, you can actually go inside the rock as well, it sounds like a 100 trains going by second by second, there are good cafes and outlets nearby, and a quite beautiful park, with cheeky squirils, the tour company took very good care of us both."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014"
+    },
+    {
+      "title": "Excellent tour of Niagara Falls",
+      "text": [
+        "We were in Toronto for a Gift Show and had Saturday free to check out the sites so my friend and I decided to go to Niagara Falls.  We did have access to a vehicle but thought it would be easier to have a guide since both of us had not been to the Niagara area before.  I am so glad we did.  From the minute our guide Tudy, picked us up from our airport hotel in a newer model Dodge Caravan, (on time and only 3 in our group), our adventure was on the way.  We stopped Niagara on the Lake, beautiful little town, Reif winery for some wine tasting and good value wines, onward to some shopping at Souvenir City (good deals).  We stopped at more interesting locations and then decided to have lunch at Taps on Queens in Old Niagara.  The tour also includes entry to Skylon Tower for breathtaking views of Niagara Falls. The roar of the falls is amazing.  We were returned to our hotels at 6 p.m.  All in all a great trip and a great thanks to Tudy and Royal Tours I highly recommend this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2015 • Business"
+    },
+    {
+      "title": "Excellent service",
+      "text": [
+        "Excellent  service! Garry, our driver, was very nice and professional. We had a great time and I recommend this company if you want to book a tour to Niagara Falls."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2014 • Family"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Island Walking Tours",
+    "url": "/Attraction_Review-g155019-d13430257-Reviews-Toronto_Island_Walking_Tours-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 35
+    },
+    "openingHours": "Mo,Tu,We,Th,Su 10:00-11:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/db/24/dd/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Historical & Heritage Tours",
+    "Walking Tours",
+    "Sightseeing Tours"
+  ],
+  "description": "Get away from it all. Join us for a 1.5 hour walking tour of the unique and charming residential community on Toronto Island, only a 12-minute ferry ride from downtown Toronto. As two longtime residents, we can tell you what it's really like to live year round in the middle of an 525-acre park with no stores or cars. We'll show you cottage-like homes, lush gardens ad beautiful green spaces. Our tour is led by both Susan and Linda, longtime Island residents and costs $25. The pace is leisurely and terrain is flat. Sign up on Eventbrite or go to our website at walkwardsisland.com We meet you at the white gazebo at the ferry docks on Wards Island. Enjoy a coffee or snack/meal before or after our tour at the Island Cafe or Riviera Cafe. We look forward to greeting you and showing you our community!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Toronto Islands",
+      "text": [
+        "Walking with Warren Hoselton was amazing.  Just do it.   I did it twice and saw something new each time. It is a great outing that includes some history of the islands as well as the quaint homes and gardens on the islands"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Awesome day at Centre Island!",
+      "text": [
+        "Linda and Susan were incredibly organized and a pleasure to work with in planning our group tour for eight. We chose this tour as a team-building activity, and it exceeded our expectations! We learned so much about the island, and Susan's willingness to share her personal experiences and answer all of our questions made the experience even more special. I highly recommend this tour for corporate groups or friends looking for a fantastic way to explore the island. Thank you, Susan and Linda!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Business"
+    },
+    {
+      "title": "A terrific walk through the residential areas of Ward’s and Algonquin Islands. The gardens were lovely.",
+      "text": [
+        "Twenty-five PROBUS retirees enjoyed a tour of Ward’s and Algonquin Islands today. Susan and Linda are superb tour guides. The tour was educational and enjoyable."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Toronto Ward Island",
+      "text": [
+        "On a 3 day visit to Toronto I was looking for a tour my wife may enjoy when I came upon the Ward Island tour hosted by Linda and Susan.  When I saw their photo I knew this would be perfect for my wife and me. And it was!  We booked it just for the two of us but the ladies have done tours of many sizes. This is truly a unique setting with beautiful views of the Toronto skyline and certainly a rather unique lifestyle. The communication arranging the tour for a Monday morning was excellent with very specific instructions on the ferry transport to the islands (Ward is one of a cluster of 3 islands). The City ferry and water taxi’s are the only way there therefore understanding how to get there is very important. Linda and Susan met us at the ferry stop and off we went on a 90 minute walking tour. They took turns explaining the history of the island with some photo aids. The lifestyle is fascinating and my wife and I were filled with questions as we walked and they talked and since it was just the 2 of us we fired away. It was like meeting old friends who were proud to show us their homes. As we walked they greeted and were greeted by other residents. Yes, everyone knows each other. There are no autos on the island. Lots of bicycles. And a sailing club with many nice sailboats I recognized as a former boat owner. And we saw many visitors and school children and seniors enjoying a beautiful day. We bid our hosts farewell back near the start and had lunch at the cafe near the ferry. The trip back on a much less crowded ferry gave us another chance to view the city skyline and take great photos. Thanks to Linda and Susan"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Retirees group walking tour of Ward’s Island",
+      "text": [
+        "Linda and Susan, long-time resident’s of the Toronto islands provided an informative and  interesting tour of Ward’s and Algonquin Islands  to our group of Retirees from York University.  Their presentation style was very engaging and they were well-prepared and knowledgeable. The tour pace was relaxed and all participants thoroughly enjoyed the commentary, the beautiful gardens and interesting houses. Stop at the Island Cafe afterwards for a patio lunch. Would highly recommend this tour for groups."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Great island.  Fun and informative tour!",
+      "text": [
+        "What a beautiful island!  The two people who gave the tour are long-time residents of Ward's Island and they made the tour both informative and interesting.  Not only do they know the history, but their personal experience also made it fun.  They love what they do and it shows.  And that made it special."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "A must do tour of Wards Island",
+      "text": [
+        "What a great way to tour Wards Island. We learned so much from two very knowledgable and animated tour guides. ",
+        "Both guides had lots of intereting stories to share and were more than happy to answer all of our questions.",
+        "Thank you Susan and Linda for an interesting, entertianing and enjoyable experience on Wards Island.",
+        "Joanne, Mary, Sarah and Molly"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "An amazing tour",
+      "text": [
+        "Susan and Linda gave our group of 29 people an amazing tour.  They know the histories of the the different islands, and they can provide an \"insiders\" look at the unique community living there.  They were willing and able to answer lots of questions from our group.  This was definitely not a canned tour.  All in all, it was a very pleasant morning!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "A time capsule gem",
+      "text": [
+        "Linda and Susan, two delight residents of Ward’s Island, guide you through their charming and peaceful habitat with tales of local history, photos of the past, amusing anecdotes  and even (in our case) a walk-on part by Six Paws, the local celebrity puss. This remarkable environment, just a short ferry crossing from downtown Toronto, is a time capsule gem, sadly threatened by rising lake waters. A perfect and  memorable addition to your souvenirs of this vibrant city. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "A must do experience for young and old, visitor or those who call Toronto home!",
+      "text": [
+        "You can't miss this opportunity! Two exceptional tour guides who have lived on Toronto Island for 30+ years, who share their wealth of knowledge, humour and anecdotal stories make this walking tour a truly memorable experience. Hard to believe that a tour of Toronto Island can be so much fun, informative, scenic and easy to do! This walking tour is a \"must do\" and at a reasonable cost!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Fun and informative!",
+      "text": [
+        "My daughter and I really enjoyed this guided tour of Toronto's Ward's Island.  The guides were very friendly and informative and being Islanders themselves had all sorts of inside knowledge of this really unique and special community.  This guided walk is a must for visitors to this city and for inhabitants of Toronto who may not know what a wonderful quirky place lies just across the water from the downtown.  This is an appropriate walk for family, friends, couples, on your own, or a business trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "GREAT tour! A real insider's look into living on the Island!",
+      "text": [
+        "I love history and I love architecture -- and Walk Ward's Island melds the two - with a whole lot of story telling from two of the best -- Linda and Susan. ",
+        "The walk was 1.5 hours of my time and absolutely well spent. I thought I had found a new part of the city. Toronto is a city of neighbourhoods -- and Toronto Islands is certainly it's own little oasis neighbourhood.  ",
+        "Everyone on the tour got to ask lots of questions. And Linda and Susan were very flexible on the tour... providing extra stops for anyone who wanted to peak at a special garden. ",
+        "I'd certainly take the tour again -- I'm sure there's something I missed the first time around!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Solo"
+    },
+    {
+      "title": "A lovely place to get asay",
+      "text": [
+        "We got the water taxi to Ward’s Island which was $10 each. We then went for breakfast at the Ward’s Island Cafe which was just lovely. Had some really nice food and then walked back to Centre Island. The entire place is just very peaceful and tranquil, a lovely place to get away from the city. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Rent a bike",
+      "text": [
+        "Take the ferry or water taxi to Centre Island and walk for 20 minutes to the bike rental near the pier. For $9/hr you can rent a bike to tour all three islands. Be sure to bring I.D. There are boardwalks, beaches, paved paths and secret trails. Spend the day, pack a picnic or visit a restaurant. It’s a beautiful way to see the city scape, while enjoying natural beauty."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Nice experience ",
+      "text": [
+        "It was a nice experience going there,  but personally I liked more Harlan's Point, it was much more quiet. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Experience the Charm of a World that Almost Vanished",
+      "text": [
+        "If you enjoy walking tours, history, and natural beauty, the Ward's Island Tour is a must. This was the second time I've taken the tour. Island residents Linda and Susan take you on a stroll past garden cottages, canals, lakefront boardwalk, and picturesque views of downtown Toronto. You learn about this special community that was almost forced to abandon the island half a century ago before more enlightened politics prevailed. Thank goodness, because this is now one of Toronto's premiere charms. For a special treat, consider staying in one of the island's lovely B&Bs, and end your tour with a delicious meal at The Rectory or the Island Cafe."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Probus group visit to Ward's island.",
+      "text": [
+        "Yesterday we 32 active seniors spent the morning with Susan and Linda in their idyllic community of Ward's island and Algonquin island.  Pre planning with them was easy, efficient and felt oh so good when we by-passed the enormous lineups to buy Ferry tickets as Linda had suggested we book our tickets on line.  These two delightful  ladies showed us the hidden charms of a part of Toronto you would never dream existed.  No cars, no shops, people saying hello to neighbours and the gardens you would expect to see in an English village. All our questions were answered, the pace adjusted to the heat, and recommendations made for lunch at the Rectory, which was exceptional.  I would highly recommend \"Walk Ward's island,\"  for anyone young or old, who wants to experience a unique part of our wonderful city. I'll be taking out of town visitors  to meet these two delightful gals, and enjoy another day \"over the water\" on Ward's island. ",
+        "Jane Brown."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018"
+    },
+    {
+      "title": "Wonderful tour, even for locals!",
+      "text": [
+        "This is a wonderful way to see the unique Toronto Island community through the eyes of resident historians. Interesting and fun!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "An enlightening walk, an encounter with nature and culture, right on our doorstep!",
+      "text": [
+        "We took a summer walk with Linda and Susan and about 10 other adventurers. The trip over on the ferry was cool and on docking we were greeted and whisked away on a tour of fabulous finds. We had been to Toronto Island many times without any idea of its real intricacies, and special natural treasures! The pace and the price were right, and we would go again in a flash!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Mr",
+      "text": [
+        "My friend is from out of town and loved the walk, the easy informality, the chance to actually meet islanders and get an inside look at life on Ward’s and Algonquin. I’ve been to the islands a hundred times and learned all kinds of new things about them - informative and very enjoyable."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "A true insider experience",
+      "text": [
+        "The Walk Ward's Island tour leaders, Linda and Susan, pack a lot of information into the hour and a half, but you never feel force-fed. You never think they're reading from a script, either--their commentary is fresh and engaging. The tour itself winds through the carless community and along the boardwalk that edges Lake Ontario. In the course of the trip, we were offered many insights into the past and present of the charming island community and its place in the Toronto Island park. Definitely a must for visitors to Toronto, but also recommended for Torontonians who are curious about this unique neighbourhood and its surroundings. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Solo"
+    },
+    {
+      "title": "Lovely Walking Tour of Toronto Isalnds",
+      "text": [
+        "This walking tour of the Toronto Island community was delightful. My tour guides, Linda and Susan, were very friendly and informative. I can't think of a better way to spend a couple of hours on a summer day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Fabulous tour for locals and tourists alike!",
+      "text": [
+        "This is a fabulous walking tour to add to your “must do” list. Locals and visitors to Toronto alike will enjoy the ferry ride to Ward’s Island to learn about this waterfront community – past and present. Linda ( a long-time island resident) was our guide.  A wonderful storyteller, she had great anecdotes and pictures to share and was happy to answer any and all questions. It was a great tour and such a beautiful part of Toronto to experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Fantastic outing for Toronto residents and visitors alike!",
+      "text": [
+        "Four of us (one from Toronto; three from out of town) took the tour in early June and really enjoyed it. Our guides, Linda and Susan, have an encyclopedic knowledge of the history of the island, and their fascinating anecdotes were accompanied by great vintage photos. A real bonus was that they know virtually every resident of the island, and we got lots of tidbits about individual houses. I would highly recommend the tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Fascinating tour of the Toronto Island!",
+      "text": [
+        "I went on a Wards Island tour with my Union on a Friday morning. We were a group of 21 people. ",
+        "The tour was led by two long-time residents, Susan and Linda, who talked about the rich history of the Island while showing pictures. ",
+        "They also took us to various areas that are important for the people living on the Island. Furthermore, they answered questions that we had, such as the life on the Island. ",
+        "I would highly recommend this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Business"
+    },
+    {
+      "title": "Highly recommended island tour!",
+      "text": [
+        "Wow! This was a social event with my union. We all enjoyed it thoroughly. They answered any and all questions about living on the island. Being long term residence (30+ yrs), they really gave us the inside scoop of the many wonders and changes the islands have been through. They had pictures from history to accompany their tour. It was very well organized. Linda and Susan were kind and fun!",
+        "The island has always been a special place to me. ",
+        "After the tour, I have even more appreciation for its beauty & sense of community."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Business"
+    },
+    {
+      "title": "Toronto Island Walking Tours",
+      "text": [
+        "I really enjoyed our walking tour of the Islands. The two tour guides, who live on the Islands were extremely knowledgeable, animated and shared a lot of information with our group. They showed photos to compliment their talk, pointed out \"little known facts\" and told us personal experiences that they have had during their lives on the Island. A very enjoyable afternoon which showed me a lot more of the Islands that I was not aware of. Thank you so much and I would highly recommend this tour to others."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "THE place to be in Toronto",
+      "text": [
+        "If I am forced to choose one thing as a recommendation im Toronto, it would be a drive by ferry to and a walk over the Toronto Islands, especially wards Island ans Algonquin Island. Amazing Skyline view, nice people and nature - it's perfect <3 "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Business"
+    },
+    {
+      "title": "Peaceful Get-away within the city",
+      "text": [
+        "A quite resort island just a ferry away from Toronto with enough green space and lots of activities such as kayaking, cycling, beaches and a lot more"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Lovely place and tour.",
+      "text": [
+        "Bottom line:  well worth the short ferry ride over and taking the tour with Linda and Susan. This is a lovely place. The pros and cons of life there were described by the tour guides. It is a step away from,  yet a world apart from Toronto life. Would love to go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Peaceful",
+      "text": [
+        "We took the ferry across and then wandered at leisure. So peaceful compared with the hustle and bustle of the city. Brought our own lunch over and ate it on the beach while watching the boats go by before heading off along the boardwalk towards Central Pier.",
+        "Nice place to chill out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "My husband and I absolutely enjoyed the tour of Ward's Island with Susan. It was so interesting to hear about the island and get a real feel for the community. She is so knowledgeable and passionate about her community which was great to see. It definitely gave us great context for when we continued to explore the islands after the tour. I would highly recommend her tour to anyone interested in visiting the islands!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    }
+  ]
+}

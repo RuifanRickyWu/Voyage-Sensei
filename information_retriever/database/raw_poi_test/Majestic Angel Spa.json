@@ -1,0 +1,370 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Majestic Angel Spa",
+    "url": "/Attraction_Review-g155019-d12562388-Reviews-Majestic_Angel_Spa-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "970 Dixon Rd Holiday Inn Hotel",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M9W 1J9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 120
+    },
+    "openingHours": [
+      "Mo-Sa 10:00-20:00",
+      "Su 11:00-19:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b0/d8/58/wet-room.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas",
+    "Thermal Spas"
+  ],
+  "description": "Premier hotel spa @Holiday Inn Toronto International Airport. Services include massage, facial, manicure, pedicure, hydrotherapy, infrared-sauna, cosmetic treatments, body care, microdermabrasion.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "angel experience massage",
+      "text": [
+        "Woooo.Great experience today. I have had massages over the years but never got this type of massage. I received Angel Experience massage while amazingly relaxed at the same time. Without any doubt i will come back Majestic Angel spa just for Angel experience masage when i travel to Toronto.",
+        "Thanks to Fatima."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Massage, facial, mani pedicure",
+      "text": [
+        "After a long day this spa day was just what I needed. So conveniently located in the downstairs of my hotel. Very relaxing from head to toe. I’ve had many massages but Tiba was amazing, she used hot stones and got out a lot of knots for me. Then I had a facial and my face felt so smooth. I would definitely recommend them."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Selfcare during a layover",
+      "text": [
+        "Great experience. Busy place but they managed to squeeze me in. Angela and Tiba were great. Angela did my manicure and Tiba and did an amazing job! I was in need of some selfcare and they took great care of me."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Relaxing and refreshing",
+      "text": [
+        "Went for a package that included a massage, scrub, hydrotherapy, facial and a meal. Had a wonderful day at the spa, super relaxing and came out feeling clean and refreshed.  I would definitely go in again, totally worth it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "A wonderful me time experience",
+      "text": [
+        "I was not sure what to expect being in the basement of a Holiday Inn but I spent a fantastic afternoon getting a manicure, pedicure and back massage. The ladies are absolutely amazing!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Business"
+    },
+    {
+      "title": "RECOMEND!!!!!",
+      "text": [
+        "The ladies were lovely and felt really relaxed during my massage definitely recommend and the sauna was a perfect way to end:))))"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "A great experience",
+      "text": [
+        "I had the best experience at this spa. It's very small so the experience is very intimate. Angela is an amazing person and such a hard worker. She truly cares about giving you an amazing experience"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Had a wonderful experience. The spa was clean, amazing, and the staff attentive.",
+        "I recommend visiting this spa."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Solo"
+    },
+    {
+      "title": "Excellent Experience ",
+      "text": [
+        "Was gifted a day at the spa for my birthday. Had a lovely experience! Highly recommend the hot stone massage! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Solo"
+    },
+    {
+      "title": "A hidden gem ",
+      "text": [
+        "Had a really majestic experience. The spa was amazing, took care of all my needs and I felt rejuvenated. Staff are professional and well-knowledgeable. ",
+        "I highly recommend visiting this spa. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "Rejuvenating Couples hot stone massage!",
+      "text": [
+        "My husband and I had a wonderful couples massage with Fatima and Max. They were very attentive and focussed on the areas of most stress that we identified. We left feeling relaxed and rejuvenated after the 1 hour massage with hot stones! Definitely recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Couples"
+    },
+    {
+      "title": "One hour facial",
+      "text": [
+        "Had a one hour facial after a long flight- was absolutely incredible! It was soooo relaxing and my skin was incredibly glowing afterwards"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Solo"
+    },
+    {
+      "title": "First Class Day at the Spa!",
+      "text": [
+        "I just spent an amazing 4 hours with Angela and Fatima!",
+        "Had the First Class Day at the Spa and it was phenomenal.",
+        "They provided a first class way to spend the afternoon after a long flight!",
+        "Thank you ladies!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Friends"
+    },
+    {
+      "title": "Queen for a day",
+      "text": [
+        "Excellent service. Thanks Fatima! will come back.",
+        "Friendly and courteous people.Specialy massage that she fixed my back"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Solo"
+    },
+    {
+      "title": "Totally awesome",
+      "text": [
+        "Hot stone massage was totally amazing.  After a hard week at work it’s the best way to revitalize your body.   All my body aches and pains have gone and now I am  rejuvenated for the week ahead.  ",
+        "I am super excited for my next appointment.  Thank you ",
+        "Cherrian"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Solo"
+    },
+    {
+      "title": "We had a king’s package. Swedish massage with hot stone was incredibly amazing. The facial and body scrub were great.",
+      "text": [
+        "Excellent service! Truly my husband and I felt like a queen and king! Highly recommend it!!! ",
+        "We will definitely come back. Angela and her colleague provided an excellent customer service!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Couples"
+    },
+    {
+      "title": "Highly recommend!",
+      "text": [
+        "It was my first time in Majestic Angel SPA.",
+        "First what amazed me, it was very clean and cozy. Fatemeh, nice girl, who are working there, was very kind and professional. She did so good full body massage, facial and hot stones massage. Hot stones massage was for free, because of my birthday.  So nice of her! I got full body scrub, food and sauna there. Fatemeh brought me a coffee, even so it wasn't in their menu.  Thank you again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Couples"
+    },
+    {
+      "title": "Good service",
+      "text": [
+        "It was an excellent service, miss Fatemeh gave me an amazing massage, I extremely recommend it. Very clean and  welcome ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Solo"
+    },
+    {
+      "title": "Amazing massage therapy",
+      "text": [
+        "The entire 60 minutes of my massage session was amazing.  My massage therapist has gifted hands, she eased all my tension and pressure points.   I felt rejuvenated.  I would highly recommend Majestic Angel Spa to everyone who is looking for the absolute best massage."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022 • Solo"
+    },
+    {
+      "title": "Worth coming back for 👍👍👍",
+      "text": [
+        "The experience I had with my wife was really amazing. We had the couple’s ‘King for a day’ special and omg really made us royalty for a day!👍 we had to comeback the next week for another experience and they did not disappoint us. We will for sure be their regulars. Their staff were great as well and special mention to Jain and Weiliang for doing a great job!👍"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022 • Couples"
+    },
+    {
+      "title": "Best spa day",
+      "text": [
+        "Had an amazing experience . The girls are amazing So welcoming and such a great experinece.",
+        "Me and  my friend went first time experinece and honestly it was the best."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "Massage, Facial, Pedicure and Eyebrows - Microblading",
+      "text": [
+        "I decided to book spa services while  on a layover in Toronto.  I initially booked a facial and massage, which I enjoyed very much.  I decided to add on eyebrows - microblading.  Angela is an artist and takes great pride and care to give you the best quality result.  I am very pleased and would definitely book her in future if I need a retouch or want to try other permanent or semi permanent make up applications!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Best Massage Ever!",
+      "text": [
+        "Fatima gave me the best massage and rainfalls rejuvenation experience of my life. I’m 51 and get massage every month so I know great massage. She is incredible. I will be back every time in Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Solo"
+    },
+    {
+      "title": "Amazing!!!!! Truly majestic!!!!",
+      "text": [
+        "I had the most amazing massage here! Fatima is amazing. The spa really has a \"majestic\" feeling... nice spot close to the airport. They validate your parking as well :)",
+        "100% recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Solo"
+    },
+    {
+      "title": "Amazing massge",
+      "text": [
+        "I had a wonderful Experience at Majestic Angel Spa. The staff was so attentive and knowledgeable. I received 2 hours Angel Experience massage with Hot stone. Even I don’t know how to explain my feelings. For the first time in my life i actually felt that I am completely forgetting about outside world. She fixed my shoulder and neck. She was so friendly and sweet. INCURABLE Service.",
+        "Absolutely come back"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Great service and great experience over all!",
+      "text": [
+        "My experience at a Majestic Angel Spa was amazing! I had such a relaxing spa day. My favourite part was getting hot stone massage and a lunch included during my time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Solo"
+    },
+    {
+      "title": "Awesome experience",
+      "text": [
+        "I really loved the SPA here.I have been here 2 times and took the hot stone spa and King for the day massage through Fatima",
+        "Definitely recommended"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Couples"
+    },
+    {
+      "title": "Best spa ever",
+      "text": [
+        "One of the best spas EVER!! This is my third time coming here and each time has been an amazing experience. 5 star all the way"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Couples"
+    },
+    {
+      "title": "Amazing spa day",
+      "text": [
+        "This has been the best spa experience that I’ve been too , this is the second time I’ve came here and every time it seems to get better. The service and staff are amazing! I will definitely be returning for a third time ! 💯"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Couples"
+    },
+    {
+      "title": "Couples massage",
+      "text": [
+        "Amazing service! I came here for Valentine's Day with my wife for a couples massage. We both left feeling like a million bucks! Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Couples"
+    },
+    {
+      "title": "Very relaxing ",
+      "text": [
+        "The staff is very friendly and helpful. I enjoyed my massage so much I didn’t want it to end☺️. I 100% recommend that you visit the spa if you want to relax and enjoy yourself. ",
+        "I am definitely coming back"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Family"
+    },
+    {
+      "title": "Such an amazing experience!",
+      "text": [
+        "From the outstanding facial to the incredible massage, Majestic Angel is the absolute best spa to attend.!! Considering that they are located so central to the airport, this is a great spot for layover relaxation, quick weekend get away stay-cations and overall the most ideal spa for a great experience. The facility and staff make you feel so serene and tranquil. I love everything about majestic angel spa. 10/10 recommend and I can’t wait to come back !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Incredible massages!",
+      "text": [
+        "My mom and I got the signature massage and it was an incredible experience!! This was our first massage ever and they made it super comfortable and relaxing.  Both Angel and Fatima were great! We were so relaxed that we fell asleep after the massage. I'm definitely going back again!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Had a hot stone and couples massage. Really good experience. Will definitely try again. It was calming and also very relaxing. Angela is a very experienced person. Would recommend her."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Worth it ",
+      "text": [
+        "Oh my god, amazing I have no words to describe how great the experience is I highly recommend, Fatima is the best "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Great spa and massage therapy!!!",
+      "text": [
+        "I'm visiting Toronto from Las Vegas with friends.  After traveling and walking all day we found Majestic Angel Spa.  Fatima was AMAZING!   All the services were great including the infra sauna. I wanted to share this with other travelers.  Great clean and wonderful spa decor."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "Hot Stone Massage. ",
+      "text": [
+        "Had a fabulous hot stone massage with Fatima. I needed to have more of a deep muscle massage and she did a great job. Exactly what I needed.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Solo"
+    },
+    {
+      "title": "Message",
+      "text": [
+        "Fatima A. Is an amazing person. I went there for my sever back pain which was caused by my neck injury.  I am feeling way better that I can come for work today. Thank you Fatima!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Solo"
+    },
+    {
+      "title": "Best experience all round",
+      "text": [
+        "Angela and her team are extremely professional and pleasant people. They are also accommodating even if it’s last minute, also very responsive.",
+        "Would definitely be going back for massages with my partner again."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Spa day",
+      "text": [
+        "OMG, sooooo good did a retreat for 2 supposedly I was snoring so enough said was awesome sooooo soothing facial put me to sleep"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    }
+  ]
+}

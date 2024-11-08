@@ -1,0 +1,362 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "West Queen West",
+    "url": "/Attraction_Review-g155019-d610069-Reviews-West_Queen_West-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": " ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": ""
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 259
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/db/c9/5f/tv.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Neighborhoods"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Toronto In Two Full Days",
+      "text": [
+        "Toronto is a beautiful and diverse city. I enjoyed “exploring” West Queen West, Kensington Park, University of Toronto, Chinatown nearby and the Royal Ontario Museum. All very walkable, eclectic, with diverse architecture, dining and shopping options. The museum’s collections are diverse and offer something for everyone, I highly recommend adding it to your itinerary."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Not May Store than I thought there was",
+      "text": [
+        "There weren't many store that I thought there were, I thought there would be more clothing store or other store for that matter, it is mostly condos and restaurant, and the stores on the strip are a bit high in price. Its great during the spring and summer but other season no so much. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Stay west otherwise it’s just chain stores",
+      "text": [
+        "I’ve been shopping on Queen St for over 20 years. If you stay on the west end, you get more unique stores and not as many chain stores.  It’s just disappointing that a lot of the local/home grown stores are now gone.  We can get chain stores at a mall, don’t need them here!  However, I still do enjoy wandering and enjoying the snacks, shops & parks.  Trinity-Bellwood Park is far west and a great park to walk through.  "
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2020 • Friends"
+    },
+    {
+      "title": "quirky",
+      "text": [
+        "an area with tiny shops lots of restaurants.and street people everywhere. the buildings are interesting and the traffic is terrible."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Lovely little area nr St. Lawrence market",
+      "text": [
+        "There is a good flat iron building here with a mural painted on the back wall which is well worth seeing. Also a fountain in a small parks with statues of many different dog breeds feeding the fountains from their mouths. It's cool! One lone ginger pusssy cat sits on the edge watching. Again worth seeing this very laid back area."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "worth visiting",
+      "text": [
+        "Splendid buildings and  as very quirky Fountain with statues of dogs and the occasional cat around it - brilliant piece of Public Art/ Sculpture"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "No Night Staff, And Was Trapped In Room! Had To Call Out The Window For Help!",
+      "text": [
+        "I stayed because I had \"no\" time to book anywhere else! Thank God it was only for two nights! There are \"no\" phones in the rooms! The staff finish their day at 11 PM, and don't return to 8 AM. There is \"no\" way to contact them in an emergency! I tried to use my cell to call down, but it went to an answering machine which stated that the mailbox was full, when I was trapped in my room the first morning. I had to call out the window to a passerby to tell someone in the hotel I was trapped! When they came and got me out, they offered me another room, but stated that a repairman would be up to fix the door that day! I was supposed to be out for the day, and not expected back until after 11 PM. I returned early, found out none of the promised work had been done, so I packed up and changed rooms! This one had \"no\" AC, and the windows were sealed, couldn't open them! No garbage can in this room, but I could get out!",
+        "The breakfast they offered as part of their package consisted of coffee and/or tea, cereal (corn flakes only), and toast. No fruit, or any other choices then what I mentioned.",
+        "I received \"no\" compensation for all the trouble I went through! Had there been a fire throughout the night I could have died!!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Disgusting in our treatment",
+      "text": [
+        "We booked on hotel.com my husband has to provide a clean urine sample for work, if we would ha e stayed here for the night he would have lost his job. I explained this to the receptionists and he did not apologise nor give a damn we said we can’t stay here. All they care about is that they’re still getting the money. I asked the receptionist (who seemed to be way too relaxed and uncaring) how to get my money back and he said hotels.com. On contacting them they advised we needed to talk to the manager then and there, no other way to get money back, we had already left Canada by this point as they ruined the city for us. If you have children or do not want to be in a place filled with the smell of marijuana do not stay here! I’m so shocked at the treatment of the service from hotels.com and west queen west."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "For the best picture",
+      "text": [
+        " I searched this place for this iconic building that secured one of my best photos. An incredible view that contemplates the new and the old living in Toronto. Really beautiful!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Great neighborhood for boutique shopping, great food, and people watching!",
+      "text": [
+        "This trendy area of town is a jewel, you’ll find an eclectic mix of old and new and this should be on your checklist when visiting Toronto.  Farther east is a lot of chain stores, but the west end is worth an afternoon spent meandering the neighborhood if you have the time.  Lots of interesting finds, and great food.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "this is the bohemian area of Toronto",
+      "text": [
+        "This area is full of hipsters and clothing, jewelery, hemp, record stores and mostly independent boutiques . lots of restaurants I recommend the Banh Mi Boys for an excellent Vietnamese sandwich cheap!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "Funky mixture of modern, artsy and old",
+      "text": [
+        "Lots of little artsy boutiques, cafes and restaurants. Most shops are local young designers. Expensive shopping, quality goods.",
+        "Plenty young street people lounging around too, but they are harmless."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Business"
+    },
+    {
+      "title": "Funky neighborhood that is good for a nice stroll and interesting shopping",
+      "text": [
+        "My hotel was at the end of Queen St. West, so I sometimes chose to walk the length of it to get downtown instead of taking the streetcar. This does take a little while (over an hour if you don't stop at any of the shops), but it's a nice walk.",
+        "I get the impression that this was formerly a fairly down-and-out neighborhood that is being revitalized (or gentrified, depending on your perspective) - a very good variety of different sorts of restaurants and small boutique-type shops.",
+        "The western end of the street is a particular neighborhood called Parkdale, and during my stay there, I happened to read an article in a weekly newspaper on a controversy about one particular block of Queen Street in this area - one block that vegan businesses (e.g., vegan restaurants, a vegan brewery) are accumulating. This block is apparently becoming known as 'Vegandale', so vegans might want to make a point of visiting this block. You won't be able to miss it, for the vegan businesses have large signboards with messages like \"Veganism is the hero that Gotham needs\"."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "Interesting area",
+      "text": [
+        "This area is interesting to see and having a stroll here will complete your portfolio of this to do when in Toronto. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Cool Street to Walk! Lots of Shops and Restaurants",
+      "text": [
+        "Queen Street West was a cool street to explore and walk down. ",
+        "There were lots of local shops, boutiques, restaurants, and cafes in the old buildings. It was a busy area with lots of people. ",
+        "I enjoyed checking out the shops, photographing the buildings and relaxing in Trinity Bellwoods Park."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "Nice stroll",
+      "text": [
+        "A cool area to walk around.  Very different shops all along the way from local to high end.  A lot of food and drink spots to choose from.  Easy access via Queen St streetcar."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "Friendly staff but yuk!",
+      "text": [
+        "Arrived & was shown to our rooms by a lovely lady, however the bedding was stained as we're the towels, false nail in the shared bathroom & one of our bedrooms stank of smoke.",
+        "We checked out, we're given a refund & found somewhere else to stay."
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "Cool area to walk around!",
+      "text": [
+        "This area offers great vintage shops, designer shops, bars, restaurants, cafes, and many more. Its a nice area to soak in some city vibes and do some shopping. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2017 • Couples"
+    },
+    {
+      "title": "Don't be fooled",
+      "text": [
+        "There are cities from Berlin to Warsaw to Chicago to NYC where many neighborhoods are transitioning from downscale to hip. This is not one of them!!!",
+        "The photos and write-up for this hotel are frankly misleading and to call it 3-Star brings into question what kind of rating system is used. This is a dump: broken blinds on the windows, one folding chair in the room, no desk or table to eat or work on, no airconditioning, back view/access to a parking lot and waste area. Not worth the price. Look elsewhere!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2017"
+    },
+    {
+      "title": "Cool, cooler, coolest!",
+      "text": [
+        "Formally a pretty rough area and it's still a little sad, but it's coming along.  Lots of really beautiful Victorian houses that are being bought up, renovated and help to  turn the hood into a neighbourhood.  More than a few cute little shops and galleries, coffee shops, cafes and a few really good restaurants.  There are still some of the original cheap and cheerfuls, just to add to the character.  A very pleasant way to spend a few hours away from the busier and more expensive areas.  Even the streetcar ride is interesting."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "Great area!",
+      "text": [
+        "Just love this neighborhood, one of my favorite in Toronto.",
+        "It has everything, from shops, to restaurants, businesses and just walk ability. Spadina and Queen is one of the busiest pedestrian intersections in Toronto probably next to Dundas Square during the summer."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Graffiti Alley",
+      "text": [
+        "I went to Canada with this place at the top of my list because of all of the restaurant offerings. I wish I had spent more than an evening in the neighborhood, but I saw a lot of great shops and definitely a variety of ethnic food choices. The coolest element of this neighborhood that I observed was Graffiti Alley. The artwork here is very diverse, with bold colors and a lot of depth. Many great photo opportunities of course, but also a great spot to go and ponder the messages humanity receives from art. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Great neighbourhood to stroll, shop or eat",
+      "text": [
+        "Love this neighbourhood.  Every time I come to Toronto I find myself migrating here.  I always find wonderful and eclectic clothing, fabulous places for lunch and great coffee."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Solo"
+    },
+    {
+      "title": "A Feel for the City",
+      "text": [
+        "A walk along Queen Street from University to Trinity Bellwoods Park(15 minutes west of Bathurst) gives you a feel of our great city.   The street is always bustling with traffic and people and the people are so diverse.  Rumbling down the street is Toronto's iconic streetcar.    The storefronts are old and interesting.  The stores range from the newer chain stores like Gap to unique shops  and restaurants.  You can find some real strange and exotic items in the 50's style furniture and gift stores and in some of the antique shops.  You will never go hungry because there are numerous restaurants.  You reach the end of your approximate one hour walk at  Trinity Bellwoods Park.  Sit, relax and watch the world go by.  Take the streetcar back to your destination.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "slum hole",
+      "text": [
+        "I did not go but booked for my wife to see a concert",
+        " no ac ",
+        " no window in room",
+        "worn out towels in bath room",
+        "no glasses for coffee"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Mix and mingle",
+      "text": [
+        "Lots of different small stores, as in many other neighborhoods. What stands out is the number of wall paintings and other works of art along the way. Some are in better shape than others. There was no crowd when we visited, on a rainy Tuesday afternoon. So maybe it lacked the atmosphere it probably has on a sunny Saturday afternoon."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Vivid and surprising street",
+      "text": [
+        "West Queen West can be overcrowded (week-ends) or look like a desert (mornings of weekdays).  Great experience to walk around and blend in the atmosphere.  Vast choice of shops, cafés and restaurants.  Total opposite of boring Giant Shopping Malls."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Interesting Place",
+      "text": [
+        "I love walking along Queen Street and shop or just meander. I buy most of my clothee on Queen Street because I like one of a kind things and I find them in the shops on Queen Street. The shops carry unique things and I alwaays find what I am looking for even when I go only to browse.  I would recommmend Queen street to every visitor who come  to Toronto.  There are also great restaurants, cafes and pubs as well as other places to explore. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Solo"
+    },
+    {
+      "title": "Trendy Boutiques and Cafes",
+      "text": [
+        "This street is just a block from where I live and I walk here almost everyday. It is exciting and walking around is a sensual experience from fashion to food to people. The boutiques offer unique and funky clothes and accessories. It is fun just to sit in one of the benches and watch people or go in one of the stores and go over the items for sale. The stores are quite friendly even offering my husband a chair as he waits for me finishing my shopping."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Artsy & Chic",
+      "text": [
+        "Love all the shops along Queen St W. Once you get past Spadina, it becomes the fashion district. You’ll come across Grafitti Alley a block south and some increíble one of a kind finds in these shops. Great spots to have a quick bite or elegant meal. One of the most lovely parts of the city. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Getting pricey but nice walk",
+      "text": [
+        "Worth the walk when it is not too hot or too cold. Getting very trendy and expensive. You will still find some hidden gems."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Great street to stroll and shop",
+      "text": [
+        "West Queen West has so much to offer.  Great boutiques, amazing selection of coffee and pastry shops.  Lots of specialty food and other retail.  And a fabulous park in the middle of it all.  Make a point of it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "New part of town for me",
+      "text": [
+        "Located in a central part of the city, this is a great stretch to go to if you want to do something, but you're not sure what you want to do. It has tons of restaurants and of any cuisine you would like, quiet bars, loud bars and all in between. Was there both in the day and the evening and options for people watching galore."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "May have been good if we had found it",
+      "text": [
+        "We tried to walk to this area and could not find it. Got a taxi and the taxi driver dropped us off in a place that was not very nice. Not sure if we just missed the correct area but what we found was not great."
+      ],
+      "rate": 2.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "Buzzing, edgy, cosmopolitan area...",
+      "text": [
+        "Long boulevard with mixture of bars, eateries, nightclubs, designer shops, some chain stores and everything in between. Fascinating area; gritty, cutting edge, seedy, funky, artistic, cosmopolitan....unique!! Not for your average tourist but I loved it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019"
+    },
+    {
+      "title": "Fun",
+      "text": [
+        "Got a couple hours to idle away? Queen St West if full of cafes, second hand shops, boutiques, and a couple of music stores. Great to see some of the old spots still thriving."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Business"
+    },
+    {
+      "title": "The Tribeca (NYC) or West Village (NYC) of Toronto",
+      "text": [
+        "No single Toronto neighborhood offers more diversity, excitement, and options then WQW. Cited in Vogue Magazine as the second coolest neighborhood on the planet, no trip to Toronto is complete without a visit. Go for a stroll down Queen and Ossington, pop into a theater for a show, cruise one of the many parks, or find your new favorite bar or restuarant. Year round, this neighborhood is Toronto's hearty and soul."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Family"
+    },
+    {
+      "title": "Trendy and Fun",
+      "text": [
+        "QSW, is a definite favourite of mine. The street is jam-packed full of a multitude of interesting stores, providing something for everyone. Every tourist should definitely check this out!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Love to visit Queen Street West in summer!",
+      "text": [
+        "Although it used to be less crowded than it is now on weekends, Queen Street West Village is still worth a visit.  The shops are varied; the clothes are trendy, and the restaurants offer varied choices for visitors.  Walking is the only way to see Queen Street West, but getting there can sometimes be problematic.  We went by streetcar, and at the time we went the streetcars were few and far between, but usually, they are on a regular schedule... and the streetcar ride is part of the joy of getting there!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "great walking street",
+      "text": [
+        "Just like queen street east , the west side is also so much fun to walk and explore.Many different restaurants and shops and novelty stores. Connect to Spadina and you can go all the way to young and make it a great downtown walking day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Family"
+    }
+  ]
+}

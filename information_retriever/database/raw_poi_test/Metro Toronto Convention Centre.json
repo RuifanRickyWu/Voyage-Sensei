@@ -1,0 +1,359 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Metro Toronto Convention Centre",
+    "url": "/Attraction_Review-g155019-d591333-Reviews-Metro_Toronto_Convention_Centre-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "255 Front St W ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 2W6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 513
+    },
+    "openingHours": "Mo-Fr 08:30-17:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/92/26/75/metro-toronto-convention.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Convention Centers"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great location. Next door to Intercontinental Hotel. Great place to hold a convention.",
+      "text": [
+        "Terrific place to have a large convention. Service was excellent. Staff are terrific. All facilities clean and temperature nicely controlled. 5000 people attended and we were ALL happy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Business"
+    },
+    {
+      "title": "Parking is an issue",
+      "text": [
+        "Parking is better elsewhere.  So crowded. So many people camping in and around the place. The whole garage smelled like piss"
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Great location",
+      "text": [
+        "Spent a day at a conference here and the location was great, the facility total adequate and useful. The food was amazing!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2023 • Business"
+    },
+    {
+      "title": "Rude and Un-organized",
+      "text": [
+        "Staff and security were extremely rude. My stamp faded because they used the cheapest ink they could find and security made it seem like it was my fault. The staff also had no idea where anything was. Overall Terrible management."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2023"
+    },
+    {
+      "title": "Waste of Money",
+      "text": [
+        "Cancel the show! If all the manufacturers are not going to come, then what is the point of having a \"car show\". Very disappointing when you go there to see Audi and Acura and they are not there!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2023"
+    },
+    {
+      "title": "Horrible - don’t waste your money",
+      "text": [
+        "FanExpo staff told us and a group of others after we had left to grab a coffee from outside that they were at capacity and wouldn’t let us back in. We had been there for 90 mins and when we asked for some money back for their error (they apparently were not at capacity) they just kept giving us lines like “Saturday is historically our busiest day”. Will not go back - complete waste of $."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2022 • Couples"
+    },
+    {
+      "title": "Very unsafe",
+      "text": [
+        "Just got home from the Fan Expo and the amount of people at the expo was unacceptable.  They should not have let so many people in at the same time.  People pushing on the escalators . 30 minutes to get into a washroom.  God forbid if there was an emergency hundreds would not be able to get out  of the mtcc safely.  Security should not have let so many in at the same time."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2022 • Friends"
+    },
+    {
+      "title": "great building",
+      "text": [
+        "my wife and i went to a food fest here and this building has lots of room to hold any event like the car show, home show etc.. great place"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Toronto Comic-Con - Don’t waste your money.",
+      "text": [
+        "I was expecting this show to be something cool but it was really just a glorified market that would normally be free to attend. Just so disappointed and annoyed at having spent $$$ on this waste of time event. The security at MTCC also add insult to injury. They are rude and belligerent."
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2022 • Family"
+    },
+    {
+      "title": "Love coming here for Fan Expo",
+      "text": [
+        "This place is an annual tradition as I come here yearly for Fan Expo Canada. The building itself is massive, staff are generally friendly and helpful, and its location is within walking distance of several other attractions and restaurants."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Canada's #1 Convention Centre",
+      "text": [
+        "Clean facility, friendly staff, large venues, easy to navigate and beautiful art installations. Great place to attend/host events and meetings."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019"
+    },
+    {
+      "title": "Huge Space",
+      "text": [
+        "We cannot contain our excitement at the sight of thousands of high end dream cars on display at the Canadian International Auto Show which was held from Feb 15-24 at the Metro Convention Centre in Downtown Toronto.",
+        "This was our first time to enter this convention centre and it is so huge, in fact there are two locations , a South and a North Wing and both wings were filled with thousands of cars and of course car enthusiasts.",
+        "This is actually the best place to hold conventions because of the immense space it offers."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2019 • Family"
+    },
+    {
+      "title": "Needs Better Mapping -Confusing Layout for Exiting",
+      "text": [
+        "My daughter and I went here to the Auto Show.  The show was excellent and is a strong recommend.  Very handicapped friendly.",
+        "However, exiting was a chore.  Especially from the south building and we'd parked in a private garage on Simcoe St. with the entrance by the railway museum.  Full-day parking at $27 with taxes wasn't bad compared to the D.C. or Baltimore areas for a similar venue.",
+        "The map signs seriously need a \"you are here\" notation added to them.",
+        "Worthwhile"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2019 • Family"
+    },
+    {
+      "title": "Always convenient but....",
+      "text": [
+        "..was very surprised at the cost for parking in the North building during the Autoshow. Not happy that price is not regulated during events. Will not likely attend next time and will inform others to avoid the place. thanks"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2019"
+    },
+    {
+      "title": "Auto Show visit",
+      "text": [
+        "I went to the Auto Show with my sons. It was amazing how large and navigable this facility is.",
+        "It was my sons' first visit and it had been years since my last. It has held up well over time.",
+        "The lighting and acoustics are excellent. ",
+        "Great place to attend an event."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2019 • Family"
+    },
+    {
+      "title": "AMAZING FACILITY !!!",
+      "text": [
+        "Yearly visits for the hair show has proven to be a fantastic turn out in this amazing facility!!  The space and decor is probably the best facility Toronto has to offer. Many other events are held there including the Womens show which I also attended , and with the amount of people attending the flow of people is maintained to a very civilized pace. GREAT JOB !!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018"
+    },
+    {
+      "title": "Decent facilities but were left wanting more",
+      "text": [
+        "The show rooms are fine but having sit on the floor between presentations wasn't great. Place was very clean and the toilet facilities were very good."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2019 • Business"
+    },
+    {
+      "title": "Great Convention Center",
+      "text": [
+        "They did a wonderful job hosting a complicated 7,000 person convention. Rooms and workshops were clearly marked.  Maps worked.  The conference app worked perfectly with the facility.  The center does require a lot of walking as it is in two sections divided by a heated skybridge over the train tracks.  Location is amazing with lots of restaurants of all price points close."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018"
+    },
+    {
+      "title": "The site of the 2018 Parliament of World Religions",
+      "text": [
+        "I attended the Parliament of World Religions at the convention center and was impressed with the facilities. It covers a square city block with hotels that include restaurants and bars at each end,I don't know if they are actually affiliated with the center or separate entities. The place is massive with 3 huge areas: 1 for assemblies, an exhibition hall that's bigger than the assembly hall and what looked like it could be an area used for a sporting event but was vacant during my time there. There are then 7 other levels of meeting and break out rooms. There were over 7500 people attending the Parliament and the facilities ( common areas, meeting rooms, restrooms) were always clean ( this was a week long event). Especially impressed by the clean restrooms with the huge crowd we had. There are at least 5 hotels and more B&B's with in easy walking distance of the center. A great place for a convention. Then there are all the amazing restaurants also with in an easy walk plus a food court across the street. There were food vendors at our event and also banquet facilities. We did need ID to enter but that may not be the case for a concert or sporting event. The Parliament did provide free secure wi-fi but not sure if the center itself does. May depend on the event."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Business"
+    },
+    {
+      "title": "Functional space",
+      "text": [
+        "Went for a national trade show, large event spaces, and seminar rooms.",
+        "Overall, good location, parking always an issue though. Access and directions very clear with lots of event volunteers to assist. Wifi is ok, better than in the past but you have to keep signing in if you leave it for a couple of minutes."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Business"
+    },
+    {
+      "title": "No matter what event, the experience is the always top notch",
+      "text": [
+        "I've attended ComicCon events, leadership events, and a variety of other shows at this centre, and it's a world class centre for large and small events.  Thankful that it's so close to home!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019"
+    },
+    {
+      "title": "Good place for convention except",
+      "text": [
+        "Well suited for convention but food is sub par.  Lunch supplied was cheap.  Nothing great for vegetarian. Corn in sandwich looked like corn nibbles fro a can.  Sandwiches fell apart.  Cheaply made, coffee only available from store."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Business"
+    },
+    {
+      "title": "Great conference location",
+      "text": [
+        "Great location, lots of meeting rooms and good flow. Lots of restaurants in the area. Multiple sets of escalators to second floor kept traffic moving well. Free wi-fi available in halls and common areas but not in meeting rooms or exhibition area."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Business"
+    },
+    {
+      "title": "AATS",
+      "text": [
+        "AATS 99 th annual meeting. It is one of the greatest thing which can be in my life. Thank for AATS foundation."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Business"
+    },
+    {
+      "title": "Classically Good",
+      "text": [
+        "If you require professional meeting space in Toronto, the MTCC is where you want to be. The Team staff are professional and accommodating. The site is immaculate, the food on par with upscale restaurants and the services complete. Location is also \"perfect\" for those tourists who want to enjoy more of what Toronto has to offer."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019"
+    },
+    {
+      "title": "A place when your convention is in town",
+      "text": [
+        "This is a large convention area. If your desired convention is in town then this place will please you. A modern facility to house whatever show is in town. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "A little dated",
+      "text": [
+        "I've been inside quite a few convention centers. They tend to be cavernous and unwieldy, and this one was no different in that respect. The layout though was confusing as the floors go down, not up. If you are in room 715, you will go down a number of flights of stairs. ",
+        "It's also got a 70's vibe to it. That's ok, just not my thing. I know a lot of people had been going through but it seemed a little dirty. Maybe it wasn't and just \"felt\" that way. Either way, kind of a turn off."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2019 • Business"
+    },
+    {
+      "title": "Great venue, but confusing arrangement",
+      "text": [
+        "I was in Toronto to attend a conference.  The venue is wonderful.  However, it was difficult and took time to figure out how it was arranged. In one section of the building the floor numbers were reversed.  Instead of the floors at the bottom starting at one and then going up in number, the numbers got higher as you descended.  Perhaps, this was intended to reflect Dante's Inferno, where the lower levels actually resembled the hotter and hottest parts of hell.  Despite this strange floor numbering system, the Convention Center was fine. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019"
+    },
+    {
+      "title": "Metro Toronto Convention Centre",
+      "text": [
+        "The Convention Center is quite ill arranged. It is a nice convention center however. The host/hostesses for our convention were very, very helpful! (AERA meeting) These staff members made all the difference. I didn't get her name, but there was one staff member, in particular who was posted on the North, first floor entryway who was fantastic! Thank you!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Business"
+    },
+    {
+      "title": "Be ready to walk a lot!",
+      "text": [
+        "It is a great place for conventions, but it is very big, so be ready for a lot of walking. It needs maps posted in high traffic areas to improve experience."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2019 • Business"
+    },
+    {
+      "title": "Auto Show 2020",
+      "text": [
+        "It is a huge Convention Centre  with a North and South building. The size is ideal for the Auto Show . The security staff warrants the 3 rating. Knowing you are paying their salary for your attendance and huge parking fee they would not be treating you like a jail inmate. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "One of the great business centres of North America",
+      "text": [
+        "From the north spacious hall on the north side of the building to the south and more intimate side. The Metro Convention Centre is one of the better business centres, I have visited accross North America. They are very well located with ample and not over priced parking in the sorounding areas and very accesible by public transportation. The local catering has a great variety of food for everyones pallet and although is a little over prized, it makes it up with the taste."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Awesome auto show and venue",
+      "text": [
+        "Came here for the auto show for the first time. We were pleased that everything is so accessible. We found the restrooms to be very clean. The various food concessions were very good and eliminated our need to go outside to eat. The staff were extremely helpful to us not only in getting tickets and directions but also in tips about the show which made our visit much more enjoyable. The venue is very spacious which for the size of the auto show is excellent. Being in a wheelchair it was good that nothing was cramped. The slopes on the auto displays made it easy to move about. We spent 2 whole days here seeing everything and enjoying every minute of it. Will definitely come again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "A messy multi level venue",
+      "text": [
+        "We went for the Auto Show.  I don't think I have been to this venue for years!  So I dont remember all the stairs, escalators, distance between buildings.   The Show was big, I get it.  But so hard to find everything.  Yes you need a book to show you where it all is, but the place was a Maze, to me. Even the book did not help that much.  Things were hidden by walls you may miss, the distance to the other hall was insanely far.  I would have loved to have seen this auto show on the exhibition grounds."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "2020 Autoshow.",
+      "text": [
+        "Better protection from the weather now with fully covered and heated passage between the North and the South Buildings. Only downside is Mercedes Benz is not participating this year."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Meeting site",
+      "text": [
+        "Surgery meeting in Toronto for 5 days. Accommodations were excellent and break oit sessions were well prepared meals close by center and transportation around center was timely and well organized"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2019"
+    },
+    {
+      "title": "Spacious!",
+      "text": [
+        "Extremely spacious, conveniently located to downtown (few minute walk to many locations), food huge court across the street, second cup located on site, many events hosted here. Bathrooms can be congested if you attend a big conference. I just attended a two day conference."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Business"
+    },
+    {
+      "title": "Metro Toronto Convention Centre and Parking",
+      "text": [
+        "I have spoken at a conference in two of the break-out rooms and found the rooms comfortable, well-equipped and spacious.  On November 5, 2019 I attended the Cardinal's Dinner in the large dining hall, and again everything went smoothly, from the reception halls to the dinner for 1600 people. Service is efficient and the food was good! One of the best features of the Metro Convention Centre is that there is indoor access from Union Station, from both GO and VIA trains -  perfect for bad weather. I've arrived by UP Express from the airport and walked to a previous Cardinal's Dinner while a rainstorm raged outside - so helpful. The south-side parking lot is wonderful for those who are heading for the Gardner Expressway - the first traffic light south on leaving on the south lot takes you to Lakeshore Boulevard - that helps to make leaving downtown faster! Parking is close to the CN Tower, the  Aquarium, hockey arena, downtown in general."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Beautiful convention centres",
+      "text": [
+        "One of the beautiful convention centres, quite elite and descent complex. The MTCC has 700,000 square feet (65,000 m2) of space, and is home to the 1232-seat John Bassett Theatre. To the east end of the complex is the 586-room InterContinental Toronto Centre hotel (formerly Canadian National Railway's L'Hotel CN).[4] At the west end of the complex is a 265,000 square foot Class-B office building."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "MTCC Convention Center",
+      "text": [
+        "A fabulous, centrally located facility in downtown Toronto.  It is close to everything with transportation options to all parts of Toronto.  It connects to the Intercontinental Hotel, with plenty of restrooms, walking spaces, and seating areas.  Wish they had a few more places to eat or get snacks, but outside are food trucks, food courts, and other eateries nearby.  Parking is expensive."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    }
+  ]
+}

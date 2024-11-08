@@ -1,0 +1,357 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Botanical Garden",
+    "url": "/Attraction_Review-g155019-d2056324-Reviews-Toronto_Botanical_Garden-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "777 Lawrence Ave E ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M3C 1P2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 108
+    },
+    "openingHours": "Mo-Su 09:00-16:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/d2/fb/3e/edwards-gardens.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Gardens"
+  ],
+  "description": "Toronto Botanical Garden offers an array of 17 award-winning themed gardens spanning nearly four acres, designed to educate and inspire. You'll also find a complete range of innovative indoor and outdoor learning experiences for all ages including programs, garden tours, nature day camps, organic farmers' market and an extensive horticultural library; LEED Silver Certified Building with an energy-efficient sloping green roof and award-winning ecologically conscious design; rental facilities; garden shop and seasonal cafe.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Smaller than expected",
+      "text": [
+        "I visited the Toronto Botanical Gardens with my partner, and it was a little smaller than expected. However, given that it backs onto the Edwards’ Garden and has a number of curated gardens itself, it is well worth the visit! The on-site cafe also punched above its weight too!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Lovely gardens and green space outside the city",
+      "text": [
+        "It was quite a journey to get to the Botanical Gardens but we were pleased we made it. The gardens are well laid out and very pretty. There was a nice cafe and shop at the entrance. We made our way down through the gardens and into the connecting park. The paths and bridges were well maintained and it was a very enjoyable and refreshing walk."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Toronto Botanical Garden- compact garden",
+      "text": [
+        "We enjoyed the small Toronto Botanical Garden which is located within the Edwards Gardens. It was a nice way to see plants that are good choices for the area but plant signage could be improved upon. The garden is free but there is a fee for parking which is a bit quirky. We did not go further into the Edwards garden and stayed less than an hour in the actual Toronto Bot garden."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "Toronto Botanical Gardens",
+      "text": [
+        "We had never been to this garden before but have visited many gardens in many different countries. Toronto Botanical Gardens was very disappointing. There was very little signage around the garden so we kept ending up outside the garden perimeter. We finally used Google Maps to find our way around and back to the main building. Without better signage, we felt the gardens were not interested in making us feel welcome or informed about what was on offer.The plants were mostly annual displays rather than  formal botanical perennials. For the local community it is probably a nice neighborhood green space, but to travel out from the downtown core which takes over 30 min. it wasn't worth the trip."
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "A quiet refuge from the activity of the city",
+      "text": [
+        "The botanical garden was a great break from the hectic activity in the city centre. A bit of a journey to get there on public transit, but I found it well worth while. Not a true botanical garden with every plant labelled, but a mixture of colourful planted beds, grass swaths, and trees it was very enjoyable to spend time wandering the garden and surrounding area. The botanical garden connects with other parks to allow a variety of areas to explore. The free admission is an additional bonus.",
+        "Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Not bad for free",
+      "text": [
+        "This place is nice for free and $2.50 a hour on parking. There is a cafe there and you can get ice cream, pastries, drinks and coffee. The botanical part is rather small compared to other botanical gardens I’ve been to but it’s free so I wasn’t expecting a lot.And then Edwards park is attached. It’s a nice place to go to kill a few hours."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Nice inexpensive attraction to visit if you've got a spare hour or two",
+      "text": [
+        "The free admission to this garden and the adjoining Edwards Garden was a nice perk, and the parking was incredibly cheap ($2.50 per hour). Unfortunately, there wasn't much to see overall besides some flowerbeds, trees, the forest, and the stream within it.",
+        "It's more like a large park that's good for people who live nearby to go for a walk, run, picnic or bike ride. Or a place to stop by if you're already visiting the Ontario Science Museum."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "A nice walk!",
+      "text": [
+        "This was a nice change from the pace set by the Big city of Toronto, calm breezes, chirping birds, beautiful flora. I was also quite impressed with how clean it was! This well maintained park isn’t the most exciting or adventurous for some, but it does offer variety and a break from the city, without having to actually leave Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2022 • Couples"
+    },
+    {
+      "title": "Was expecting more",
+      "text": [
+        "In comparison to other botanical gardens i was not terribly impressed. Very little of interest to see . However it did provide a nice family outing during Covid times . I will have to visit post Covid to see any difference"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2021 • Family"
+    },
+    {
+      "title": "Some Sections of the Park were Closed",
+      "text": [
+        "It was our first time being here. We visited the Edwards Gardens Park inside the Toronto Botanical garden after our visit to the Montreal Botanical garden. Comparison wise the Toronto Botanical Garden was not as impressive as the Montreal Botanical Gardens. However the fact that entry to this park is free is a good thing. A lot of the parks sections were cordoned off maybe because they were improving the pathways to the forested areas."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Toronto Botanical Garden",
+      "text": [
+        "The garden is gorgeous, with amazing flowers and a lot of wild life and birds. A green oasis in the city.  The visite is a must."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Worth a visit",
+      "text": [
+        "We visited Toronto Botanical Garden in conjunction with our visit to Edwards Gardens.  They are actually part of the same property.  There are lots of beautiful shrubs and flowers to view.  It is definitely worth a visit when in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Beautiful place",
+      "text": [
+        "My best friend had her wedding ceremony here and it was delightful.",
+        "The gardens were pristine and unforgettable"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Not very big but beautiful.",
+      "text": [
+        "I really enjoy visiting gardens and looking at flowers.  So when we were in Toronto, I wanted to visit the Botanical Gardens and I am very happy we did.  I really enjoyed not only looking at all the flowers, but at all the statues that were in between the flowers.  The statues were almost just has fun to look at as the flowers.  The gardens themself are not very large so it doesn't take much time to walk around.  Edwards gardens are also right next door to the gardens and it is almost hard to know where one starts and the other ends.  Overall it was a beautiful place to walk around and enjoy the scenery.  There also is a nice little gift shop to enjoy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018"
+    },
+    {
+      "title": "Beautiful Natural escape in the city",
+      "text": [
+        "I visited the Gardens to check out the #ZimSculpt exhibit.  I had never been to this particular garden.  The grounds were beautiful.  It was so clean.  The staff were very friendly and helpful.  The Cafe onsite offered Gluten free and Vegan options which was a lovely surprise.  The food was fresh.  I was shocked to see free parking.  There are bus stops nearby for those who don't drive as well as bike trails.  This really is a great place just to get away and take in nature.  The plants were labelled and the ZimSculpt was an absolutely must see."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "The Elegance of the Gardens",
+      "text": [
+        "The corner of Lawrence and Leslie is home to Toronto's Botanical Gardens.  It is relatively small but very pretty.  The flowers are very aromatic and beautiful.  It's a spot frequented by photographers and weddings.  I like to call it elegant.  It's great for an afternoon stroll.  For those who want a longer outing (close to an hour), walk down the hill and follow the path alongside the river.  You will enter Wilket Creek Park.  Some of the flowers you pass by have vivid colours. About ten minutes past the park sign, a gravel path appears to your right.  Turn and walk up the many steps to the street.  Follow the road (Salonica) a few metres and then turn right onto Suncrest.  You are beginning a 15 minute walk in the rich  Bridal Path neighbourhood.  Follow Suncrest until you reach The Bridal Path.  Turn right onto The Bridal Path and follow it until you reach the upper reaches of the park.  Turn right into the park, go down the hill and you are back where you started from.  You will have walked by some stunning and elegant mansions.  Pick out your dream home.  You will have completed a circular tour filled with natural beauty and unique architecture."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Adjunct",
+      "text": [
+        "This is more of an adjunct to Edwards Gardens and should be visited at the same time.  As opposed to Edwards, which is designed for its landscape, the upper gardens are meant to show off a variety of beautiful and exceptional plants.  It is shorter to walk around than Edwards, but part of the same experience.  ",
+        "There is also a small farmer's market on Thursday afternoons and a visit would benefit from showing up at that time."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "Perfect City Garden",
+      "text": [
+        "My favorite spot in any season! Best place for walks and hanging out.Great botanical library for public use."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017"
+    },
+    {
+      "title": "lots of great flowers in a small space, surrounded by large grounds",
+      "text": [
+        "The garden is about an hour by subway and bus from downtown Toronto. One nice thing about it is that you can get to most of the good stuff without having to do a lot of walking; a lot of the best flowers, in fact, were planted along the long entry path to the garden gate. (Another is that there is no admission charge.) Perhaps because many of the flowers are close to the entrance on one side of the gate or the other, the place seemed to be popular with elderly people, including a fair number in wheelchairs, when I visited. Beyond this central area there are substantial grounds that seemed to be mostly forest; you can enjoy these if you like to ramble (there are plenty of paths) but skip them without missing much if you don’t. The garden has a pretty-looking café, but I did not sample it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "I try to visit every time I'm in Toronto",
+      "text": [
+        "Amazing botanical garden. Toronto has some of the best gardens just walking down the street, but this place is a true gem. Easy to get to using public transportation, and even though is a bit far from downtown, is worth the drive."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "Wonderful Statuary and Nicely Labelled Plants",
+      "text": [
+        "Visited on Thursday evening and enjoyed a stroll though this little gem. Enjoyed the statuary and the artists at work. My wife returned the next day and purchased a small momento."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "A very nice visit... but not as big as expected ",
+      "text": [
+        "I’m on a weekend trip to Toronto we decided to venture out to the gardens based on reviews. It really was amazingly beautiful and very well taken care of and tended to. It’s small though.... we stretched the visit to two and a half hours including lunch because we drove out of the city and wanted it to be worth the trip but could have seen everything in one. As an FYI... cafe is allergy friendly, great service and good food."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Allergy friendly cafe",
+      "text": [
+        "I just visited the Toronto Botanical Garden with my husband, it was a beautiful and relaxing experience, I loved the large variety of plants they have and how well maintained the plants and facilities are.  They also have a cafe inside where to my surprise they sell a great variety of gluten free, vegan and processed sugar free desserts/bakes, like Nanaimo bars, ginger cookies, cream sandwich cookies, cup cakes, chocolate fudge cake etc. We were informed by the nice lady serving us that they bake all the allergy friendly items in a separate kitchen to avoid cross contamination which makes this cafe ideal for those who have food allergies ( like celiac desease ) or food intolerances. I was very happy because I have a lot of dietary restrictions due to food intolerances and this cafe has all these delicious goodies available for visitors! They even have a vegetarian burger available with a gluten free bun as well ! for sure  a place to visit :). Parking price is very reasonable $ 2.50/hr. They also have an exhibition room where they provide information about the pieces of art displayed across the garden. Also there’re is a small gift shop inside. I’d love to be back it was a great scenic walk  !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Very beautiful",
+      "text": [
+        "These gardens are worth visiting - very beautiful and a free activity. It's not a \"must see\" but it is a very lovely way to spend an afternoon, especially if you like nature and want to feel like you're out of the city. There are a lot of beautiful flowers and a nice paved trail that connects to another trail. You could stay for as long or as short of a visit as you want. There's a nice little shop to get a hot or cold drink and snack. Bathrooms in excellent condition."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Belated Wedding Reception",
+      "text": [
+        "Held our Daughter and Son-in-law's wedding reception here.  Venue (Garden Hall) was just perfect for our  family and friends.  Delightful, helpful event coordinator Curtis Jackson.  Caterers, The Food Dudes, provided all the appetizers, entrees, desserts, tea and coffee.  Just superb.  Staff were friendly, courteous, accommodating, meeting our every wish.  Arranged for all the tables, tablecloths, chair covers, and everything needed for the meal.  Would recommend this location and caterer for anyone's wedding needs."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Nice Garden",
+      "text": [
+        "We spent about 2 plus hours there and took plenty of pictures. There is also a little stream that runs there and the morning sun hit it just right and there were many things blooming."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Spring stroll ",
+      "text": [
+        "We visited garden  in May, to catch amazing display of tulips in full bloom. I love visiting Toronto Botanical Garden because it easy to reach by car or public transit , has compact beautiful grounds, cafe to get a snack, and indoor areas with shop."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "A Beautiful Spot within the Busy City",
+      "text": [
+        "We visited this location with a friend and spent about an hour wandering the pathways.  Being late fall, most of the flowers were gone, but that did not diminish our enjoyment.  The creek that winds through the property is beautiful; there was a farmer's market underway; and the giftshop has some whimsical gift ideas.  We will definitely be back in high season.  There are some steep steps to navigate, but there seems to be enough wheelchair accessible pathways that you can avoid the stairs if necessary.  There was a lovely sculptural art installation while we were there and this was an interesting adjunct to the gardens."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Wonderful breath of fresh air in the city",
+      "text": [
+        "If you feel you need a bit of space in the GTA then this place is for you. Entry to the grounds are free and the gardens are beautifully maintained. There are also lots of sculptures placed in the garden for you to admire and explore. The sheer variety of flowers even in autumn makes it a beautiful 0lace to explore. And if you are tired by all the walking then I recommend the cafe where one can find a good latte!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018"
+    },
+    {
+      "title": "A peaceful oasis in the middle of the city......",
+      "text": [
+        "Went there for a one day retreat on creating happiness and health....perfect setting for it.  Gardens are small but you can walk down to Edwards garden for a longer walk.  Lots of parking and only by donation.  Changing landscape and  lots of different courses offered.  Also has lovely rooms available for rent for weddings, birthdays etc.  Beautiful and peaceful."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "🥴",
+      "text": [
+        "Well ? What can I say ? Not really a lot to see here .... it’s small with few impressive installations. Maybe a nice venue for a meeting or for education trips for schools but for a Sunday afternoon walk it was a bit on the dull side. The areas around the park are nice for a walk and the connections into the trails etc make it worthwhile. Looking forward to returning in the summer to see how things have changed. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2021 • Family"
+    },
+    {
+      "title": "Nice garden, good for families",
+      "text": [
+        "Nothing special but considering that the admission is free, it’s nice. Perfect outing for families, the Edward Gardens are attached to it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2020 • Family"
+    },
+    {
+      "title": "Lots of flowers in bloom",
+      "text": [
+        "Lots of varieties of colourful flowers. A very pretty place for a walk to cheer you up during these times.  Even a lovely flower bed that spells out \"Be Happy. Be Safe\" using plants! (see photo)",
+        "Nice place to take some photos and forget about everyday stress. ",
+        "Minimum parking fee is $2.50 which is good for one hour.",
+        "Recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Small but perfectly formed!",
+      "text": [
+        "If you are at all interested in botany then a visit to these gardens is well worth considering. Within a relatively small space there's a huge variety of plants very sympathetically and interestingly presented with a strong emphasis on looking after our environment. I was lucky enough to be shown around by a delightful member of staff which really enhanced the experience. I also had the opportunity to take one of the free ravine tours offered - it was really interesting to get the background of these oases within the city. Combined with the adjacent Edwards Gardens this is a really worthwhile destination to visit whilst in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Beautifully kept gardens and free admission!",
+      "text": [
+        "This is a gem! Admission is free and there is an incredible shop with botanical and gardening related gifts. I was amazed that there were still quite a few flowers even at the end of October. The adjoining trails and Edwards Garden make it a lovely launch point for a nature filled day! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Walk in the park",
+      "text": [
+        "Busy, nice gardens but not relaxing. Probably because it was a nice warm day, but then again who wants to go when raining."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "Just an average garden",
+      "text": [
+        "If you have been to chicago botanical garden, then this seems just 1/4th of that. Not much of a feel of botanical garden, its mostly edward garden attached to it, which is kind of recreational area."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Wow - flowers, plants and statues ",
+      "text": [
+        "Lucky us we were there during the ZimSculpt exhibition.   The admission to the gardens is FREE, can’t beat that.    The plants are well cared for and labeled.   It was a very hot day and we were glad for all the trees and their shade.   The statues were unbelievable and all for sale.    I wish I could’ve brought a few home.    They did have a few tables with some smaller works of art and well priced.      This is well worth going to - it’s only there till September 8 - so hurry up.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "You get what you pay for ",
+      "text": [
+        "This a free admission park. I automatically did a comparison with Hamilton botanical garden and it was no where near that. It's nice to spend 45 minutes here. Parking is 2.50 dollars an hour and that's kind of your only expense here. It's the same value you get here as well.",
+        "Park markings are terrible you can guess that where are you in. All the vegetables grown area was like without any care."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "A beautiful nature walk.",
+      "text": [
+        "We were there for a wedding, it was beautiful. The large hall needs some decorating but with special lights and center pieces is beautiful. It is air conditioned but it was so hot that day that parts of the building had a hard time keeping up - but still better than the 46C outside! The food was very tasty and I would recommend coming here again. They just transitioned to paid parking, 2.50/hour I believe, still reasonable."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019"
+    }
+  ]
+}

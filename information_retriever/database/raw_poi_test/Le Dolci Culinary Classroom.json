@@ -1,0 +1,374 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Le Dolci Culinary Classroom",
+    "url": "/Attraction_Review-g155019-d2283062-Reviews-Le_Dolci_Culinary_Classroom-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 Sousa Mendes St ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6P 3P2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 274
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/20/6c/7a/cupcake-heaven.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Cooking Classes"
+  ],
+  "description": "Le Dolci Culinary Classroom is located in Toronto. Our goal is to bring fun, foodie education to the city. Join us for baking and pastry classes including: how to make - breads, pies, croissant, Parisian macarons, pasta and more! Classes are approximately two hours, hands-on & full of fun! Participants leave with a sweet parcel of their creations as a tasty souvenir of their experience.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "amazing",
+      "text": [
+        "We made some amazing tasty chocolate treats - truffles, chocolate medallions and a bar of chocolate with ingredients of our own choice."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Apple pie class",
+      "text": [
+        "I took the apple pie class with partner and it was a great experience. Our pastry chef went through everything we needed to know and helped us along the way. We each made a cute pie that we took home to bake later or freeze. ",
+        "If you love baking and/or are a beginner and want to try to expand your pastry skills, definitely try Le Dolci."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "Apple Pie Virtual Team Event",
+      "text": [
+        "Firstly - I'm located in Boston and this is a review about a virtual event.",
+        "I've had to put on many virtual events for my company since COVID hit, but when my COO asked for an intimate cooking event, I was a little stumped on where to begin. There are so many options out there for cooking and a lot of the smaller classes were too expensive, were part of larger groups, or pre-recorded classes.",
+        "I asked my colleague if they happened to have put on any cooking class events before, and he said no but his sister had done a few baking classes recently. So I reached out to Le Dolci Bakery and they went through a few options for us and we decided to do their apple pie class.",
+        "The team absolutely loved it. They were able to interact with the chef while baking and still able to chit chat and laugh along with each other. I have a team of over achievers over here and they were able to create some masterpieces (pics included). Some baked theirs right after and others froze them for future eats. ",
+        "They also offer some gluten free and vegan options.",
+        "Would highly recommend for a virtual event or just getting together with a group to have some fun. ",
+        "I will definitely use them again. The group loved Chef Amanda and Hellen was wonderful to work with."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2021"
+    },
+    {
+      "title": "Virtual Parisian Macarons class",
+      "text": [
+        "I participated in the Virtual Parisian Macarons class yesterday and learned a ton! Yuki is a very knowledgeable and patient instructor. I'm very pleased with how they turned out and it was so great to be able to take this class from the comfort of home."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020"
+    },
+    {
+      "title": "Great fun doing cake decorating",
+      "text": [
+        "We did a virtual class for my wife's birthday as we could not all get together in one place (Covid).  The class experience was amazing.  They sent out all the items we needed and instruction sheets ahead of time and the instructor was super friendly and did a great job of guiding us though.  We learned alot about how to put a cake together and make it look professional and had fun too.",
+        "Would highly recommend ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020"
+    },
+    {
+      "title": "Cake Decorating Classes",
+      "text": [
+        "Recently my daughter and I attended a Cake decorating class at Le Dolci and had a blast! All the hard work is done for you - when you arrive, you have a table set up with cakes baked and ready for assembly and a tub of icing, turntable, spreading tools and aprons (although you can bring your own if you have one). Attendees are required to wear masks and tables are generously spaced, so the environment is very safe. They also offer virtual classes and kits that you can order and there are classes for a variety of types of baking and suitable for a variety of skill levels. Our instructor Zoe was friendly and helpful - she demonstrated how to assemble the cake and decorate it and was available for questions and assistance. She coloured the icing for us and piping bags and tips were provided as well as sprinkles and dragees so that we could decorate to our hearts' content. We each left with a beautiful and delicious cake (if you've ever sampled one of Le Dolci's cakes or cupcakes, they are superb! ) Lots of fun and suitable for a novice baker! We plan to return for a future class - perhaps something more challenging like macarons or bread!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2020"
+    },
+    {
+      "title": "Virtual Baking Class really works well!!",
+      "text": [
+        "First virtual baking class.  My teen daughter and I loved it!!! Thank you for walking us through every step and answering all our questions. Great tips!  We turned out 2 beautiful loaves of bread."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2020 • Family"
+    },
+    {
+      "title": "Great Croissant pastries! ",
+      "text": [
+        "We had the chocolate croissants and coffee. We also tried a couple of their cute fancy glazed desserts which for me was underwhelming and didn’t have a lot of flavour and the crust was impossible to eat! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2020 • Couples"
+    },
+    {
+      "title": "A terrific and delizioso evening!",
+      "text": [
+        "Our company @fusecreateto did a virtual team gnocchi making class with Chef Zoe @ledolci.  It was a terrific and delizioso  evening!  Zoe’s virtual tutorial skills are as well crafted as her culinary skills.  Hellen at @ledolci was a pleasure to deal with when coordinating our event and we look forward to doing something again in the future."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Amazing birthday party!",
+      "text": [
+        "Amazing COVID-proof birthday party!! Celebrated my daughter's birthday here with her friends! They are doing everything to keep very high health and safety standards.  Temperature checks, each student with own space and materials.  All wore masks and felt very safe!  Thank you so much, Chef Zoe and Hellen!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "Excellent Instruction - Fun, Educational, Delicious!!",
+      "text": [
+        "Took a Sunday morning class to learn how to make Parisian macarons with my sister. ",
+        "Chef Lindsay was an excellent instructor. She broke down the seemingly complex recipe into simple steps that were easy to understand and follow. ",
+        "The hands on experience was both fun and educational. The results both looked and tasted amazing!!",
+        "We had about 16 people in our class, from people that have unsuccessfully tried making macarons before, to those with limited baking experience. ",
+        "In just 2 hours, we learned the science behind making the batter, made the cookies and everyone left with a dozen beautiful and delicious macarons we made ourselves. ",
+        "After taking this class, I'm confident I could recreate this success at home.  Would definitely return to learn something new in another class. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Super fun baking class",
+      "text": [
+        "I did the croissant making class with Lisa and Yuki yesterday. They were both helpful and engaging instructors. The class was more than just croissant making, they gave tips on baking basics and and differences in selecting ingredients. ",
+        "Great class. Would definitely recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Solo"
+    },
+    {
+      "title": "Amazing!",
+      "text": [
+        "Did the cannoli workshop with friends on Sunday and loved, loved, loved it!  Lindsay is a fun and engaging educator, and we all turned out decent cannoli (our friends/family at home were greatly appreciative).  Not only that, but I may have overcome my fear of deep fryers and making my own pie pastry!  Win-win.  Great way to spend the afternoon. ",
+        " Would definitely do another workshop at this cool studio."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Excellent Baking Classes",
+      "text": [
+        "My daughters have been to three different classes at Le Dolci, the macaroon, cake and donut making classes.  Lindsey and Shay have been outstanding for each of the classes.  The sessions and fun, easy to follow and best of all they come home with delicous treats!!  If you are looking for a small baking class, it's a great place to go.  Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Family"
+    },
+    {
+      "title": "Went to the macaroon class with my mom and had a great time",
+      "text": [
+        "The class was taught by Taylor and I had no baking experience prior to taking the class. It was amazing and had a great energy to it. I also feel like I could make macaroons now without even having to look at the recipe sheet! Would probably take another class here in the future."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Family"
+    },
+    {
+      "title": "Outstanding Cannoli Baking Class ",
+      "text": [
+        "My boyfriend and I attended the cannoli class led by Lindsey and Shay at Le Dolci and we were not disappointed! The class was educational, fun, clean and entertaining. Best of all the staff was laid back and helpful - they even allowed us to stay behind to finish making our cannolis can though the class had ended. We walked away with professional looking treats that everyone raved about. One of the best baking classes I have ever attended! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "We attended the naked cake class as a group of three (including my 11 year old daughter) on April 1, 2017. Chef Lindsey was an excellent instructor.  She was patient, fun and friendly. Our daughter was so excited to learned from a professional chef! The atmosphere of the space was perfect and the cake was delicious. We travelled from Hamilton and will definitely be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Family"
+    },
+    {
+      "title": "Parisian Macaron Class",
+      "text": [
+        "I participated in a class on Saturday March 11.  I had always wanted to make French Macarons. Lindsey is a great instructor. However, the set up was not worth the price.  For $105 I expected to be able to prepare my own batch of Macarons.  It is impossible to work in a group larger than two for something so complicated. I was also disappointed that we were not provided the recipe for the butter cream at the end of the class.",
+        "Fern B"
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Amazing Bakery!!!",
+      "text": [
+        "I flew all the way from Calgary to Toronto to take there weekend classes and was not disappointed. I took three classes with Shai and one with Lindsey. Both amazing instructors I highly recommend going here"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Solo"
+    },
+    {
+      "title": "Great tips",
+      "text": [
+        "Excellent class and Lindsay was amazing. Her tips for how to decorate a naked cake were amazing. Looking forward to doing more classes"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Solo"
+    },
+    {
+      "title": "Put this on your bucket list!",
+      "text": [
+        "This foodie studio is a bucket-list must! You always learn something new and there's always good laughs with the nicest people."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Perfect Pies!",
+      "text": [
+        "I recently attended the perfect pies class where we made an apple pie. Class was a lot of fun, with some great tips provided by the teacher. Love the fact I can make a mess and not worry about washing up afterwards, plus you take the pie home and bake it when it suits. Will definitely sign up for some other classes!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Friends"
+    },
+    {
+      "title": "Son's 21st Birthday cake",
+      "text": [
+        "Excellent, friendly superb!!!! Ordered a very specific cake for my son, 'OVO' Drake's brand for a superfan ! It was sooooo good, tasty, perfect treat. Went to shop to personally say thanks, first of all the smell was awesome and the staff seemed delighted to see us all the way from England. Don't go anywhere else for your cakes. Thank you so much team Dolci."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Family"
+    },
+    {
+      "title": "Holiday Cookie Baking Extravaganza",
+      "text": [
+        "Had a stellar event at the new location at 114 Geary Ave. Coordinated a group of co-workers for a semi-private holiday cookie baking event. Joy from Le Dolci was very patient working through date options and getting us setup for this wonderful evening.  And our instructor Lindsey was super awesome - giving us special tips and guiding us through all the recipes.  Le Dolci, again, exceeded expectations!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Friends"
+    },
+    {
+      "title": "Great team building experience ",
+      "text": [
+        "Really enjoyed taking my sales team to Le Dolci this past week for a cake creating class and some team building.  We had lots of fun and lots of laughs together as a team.  Lindsay was an awesome teacher and made the event a great success.  Definitely heading back again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Business"
+    },
+    {
+      "title": "Mastering the Art of Homemade Cannoli's!!",
+      "text": [
+        "My wonderful son Adam, bought me the class as a Birthday gift. He decided I didn't need more shoes.. while I might disagree on some level, the Cannoli class was a great experience :) ",
+        "We are a family that loves Cannoli's and good ones are so hard to find. On the weekend we learned how to make them ourselves with the help of the very talented chef Lindsey Greflund and Le Dolci Food Studio.  We left with 20 Cannoli's each.. way too many for our family, so we shared. We liked the experience so much, we will sign up for another class- looking forward to a Mile High Banana or Coconut Cream Pie class!!   Thanks Lindsey!! ( and Adam )"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Friends"
+    },
+    {
+      "title": "Fantastic class",
+      "text": [
+        "Bought this class as a gift for my 14 year old aspiring baker as a birthday gift!  Was a little concerned about her being the only 'kid' in her class but she was welcomed and loved the class!  She came home with samples to share (which were delicious).  ",
+        "Highly recommend the class and we're looking at booking the next one!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Family"
+    },
+    {
+      "title": "What a wonderful evening !",
+      "text": [
+        "I attended the pie making class and it was so much fun. Lindsey the instructor was informative, fun and made the class so enjoyable! I'll be looking for another class to attend in the near future! they also have macaron and donut making classes as well!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Solo"
+    },
+    {
+      "title": "Macarons for bachelorette!",
+      "text": [
+        "Attended the Parisian Macarons class this past Sunday with Chef Lindsey and Giovanna. What a fantastic experience. From the moment we walked in, we felt so comfortable and welcome in the space. I have to admit, I didn't know that macarons were an advanced cookie and was a little nervous when we found that out, but Lindsey was amazing! She talked us through every step, provided helpful \"tests\" and \"tricks\" along the way and was hilarious and awesome at the same time. Our cookies turned out wonderfully and I can honestly say I learned so much about baking and the science behind it. What a wonderful day! Thank you Lindsey and Giovanna for your hospitality and an amazing class. ",
+        "As an aside, I have to say that originally when I booked the class online, I booked the wrong date. I was booking for a wedding party as part of a bachlorette weekend and was very worried that I had made a fatal error. I called Le Dolci immediately and they corrected the booking for me, with no issues. I appreciated that service and was put at ease. Cant wait to stop in for more delicious treats in the future!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Parisian Macarrons Class ",
+      "text": [
+        "Uncover the long-kept secrets of making delicious Parisian macarons with Lindsey Greflund. A lot of information , a lot of fun!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Solo"
+    },
+    {
+      "title": "Excellent classes in a beautiful setting",
+      "text": [
+        "My daughter Bella went to Le Dolci tween, socially distanced cooking camp and loved it. Her food was fantastic, the atmosphere was beautiful and the instructor (Zoe) was top notch. Thanks Le Dolci for an AMAZING and delicious time and for teaching us so much."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Cookie making!",
+      "text": [
+        "My son and I picked up a quarantine cookie making kit. He LOVED it :)",
+        "I am not a baker so this was a fun way for us to try it - easy :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020 • Family"
+    },
+    {
+      "title": "Had fun learning to bake",
+      "text": [
+        "Great class!  Learned lots of new baking skills and looking forward to trying again at home!  Thank you for providing the recipe after the class."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Wonderful experience!",
+      "text": [
+        "I had a lovely time with my team learning how to make macarons from beginning to the end.",
+        "The instructor was so helpful and made the experience easy for us to recreate in everyday life. ",
+        "Additionally, I love the fact we were given the recipes after our workshop! Definitely would want to come again for another class :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Business"
+    },
+    {
+      "title": "Great Macaroon Class!",
+      "text": [
+        "There's no need to be intimidated if you have never made macaroons. It was my first time. They looked and tasted excellent.  Great class!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Parisian Macaroons",
+      "text": [
+        "A group of us from work did their Parisian Macaroons class together and had a wonderful time! I have not baked in a long time and was a bit nervous but the chef was very welcoming, friendly and most of all patient. She gave clear, easy to follow instructions in her demo and then assisted the groups & answered questions as we worked on our batches. It was a lot of fun!!  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Fantastic Must-Do Experience!",
+      "text": [
+        "We enjoyed the Parisian Macaroons class and it was a fantastic experience! From the moment we arrived, we were welcomed and made to feel comfortable. Our instructor was amazing! She walked us through every step and shared her expert tips with us. We  had so much fun learning, laughing and making the cookies together, I’m looking forward to trying the recipe at home. ",
+        "Thank you Le Dolci! I’ll definitely be looking to attending another class soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Amazing Cakes and Service",
+      "text": [
+        "I had Le Dolci, make my daughters birthday cake for her 1st birthday.  What an incredible job they did.  The theme of the party was Sesame Street, and the team at Le Dolci went over and above to create a cake that my daughter went crazy for.  The Sesame Street characters were spot on. I ordered a two tier cake.  One tier vanilla and one chocolate.   The taste was amazing and we received many compliments from our guests. I have ordered from Le Dolci before for many different occasions.  I would highly recommend them."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Doughnut class",
+      "text": [
+        "Was taken to the Doughnut making class by my daughters, what a fantastic time we had.",
+        "Our instructor Yunni was lovely, very professional very clear in the instructions and very patient fun and friendly.",
+        "We had a great morning we made delish doughnuts, ",
+        "Can't wait to go do another class."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Family"
+    },
+    {
+      "title": "Bad man",
+      "text": [
+        "Very nice desert food and friendly staff. I recommend cookie dough as it is very lush. Also very fertile"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Family"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Royal Ontario Museum",
+    "url": "/Attraction_Review-g155019-d155481-Reviews-Royal_Ontario_Museum-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "100 Queen's Park",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5S 2C6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 8534
+    },
+    "openingHours": "Tu-Su 10:00-17:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/cc/b1/canada-s-most-visited.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Speciality Museums"
+  ],
+  "description": "Opened in 1914, the Royal Ontario Museum (ROM) showcases art, culture, and nature from around the globe and across the ages. One of North America's most renowned cultural institutions, Canada's largest museum is home to a world-class collection of more than six million objects and specimens, featured in 40 gallery and exhibition spaces. As the country’s preeminent field research institute and an international leader in new and original findings in biodiversity, palaeontology, earth sciences, the visual arts, material culture and archaeology, the ROM plays a vital role in advancing our global understanding of the artistic, cultural and natural world.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Take the tour of the ROM!",
+      "text": [
+        "The Royal Ontario Museum is a treasure! We took a docent guided tour led by JENNIFER which was delightful! Learned so much! Highly recommend for all ages."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "A Great Museum",
+      "text": [
+        "It has been close to a decade since I last visited the ROM, and I wanted to see it again.  On a Tuesday my Canadian colleague and I entered just as the ROM opened and after paying our admission fee we began our examination of the exhibits.  As we typically do in museums, we started at the top floor and worked our way down.  The third floor was devoted to Ancient Greece, Ancient Cyprus, Bronze Age Aegean, Rome, Nubia, Egypt, Byzantium, Africa, and Europe.  On the second floor were exhibits on biodiversity and animals.  And the first floor contained exhibits from Korea, China, and First Peoples.  This is a fascinating museum; unfortunately, the quality of our visit deteriorated around 10:30 AM, when multiple classes of poorly supervised grade and high school children on field trips invaded the building.  While going from the second to first floor on an obscure elevator, we were informed by a staff member that school field trips frequently occur on Tuesdays.  We made our way around these loud and ill-behaved juveniles and decided to conclude our visit after two hours.  As we left the ROM, we noticed a number of yellow school buses lined up on the street adjacent to the museum."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Standard Museum",
+      "text": [
+        "Nice museum, but how strange to have a really old building and then this really pointy, metallic, glassy structure? There were leaks in the ceilings in some areas and then lots of places closed off."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Bring your own lunch!",
+      "text": [
+        "The museum itself was worth it but the \"restaurant\" in the basement is AWFUL!  Poor quality, rude staff, and overpriced.  The displays, particularly Egypt and Natural History, were very well done, but we left grumpy and exhausted from malnutrition.  The bad food left a stronger imprint than the excellent museum education did.",
+        "It was a summer of visiting family across Canada and local attractions.  Drumheller's Royal Tyrell Museum's food offerings were surprisingly great!  Vancouver Aquarium food is also pretty darn good - ocean wise, affordable, and tasty.  The food at Ripley Aquarium and the ROM were huge disappointments (same with Centreville although not a museum).  For a \"must-see\" attraction in a major metropolis ROM (and perhaps Toronto tourist locales as a whole) should take a page from BC and Alberta's books and up their culinary offerings."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Not up to ROM standards",
+      "text": [
+        "Went to see the Cats exhibit. Not one of their better ones.  Pretty short. Very basic. And didn't even cover all cat behaviors, like purring. ",
+        "Hope the next one is back up to ROM standards"
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Trip to Toronto",
+      "text": [
+        "The experience was so beautiful and worth it ,I highly recommend the museum,many interesting things to see and do good to go"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Always an interesting and informative visit",
+      "text": [
+        "Visiting family in Toronto , from",
+        "Australia this is our second visit to ROM.",
+        "The building is absolutely beautiful and the feeling of space and atmosphere is conducive to a relaxed and informative visit.",
+        "The interactive earth exhibition was thoroughly absorbing. The minerals were beautiful. The quilting exhibition was magnificent and very engaging.",
+        "We look forward to a return visit in the future."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Excellent visit",
+      "text": [
+        "We went to see the Quilt exhibition and upgraded to see the Cats exhibition.  Both were very interesting and well worth the visit.",
+        "One odd thing my husband encountered:  a message in the men's washroom that guests are asked to be mindful that noise from the hand dryers might bother other patrons.  Surely noisy hand dryers are a ROM responsibility and not ours.....?  We laughed but were perplexed at the same time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Big Bang ROM",
+      "text": [
+        "Throughly enjoyable afternoon. The exhibits were well designed to accommodate the crowds and allow for easy access. One floor was laid out for children’s activities. Wish I would have brought the grandkids."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Cats special exhibit",
+      "text": [
+        "The special exhibit is extremely well done.  They pack a ton of information into each area.  We learnt so many interesting facts.  Be sure to take the time to watch the various videos.  The videos have stunning examples of cats playing, hunting, etc."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Terrific Museum",
+      "text": [
+        "This is a large and well curated museum with a varied and very interesting collection. It is well worth a visit. ",
+        "One tip: To avoid large crowds, especially during the summer, arriving when the museum opens is a good idea."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "The best museum in Toronto",
+      "text": [
+        "I have had the privilege to have visited the ROM on four occasions - twice in 2022 and twice earlier this month in July 2024- and I have been thoroughly impressed by the depth and breadth of the collections and the labelling of each artifact. On my last couple of visits, I went to the well-curated special exhibition on wild cats (I heard a lot of people say 'aww' to the models of the cats) which included details of the anatomy of cats, their behavior and interactions with humans. I also got to see the sections on Byzantine and Roman art, which nicely showcased the evolution of art in the Mediterranean over the centuries. I was pleased to have seen the gallery about the First Nations of Canada, which is still an ongoing project but I admire the efforts to include the perspectives of indigenous Canadians on their art and crafts.",
+        "Needless to say, there are vast sections I have yet to see and I will definitely return the next time I visit Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Top Notch Museum ",
+      "text": [
+        "It's a big museum with an extensive collection so try to allow many hours to experience it. We also went on a collection highlight tour led by a docent and I would very much recommend that. The museum has excellent wide ranging exhibits. The dinosaurs, ethnography and the minerals and gems are particularly good.",
+        "The first floor is free but it's well worth it to see the other floors, too."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "A great stroll through history of the planet & nature",
+      "text": [
+        "The museum is gigantic and we didn't have too much time to take full advantage of the visit but there's plenty to offer and learn visiting the ROM. History of the planet and plenty of information on plants and animals can be found, a lot of interactive experiences as well. You can learn a lot about the nature in Canada and North America. Worth a visit, with time, with kids especially."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "great museum",
+      "text": [
+        "Great museum!. My family always enjoys the visit. Great learning experience for both kids and parent. love the special show session."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Great for kids",
+      "text": [
+        "This is a nice museum. The nature collection is a highlight - especially the dinosaurs. Great for kids. The historical section is a little underwhelming."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Good museum. Big collection.",
+      "text": [
+        "I got to the museum right before one of the Museum Highlights tours started.  They run about every hour, check the website.  The guide took us around to several artifacts and provided more information about them.  It was very interesting.  I would highly recommend doing a tour.  They last about an hour.  I spent the next couple hours exploring the different galleries.  Its easy to get to the museum via the subway."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Great Museum",
+      "text": [
+        "The Royal Ontario Museum or (ROM) as it's called locally is one of the best natural history museums in the world, there are 40 galleries spread across 5 floors. starting with the dawn of life through, Bronze age, Byzantium,  Ancient Greece and Rome, Egypt, China and Europe. you can very easily loose yourself here for a couple of hours."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "The Royal Ontario Museum is one of the most fascinating and comprehensive museums I've ever seen",
+      "text": [
+        "The Royal Ontario Museum was the last place I visited during my Toronto trip, and it sent me home on a high note.  I spent about 4 hours exploring all of the exhibits in the Museum and I honestly could have spent even more time there if possible, but I was able to see everything.  My favorite exhibits were the Dinosaurs, the Egyptian, and the Ancient Chinese exhibit.  I was also lucky enough to go when the Wildlife Photographer of the Year exhibit was open.  Some of those pictures were so wildly vivid that I thought I was inside of the photo!  The staff was very helpful and there are free maps available near the entrance that help guide you through the entire Museum.  It reminded me a lot of the Museum of Natural History in Manhattan, which is my all time favorite museum.  Thank you Royal Ontario Museum for a 5 star historic museum experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Well done and worth the admission and the visit.",
+      "text": [
+        "The various exhibits were really outstanding—informative, well organized and some were truly inspirational.  For those who have not been to China, korea, Egypt or Greece, the museum offers a lot of insight into those civilizations.  I applaud the museum for the care that they provide the mummies and the reminders to viewers to treat these persons with respect."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Family fun",
+      "text": [
+        "Great museum with lots of cool artifacts. They also have hands on kids activities in some areas. Great for all ages - 0-100."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great indigenous section",
+      "text": [
+        "The excellent indigenous section was worth the admission price alone for me but this is such an extensive museum with something for all ages. You really could spend the best part of a day there. Bata Shoe Museum is a couple of minutes walk away if you want to combine two attractions easily."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Too expensive",
+      "text": [
+        "Extremely expensive and as a canadian Citizen I feel disappointed with the amount of taxes we pay that we still have to spend over $53 dollars for my daughter 11 years old and me. Without including special exhibitions which are extra. I have been to New York and residents get suggested ticket price more as a form of donation. Because they pay taxes. I have been in Europe and in London England museums are free. Again donations are welcome. But with inflation, charging a single mother with one child $53 and change amount of dollars for a few hours in a museum. Seem abusive and pure robbery. The museum itself is in construction right now so there is a lot of blocked areas that you can not get to see. Still full price and very very expensive for the average Canadian. This Museum is the only choice for a lot of people with children specially in winter when outdoor activities are limited, but who can afford this? ",
+        "Huge disappointment!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Quilts - A Glimps of Herstory",
+      "text": [
+        "My friend mainly took me to see the quilt exhibit. I was moved by the one by Casey House, naming those fallen from AIDS, as well as another made by a Haudenosaunee person, depicting a passport and a fist...a reminder that their people's existence here long predates we Europeans'. My only disappointment was the proliferation of displays entitled\"Figurine\" from an era when the feminine embodied the divine and thus ought to have been labeled Goddesses. The highlight of our trip was the cafeteria, located in the basement, which had the friendliest and most helpful staff, although the space was over air conditioned. A jovial fellow served my friend and I heaping gluten-free sandwiches made to order. Yum!!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Royal plus ",
+      "text": [
+        "We went on a thurs as soon as it opened, comfortable to where you can see magnificent exhibits such wide variety what a great way to end our vacation.  The admission fee was fair, and I like that there are seating areas to  take a break.  In my opinion, this was worth the time to pencil into your vacation plans.  I don't think you will be sorry.  "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Wish we knew before going",
+      "text": [
+        "Went to the ROM for a date day with my wife. Most of the exhibits that we both wanted to see were closed or blocked off ( the Roman Empire and the dinosaurs/ mammals) wasn’t worth the trip down to see it. The high point was finding the one water station that we found. On the website they there’s one on every floor. I guess the others were blocked off with construction. We will be waiting till everything is done, and hopefully we will go back and see what we missed. I wished they said on there website what exhibits were closed."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Not what I expected - waste of money",
+      "text": [
+        "I honestly found this to be a waste of money. We did the Earth add-on exhibit and it was nothing but walking from room to room with bugs on a screen. ZERO information on what we were even looking at. So many “artifacts” to look at from all over the globe, but hardly any kind of explanation on what it was even used for! I did learn that Egyptians mummify cats as well. Cool….why do they do that? How to the mummify anything? So much more I could’ve learned. My teenage son and I tried to make the most of it, but we each found it to be a waste of time and hands down the worst part of our Toronto visit."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Worthwhile but busy and the shop is horrendously overpriced. ",
+      "text": [
+        "The museum is extensive and there are some fantastic displays. 9 of us (5 children) spent more than 4 hours exploring the different levels. The children's interactive play area is great for all ages, and there was a lot to keep everyone interested. ",
+        "There were a lot of school / children's groups especially in the free areas, and there are a lot of renovation works ongoing, meaning some areas were boarded off and there was some construction noise.  ",
+        "The cafe is very expensive, the prices in the shop are so high we actually started laughing as we'd never seen prices like it. I'm talking double and triple digits nonsense! "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Excellent museum",
+      "text": [
+        "Wow - what a terrific museum overall!  It would be easy to spend a good half day exploring all that this museum has to offer. However, the Earth: An Immersive Journey exhibit was fabulous and definitely not to be missed.  It features macro video that was truly amazing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "A Good Museum,( if you get to see it.)",
+      "text": [
+        "Well, we went to see the special exhibit on Cats, which was very informative and visually appealing. The trouble started when we were told that we only had general admission tickets all the other special exhibits were added costs. I did not see this when I bought the tickets online, and did not see an option to add them. ",
+        "The second issue was the number of children's groups on site. There were so many children there, it was impossible to see the displays up close and read the captions. When I went as a child, we were kept in a group, led by a guide, and had to stay with that group. No running around, no rude behavior, respect for other patrons. ",
+        "This was on a Wed. and we left after seeing the Cat exhibit, disappointed to miss the rest of the museum. These groups should be kept to a reasonable number and made to follow the code of conduct as published by the museum."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Always great, but wish it was more affordable for locals.",
+      "text": [
+        "The ROM is indeed a great experience and they have a wonderful collection of artifacts. I've always enjoyed my visits.  However, as a local who likes to go for the occasional new exhibit, the prices have become prohibitive for many. It's $43 for a regular adult ticket."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Eye-catching building but you need to go inside and see the exhibits",
+      "text": [
+        "The museum is opposite our hotel Sonesta Yorkville.  I've been to many museums, but ROM has to be one of the top ten, maybe in the world.  In every level, in every room, and every corner is an artifact or exhibit that is world-class or, at least, rare and significant.",
+        "We still had more to see when we left because Toronto is such a wonderful city for both residents and visitors."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Toronto Royal Ontario museum ",
+      "text": [
+        "Excellent family outing we will return to see more exhibits in March Break 2025.nice location in the center of Downtown Toronto"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Incredible Experience at the Royal Ontario Museum (ROM)",
+      "text": [
+        "Our visit to the “Royal Ontario Museum” was absolutely amazing! We joined the “Museum Highlights Tour” led by a lovely guide who made the experience even more enjoyable. It was such a nice touch from the museum management to offer these guided tours for free—very thoughtful and much appreciated.",
+        "The staff were incredibly helpful and kind, always ready to assist with any questions. Overall, it was a fantastic visit, and I highly recommend taking advantage of the guided tours to get the most out of this incredible museum."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "Visiting the Royal Ontario Museum (ROM) is a captivating experience that blends history, art, and science under one roof. The museum’s vast collections, ranging from ancient Egyptian artifacts to contemporary art, provide something for everyone. Highlights include the awe-inspiring dinosaur exhibits and the stunning galleries showcasing world cultures. The architecture, especially the dramatic Michael Lee-Chin Crystal addition, enhances the overall experience, making it not just a place of learning, but also one of visual wonder. Whether exploring with family or alone, the ROM offers a rich, immersive journey into the past and present."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Eclectic Collection",
+      "text": [
+        "This museum seems to be an interesting combination of a natural history museum and an art museum. It's huge; even with some areas currently closed for remodeling, it takes several hours to see everything. It must be even longer with the special, additional tickets required, exhibitions, which we did not do. We found a lot to enjoy here, but it is a very eclectic collection. We had lunch here in the café on the first floor, which was well priced and delicious. While we were eating, there was an opera singer with accompaniment in the lobby, which was very enjoyable. I would like to return when the current renovations are completed."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Not very accessible",
+      "text": [
+        "We went to the museum in the afternoon on a wednesday. There wasn't many people which was nice. However, we really struggled to get around with a stroller. Although it looks accessible, certain elevators go to levels 1-3 and other go to the basement, and can be tricky to find sometimes. When we got to level 3 to see some of the exhibits, there was a set of stairs that was inaccessible via stroller. There is accessibility ♿️ buttons to open doors but how can anyone get up the stairs in a wheelchair. In one area there was a w/c lift but it wasn't in operation at the time. We had to haul the stroller up or go all the way back down to the main floor to find another elevator that would take us to another section. We wasted a lot of time navigating because of the construction and the inaccessible areas."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Noisy",
+      "text": [
+        "The museum itself was nice and it was good for young kids, things they can do, interactive stuff etc however the day we went they had some sort of band playing in the middle of the atrium very loudly which caused me to yell at the services folks just to ask a few questions. A museum is not a library but I’m not sure if it’s the right place for an indoor concert"
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great time!",
+      "text": [
+        "Specifically went for the Wild Cats exhibit but also attended Immersive Earth.",
+        "Wild Cats is a great exhibit! It was amazing to see the cats up close. It was very well done. Did not disappoint. Fascinating learning experience. Cut outs of cats were a bit odd and seemed out of place. But did not detract from the experience.",
+        "Immersive Earth was a bust. Not what we expected and it was uncomfortably cold. Would not recommend.",
+        "Toured the rest of the Museum. Quilt exhibit is stunning. A beautiful display of such an intricate art form. Really lovely.",
+        "All in all, a great experience. Highly recommend."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Highly recommend",
+      "text": [
+        "Excellent! Great amount of objects with well written descriptions. Even free entertainment by live musicians. We spent the entire afternoon there."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

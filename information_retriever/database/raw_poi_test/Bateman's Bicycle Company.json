@@ -1,0 +1,365 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Bateman's Bicycle Company",
+    "url": "/Attraction_Review-g155019-d7797793-Reviews-Bateman_s_Bicycle_Company-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "913 Bathurst St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5R 3G5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 65
+    },
+    "openingHours": [
+      "Mo-Fr 10:00-19:00",
+      "Sa 10:00-17:00",
+      "Su 12:00-17:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/f4/5d/c5/our-city-bike-rental.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Gear Rentals"
+  ],
+  "description": "Located in the Annex neighbourhood - we are close to other Toronto gems such as Kensington Market, Little Italy, Ossington Strip, Koreatown and Yorkville. We offer all kinds of bicycles to rent for your purpose: *** Hybrids/cruisers for exploring the neighbourhoods *** High performance road bikes for fast road rides *** Cyclocross and Mountain Bikes for exploring nearby trails",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "NO END OF PROBLEMS WITH CUSTOM BUILT BIKE",
+      "text": [
+        "I cannot recommend Bateman’s Bicycle Store. I bought a very expensive custom built bike from them which has caused me great stress and no end of problems. Despite being crystal clear that I wanted to ride upright. I could not easily reach the handlebars and was crunching forward awkwardly. I returned to the store many times for unsuccessful adjustments. Finally Batemans said  nothing that could be done. ",
+        "I also had to return for other shoddy work: the basket was mounted so close to seat, it was not possible to sit on it;  in one unsuccessful attempt to fix the main problem, the shifter was twisted so it could not be reached and the brakes were angled too far down to access; one of the tires kept going flat; the kick stand interfered with bike function etc. ",
+        "As a last resort, we went to Bloomfield Bicycle Company in Prince Edward County which had been very helpful with our old bikes. I learned that the medium bike frame sold to me by Bateman’s is too large/long for my height. ",
+        "Bloomfield were able to replace the handlebars with ones I could reach sitting upright. They also said the grips were too long and large for my hands, and had been installed improperly. They replaced the plastic white clip ties holding the basket which they thought were dangerous  and could snap with black metal clamps. ",
+        "It was very time consuming and costly to go to Prince Edward County since we had to stay overnight in and pay for accommodation. But I can now ride my bike comfortably. I cannot recommend Bateman’s Bicycle Store"
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "BEST BIKE SHOP!",
+      "text": [
+        "Hands down to one of the best bike shops I have ever been, will be with you from start up until the end no matter what happens. Ups and downs Robert will always cater your needs and assist with all your bike needs. Kudos to everyone!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2021"
+    },
+    {
+      "title": "Bike repair smooth and helpful service",
+      "text": [
+        "Brought in an old bike to be tuned up and had some things added/ changed. Very fast service and kind people. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Off season rentals",
+      "text": [
+        "We had done our research but this was the only place offering rental in late October and they looked after us well. With helmets and locks we set off - using a map of cycle routes we picked up in a different cycle shop and couldn’t have done without- and headed through the college district to the waterfront.  Our goal was Tommie Thompson Park a wilderness area grown up from industrial dumping into Lake Ontario.  ",
+        "We had a great cycle on a perfect sunny day and saw a few critters and great views.  ",
+        "Comfortable, well serviced hybrid bikes were a great way to see the outskirts of the city, and the cycle paths and routes were great and safe.",
+        "Great service and great bikes - even in the off season!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "Great bikes and service",
+      "text": [
+        "Perfect city to see via bike... And this is where ya get one. Streets and trails are pretty cracked and bumpy, so slightly softer tyres and/or MTB recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Solo"
+    },
+    {
+      "title": "Very helpful and nice bikes.",
+      "text": [
+        "I rented a road bike and I was happy with the friendly, helpful service, and importantly the quality bike."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "Great CX bike and recommendations",
+      "text": [
+        "I got a Brodie CX bike and a couple of great recommendations where to enjoy a long ride. The bike was excellent and so were the trails. Next time I'm in Toronto, I'll rent here again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Great service, great staff, great quality bikes",
+      "text": [
+        "I rented two bikes from Bateman's in July for a 6 day cycle ride across the Waterfront trail. Bikes were of very good quality and staff were extremely helpful and accommodating. Would definitely rent from them again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Great experience!",
+      "text": [
+        "Great service!  Staff was very helpful and courteous, and the price was right. Fixed my bike in one hour.  Can't beat that!  I will be back to buy a bike next."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Top quality touring bicycle rental.",
+      "text": [
+        "My \"Norco Search\" Cyclocross bike rented from Bateman's for 10 days proved very sturdy, never swerving or oscillating even under considerable load, even quickly going downhill, with a rack mounted above the back wheel, a pair of panniers attached to it, and a backpack strapped on top of the panniers, containing baggage for two weeks, including among other items a two-person tent, a sleeping bag, and a large laptop computer.  It was equipped perfectly with drop handlebars, twenty gears covering a wide range, and excellent disc brakes.  All parts were smooth-running and required no maintenance even after several hundred kilometers on roads of varying qualities (including gravel roads and riding under rain).  This was clearly the best bicycle i found for rent in Canada so far, significantly better than the best i managed to find in Ottawa and Calgary.  Of course, a bike of this quality is not exactly cheap, but trying to economize in this respect would be a terrible idea:  You would ruin your holiday experience or even risk your health with a bike of inadequate quality...",
+        "Service was very friendly, relaxed, and helpful.  For example, a rack was installed on my request even though Bateman's doesn't normally rent out bikes with a rack.  Communication was slightly bumpy; my first email asking all the questions that mattered to me was quickly answered, and to my full satisfaction; consequently, i wrote in again to make the reservation binding, asking for a confirmation, but got no reply even after trying twice.  So i ended up simply reserving via the web form.  When i arrived to collect the bike, it had indeed been reserved, but the required installations (rack, pedals) were not yet done.  No big problem since they were quickly completed on the spot, in my presence.  Anyway, it's a clear case for five stars because what ultimately matters is the quality of the bike provided, and that was spotless."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Great Way to Show Visitors the City",
+      "text": [
+        "I rented two bikes because my friend was visiting from Berlin. I really wanted to show him the awesome side of the city. And Ubering all over would be too expensive. For under $100 each, we had bikes for nearly a week. They were in great condition, lightweight. I heard a lot of horror stories about bike rental places--non of that happened to us. We were able to get bikes pretty quick, and the staff was really helpful. I will rent again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Couples"
+    },
+    {
+      "title": "Linus bikes - great rides!",
+      "text": [
+        "We rented twice. First time, hybrids. These were fine. But second time decided to upgrade for $5 more to the Linus bikes. Great city bikes. Love the handle bar design!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "Gold-medal pedal!",
+      "text": [
+        "I want to offer an unqualified endorsement of Bateman's Bicycle Co. - especially its rental service. I get a sense that whether you are an experienced cross-country rider or a weekend run-about, you'll be completely looked after by their friendly efficient service. They tricked us out with hybrids for a 108-km fundraising bike ride and made arrangements for us to drop off the bikes well after they closed.. I encourage you to check them out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Couples"
+    },
+    {
+      "title": "Great ride!",
+      "text": [
+        "The bikes were in perfect state, locks provided, so it was a stress-free day and a great ride to the beach!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Family"
+    },
+    {
+      "title": "Super friendly neighbourhood biking rental!",
+      "text": [
+        "Highly recommend checking out Bateman's if you want efficient, friendly service and suggestions of things to do and see in the area. Had an awesome Saturday because of them!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Probably the best thing we did while in Toronto!",
+      "text": [
+        "We chose Bateman's because the website gave us a good first impression. Then my colleague contacted them via email and the response to her query in preparation for our trip was almost immediate. I did also email them and Jared responded as well. This people are very patient. We did not pick the bikes the day we were supposed and they still kept them for us. Then Jared suggested i changed the type of bicycle i was renting upon pickup. Much happy he did suggest a change. When we returned the bikes my colleague asked for a glass of water and Jared came back with two juices. I am usually prone to criticize more than to give in to commending but they have outstanding customer service. If you plan to rent a bike please consider doing it from them. Trust a seasoned reviewer."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Business"
+    },
+    {
+      "title": "Great Bike Rental in Toronto",
+      "text": [
+        "Excellent service, convenient location, good bike for a good weekend rate.  Only small niggle was that  the drop off procedure was a bit \"informal\": took the bike in and fellow said something like: \"great, thanks\" Would have  liked a receipt saying that the bike was dropped off in good condition by the agreed time. I think that they might be just getting this going so may not be an issue in future. Overall very satisfied and would definitely use again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Great service",
+      "text": [
+        "I rented a bike from batemans for a race. The bike was ready when I went to pick it up and they made sure it was sized correctly and I was comfortable on it. Excellent customer service. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Solo"
+    },
+    {
+      "title": "Bike rental",
+      "text": [
+        "I rented a great road bike. The bike was in excellent condition with spare tire kit and helmet included. They swapped out the pedals for me so I could wear my bike shoes. Service was very good."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2016 • Business"
+    },
+    {
+      "title": "Great service, great bike",
+      "text": [
+        "Bateman's exceeded my expectation with a recent bike rental. The process, service and quality of the bike were all top notch."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Mountain Bike Rental -24H Summer Solstice Albion Hills",
+      "text": [
+        "I was in search of a bike for the 24H Summer Solstice mountain bike race at Albion Hills and Bateman's Bike Co had just the race whip I needed! I've been interested in trying a 650b mountain bike and they were able to rent me one of their Norco Chargers to try out the week before the race. What a solid bike! The hydraulic disc brakes, wide handlebars and massive tires were very confidence inspiring. I was steamrolling over heavily rooted trails with ease. ",
+        "The rental experience itself was fairly straight forward. I booked a bike on their website and received an email shortly after from James at their rental shop letting me know the exact style of bike I was looking for was available. Upon pickup I was provided with a flat kit and even a few tips about the trails at Albion Hills.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Solo"
+    },
+    {
+      "title": "MTB rental",
+      "text": [
+        "Rented an MTB from batemans and it was in excellent condition, the service was fantastic, and the coordination of pickup/drop off was seamless. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Friends"
+    },
+    {
+      "title": "Great Rental/Service",
+      "text": [
+        "I used to live near the original Bateman's. They were always happy to help me fix my bike, and were the only ones in town who were able to unstuck on my seized pedals. Years later they have expanded and I still go back for the friendly service and sales. This time on a trip to Toronto I was in need of a rental. I walked to the store and minutes later was riding away on a perfectly tuned and fitted bike that made Toronto accessible and enjoyable beyond belief.  Thanks to the guys, especially James, for their hard work and friendly service, I'll be coming back next time around. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Solo"
+    },
+    {
+      "title": "Great bike rental",
+      "text": [
+        "Excellent shop and rental. Have rented numerous times. Quality Norco and brodie bikes. Great cyclocross bikes for the rough roads and fun tracks of Toronto. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Solo"
+    },
+    {
+      "title": "Bike Rental",
+      "text": [
+        "Awesome rental and great experience! Very friendly and helpful staff. Would rent again in a heartbeat! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Solo"
+    },
+    {
+      "title": "Best of Batemans",
+      "text": [
+        "Great quality and speedy service, very thankful to have found this place and their many convenient locations."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Solo"
+    },
+    {
+      "title": "Bike renting in TO",
+      "text": [
+        "I've rented bikes from batemans twice now and each time has been great. The bikes are easy to ride and the pick up and drop off is super simple. The rates are also pretty reasonable. Highly recommed. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Solo"
+    },
+    {
+      "title": "First Time Rental",
+      "text": [
+        "Rented a bike, and everything was great except for 1 issue. I was given a tube with the wrong valve type for my bike, which was a problem when I got a flat. Luckily I had a spare. Otherwise, everything was great, and everyone was super helpful, giving me tons of great tips. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Great road bikes",
+      "text": [
+        "We rented two road bikes for a weekend charity ride. Excellent bikes, great service. Would definitely return."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Bateman's is absolutely my go-to for all bike needs",
+      "text": [
+        "So lucky to have Bateman's around the corner.  Whether it's getting my bike serviced, a new bike for my son, renting one for my visiting niece, or just getting a few new lights, the staff is super--friendly, customer-focused, quick and knowledgeable and the store is very well stocked.  Happy to see your additional location right across the street.  Thank you to everyone at Bateman's!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Family"
+    },
+    {
+      "title": "Road bike rental from Bateman's",
+      "text": [
+        "I'm a local in Toronto, and wanted to go on a longer ride on a road bike. Since I don't own one, rentals were the way to go. I've come to Bateman's before lots of times. They're super knowledgable and friendly. ",
+        "They helped me figure out the size of the bike, showed me how to use the brakes & shifters (yep, this one is important), and shared a route that fit what I was looking for. ",
+        "The daily rental price is a little steep, but it makes sense. The bike was well maintained and that takes time to do."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Solo"
+    },
+    {
+      "title": "Excellent rental service",
+      "text": [
+        "My wife and I rented two hybrids for a 4-day trip along the Lake Ontario and Erie waterfront trails.  The staff was helpful ahead of time ensuring the bikes had racks for our panniers and answering other basic questions",
+        "The bikes were comfortable and in very good condition and they included a flat repair kit with the rental as well as locks for each bike.  At the end of the trip, the bikes were returned rapidly with no paperwork required"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "City/Hybrid rental, Bathurst location",
+      "text": [
+        "The Brodie Tesla was in excellent condition and enjoyable to ride. Mid week in June and was able to rent without a reservation and I was quickly out riding. Very reasonable 24 hour rental fee. Will definitely rent from Bateman's again next time. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Solo"
+    },
+    {
+      "title": "BATEMANS BICYCLE",
+      "text": [
+        "On the last day of my trip I was looking for a good way to explore the city. After a search on the internet I came up with this amazing shop. The rental bikes are in great condition and the price was really good! Would definitely recommend this to anyone visiting Toronto! Great job!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Solo"
+    },
+    {
+      "title": "Rented 2 bikes for a day and loved it",
+      "text": [
+        "I rented 2 hybrid bikes for a day and loved it. The bikes were in good condition, shop keeper was friendly and polite. Would recommend this place for all biking enthusiasts. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Family"
+    },
+    {
+      "title": "Bike hire",
+      "text": [
+        "Bateman's were head and shoulders above competitors for value with bike hire. Good prices and good quality bikes. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Solo"
+    },
+    {
+      "title": "Rental bike",
+      "text": [
+        "Very nice service. Good bicycle in a very good shape and at a very affordable price. They also have a good variety of options to chose.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Solo"
+    },
+    {
+      "title": "BATEMANS BICYLES",
+      "text": [
+        "I was extremely happy with Batemans service and James Keezer was really fabulous! I'll be sure to use them when I visit Toronto again"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Friends"
+    },
+    {
+      "title": "Fun Fun Fun",
+      "text": [
+        "Rented a CX bike for a 100km+ ride around Blue Mountain and Grey's county.  Helpful guys at the shop, bike was great, all in all couldn't have been better."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Solo"
+    },
+    {
+      "title": "Friendly staff, good serivce",
+      "text": [
+        "When I was waiting for my bike fix, they offered me a free cup of coffee. ~So much love. I'd come back anytime."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Solo"
+    }
+  ]
+}

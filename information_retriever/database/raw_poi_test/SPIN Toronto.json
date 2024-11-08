@@ -1,0 +1,384 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "SPIN Toronto",
+    "url": "/Attraction_Review-g155019-d2415211-Reviews-SPIN_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "461 King St W Lower Level",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 1K4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 76
+    },
+    "openingHours": "Tu-Sa 16:00-00:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/fe/ff/18/spin-toronto.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Game & Entertainment Centers"
+  ],
+  "description": "Hi Marla,\n\nThanks so much for sharing your feedback with us! Please let us know if there's anything we can do to make it even better. Hope to see you again soon!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Can't recommend it enough!",
+      "text": [
+        "I really enjoyed my time at SPIN Toronto with my friends! Booking a table online is really seamless and the staff at the King St location are great! ",
+        "Can't wait to go back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Fun work social event",
+      "text": [
+        "I was here for a work social event and it was really fun. The food was tasty and plentiful. If you’re looking for a social activity where people won’t be under pressure to “do” something, I think Spin is perfect, no obligation for guests to play ping pong, you can just eat and drink if that’s what you feel like."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2022 • Business"
+    },
+    {
+      "title": "Over priced and unfriendly",
+      "text": [
+        "Paid $50 to reserve table for a group of 10 and were told we would have a dedicated server. Did not receive a dedicated server. Had to order at the bar that had long waits, expensive beer ($9) and extremely rude bartenders. I could see how this would be fine for some people, especially if you are only there for a half hour but not a great environment in general, wont be back and wouldn't recommend."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Birthday",
+      "text": [
+        "Good service. We had a very good evening.  Lots of fun. Good times. Played ping pong all together taking turns made party more than just a dinner together."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Friends"
+    },
+    {
+      "title": "A great choice for a night out with friends.",
+      "text": [
+        "A friend of mine who lives in the city introduced me to this place a couple years ago and now I keep finding myself bringing first-timers whenever I can because it's a near-guarantee for a good time. It's smart to book a ping-pong table in advance since the place can be pretty busy (which won't affect your enjoyment when you're there - it's full of energetic life). I usually book the table for an hour (I'd recommend a longer visit if you have more than a couple of people so everyone has enough of a chance to play) and I've found that even people who've never played ping pong or given the idea much thought have a total blast when here. There's a full bar and they do serve food (I've never ordered any since I spend all my time playing) so you could very well make an evening out of your visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Proper ping pong pub",
+      "text": [
+        "Visited at teatime with kids of 5 and 10. Staff were very helpful and allowed them to play unfettered by rules or scrutiny. Beer and food was excellent. Worth the effort to find in the alley basement."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Great food, good times!",
+      "text": [
+        "I recently went to SPIN for a work event. I figured ping pong would be fun (and it definitely was) but I was super impressed with the entire experience. The staff was fun, friendly and knowledgeable. They have an impressive beer selection, lots of great, local craft beers and the food was so good! I was expecting your typical pub fare (nachos, deep fried food etc) but we had an amazing cheese and charcuterie spread, veggies, vegan dip and some of the best chicken wings I have ever had! The staff also let us know that pretty much everything is made in house using local ingredients. I would highly recommend SPIN to anyone and definitely want to go back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Business"
+    },
+    {
+      "title": "Fun Night Out",
+      "text": [
+        "Looked for something different to do for a night out and booked an hour here.  Such a great night had.  The food and drinks were reasonable price and the atmosphere was good too.  Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019"
+    },
+    {
+      "title": "Fun night out",
+      "text": [
+        "SPIN is so much fun, and affordable. Not to mention the food was also yummy but most of all the service was great! It was so easy to book and when we got there, the staff were friendly and got us to our table right away. My group and I had such a blast, kudos to the SPIN team on King St."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Fun night out",
+      "text": [
+        "Colleague arranged this for a bunch of us. It’s a nice break from the normal sit down dinner and drinks. Plenty of ping pong balls around so your not chasing yours around. Food and drink option were great. They offered the usual and some more upscale choices. Great way to find out whose really competitive!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Business"
+    },
+    {
+      "title": "Fun Fun Fun !!!",
+      "text": [
+        "Hosted a team event here and the service was awesome!!! We were warmly greeter and five minutes into arriving we were on the tables playing fun games of ping pong!!! Everyone was engaged and the SPiN crew did a great job of coming around with our pre ordered platters of food. The food was amazing!!!! Try the bacon lollipops !!! Delish!!! ",
+        "All in all a great place to get your team together to let off some steam and have some fun! A must do!!! ",
+        "Also this won't be a bad place for a date night! :-) "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016"
+    },
+    {
+      "title": "Much Change",
+      "text": [
+        "Twelve of us on a Friday night decided to stop in to check out ping pong. It was certainly something different to do. The spacious location was a lot of fun. Drinks a bit on the pricey side. We had some laughs and will definitely stop in again. Maybe earlier in the day when the rates are lower!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2016 • Family"
+    },
+    {
+      "title": "Great fun with friends",
+      "text": [
+        "I was skeptical since I haven't played ping pong in ages, but when my Toronto hosts suggested a hour of ping pong before dinner, I agreed and it was a blast! In downtown TO, a big basement style rec room with a bunch of tables, bar and food. You never run out of ping pong balls because someone is constantly refreshing your bucket. Friendly staff give you a 10 min warning as your time draws to a close and then comes round with your check which includes your game time, food and drinks.",
+        "Plenty of room between tables means you're not running into players on other tables. Lots of fun and a good anaerobic workout!",
+        "I discovered there's a SPin in L.A. so I'll be doing this again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2016 • Friends"
+    },
+    {
+      "title": "Great fun for a group event or for table tennis enthusiasts",
+      "text": [
+        "We visited SPiN as a group for a business event, and they ran a great round-robin tournament for us, complete with a scoreboard.  They have many really nice ping pong tables and paddles, and plenty of ping pong balls - which you don't have to pick up if they fall (they have people going around with ingenious \"scoops\" that grab the balls off the ground quickly).  The food was brought out as appetizers and surprisingly really good, lots of welcome items like shrimp and tomato skewers with Old Bay, beef sliders, and some very nice dips and charcuterie.  The bar was attentive and we really just had a lot of laughs and played ping pong.  Music was not too loud and lighting just right.  We saw people from early teens to grandparent age in the place - good for all ages.  Well done!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016 • Business"
+    },
+    {
+      "title": "A different, but fun destination",
+      "text": [
+        "We had friends visiting from the US and they wanted to try something different. We had heard about SPIN and decided to try it out on a Friday afternoon. It was surprisingly quiet, but that was okay. We checked in and were assigned a table near the bar. We ordered some drinks and food and they gave us each a paddle and a bucket of balls. Then the fun began. We're not great players, but we had a super time hitting the balls back and forth. The service was great, the food pretty good and the drinks decent.",
+        "Definitely a place that we would go to again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2016 • Couples"
+    },
+    {
+      "title": "Have fun in Toronto",
+      "text": [
+        "We had a blast and again, they keep to what seems like a Canadian standard with free Wi-Fi! ",
+        "The ping pong tables are nice, they even have a special vip/\"big boys\" lounge section I thought was a decent GQ attempt. Fun is how you can describe the feeling you leave with, with a group of competitive buddies. Did I mention free Wi-Fi @SpinTronto"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016 • Friends"
+    },
+    {
+      "title": "Fun spot for groups",
+      "text": [
+        "This was a cool hangout spot for a birthday event we went to. You can rent tables for a time period and Saturday nights are popular.  ",
+        "This spot brings out the competitive side in peeps and was pretty fun! You don't have to be s world championship player as long as you want to have fun with friends. Still has a clubby vibe and the ping pong balls glow in the dark with some black lights spread around the room.",
+        "Beer and mixed drinks were under $8 each so not horrible for King West prices. Service was solid from checking in on us to the ping pong cleaners around the table areas. Those handy ping pong collecting nets are cool.",
+        "Also, I like to dress up too but checking out the footwear that ladies were wearing for playing ping pong.... Maybe wearing the highest heels and playing the game adds to the challenge.  It is King West after all so I guess it should not have been surprised.",
+        "All in all fun times and I would go back for another group hangout."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "Great idea!",
+      "text": [
+        "I really enjoyed my time at this place. What a fun idea to be able to play ping pong! Add a few drinks and there and voila! Great for a date, different for sure. Must try!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Couples"
+    },
+    {
+      "title": "Successful Business Outing!!",
+      "text": [
+        "We coordinated with SPIN to host a group of 30 customers and I could not have been happier! Telisa and her team did a wonderful job of putting the event together and thought of everything. They made it simple to host a large group from wrist bands for out bar tab to a Ping Pong Ambassador that hosted a tournament for out group. We had Mark as our ambassador and i would highly recommend asking for him specifically! He was energetic, helpful and ensured our group had a blast. SPiN provided the catering which was fast and delicious! Definetly check them out for your next event!! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Business"
+    },
+    {
+      "title": "Such a cool, fun place!",
+      "text": [
+        "We've been talking about going to SPiN for ages - a fun atmosphere to play table tennis (or, Ping Pong, if you prefer) in Toronto. I'm so glad we finally made it happen. You can reserve a table but we opted to go the drop-in route because it's less expensive, and we're impulsive. We lucked out and got a table right away. Paddles and balls are provided (hard core ping pongers - or whatever they call themselves -like my husband can bring their own). The atmosphere had a very cool, laid back vibe that begs you to stay all day (or all evening) and hang out. This place would be great for a first date or a 10th anniversary. The people are very friendly and although they do have competitions (drop in Sunday afternoon at 1pm) it's not a competitive atmosphere. So whether you're a champ like my husband or an amateur like me (I'm happy just to make contact with the ball!) you'll feel welcome and have a great time. They also have a tempting menu that's very reasonably priced and a bar, for limitless fun. What would make it better? A chance run in with Susan Sarandon, who is part owner - she's the epitome of cool, which explains why SPiN has cool mastered. By the way, don't make the same faux pas as my husband - sniffing balls is never cool, even if said balls are broken table tennis balls. LOL.  Go to SPiN - you'll love it! "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Friends"
+    },
+    {
+      "title": "Thanks Susan Sarandon!",
+      "text": [
+        "I was there with business guests and we had two tables reserved along with a pre-selected menu.  Drinks were cold which was good as the air conditioning either wasn't working or couldn't keep up.  Either way each of us drank a lot and sweat more. ",
+        "We had an ambassador there to set up a tournament and show us some moves which I would recommend everyone in a group setting consider hiring as well.  Mostly deep fried food and some really really hot vegetarian chili.  We had guests in a variety of age groups and each of us had a good time even though it was soooooooo hot."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Business"
+    },
+    {
+      "title": "Fun atmosphere with decent food",
+      "text": [
+        "We came here for a work function and had a very fun time.  It was my first time playing ping pong while socializing/eating and it was a great teaming building experience.  Food was good and had a very cool atmosphere.  Only complaint would be the ping pong paddles - some of them were quite old and worn.  Also, they have strict end times for the tables for corporate functions.  We were told/warned 10 minutes beforehand when they needed the tables back."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017 • Business"
+    },
+    {
+      "title": "It's pong. How can you go wrong.",
+      "text": [
+        "Servers we attentive. They Walked around and asked you if you wanted a drink when you looked thirsty from playing an absolute fierce ping pong match. ",
+        "Great space. Fun times and will be back in a heartbeat. ",
+        "Oh! Food isn't half bad. Bar food. But not dive food!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Ping Pong",
+      "text": [
+        "break the routine and have your gatherings with friends, lover and co workers on a fun place where the gathering will be more than just foods and drinks.",
+        "I have been there several times and always had the most amazing time. Book in advance, order some finger food and rounds of drinks and prepare to have a fun time.",
+        "For groups you can book a private room that will allow you to socialize while some are playing.",
+        "The atmosphere is informal, fun, filled with pop music and loud!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "Great idea for a bar",
+      "text": [
+        "If you can get a table, this would be the place to go. We had been told good things about this bar, we came to visit friends in town and they mentioned going. If you called and reserved a table ahead of time then all would go well. But if you show up on a whim, like we did, than it's unlikely you're going to be playing. ",
+        "We decided to stay anyway and grab a drink. That would have been fine if the bartenders even acknowledged us. The bar only had a few people sitting beside us, so not sure why the bartender completely ignored us. We got up and left, instead we drank at the hotel bar we stayed at. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Thanks to ambassador Mark!",
+      "text": [
+        "We hired the private room for casual tournament and food. Thank you to Mark for controlling the very competitive boys! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Business"
+    },
+    {
+      "title": "Great for a corporate event",
+      "text": [
+        "We had a corporate evening event here in January. I found it to be a good combination of competition, music and food.  The place has a speakeasy feel to it as you have to walk down some stairs through heavy doors to below street level facility.  We had a separate area in the back for just our group.  Staff is friendly and do a good job of explaining the rules, managing the causal tournament and serving appetizers.",
+        "The food was of much better quality and variety than I expected.  The place is licensed with a good sized bar.  Ping Pong tables are very good quality but some of the paddles could use replacing.  Seating isn't very comfortable but the whole idea of the place is to be up and playing anyway.",
+        "I son't see this as a regular hangout necessarily but I think it's fantastic for a group event especially when the weather influences a choice of an indoor activity."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2017 • Business"
+    },
+    {
+      "title": "We had fun",
+      "text": [
+        "We were looking for a place to have some Team building activity and this was a very good idea.",
+        "Location is very much in the Center and activity is indeed a nice one especially with the ping-pong ambassador.",
+        "Only the fact that the area is in the Basement and you feel like too much restricted in a dark closed environment."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2017 • Business"
+    },
+    {
+      "title": "Innovative adult fun!",
+      "text": [
+        "This concept came to Canada a couple years back and we have been looking for an opportunity to try it out. The idea of adults going to a Ping Pong club for dinner and fun was sketchy in our view. ",
+        "Well my wife decided she was going to step outside the box. We had 10 friends get together for a casual night out for snacks and ping pong. It started with interesting appetizers certainly fancier than we expected (no wings or pizza). Great tasting finger food such as doubles (Trinidadian), Parmesan fries, deep dish pizza bowl (naan bread honest!). ",
+        "We had fun challenging each other to ping pong while listening to great music. ",
+        "Check it out. Worth a try, but keep it casual. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2017 • Friends"
+    },
+    {
+      "title": "Ping pong room",
+      "text": [
+        "Recently we went to this place with a large group (party) and we had a blast . the food was amazing and fancier than I expected . Highly recommend for parties for both kids and adults ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Friends"
+    },
+    {
+      "title": "Great event for adults and kids",
+      "text": [
+        "We held an event here -  it was so much fun and was loved by adults and kids both.  Private room is great and the staff really did so much to make the event great!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018"
+    },
+    {
+      "title": "Fun!",
+      "text": [
+        "I had a great time at SPiN this past week. It's a great spot to hang out with friends, and is a good mix between nightlife and chill fun ."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "Really fun place to go!!",
+      "text": [
+        "You can go play ping pong!! So fun but make sure you go early or you may not even make the list. Yes,,,,there is a list. Either way you will have a great time there!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Fun couple of hours",
+      "text": [
+        "My partner and I visited Spin after seeing it advertised and knowing I have a love for ping pong. The staff were all lovely, smiley and helpful. Had a laugh playing ping-pong. It’s nice that you don’t have to run around chasing the ball and the staff go round and pick them up periodically. ",
+        "Overall a fun few hours! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Couples"
+    },
+    {
+      "title": "Excellent time at SPiN",
+      "text": [
+        "We visited this place as a group of 4 in the afternoon. It was not really busy so we had a table right away.",
+        "Lots of fun to have playing ping-pong, drinking beer.",
+        "Service was also fast and it's fun to pay at the end so you don't have to pay every time.",
+        "They let us play past our time since there was not a lot of people.",
+        "A great idea for a bar!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Friends"
+    },
+    {
+      "title": "Great with friends!",
+      "text": [
+        "Great environment to go with your friends. The tables are evenly spaced and there are quite a few areas for people who aren't playing to relax. The drinks are priced fairly considering the location, I paid around $8 for a domestic beer. The cost of a 30-minute game was $20 on the weekend and $15 during the week. There was no wait time but I've heard of special events causing longer wait times. The games feel like they go by too fast but they're doing something right because I'd definitely go back."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Good fun at first, but it gets old fast",
+      "text": [
+        "Participated in a event as a group, and the place was nice, washrooms were clean and private to our area. Staff at the bar seemed a bit bothered to be serving our group, which was mostly \"paying\" with free drink tickets given to us by the company that was hosting the event. Serving staff was nice, and the food was plentiful and great tasting. Playing ping pong with a group is fun, but it gets old pretty fast. Apart from one or two games each, most people got bored easily. Not a lot of sitting space (as expected, after all, you're supposed to be there to play), so it made for a less ideal environment for such a big group to socialize if they were not playing. The place was still good fun."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2017 • Friends"
+    },
+    {
+      "title": "Good place to play Ping Pong",
+      "text": [
+        "I got invited for a product launch party from work at SPiN. ",
+        "Have been there a couple of times already, so the place is not new to me. You can play ping pong/ table tennis on minimum  12 tables that I counted on site or just chill out at the bar. You can either play a tournament amongst your friends or just hit the ball for fun. ",
+        "They have a basket of balls nearby and you don’t have to pick up any fallen balls as people around quickly “sweep” them. The only complaint I have is there are spots that are too dark and the spots that are lighted are dim, particularly when you first enter. You have to get used to the lights. Perfect for a bar or lounge, but not as much for playing and chatting with people around.  ",
+        "The food served was good - on a platter all finger foods. There was a small sign in each of the picnic table where the food was, but sometimes difficult to read and also which dishes which were which. Two dips in platters and one had dairy and one did not. ",
+        "But a good experience overall as the staff were helpful. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2017 • Business"
+    },
+    {
+      "title": "What a Ball!!",
+      "text": [
+        "Spin is a very cool place.  There are at least 20 ping pong tables, they serve food and after 9PM it becomes an adult only bar/club.  You can be a Member, rent a table(s) in advance or just walk in. You get four paddles and a bucket of balls.  ",
+        "We had a great time and we can't wait to go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Balls are their business",
+      "text": [
+        "Unbelievably FUN, this place will resurrect your inner child for sure. It's higher end than your regular pool hall atmosphere, but also super chill and just plain fun! The ball wranglers are awesome!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Business"
+    }
+  ]
+}

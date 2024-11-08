@@ -1,0 +1,231 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Feathers Pub",
+    "url": "/Attraction_Review-g155019-d5920048-Reviews-The_Feathers_Pub-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "962 Kingston Rd",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4E 1S7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 23
+    },
+    "openingHours": [
+      "Mo-Th 11:00-00:00",
+      "Fr-Sa 11:00-01:00",
+      "Su 11:00-23:00"
+    ],
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bars & Clubs"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Totally disappointed!!!!!!!",
+      "text": [
+        "I have been going to this pub for 4-5 years. One of my favourite dishes was the Chili. Before the take over it came covered in cheese with thick slices of bread. Last Saturday it was a mushy mess in a flat soup bowl with a sprinkling of melted cheese in the middle. The bread was 2 slices of char broiled diet crisp bread, probably 21/2” X 11/2”. They have absolutely destroyed this wonderful dish and raised the price. A 2 star night."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2024 • Friends"
+    },
+    {
+      "title": "Disappointed",
+      "text": [
+        "Let's start with the good and even, great :  Real deal British pub and local favourite. Decor complete with patterned red carpet, cozy oak trim, pressed tin ceilings and quaint velvet banquettes. Friendly staff and good vibes.",
+        "Not a beer or ale drinker so can only comment on wine which was average. The big con was the food --- had roast beef special. Reminded me of homecooked Sunday dinners from long ago. However, the food on the entire plate was cool. Not warm even, but cool. Same for my friend's -- her fries were only partially cooked. For this reason my review dropped from what could have easily been a 5 to a 3. Nice staff but too few serving  on a busy evening which could explain why the food came out late and  was sub par. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "Very good pub take-out food! Fish and chips especially tasty.",
+      "text": [
+        "First pick-up order from this popular community pub  shut down temporarily for inside service by COVID-19 pandemic restrictions. Easy ordering; fast on-time preparation; courteous service; very good food; reasonable prices.  Plan to return."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "More Pub then restaurant",
+      "text": [
+        "I've been there several times to meet friends. Its a very friendly social place. It's an older crowd, live music on Saturday night, great scotch selection, lots of talking so its a little loud at times. They have a good menu but the food is below par. The wait staff work hard to get the food out. The last 3 meals I've had were either cold or bland or weird. The Greek style mussels were cold and the broth was clearish and sickly sweet. My friend could not even eat their homestyle mac and cheese. As I said this is not the first time I've wasted my money so I feel I gave them a chance. Go for a drink and a good time be warned about the food"
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Best Scotch Whiskey bar in the city",
+      "text": [
+        "The menu has changed a few times and l do miss the menu old. No steak and kidney pie and it use to be the best. The hamburger was  still very good. Use to be the best but they are using cheap buns. Great ingredients except the bun."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Friday Lunch",
+      "text": [
+        "Great atmosphere and super service. Nice but limited draught menu. The food is okay but not up to the standard of the atmosphere or service."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Great whisky bar",
+      "text": [
+        "l have been going here for many years. The new owner is nice and the waitstaff is awesome. Good beer and good food."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2016 • Friends"
+    },
+    {
+      "title": "Wonderful spot for meeting up with friends ",
+      "text": [
+        "What a nice place with very good food and drink.",
+        "Meet up with all and enjoy the afternoon to shoot darts and have a drink",
+        "See you there ",
+        "Michael"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "Great place",
+      "text": [
+        "Was there with a novice group for Scotch tasting.  Food was good, Scotch was great.  Would have preferred a human guide vs. a piece of paper.  Otherwise, the most authentic pub I've encountered in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "Nice neighbourhood pub- food was ok",
+      "text": [
+        "We went because my partner wanted to try the Sunday dinner. The place has a very much English pub feel complete with carpeting on the floor. Great place to go for a pint. The roast dinner was quite good- vegetables were cooked perfect, beef tasted good, good gravy.... The mash was a bit lumpy and the Yorkshires were a bit over cooked. I had the vegetable korma. Not so good. I could have made this dish at home with a can of chickpeas, canned tomatoes and a bit of curry. It was very bland."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2017 • Couples"
+    },
+    {
+      "title": "I wanted to like it",
+      "text": [
+        "I really wish I could have had a better time at this place.  It's about a 1 minute drive, 5 minute walk away and I would have gone there frequently if I didn't get so turned off by it. ",
+        "The food was pretty good and the service was fast. But unfortunately our server was a bit rude and abrupt with us. ",
+        "I mean she was OK I guess. But I don't relish the thought of spending money at an establishment that makes me feel like I'm walking on eggshells or interrupting to ask for another pint. ",
+        "I've kept it on the list as an option but every time we say \"hmm maybe feathers tonight?\" I immediately think \"Id rather not\""
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2015 • Couples"
+    },
+    {
+      "title": "English Pub with Great Whiskey",
+      "text": [
+        "My husband is English and I often joke that the Feathers feels more English to me than the pub we go to in his village at home.  Good proper pub food and the more North American pub food as well.  Dart players, lots of red and that crazy designed carpet that still doesn't seem to go away in England.  A good local and if you're into whiskey, they have one of the best whiskey selections in North America."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2015 • Friends"
+    },
+    {
+      "title": "Wonderful Neighbourhood Pub ",
+      "text": [
+        "Great food, great scotch menu, food and service. What more can you ask for!",
+        "Would recommend to anyone.",
+        "Just remember to show up early on Fridays!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Friends"
+    },
+    {
+      "title": "Aye Yours Aye",
+      "text": [
+        "There will never be enough Scottish ( Not just Celtic/Irish) Pubs! This is a REAL Scottish pub with a long stand up bar, a small eating area and yes Scotch tastings if desired. As a favorite of locals it can also serve as a destination spot of Scotland i on yopur mind. Yours Aye!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "Atmosphere plus and good things all around",
+      "text": [
+        "Some friends suggested we try this place. It was close to where were were heading for a concert.",
+        "It was full, warm, happily loud, and blazing with a terrific vibe and atmosphere.",
+        "This place has the most amazing scotch/whiskey selection I've ever seen anywhere. Prices range from pretty good to over the moon, reflecting the myriad choices.",
+        "The food was good.",
+        "My wife had a nachos plate, which was nicely presented and well loaded as it should be.",
+        "I had the cottage pie, which was very good.",
+        "Because the place was full, we shared a table with a lovely couple who are regulars. In fact, a lot of people there seemed to know each other. It really is on one those lovely 'local' pubs. We had a delightful chat, with them giving us much history about the pub and the community. ",
+        "It was fun! And the prices were reasonable."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2016 • Couples"
+    },
+    {
+      "title": "Fantastic food!",
+      "text": [
+        "This is an old favorite of the locals because of it's casual style and great food.  The front is an english style pub with comfy seats and great scotch and beer.  The back is a dining area with more privacy.  I had a mac and cheese with ceasar salad and garlic bread. Yum, just perfect.  My husband loves the bangers and mash, served with loads of veges.",
+        "We have eaten here many times over many years, and still come back cause the food is terrific."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016 • Couples"
+    },
+    {
+      "title": "Pub Favored by the Locals",
+      "text": [
+        "Great atmosphere with an \"old English pub.\"  Lots of locals who are both friendly and patient with tourists (even Americans!).  We really liked the menu selection and the food - for a pub - was great.  Eating at The Feathers was an unexpected plus as we began our adventure in Toronto.  Note: We stayed in the Upper Beaches area, so walking to and from Kingston was no problem."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2016 • Family"
+    },
+    {
+      "title": "Fantastic time.  Good food.  Great drinks ",
+      "text": [
+        "Feathers.. Drove by this place for years then decided to finally go with a few friends.  I can't express how amazing the experience was. Loved the whiskey tour.  It was hell of a time.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2016 • Friends"
+    },
+    {
+      "title": "A favourite local pub",
+      "text": [
+        "Fab food, great selection of beers and especially a great selection rare scotches (though this selection is sadly dwindling, still much to explore). We've been visiting there ever few months for a few years now and always enjoy our visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "Great Pub, Great Food, Unbelievable collection of Scotches",
+      "text": [
+        "Unbelievable selection of Scotches for those that enjoy a good Scotch!",
+        "Better then average pub food. Try the Summer or Winter salads or the Prime Rib special.",
+        "Live music is also presented and dart boards are available.",
+        "A solid neighbourhood pub."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Couples"
+    },
+    {
+      "title": "Evening out with Great Friends at Feathers Pub",
+      "text": [
+        "We invited a small group of friends to join us at nearby Feathers... Everyone thought the food was good, generous portions , great atmosphere & very reasonably priced.some ordered the Saturday night roast beef special & were pleasantly surprised with the lovely vegetables included ... broccoli & beets .... salmon meal also delicious as was the fish and chips!!! One friend in particular enjoys his scotch and was extremely impressed with the extensive Scotch selection ... one of the best he had ever seen!!! ",
+        "a Great  evening out with a small group of close friends / Old English pub style !!! thank-you Feathers"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2015 • Couples"
+    },
+    {
+      "title": "A great English pub in the East End!",
+      "text": [
+        "Although this is listed under \"Attractions\", it's a pub :)",
+        "My husband and I visited here twice -- once just for drinks, the second time for lunch. Both times were lovely -- good food (really, really good) excellent pints (my husband recommends the Flowers ESB) good cider and a real English pub feeling. The owner/manager was run off her feet both times, but she always had a smile for the customers. Nice mix of people and ages in the pub too, just like a real local.",
+        "I understand the whiskey selection is pretty great, too :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2015 • Couples"
+    }
+  ]
+}

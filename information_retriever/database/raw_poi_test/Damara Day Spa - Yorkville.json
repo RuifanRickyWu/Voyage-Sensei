@@ -1,0 +1,370 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Damara Day Spa - Yorkville",
+    "url": "/Attraction_Review-g155019-d797193-Reviews-Damara_Day_Spa_Yorkville-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "66 Avenue Road ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5R 3N8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 546
+    },
+    "openingHours": [
+      "Mo,Th,Sa 10:00-19:00",
+      "Tu 10:00-17:00",
+      "We,Su 10:00-18:00",
+      "Fr 10:00-20:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/68/c1/46/novo-spa.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": "Welcome to Damara Day Spa Yorkville, your premier destination for luxury wellness and relaxation in the heart of Toronto’s iconic Yorkville neighborhood. Formerly known as Novo Spa, which has been a trusted name in the community since 2013, our spa continues the legacy of exceptional service with a modern, rejuvenating twist. At Damara Day Spa, we offer a wide range of personalized treatments, including massages, facials, and body therapies, all designed to restore balance and tranquility. Our expert therapists use high-quality products to deliver a memorable and transformative experience, leaving you refreshed and revitalized. Whether you're seeking a peaceful escape or a therapeutic session, Damara Day Spa Yorkville is dedicated to your well-being. Come and experience the perfect blend of relaxation and renewal in our serene spa environment. Book your appointment today and discover why we’re Yorkville’s premier destination for wellness",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Novo Spa Luxury for 2 ",
+      "text": [
+        "Staff was friendly and patient. As this was a unique and new experience for my husband and I we were treated kindly, respectfully and were ensured comfort, intimacy, and privacey. Therapists took the time to explain and ask permission prior to performing the Swedish massage. They were intuitive and conversed with us and made us feel at home.  They often checked that we were comfortable and took care to adjust technique as needed for personnal preference. The Luxury for Two package was an amazing deal  and experience for us.  After traveling it was much needed for relaxation. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Amazing spa and excellent service ",
+      "text": [
+        "Amazing spa! What a great experience! Loved the atmosphere and service. The staff were very accommodating and went above and beyond. I would definitely go back! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Great Experience at Novo Spa",
+      "text": [
+        "My adult daughter and I enjoyed a half day spa experience, with lunch.  We had massages, facials and mani/pedis.",
+        "All services were professionally and plesantly delivered with amazing smelling products.",
+        "The food was brought in from Freshii's and was fresh and tasty.",
+        "The day went about 45 minutes longer than advertised, but we didn't feel rushed to get out nor did the estheticians look hurried.  It was a great day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Family"
+    },
+    {
+      "title": "Fantastic Toronto spa",
+      "text": [
+        "Amazing facial and beautiful, serene setting. The spa feels like one of the high end hotel spas. Friendly staff and lovely esthetician. I loved my Eminence facial! The products are organic and smell wonderful. The customized facial came with a scalp and arm, neck and head massage. A great morning spent here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Friends"
+    },
+    {
+      "title": "Best experience ever",
+      "text": [
+        "We went to novo spa with my husband and did the face and body organic care for couples. We had Angela and Timea, it was just great! It is probably our best experience among the few we have done so far! We will come back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Novo Paradise",
+      "text": [
+        "Wonderful experience!  The services rendered were very professional. We had a great time. The lunch was delicious. Kudos to the women who took such great care of us. You’re a super bunch of women.😊"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Family"
+    },
+    {
+      "title": "Lovely relaxing experience",
+      "text": [
+        "I very much enjoyed the services and the staff were all extremely nice.  My only suggestion might be to have something more interesting than plain water..perhaps add some cucumber or lime/lemon and Dad’s cookies seemed an unusual choice for such a lovely spa."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "My excellent visit to Novo Spa",
+      "text": [
+        "I left my expensive bracelet there in the treatment room and they were so honest and called me to tell me it was left there.  I really appreciated this."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Good Not GREAT",
+      "text": [
+        "I was gifted the Ladies Spa Day Package. It included a Massage, Facial and Mani/Pedi. ",
+        "Massage was fantastic - really knew where I needed the most work. Facial was good - products were scented beautifully. ",
+        "My downfalls came with the Mani + Pedi and the overall spa experience. ",
+        "My mani and pedi polish completely came off the next day + it was shellac! Really wish I didn’t waste all the time doing that. ",
+        "Pre-Pandemic I had visited Novo Spa and had a great experience. I was disappointed that a lot of things were not communicated to me before arriving. ",
+        "There was no robe given to change into and no showers open to use. Constantly having to change into my clothes after each service, really uncomfortable. ",
+        "Having to go out into the main lobby and wait for the next service really took away from my overall experience of a “spa day”. ",
+        "Because I attended on a long weekend the grocery store was closed + my lunch that wa s included was missed and I was not allowed to eat it in the spa as the lounge was closed and would have to take it to go. ",
+        "Good but just not GREAT this time around. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Always love the spa…",
+      "text": [
+        "Shannon is wonderful, unfortunately COVID has changed things a bit but still a wonderful spa :) Your skin will look and feel good after a facial/micro!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Best Day Spa in the City",
+      "text": [
+        "Novo is my go to spa for facials and massages.  I am a regular customer and visit every 3 months for facials and massages.  The team are exemplary from the front desk to the esthetician and RMT."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Came in stressed and left relaxed",
+      "text": [
+        "I always love my experience at Novo Spa.   The spa itself is simple and never overcrowded and it’s one of the most consistent massage experiences ever.  Nice touches include hot towels to remove massage oil and a nice eye mask when neck and shoulders are being massaged.",
+        "Complimentary tea and flavoured water are always a nice touch post massage. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Excellent Treatment!",
+      "text": [
+        "I had a deep tissue massage with Karen and it was excellent! Karen's knowledge of anatomy really helped to pin-point the problem areas and relieve a lot of pressure. She uses an intuitive approach in her sessions that greatly enhances the overall experience. I will definately go back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "Massage Treatment",
+      "text": [
+        "Facility is great and clean. Staff are very friendly, professional and most important extremely knowledgeable. I have been coming here every 3 weeks for over a year and a half and will continue."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Couples Paradise",
+      "text": [
+        "Relaxing experience for my wife and I. We had the chance to experience the couples paradise in the private room. Would definitely visit again.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Great facility for rest and relaxation!",
+      "text": [
+        "Veronica was friendly and knowledgeable.  She recommended a facial to me and explained why it was beneficial.  Spa was a clean; relaxing environment."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Excellent service",
+      "text": [
+        "My daughter and me had a massage and a facial package.",
+        "We had a very good relaxing time. ",
+        "Definitely we will come back."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Family"
+    },
+    {
+      "title": "Great mani pedi",
+      "text": [
+        "Always friendly, accommodating of short notice requests, efficient , relaxed and excellent quality mani/ pedi. Special kudos to Robin"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Loved it",
+      "text": [
+        "Great place to relax. Upscale and Registered Massage therapist was amazing. I would definitely go back. It is a bit pricey tho."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Best Toronto Facial!",
+      "text": [
+        "I love the ambience, music, lighting and location of this spa, which is so conducive to relaxation.  Charlotte did a wonderful job on my facial!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Excellent and Consistent",
+      "text": [
+        "The services here are consistently excellent. The staff are all knowledgeable, friendly, and professional. The facilities are very comfortable and always clean. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Solo"
+    },
+    {
+      "title": "Anniversary",
+      "text": [
+        "Each time is better then the last! :D The massages were amazing!! Thanks so much Janet and Tanya!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Massage and facial.",
+      "text": [
+        "Great massage.  ",
+        "I have been going to Novo Spa for a few years.  I mainly have facials and massages.  The therapists at Novo Spa are well trained and provide an excellent therapeutic massage.  I have also had excellent facials there as well.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Solo"
+    },
+    {
+      "title": "Most relaxing experience with incredible staff",
+      "text": [
+        "I have come many times to the spa for shellac manicures which are always amazing but this time I decided to have a facial! From the moment I walked in the door the front desk staff were warm and friendly! There was a busy energy  and nice atmosphere in the spa and it smelt fantastic! I changed and relaxed in the lounge until my appointment. I was greeted by a lovely therapist who made me feel so at ease and helped me with my skin as I had been really struggling with it being so dry recently - thank you Charlotte! I will certainly be back and would reccomend to all my friends! Thank you Novo spa - I look forward to my next visit!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Solo"
+    },
+    {
+      "title": "Worst experience ever!! Avoid this place like the plague!!",
+      "text": [
+        "Horrific experience at Novo Spa. This was supposed to be a super relaxing birthday spent at the spa and turned out to be the most unpleasant experience. DO NOT COME HERE! There are literally a million other more qualified spas in the city of Toronto. My boyfriend booked me a full day spa at this ridiculous establishment and even though the services were fine, the experience at the end ruined the whole day that was meant to be a treat. When my boyfriend booked he gave whoever took the reservation his credit card information, because this was a gift. When I go to hand in the keys, I was told that I had to pay for the bill. I inform the lady in reception that this is supposed to be a gift, she says it hasn’t been paid for yet and tells me the price owed. I inform her that I heard my boyfriend give his cc info and she just couldn’t be bothered to listen and just wanted to be paid the money. Not bothering to find a solution like call my bf that made the reservation, to get his cc info for the authorized payment, or call him to clarify the misunderstanding. Just totally rude with a horrific attitude that should not be working in the service industry. A bill over $500 and you don’t have the decency to treat customers with respect. I will not be returning to this establishment and anyone reading this shouldn’t either, do not waste your money, there are much better spas with actual good service all around the city. I called my boyfriend upset after the incident and he called the spa to rectify the situation and got hung up on, for a better idea on how customers are treated here. He tried calling back and no one picked up. To management the girl at reception that took my payment is the worst person to be working in the service industry, reconsider her employment as she’s taking money away from your business. I’ll be spreading the news to any and all friends and colleagues. Instead of leaving relaxed and calm after a full day at the spa I left agitated and upset, thanks Novo Spa and thank you for the garbage service at reception."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2019 • Solo"
+    },
+    {
+      "title": "Loved my visit",
+      "text": [
+        "The staff are all very professional, facial by Monique was one of the best I have ever had and the mani/pedi by Yuko was excellent! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Solo"
+    },
+    {
+      "title": "Good massage therapists, less then enthusiastic employee's.",
+      "text": [
+        "The first thing we did was arrive promptly 15 minutes before our appointment. While it is standard to fill out a health form we were not informed we had to do so beforehand or that we could do it online. Thus the extra fifteen minutes that we were told could be used to go into a sauna was needed to fill out the health form. The front desk staff just to say acknowledged our presence, I even had to be the one who offered my friend a glass of water. It was funny and we giggled because it felt like we were doing the front desk jobs. When we had trouble with the iPad, we ended up figuring it out instead of the front desk coming over and offering to assist us, despite us clearly articulation questions outloud. The massage therapist were very good and the place was very clean. It does have a relaxing atmosphere. Especially when you're lounging in the chairs. But would I go back? Maybe. I haven't decided yet."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Excellent and friendly service",
+      "text": [
+        "As always, Novo Spa staff providing services are professional and friendly. This is my go-to spot for manicures and pedicures."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Solo"
+    },
+    {
+      "title": "Girls Spa Day",
+      "text": [
+        "We had a wonderful experience.  Every person we met was professional, pleasant and friendly. The spa was lovely and clean. The atmosphere was relaxing and soothing. Lots of healthy treats and beverages. We enjoyed the services we selected. We are still talking about them a week later. Great directions provided on the website. Will be a return visitor. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "60 Min Massage",
+      "text": [
+        "Janet was phenomenal and focused on targeting everything I described. Exceeded expectations to say the least! Booked my follow up visit!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Overall",
+      "text": [
+        "Overall the severs was good and the staff kind and friendly and I would recommend friends and family at Novo spa."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "My Go to Spa",
+      "text": [
+        "I stumbled across Novo Spa years ago and keep on coming back regularly. Excellent massage therapists and estheticians. I also get gift certificates for friends and family. Elegant but not stuffy, lovely relaxing lounge areas and friendly staff. Highly recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Awesome pedicure",
+      "text": [
+        "pedicures here are such a treat! they have the best massage chairs I’ve ever tried. They do a menthol foot scrub that leave your feet feeling super fresh and relaxed followed by an amazing chocolate moisture mask that smells so good you want to eat it! They even have hot chocolate (or herbal tea) to sip on well you relax. The staff are so friendly and are very attentive always making sure you are comfortable. Love it here 💕"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "\"And I'm worth it!\"",
+      "text": [
+        "I know that slogan is used elsewhere....but, I couldn't think of any better way to say: my manicure/pedicure was fantastic and much needed.",
+        "It's calm, soothing and the service is lovingly given...GO!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Excellent service at Novo Spa.",
+      "text": [
+        "The service was excellent. The atmosphere is great. I always feel welcome. Location is good, walking distance from home."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Solo"
+    },
+    {
+      "title": "Incredible visit to Novo Spa",
+      "text": [
+        "The staff at Novo Spa is highly experienced and friendly. I had a fabulous facial with Trang. It was a relaxing atmosphere and I can’t wait until my next visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Solo"
+    },
+    {
+      "title": "Massage, facial mani pedi",
+      "text": [
+        "This is a top rated Toronto Spa.  Professional, friendly and great staff in all departments.  The prices make this spa a great value. 5 Stars"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Solo"
+    },
+    {
+      "title": "facial at novo spa",
+      "text": [
+        "Lovely facial as usual but unfortunately it started 30+ minutes late!  Nobody informed me she was running late and the receptionists were totally unaware of this problem until I asked what was happening!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Solo"
+    },
+    {
+      "title": "A hidden gem",
+      "text": [
+        "I called Novo Spa last minute hoping to squeeze in and the staff went above and beyond making several treatments work for my guest and I. The treatments were amazing and the staff were so thoughtful and took their time each step of the way. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Family"
+    },
+    {
+      "title": "Spa day",
+      "text": [
+        "1 hour massage and deluxe pedicure, absolute perfection. Hands down best spa in Toronto. Cathy for massage,  Diana for pedicure - highly recommend these lovely ladies!! Novo aestheticians are a world better than those at Ste. Anne's, Scandinave, Elmwood, 4 Seasons, Pillar & Post, etc..."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Solo"
+    }
+  ]
+}

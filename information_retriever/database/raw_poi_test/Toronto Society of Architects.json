@@ -1,0 +1,367 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Society of Architects",
+    "url": "/Attraction_Review-g155019-d4007587-Reviews-Toronto_Society_of_Architects-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "100 Queen St W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5H 2N1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 48
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c7/af/d8/royal-ontario-museum.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Cultural Tours"
+  ],
+  "description": "Established in 1887, the Toronto Society of Architects is among Canada's oldest architecture and design advocacy organizations. A volunteer-based, non-profit organization, the TSA plays an important role in Toronto, ensuring architecture and design are key considerations in public discussions and in processes that have an impact on our built environment. Our architecture tours are part of our efforts to promote and showcase architecture in the city, and our professionally-trained volunteer guides will share with you the stories behind the architecture, landscape and art of our wonderful city!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Highly recommended",
+      "text": [
+        "Highly recommend the architecture tours - I was visiting Toronto and booked three over a weekend which was intense but very rewarding. The guides all had really insightful and rich storytelling. I'll definitely do more on my next visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Always fascinating",
+      "text": [
+        "Whether you're a local or a tourist, there is no better way to see and learn about the several sides of Toronto.  Each tour offers a unique experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "We Enjoyed It",
+      "text": [
+        "We did the 'New Meets Old' tour.  Nice walk through some nice, and interesting, locales.  Just about the right amount of information delivered by knowledgeable tour guide, an Toronto architect.  In our case, enjoyment definitely helped by a beautiful October weather.  We both had a number of experiences of the sort \"40 years I've been aware of this area, but didn't know this view existed...\"  Recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Really great experience",
+      "text": [
+        "We took part in the \"Old meets new\" tour and were completely thrilled. It was just the right mix of information about architecture and a walk around the neighborhood. Our guide was very friendly, well prepared and also took time to talk to us after the tour. All in all, delightful 90 minutes for us, which we really enjoyed during our Toronto vacation. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Great tour",
+      "text": [
+        "Great tour! Nice way to explore the city. Even as a local I always find a new spot and get to see things I wouldn’t normally notice."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Best way of leaning about art and design in Toronto",
+      "text": [
+        "We have been a fan of TSO for a while, to keep in touch with good design and history of Toronto. The tours are fantastic  way to spend a few hours walking the city and learning about the stories that shaped it. It's fun, pleasant and you learn while being entertain. I highly recommend it for anyone that loves art, design architecture and history.."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Excellent experience",
+      "text": [
+        "The guides were very knowledgeable. The tour was very informative and well organized. Definitely I will  recommend it  to my family and friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Great tour of Toronto's downtown towers",
+      "text": [
+        "Found the tour very informative and the guides were very knowledgeable. I was born and raised in downtown Toronto and I learned a few new things. Loved the 'hidden' park on the 4th floor of the CIBC South Tower building"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "TSA walking tour.",
+      "text": [
+        "Amazing. Toronto walking tour prepared and guided by TSA are a perfect way to know the unknown of Toronto. St Lawrence market, The Flat building, St James Church... gorgeous. Thanks!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Entertainment district tour.",
+      "text": [
+        "I enjoyed this tour so much. Super informative. Super entertaining!!I would absolutely do another. I loved hearing the history and the future plans for the area."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Fantastic waterfront tour",
+      "text": [
+        "Awesome tour of the toronto waterfront. There is nothing like learning about the city with architects! We got to see and learn about the history of the waterfront, it’s architecture and the design of the public spaces. Highly recommend this for newcomers to the city and other architecture lovers."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Couples"
+    },
+    {
+      "title": "Entertainment District Tour",
+      "text": [
+        "I went with my son to the Entertainment District tour, there were only three of, us so it was a very interactive and fun experience. The tour was very informative and the staff were very friendly and knowledgeable. I love to walk around the City exploring its neighborhoods & buildings, so it was wonderful to get to know the history and the stories behind these buildings. Overall, It was a very enjoyable evening. Kudos to the TSA organizers."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Family"
+    },
+    {
+      "title": "Fantastic",
+      "text": [
+        "I took my parents on the two hour tour of the financial district. The fourth registered person did not show up so we had a very intimate experience. The tour guide was knowledgeable and willing to express their own opinion. They tailored the tour to what we were interested in. We're excited to experience the other tours. ",
+        "We forgot to tip our guide at the end and feel absolutely awful about it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "EXCELLENT all-around!",
+      "text": [
+        "We had the pleasure of booking a private group tour with the head of the program, Joel, and he was incredible from start to finish! We were hosting important guests who were visiting Toronto for the first time, and Joel did a stellar job at delivering everything we had asked for, and more! ",
+        "On the tour itself, Joel had excellent product knowledge, which when accompanied with his sense of humour and courtesy, made the tour extremely pleasant. He was also very accommodating with all our questions, and somehow managed to bring the sun out on an otherwise very rainy day! ",
+        "Can't stop recommending this to everyone! Thanks a ton, Joel!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Business"
+    },
+    {
+      "title": "Arts and Performance Tour",
+      "text": [
+        "This was a great way to stop and enjoy spots in the city I live in while learning more about the history around us. The tour guide was FANTASTIC! Very knowledgable and dare I say cute (get Joel if you can). I learned a tremendous amount. The weather was perfect. Also there's something about a walking tour that gives you time to appreciate what you're seeing that you wouldn't get from a bus tour or otherwise. I found that it wasn't too far to walk but covered a large historical period. Also it was during TIFF so the area was alive and the atmosphere was great. Excellent job to the folks who put these together, I highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Arts and Performance Tour",
+      "text": [
+        "Took the Arts and Performance Tour and had a great time. The tour guide was very personable and very knowledgeable. The walk is mostly level, with few hills, and only up to a couple miles at most, but covers a wide range of buildings and topics. it's a great way to experience the city.",
+        "The next time I'm in Toronto, I'd love to take one of the other tours."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Art and Architecture tour",
+      "text": [
+        "What a terrific time I had this morning learning so much about buildings that I've looked at for so long.  Terrific tour guide brought everything to life with stories that were the background that informed the participants.  Thumbs way up!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017"
+    },
+    {
+      "title": "Adds Depth To Toronto's Cityscape",
+      "text": [
+        "You can spend years walking through downtown Toronto and not know even a tiny fraction of what you'll hear on this tour. Our tour guide provided interesting facts and stories both historical and modern. I particularly enjoyed the stories behind some of the rumours that I've heard over the years. And having architectural design features pointed out is helpful to those, like me, that are otherwise oblivious."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2015 • Couples"
+    },
+    {
+      "title": "A great tour to read the documentary memory of the city",
+      "text": [
+        "It was such an amazing tour!",
+        "As new comers and internationally trained architects, we formed a group from IPLAN to the towers tour, which started from City Hall and ended with Brookfield Place, through 14 other projects having particular roles in the city history.",
+        "It was so knowledgeable and enjoyable to experience the wonderful tour led by our guide, Daniel, who introduced these buildings architecturally and historically, illustrating the images of urban and social development of this city. I feel really lucky to experience this.",
+        "I appreciate the work of TSA. Thank you, Daniel!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2015 • Solo"
+    },
+    {
+      "title": "3 Days of Great Tours!",
+      "text": [
+        "I came to Toronto with a group of architecture enthusiasts from Chicago and enjoyed 3 days of very informative tours. We explored Downtown Toronto, the Distillery District, Cabbage Town and the University of Toronto. The tour guides were very knowledgeable and engaging. Their love for Toronto and its beautiful architecture and neighborhoods was inspiring. I learned so much. Thank you for a great experience. I will be telling everyone I know visiting Toronto about your tours."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2014 • Friends"
+    },
+    {
+      "title": "St. Lawrence Tour of Old Toronto",
+      "text": [
+        "The St. Lawrence tour of old Toronto was very informative and enjoyable. Two hours of history with an extremely friendly guide."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Great way to get to know about the history and culture of the city!!",
+      "text": [
+        "Fantastic for both locals and tourists!  As locals we were thrilled to learn more about our neighborhood - and the couple visiting TO on our tour also loved it.  Highly recommend - they have mikes with speakers and there were plenty of chances to sit, listen and learn! Hope to do more of these!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Couples"
+    },
+    {
+      "title": "Wonderful walking tour of Toronto",
+      "text": [
+        "I have done several walking tours put on by the Toronto Society of Architects; the latest tour covered  the St Lawrence neighborhood  tour and it was wonderful. I bought friends from the city along Wirth a friend visiting from the US and we all enjoyed the tour.  The tour was informative and the tour guide was excellent!  its especially impressive that these tours are run by working architects who guide these tours as volunteers.  I highly recommend the TSA walking tours."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "A great way to acquire knowledge with live tour",
+      "text": [
+        "This tour is the best way to induce some knowledge about the history and development of the towers. The tour is quite affordable, interesting and intriguing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Solo"
+    },
+    {
+      "title": "Great tour, learnt a lot of things, you can go eyes closed",
+      "text": [
+        "We did the Tower Architect Tour and we loved it. Guide was very clear and knew her stuff. it was very interesting, not at all boring, we learnt a lot of things. The duration of the tour is perfect and the price very worth it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "The passion for architecture comes through",
+      "text": [
+        "We organized a team-building tour with the TSA in the last week of May. In organizing the private tour, our contact and guide Joel was very accommodating in ensuring we selected a tour we thought the entire team would enjoy. As we just moved offices, we agreed to the East Bayfront tour which is loosely near our new offices.",
+        "On the day of the tour, Joel appeared at our building on time and walked us to the start of the tour, peppering us with info about our neighbourhood as we went. Despite sometimes loud traffic, Joel came prepared with a mike and loud speaker so that we could all hear his commentary.",
+        "Throughout the tour Joel offered interesting history, insights, architectural highlights and explanations that allowed people with all levels of architecture and design knowledge to understand the significance of what we saw, and let us get a true appreciation for our changing city.",
+        "I would recommend Joel highly, and would book another tour with TSA."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Great tour of the waterfront new developments",
+      "text": [
+        "This was a really interesting and well presented tour of the Toronto waterfront's new developments and future plans from Jarvis to Parliament and beyond. The tour leaders were friendly and very well informed. It was easy to hear them with their microphones. It was a short walk but took about 90 to 120 minutes. I learned a lot about upcoming developments as well as the more recent construction which I hadn't seen. Toronto Waterfront is changing at a rapid pace. I really enjoyed it. Great for Torontonians as well as visitors."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021"
+    },
+    {
+      "title": "Highly Enjoyable Towers Tour",
+      "text": [
+        "We took the Towers tour which was an excellent experience all round.  The length of the tour was just right (2 hours) and it was extremely informative.   We plan to take their other tours at some point in the future"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021"
+    },
+    {
+      "title": "Don't Miss Out",
+      "text": [
+        "There is only one place to go for Architecture Tours in Toronto--Toronto Society of Architects!  Outstanding walks--think of them as a 'University' lecture.  The education and information shared is second to none.  And of course, led by architects.",
+        "I've been on Five of their walks/tours over last 3 years."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Great tour by professional architect",
+      "text": [
+        "Info from a professional architect perspective who also had historical info too.",
+        "Learned new things."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2021 • Solo"
+    },
+    {
+      "title": "East Bay Front Tour, wonderful area to visit.",
+      "text": [
+        "Great tour! Excellent guide with lots of interesting information. ",
+        "As someone that lives in Toronto this was an eye opener."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Great way to learn Toronto’s Architectural History",
+      "text": [
+        "Took the tour of Toronto’s financial district and the history of its towers from 1905 to present day. Lots packed into a small district with knowledgeable guides. Great for visitors to the city and locals alike who want to know more about the built environment and changes in tastes over the century. At 2 hours it was the perfect length, took my mum who was visiting the city. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "St Lawrence Market area architecture and history tour.",
+      "text": [
+        "Great tour, especially for anyone with architectural and historical interests - our guide was knowledgeable and enthusiastic and had lots of interesting info on the neighborhood and old Toronto. My only caveat is that it is outside so dress appropriately."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "St. Lawrence Area, Toronto",
+      "text": [
+        "Today's St. Lawrence architectural tour provided me with a much deeper appreciation of the history and evolution of this area at the heart of Toronto. Highly recommend to anyone interested."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "architecture and history",
+      "text": [
+        "Today's tour of St. Lawrence market area in Toronto was much more than I expected. ",
+        "During the tour the guide referred to historical facts about Toronto and how they shaped the current architecture.",
+        "It gave me a new perspective of an area of Toronto that I've seen many times."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Take a tour - you won’t be disappointed!",
+      "text": [
+        "The Harbourfront tour was my first tour with the TSA and it won’t be my last.",
+        "The tour guide was easy to spot and the tour started on time and moved at a good pace and was the perfect length.  While the guide did seem to be reading from a script for most of the tour, there was a lot of information provided so I can appreciate that would be hard to memorize.  ",
+        "I would definitely recommend these tours to any architecture lover or enthusiast, or anyone who just wants to learn a bit more about Toronto.  Regardless of how long you have lived here, I can pretty much guarantee you will walk away from a tour with more information than you started and probably a greater appreciation of the buildings and places you have seen so many times!",
+        "An excellent value for money!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Architectural tour, downtown Toronto",
+      "text": [
+        "The TSA tours are really an under-the-radar gem. I have attended a few now and can truly say that they have been very worthwhile. I am entertained and I learn something new about the city where I have lived for more than 30 years! The guides are great and the tour length can easily fit into a day with other activities. Full marks!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Amazing tour and our tour guide (Rania) was wonderful",
+      "text": [
+        "I didn't know what to expect from this tour, but it ended up being a highlight of my summer. Rania was a very friendly and knowledgeable tour guide (and started on time, a big plus for me!). I learned so much about the history of the Harbourfront over the past few decades (and longer!). It was an easy tour with stops to rest if needed, and the two hours flew by easily (and too fast!). I will definitely be checking out some of the other TSA tours soon. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Architecture “Entertainment” as you walk the district where everything is happening.",
+      "text": [
+        "From starting on time to ending with the architectural wonder of Skydome opening this tour was fantastic.The great entertainment buildings of the district are featured covering the 20th century entirely! And even walking Canada’s Walk Of Fame! ",
+        "We see our greatest theatres,music hall,CBC,Rogers Center and get the “inside” scoop on these buildings ,their owners,their construction and even some secrets! Easy flat walking at economical price gives you an architectural and historical view of Toronto’s Entertainment District.Well worth and educating."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Towers Tour Toronto, fantastic tour led by an architect!",
+      "text": [
+        "Took the 'Towers' tour on August 5 led by Daniel. My first time on a TSA tour that I found by chance online. For a very small fee, you get two hours of walking downtown Toronto contrasting towers from 100 years ago to towers today. Very interesting and fun time - would recommend to all!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023"
+    }
+  ]
+}

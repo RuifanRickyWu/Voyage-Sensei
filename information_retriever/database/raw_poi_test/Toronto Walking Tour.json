@@ -1,0 +1,357 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Walking Tour",
+    "url": "/Attraction_Review-g155019-d17583271-Reviews-Toronto_Walking_Tour-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Albany Avenue. Toronto",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6E 1M1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 57
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/69/3d/92/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Walking Tours",
+    "Private Tours"
+  ],
+  "description": "Hello! Our tour guide is also a freelance journalist living in Toronto for seven years. He's fluent in English, Portuguese and Spanish, and his passion about this city is exactly on how its multicultural styles translate into our architecture, food, and history. Toronto is always changing and growing, and we want to make sure to offer you a unique insider look.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great experience I had with local guide",
+      "text": [
+        "I had a great time with this tour that a booked few days before the tour. Actually it's difficult to explore the city without a local guide, the tour is helping to discover well.",
+        "Thanks and recommended tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "City Walking  Tour a must do!",
+      "text": [
+        "Loved this tour- Leo was an excellent, knowledgeable guide  . We were introduced to so many of the attractions in Toronto- underground Toronto, financial district, wonderful architecture, the Market and many more things. Duration was approx 2 hours.  The tour also gave us our bearings in this city of 3 million . I highly recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Amazing experience - recommended for solo traveller",
+      "text": [
+        "Amazing experience - first time visiting Toronto and Leo was a great guide. Very knowledgeable!",
+        "It was not a rush, he took his time and gave out lots of details on the main attractions",
+        "Will definitely recommend!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Get to know Toronto!",
+      "text": [
+        "We learned about so many important buildings but also the history, culture and people of Toronto!  The tour includes a Banksky! Wear good walking athletic shoes as we walked continuously for three hours with a 15 minute break. Dave clearly knows the city well and loves leading the tours.  Definitely recommend!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "The gratitude to Leandro who does explores Toronto like a local",
+      "text": [
+        "The tour was outstanding! Leandro is so knowledgeable and passionate about the subject he is in charge of!  The most amazing thing is that you can live in a city, doing your daily business, and never know any of the history behind the city you live in."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Solo"
+    },
+    {
+      "title": "Great tour",
+      "text": [
+        "Loved this tour. Great route and we learnt lots of interesting things. I would definitely recommend this tour for anyone visiting Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "Great tour!! Leo was a great tour guide! This is a fun and cheap way to walk around the city of Toronto and learn about the city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Leo",
+      "text": [
+        "It was our first visit to Toronto & we decided to go with this Tour by reading all the reviews & must say no regrets, Leo is a fantastic to guy to walk with he know his job & he covered all the places that matters & have good knowledge to share & talk with. I would surely recommend first time visitors to go with this tour & Leo to make it worth your visit.."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Book this!",
+      "text": [
+        "Great tour, really enjoyed the history and the guide’s commentary, highly recommend! So much about Toronto I had never heard!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Walking tour in Toronto",
+      "text": [
+        "This walking tour is a must for all visiting Toronto as it gives a great insight of the history of the city and the neighborhoods with an underground surprise! Leo was our tour guide and he was very knowledgeable, friendly, funny and gave great recommendation's for attractions, restaurants, markets."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": " Walk with a great guide.",
+      "text": [
+        "Leo was nothing short of fantastic.",
+        "Lively, informative and very likable.",
+        "A very clear recommendation for everyone, who wants to see the Best of Toronto in a just 2 hour walk."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fun, entertaining and enriching.",
+      "text": [
+        "The whole Tour was exciting. We learnt quite a bit of history behind several buildings, whether ancient or modern.",
+        "Leandro is a knowlegeable and fun guide. With his anecdotes and humour, he made the Tour an entertaining moment altogether."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "Leandro was great!",
+      "text": [
+        "Leandro was fantastic! He is very knowledgeable about the city and gave some very interesting details that I don't think everyone talks about. My wife and I were running late, he texted me and gave us a location to meet up with the group. He was on time, and took the time to learn everyone's name and it helped make the group comfortable in talking with each other. While waiting to catch up to the group, we saw another tour come by the location and Leandro provided much cooler info than the other tour. Highly Recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Great Walking Tour",
+      "text": [
+        "Travel guide was very good! Knowledgeable about city history. We walked through several different neighborhoods."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Very worthwhile tour",
+      "text": [
+        " The guide was excellent, very knowledgeable.  He even learned everyone's name!   Very worthwhile tour teaching us quite a bit about downtown Toronto"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Great tour with an excellent guide! ",
+      "text": [
+        "Leandro, our Brazilian guide, was excellent. The tour included some history and entertaining stories. The group moved at a reasonable pace and Leandro was so responsive to questions. Understanding that many people are tourists, he allowed for extra time for taking pictures of some iconic sites in Toronto. The tour was perfectly timed to include a washroom break at the one hour mark. All in all, this tour was helpful to help us see old and new Toronto and learn more about this great city! Thank you to Leandro for being a knowledgeable and fun guide! Pictured: The “trompe l’oeil” on the Flatiron building, Trinity Church (this where the Cowboy Junkies recorded their album “the Trinity Sessions”, and the only entrance to the Hockey Hall of Fame. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Walking with Leo",
+      "text": [
+        "Our guide Leo was excellent! Great communication, interesting stories, no rush, and very personable. I would highly recommend this tour. ",
+        "W&M Sk"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Couples"
+    },
+    {
+      "title": "Great Tour with Leo",
+      "text": [
+        "Learned so much about the history, architecture, food and customs of Toronto from Leo.  It was very informative and fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Be sure you know the structure of Eaton Center before you go on this tour.",
+      "text": [
+        "The most challenging part was to find the tour guide. Because Eaton Center is a massive and three floors building and the tour guide wanted to assemble in a corner. I am unsure how many corners I went through, but I ran about the whole building. If you want to join this tour, I strongly recommend you prepare at least half an hour to find the place if you’re lucky. I am not sure if the other parts of this event are good or not because I missed it."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Great tour",
+      "text": [
+        "Our guide, Leandro, was very friendly and knowledgeable and we found the tour very interesting. We discovered parts of the city that we probably would never have found out about on our own."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023 • Couples"
+    },
+    {
+      "title": "Very informative",
+      "text": [
+        "Excellent guided tour the a very knowledgeable guide Leandro. Way to go ! We learned really a lot a enjoyed the company"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Brilliant guided tour",
+      "text": [
+        "This was an excellent walking tour, that I would recommend to anyone.  Erica was a brilliant tour guide - she was really friendly and informative and made sure the group had a great time. And she very kindly gave advice on other things to see during my time in Toronto. Thanks Erica!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Excellent ",
+      "text": [
+        "Leandro was informative and personable, we couldn’t have asked for a better guide. Highly recommend "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Walking tour of downtown Toronto ",
+      "text": [
+        "Leo our guide was great! Very knowledgeable about city if Toronto and Canadian history as well! Highly recommend "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "For a fast stop in the city you get good info.",
+      "text": [
+        "Its a very decent tour and the guide is very friendly. I teresting facts about some of the buildings. Not too detailed but good for a quick stop at the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Fun way to get an overview of the city!",
+      "text": [
+        "Tour was informative and fun, very worthwhile! Our guide gave us interesting facts and stories about the city and its architecture."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Day",
+      "text": [
+        "Leandro is an excellent tour guide. He provided us with a vast amount of information about Toronto. It was an exceptional blend of culture, architecture, and history. His pride of the city is apparent. Great day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Great intro to Toronto",
+      "text": [
+        "Great intro tour to Toronto.  If you're looking for a way to get oriented and see some highlights, this is a solid tour.  Recommend starting your trip out with it as it provides a great jumping off point for the rest of your time in the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "A gentle guided stroll around central Toronto",
+      "text": [
+        "Meeting place arrangements were very clear and our guide easy to find. Leonardo kept checking in with us all throughout the trip to see what we needed. Pace of walk was slow but appropriate for a group of mixed abilities. The tour covered historical areas of Toronto as well as modern architecture. It was a bit of a mix really not a focus . Which was fine I enjoyed it just wanted a gentle city walk. We did go into the underground \"paths\" which were quite hot but again all fine. Leonardo made sure he checked people ok with that. He was knowledgeable and had stories to illustrate the city life. Yep I would recommend it "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Great tour",
+      "text": [
+        "Leandro was a terrific guide. He clearly enjoys his adopted city and to show it off to visitors !  The tour was well paced, lots of information and anecdotes but not so much that it overwhelmed. It covered new and old parts of the city as well as parts of the ‘underground city’. Who knew?!  Thoroughly enjoyed the tour. ( and, impressively, he remembers everyone’s name!)"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great walking tour",
+      "text": [
+        "We had a great time on the walking tour. Our guide was very knowledgeable and  we saw lots of downtown Toronto. Highly recommend taking the tour to learn a little of what Toronto offers!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Great tour of Toronto",
+      "text": [
+        "Leo was very informative and had a good sense of humor.  We liked all the places we visited, and the tour helped us to know how to get around Toronto.   We highly recommend this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "We recommend to start your Toronto adventure with this tour.",
+      "text": [
+        "We had a lovely and insightful tour with Leo. Our group was small and  friendly. The tour was well paced with opportunities to ask questions. Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Wonderful Introduction to Toronto",
+      "text": [
+        "Absolutely Amazing! Exceptionally fun and informative. Would recommend for anyone wanting to learn more about the city. Also, great restaurant recommendations :) Leo was a phenomenal guide!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Couples"
+    },
+    {
+      "title": "Great 2-hours walk",
+      "text": [
+        "Very nice 2 hours walking tour in central Toronto, covering more than expected in that timeframe and at a comfortable pace. Great way to learn about the city’s history and architecture. Includes useful stroll down into the Path. Our guide Leandro was great."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Toronto's hidden underground world on a winter day",
+      "text": [
+        "This is a great tour to discover Toronto both above and below ground. Leo brought great energy, entertaining facts and good insights on our walk. He paced the tour well, shared relevant history and designed the path well to keep us warm between outside fresh air moments, indoor hops to admire beautiful bank foyers and our underground stroll through a section of PATH. Thank you, Leo, for a fantastic winter day discovering more of Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Solo"
+    },
+    {
+      "title": "10/10 host ",
+      "text": [
+        "We had the best time on our walking tour with Leo. He was very knowledgeable about the city and answered all our questions. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Toronto Walking Tour",
+      "text": [
+        "We had so much fun and learned a lot about Toronto. Our guide was very nice and informative. He learned all of our names and was so friendly and fun! I highly recommend Leo and the walking tour. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "It covers many points in little time.",
+      "text": [
+        "It was very nice . He did his job very nicely.",
+        "Tell about buildings and described very nicely. People who want to visit Toronto downtown for 3 to 4 days , they should attend this tour. He covered  so many tourist points in short time."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Interesting and entertaining way to see the evolutionary city of Toronto",
+      "text": [
+        "Guide was engaging and interesting, he accommodated the different types of walking styles in our group with skill and diplomacy. I am a fast paced walking but some of our group members struggled. Yet he managed to keep us all together and entertained. I am an inquisitive visitor to any city and he was able to assist me with all of my questions. I would highly recommend him."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

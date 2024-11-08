@@ -1,0 +1,381 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Ballroom Bowl",
+    "url": "/Attraction_Review-g155019-d5920392-Reviews-The_Ballroom_Bowl-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "145 John St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 2E4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 80
+    },
+    "openingHours": [
+      "Mo,Tu,We,Su 12:00-22:00",
+      "Th-Fr 12:00-02:00",
+      "Sa 12:00-00:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5d/a7/f6/let-s-roll-play-10-pin.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bowling Alleys",
+    "Bars & Clubs"
+  ],
+  "description": "The Ballroom Bowl is downtown Toronto’s coolest interactive entertainment center. We have 23,500 square feet of bowling, games, music and food. With two expansive floors that accommodate up to 900 guests, its the perfect destination to host your next event. We have a variety of inviting spaces to meet the needs of private parties, birthday parties, social gatherings and corporate events. Whether you are stopping in for lunch, bowling with some friends, or dancing to our live music artists – we have the destination that keep the good times rollin'. The Ballroom Bowl is Toronto’s current choice for great food and great entertainment!",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Ballroom Bowl Rocks!!",
+      "text": [
+        "Really unique venue. Excellent food, had a large group with us.  Ordered platters which were fantastic.  Never ended up getting a bowling lane but had an awesome time up on the second floor with the love music.  Server Elizabeth was very attentive."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "Pleasantly surprised!",
+      "text": [
+        "Great food!  I was pleasantly surprised. Also, saw a great band and had tonnes of fun!  Friendly and quick staff as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Groovy night ",
+      "text": [
+        "The platters were fantastic and suited our group perfectly. Tasty food and drinks and the service was on point. The band Bubblegum Bikini was so much fun!!! Definitely will return. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "Tom Cruise \"Cocktail\" Karaoke Night",
+      "text": [
+        "I came in with a bunch of girlfriends for the \"Tom Cruise, Cocktail\" themed karaoke night.  We had a blast.  They had these amazing bartenders that we're shaking things up!  Karaoke, was an awesome touch. ",
+        "This place has the best vibe.   Can't wait for the next Karaoke night."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Fun night spot! ",
+      "text": [
+        "We very much enjoyed our night out here! Staff were cordial, music was great, good crowd - overall great night out. Would definitely go again!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "My local spot",
+      "text": [
+        "I go quite regularly. I find it's a great local spot. There's so many games and events going on, like karaoke, watching the Oscars, basketball games etc. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "What a Blast!",
+      "text": [
+        "What a blast! Went with a few friends who we haven't seen in a while. The bowling is great, but there are also pool tables, pin ball and ping pong. We were here a couple of months ago with other friends and the menu has changed, for the better! Not that there was anything wrong with it before but there are new items that are healthier and more \"restaurant\"-like than pub.",
+        "It's becoming our go-to place when friends are in town or for a fun night out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Love it ! ",
+      "text": [
+        "We went to the Ballroom for a private event on the top floor and loved the experience. The food was delicious, staff had great vibes, spacious for dancing and the DJ was off the hook. Overall great experience. Look forward to attending more events there. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "A MUST VISIT ",
+      "text": [
+        "I've been here a few times in the past with events through work/clients and we've always had a great time.  Went here the other day for a friends birthday and it was SO much fun once again.  The cocktials pleasently surprised me and the service was great at our lanes!  Stayed for the DJ on Friday night and it was such a good time. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Amazing Find Downtown! ",
+      "text": [
+        "This place is FANTASTIC, the staff were very friendly, the food was amazing and the games were fun too! I discovered the stage upstairs, where they had a DJ playing and I hear there are bands on Saturday too (will check it out) This place is awesome and right downtown too! Highly Recommended! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Fun times and great food",
+      "text": [
+        "I have visited this establishment twice in the past few months for two different corporate celebration events.",
+        "Both times a lot of fun was had playing bowling and billiards, and the food and service were great.",
+        "The staff is friendly and quick to come around and clean up (taking away empty cups and dirty used napkins and skewers from the passed-around food).",
+        "The food is great.  I really enjoyed these items:  the nacho chips with fresh guacamole and salsa; the primavera pasta; the poutine station; the coconut shrimp, the cocktail shrimp, the bocconcini-basil-tomato skewers with balsamic; the beef sliders.",
+        "My only complaint is that the beef gravy at the poutine station is a little \"thin\" and runny/watery.  It doesn't stick to the fries, it slides right off them and onto the plate.  I prefer my poutine gravy to be thick and stay on top of the fries.",
+        "Other than that, very successful events with great food, service, and fun!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Business"
+    },
+    {
+      "title": "Walking by",
+      "text": [
+        "Omg, to much fun and great laughs. Walking by this place and heard the fun. The girls dragged us in and am I glad. Haven't bowled in years. The girls on the desk were supper friendly. Helped us out. We ordered drinks while we waited maybe 10 minutes to get a lane. Bar service at the lane side. Shoes were in great shape, place was packed. Thomas was great at keeping our drinks topped. Would return with out hesitation  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Fun activity with friends",
+      "text": [
+        "The Ballroom was a great venue to go bowling with friends. The atmosphere was great and very clean. The staff working there were very friendly and helpful, if we had any questions. Would recommend this venue for a fun outing with friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Fun Night For Everyone!",
+      "text": [
+        "Came here with a large group of friends. Normally finding a venue we can all agree on is difficult, but we were all pleasantly surprised. ",
+        "The menu had a wide variety that appealed to all of us, food and drinks were tasty, atmosphere was awesome, and The ballroom had various activities (bowling, dance floor, various screens to watch the game) ",
+        "We really enjoyed ourselves"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Great Fun!",
+      "text": [
+        "This is a really cool venue with the pub and bowling alley set-up. The lanes have comfortable seating with a wide variety of ball weights, There is waitress service at your lane so you can order drinks and food. There are also two pool tables for hire. We had a really fun adult family afternoon here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Friends"
+    },
+    {
+      "title": "Great help with reservations!",
+      "text": [
+        "I was trying to find a bar/club in Toronto that would reserve some tables for a big group but wouldn’t charge us for any fees. I decided to email Ballroom to make a reservation for a group of 20+. Even though I didn’t hear back from their staff for a while, their event coordinator helped me out and reserved a few tables for us by the bowling lanes. The staff were super nice and made sure our tables weren’t taken by other Ballroom guests too. Overall, my friends and I had a great time, and we’ll for sure be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Work outting/ team building",
+      "text": [
+        "Went for our year end celebration and it was very chill. Had a private area for Bowling, pool, drinks and food. Great place for big groups. Definitely recommend for any party or even for families."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Business"
+    },
+    {
+      "title": "Fun place",
+      "text": [
+        "Great place with very good music. Awesome selection of beers and they have a very good menu of food. Nachos are huge!! The patio upstairs is lovely and you don’t feel like you are in the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Great food and fun atmosphere",
+      "text": [
+        "I came with a couple of friends to watch the World Cup. The food was amazing and the service was great! There was also some games on the front patio that were a lot of fun and a great spot to people watch!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Cool bowling alley, but pricey and the bar service is terrible.",
+      "text": [
+        "I’ve been to The Ballroom to bowl and it is quite fun, albeit expensive. The interior is slick and sports are shown on multiple monitors throughout the building. Bar and food Service is quite bad, so if you were hoping to drink and / or eat, you will likely be disappointed.",
+        "Four friends and I visited The Ballroom on a sunny day in May to drink on the patio. Our waitress didn’t show up for over a half hour, despite us asking multiple staff if someone could serve us and being told someone would be with us shortly. Despite being seated at 4:30, we didn’t manage to get a drink order in till after 5:00.",
+        "I ordered two Caesars which are $5 each before 5:00 on Saturdays, having cleared with the waitress beforehand that since we were seated well before the cutoff they would honour the happy hour price. When I received the bill they had charged full price, at which point I reminded the waitress that we had discussed the price previously. They eventually knocked $10 off the total bill, which in the end still cost more than the advertised price.",
+        "My friend ordered a beer at the same time as the rest of us. It didn’t come out with the rest of our drinks and after another 30 minutes waiting, our server informed us that this beer was sold out. At this point he had been in Ballroom for an hour and was still trying to get his first beer. ",
+        "Those of us who had received drinks were again quickly out and looking for a refill, and again waiting for service. For an establishment that earns revenue by selling food and drink, they are not very good at it: while I understand that a server can be busy or not very good, other staff were no more helpful. Since we were having so much difficulty getting served we just got the bills and left. I believe that this is ultimately a loss to Bar Room, since we were out to spend a full afternoon and evening drinking and eating, which we did at another (much busier) bar down the street where we had no trouble getting served.",
+        "Bottom line: a great venue with poor service."
+      ],
+      "rate": 2.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "Great time with friends!",
+      "text": [
+        "A group of us went to the Ballroom on August 24th 2020 and there was a bit of confusion when we came in due to our seating. The manager approached the matter in a very caring and professional manner and directed us to our correct bowling lane. We had such a great time and not only that our waitress Nadia was amazing! She made sure everything was okay and had great hospitality."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020 • Friends"
+    },
+    {
+      "title": "Far better places",
+      "text": [
+        "The golf lanes were ok but did not work very well. No ball return kn one of the lanes. When you only have 7 lanes 1 or 2 not working is not acceptable when that is pretty much all you do. The pool tables were a joke. The curve was 12\" on a slow rolling ball. Plenty of other places most deserving of your money. Staff were very friendly and tried to be helpful but not really any helping the issues they have with a quick helpful fix."
+      ],
+      "rate": 2.0,
+      "tripDate": "Feb 2020 • Business"
+    },
+    {
+      "title": "Great place! ",
+      "text": [
+        "This place is great for hanging out with friends, food is also good, games options will be back we were a big group of our company and they accommodate all our needs super friendly staff "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Hit and miss with food",
+      "text": [
+        "Sat outside-very nice---our orders----chicken tenders-fine---fish and chips-one piece of fish-mushy-the other was fine---beef sliders-not good-seemed overcooked and old-no moisture in the meat-buns didn't  seem fresh-couldn't finish---sweet potato fries were delicious!!!  We were in a hurry so didn't send anything back-did mention sliders to server-she said they were made fresh everyday-so maybe just very overcooked-"
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Great sports bar",
+      "text": [
+        "Had a great afternoon here initially bowling then watching NFL games. Lots of space. Good food and service"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Bowling in a convenient location",
+      "text": [
+        "We went here as walk in's. Had no trouble getting a lane for four people. The location is convenient being just off Queen West. ",
+        "We all had drinks, prices were reasonable. ",
+        "Just your average bar & bowl, nothing extraordinary about the place. Average service."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Lots of fun!",
+      "text": [
+        "Great spot! Fun vibe. Bowling on main floor with music in background. Decent pub menu. Nachos super cheesy good. Cold beer and cocktail specials. Open patio in the summer and lots of TVs around the bar if you are not into the bowling. Pleasant staff. Lots of fun! Will return."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "DO NOT GO HERE!!!!! TERRIBLE EXPERIENCE",
+      "text": [
+        "Monday June 10th 2019 I planned to attend Ballroom with myself and 9 others. It was game 5 of the NBA Finals for Toronto Raptors AT HOME. It was a huge event. I called ballroom at the phone number (416) 597-2695 on Friday before the game to ask if they are taking reservations, their answer to me was they are doing not reservations that night, walk in only and suggested I arrive 6:30pm-7:30pm since the game starts at 9:00pm. My cousin who is a Manager at Jack Astors next door to you also told me he talked to someone and they said the same thing, no reservations that night, only walk ins. Every place was either booked or doing walk ins so we decided on going early to this venue. I called Saturday twice to confirm that, no answer, no answering machine. I called Sunday twice to try and confirm again, NO ANSWER AGAIN. No answering machine. Monday I came from Mississauga to watch the game at this venue. I arrived at Ballroom at 2:30pm. An entire 6 and a half hours before the game. A small group of 5, a young man and I were the only people there waiting. They took our names, phone numbers and size of group down on a waitlist for when the upstairs opens for 4pm they will go up in order and accommodate us at a table. I was 3rd on that list. I wanted to sit and eat while I waited but apparently there was an event coming on the lower level so I couldn't even sit down for the wait. 4pm comes around and they now say 5pm. 5pm comes around and nobody is no where to be found. The organization was so TERRIBLE. NOBODY knew anything going on, everyone was saying something different. Finally around 5:40pm some man comes down the stairs to inform everyone that there are NO TABLES AVAILABLE, ONLY STANDING ROOM LEFT. Which is absolutely RIDICULOUS since you told EVERYONE \"NO RESERVATIONS, WALK INS ONLY\". Somehow, some way, reservations were made and all the people who waited 3 hours were not able to get a table when they said no reservations. 3 hours you made me and many others wait, thinking they were getting a table. Clearly if were all willing to stand there and wait that long it's important to us. Now everyone there can't get a table, and theres no possible way to go anywhere else and wait and get a table because it's almost 6:00pm and now definitely everywhere it full. I was going to go up anyways and wait for my friends up there when this man said that if your group isn't here yet they won't be allowed up, we aren't holding space. Which is BS because I've been here waiting for hours. This man was now letting people upstairs for standing room a few people at a time. First group went, second group went, now when I went to go the people beside me who I made friends with let me go past them because they knew I was here waiting longer. When I went to go up the stairs this disgusting man put his arm out and stopped me and condescendingly said \"Are you with this group? No? So you can wait\". He did this because he was mad I was calling him out the BS that this all is. Now I wish I asked for this mans name to go corporate because the way he and this venue dealt with everything was ridiculous. After him sticking his arm out on me I left because that was disgusting. ",
+        "I walked around the city for hours in the pouring rain, and couldn't find anywhere to go to watch the game of the team I love so I had to go home. Thank you Ballroom for ruining my night."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Amazing venue and staff",
+      "text": [
+        "I cannot recommend this place enough. I got a last minute reservation for a large group of 15-20 people for my birthday and also game 5 of the NBA series. The atmosphere in here was amazing and the staff were great!",
+        "The manager Barry was so attentive, he came over to our table at the start of our reservation and introduced himself, which I thought was so lovely. Throughout the night, I noticed that he was going around to all of the tables and even the people in the line up. This is not something I've ever seen before from management, especially when they were so busy. ",
+        "The food was amazing too and the menu choices were plentiful. They also have great drink promos during the week. All in all, this place is amazing!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "A great place especially if you have a group",
+      "text": [
+        "Some of the BEST service I have ever received! Had my birthday there last year and going again this year because we had fun. If you have a diverse group of pals this is the spot as there’s a dance floor on the top, a chill bar and bowling on the bottom giving people different things to do if the whole club scene isn’t their thing. :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Espresso Martini 10/10",
+      "text": [
+        "The cocktails were great, the food was tasty and our server was super smiley and engaging. They took amazing care of my young children and they even did a discounted rate for them. Will definitely be coming back for birthdays!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Great Eats",
+      "text": [
+        "Updated menu, food looked and tasted great - had a special they were running, Stuffed Chicken with a sundried tomato sauce, excellent.  Cocktails - Spicy Margarita is the way to go!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Cool Little spot",
+      "text": [
+        "If your into Bowling, playing pool or just having some drinks with friends this is a cool little spot.",
+        "Fun, high energy atmosphere. Lots of seating and things to do. Wheelchair accessible. Good service."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "You gotta go!",
+      "text": [
+        "Who visits Toronto and goes bowling? LOL Well we did and it was a blast. Really cool set up with top-notch service. Would not hesitate to return."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Best Holiday Party ever!",
+      "text": [
+        "We had our company holiday party here and it was one for the books! Everyone at the BB went above and beyond to make the event memorable. There was a live DJ, the food was so yummy and of course the bowling made it 10x better!!! It’s now January and people are still raving about it! I can’t wait to go back. I recommend to everyone!!! Good for team building events and/or personal events too!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022 • Business"
+    },
+    {
+      "title": "Seamless Service!",
+      "text": [
+        "We used The Ballroom for an after work engagement for some colleagues and it was a total hit! We booked a private space, equipped with bowling lanes, food and pool tables. The process was so seamless in terms of booking. Shawna was phenomenal with her communication. She was able to adapt our BEO so quickly. Our special requests were followed to the letter. It was the perfect outing for a mid sized group (40 people). We will definitely be booking again.",
+        "Vegetarian options: Our guests were able to have a full meal without having to make concessions.",
+        "Dietary restrictions: We had gluten free and vegetarian guests. The Ballroom was able to adapt the menu to make the main dishes safe for those specifications."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Very good!",
+      "text": [
+        "I love going here after a long stressful week to unwind and watch my favorite games live. The staffs are awesome!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Friends"
+    },
+    {
+      "title": "High expectations, sadly they didn't deliver",
+      "text": [
+        "We had really high expectations for this place. We (7 of us) had booked 2 lanes at 10 pm. When we got there we were told they were running a little behind. No big deal. Gave us time to get our bowling shoes and a couple of drinks before bowling time. 45 minutes later they told us they were ready for us. They directed us to our lane only to find out that they could only give us 1 lane instead of the 2 lanes we had booked. We were furious to say the least. Can you imagine???7 of us playing in 1 lane???? The hour passed and we didn't even finish the 8th round. The manager did give us all complimentary shooters with his apologies but still.......we wanted to bowl!!!! We will return and give this place a second chance but I don't have high hopes. Fingers crossed. ",
+        "P.S I don't know if it was because they were super  busy that night, but the washrooms were terribly dirty. Yucckkyyyyyy"
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2022 • Friends"
+    },
+    {
+      "title": "Terrible place",
+      "text": [
+        "The Ballroom is the worst bowling alley you'll ever come across. Not only is the alley tiny, the lanes are not maintained and bonedry. The approach and backend is downright filthy. ",
+        "The Ballroom might be suitable for general entertainment, but their bowling alley is a disgrace. I'm never setting foot in that place again."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Great place to go bowling and hangout with friends or Family!!",
+      "text": [
+        "5/5 Service!!",
+        "Staff were very helpful and accommodating. Everyone was friendly, awesome vibes and music. ",
+        "Patio was great! Service was quick! Drinks & Food were tasty!! ",
+        "Definitely coming back!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Friends"
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Ghost Walks",
+    "url": "/Attraction_Review-g155019-d14548103-Reviews-Ghost_Walks-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "60 Queen St W Stairs at Toronto’s Old City Hall",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5H 2M3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 43
+    },
+    "openingHours": "Fr-Sa 20:30-22:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/84/66/4f/old-city-hall-toronto.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Ghost & Vampire Tours"
+  ],
+  "description": "Starting on the stairs of Toronto’s most impressive haunted building. Vivid ghost stories and stops at infamous haunted places such as the Mackenzie House, St. Michael’s Hospital, Massey Hall, the Elgin and Winter Garden Theatre and more!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Excellent tour",
+      "text": [
+        "Margot (our tour guide) was excellent at telling the stories and was happy to answer all our questions. The history was really interesting as well. A really good way to see the city. Would definitely recommend.",
+        "Could had been a tiny bit spookier."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "It was a great way to hear tales about the city and walk through historical places we pass by and ignore every day.",
+      "text": [
+        "I loved this tour! Our guide was theatrical and added emotion to this activity that may be perceived as lame for skeptics, and also it was a great way to observe forgotten spots of our city. The tour includes a good deal of history, so now I feel I know better my city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Fun walk with some interesting history",
+      "text": [
+        "Enjoyed our walking tour with Daniel!  Learned some interesting history (especially enjoyed the story around old cit hall). Thanks for a fun evening!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "An informative experience",
+      "text": [
+        "Our tour guide, William, was both hilarious and enlightening. Great experience, would definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Wanted to rate 3 stars...read on for more details.",
+      "text": [
+        "I want to start by saying we are prior and future customers of ghostwalks.  This is our 3rd outing with the company and we have always enjoyed them.  This particular jaunt I wanted to rate 3 stars but didn't have the heart to do it since usually they are quite good.  I don't think the problem is really the company or the host William who was excellent all things considered.  Rather, I don't feel the Toronto venue lends to a great experience.  We only attended a few (3 or 4) buildings that had actual ghost stories, perhaps Toronto doesn't have many ghosts.  But I think the real problem is that Toronto is simply too bright, active, loud and busy to lend to the mood required for ghost walks to work well.  There needs to be a natural eery feeling in the air to truly enjoy a ghostwalk and frankly Toronto doesn't have that.  Since no one ever actually sees anything scary during these walks, it's really important for the environment to set the mood.  So thumbs sideways on this one, but looking forward to some Hamilton ones with ghostwalks next year."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Fun fall activity",
+      "text": [
+        "This is a fun urban family activity for Halloween. Interesting, well told stories. I will try another one in another city next year."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "Ghost walk in TO",
+      "text": [
+        "Our guide William was amazing.  He was very entertaining and knew his stuff.",
+        "The only reason I didn’t give 5 stars was the content... I would think of a city as old as Toronto, the stories would be better."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Ghost Walk in Toronto",
+      "text": [
+        "Our tour guide was great and we had fun. It was a nice way to see some historic sites in Downtown Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Ghost Walks in toronto",
+      "text": [
+        "We are Toronto born and had visitors from the US so thought they would enjoy this!",
+        "Had a terrific time, wonderful stories and well told.  Surprised as it was extremely hot and our story teller was dressed in black dress carrying a lantern, you would not even know that he was hot.............he did not care if anyone starred especially in the Eatons Centre! Recommend highly for tourists and Torontorians'"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "GREAT historical/ghost tour of Toronto",
+      "text": [
+        "Andy was a fabulous guide! His knowledge of the city and its history was awesome. The tour took us through some areas of Toronto that we would have missed. SO GLAD WE DID THIS TOUR!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Inexpensive. Informative. ",
+      "text": [
+        "The guide was late. We did receive an apology letter. He also walked really fast. I was okay with it, but some of the group were not. We lost almost half the group once we left the church area. I am not sure if it was because they couldn’t keep up or because the tour wasn’t what they expected. The information was good, though his presentation was very dry. Since the cost is minimal it is worth the time. However, I have been through three other ghost walks that I have paid a lot more for, and would do so again before taking this one. The customer service, however is exceptional.  Unfortunately, The highlight of the tour was seeing the raccoon at the church. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Fun!",
+      "text": [
+        "Did this walk with my sister and dad and his friend. Lots of fun. Easy walking pace. Interesting stories and great guide. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Very informative and entertaining",
+      "text": [
+        "The tour was fun, my two teens were thrilled and not complaining about walking (!). The guide was a gem, some acting, some mystery and a lot of interesting history!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "Waste of time",
+      "text": [
+        "Would not recommend to anyone honestly. The history was nice, but the stories were boring. Best part about this was that it gave us an idea of where to hang out after. Better off hanging out doing something else."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Excellent historical info and entertainment!",
+      "text": [
+        "William was our tour guide, and from the first moment he transported us into another time. He enunciated very clearly, and seemed to affect an old-timey accent, which made the stories extra enchanting. Also, his costume with the top hat, cape, and lantern were top notch! He was also hilarious at times and incorporated little things that were happening around us, which made his delivery feel unrehearsed and natural.",
+        "My friend and I both especially enjoyed the mix of historical facts in with the tall tales. We learned so much and had a great conversation afterwards.",
+        "Highly recommend this tour for Toronto locals as well as visitors!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Toronto Ghost Tour",
+      "text": [
+        "There was already a Ghost Tour taking place (another company). That female guide looked and sounded boring!! I was expecting to be disappointed, but our guide William approached the meeting spot fully dressed for the part, which turned up the excitement! William didn’t disappoint; he was in character the entire tour, which made for money well spent. I couldn’t care less what stories he told."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Ghost Walks",
+      "text": [
+        "Awesome! Loved our guide William who was right in character .. macabre!! ",
+        "Also enjoyed his historic Toronto fact telling. ",
+        "Great night out! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Very Good",
+      "text": [
+        "Andy our tour guide was THE BEST. The actual tour was ok but he made it interesting.  Unfortunately it was too noisy at times to hear Andy’s stories.  Definitely a must have especially if you don’t know Toronto "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Andy was amazing!",
+      "text": [
+        "This tour guide so animated and creepy, it really made for an amazing tour! Great way to spend the beginning of our night. Thanks Andy!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Toronto Ghost Walk",
+      "text": [
+        "My girlfriend and I did this last night. It was a blast! William was great and he made it a lot of fun. Very professional when dealing with people who weren’t a part of the tour which I thought was very good of him.. they all politely walked away. Good job! Made for a great date night.. Will definitely recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Great tour",
+      "text": [
+        "This was a great tour that also the history of Toronto.  I would highly recommend it.  Our tour guide Daniel was awesome."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Fun and interesting experience",
+      "text": [
+        "The Ghost Walk tour was a very interesting way to learn a bit about the history behind some of the historical buildings in the downtown core. ",
+        "Daniel our guide was informative, engaging and knowledgeable. ",
+        "Highly recommended!",
+        "Scott"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Ghost walks Toronto",
+      "text": [
+        "Daniel is an exceptional guide. He was able to capture our attention with some exceptional story telling skills"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Great guide!",
+      "text": [
+        "A lovely evening with Sandra.  She was really knowledgeable about the history and ghost stories.  Her enthusiasm made the experience really enjoyable."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Pretty good",
+      "text": [
+        "The walk is nice for both tourist and locals alike. I am a local and did the walk for the first time and it was nice to know the scary part of the tour along with the interesting history. Our guide was Sandra who was super nice and creative. She enacted all the stories with emotion and voice which made the tour ever more interesting. There were little kids so she walked extra slow so that they could keep up. Its a nice walk around the main attractions of Toronto so would recommend it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Great tour of historical sites",
+      "text": [
+        "Our guide, Sandra was great.   Very helpful and full of information and stories.  She covered some key historical buildings and the stories associated with them."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Nice way to see some old buildings in Toronto",
+      "text": [
+        "It was a great night walk around old buildings in Toronto. The stories themselves were pretty decent. Some was a little bit scary but not too much."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Great tour. Great history",
+      "text": [
+        "Andy had good knowledge of Toronto's history.  Could be longer if the weather held up to include distant sites if people wanted."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Andy: What a guide!",
+      "text": [
+        "My wife and I spent the day downtown (for our fifth anniversary) and decided to end the night with this ghost walk. She is OBSESSED with ghosts/paranormal/haunted experiences. And she was not disappointed. Andy was theatrical yet informative, without going over the top. As two long term Torontonians, we didn’t expect to be brought places we weren’t familiar with. However, Andy proved how much history, and horror, Toronto unexpectedly has to offer. This seventy five minute tour flew by, leaving my wife and I with our ghost fix.",
+        "Our favourite part,",
+        "Andy’s John Dillinger story, at the Elgin and Winter Garden theatre."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Andy was a vivid and theatrical guide ",
+      "text": [
+        "It was Andy who made this a true experience. Without an engaging guide, a tour is just a walk, but Andy is a true storyteller and clearly enjoys his job and is great entertainer whose enthusiasm didn't lag, but only built throughout our tour. The stories were fun and the we discovered some hidden gems. What a great way to spend an evening downtown! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Excellent Tour!",
+      "text": [
+        "We had a wonderful time doing the Ghost Walks downtown Toronto tour with our guide William. He had a booming voice and a great attitude. Would highly recommend this tour. All the tours with The Ghost Walks have been an absolute pleasure!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Such a great tour",
+      "text": [
+        "This was our favorite part of our trip! The tour was so interesting and our guide, William, was wonderful!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Tour was OK",
+      "text": [
+        "This tour was taken in June. I take these tour all over the world, in almost every city I visit. This tour was just OK, the guide was close to on-time, and was dressed appropriately- looked the part. We got some interesting stories at the old city hall/courthouse. However, if fell down from there. The subsequent stories were short with a key lack of historical perspective and background. The tour guide didn't appear to know much about the back stories or even the city's history, or never relayed. It advertised as 80 to 90 minutes and we only got about 60. It seemed rushed and simply relayed. Many companies do a better job of training and hiring staff who are genuinely interested in the subject matter, not sure that was the case here. Other tour operators do a better job."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Fun Outing!",
+      "text": [
+        "1.5 hour walking tour in downtown Toronto hearing stories of haunted buildings and mysterious deaths. Tour happens around sunset which makes for good atmosphere. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Entertaining and fun experience",
+      "text": [
+        "Despite bing locals, we didn’t know many of the stories recounted and had a good time. Very accommodating guide and found the walk to be a great way to spend an evening."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Ghost Walk",
+      "text": [
+        "Excellent short tour of the city's historic sites by very knowledgeable and entertaining guide! Would like to learn more about other spooky corners of the city next year."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Perfect Night",
+      "text": [
+        "We had a great time on the Ghost Walks of Toronto. It was a fascinating history of haunted places in the downtown core. Our guide Andy was wonderfully entertaining. We've lived in downtown Toronto for many years and learned so much about the spooky history of our city on this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Only okay",
+      "text": [
+        "The guide was about 10-15 minutes late; to their defense they did apologize. However it was a cold evening I was beginning to doubt they would show. The stories were mediocre and the guide did not seem enthusiastic. Their voice was monotonous and there was no inflection or any personality to the story telling to make it seem “scary”.  Could use some work on their storytelling skills and I often couldn’t  hear or understand them talk even while standing close - I saw quite a few others straining their neck/head to hear the guide. I had been to two other ghost walks outside of Toronto and those guides were much more passionate and easy to listen to compared to this guide. ",
+        "Picked up tickets on Groupon which was a good value. It was still a decent evening activity if you have about an hour and half to spare. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Ghost Walk Toronto",
+      "text": [
+        "Great Tour fun to see and hear about all the old history of the city! Sandra was great very nice, knowledgeable and creative!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Fun Evening!",
+      "text": [
+        "Daniel was the perfect guide!  He's tall (so easy to follow/spot).  We loved his outfit!  Very knowledgeable and funny.  Thanks for a great evening Daniel!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Gray Line Toronto",
+    "url": "/Attraction_Review-g155019-d2038388-Reviews-Gray_Line_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "88 Queens Quay W Suite 2500",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 0B6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 1042
+    },
+    "openingHours": [
+      "Mo,Tu,Sa 08:00-22:00",
+      "We,Th,Fr,Su 08:00-22:30"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/b0/7a/a6/gray-line-toronto-s-city.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Sightseeing Tours",
+    "Private Tours",
+    "Bus Tours",
+    "Day Trips"
+  ],
+  "description": "At Gray Line Toronto, we take pride in being the local expert in Toronto offering exceptional tourism experiences that leave a lasting impression on travellers from around the world. With a rich history and an unwavering commitment to excellence, we have become a trusted name in the tourism industry, making us the go-to for both local explorers and global adventurers. Our Story: Gray Line Toronto has been at the forefront of delivering unforgettable travel experiences in the heart of one of Canada's most vibrant and diverse cities. As a part of the renowned Gray Line family, we adhere to the highest standards of quality and customer service, ensuring every journey with us is nothing short of extraordinary because we are truly the local experts. Book your Toronto City sightseeing tour and Niagara Falls Day tour today! We can't wait to welcome you aboard.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Best tour we have so far!",
+      "text": [
+        "Alex and Hugo are the best. They know what they're doing and making it fun for everyone. There's really no dull moment on our tour. We will book another tour when we come back to Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Couples"
+    },
+    {
+      "title": "Best tour experienced",
+      "text": [
+        "I rarely write reviews on a lot of things. On this one, It feels unfair not to leave a review. This trip definitely exceeded my expections 11/10. Tour guide and driver are super approachable and I learned a lot as well (which is also what i'm looking for in a tour). I definitely recommend this @everyone! Super worth it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Solo"
+    },
+    {
+      "title": "Great experience!!",
+      "text": [
+        "Alex was a great guide! Very kind, she also explained every detail and gave us interesting information! Pete the driver was amazing too! Very recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Family"
+    },
+    {
+      "title": "Niagara Lunch & Boat tour",
+      "text": [
+        "Awesome Tour! Thanks for all the jokes and stops. Pete was a great bus driver. My wife and I really enjoyed your tour of Niagra Falls and will be sure so use your services again! ⭐️⭐️⭐️⭐️⭐️"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Solo"
+    },
+    {
+      "title": "Canada",
+      "text": [
+        "This tour was truly amazing, my mother and I really enjoyed seeing Niagara Falls for the first time. And we got to try the famous maple syrup."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Family"
+    },
+    {
+      "title": "Great",
+      "text": [
+        "A good trip. You get really.wet if you go outside of the boat. Isn’t just a mist. Other than that I really enjoyed. I wish we could spend more free time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Family"
+    },
+    {
+      "title": "Perfect start to the day.",
+      "text": [
+        "Beatrice and Roger were a perfect pair that drove us through the city safely and informed at every turn about the importance of Toronto’s history and architecture. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "A lovely Saturday from Toronto to Niagara Falls",
+      "text": [
+        "Alex was a very personable and informative guide. Hugo was a terrific driver. They each mad the day to and from Niagara Falls (from Toronto) a real joy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Friends"
+    },
+    {
+      "title": "Niagra falls",
+      "text": [
+        "Very enjoyable tour, Alex was a lovely tour guide. Great day out. I would highly recommend for anyone staying in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Couples"
+    },
+    {
+      "title": "Niágara Falls",
+      "text": [
+        "Niágara falls is amazing! The tour is very organized with tour in the City and other expiriences that complement the visit at falls"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Family"
+    },
+    {
+      "title": "Niagara Falls visit from England",
+      "text": [
+        "Would highly recommend doing the Niagara Falls tour with this company, we thoroughly enjoyed our day. We had 2 children 10 & 12 with us and they loved it too. ",
+        "We considered getting the bus down to the falls but do not regret choosing this tour instead."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Great day",
+      "text": [
+        "The guide and driver worked well together keeping us entertained and knowledge was exceptional. They have made us want to come back when we have more time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Great!",
+      "text": [
+        "We had a lovely time on this trip, Alex and Sam were great! Well organised and great memories made. Definitely recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Sam and Alex did an amazing job, had a fantastic time on this tour. Even squeezed in a maple syrup tasting and found a couple of lost tourists."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "The best tour guides!",
+      "text": [
+        "Alex the guide and bus driver Sam were the loveliest two people we could have asked for! Nothing was too much trouble, they shared SO much interesting information about all of the places we were travelling past. ",
+        "Clear, concise instructions about drop off and pick up points/times and also brought a lot of fun to the trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Amazing time with this Tour!",
+      "text": [
+        "Decided to do this tour while my stay in Toronto, but I believe that Alex and Sam made this tour other level! They were incredible, friendly and made me have the best time in Niagara Falls. If you have any doubt, don’t think twice, they accommodate nice and comfortable transport, boat around the falls, and other surprises."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Awsome!",
+      "text": [
+        "It was a fantastic day with the guide who followed us all day, fun, nice and professional. Really good choice. ",
+        " Congratulations."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "⭐⭐⭐⭐⭐ Amazing Niagara Tour!",
+      "text": [
+        "I had a fantastic Niagara day tour (with lunch) today with Guide Alex, and Sam our driver! Alex's enthusiasm and knowledge made the experience unforgettable. Her engaging stories and interesting facts kept us captivated at every stop. The tour was well-organised and allowed us to explore the stunning sights at a comfortable pace. I learned so much about the history and beauty of Niagara that I had never known before. Thank you, Alex and Sam, for an incredible day! I highly recommend this tour to anyone looking to explore Niagara—you won't regret it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Amazing service. 10/10 would recommend and book tours with them again!",
+      "text": [
+        "It's my first time with touring the city of Toronto with a third party organizing it but I must say it's very convenient and they're very noobie friendly. Love the the ride to and back... The host is pretty entertaining and very helpful through out the tour. We were on time for pretty much the whole trip."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "We recently took a tour of Niagara Falls, and we couldn't be more pleased with the experience.",
+        "Alex’s, our guide, knowledge of the area was impressive; she shared fascinating stories and insights about the falls, making the trip both educational and entertaining. Sam, our driver, ensured we traveled safely and comfortably. ",
+        "Overall, it was a well-organized and memorable adventure that I would encourage everyone to experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Niagra with Boat tour",
+      "text": [
+        "Alex and Sam were great hosts. They were very warm and helpful throughtout and I loved the little game/quiz at the end. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Amazing",
+      "text": [
+        "It was a great experience, the tour guide Alex and our bus driver Sam were amazing. They shared the story of this place with us, led us through the places with ease. Wine tasting, maple syrup tasting, we booked with lunch and it was perfect.",
+        "100% recommend "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great trip!",
+      "text": [
+        "We had a great time, the tour guides were knowledgable and super fun. We learnt a lot and had a great time. 10/10 day out! Would recommend to anybody!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Visited Niagara Falls, ( the boat ride) wine tasting and quaint town Niagara at the lakes",
+      "text": [
+        "Hugo the driver and Alex the curator were awesome, it was money well spent, the trip to Niagara Falls was phenomenal, Alex is very knowledgeable, they gave us time to see the sights at the stops, like the wine tasting. Niagara Falls boat ride is a must in life if you are able to and Niagara on the lake is a quaint and beautiful place to visit as well, I definitely recommend this company and Hugo and Alex are definitely an asset to the  company as they both made it memorable"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "An amazing trip to Niagra Falls!",
+      "text": [
+        "An amazing trip! A huge thank you to Alex and Hugo who made our trip to Niagra Falls amazing. It was truly one of the best experiences of my life. We were also able to visit the local town and taste wine. Truly made my trip to Toronto"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Great tour!  They really cared.",
+      "text": [
+        "We had so much fun.  Learned a lot of things. Ms Alex was very informative, entertaining and really took cared of us.  Thanks for the tips tat help us maneuver each place we went. It made our tour pleasing and well organized.  Mr. Hugo was very professional and made sure we were always on time. Great experience for sure we would love to come back with the family.  Thank you for a very wonderful first time experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Great tour",
+      "text": [
+        "The Niagara Falls have been on our bucket list for a while. the day tour was great - smooth and beautiful. Alex and Hugo were very good. Best way to do the Niagara Falls hassle free!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Excellent service",
+      "text": [
+        "View was amazing, tour guides did superb. Definitely recommend. ",
+        "We had a good time, wish we spent more time. We were initially concerned about the duration of the tour but towards the end we wanted more time 🤣"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "What an experience.",
+      "text": [
+        "The tour was amazing, our tour guide Alex and the driver Sam were both great as well.  The falls are even more impressive than I expected.  It was a full day and well worth it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Best tour Niagara Falls Toronto",
+      "text": [
+        "The your was amazing! The tour guide and the driver are quite charismatic. I highly recommend this tour. ",
+        "The bus was clean and modern."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "First Time ay Niagara Falls",
+      "text": [
+        "Alex and Hugo excelent treatment, a good recommendation if it Is tour first time going to Niagara falls",
+        "A little bit dissapointed the wine casting, to too short nad the staff weren't welcoming.",
+        "Recommendation for the company more time in the wine tasting and less time in Niagara on the lake"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2024 • Family"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "The day trip is amazing. The best tour guide (Alex) I have met. She is very nice and gave clear instruction to us. Also, explained and told us many things about the Niagara Falls/ the town and so on. I also have a chance to know people from other countries. AWESOME!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Solo"
+    },
+    {
+      "title": "To the falls",
+      "text": [
+        "Alexandra was excellent and made this whole experience at the falls, the wine tasting, and the bus transit there and back to Toronto enjoyable and very informative.  Thank you, Alex, for making this a memorable day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Super",
+      "text": [
+        "Excellent everything!thanks so much,we enjoyed every minute and the team was great!all tips given during the tour and after for best spots to visit in Toronto"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Amazing totally recommend",
+      "text": [
+        "The tour guides were brilliant, they had amazing knowledge of everything. So kind and so friendly I would definitely go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "A must do Trip.",
+      "text": [
+        "Wonderful breath taken views of the falls ",
+        "Amazing scenery and jaw dropping stunning views.",
+        "A must do trip for all  people of all ages."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Tips, tricks and trivia",
+      "text": [
+        "Alex was amazing and insightful. Clear  and concise in her instructions  of where to be and when and super helpful.",
+        "Hugo was a great driver parked close to where we needed to be and kept us safe and sound",
+        "Cheers guys!",
+        "Thanks for helping my childhood  dream come true. Also loved the trivia"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Great Niagara Falls trip",
+      "text": [
+        "Great day out and super easy way to see falls from Toronto, good mix of activities across the day and very well organised and managed"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Day Tour",
+      "text": [
+        "The tour was amazing! Very informative and fun. Sam and Alex were GREAT hosts! Highly recommend if/when visitingToronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "It was really a once in a lifetime experience to be this uplose to Niagara falls. Didn't really realize there were a lot to experience in Toronto alone and our tour guide Alex was super helpful all through out the day. The food was superb so it's a must to include with the tour"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    }
+  ]
+}

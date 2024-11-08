@@ -1,0 +1,367 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "TBCL - Toronto Bus Co. Ltd.",
+    "url": "/Attraction_Review-g155019-d2518919-Reviews-TBCL_Toronto_Bus_Co_Ltd-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "110 Skyway Ave",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4M 0C8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 860
+    },
+    "openingHours": [
+      "Mo-Fr 08:00-18:00",
+      "Sa-Su 08:00-15:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/64/d0/36/transport.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Sightseeing Tours",
+    "Bus Tours"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "I'm Falling for Niagara!",
+      "text": [
+        "This was an epic day-long journey from Toronto to Niagara Falls filled with so many beautiful photo opportunities so be sure to bring your camera. Our driver/guide, Chafin, was awesome and provided history, stories, and humor along the way. I recommend bringing an extra pair of socks for the Niagara Falls boat portion because your pants, socks and shoes from the knees down will get wet. But it's totally worth it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Solo"
+    },
+    {
+      "title": "Very Accommodating team",
+      "text": [
+        "Even though I missed the email from TBCL and went to another pickup address, they waited for me after I had reached out to the team to notify them that I didn’t realize that the pickup address was a different location. The wait was unexpected but I sincerely appreciated it because I had gone to another location following the information from Expedia and would have felt bad if I missed the trip. ",
+        "The overall experience was amazing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Friends"
+    },
+    {
+      "title": "Niagara falls, wine tasting, and small town tour",
+      "text": [
+        "Our tour guide was amazing and very attentive shafid the tour was amazing very inclusive and we got to visit many beautiful places. We would 100 percent recomed"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Family"
+    },
+    {
+      "title": "Great day out",
+      "text": [
+        "A fantastic day out that was well worth the money. Our day started at a pick up near our accommodation at 9.10 and was jam packed full of information. Our guide, Shaf was friendly and very knowledgeable and talked throughout most of the journey with lots of interesting facts.  ",
+        "The winery stop was an opportunity to try some local wines and have a talk on how they were made.  Prices to buy, were also reasonable too.  ",
+        "Next stop was the main event and Wow, Niagara was amazing. Lunch overlooked the falls - great food and what a view. We then had some free time to explore before we headed on the hornblower cruise - be prepared to get wet and enjoy the ride. ",
+        "After leaving Niagara we were fortunate enough to stop at a few extra places and then to Niagara on the lake. By then it was late afternoon so only had an hour here, and could easily have spent a day. ",
+        "Got back to Toronto at 7.30. Great day for all."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Wonderful Tour of the falls and area.",
+      "text": [
+        "Shafin our great driver and tour guide made the trip extra special. Lots of fun stops and sites to see. Fun wine tour. Lunch stop had stellar views of the falls."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Fun Day Trip",
+      "text": [
+        "We did this tour the last week of October. I highly recommend! It was not during peak season so there were no lines and we didn’t feel rushed (like mentioned in other reviews) The bus was late picking us up however because it wasn’t a popular tourist time it didn’t cut into our time at the Falls. We even got an additional stop at the Whirlpool which was beautiful. Joe P was a great guide! ",
+        "Do not plan to be back before 8pm! It is truly a full day :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Great tour, don’t book lunch",
+      "text": [
+        "A wonderful day out! However, do not book lunch at Table Rock House restaurant!!!! The service was terrible!  Really slow and it seriously cut into our free time at Niagara. So much so we left before desert was served. ",
+        "Our tour guide Shaf was superb and he and the bus driver did everything to make sure we enjoyed the trip. A very entertaining day overall with numerous activities and we felt very well informed by the end! Maybe a little more time in Niagara on the Lake would have been nice."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "You HAVE to do this trip!",
+      "text": [
+        "You HAVE to do this if you come to Toronto, you would kick yourself if you didn't! I really couldn't recommend it more! My teenagers absolutely loved it too! Stopped off at Niagara on the lake and would have liked more time here, it's a beautiful little town, but it was a long day as it was! The driver and tour host was great. You must do this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Mediocre",
+      "text": [
+        "While the wine tasting was good, the lunch was underwhelming, unseasoned, and undercooked. We completely enjoyed the Niagara tour section."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "If you want to see a lot, quickly",
+      "text": [
+        "We thought the tour was great but also felt very rushed.  The tour operator did a great job, he talked the whole way to the Falls- but it was very hard to hear him.  The wine tasting was very rushed.  We got to sample a white, rosé & ice wine.  The vineyard was beautiful.  Lunch was ok. The Falls were incredible to see up close.  On the way back we stopped at Niagara on the Lake & it was a super cute town, but again felt very rushed & the town was packed.  25- 40 min wait for coffee, ice cream etc. So you basically just get a little sneak peak at the area and don’t really get a chance to experience it."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "A fabulous trip",
+      "text": [
+        "This was an amazing and informative trip with Shaf. He made the entire journey interesting despite a detour due to road closures. This is so worth the money as you learn so much and get dropped off exactly where you need to be so no time is wasted. The boat trip is well worth it, and Niagara on the Lake is absolutely beautiful. Only downside is we couldn’t have stayed there longer! We were in a smaller bus as opposed to the large coach which we were initially worried about but we needn’t have been as it was lovely just to have a few of us and felt a lot more personal ( just be warned there is no toilet or internet as advertised on the small coach). This is a trip well worth the money and Shaf is a credit to the company."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Toronto great history",
+      "text": [
+        "Great humor and entertaining enjoy the long drive.  Good historical background passionate about subject no boring time"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "A memorable day. Bus tours may be boring, but this was not the case with Shaf and Isac today.  everything was great.",
+      "text": [
+        "We had a great trip with Shaf and Isac. Shad was our guide and he was energetic, entertaining, and knowledgeable. We totally recommend the tour with Shaf."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "A Unique Experience of a Famous World Treasure.",
+      "text": [
+        "A first class day out to see one of the wonders of the world. Our guide, Chaf and driver Barry worked well together keeping to good time in what was a long but worthwhile day.  Chaf was very knowledgeable and entertaining.  The falls visit itself was superbly efficient, moving thousands of people up and down for the boat ride to the heart of the action where the chaotic spray was welcomed by all.",
+        "Surprisingly, there was plenty of room along the pavement to be able to see the top of the falls in all their glory  The Queen Victoria, the scene of our lunch, stood just across the road, which made the whole experience very immediate with plenty of time to take in the magic of it all.",
+        "The ride away from the falls to Niagara-on-the-Lake was very interesting ending up with a peaceful stroll around the town, which was the inevitable picture postcard.",
+        "Our trip was organised and paid for by our travel agent and so its hard to value the experience in terms of hard cash but it was certainly a trip you could not afford to miss."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Great visit",
+      "text": [
+        "Having the winery stop before lunch was a bit disconcerting. The falls and lunch was worth the money. The tour was a bit long after the boat ride."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Best tour I have taken so far",
+      "text": [
+        "Amazing! The best tour ever and I mean it. I wish could remember the driver and tour guide names but I can't remember. The tour guide's knowledge of the different cities and intricate details was austoudning. The winery visit was short which is fine. Beautiful scenary. Niagara Falls was impressive to see in person. I did enjoy the lunch. I didn't feel rushed at all. I even like the shops at Niagara on Lake. I can't say how much I enjoyed this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Journey Behind the Falls",
+      "text": [
+        "Bus driver and host were great. Professional, yet personable. Host was very knowledgeable about Toronto and the surrounding areas. Loved the experience and would do it again."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "You Must Do This!",
+      "text": [
+        "The tour was amazing! The tour guide Nikki was extremely knowledgeable and friendly. The tour was a long day but it didn’t matter as we saw a lot during our time. The lunch was good. I had the pasta and my husband had the cod. The view from the restaurant was beautiful. The boat ride to both falls was breathtaking! I highly recommend this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Full 12 hour day! Frustrating with time constraints, but okay overall.",
+      "text": [
+        "Leader talked non-stop into microphone 2+ hour drive, which was annoying. Really tight schedule to fit everything in. Brief wine tasting at winery. Lunch place had great views but mediocre food and slow service,  cuts into your time viewing the waterfalls. Boat tour was cool, you get drenched. Drove to Niagara-on-the-Lake town. Beautiful, quaint town with shops, not enough time to eat dinner and view the town. Then 2.5 hour drive back to Toronto. 9 am-9 pm full day, bring water bottles and snacks."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Niagara Falls, “Awesome”",
+      "text": [
+        "The tour guide was accommodating and provided lots of historical info route to the falls. The bus driver provided a safe driving experience throughout the entire tour. The winery was beautiful, and the wine was also good. The 4 course lunch was nice, the staff engaging and courteous. Then the Niagara Falls, a sight to be seen up close, I met it with some hesitation, but once we got up close it was, breathtaking such a wonder of awesomeness. Loved it all."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Great trip, fantastic guide",
+      "text": [
+        "Fantastic trip, very well organised and timed. Tour guide shaf was very knowledgeable and provided a nice relaxed flow of information throughout the day. There was a good split between group activity and time to split off and explore the sites individually.  Niagra on the lake was fanststic and would have liked to spent more time there however completely understandable that everything needs to be time limited to fit everything in. 100% would recommend"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "We Loved This Tour",
+      "text": [
+        "My wife and I had an absolutely wonderful time on this tour. Thoroughly enjoyed every aspect with a desire to return to Niagara Falls and Niagara by the Lake for an extended stay. Chaf was an excellent tour guide, providing insightful information as well as being the perfect host. Isaac was our wonderful bus driver who got us everywhere slightly ahead of schedule and was friendly as well. My wife and I thoroughly enjoyed every aspect of this trip and we highly recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Niagara Falls Sept 2024",
+      "text": [
+        "The entire trip was fantastic. From the bus drive to the different sightseeing locations. The beauty of the falls to the surrounding neighborhoods was absolutely breathtaking."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Niagara day trip",
+      "text": [
+        "Excellent excursion, especially for a first time visitor. I think more time in Niagara would be better it was a bit rushed"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Bus left and no one answered the phone.",
+      "text": [
+        "It started as a good experience but then ended on a horrible note. The bus left us and we couldn’t find it anywhere and we were left stranded. I called the help line right away and no answer after 20 calls and voicemails. I didn’t have the number of the tour guide to help clarify where they were and that we were looking for them. They left with my belongings still in the bus and no one picked up the phone till 9pm. Ruined the whole experience for me and wouldn’t do it again."
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Book as you won’t be disappointed",
+      "text": [
+        "From the moment we were picked up in Toronto our guide was just excellent. He kept us informed of everything on our journey to firstly the winery. This was only a short stop but it was nice to taste the different wines. Next stop was our 3 course lunch overlooking the Falls. What a superb location. Lunch was ok, it’s nothing special, you get soup to start with then chicken and apple crumble and a choice of soft drinks, there is also a choice of fish, but it is adequate to keep you going for the rest of the day, but the view from the terrace where we ate was spectacular. We then went on the boat tour to Horseshoe Falls. All I can say is wow but be prepared to get absolutely drenched. A bit of advice, leave your trainers on the coach and wear flip flops then you won’t spend the rest of the day with very soggy feet. We then drove to Niagara on the Lake, which is one of the most beautiful places I’ve ever seen. The flowers everywhere were just stunning. The trip is a long day but was made so much more enjoyable by our guide and driver (Issac) I can’t remember the exact name of our guide but he was very good. (We went on Friday 27th Sept). We thought the trip was excellent value for money but it is a very long day but worth every second. Please book with this company as we couldn’t fault there time keeping and knowledge and they made the trip a very very enjoyable day. Thank you."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Well worth doing",
+      "text": [
+        "A fantastic experience .",
+        "Our guide Nicky and bus driver Isaac made this trip a incredible experience.",
+        "Highly Recommended"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Shaf & Issac The Toronto Bus Co Dream Team. Total Professionals a credit to TBC Ltd",
+      "text": [
+        "This tour was fantastic from the winery tour, the lovely 3 course lunch at the falls, the boat ride on the falls, the visit to Niagara by the lake. What made this tour exceptional was Shafin our tour guide, he was so informative with very interesting facts on our way to the falls, plus he also encouraged a bit of interaction from the guests which was very welcome, he is a total professional. I cannot forget about our driver Issac, I have never met such a courteous and considerate driver, taking every opportunity for the guests to get plenty photos from all the viewpoints along the route. If you are thinking about visiting the falls from toronto I would highly recommend booking this tour it was a 5 star experience from start to finish, thanks for the memories guys"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Great boat ride, winery and lunch lackluster",
+      "text": [
+        "I wish the description was a bit more clear.  The winery trip was 20 min.  I had assumed we’d get more of a tasting.  It was pretty rushed.  Same with the time spent in Niagara by the lake.  The meal at Queen Victoria was off a fixed menu and was not good.  I had assumed lunch would be at the winery (wineries usually have good food). The boat ride was 10/10 and our guide was very sweet and did a good job. I wished we would have done the boat tour with more time on our own."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing!",
+      "text": [
+        "Omg this trip was amazing, our driver Joe (P) really went the extra mile, funny and very informative, credit to the company. Trip its self could not be faulted, well orgainised, meal was lovely too ( esp the soup!)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "The Most Amazing Autumn Day Trip to Niagara Falls",
+      "text": [
+        "The beautiful Autumn trip to Niagara Falls checked off one of the bucket list items for my Aunt. I has done the tours before, but this was a new experience. Chaff, our guide and driver, shared amusing stories while visiting Niagara College winery, lunch with a view of Falls, the boat trip, a couple of surprise stops, Niagara on the Lake, and finally back to Toronto. We moved without feeling rushed. It was a wonderful day trip."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "You get alot for the price! ",
+      "text": [
+        "A long day packed with lots to see and do... The Winery stop was brief (30 mins) and a surprise as it was the first stop around 11.15am. Couldn't fault the lunch venue as the views over The Falls were spectacular. We had a clear bluesky day! The lunch was pretty average. Hilight was the boat trip. Incredible experience and photographs. Time is tight and the 'bonus' stop at the maple n chocolate stop on the way to Niagara on the Lake, felt a bit contrived suiting the guide. Niagara on the Lake is a beautiful last stop before heading back to Toronto. Traffic meant that we reached our drop off point at 19:40. This tour packs a lot into day and I would recommend it for the money. Tour guide and driver were kind and attentive. "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Superb Experience!",
+      "text": [
+        "It was a great tour!! Nikki was a superb guide providing us with lots of valuable information and guiding us in a way that there was also sufficient space for individual activities. Don was a great driver, navigating us through crazy Toronto traffic - so we made it on time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "A long day but well worth it. ",
+      "text": [
+        "This was a 'relatively' expensive excursion.... There were 3 adults which came to about £320.00, however it was worth it. Bus to and from with a stop at a winery, Niagara falls including boat to the falls with restaurant and dinner stop, and finally at Niagara on the lake. It was a long day but excellent. Adding up the individual components it was value for money! "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "amazing trip.",
+      "text": [
+        "The tour guide Alwyn is really a nice guy, friendly, polite and sociable. The driver Will is also very friendly, interactive and always support the tour guide. Nice collab between Alwyn and Will. My family really enjoy the trip today especially the boat cruise."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Business"
+    },
+    {
+      "title": "Excellent value day trip",
+      "text": [
+        "Excellent day trip - good guide and driver and well organised day with adequate stops and time allocated across the day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Great all encompassing experience",
+      "text": [
+        "Great all encompassing experience with an informative guide!  Wine tasting was added bonus! ",
+        "Niagara Falls are a wonderful in themselves but this tour added an extra dimension to the experience."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fantastic way to see the Niagara area!",
+      "text": [
+        "Such a fun tour! They pack a lot into this day trip. The boat trip up to Niagara Falls was truly incredible. And the additions of lunch, a trip to a village with local shops, and a winery tasting made this trip an excellent value. Okay, the meal at Queen Victoria Place wasn’t anything to write home about, but the view of the Falls from the restaurant was beautiful. And everything else included in the day made up for the meal. The tour guide was great as well - knowledgeable, helpful, and a positive energy. This was a fantastic way to visit the Niagara area! I would recommend it to anyone."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "A fantastic day out",
+      "text": [
+        "Nicky our guide was fabulous as was Don our driver. Helpful friendly and knowledgeable. The whole day was just brilliant. Thank you"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Oct in Niagara",
+      "text": [
+        "Nikki's fun energy was contagious and gave us interesting facts during our ride to Niagara falls. Pick up and drop off was convenient and I appreciate the time/schedule for each location. Early Oct in Niagara falls was perfect weather! Sunny and on the 70's F. The boat ride was an experience and was the highlight of the trip! We did hit traffic on the way back, but I commend the driver to his patience and getting us back safely."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    }
+  ]
+}

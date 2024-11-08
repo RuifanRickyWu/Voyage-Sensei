@@ -1,0 +1,282 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Go Tours Canada",
+    "url": "/Attraction_Review-g155019-d1924753-Reviews-Go_Tours_Canada-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "30 Gristmill Lane ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5A 3C4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 980
+    },
+    "openingHours": [
+      "Mo-Sa 11:00-17:00",
+      "Su 12:00-17:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1b/31/f2/seriously-you-ll-love.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Segway Tours",
+    "Historical & Heritage Tours",
+    "Walking Tours"
+  ],
+  "description": "We're open for tours! Join us in downtown Toronto at the Distillery District or Ontario Place for a socially distant and safe Walking or Segway Tour. Since 2005, we've been Toronto's favourite Segway Tour. With over 100,000 Segway participants trained, you're in good hands (and wheels) with Go Tours Canada.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Breakfast at Distillery District in November",
+      "text": [
+        "Thanks to Nicole for showing us around with such enthusiasm. We learned so much about Distillery District because of you. Your knowledge about DD made this trip educational and enjoyable. Thank you Nicole (Lavander latte ❤️ and chocolate cookies were so yummy 😋)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Couples"
+    },
+    {
+      "title": "Amazing tour by enthusiastic guide",
+      "text": [
+        "A group of 6 - family and adult children. ",
+        "We had a great experience with Tom, he was a very informative tour guide. ",
+        "He answered every question we had and gave us a really detailed tour of the distillery district. ",
+        "Really enjoyed it. Would recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "A great way of starting the day",
+      "text": [
+        "This was such a good way of starting the day - a lovely part of the city to explore, and Nicole was fantastically knowledgeable and so welcoming. It was great to visit different cafes too and the breakfast sandwich, coffee and cookie were delicious."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Highly recommended",
+      "text": [
+        "Nicole was a fantastic tour guide. The historical information was very interesting and the food and beverages were yummy"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Breakfast tour at the distillery district",
+      "text": [
+        "The tour was amazing and our tour guide was so knowledgeable and the food stops were amazing.  We learnt a lot about the alcohol journey and the influence it had on the world"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Thumbs up!",
+      "text": [
+        "Shout out to Tom, our amazing tour guide!",
+        "Thank you for a fascinating walk into the past of the distillery! ",
+        "I highly recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "A Lil Fun!",
+      "text": [
+        "It was a fun little tour of the Distillery District - lots of shops & eateries to visit afterwards. The time was perfect - training, then the 30-minute tour - plan for a full hour of time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Great informative tour",
+      "text": [
+        "Devon led us on a great tour through the distillery district and was eager to answer our questions. There were hidden details in the District that were pointed out which was great (things you wouldn't notice on your own), and great advice on how to make the most of a day in the area. Only reason for four stars is the tour was only an hour long."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Informative and interesting small group walking tour",
+      "text": [
+        "Great walking tour with just one other couple. Devin was a great guide, friendly and informative (especially for those of us with no knowledge of Canadian history). We were in the area just before the start of a tour, and were able to purchase and join on the spot. Also happened to be a Whisky  Fest on that day, so Devin filled us in on that as well."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "A Learning Experience",
+      "text": [
+        "I very enjoyable tour learning a lot about Toronto's past and history of the distillery. Devin is a knowledgeable, friendly and entertaining guide"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Fun outing with family",
+      "text": [
+        "We had so much fun learning to ride our Segways.  We left our bags in a locker, wore a helmet from Go Tours and headed out with Nicole, who was a great teacher and tour guide.  It was a great way to tour around the Distillery District and a great way to tour in general.  It is most fun to segway when there are fewer people around so plan to go when there are fewer tourists."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Walking Distillery Tour",
+      "text": [
+        "We decided to book last minute. Was a very informative tour of the area. With the help of our wonderful guide Nicole we learned a lot about the area. And we also saw so much inside beyond what you would think was there doing it on your own."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Everything Was Awesome!",
+      "text": [
+        "Our guide Nicole was awesome! Very knowledgeable about the grounds history, very patient with my wife lol, and was very concerning for our safety as well as insuring we enjoyed ourselves! We booked a 30 min Tour but she went well over and never did it feel rushed! You'll be in good hands with Nicole as your guide! 😊"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "10 start review",
+      "text": [
+        "We enjoyed the guided tour through the architecture and the history of the streets of the distillery, with a very knowledgeable and fun guid."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "Beautiful and Interesting",
+      "text": [
+        "The Distillery District is beautiful, and this one hour tour is such a helpful tool to get the most out of it. From the history to the current restaurants to movies to watch to spot the district, we learned a lot and had fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Yummy Times with History Learning",
+      "text": [
+        "Nicole was great, very knowledgeable. There was so much more food than I expected (all of it good), plus Nicole gave us some great recommendations for later."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "History a plenty - Distillery District",
+      "text": [
+        "The tour of the distillery district in Toronto was excellent.",
+        "Sarah was very knowledgable and a great sense of humour.",
+        "Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Couples"
+    },
+    {
+      "title": "Antonina",
+      "text": [
+        "The best tour. A lot of interesting information. I'm thrilled! Sincerely recommend! Now I will drink whiskey with new knowledge"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Family"
+    },
+    {
+      "title": "George Brown College Heritage Tours at the Distillery",
+      "text": [
+        "Go tours provided the walking tour to the students in a heritage tourism course as part of George brown college’s school of hospitality and tourism management. Tom and Sarah both had  historical expertise in various areas so the two tours were both interesting and. Informative.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Business"
+    },
+    {
+      "title": "Walk through the old distillery",
+      "text": [
+        "Informative tour of the historical distillery area. This tour included stops along way at various shops. It offered further input into how the area has been repurposed in recent years to become a vibrant area again for the city.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Solo"
+    },
+    {
+      "title": "Great walking tour",
+      "text": [
+        "This is a fantastic tour of the surviving distillery district. Jason our tour guide, was informative and entertaining.  It was nice to see some history in a very modern city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Excellent Segway Tour",
+      "text": [
+        "Nichole was great! Very understanding with a new person and then we who wanted to go faster. Thank you! Highly recommend for a short trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Walking Tour of Distillery District",
+      "text": [
+        "David was a fantastic tour guide.  He was extremely knowledgable about the history of the Distillery District and he also added anecdotes which added even more interest to his tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "A wonderful experience!",
+      "text": [
+        "Fantastic tour! Nicole was so lovely and full of information. The cafes, food and drinks included were all top notch and they had no trouble accommodating me being a vegetarian. I’ve been to the Distillery District before but seeing it this way and learning the history made me appreciate it so much more! Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Super fun!",
+      "text": [
+        "This was a super fun way to see an old part of Toronto. The guide was fantastic and the segways were so much fun. We brought our teenagers with us and it really made our day in Toronto. Would definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "A fun and informative hour!",
+      "text": [
+        "Our walking tour guide was Tom and he did a great job! The pace was perfect, he offered to take photos, the information was interesting. This was an awesome way to spend an hour and we learned a lot."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Business"
+    },
+    {
+      "title": "Drink but no Food....",
+      "text": [
+        "Tom was very personable and shared much history of the Distillery.",
+        "The description mentionned Food and Drink.....missed the food part....or was that the chocolate???"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Well worth trip through the distillery on a segway",
+      "text": [
+        "The route was fun and informative. Nicole gave us a quick 10min lesson and practise before we set off. Fascinating tour and great to do on first couple days arriving in Toronto as it gives you areas to explore in the distillery and beyond."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Enjoyable Segway tour",
+      "text": [
+        "Segway tours are harder to come by these days.  After reading the reviews, we went in with low expectations.  It was helpful to know that we wouldn't cover much ground and would go over the same areas a few times.  That's fine though.  The space is what it is.  David, our tour guide, was very good both from a safety perspective and as a tour guide.  Some interesting history there presented well.  I recommend it.  I just don't super recommend it.  4 stars."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Cool experience - David was great!",
+      "text": [
+        "This was a really cool experience, and our guide David made it really easy and fun! Would do this again with a larger group of friends and would recommend for anyone with 30 minutes to spare in the Distillery District."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    }
+  ]
+}

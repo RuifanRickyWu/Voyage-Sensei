@@ -1,0 +1,364 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Rogers Centre",
+    "url": "/Attraction_Review-g155019-d156878-Reviews-Rogers_Centre-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 Blue Jays Way ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 1J1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 4023
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/5a/b8/cd/blue-jays-game-at-the.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Arenas & Stadiums"
+  ],
+  "description": "With its retractable roof, in-house hotel and Hard Rock Cafe, the home turf of the Toronto Blue Jays and the Toronto Argonauts is truly a sight to see.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Lovely open feel to the stadium with great views, even in the 'Gods'",
+      "text": [
+        "Loved our visit to the Rogers stadium to catch the Bluejays in a Baseball game against Miami. Very well organised, lots of space, not over crowded, easy to get food and drink and of decent quality considering the volume of visitors. If you are going to Toronto you have to try and do a game!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "An absolute must",
+      "text": [
+        "Wow wow wow what an experience!! If you get the chance to go to a blue jays game then do it and you won’t regret it. As a tourist to the area a baseball game was a must do and the blue jays won!! We saw lots of BJ action too ( don’t be rude the mascot is called BJ) yea I giggled as well when every cheered for BJ. Sadly didn’t manage to catch a game ball but was a fantastic game with the roof open."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Fun few days at the Roger's Center.",
+      "text": [
+        "We watched 3 action packed entertaining games at the \"Skydome\" from September 13 - 15.  We watched the games from 3 different locations and all were great.  The concourse is easy to wander around on.  We found seats easily.  Staff were helpful and friendly.",
+        "It was non stop music and entertainment throughout the game.  Very enjoyable and kept things lively.",
+        "Like most sports venues it is not a cheap place to go to.  Several people around us were complaining about costs.  I didn't find it a lot different than other places we have been to for hockey games.  I did think a $24 caesar was a bit much. :)",
+        "There is no cash used here so everything is done by card.",
+        "I am so glad we have finally gotten here.  Having the Jays win 3 games was definitely a plus."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Blue Jays v Oakland A's",
+      "text": [
+        "This was a rarity for us -- to see a MLB game.  The Toronto Blue Jays, which are having a tough season, against the visiting Oakland A;s battled it out.  We had great seats, about 12 rows above the third base area.  ",
+        "Some foul balls landed nearby, the leading BJs sluggers were ineffective, and a generally lethargic game, ending in 1-0 for the A's.  The prices for food and drinks are typically super-expensive.",
+        "We first had to endure the relentless sun and heat, but later it got better."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "See it all",
+      "text": [
+        "Such a beautiful stadium to watch a baseball game. The location is amazing as well. The CN Tower is RIGHT THERE. There is a rail road museum and restaurants. The grounds are great. You can walk all around the ballpark which I LOVE. The big screen is enormous. I think its wild they have a retractable roof that doesn't go anywhere. Definitely worth a trip there!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Blue jays",
+      "text": [
+        "Stadium views were fabulous,  as too the atmosphere, very engaging with the crowd.  Blue Jays won which is good. My very 1st baseball game."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Take me out to the ballgame!",
+      "text": [
+        "Rogers Centre (the Skydome) is always a great experience! The upgrades look fantastic! This was the boys first game and they had a blast! Great food variety and drink menu. Always beautiful when the dome is open.  Go Blue Jays!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Great ball game experience",
+      "text": [
+        "Stunning stadium and great atmosphere on a Blue Jays game night. The real ballpark experience with giant hotdogs, beer and ridiculously sized helpings of popcorn. Helps to brush up on the basic rules of baseball beforehand but you don't need to be an expert to follow what's going on. You also don't need to pay a fortune either. I'm sure the expensive seats near the dugouts are great but I went for the cheaper $50 ones and the view was perfectly acceptable (see attached picture). Only negative was cost of some of the merchandise. Match shirts were an eye-watering $200+ although you can find plenty of cheaper options."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "MLB In Toronto",
+      "text": [
+        "Fun afternoon at Roger’s park.  Was In town and just happened to catch the Blue Jays Rangers game. Roof was open so had plenty of sun. Sat up top but still had great seats."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Horrible staff",
+      "text": [
+        "We went for a company trip. We were provided with gift cards to get food and drink. A number of stands, inside the stadium, said they don’t accept the cards. When we approached another stand, you would have thought we asked the attendee to sacrifice a member of their family. His words, ‘I bet you guys paid nothing for this. NOTHING. And what do I get? No tip for me.’ Him and his female co worker berated myself and my co workers. ",
+        "Horrendous. A money racket. Wouldn’t recommend. I’ve fed this back to my firm."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Business"
+    },
+    {
+      "title": "Good game",
+      "text": [
+        "Overall an excellent game experience but there were too many people walking up and down the aisles all the time.  I’ll choose my seats away from the main aisles next time."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Website has So much info",
+      "text": [
+        "For someone who likes and needs to plan EVERYTHING before I go somewhere, this was an awesome experience. My daughter is newly diagnosed celiac, and this was our first trip, so I was nervous trying to find her food. The fact that they let you bring in outside food is a godsend - but they also had on the website dietary restrictions, listing all the gluten free options and what section to find them in. And they were good too! Nachos and a hot dog and ice cream, and the vendors were knowledgeable. ",
+        "I wish the non-alcoholic beer was easier to find - the Bud Zero was in a couple places (they're a sponsor, they should be!) but the Corona patio had a NA beer listed, but the server said they \"ran out\" which I didn't buy because I was one of the first people that got there - they hadn't bothered to stock any. A small complaint, but something they can improve on. ",
+        "Overall the family had a great time, even up in the \"nosebleeds\". "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Bluejays",
+      "text": [
+        "This stadium is right next to CN Tower. When I visited Toronto, I was not able to get to see a match since it was off season. However, if you are a fan, you may get in for a tour."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Baseball, Eh?",
+      "text": [
+        "The Rogers Centre may not seem like a lot from the outside. Built during the era of the concrete stadium, it blends in to the city and is not easily identifiable. However, inside the stadium lies a true jewel of baseball. The atmosphere is great, the food is delicious, and the view of the field (roof on or off) is gorgeous. The seats are plastic and the seating is a tad snug, but overall I found that Toronto is a must stop for any baseball fan worth their salt."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Cool Stadium",
+      "text": [
+        "I’ve been to the Rogers Centre a few times now for a number of events, including blue jays games, a P!nk concert and a Queen concert. Every time I have been served in a timely manner considering the line ups. My only complain is I’m afraid of heights and the nose bleed seats scare me. Definitely a great place to host a concert though."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "Two games",
+      "text": [
+        "Great park for a ballgame. Watched the roof open. Watched two games. Great atmosphere. Parking was fairly easy. Go early and walk around"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Great ballpark",
+      "text": [
+        "We went to a night game and sat in the TD clubhouse 200 level.  The park was very entertaining and our seats were excellent.  You could order your food and drinks from a server or from your phone and it was delivered.  All of the staff was helpful and friendly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Fun evening",
+      "text": [
+        "Beautiful stadium, our family enjoyed the game! Tickets were a bit pricey because fans fill that stadium, but it was a nice atmosphere and enjoyed the poutine hot dog."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Modern, Clean, Easy, so fun!",
+      "text": [
+        "This place is the very nicest baseball stadium I’ve ever been in.  Parking was affordable & close.  We felt safe, had great seats, & loved how much team spirit people have.  Everyone wears royal blue.  And the Blue Jays had two home runs, so we left even happier with the win."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Rogers Center upgrades well worth it",
+      "text": [
+        "First Blue Jays game, and although I haven't been to the Rogers Centre previously, the new refurbishments made apparently were very effective because we had a blast and it looks much better than I had been led to believe it would."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "Rogers Center, Toronto, Canada",
+      "text": [
+        "I was there for Blue Jays as a fan of a baseball team for the first time in my life. Although I found baseball quite boring, I enjoyed the atmosphere and drinks, especially Blue Jay's special edition beers served there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "How do they get away with it??",
+      "text": [
+        "Possibly the most uninspiring, overpriced and overrated food on the planet. The atmosphere is contrived and the music is amazingly bad. ",
+        "But what do expect for 2 $500 tickets (a piece)?"
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Go Jays!",
+      "text": [
+        "Such a cool building! I’ve had the pleasure of seeing a few Blue Jays games here, and soon I’ll be back for my first Rogers Centre concert (Blink-182)! Both Jays games were an amazing experience, such a fun game/team to watch. The arena is very nice, and the retractable roof is very impressive! Ridiculously expensive beer and stuff, but that’s pretty much every arena at this point. Hard to get a bad seat here too. Also, consider stopping at the Steam Whistle Brewery just outside of the arena. Personally my favorite beer to drink, get the unfiltered!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "A EXCITING EXPERIENCE!",
+      "text": [
+        "It was really fun! We went to a Jays vs Yankees game so it was like very intense. In the last few minutes, we lost 2-0! Still a very good experience. I've been to 6 Jays games, but this was the most intense of all"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Family"
+    },
+    {
+      "title": "Really great experience!",
+      "text": [
+        "This was our final MLB stadium to visit and it didn't disappoint.  Jr Jays Sunday was special, the free features were great and I didn't have a child with me :) I especially liked the entertainment at the Corona Roof top bar and the seating.  Food was reasonably priced and the walking paths to our hotel was great.  Only tiny negative were the Schneiders saug & hot dog....skins are too tough for our preference.  Didn't worry about rain because of the roof.  To get a perfect score the stadium needed wider seats and cup holders for drinks as it is very narrow for others going in and out of a row."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Amazing view of CN Tower when the roof is open !!",
+      "text": [
+        "It could be really hot in summer under the Sun, but definitely enjoy the spectacular view. ",
+        "Recommend to take the public transportation to get there, the highway and roads are absolute mess in the area."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "uncomfortable seating",
+      "text": [
+        "Went on a bus trip to see the Blue Jays game. Good thing it was a bus. The police had all the roads blocked and were directing traffic who knows where. We disembarked and needed to walk around the stadium to find our gate. Check in was fine and we were directed to our seats in the 200 level. The seats are small, hard and uncomfortable. They also faced the left fielder so to watch the play you needed to keep your head turned left or attempt to sit sideways. Next day I had a sore back and stiff neck. The intensity of the lights was also bothersome. We sat in an area with our own lounge. The prices are astronomical. A can of beer,$15.00 a glass of wine $23.00. Exiting was also a slow and crowded process. I'll really need to think about attending another game."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Wow!  Blue Jays in a magnificent ball field and stadium!",
+      "text": [
+        "The game was exciting, the weather stunning but the best part was the stadium. Newly renovated and gorgeous.  Worth a visit for a ball game anytime.  Put it on your to do list when passing through TO."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "Boring",
+      "text": [
+        "My first and last baseball experience. Not for me I'm afraid.",
+        "The Stadium and staff were second to none!",
+        "The food was everything as an Englishman you would expect , hot dogs, hot dogs and more hot dogs - oh and popcorn ( plus a few other bits) drinks service was excellent if a bit limited range.",
+        "Comfortable seat - easy to access but lots of steps.",
+        "The game ....,.. boring as ..,. Until the 7th innings when people around me stopped talking about work and swiping left and actually took some notice. Not my scene at all sorry."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Enjoyed the atmosphere",
+      "text": [
+        "Simple to navigate and many food vendors. Lots of activities for young and old. Lots of staff to assist when necessary."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Older but recently renovated stadium",
+      "text": [
+        "Built at the end of the multipurpose stadium era, Rogers Centre is the seventh oldest ballpark in the majors. Aside from the fun sculptures on the outfield corners, the exterior is bland and utilitarian. However, the interior was recently renovated, and it looks modern and inviting, including some social spaces in the outfield.",
+        "The roof was open the night I attended, allowing for cool views of CN Tower next door. The game itself was great, and while a bit loud, the between-inning entertainment was well-done. Concessions were fine (Tuesdays are dollar hot-dog nights!), and wayfinding was simple. It's really easy getting to the park from Union Station."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Nice Ballpark",
+      "text": [
+        "This is a very modern park, the antithesis of the new approach to ballparks seen in places like Baltimore, Detroit and Pittsburgh, among others. The sight lines are good, the park is comfortable, and the food and beverage selection is good too."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Amazing stadium and Blue Jays win",
+      "text": [
+        "We had tickets on the 3rd base line and the Skydome experience in the evening, with the roof open, with views of the CN Tower, is just something. Ok, you spend a fortune for hot dogs but watching a live baseball game with the ability to stroll around the concessions area during the game, makes the time fly. The in-game entertainment, between innings, and interactions, also help. Plenty of useful information broadcasted on the big screens help you keep in touch with what is going on. Seating is also comfortable, and you have place to hold your drink so you can be at ease. You spend a fortune to watch a game but it's worth it at least once in a while. And it's funner when your team wins, of course."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Enjoyable ballpark experience",
+      "text": [
+        "This ballpark is starting to show its age but still in very good shape. They create a nice experience for the fans. We were in town from the US specifically to attend a game and really enjoyed ourselves. Dollar hot dog Tuesday! Great views of the CN Tower from the third base side. Plenty of food and beverage stands in wide concourses. Clean bathrooms."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Great stadium and staff but can be better!",
+      "text": [
+        "It was horrible!! The stadium itself is beautiful (the remodel and upgrades look great) and the staff were for the most part very nice (especially the server we had in section 225B). The main reason for the 3 is because for some reason, every stadium is now going cashless. That in and of itself wouldn't be an issue but someone at the Rogers Center felt that 3 cash conversion machines would be enough for a stadium that seats thousands of people. That being said, out of the 3 machines in the stadium (1 on the 100 level, in the Jays Store, the other on the opposite side on the 100 level and the 3rd machine on the 500 level) the ONLY one that worked was on the 500 level!!! The sad part is that even THAT machine wasn't working properly! The staff at the fan service desk were great though. They helped everyone that needed help even though more than a few people were getting upset with the machine not working properly. Overall, it was a fun day at the park, just didn't expect to have to walk from the 200 level to the 100 level and walk the entire level and then have to walk to the 500 level and back down to the 200 level BEFORE the game even started!! Bluejays and MLB, if you want to be cashless make sure you have enough WORKING cash conversion machines to service a stadium full of fans!! Do better!!!!!!!!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Play Ball",
+      "text": [
+        "Great facility, located close to many downtown attractions. A fun time watching the Blue Jays play baseball. Even better when the roof is open on sunny days and nights. Great atmosphere and plenty of great food and drink selections."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "The Renovation was disappointing!",
+      "text": [
+        "I was underwhelmed with the renovations at the Rogers Centre.  I expected a bit more of an inviting atmosphere.  The dark blue and slate grey accompanied with the same flooring and lighting of the main concourse made for a dark boorish experience.  The seats were definitely more comfortable, but again the colour scheme makes for a dark feel.  Give me the powder blue Blue Jay colouring with some of the amenities they’ve put in and it would feel a lot better and much tolerable to overpay the terrible concession prices.  $32 for two beers is steep.  $12ish for a foot long, nothing special hot dog.  It does hurt the pocketbook, for sure!  Love my baseball, but this renovation has missed the Mark (no thanks Shapiro)!"
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "Rogers Centre is the perfect place to watch a Baseball game",
+      "text": [
+        "The Rogers Centre is a great place to see a ballgame.  The exterior is as scenic as any stadium in the league with the CN Tower right outside.  The ballpark itself has great viewing angles from every seat.  I was lucky enough to get tickets 9 rows behind home plate and I was blown away by the view.  The restrooms and food were easily accessible, and public transportation can get you to the venue easily from any direction.  I can't wait to come back for another Jays game during my next trip.  Thanks Rogers Centre for a 5 star baseball viewing experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "No tours",
+      "text": [
+        "Was here when the Yankees visited. I would have liked to have done a stadium tour but regrettably they do not do them. As a UK visitor I was disappointed they didn't do them  . It is a very impressive stadium"
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "great time but....",
+      "text": [
+        "went to an afternoon game on a Wednesday - had a great time and the place looks terrific - however -  stopped at dugout deals before the game started  to grab a couple of beers - now they serve 2 types there - Bud and Bud Light  - and wouldn't you know they didn't have Bud lol - Hello McFly - you had one -I repeat -  one job to do....better get out the pencil sharpener because because you have one that's not too sharp in the pack"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Friends"
+    }
+  ]
+}

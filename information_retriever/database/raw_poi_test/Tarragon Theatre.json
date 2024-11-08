@@ -1,0 +1,367 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Tarragon Theatre",
+    "url": "/Attraction_Review-g155019-d556736-Reviews-Tarragon_Theatre-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "30 Bridgman Ave ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5R 1X3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 47
+    },
+    "openingHours": "Tu-Su 12:00-20:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/40/3d/26/tarragon-theatre.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Theaters"
+  ],
+  "description": "Under the direction of Artistic Director Richard Rose, the Tarragon Theatre is a leading Canadian company for the development, creation, and encouragement of new work. Over 170 works have premiered at the Tarragon, including new works written by Morwyn Brebner, David French, Michael Healey, Joan MacLeod, Morris Panych, James Reaney, Jason Sherman, Brendan Gall and Judith Thompson.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Great Theater and Great Ticket Prices",
+      "text": [
+        "We came to this theater (theatre) to watch the play Yaga after having dinner at Chadwicks.  It is a perfect size for the play that we watched.  The acoustics were very good and the actors were perfect.  ",
+        "This theater has a small bar if you care to order drinks.  The cost is equivalent to other theaters that I've visited.  There is also enough bathrooms for the ladies during intermission (always a concern!)  Photos and recording are not allowed during the shows and the audience is requested to either mute or shut off their phones.  This is not abnormal.",
+        "There is parking across the street and at least two restaurants within walking distance.  I also appreciated the fact that the producer recognized the fact that the theater sits on lands of the indigenous people."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Great plays at an affordable price",
+      "text": [
+        "Tarragon Theatre provides top notch entertainment, promoting Canadian playwrights. The first two shows this season has been great and I am looking forward to the rest of the program"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Better than some of the plays I've seen through Mirvish",
+      "text": [
+        "Don't get me wrong I love Mirvish productions but we saw Seana McKenna in Yaga and it was better than The Band's Visit we had seen the night before with Mirvish. The seats are very comfortable - they offer a student rate and the tickets in general are very well priced. There is a bar with great drinks and wonderful snack for intermission - parking directly across the street and the theatre is well kept and nicely equipped. We will likely see one more play and then consider a subscription which I understand starts at $185 for 9 plays. Highly recommend this place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Guarded Girls play - intense",
+      "text": [
+        "Theatre that is very professional, intense and thought provoking with its many layers. Accessible to many people due to pricing options. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Quality Thoughtful Theatre Programming",
+      "text": [
+        "This is a great choice for local (and Canadian quality) theatre. An easy walk from subway stop, with restaurant options in the area. An interesting program for the coming year."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Good space; fascinating play",
+      "text": [
+        "We were in the Main Stage theatre for a performance of Harlem Duet by Djanet Sears. The play, though occasionally confusing because of the jumps back and forth in time, is quite fascinating as a riff on Shakespeare's Othello and as a take on the background of Othello's marriage to Desdemona from a black perspective. The performances are  very strong, especially by the actor playing Billie, Virgilia Griffith. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Great evening out",
+      "text": [
+        "2 theatres, we were in the smaller Extra Space. Well organized, lots of parking and access to TTC/restaurants, performances were professional. Definitely would go there again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Friends"
+    },
+    {
+      "title": "A Great Space To See A Show",
+      "text": [
+        "This theater is literally a hidden gem. It's off the beaten path, but well worth the journey. The show I saw, Blind Date, was perfect for this theater as it's an intimate and interactive show.  From the other reviews I've seen here, this seems to be the kind of show they like to put on here. This is the sign of a well run theater company, one that knows it's environment, and knows which shows work.",
+        "One of the great features of this theater is the  outside lounge area. At night it's a beautiful court yard that magically takes you out of Toronto, and into its own world. It's a wonderful treat to see a fun show and enjoy the environment so much."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Great small theater",
+      "text": [
+        "When we go to Toronto, we always check to see what is going on at the Tarragon, and we usually go. At the Tarragon, access via public transportation is easy, every seat is good, and the quality of performance is sometimes extraordinary, always reliably good. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017"
+    },
+    {
+      "title": "Great Venue",
+      "text": [
+        "A great small theatre with interesting productions. The experience is quite intimate and their productions are innovative and interesting. We saw Midsummer( A Play with Songs) and thoroughly enjoyed it."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2017 • Couples"
+    },
+    {
+      "title": "Enigmatic habit-forming activity",
+      "text": [
+        "Having been a Tarragon subscriber almost from its inception when i lived a long way out of town, i can recommend Tarragon as a rewarding habit. Now i live much closer and still find it to be a funny mix of the brilliant and the obscure. Almost every season includes at least one sock blaster play - that is one that will blow your socks off and be memorable for decades. Some seasons also bring with them their share of disappointments. In my view, the assessments of the critics writing in the newspapers do not always coincide with my own opinion. I can find myself watching a fine cast working their way purposefully through an indifferent play and read that it has been a must see post-modern triumph. Similarly,  I can find myself reading a scathing report on a play, trashing the cast, berating the author and chastising the set only to find myself transported by a brilliant cast, trenchant direction and an exquisite jewel of a play whose set design complements the play perfectly. I therefore conclude that my judgement must be less refined than that of the critics - but i have to say that i am happy with that. So, get a subscription and take in all of the plays as a theatre should be judge by a season, not a play. Like sports teams, theatres have good seasons and bad seasons and even a poor season at tarragon is good by most small theatre standards. The subscription is flexible, a huge asset in busy Toronto living, and the box office goes to great lengths to get you in when you want to be there and change your reservation if it is possible. There's quite bit of grey hair in the audience; but they look pretty familiar, so it must be habit-forming for them too. The \"deal\" for young people to attend at reduced prices is a great marketing strategy and I see a number of smart young people developing a taste for live theatre through this program. "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2012 • Family"
+    },
+    {
+      "title": "New and innovative theatre",
+      "text": [
+        "We have had a Tarragon subscription since 1997.  There is at least one good play per season, but taste is individual.  Some I have disliked were very well received by other patrons, and presumably vice-versa.  The memorable ones were: \"Little Mercy's First Murder by Morwyn Brebner\", \"The Clockmaker\" by  Stephen Massicotte, and \"East of Berlin\" by  Hannah Moscovitch.  Some plays are clearly experimental, so fall into the \"interesting\" category.  Cases in point for the 2011/12 season were the \"Golden Dragon\" by Roland Schimmelpfennig and \"The small room at the top of the stairs\" by  Carole Fréchette"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2012"
+    },
+    {
+      "title": "Great small theatre productions",
+      "text": [
+        "This is one of the best small theatres in Toronto; and probably Canada. First class productions and staff, in a very intimate atmosphere. Member for more than 30 years, and rarely disappointed."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2012 • Friends"
+    },
+    {
+      "title": "Venerable Tarragon survives and thrives!",
+      "text": [
+        "Interesting and thought-provoking productions featuring great actors."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2011"
+    },
+    {
+      "title": "Daring to be daring",
+      "text": [
+        "Small like a community theatre. They deserve a medal for the Canadian writers and performers they have starred. You'll never find Sound of Music there, more likely the next Death of a Salesman.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2011 • Couples"
+    },
+    {
+      "title": "Local challenging theater",
+      "text": [
+        "This neighbourhood theater is known for its willingness to produce avant-garde, challenging shows There is a main stage and a smaller theater. The seating is basic, 'Sundays is pay as you go' They have access to phenomenal actors/actresses who performances are top class. Many of the shows are first time plays and the majority have a social context.  Reservations is a must, prices are affordable"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2012 • Friends"
+    },
+    {
+      "title": "High quality performances always leave you thinking",
+      "text": [
+        "Tarragon Theatre produces some of the best small theatre in Canada, regularly featuring outstanding actors who like the breadth and scope of the roles on offer. They actively support Canadian playwrights and make a point of staging thoughtful, thought-provoking plays."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2012 • Friends"
+    },
+    {
+      "title": "Always worth checking out",
+      "text": [
+        "This theatre is one of the leading theatres in the country that specializes in new Canadian plays. Always worth checking out. I've seen many plays there that I've loved."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2012 • Business"
+    },
+    {
+      "title": "one of the best indy theatres in toronto.",
+      "text": [
+        "It varies from show to show, but it's always brave, and always thoughtful."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2012 • Couples"
+    },
+    {
+      "title": "Inclusive toronto theatre experience",
+      "text": [
+        "Tarragon is affordable,interesting,well located and personable.there are 2 houses and all of the seats are equally priced.many of the productions stem from workshops,artists in residence and local rentals using the smaller space.it is an important showcase for theatre in toronto"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Loved the performance of Sextet I attended last night. Brilliant writing, acting and design.  A lovely theatre offering diversity and high standards. Warm, welcoming and comfortable.  It must be supported. Turn off your screens and get there!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2014 • Friends"
+    },
+    {
+      "title": "Enemy of the People",
+      "text": [
+        "Just saw this play last night and it was excellent.  The acting was superb and at one point they bring the lights up and allow the audience to participate in the debate.  People were right into the argument and quite indignant about the actor's differing positions.  Great fun and very interesting.  An excellent evening out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2014 • Friends"
+    },
+    {
+      "title": "Hardcore indie scene",
+      "text": [
+        "The Tarragon of 2013 is continuing the venerable Annex of way of doing things... a bit different, a bit sophisticated, a bit about going for drinks after whatever the show was. I enjoyed it, and if you're reading this, you probably will too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2013 • Couples"
+    },
+    {
+      "title": "Too Politically Correct",
+      "text": [
+        "I have been a life long philosophy student and was disturbed at the consistent presentation of plays that were based on idealism. Plays that tried to project onto the world how idealists think the world should be. I saw one play by an empiricist who had the perception to see how the world actually is. That was Courageous by Michael Healey. The Tarragon then didn't present Healey's next play, Proud. ",
+        "Good Art should be philosophically perceptive. The Tarragon lacks the perception of epistemology to evolve from idealism to empiricism. Their plays typically indulge in the most common ideals, such as romantic primitivism. They are stuck in the narrow view of political correctness. If you want to see perceptive plays, look elsewhere."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2013 • Friends"
+    },
+    {
+      "title": "Lovely old theatre",
+      "text": [
+        "What a nice old, intimate theatre.  Audience surrounds the stage with all seats having a great view.  Comfortable seating with lots of leg room.  Wonderful, off-broadway style productions.",
+        "Only complaint is the air is stuffy; needs more circulation."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2013 • Couples"
+    },
+    {
+      "title": "Beautiful old theatre",
+      "text": [
+        "Small and always great plays. Easy parking on the side streets.",
+        "Every year they put together a great group of performances. Comfortable seating and easy access by subway or streetcar."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2013 • Friends"
+    },
+    {
+      "title": "Imaginative theatre, terrific actors",
+      "text": [
+        "We have seen performances at the Tarraon Theatre several times. Each time we walked away thrilled and amazed at the creative, thought provoking productions. This theatre is not large. The cast are skilled professionals that provide provocative and thoughtful plays. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2013 • Friends"
+    },
+    {
+      "title": "Excellent productions in an intimate space",
+      "text": [
+        "This theater puts on new shows with excellent actors and great production value. There are no bad seats in this house!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Love this theatre",
+      "text": [
+        "What I saw here -",
+        "THE CHARGE OF THE EXPORMIDABLE MOOSE PRESENTED BY ONE LITTLE GOAT THEATRE.",
+        "What a great production!  I saw this wild play while I was in Toronto at the end of May 2013.  Loved the theatre, loved the seating, loved the production!  So enjoyable, I can't imagine not going back to this theatre when I return to Toronto.  Easy to find and get too, affordable, and professional with a high degree of artistic integrity!  What more could you ask for."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2013 • Solo"
+    },
+    {
+      "title": "Wonderful variety - entertaining, thought provoking",
+      "text": [
+        "We have been volunteering here for a number of years and enjoy the ambience and quality of the plays."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2013 • Couples"
+    },
+    {
+      "title": "Brilliant like Chekov himself",
+      "text": [
+        "\"I take your hand in mine \" a exquisite play telling about Chekov's own beautiful love story. ",
+        "So much energy and talent!  ",
+        "This is passionate theatre - not to be missed for sure. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Friends"
+    },
+    {
+      "title": "Makes going to the theatre easy",
+      "text": [
+        "If you going to see plays isn't your usual form of entertainment but you're curious, this theatre is a terrific place to start. For new and seasoned theatre-goers alike, the casual but professional atmosphere and variety of stage types/sizes and productions make going to a show easy.  ",
+        "Their website is very helpful with info about transit and parking, food options, and what to expect while at the venue. ",
+        "The price point of tickets is reasonable so spending an evening watch live theatre is a nice way to shake up one's entertainment options!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017 • Couples"
+    },
+    {
+      "title": "Always Great Dramatic (and sometimes comedic) theatre!",
+      "text": [
+        "I love the Tarragon for it's intensely engaging plays. No light and fluffy musicals here! If you're up for strong performances, in often deeply moving plays, this is the place! ",
+        "They also have a \"box dinner\" you can order in advance, to eat before the play, and the very best dark-chocolate-dipped macaroons in the city! Beer and wine, along with great coffee and pastries, available. Easy parking across the street."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017"
+    },
+    {
+      "title": "Always enjoy their shows. ",
+      "text": [
+        "Been several times over the years and a couple times in the last year and always enjoy their show.  Like the size of the theatre. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "The surrounded ",
+      "text": [
+        "Have been to the Tarragon theatre on several occasions and always enjoy the performances.  Minimalist staging, but effective. Creative.  Well written and performed. Small theatre which means great seats throughout.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016 • Friends"
+    },
+    {
+      "title": "Interesting, thought provoking theatre",
+      "text": [
+        "I've been a subscriber at Tarragon for a number of years and I think things are getting better and better.  Recently 'The Summoned' and 'Mustard' were interesting and thought provoking, with a side dish of humour.  ",
+        "Specific seats are not reserved, and people tend to line up 30 or more minutes before the shows in the main theatre.  But, the theatre is a modest size, so you can experience the play successfully from anywhere.  A hint - the theatre tends to be warm at the top of the patron seating.  Choose your seat accordingly."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2016 • Friends"
+    },
+    {
+      "title": "You Will Remember Me is a must-see",
+      "text": [
+        "We saw Archambault's play You Will Remember Me last night and were blown away. The subject matter is deeply affecting, and the performances are superb. R.H. Thomson is outstanding as the aging and ailing professor, but the other four actors are also excellent. The script has been very well translated from the original French-Canadian. I cannot recommend this play too highly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2016 • Couples"
+    },
+    {
+      "title": "Amazing play",
+      "text": [
+        "As  a season subscriber, I  enjoy the diversity of the productions at the Tarragon theatre. Remember Me was a great play with R.H. Thomson  and Nancy Palk. worth watching while at this venue."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2016 • Couples"
+    },
+    {
+      "title": "Interesting take on Ibsen",
+      "text": [
+        "We went to see Henrik Ibsen's \"Enemy of the People\" adapted by a German director. The play was transposed to the present, the issues raised being just as relevant now as they were in the late nineteenth century. Dr Stockmann's rant is a bit over the top but well delivered. All the actors are very good, and making Stockmann a woman worked well. The Tarragon usually does interesting work, and this production was no exception."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2015 • Friends"
+    },
+    {
+      "title": "Cozy yet comfortable",
+      "text": [
+        "Saw Sextet yesterday. Nice show. 90 minutes no intermission! Fantastic delivery of dialogue. Impeccable timing. Very good acting.",
+        "The theatre itself is very nice. Small,cozy,comfortable.",
+        "Parking is free on the side streets. 5 $ flat rate during the w/e.",
+        "Lovely seniors who act as volunteers. You are the best!",
+        "Will visit again. Highly recommend visiting this theatre. A hidden gem."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2014 • Friends"
+    }
+  ]
+}

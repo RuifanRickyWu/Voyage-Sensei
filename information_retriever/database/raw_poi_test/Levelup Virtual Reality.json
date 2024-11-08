@@ -1,0 +1,369 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Levelup Virtual Reality",
+    "url": "/Attraction_Review-g155019-d12590009-Reviews-Levelup_Virtual_Reality-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "661 Yonge St Lower Level",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4Y 1Z9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 276
+    },
+    "openingHours": [
+      "Mo-Th 14:30-21:30",
+      "Fr 13:00-00:30",
+      "Sa-Su 11:30-00:30"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/df/34/a0/main-vr-stations.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Game & Entertainment Centers"
+  ],
+  "description": "Levelup Reality is Toronto’s virtual reality (VR) arcade and events venue, and we take you beyond the limits of reality into a rich immersive experience, where you can connect with others while engaging all of your senses. We have been ranked as one of the coolest indoor activities in Toronto while being one of the most fun and adventurous things to do in Downtown Toronto GTA. We also host the best corporate events, business team building games, and large group game parties for companies and offices in Toronto. Enjoy single and multiplayer adventure, shooters, action, horror, escape room, and short films experiences! We have one of the largest libraries of games!",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "good time with friends - will go again",
+      "text": [
+        "super fun. Lots of games to choose from, all types of styles. Was a great experience with my friends "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Wonderful experience",
+      "text": [
+        "It was our first time playing a VR game and we had a blast! There was a variety of games to choose from and the staff were very patient in answering our questions during both the training session and actual gameplay. I definitely plan on coming back with other friends when I get the chance!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Friends"
+    },
+    {
+      "title": "The best",
+      "text": [
+        "The workers were extrememly helpful and they were kind enough to help me move my appointment.",
+        "They sanitized the area when we were done",
+        "They were closeby for any assistance that we needed",
+        "The games were also cool and nice"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Definitely a must try for anyone",
+      "text": [
+        "Great staff and great atmosphere.  The staff really went above and beyond to make our experience memorable."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Friends"
+    },
+    {
+      "title": "Time flew by so fast!",
+      "text": [
+        "We had so much fun playing multiplayer. 1 hour isn’t enough, definitely should do more than an hour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Friends"
+    },
+    {
+      "title": "Really fun to try something new!",
+      "text": [
+        "Super fun! I did this with coworkers and we had a really great time. There were a lot of variety of games to try and the staff always super helpful with the technology. It felt very futuristic -- I would come back and play with other friends : - )"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Fun time with VR game",
+      "text": [
+        "It was really fun time with my friends. Need to do game with actual moving so my arm was a bit sore but it was new experience! When ever we had a struggle in the game, staffs told us how to fix the problem and give us instructions :) if I have a chance definitely I will go back there!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Friends"
+    },
+    {
+      "title": "A truly wonderful experience",
+      "text": [
+        "Joshua and the team were great. Had a wonderful experience. I went with my partner for the first time and the staff was very patient to explain the instructions. Joshua helped us during the VR sessions since this has a learning curve. We are looking forward to going the next time and try out more games/experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Couples"
+    },
+    {
+      "title": "Mind blowing",
+      "text": [
+        "Very amazing experience !! I recommend it to anyone absolutely fun especially for groups and couple would definitely go again"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Couples"
+    },
+    {
+      "title": "SUCH A FUN EXPERIENCE",
+      "text": [
+        "Such a fun experience! The guide helps you through everything and you can even do multi player! The 1 hour flew by so fast I wish we had more time! Def will come back again"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great",
+      "text": [
+        "Staff was very friendly and very helpful.I ",
+        "Brought out the family for a evening of fun and games and everyone had a amazing time"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2021 • Family"
+    },
+    {
+      "title": "Great VR place for groups",
+      "text": [
+        "This was my first time doing a VR experience and this was an absolute blast. Setup was extremely fast and the games were very quick to load into. The staff was with us the entire time so if we had any questions, they could help us immediately. The games themselves were very fun too and included a variety of single player and multiplayer games. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Nice people, great location",
+      "text": [
+        "Friendly staff who were always there to help, a cool, futuristic & distanced layout, easy to book, easy to park next door and lots of fun games. Brilliant session!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021 • Family"
+    },
+    {
+      "title": "An hour of fun and wonder",
+      "text": [
+        "Such great fun! Loved all the vr adventures, especially climbing Mount Everest! Senna was great at training, guiding, and helping us. The place was very nice and super clean. The experience was well worth the price. Will go back for sure."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021 • Friends"
+    },
+    {
+      "title": "Great experience, great time - Arizona Sunshine & Cowbots and Aliens",
+      "text": [
+        "We played two games Arizona Sunshine & Cowbots and Aliens both games were fun the cowbots was a lot more fun because it was easier to learn how to play and you are playing against your friends. The Arizona Sunshine was fun but it was a lot harder to figure out how to play reloading ammo was very difficult. None the less I would definitely go back there the staff were friendly and helpful"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2021 • Friends"
+    },
+    {
+      "title": "So. Much. Fun.",
+      "text": [
+        "Amazing. My husband, kids and I all had a BLAST! Staff was so helpful and accommodating and fun. We all found something we could enjoy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021 • Family"
+    },
+    {
+      "title": "Excellent unique group experience",
+      "text": [
+        "This was my first time in a VR arcade, staff was amazing, explained everything in detail. I am not new to VR so VR experience wise it wasn't different, but amazing as always. It was also a lot of fun playing with my group together. Definitely would return for special occasions, found a new fun activity to enjoy in a group."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Excellent",
+      "text": [
+        "Amazing. For sure I would like to do it again next time in Toronto. The staff was great and had a lot of patience to teach how to use the controls."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021 • Couples"
+    },
+    {
+      "title": "Interesting & unique experience - if you have the stomach for it!",
+      "text": [
+        "Great for group / corporate events - the games allow multiple players to be engaged at once and it's great to bring out that competitive spirit!",
+        "The in-game experience is pretty fun, but VR hasn't evolved to the point yet where action games don't still make you feel nauseated (it took most folks in my group a bit of time for their stomachs to settle after playing for ~ 20 minutes).",
+        "I would come back again for a special event - e.g. a birthday, another corporate event - but I don't think I'll be a frequent visitor!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2021"
+    },
+    {
+      "title": "Great team building for colleagues",
+      "text": [
+        "Feeling what it would be like to fly through a city like a super hero. Even the feeling of falling was pretty wild. The team dodgeball was a lot of fun too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021 • Business"
+    },
+    {
+      "title": "Very nice",
+      "text": [
+        "Nice and amazing and very much fun experience. Enjoyed a lot with my best friend and my girlfriend. E"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021 • Friends"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Staffs were friendly and helpful, we’ll come back for sure! We had so much fun and there are many games to choose from."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022 • Couples"
+    },
+    {
+      "title": "must try!!!!",
+      "text": [
+        "Experience was great!! definitely going back with friends again. staff were great and training was provided. It does take a little bit of time getting used to movements and controls but overall very fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022"
+    },
+    {
+      "title": "Good",
+      "text": [
+        "It was good experience overall. Felt the duration was very less and need more time to understand how to play."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2022 • Couples"
+    },
+    {
+      "title": "Fun workout",
+      "text": [
+        "It was much fun! We played two games. I realized the next day, it was a good workout :)",
+        "We also plan to bring our kids for a birthday party."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022 • Couples"
+    },
+    {
+      "title": "Excellent Service and Staff",
+      "text": [
+        "Very friendly and welcoming staff. Helping my friend and I enjoy our first VR experience. Will definitely recommend and go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022"
+    },
+    {
+      "title": "Fabulous",
+      "text": [
+        "It was really good, Patrick helped us a lot. Good variety of game and a decent clean place! I would go soon"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022 • Friends"
+    },
+    {
+      "title": "Best unexpected and exciting experience",
+      "text": [
+        "Unbelievable! Plan on coming back and staff was beyond helpful to make the whole experience unforgettable for everyone that came of all ages!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022 • Family"
+    },
+    {
+      "title": "Great first time visit",
+      "text": [
+        "It was my first time going to VR. I went with my 8 yr old son. Wow, we both enjoyed the time there! The staff made it super easy for us. We were explained how to use the equipment and how to put it on. Next they showed us not only the games they have but gave a quick intro of some of them, which is very helpful for the first time. During the game time staff can come and help with the issues if any. There are many games to choose from and they are fun with the full VR experience. It's totally worth the price. And great to go there with kids :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Like an Indoor Adventure",
+      "text": [
+        "I WAS SO SURPRISED BY HOW MANY GAMES THERE WERE TO CHOOSE FROM! The staff was really great in helping us make sure we're set up properly, that we can all hear each other, and even explaining the mini games within the game we chose. I could stay here for hours. It's a place where you can have fun by yourself or go with a group of friends. I definitely plan to go again and highly recommend it to everyone else!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021"
+    },
+    {
+      "title": "So much fun",
+      "text": [
+        "The MOST fun I've ever had! It was my first time trying VR and I'm a little on the older side, not a gamer at all, but the staff at Levelup was very helpful and they guide you throughout the whole experience if needed. Had an amazing time, played single and 2 player games. I will be back. The hour passed like it was 5 minutes."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Friends"
+    },
+    {
+      "title": "Time of my life!!!!",
+      "text": [
+        "It was my boyfriend’s bday and this was his idea. We had an absolutely amazing time. An hr isn’t nearly enough. We will 100% be going back on a regular basis. ",
+        "3 suggestions: ",
+        "*A better idea than the awkward video keepsake that’s for sale would be 2 photos for $5-$10. 1 during, and 1 after. We wish we had taken photos of the experience. We were having too much fun to even remember.",
+        "*if it’s available, you should upswell an xtra 30mins 5 mins before the guests’ time is up. Our time ended rather abruptly after a technical glitch occurred. If we had been offered more time (ESPECIALLY at a discounted rate), we would have happily accepted. ",
+        " 3 negatives:",
+        "* the lack of accessibility.  There were no elevators, and 3 loooooooong flights of stairs. This should be mentioned on the faq. ",
+        "*the location was INCREDIBLY hard to find. Perhaps mention on your website, as well as on the emailed confirmation, that the location is in the mcveigh (???) building DIRECTLY on the corner of church and Richmond. ",
+        "*the confirmation email/receipt should have the address and phone# on them. we had to search for both when we were trying to find the address. ",
+        "Notes: masks were worn by all. There was hand sanitizer and wipes all over, and both the space and the bathrooms were SUPER Clean."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "Great fun for teen gamers!",
+      "text": [
+        "Brought my 13 year old and husband.  They had a blast!  They enjoyed playing co-op games.  Entertaining to watch even as a non participant. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing first time VR experience!",
+      "text": [
+        "First time experiencing VR and it was simply amazing! The staff was super helpful and knowledgeable. And that made all the difference in figuring out the games to play with my friend. Would recommend 10/10."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "Fun new experience",
+      "text": [
+        "Great variety of games including multiplayer; staff are super friendly and very helpful and the space is clean and bright. Overall very fun experience and will be returning!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022 • Couples"
+    },
+    {
+      "title": "The staff were really good and patient - I really enjoyed it",
+      "text": [
+        "The staff were really nice and orient. I enjoyed myself and had fun with my family. I would recommend it to others"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022 • Family"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "This was a great experience with lots of different games to choose from. It was very realistic also."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022 • Friends"
+    },
+    {
+      "title": "Amazing fun!!",
+      "text": [
+        "My grandson enjoyed the whole experience.  The staff there are amazing and very helpful.  We have been there several times and I really recommend Level Up! 👌"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022 • Solo"
+    },
+    {
+      "title": "Nice",
+      "text": [
+        "It was really nice 👌🏿👌🏿I enjoyed it so much ne I hope to be there next time and have time to enjoy more games"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022 • Friends"
+    },
+    {
+      "title": "Fun Time",
+      "text": [
+        "Staff was very helpful and friendly. First time trying this place but definitely not the last.",
+        "Fun family experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022 • Family"
+    }
+  ]
+}

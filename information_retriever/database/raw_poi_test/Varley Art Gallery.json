@@ -1,0 +1,271 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Varley Art Gallery",
+    "url": "/Attraction_Review-g3956437-d630723-Reviews-Varley_Art_Gallery-Unionville_Markham_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "216 Main St",
+      "addressLocality": "Unionville",
+      "addressCountry": "Canada",
+      "postalCode": "L3R 2H1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 29
+    },
+    "openingHours": [
+      "Tu,We,Fr,Su 11:00-16:00",
+      "Th 11:00-20:00",
+      "Sa 10:00-17:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/8d/f2/dd/varley-art-gallery.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Art Galleries",
+    "Art Museums"
+  ],
+  "description": "The Varley Art Gallery of Markham is a vital cultural hub for artists and diverse communities. A municipal gallery, we create critical conversations about Canadian art and society. We inspire local and national audiences to engage with art through outstanding exhibitions and rich public and educational programs relevant to the communities we serve. We support artists from York region and seek to broaden access to the arts for diverse artists and cultural groups. We also share and celebrate the life and work of F.H. Varley, a founding member of the Group of Seven. The Varley Art Gallery is situated on the traditional territories of Indigenous Peoples including the Haudenosaunee and Anishinaabe. We are committed to reconciliation, partnership and enhanced understanding.",
+  "duration": "Duration: < 1 hour",
+  "reviews": [
+    {
+      "title": "Small but mighty ",
+      "text": [
+        "Well worth an hour of your time. When we visited it had an exhibit about the history of Chinese people in the area, especially related to the impact of the Chinese exclusion act. We learnt a huge amount about the community and gained a greater understanding of the region and the country in the process. ",
+        "Three was also an exhibit of work by the feminist environmentalist artist Winnie Truong. Stunning!!!!!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Informative",
+      "text": [
+        "Kudos to management and the city for making this little gallery free to visitors. My visit was excellent. Anik, the curator was helpful and willing to answer any questions. I was particularly awed by the graphite pieces which were quite dated with intricate sketching."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sept 2020"
+    },
+    {
+      "title": "Many visits to Varley",
+      "text": [
+        "Some weekends we pass by Varley Art gallery to see whats new especially during the summer months.e.g. outdoor music.  In May will definitely go to the opening,(some entertainment,new exhibiton etc.) always enjoy these outings."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Versatile Location ",
+      "text": [
+        "This is an art gallery but is also a multi use facility,  from kids activities to weddings. Staff is excellent. Admission is free, but it should be as I don't find the art work that great. Personal opinion.  Still, the place is a community asset."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Perfect Gallery for Markham",
+      "text": [
+        "It’s a small but beautiful gallery. Friendly staff and a variety of activities. ",
+        "Two main rooms with plenty of light and seating. A pleasure to find. ",
+        "No admission. Donations accepted. Clean bathrooms. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "Casual weekend",
+      "text": [
+        "I love Unionville, it’s a very charming little town. Every time I am there , I have to visit the Varley art gallery! Always has a very interesting exhibition and it’s basically free because you donate what you can. There is always something interesting to see! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2017"
+    },
+    {
+      "title": "This is a nice building at the end of Main Street",
+      "text": [
+        "Right at the bottom of Main St.in Unionville",
+        "There's always something going on directly outside which makes me forget this is really an art gallery.",
+        "You can't miss it as you stroll main St or on your way to the pond."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "Pleasant",
+      "text": [
+        "A nice modern building at the end of Unionville's historic Main Street.  The permanent Varley collection is quite interesting.  The special exhibits can vary.... this time it was about communication, which did very little for me.  However it is always worthwhile taking the time to look in when in the area."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "Charming art gallery",
+      "text": [
+        "The Varley Art Gallery is free admission. It's a small, quaint art space and I enjoyed my hour's visit. The staff were friendly and the exhibitions were interesting. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017 • Solo"
+    },
+    {
+      "title": "Quaint but great for a quick visit.",
+      "text": [
+        "Whenever we are walking around Unionville mainstream we always drop in for a quick visit to see what's new on the walls. It's small and cute and will only take about 20 minutes to see everything."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2016 • Family"
+    },
+    {
+      "title": "bit boring-nice area to visit though",
+      "text": [
+        "Unless your a big fan of group of seven art or an art fan in general i do not recommend going here its a bit boring. However if your unfamiliar with the area this gallery is located on Unionville main street a great place to stop to tour walk around too good pond stop on the Main street at Jake's outdoor patio for luch and a beer there food is pretty good."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2014 • Family"
+    },
+    {
+      "title": "Student experience Art",
+      "text": [
+        "Young elementary students experience delightful Art lessons using different  Art mediums e.g. Paints, plastercine and a guided tour of the Art Gallery by the Gallery Staff."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2015 • Family"
+    },
+    {
+      "title": "Wonderful visit",
+      "text": [
+        "This art gallery is set in a beautiful setting in historic Unionville, Markham.  Toogood pond is adjacent to the gallery.  Its always a pleasure to spend a day wandering in the gallery, admiring the beautiful artwork.  Staff are welcoming and very helpful.  Love this venue in Markham"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "This is a wonderful community gallery",
+      "text": [
+        "Current exhibit on The Life and Art of Alma Duncan is excellent.  The exhibits and functions at this gallery are usually top notch ... very well organized and presented.  This is a jewel in the crown of Unionville."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2015 • Friends"
+    },
+    {
+      "title": "A little bit small",
+      "text": [
+        "You might think that this is a  huge art gallery from the outside, but from the inside, it's really small with some really disappointed artwork. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2014 • Friends"
+    },
+    {
+      "title": "Amazing space",
+      "text": [
+        "This gallery has three rooms, each there own and separate entity.",
+        "Based on it name, fred varley, a group of seven artist has a room dedicated to him. ",
+        "The larger of the three seemed to house their permanent collection which had a few nice elements.",
+        "The smallest seems to be the rotating exhibition room, which was a bit small, but a good artist selection.",
+        "Worth the visit 100%  "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Ho-hum First Impressions",
+      "text": [
+        "The Varley Gallery is pretty small as you might expect given the location. When a friend and I visited there was only one exhibit, all photographs from a single, artist. The work was interesting but I'd hoped they might have pieces from at least two or three different people. Maybe I just picked an off time to come, perhaps it is more diverse at different times of the year? Not bad but can't recommend too highly either."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2011 • Friends"
+    },
+    {
+      "title": "Varley Art Gallery",
+      "text": [
+        "The exhibits were well laid out and the paintings wonderful. The gallery is located in a beautiful village setting - Well worth a visit."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "A lovely local museum in v quaint Unionville showing the works of Paul Fournier!",
+      "text": [
+        "This museum is small but very intimate, offering many art programmes to the community including art camps, drawing classes etc. ",
+        "Today I visited the exhibit of artist, Paul Fournier, a living, breathing Canadian artist we Ontarians should all be very proud of. ",
+        "I love the brilliant burst of colors on canvas and the three-dimensionality of the acrylic. I aspire to own one of his pieces. ",
+        "And here's a tidbit of Unionville. Some scenes from the Gilmore Girls were apparently filmed here. If you stroll along Main Street (the gallery is at the top of Main Street), you might think you are in Stars Hollow, but apparently, the scenes involved one of the homes on Main Street that served as the interior of Luke's place behind his diner. ",
+        "Readers please correct me if I am wrong!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Solo"
+    },
+    {
+      "title": "A Great Local Museum",
+      "text": [
+        "Amazing works of art are shown here representing local artisans and caliber Canadian artists alike. Smallish yet with a concentrated artful atmosphere. A good time spent."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2016 • Couples"
+    },
+    {
+      "title": "Just Beautiful",
+      "text": [
+        "Nestled in the beautiful town of Unionville the gallery is the perfect compliment to the community.  They offer classes and workshops and inspiration with the works they show.  What more could you ask for?"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sept 2016 • Solo"
+    },
+    {
+      "title": "A small but important gallery",
+      "text": [
+        "Fredrick Varley gallery at the north end of Main St. Unionville adds to an already impressive walk around unionville. The art is curated well and several examples of Group of Seven art as well as other Canadian and international artists works are changed frequently. Often it is free of charge to visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Family"
+    },
+    {
+      "title": "The Gem at the North End of Main Street",
+      "text": [
+        "During a day spent on Main Street Unionville spend some time at the Gallery. Currently admission is free courtesy IBM. Shows change so check the Gallery website but there is a permanent display featuring art from the gallery's own collection. Take time for lunch or dinner at many of the great restaurants Unionville is famous for."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Couples"
+    },
+    {
+      "title": "Good gallery when you're short on time",
+      "text": [
+        "Nice building.  SMALL gallery.  Limited selection of art.  Some art classes, camps, and workshops are offered.  Admission is free.  Nice place to meet up with friends.  Looks like a good place for a wedding or small gathering/event."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "Always something happening",
+      "text": [
+        "Great place to visit if you are out in Unionville, usually has lots of events happening and  it was nice to visit during the Open Doors Markham with a behind the scene tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sept 2015"
+    },
+    {
+      "title": "Small but a real gem",
+      "text": [
+        "The guide was kind to let us in for the last 15 minutes and we enjoyed every minute...it was on the small size but worthwhile anyways. I notice they had classes being offered...great space for Unionville and an extra for the main street."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2015"
+    },
+    {
+      "title": "Lovely summer day activity",
+      "text": [
+        "I've been here a bunch of times.  It's cute.  It's very nice if you go on a warm sunny day and spend some time walking around the main street and the park as well.  A good outing."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "Art Lovers - Great Place to Go To",
+      "text": [
+        "There are different types of artists that display their work.  It is located on Main Street, Unionville.  I love to go to there as I love art.  One does not have to buy the art to go there.  Its a wonderful place for the eyes to look at some amazing art pieces."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2014 • Couples"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Christmas Market",
+    "url": "/Attraction_Review-g155019-d19450064-Reviews-Toronto_Christmas_Market-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Distillery District",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5A 1G4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 18
+    },
+    "openingHours": [
+      "Tu-Fr 12:00-21:00",
+      "Sa 10:00-22:00",
+      "Su 10:00-21:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/18/a8/c5/right-before-the-rain.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Cultural Events",
+    "Flea & Street Markets"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Not worth it.",
+      "text": [
+        "2nd time going and will be the last. ",
+        "I went in December 2019 and although that line was longer to get in, it wasn’t nearly as crowded.  It’s simply too crowded and no value for the entry fee that is paid and the inflated costs once inside. The decorations are pretty. The tree is pretty, but with a big sponsorship sign emblazoned on it. My group of 6 got separated 3 times in a moment requiring cell phones to find each other. This was my last visit to this market. There are other places to visit for Christmas cheer."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2023 • Friends"
+    },
+    {
+      "title": "Fun place to visit",
+      "text": [
+        "Fun place to visit. I was in Toronto in December 2022, so I decided to check out this market. Although there were more people than I expected (which made me feel more crowded), the atmosphere was lively and there were full of activities."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "A memorable time - why so many bad reviews?",
+      "text": [
+        "I'm not sure why there's an eye-opening amount of bad reviews on the Christmas Market.  When I came here a few months ago, my experience here was wonderful, and I certainly would come back here again, even though I do not live in Toronto.",
+        "Yes, this market is no European Christmas market, however, the experience itself is a reason to go, especially if you happen to be in the area.  There is an overall cheery mood that fills the market while you're here, helping you further get into the Christmas spirit.  The Christmas tree is definitely not to be missed - it is a lot taller in person than you may think, judging from the pictures.  There's also plenty of shops for you to check out, as well as decent food options.  Don't miss the photo stations as well!  Lots of cute stations for you to take photos of yourself at.",
+        "Keep in mind that I did NOT drive here which may be why my experience here was more positive than others (I walked here with a group of friends from nearby Union Station).  In fact, because the market is located in the Distillery District near Downtown, I would strongly advise you to take public transportation instead.  You'll save yourself not just money, but also time and massive headache.",
+        "Also remember to check the Christmas Market's website for more details on when you can enter the market for FREE without a ticket.  It's totally worth it if you have the time.",
+        "I'll definitely be back here again, and definitely left with many fond memories made with my group."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Toronto, wake up!",
+      "text": [
+        "A huge disappointment. City of Toronto, please check European Christmas markets everywhere, even \"poorer\" countries have amazing Christmas markets. I don't understand why they charge to enter the market. We tasted a muled wine - really? Why young people selling the wine were cheating? There was not a wine taste at all. I attached picture from the \"parking lot\", what a shame! They charged $25 for this disaster. I wanted to cry. It reminded me a slam in  the Third world country."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2022 • Couples"
+    },
+    {
+      "title": "Wouldn't go back..",
+      "text": [
+        "Average at best, IF you've actually been to Christmas markets in Europe &have something to compare with.. if not, I can see why a lot of people seem to think it's great. Another issue was, every beverage you buy has to be drunk inside the store. Ridiculous! This means people spend more time inside, thereby huge queues outside.. barely any stalls mostly restaurants.. nightmare for parking, but hey that's just Toronto.."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2022 • Family"
+    },
+    {
+      "title": "good to walk around",
+      "text": [
+        "We went in the day as the weather the evening we were there was not going to be good. Good selection or artisan shops. A lot of the kiosks were not open the time we were there. Good for an hour or two."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Fun gift ideas!",
+      "text": [
+        "Super cute - lots of interesting items you can buy as gifts and sit around for some drinks! Although it was crowded we still got to see everything!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Fabulous European Style marekt",
+      "text": [
+        "We arrived at the market late Friday afternoon but early enough to gain free admission. Lots of stalls/shops with a great variety of gifts to purchase and loads of choice for food. However, it was very busy and we couldn't eat in anywhere without waiting for a good while so we opted for a toasted cheese sandwich which was amazing!  Being from Australia, the whole effect of a European style market plus real snow was charming!  We had a great time here and would recommend it to any visitor."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Great Experience!",
+      "text": [
+        "Love it! I try to go every year! Lots of interesting and crafty things. Also some freebies. They set up some places to take pictures as well, and I love all the lights everywhere and the big tree. Makes a really ambient atmosphere. :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Great Christmas market",
+      "text": [
+        "Great place to spend a couple of hours in the early evening.  It does start to get crowded so go earlier rather than later.  Lots of food stalls with Canadian favorites.  It would have been nice to have more stalls selling Christmas crafts."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "European Style Christmas Market",
+      "text": [
+        "We enjoyed our visit to the Toronto Christmas Market in the Distillery District. We took advantage of the free admission in the afternoon of a weekday. In the evenings, you must pay admission.",
+        "There was a large variety of vendors and exhibits to see. There was also musical entertainment. The crowds seemed to be enjoying the entire festive scene. Certainly not to be missed!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Amazing Christmas Market",
+      "text": [
+        "We stopped by the Toronto Christmas Market before our Maple Leafs game and were very glad we did. This is the best Christmas market we have been to with fantastic decorations, vendors and businesses to visit. Highly recommend a visit if you are in Toronto over the Christmas period!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Couples"
+    },
+    {
+      "title": "Wonderful experience, full of Christmas ambience here.",
+      "text": [
+        "I went here with a friend of mine last year around this time. It was not so crowded when we're there in the afternoon, but it started crowding in the evening. Admission is free on weekdays but it is charged on weekends and Friday starting at 6 pm.",
+        "The buildings in the market are designed and decorated in the old European style and it just made us feel like we're walking in a town in Europe. We explored every corner of the market. There was a huge Christmas tree at the center of the market (it was so tall that we had to stand 40 ft away to capture the whole image of it!). There are several small shops where you can buy souvenirs and Christmas ornaments. Boutique restaurants are there, too. We stopped at a restaurant for lunch and had some mashed potatoes and gravy, some chocolate chip muffins and a glass of cocktail. Then we just walked around in the market, watching the music bands and the dancers, and enjoyed the Christmas ambience. ",
+        "It was a really nice experience and it is a must-to-do if you are in Toronto these days. I and my friends don't stay in Toronto anymore, so it just made me feel like something is missing in me when we don't have a chance to visit the market."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019"
+    },
+    {
+      "title": "Wonderfully, Whimsical & Festive Winter Market",
+      "text": [
+        "Going to the Toronto Christmas Market has become a tradition that I look forward to every year! It's great place to take cute selfies with loved ones and share hot chocolate or cider. If you are looking for any last minute gift ideas or the final decorative touch for your home; There are so many little shops with a huge selection of a variety of things to choose from.",
+        "My only tip would be to try to choose a day where the windshield advisory and temperature are not too cold otherwise it won't be as enjoyable an experience especially for smaller children. This is a great place for families, couples and friends. As the market and shops tend to be mainly outdoors, try to dress warmly and come earlier so as to beat all the crowd's and lines. Overall this is one of my favourite Places to go year after year. I would highly recommend this to everyone!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Family"
+    },
+    {
+      "title": "Packed full of season's goodness",
+      "text": [
+        "This market has a lot of independent merchants who sells Christmas gift items.  It also has interesting eateries that are not chain restaurants.  Although, it would have been so nice to have a Beaver Tail booth.",
+        "If you enjoy Christmas lights, this is the place to enjoy it.",
+        "The market shows a lot of improvements since it first opened."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Was just okay",
+      "text": [
+        "It's my second time here.  It's nice to see all the lights and get into the festive spirit.  I thought the tree last year was much nicer than this year's blue and white themed one.  The food vendors aren't that numerous but they are overpriced and move excruciatingly slowly.  We had the waffles and they were just okay.  10 bucks for a plain one with dulce de leche.  There are restaurants that are permanent fixtures at the distillery district.  Avoid the Mill St. Brewery.  Horrible food and terrible service.  The vendors for Christmas crafts and gift ideas are overpriced.  You could probably do better at your local flea market.  The Alpaca scarves are $45 inside one of these shops, but are $60 at a booth outside so watch out for that.  You can get a photo with Santa for free so that was a nice touch as well.  You will have to use your own phone.  Trying to get my Uber driver to pick me up was a nightmare, but there are tons of taxis outside the market.  Bring comfortable walking shoes, a hat and gloves.  You will need them.  Dress warmly.  Bring a nice attitude and be kind to people.  I would go back but only during the week where there's no charge to get in.  Beginning Friday evenings and over the weekend there is a charge to get in."
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "First time",
+      "text": [
+        "We weren’t sure what to expect as it was our first time. The stores along the walkways are decked out for Christmas. Some little pop up stores but not sure if there might be more on the wknd (?). Lots of hot chocolate and mulled cider and wine for sale"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Couples"
+    }
+  ]
+}

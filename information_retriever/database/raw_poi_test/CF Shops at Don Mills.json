@@ -1,0 +1,391 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "CF Shops at Don Mills",
+    "url": "/Attraction_Review-g155019-d10818558-Reviews-CF_Shops_at_Don_Mills-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1090 Don Mills Rd",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M3C 3R6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 44
+    },
+    "openingHours": [
+      "Mo-Fr 10:00-20:00",
+      "Sa 10:00-19:00",
+      "Su 11:00-18:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1e/3e/05/cf-shops-at-don-mills.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Shopping Malls"
+  ],
+  "description": "More than 70 upscale stores and restaurants are spread out over 511,000 square metres. Shoppers can choose from both beloved Canadian brands and international luxury retailers.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Food only",
+      "text": [
+        "It's really only has only restaurants. Not as much variety for clothes shopping. Was all outside so nice to walk around but nothing to go in too"
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Outdoor Mall",
+      "text": [
+        "Nice variety of stores and restaurants here.  Like that it's an outdoor mall so you're not couped up in an indoor mall breathing stale air.  Lots of places to sit and relax on a nice day in between browsing at the shops.  Easily accessible washrooms."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Noisy cars",
+      "text": [
+        "Too crowded at the plaza with people with lots of kids who just hang around (summertime). This is not bad actually. ",
+        "The restaurants are good. Check Joey, Añejo, Scaddabush etc. ",
+        "What bothers us a lot as we are walking our dog here on regular basis are those idiots who drive modified exhaust cars which make lots of noise on mall’s streets.",
+        "Is any enforcement at these grounds?",
+        "If I could I would close the inside streets for motorized traffic (with the exception of utilities) like in Europe (installing bollards). This will open the foot traffic and people would be much happier. Anyhow parking on the mall’s streets is very limited to stand a real argument."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "An upscale shopping mall & more",
+      "text": [
+        "A southern USA outdoor/open air mall, with upscale shops, activities for the kids, nice places for upscale casual dining, and great architecture."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "Did someone say, Friends over Family?",
+      "text": [
+        "This mall is different from Fairview, Yorkdale, and other Toronto shopping centres. Better suited to meeting with friends, I didn’t see a single tyke in various doors we entered. You can expect an outdoor version of Bayview Village Mall with relatively higher end boutique shops and eats, which appeals to the well-heeled or to senior Torontonians. Like Palm Springs, there are plastic or cosmetic surgery /Botox clinics (Dr Fred Weksberg ‘Dermapure’); and there’s luxury services, including photography/jewellery restoration and my favourite: The Eleven bicycles elite repair shop. However, most women with kids prefer paying to send theirs on the little electric Choo-Choo train while shopping for clothes. I don’t consider this much of a family but rather a friends’ meeting point. The bars are open for happy hour (5:00-7:00); and restaurants like Anejo offer overpriced but tasty food. It is one of the rare glass-enclosed patios in this part of the city. Taylors Landing also opens for supper. You can get indoor/outdoor izakaya next door here, where the restaurant turnover is high. We normally head to buy Salomon near Aritzia and Lindt chocolates before closing. There isn’t enough disabled parking, but if you’re looking to do shopping & lucky, you’ll get a spot nearest the West entrance at North Ground in the parkade behind McEwen’s food market. It’ll be a shorter trek to Shops at Don Mills from there. Have a fun stroll, and bring an umbrella if the weather turns inclement!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "Anejo Mexican restaurant at Don Mills Ontario.",
+      "text": [
+        "I visited Anejo Mexican restaurant at Don Mills Shop in Toronto. The food was fresh, server made guacamole right at our table. The service was superb!!! They have bar, dinner and patio."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "High end stores and lots of restaurants",
+      "text": [
+        "We’ve been to The Good Son, Jack Astors and Ice and Cream in this mall of outdoor high end stores. They have lots of restaurants, Cineplex and clothing stores. I like the Bath and body works store. It’sa great mall to just walk around. There is also a train $4 that drives around."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Great outdoor trendy mall",
+      "text": [
+        "Trendy outdoor shopping mall with lots of free street and garage parking, and easy to access by bus or TTC. Lots of upscale boutiques & shops,  great selections of eateries & coffee shops. Great place for a fun day of outdoor walking, shopping, having a relax meal and drink, and a great VIP Cineplex. Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021 • Couples"
+    },
+    {
+      "title": "Handicapped Woman Denied Seat",
+      "text": [
+        "Everyone knows we’re in a pandemic, and times have been rough for the restaurant world. Before today I went to Jack Asters often. But today at 11:40 am - my first time back, I found posted at the doors that it now opened at 12. ",
+        "I’m handicapped and it was a struggle to walk there. Exhausted from the effort I saw two other ladies sitting on the patio, who said while they knew it didn’t open til noon they had entered from the sidewalk. ",
+        "I no sooner say down when a young man and woman opened the patio food from the restaurant a said - “we’re not open til noon and you can’t sit there.” I explained that I didn’t know about the new opening time and intended to dine with them and just needed a couple of minutes to catch my breath as being handicapped I couldn’t stand to wait. Again, they told me and the other ladies to leave. ",
+        "I asked them to get the manager, saying “surely Im not bothering anyone nor would",
+        "I’m interfere your COVID process, as you haven’t started. I’ll move when I need to and hope to come inside.” They informed me are the managers and NO I can’t sit there. ",
+        "I ignored the request to leave until I caught my breath and waddles down the street to Panera’s where they greeted my pleasantly, helped me get a table outside.  The food was fab, but that’s another story. ",
+        "SHAME on Jack Aster’s!!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2020 • Solo"
+    },
+    {
+      "title": "Great outdoor shopping mall - excellent parking,  nice variety of shops and an outdoor skating ring - nice !",
+      "text": [
+        "We were here with our Corvette club for dinner and skating.",
+        "The mall parking was excellent - a multi-story structure - with sheltered safe parking ",
+        "Taylor's Landing Restaurant was great - very large inside but accommodates groups well.",
+        "The skating ring was a nice treat but closed way to early - it should be kept open until at least 10 pm."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Outdoor shopping centre",
+      "text": [
+        "It's a good place to spent the whole day with your family, specially in the summer, lots and lots of shops, with good variety of restaurants."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Family"
+    },
+    {
+      "title": "Nice outdoor shopping centre",
+      "text": [
+        "Yes, the parking is limited. However, once you get to Shops at Don Mills, you can literally spend the whole day there. They have great shopping, mani-pedi places, great restaurants, open space for kids (with a miniature train) and banks. Really, most things that you may need. We are never disappointed when we visit Shops at Don Mills, and would highly recommend it to our friends."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Family"
+    },
+    {
+      "title": "Retired executive",
+      "text": [
+        "Went last evening for supper with a friend.I rate the food average to good .Service GOOD. overall impression not at the level they want to project.Not the cool place  they want you to believe."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Dinner outing",
+      "text": [
+        "A great place to visit in summer. Plenty of restaurants in the area offering a wide variety of cuisines.",
+        "I'm sorry to see that PF Chang is no longer there.",
+        "Parking is a nightmare, they need additional parking. A few restaurants offer valet parking.",
+        "Uneven paving near the garage led to a nasty fall"
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "Nice place to walk around during spring and summer",
+      "text": [
+        "Centre area for kids to play on AstroTurf. Some nice places to eat - Joey's, Linda's. Movie theatres also walking distance."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2017 • Family"
+    },
+    {
+      "title": "I Must Go Back",
+      "text": [
+        "We stopped here for dinner on a Sunday evening, on the way to return our Granddaughter to her downtown home.  We ate at Jack Astor's, one of the anchor restaurants in this complex.  The whole area is an upscale streetscape atmosphere, and while we did not take the time to explore any of the stores in the complex, we definitely will return to see what else is on offer at this location.  It is located, conveniently, just west of the Don Valley Parkway, at Lawrence Avenue.  We have added another convenient Toronto 'attraction' to take our Grandchildren to.  This is important to us, because we often are picking up after school, and are stuck in rush hour traffic.  It is great to have a 'feel safe' spot to go, have dinner, and browse, as we wait out the traffic on the 'Don Valley Parking Lot'."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017 • Family"
+    },
+    {
+      "title": "great services, good restaurants shopping for younger adults",
+      "text": [
+        "this is an outdoor mall, with a park, activities for children. it has good restaurants including aroma a super coffee bar and glow.",
+        "i enjoy going in the good weather and sitting on the patio with a cool beverage and watching the world go by",
+        "the restaurants are good, mid priced and trendy.",
+        "they have shops with clotheees, gourmet food and (iam told) the best bicyvle shop in town"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Some high end and lower end shopping",
+      "text": [
+        "A nice place to window shop and shop shop in both winter and summer.  Outdoor activities in their \"mini\" park.  Some clothing stores with higher end manufacturers in them like Hugo Boss (bought a beauty jacket from them).  Lots of different kinds of restaurants to choose from not all the same repeat.  Its an outdoor kind of mall different from  most malls near the downtown core.  Some good food stores to shop in to take home and some free parking for the LCBO.  Hard to park for other things at times."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2016 • Couples"
+    },
+    {
+      "title": "Shops at Don Mills",
+      "text": [
+        "Parking is difficult to find as you have limited spots available. It's an amazing weather day, so this is expected everywhere you go in Toronto. The shops are very unique and high end. We like this about the new mall. When it was an inside mall they had a lot of your standard shops and services--just what you would find at almost anywhere across the GTA the exceptions being Eaton Centre, Sherway Gardens, Yorkdale, etc. this is different. They have a skating rink surrounded by shops and restaurants. All of the shops and restaurants are individual buildings that you walk outside to get to. I like the concept. I like the selection of shops and restaurants. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Awesome spot ",
+      "text": [
+        "Love it here! It's the perfect place to shop especially in the summer because it is outdoor shopping. Has many restaurants to choose from, stores to shop at, and a VIP theatre. There's also events that go on during he summer such as outdoor yoga right on the grass. Very family oriented spot as there are always kids running everywhere. It's even nice to just take a stroll through as the scenery and environment is extremely relaxing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Lovely decoration. Magnificent Tree",
+      "text": [
+        "Nicely done for the holidays this year year. Enjoyed walking around and shopping the weekend before Christmas. Not over the top busy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "I like this place.",
+      "text": [
+        "There's no question it's better in the summer but a hot coffee followed by some shopping and walking around is a nice way to spend a couple of hours.",
+        "There are great shops and lots of dining or just a drink choices.",
+        "great place for a date."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Lovely day for back to school shopping at don mills",
+      "text": [
+        "Such a great place to shop.   So many good stores and lots of patios to catch a bite to eat.     Pleasant friendly people. Pleasing to the eye.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Pleasant shopping area",
+      "text": [
+        "The CF Shops at Don Mills are pleasant for walking and browsing.  Nice apparel and shoe stores.  Good upper end chain restaurants.  Pleasant on a warm sunny day."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Perfect outdoors shopping centre ",
+      "text": [
+        "Perfect shopping location on Don Mills area. Nice to walk around..... some stores having reasonable on prices but most of the stores carrying bit expensive items."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Modern feel",
+      "text": [
+        "It has the modern feel to the shopping experience, more like an ancient arcade than an enclosed space, and that both adds and subtracts from the overall feel.  There is a nice area in the middle which is designed kind of as a public square but eventually they are mostly just trying to sell a bunch of stuff.  Shoppers will be happy enough, but msot others will want to be elsewhere."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "Terrible.",
+      "text": [
+        "Just stopped by for a cappuccino, it took them 20 minutes before they started making our coffees...the coffee shop was empty, imagine the wait had the coffee been full.",
+        "Asked for money back, and left."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2018 • Couples"
+    },
+    {
+      "title": "Maybe it's just me......",
+      "text": [
+        "Shops at Don Mills is the fourth iteration in my lifetime here. Strip mall first. Enclosed mall second. Now this. There are aspects of it that are lovely....the skating rink in the winter and the big Christmas tree, for example. But overall for us, there is not a lot here other than the VIP Cineplex. Many restaurants, all big barn spaces and overpriced. LOTS of designer stores, and if you are into that, then this is a good destination for sure. For us, this destination just lacks the character of Toronto's many amazing neighbourhoods: Leslieville, Riverdale, the Junction, Kensington Market, and so many more!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2018 • Couples"
+    },
+    {
+      "title": "Great day out ",
+      "text": [
+        "Wonderful day wandering  among the shops.  Music , the Christmas tree, fire pits and hot chocolate or a drink and food on a crisp cool day.   Loved it.   Great shops. A little pricey, but lovely.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2017 • Friends"
+    },
+    {
+      "title": "Good Place to go in Summer",
+      "text": [
+        "Outdoor shopping center is good for the summer. All the stores are there including restaurants. Park in the middle is good to for relaxing."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "CAA Retail Store - Poor Service",
+      "text": [
+        "Went to this location in hopes of buying 4 movie passes and I was next in line. There was 4 employees working in the retail sales area. Two were serving one customer, one was sorting or counting the movie passes and the last one looks like the manager helping out the other two. I asked the lady sorting the tickets if they can open a new cash register and she said that it would only be 5 mins. I had already waited for over 15 mins just buy 4 movie passes. while waiting the extra 5 mins, i noticed that there was more attention given to a person looking at the merchandise in the store than attending to a customer ready to make a purchase. I finally left after more than 5 mins and would have second thoughts about coming back"
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "pleasant setting",
+      "text": [
+        "A mix variety of shops in an outdoor setting which is a nice contrast to a regular mall.  Nice place to walk around and/or have a coffee and relax."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Pleasant outdoor mall, parking challenged but handy by bus",
+      "text": [
+        "I like coming to this mall whenever I visit my daughter who lives just down the street.  It has a nice mix of medium and high end stores, restaurants with outdoor patios, coffee shops, a cinema and a Metro grocery store.  It's pleasant to sit in the grassy area where chairs are provided but a few shady areas would be appreciated for hot days.  I especially love visiting the Lindt store for their chocolate espresso drink!  ",
+        "Parking, however, is a challenge, especially around the Metro store. It's also handy to come by bus.  Express buses stop at Lawrence and Don Mills and the regular Don Mills bus stops at Clock Tower Road. There's also a mini train that's a cute attraction for shoppers with young children."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "If You are not Rich, or Under 30, Except a Mixed Bag at the Shops",
+      "text": [
+        "I literally live, and have for years, across the street from the Shops at Don Mills. I generally have good things to say about most everyplace I visit there. And yes, I will go back and do recommend that you visit it.",
+        "However, there's one thing that clearly stands out at some of the shops, and certainly, at half of the restaurants/pubs I've visited: the perception that if you are not loaded down with money, or if you are not under 30 (or at least, don't look like you're under 30), you may not get the same service as everyone else.",
+        "Sorry if this offends, but it offends me.",
+        "I'm a very regular patron of several of the shops at The Shops. I am not trendy, young, or rich. When -- and it sometimes takes time, even on non-busy days -- some wait or other staff get around to serving me, it very feels like they're doing so because they are duty-bound. The feeling I have gotten many times can be expressed like this: 'Sigh. I guess I'm supposed to come over, smile, and treat you like a customer too.\"",
+        "The above is not a blanket review, nor, as I said, do I normally have 'bad' things to say about my frequent experiences. In reading up on some other reviews, I noticed a bit of a trend when the reviewer stated their relative age and/or appearance. And part of that trend is what I just wrote about."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Great Drinks & dinner Spot",
+      "text": [
+        "Super choices for appetizers.  Great service, wonderful food !  Thoroughly enjoyable evening - complementary valet parking !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Really wanted to like this place...",
+      "text": [
+        "We live nearby and we have been here so many times. ",
+        "Lots of good restaurants, some shops and a nice open area with fake grass where lots of families with children gather on the weekends. ",
+        "They even have a cute train running for children that my toddler son loved. It is $4 per pax for both children and adults. It was perfect to do a bit of shopping, visit their restaurants, get some coffee, sit out on a bench and enjoy the weather. ",
+        "I would not be coming here anymore due to crazy drivers racing around the mall.  These people don't care at all that this place is filled with families with small children and race around the square and throw garbage out their car windows. ",
+        "It is a shame that this place attracts these kinds of people all the times. They should hire security guards to take care of this situation. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "JUST STROLLING AROUND AND STOP AT MY FAVORITE STORE BATH AND BODY. EXCELLENT STAFF",
+      "text": [
+        "excellent place staff were very helpful and friendly.  always attentive to what you want to buy. i always vist this store for sale of theire items and goodies."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Slipping a bit now- getting too comfortable?",
+      "text": [
+        "We have been going to Joeys since they opened and spent many a dollar there. We went again last week for a midnight snack and bevies.",
+        "The waitresses looked like they were all on break at the same time and we waited patiently for someone to come to take our order. That didn’t happen so my husband went to the bar to order. The bartender didn’t make him wait too long, but advised him she would have a server dome over to help us.",
+        "We finally ordered food and beverages and were served promptly. It was a week night so not sure if that made a difference, but the food came out in bits and pieces and not all together. We were grazing so that was fine in the end.",
+        "Then we searched for the bill.  That again took sometime to get- usually that comes vey fast 😫.",
+        "Seems they don’t realize that guests now have a lot of choices in the area, and next time we will try the place next door as an alternative."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Pick 2 is a Great Pick!",
+      "text": [
+        "I must be on a sandwich shop bender, as this is my second new lunch try in a row. ",
+        "I’ve passed by Panera in my local plaza plenty of times, but it was an ad onTV that really piqued my interest - as I love the idea of twinning fresh home style soup with a half-sandwich as a combo. ",
+        "I have to say the 10 Veg Soup tasted like something I would like to have time to make at home, and the Heritage Ham & Cheese came on fresh artisanal bread. Much to my pleasure the ham was very good and seemed as if it had been carved from a real roast!",
+        "Great value and lots of offerings. I WILL be back!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "Great place to hangout!",
+      "text": [
+        "I used to hangout at this place when I was staying close by. This place is filled with a lot of stores making it a perfect spot to shop everything you would need. There are good photogenic spots here. It's best if you take your own time to explore the area. There's parking space almost everywhere. The weather was pleasant during my visits and, I enjoyed my time here. There were people around but, it wasn't crowded. If you're a group, you'd definitely have fun here. This is Ontario's first and finest open air centre with exceptional shops, restaurants and services surrounding a lovely Town Square. Be sure to drop by!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Solo"
+    }
+  ]
+}

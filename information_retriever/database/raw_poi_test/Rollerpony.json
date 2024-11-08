@@ -1,0 +1,183 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Rollerpony",
+    "url": "/Attraction_Review-g155019-d26088685-Reviews-Rollerpony-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "75 Westmore Drive Unit B",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M9V 3Y6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 17
+    },
+    "openingHours": [
+      "Th 19:00-23:00",
+      "Fr-Sa 18:00-00:00",
+      "Su 15:00-21:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/9a/36/da/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Game & Entertainment Centers"
+  ],
+  "description": "Rollerpony is Canada's largest indoor roller skating facility! At 34,000 sq ft with a 20,000sq ft skating surface, it's a love letter to music, skating and the culture! There's Caribbean food, a barbershop, arcade games and even a mini practice rink. It's open 6 days a week and only $15 admission (rentals are an additional $5). There's a pro shop on site and lockers are free too.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "One of Toronto's Recreation/Entertainment Gems",
+      "text": [
+        "One of Toronto's must-see gems in the recreation and entertainment space.",
+        "The perfect place for a date, 18+ family outing, or work event. Experienced skaters, first-timers, and every skill level in-between is welcomed and supported.",
+        "It's a great option for anyone on a budget, too; for only $17 (+$5 if you need to rent skates), you get 3 hours (weekend) to 4.5 hours (weekday) in the space.",
+        "The music is always fantastic, but there are themed nights for skaters with a favourite genre in mind- check out their Instagram for updates: @RollerponyTO"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Lots of fun. Great place to meet people!",
+      "text": [
+        "This place is so amazing! I go every Wednesday with some new friends that I met. Great place to meet new people and rid yourself of all the stress of the day. Dianna is the skate instructor for the Beginner 2 class and delivers a fresh high energy class that is suitable for beginner skaters through intermediate. She tailors it to suit your skill level and makes it enjoyable and challenging for everyone! Love the place, the staff are just wonderful (⁠◕⁠ᴗ⁠◕⁠✿⁠)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Distasteful Cartoon Graffiti, NOT Art on what should be a Roller Rink!!",
+      "text": [
+        "Rollerpony desperately needs a women's touch!!!  What's with all the overdrawn disgusting cartoon characters ... and with a tongue sticking out of a wild animal's mouth??  Children are not allowed, so what's with ALL the crazy \"cartoon\" kid drawings??  That's not art!!!  It's just distasteful and seizure inducing!!"
+      ],
+      "rate": 2.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Good vibes",
+      "text": [
+        "Fantastic vibe, great music, and friendly staff. The artwork is really well done, and the atmosphere is on point. Will definitely be back again soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "Great space, pretty looking floor. ",
+      "text": [
+        "Rollerpony is a great looking space! Glad to have a rink in the city to go to. The layout is fantastic with a big oval for all your lap skating needs and a nice open space in the middle for some jam skating or resting. Lots of tasty snack, food and drink options too. ",
+        "While the floor looks great I wasn’t impressed with the surface. Lots of seams, which are easy enough to roll over but there were also lots of waves and bumps. Some places the sticker had air bumps? The design helped me learn where to avoid, watch out for the hula hoopers forehead! ",
+        "Maybe I’ve been spoiled with mostly polished concrete rinks and as a roller derby player but the floor could be smoother in my opinion. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Cool Experience!! 🛼",
+      "text": [
+        "Roller Pony was such a cool place to experience, immediately walking in the music, lights and the disco ball really set the atmosphere. I had never been roller skating before but the staff were super helpful in explaining things. It was so fun trying to learn to roller skate with friends and a memory I will cherish. There prices were good especially for the food I was impressed. I would absolutely go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "AMAZING VIBES ✨",
+      "text": [
+        "So these are where all the fun people go😏🚀💕 If you’re looking for a GREAT time with good vibes, this is the place! All egos are left at the door! The staff is super friendly and helpful! So even if you can’t skate, you’ll have no problem learning 💯"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "Great indoor roller skating facility",
+      "text": [
+        "Love that the space is divided into a main rink with plenty of space and a separate beginner/studio rink. The main rink has great vibes but I particularly enjoy practicing choreography in front of mirror wall and barre at the studio rink."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Unique Skate Environment",
+      "text": [
+        "Happy that we have an indoor rink that has a vibe that is unique. From the mural floor to best snack stand and a skate shop that works with you to design custom skates. If you live in TO or just visiting, highly recommend checking it out. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Solo"
+    },
+    {
+      "title": "Rollerpony is a ride you will never forget",
+      "text": [
+        "Everything associated to Rollerpony Skate Arena is awesome!  Safe & friendly place for rollerskating fun!  Amazing management, helpful & friendly staff, always great music playing, food & snacks are great.... Overall a safe, fun and great place that does not break the wallet / bank!  If you don't skate, there are lounge areas to hang out, barber for a fresh cut, Retro Rollers Skate Shop, arcade type games, claw machine, practice arena and the advanced skaters are pretty helpful & easy going!  It is a HUGE place so make that trip and try it out!  Must see and try when in Nothern Toronto (Etobicoke, ON)!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Fun and friendly rink with a great atmosphere",
+      "text": [
+        "I went to Rollerpony for the first time in March 2023 and got hooked; I've been going weekly ever since. This place is seriously so amazing. If you have never skated before, fear not - there are rentals available and friendly rink guards there to give you some tips and keep you safe. Roller skating here is pure joy!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "The Best Skate Experience",
+      "text": [
+        "The staff at RollerPony are the best, the floor is amazing, so much room, and the DJs they have are awesome!! Every night at RollerPony is a great night!! We love RollerPony, it is our favourite place to skate! And the food! So good!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Incredible!",
+      "text": [
+        "Had an amazing time this weekend over at RollerPony.",
+        "First off, what an incredible mural on the floor, kudos to all involved in the design and painting of it!",
+        "From friendly staff/management, to all the games and additional activities, Rollerpony was amazing place for an amateur skater like myself to get acclimated, especially with the training floor.",
+        "Got a couple of photos with the Gold car, and next time, I'm planning on getting my haircut, just need to make sure I schedule it properly.",
+        "Had a good time with friends, but see this being an amazing date night, or even company outing (I asked for work)",
+        "Highly recommend checking it out, and more than just once!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Perfect For Skaters of All Levels- Even Newbies!",
+      "text": [
+        "One of the best things about Rollerpony is how welcoming they are to skaters of all levels. Every time I’ve been there, I’ve seen a pretty even mix of brand-new, intermediate, and expert skaters sharing the MASSIVE rink and having an incredible time! ",
+        "The staff go out of their way to make everyone feel welcome, and there’s a little practice rink (with special flooring and a ballet bar) in an inconspicuous place so newbies can feel it out before jumping on the big rink. ",
+        "The space sparkles with light and colour, and the DJ nights are awesome. The vibe is warm, playful, and inclusive; it’s not often you see people of all ages & from literally every walk of life laughing/dancing/acting like kids again in the same space. ",
+        "10/10 recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "A throw back to a simpler time",
+      "text": [
+        "What a blast. Reminds me of the 90’s. Nostalgia, DJ’s and a super huge area. The price is right. Great for friends or date night."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "BEST SKATING AND DATE NIGHT SPOT",
+      "text": [
+        "Amazing place to go with friends or on a date! The whole space looks incredible had a great time every time I’ve gone in! Awesome staff and the perfect date night spot. We had so much fun and got lots of great photos/videos. I work nearby and will be going again and again"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Perfect Date Spot For Beginners and Pros",
+      "text": [
+        "This place is so dope. I've been there a bunch of times now, it's my new favourite spot. The atmosphere is awesome, 10/10 music and everyone looks sexy there. It must be the crazy lighting setup.",
+        "Perfect date spot for pros and beginners and everyone in between, especially because it's 18+ so the vibe is right. I've been skating for years and I took a girl there on a second date (her first time on skates.) She loved the practice rink, helped her feel comfortable in no time, also thanks to the top-notch staff who were super chill and helpful. We had a great time for hours and it was only $15 each"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    }
+  ]
+}

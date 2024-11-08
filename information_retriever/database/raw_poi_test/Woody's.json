@@ -1,0 +1,386 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Woody's",
+    "url": "/Attraction_Review-g155019-d606601-Reviews-Woody_s-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "465-467 Church St ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4Y 2C5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 54
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/3e/84/b1/woodys.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Gay Bars"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Halloween 2024",
+      "text": [
+        "Spent Halloween at Woodys all I can say is AMAZING great crowd quick bar service but the biggest shout out is to Ray the door man so polite and controlled the craziest crowd I’ve ever seen with no problems. ",
+        "Thanks Ray for letting us in you were awesome and friendly. 2 thumbs up"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Afternoon drinks",
+      "text": [
+        "If you're on Church and it's the afternoon, and you don't know which places to visit, try going to Woody's, the drinks are affordable til 8pm. It's quiet in daytime with a few people, but it's also the perfect time to have a beer. Chat with a few patrons and the friendly bartender. It will gives you a nice experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Great early drinks at Woodys ",
+      "text": [
+        "Cool Toronto bar with friendly patrons and a super nice and hot bartender named Hadi! Very comfortable atmosphere as well. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "ABUSIVE SERVER",
+      "text": [
+        "Avoid this place! The place is very spacious, they have good music and the drag show is good, however yesterday after the Dua Lipa show I ordered two Negronis for $35 which seemed a bit expensive but still acceptable, then I ordered the same thing again and another bartender from the same bar charged me $56 FOR THE TWO NEGRONIS that half an hour before had cost me $35. When I mentioned that his partner had charged me $35 and not $56, he harassed me and forced me to pay, saying that he couldn't do anything and that I had to pay for that. I did it to avoid problems and I understand that they have to make money on concert days like these but this was really an abuse, they charge you what they want and they change the prices"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022 • Friends"
+    },
+    {
+      "title": "It was awesome",
+      "text": [
+        "Amazing staff. Plenty of security. Drinks are a little pricey though so best to get a pitcher and share"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Friends"
+    },
+    {
+      "title": "Uncomfortable",
+      "text": [
+        "Mostly boring unless you like typical drag and attitude.  Go for Queen Street west if you want fun and explore the city.   If you want a bar and sex go to do excess bathhouse.   Unfortunately church street is now rather gentrified and has lost its charm and respect as demonstrated by this establishment and management."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2021 • Friends"
+    },
+    {
+      "title": "Lots of Fun! This is Where Brooke Lynn Hytes Got Her Start!",
+      "text": [
+        "When we arrived late on a Friday we were entertained by a couple of drag queens lip syncing - one at a time. The first was very fishy and the second one really looked like a man with bad make up.",
+        "Then the best ass contest started. Audience members were encouraged to come up on stage and moon the audience; a prize being awarded to the best ass.",
+        "The vibe was super-friendly and peaceful yet exuberant. ",
+        "Woody's is located on a small section of Church street where the LGBTQ community gathers to party - and drag is everywhere. There's another drag bar across the street but it's much more of a dive bar.",
+        "If for no other reason, go - just to witness this piece of drag herstory."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Fun",
+      "text": [
+        "Once of the most popular bars in the Village in the middle of the busy strip! There was no cover charge which is always good. There was a big charity fundraiser show  on the night we visited so there was plenty of live acts to entertain you. Drinks were very reasonable at roughy $5 a pop. Great DJ music to party the night away."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Big but disappointing ",
+      "text": [
+        "This is a huge bar, though oddly quiet when we visited on a Saturday night. Staff are very friendly and easy on the eye. But as many reviews here say the drinks are watered down; ordered a martini which tasted distinctly of soda water! Across the road at Boutique bar the martini was as expected, and cheaper! Woody’s fine, just stick with the beer. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Something amiss with the gin?",
+      "text": [
+        "Super friendly place with a lot to offer visitors like us from overseas. We read the reviews that refer to strangely ‘weak’ drinks but nonetheless thought we’d order a couple of martinis. There was definitely something odd about what we were served. Can’t say for certain of course but there was something extra in those drinks; something that reminded us of water........."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Best gay bar in town",
+      "text": [
+        "Very nice relaxing atmosphere...our bartender Joe was nice as hell (and quite attractive) Cameron was even nicer. Great drinks, not terribly pricey...several different areas to be in whatever you want. We did get thrown out, but we deserved to be...but not many places kick you out then come out and say thank you and give you a shirt!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "My friend got refused at the door",
+      "text": [
+        "We are a couple from The Netherlands, who brought a friend to Toronto to visit our relatives who live in Toronto and to enjoy the city. It's a great city and Church Street is a great area to have dinner and visit bars and clubs.",
+        "On friday night, august 1st, we (my partner, one of my Toronto relatives, my Dutch friend and I) went for a drink to Woody's after dinner. The bouncer let us in and we had a couple of drinks and a good time.",
+        "The next night, saturdaynight august 2nd, there were six of us, all very respectably dressed and ready to party. This time, the bouncer let us in, except my 28 year old friend, on the reason that he was too young to enter. Since we don't go partying with our passports there was no way to prove my friend was 28 years old. One could take this refusal as a compliment (I mean, who wouldn't be mistaken for under 21), but my friend felt bad not being allowed to enter. Why was he allowed in on a friday and not on a saturday? And how old do you have to be to enter Woody's on a saturday, retired? Anyway, we didn't let that spoil the evening and the six of us took our business to another bar in Church Street, where all of us were welcome and we had an amazing night."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2014 • Friends"
+    },
+    {
+      "title": "Best Gay Bar in Town",
+      "text": [
+        "The night we went out for my birthday we began the night at woodys. After a few drinks we thought we would try a couple close by. Those were so lame we quickly made out way back to woodys. They have several different rooms with different style bars. They also have a dance floor which doubles as their show stage. Definitely worth checking out."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "World gay pride madness",
+      "text": [
+        "From june 27th to june 30th went to Woogfy's 3 nights in a row though hundreds of people were lining up to get inside never waites more than an hour to get in. Once inside there was still some room to move and dance around. The music was great , the dance floor was really happening . Very high energy all three nights. It was very hot in the bar but what do you expect when when you're surrounded by so many hot men. Special mention to Dave the barmen that served me all three nights : In my view he is the most handsome barmen on Church street and made our Toronto getaway worthwhile just because he served us. Keep on looking good Dave... everyone should ask for you personnaly. Great service and great abs. Thank you..."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2014 • Friends"
+    },
+    {
+      "title": "GREATEST BAR EVER!",
+      "text": [
+        "First time I was at Woody's was in 1991 on my first trip to Canada.  Had a lovely bartender (Derrick Sharpe) who was so attentive to both mine and my friends needs.  Revisited Woody's in May of 2013 during my second trip to Canada and while Derrick is no longer there (at least we did not see him) we still had  a great bartender who was equally very attentive to our needs.  Great place to relax, hang out and cruise!  Wish we had a similar place in London!  Canadian guys are certainly the hottest!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2013 • Friends"
+    },
+    {
+      "title": "Extensive Layout",
+      "text": [
+        "Lots of bars and lively people. Friendliest bartender was Rob who was working in the back. Search him out for great customer service and a friendly smile."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2013 • Business"
+    },
+    {
+      "title": "Good Bar",
+      "text": [
+        "Good bar, dance club. Good place to hangout in the evening."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2012 • Friends"
+    },
+    {
+      "title": "Favourite bar",
+      "text": [
+        "I lived in the village in Toronto for 2 years and this place was hands down, my favourite gay bar. I used to drink here at least 3 nights a weeks with friends and my boyfriend.",
+        "The staff are super friendly and the drag queens put on fantastic shows.",
+        "The clientele is diverse (from bears to twinks) and its always easy to meet new people to drink with. The bar is more laidback and social than a club and there is always something going on every night of the weeks, drag shows, best butt competition, best chest competition just to name a few...",
+        "Love love love this bar."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2011 • Friends"
+    },
+    {
+      "title": "Fun entertainment",
+      "text": [
+        "It's deceptively large inside with many rooms.  The drag shows (at least on Sunday eve) were fun and entertaining.  The beer decent and the waitrons friendly.  It drew an older crowd initially that morphed into a younger crowd later in the evening and night."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2012 • Solo"
+    },
+    {
+      "title": "A fun time",
+      "text": [
+        "Though Woody's doesn't serve food, but it's a fun place for drinks.  The bar staff are very friendly and everyone seems to have a good time there."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2012"
+    },
+    {
+      "title": "My local bar for 6 years. Great staff and fun during happy hour.",
+      "text": [
+        "One of my favourite bars. I love going late afternoon to early evening (5-8). Fridays around 6pm is free pizza."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016 • Solo"
+    },
+    {
+      "title": "Friendly and fun",
+      "text": [
+        "Woody's has everything you'd want in a gay bar: friendly and efficient bar staff, lively atmosphere and a good show. Plenty of handsome men make this a place gay travelers enjoy.",
+        "We visited Woody's after first being lured by a drag show at a nearby bar, which turned out to be an awful show in a dingy bar. But Woody's gleamed like a beacon and drew us in — welcoming atmosphere, nice decor, clean restrooms(!) — a place you could tell had a good energy. On our second night visit, we watched the Sunday drag show from a perch at the bar, and we enjoyed watching the ladies work hard for applause and (sadly few) tips. It was a really enjoyable experience. Of note, one customer who had clearly been drinking a lot got a bit rowdy with another customer, but security swiftly handled the situation and the show went on barely interrupted!",
+        "I like a gay bar where you can find your spot and enjoy a conversation, make new friends, or just watch the shenanigans go down. The various locations within the bar offer customers options for seating and music. It was busy but didn't feel crammed. I wasn't alone, but if I had been solo, Woody's is a place where I am confident that I would be able to strike up a conversation and enjoy my time. I wish Woody's was my neighborhood bar!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "Gay bar wecoming all",
+      "text": [
+        "Been visiting this bar for 9 years because wonderful bartenders, particularly David and Cameron and all the wonderful patrons I have met  and made friends with. Also, on Friday for the free pizza. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016"
+    },
+    {
+      "title": "Cracking night in this place",
+      "text": [
+        "We visited this on what was a very sad day. The day after the Orlando massacre we went to Woodys, and it was really great to see people still turning out, even despite the uncertainty. They did however do a one minute silence and that was really moving.",
+        "Anyway, the bar itself is actually a lot bigger than I thought it would be. We went to watch the drag show, and throughout the night met a number of amazing and friendly people.",
+        "The bar is camp, colourful and massive fun. It is the actual Woody's which appeared in the US version of Queer as Folk. It's not for everyone, but if you like colour, sparkle and fun, give it a whirl "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Couples"
+    },
+    {
+      "title": "Amazing!",
+      "text": [
+        "Every time I come to Toronto I am sure to visit Woody's! A fully stocked bar with very knowledgeable bar tenders, who by the way aren't bad on the eyes ;). There is always something exciting happening at Woody's. Its the most fun that can be had out of bed!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Friends"
+    },
+    {
+      "title": "Had a Blast at Woody's",
+      "text": [
+        "Visiting from out of town.  Our friends took us here on our last night - four straight women in a gay bar with a drag show!  Freaking awesome!  Great entertainment value and lots of very cute men hanging out.  Thought we would stay for an hour but ended up staying about three hours.  Georgie was our favourite!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2016"
+    },
+    {
+      "title": "Most Unique Bar in Toronto!",
+      "text": [
+        "I came across this place after coming here for a Haloween party and I have feel in love with is place ever since! This Place is truly something different than any other bar/lounge or even club I can say. First thing is first the service is absolutely exceptional!! 10/10 every single time. It is all very good looking men working all bulky but so sweet it is ridiculously marvelous. This is a Gay bar yes but this place would be perfect for anyone regardless sex or orientation. This place is huge absolutely huge and the layout is amazing. This place is huge and it consists of about 5-6 huge rooms and has different style rooms and decoys and a bar in each room, truly unique. The have a major dance floor and there are rooms with tables and one room in the back is like a club. Everything in one. On Halloween they had competitions and on weekends they also do me. This place is always busy and there are always such nice people to talk to and meet , to be honest everyone in this area is so sweet I wish the rest of the city was like that. The drinks here are very well priced and they have the biggest selection I have ever seen of Smirnoff ice cooler flavors and also variety of ciders and a huge selection of beers in cans and bottles. I love this place I have gone back almost every other week for a nice pint. Gets very party mood on weekends. Absolutely great way to spend evening and night drinking and having fun even if you are alone ! Best Bar and establishment in Toronto hands down I cannot gush enough."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Friends"
+    },
+    {
+      "title": "The best  gayvenue in Toronto",
+      "text": [
+        "Gorgeous guys, awesome music and real friendly. No wonder it is the busiest hang out in The Village."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Solo"
+    },
+    {
+      "title": "no food available",
+      "text": [
+        "Seems to me , that a bar should have some sort of food .",
+        "I was happy to cross the road and buy a can of cashews .",
+        "Wine was downright awful",
+        "Drinks were weak",
+        "You go to the bar and get your own drinks ",
+        "Bartender was friendly and advised us to get a good seat to watch the show ",
+        "Show was mediocre ",
+        "Friendly enough place",
+        "First time for some out of town friends ",
+        "Men in the ladies appears to be the norm",
+        "Big and spacious ",
+        "Large stage ",
+        "Sailors is the connecting bar  (loved the sailor hats ! )",
+        "Just go and enjoy for yourselves"
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2015 • Friends"
+    },
+    {
+      "title": "Super-fun bar with a great dance floor!",
+      "text": [
+        "Some friends dragged me to Woody's, and it was a great bar, quite big, so many rooms, really friendly staff -- props to Dan -- and decent drinks (the four, rather than five, stars is simply because the drinks seemed kind of weak). Lots of spots to sit and hang out. This is like definitely a bar I would go to all the time if I lived in Toronto. As a straight woman, it looked like a good gay bar to me, although I'm probably a bad judge. Still, I liked that I had a hard time finding the ladies' room at first and that there were \"bun\" contests that I could certainly appreciate. Also, everyone I talked to was  very nice. It seemed to attract a very diverse clientele. Great music too!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2015 • Friends"
+    },
+    {
+      "title": "Always entertaining",
+      "text": [
+        "Always something going on ..",
+        "Fred was our bartender and was awesome...",
+        "Reasonable prices ..",
+        "Fun Drag shows",
+        "Best chest contests.. ",
+        "Always fun"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Great crowd",
+      "text": [
+        "Mild to wild. Even during the week, this place appears to be a hot spot. But, plan on staying up late. The front is quieter while the further you explore the energy increases. Tuesday night was too quiet, but Wednesday made up for it. The bouncer at the front door is friendly enough but obviously bored. I was surprised at how inquisitive he was towards my 22-year-old. He has a job, but it bordered on being a bit much."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Couples"
+    },
+    {
+      "title": "Huge fun lively space",
+      "text": [
+        "This bar is deceptively large, like a tardis.  There are five different bars to choose from each with a different feel, but all close together. Also they have plenty of quality drag acts and some fun contests like best bum.  Great gay fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Been going here for years. Always fun.",
+      "text": [
+        "I've been going here for years with my friends. I always run into someone I know. The staff are so friendly. The queens always have a good show. ",
+        "The bathrooms are downstairs. I'm always so scared of bailing down those stairs. ",
+        "I will say, being a straight woman in a gay bar, I know I'm a guest here. This goes for other straight people as well. Don't act like you own the place, because this isn't your home! I am very considerate of where I am, but there always seems to be one cranky guy that has something snarky to say about me being there. Maybe because I'm a woman, maybe because I'm straight, maybe because my outfit is on point and he's jealous....who knows!!!! Hahaha!! I just turn away when that happens. ",
+        "They have done some nice upgrades to the bar. There's usually some sort of contest going on that's fun to watch."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Traditional but not old fashioned",
+      "text": [
+        "Large bar with 3 different rooms (at least) so you can take your choice. Clientele predominantly gay which was great and, like most Canadians, friendly"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017"
+    },
+    {
+      "title": "Just a place to hang and enjoy a show ",
+      "text": [
+        "Always a good time..bartenders are awesome..the drag shows are fun.. always free to get in..thanks for years of fun"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Friends"
+    },
+    {
+      "title": "Good place very clean ",
+      "text": [
+        "Very clean bar , lots of good looking people that  like looking at me at a point of being scary 😂😂😂 great beer ! Loved my experience with my bf and my friends ... loved how the bar is clean and has propre seating arrangement ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "The best bar in Toronto for entertainment!",
+      "text": [
+        "Woody'so is an excellent place to meet friends for drinks either after work or for a night out. The staff are awesome and always make you feel welcome. They have the best shows and entertainment. The best drag show is the Sunday show at 6pm. Drinks are reasonably priced and made by the hottest staffor.  So many great times and lots of wonderful memories over the years!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Friends"
+    },
+    {
+      "title": "I wood def go back!",
+      "text": [
+        "The guys are so cute hear.Definitely coming back.The food and drinks are great too.Its the place to go to in the village! Theres a reason they call it Woody's!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2016 • Solo"
+    },
+    {
+      "title": "Cool Bar",
+      "text": [
+        "Various rooms about the place and lots of fun taking place when we visited here on Halloween. Staff and patrons were very friendly and it was great seeing so many people dressed up.",
+        "The bar staff were friendly and the drinks reasonably priced.",
+        "Only downside is the toilets - there down a very steep set of stairs. I suspect many a drunk queen has taken a tumble these. Also would make using the loo a struggle if you had an injury or disability.",
+        "Otherwise, if we return to Toronto, we'll definitely return to Woodys!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016 • Friends"
+    }
+  ]
+}

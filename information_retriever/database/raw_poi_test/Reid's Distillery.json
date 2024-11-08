@@ -1,0 +1,380 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Reid's Distillery",
+    "url": "/Attraction_Review-g155019-d17819241-Reviews-Reid_s_Distillery-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "32 Logan Ave at the Distillery",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4M 2M8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 41
+    },
+    "openingHours": "Mo-Su 11:00-23:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/af/4f/46/little-secret.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Distillery Tours",
+    "Factory Tours"
+  ],
+  "description": "Distilled by Family, Inspired by Adventure. We're Toronto's gin distillery, located in the heart of the studio district. We love tasting, creating and exploring the world of gin and are looking to craft creative gins in Ontario.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great cocktail making experience",
+      "text": [
+        "The most amazing experience in cocktail making. Rob the mixologist was very knowledgeable and multi talented…he engaged the crowd offered assistance and most of all he was friendly. He provided knowledge and was even willing to be the group’s photographer. Will definitely encourage you to attend, whether it’s in a large group or as an intimate date it’s worth the experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Reid's Distillery Cocktail Class",
+      "text": [
+        "We did a Cocktail Class at Reid's Distillery. The four of us joined a group of about 25 around a table all set up with the bar essentials for cocktails. Our host was Rob Berry and he did a fabulous job explaining some cocktail making tips. Class went smoothly and Rob kept it entertaining. We made three separate cocktails that we drank in their lounge area after the class was done. Was an enjoyable time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Unparalleled Gin",
+      "text": [
+        "Incredibly delicious…neat on the rocks or in a cocktail.  I muddled five blackberries, a small quantity of chocolate mint leaves, a scant tablespoon of honey, then added a generous squeeze of lemon juice, 3 ounces of this spectacular gin, three ice cubes, and a generous layer of sparkling water. Drinking it neat is an unmatchable experience in terms of gin. The cocktail, without further explanation, is simply delicious. Everyone is entitled to an opinion; those who pan it have something wrong with their taste buds. This is a gin in a class by itself… Superior to all others ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Worth the long walk",
+      "text": [
+        "If you’re looking for a classic British gin, look no further!  A knowledgeable bartender added to our delight. Why we walked there… I have no idea. But don’t do it! Easy and affordable Lyft ride.  The four bottles and six pack we picked up required a Lyft back (whew)!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Excellent experience",
+      "text": [
+        "Went for a gin tasting with a group of girlfriends to celebrate some birthdays. Within minutes we were deciding to return another time with our husbands. Martin was a warm and welcoming host and it is so evident that he is proud of the work they do and product they produce. The gin was delicious, the atmosphere wonderful and the experience well worth it. We can’t wait to go back for a cocktail class and another gin tasting."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Friends"
+    },
+    {
+      "title": "Fun and informative",
+      "text": [
+        "We went to Reids for the cocktail making class and had a blast! Calvin was fun, informative and made cocktails less intimidating. Definitely recommend this for anyone looking for a new experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Friends"
+    },
+    {
+      "title": "Local Small Distillery Experience in the Heart of Toronto",
+      "text": [
+        "Location:  On the east edge of the downtown area (by car) in a mixed use area. ",
+        "Parking:  Street parking only.  You have to pay attention to parking rules and one way streets but you can find parking with some luck.  ",
+        "The Distillery:  Inside consists of a store for their products, a bar, a lounge area and a glass partition view of the equipment. ",
+        "Tours:  You can book tours online with one of the owners for an hour long sit down which includes samples of their gin, the history of gin plus the history of their business.  We found it very engaging and questions are encouraged. ",
+        "Food and drinks:  They have a cocktail lounge. Reids also cater in High Tea on Sunday afternoon.  High Tea items are average but still a nice time.  Check their website for hours. ",
+        "Overall:  If you want to support something Toronto local and slightly different, then give Reid’s a visit."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2022 • Family"
+    },
+    {
+      "title": "Fun team social event!",
+      "text": [
+        "We went to Reid's for a corporate team social event and the whole team had a great time. Graham is an incredibly engaging and gracious host/guide and it was fascinating to hear the history of gin and learn how it's made. The cocktail making class was fun and interactive and they even provided mocktail options for anyone who wasn't drinking. We finished off the event with charcuterie boards in their beautiful lounge area. It was a really unique, fun and interactive event and I would definitely recommend it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Gin Tasting Experience",
+      "text": [
+        "This combination of the history of gin, the story of the birth of this great family business that is Reid’s Distillery, and the tasting of their amazing gins, makes for a perfect gin experience. Check out this local business and their delicious gins at this great spot that combines the distillery experience with a great bar/lounge. Now that we have done the gin tasting, we can’t wait to return with another group for the gin cocktail-making class!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Friends"
+    },
+    {
+      "title": "Enlightening",
+      "text": [
+        "My husband and I enjoyed a tour and tasting.  We learned so much about the history of Gin distilling across the globe and fun facts about the industry.   We tried Reid's varieties at different temperatures, with/without tonic and discovered so many nuances that we would not have otherwise appreciated. Having the owner/founder as our host was an added treat.  The Reid family clearly cares about producing a premium quality Gin.  The time and attention that they have taken to refine their product was evident in the tasting as the Gin was delicious!  Support local !!",
+        "We highly recommend this tour and the product."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Superb and cracking value",
+      "text": [
+        "Our friends discovered Reids tour as we visited Toronto and it is very worthwhile. We were warmly welcomed by a lady on reception. We were given a gin and tonic whilst Martin explained the history of gin, both interesting and humorous. We then moved into the distillery to learn how gin is made and then finally try the botanicals Reids put in their gin. And then to finish off a complimentary gin cocktail. A very interesting and worthwhile tour and all 4 of us recommended it"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Excellent tour - highly recommend",
+      "text": [
+        "Would highly recommend this tour to anyone who enjoys gin. Informative, interactive and enjoyable. Great value for money and there is a beautiful cozy lounge for chilling out after the tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Best distillery tour in Toronto",
+      "text": [
+        "Tour lead by Jacqueline Reid was nothing short of amazing! Being a part of the business the tour was very personal, detailed, and informative. Not a detail is overlooked, from the friendly staff, to the elegant decor, cocktails done right, and good food to compliment it all. The value of the tour is fantastic. I would go again and again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "A highlight of my trip to Toronto",
+      "text": [
+        "This family run enterprise serves up not only excellent gin but a fascinating insight into the history and development of the spirit, plus a tour of the distilliery (very little walking involved).",
+        "Seated on high bar stools we got to smell and taste all the botanicals used in Reid's Gin while our friendly host Calvin explained why they had been chosen. It includes a G&T on arrival and a gin cocktail at the end, not to mention the gin used at the tasting.  I suggest that you take public transport to get there! ",
+        "Calvin's enthusiasm was infectious, encouraging everyone to ask questions throughout.  We also loved the bar area with its beautiful velvet chairs and sofas, perfect for relaxing with a gin cocktail or two afterwards.",
+        "STrongly recommended, it was a highlight of my stay in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Amazing value tour",
+      "text": [
+        "I booked this tour for a bachelorette party and it was incredibly in depth! The tour was supposed to take an hour and a half but it ended up being two hours due to all of our questions and the guide was incredibly accommodating. It's a small family owned business and the owners are the ones who run the tours. The gin itself is delicious and the cocktails are amazing. I highly recommend taking the tour or at least coming in for a drink and some food. The atmosphere is fantastic everything is so carefully designed and beautiful. Honestly can't say enough good things!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Gin Education",
+      "text": [
+        "Fabulous place to learn about Gin and its origins and flavours. A tour was organised by our children as a way of celebrating our 50th Wedding Anniversary. Great service and an entertaining talk and sampling of flavours used in their brand of Gin. A family business in a very well decorated space. Will definitely return to sample some different drinks. I can personally recommend the \"Smoked Gin and Tonic\" prepared using smoke from dried berries."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Beautiful break in a day",
+      "text": [
+        "Mid-day break in a hot day. So comfortable place and wonderful gin drinks. Easy going classy place to just have a cocktail with friends and relax. A great stop. Definitely coming back for a tour and food."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Another fabulous visit for cocktails!",
+      "text": [
+        "Reid's Gin is amazing gin, and the distillery is very beautiful. Food consists of locally sourced cheese, meat and seafood boards, all reasonably priced and SO good. The cocktails are just fabulous. The one in the photo is a Spiced & Smnokey G & T. \"The cassia smoked glass and peppery cubeb highlight two spicy botanicals in Reid's Gin. Orange balances the spice.\""
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "A Fun Gin Joint!",
+      "text": [
+        "What a great place! Stunning interior, excellent gin, mixed drinks, cocktails & food platters. ",
+        "The gin on its own stands up to numerous English, Scottish & Irish gins we have tried. They also use Fever Tree tonic, one of the best- though  they are apparently developing their own. ",
+        "There are tours of the distillery as well as the opportunity to just drop by for a drink & a bite or just a drink. And buy a bottle of their lovely gin. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Delightful place to visit with unique cocktails",
+      "text": [
+        "Toronto needs more places like Reid's. Our group went for cocktails before dinner at neighboring Leslieville and we had a wonderful time.  The offering includes a variety of really innovative and tasty gin cocktails which was so good each couple left with a bottle of the house gin.",
+        "Open, spacious, airy and offering a view of the distillery the ambience could not be better. Service was friendly and helpful.  They do offer food and tours but we did not participate.  ",
+        "Do give it a try, its Toronto's only distillery an deserves to succeed."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Tasting",
+      "text": [
+        "Great experience, everyone was really friendly and the high quality of the products was impressive! Thanks"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Friends"
+    },
+    {
+      "title": "Wonderful tour and exoerience!",
+      "text": [
+        "We had a wonderful time visiting the distillery and were truly amazed by the story behind it! We are a family of gin lovers and this was definitely something we will do again with the rest of the family when we come back to Toronto! A wonderful family business, creating an amazing experience and a great set up for gin tasting, family gathering or any event:) Thank you for the amazing night!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Great Night Out!",
+      "text": [
+        "My boyfriend and I did the tour.  Some of our friends recommended it and it did not disappoint. It was fun, educational and the tour and tasting were really unique compared to other tours and tastings! The venue and atmosphere are also really beautiful! Definitely worth a visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Learned more than expected about gin (and lots of tastings!)",
+      "text": [
+        "The space is beautiful - comfortable yet luxe chairs and stools, high ceilings, glass wall for views of the distilling equipment. If I lived within walking distance, I would come here all the time for a drink (especially Thursdays when there's live jazz). The tour was really informative -- our guide is an owner and a true believer. Glad to see the Hogarth Beer Street/Gin Lane prints in context. Expect to taste a ton of samples flavoured with different botanicals. The Gin Gin cocktail at the end was one of the best I've ever had."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "The tour of Reid’s is phenomenal. Very interesting and engaging with lots of sampling and tasting. Can’t recommend enough!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Couples"
+    },
+    {
+      "title": "Of All the Gin Joints",
+      "text": [
+        "A friend gave me a  gift of touring this Distillery for Christmas   What a great way to spend a couple of hours.  We arrived and were greeted with a G&T  with Gin that is produced on the premises.  The staff were very friendly as were the other guests.  It was a great experience and who knew what was involved in the production of Gin"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Great gin...",
+      "text": [
+        "Had a really amazing time with my family learning about and tasting some very good gin.  Venue is great, staff and Reid family are very welcoming, and the variety of cocktails awesome"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Christmas shopping, made easy!",
+      "text": [
+        "We popped in do do some Christmas shopping. You can buy guft certificates for distillery tours and all kinds of Reid's items, but today we found amazing mini bottles of their gins! Perfect for hostess gifts and in stockings. Also picked up some great Fever Tree products Love Reid's!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Gin at it's best in Toronto",
+      "text": [
+        "I organized a group tour of Reid's Distillery. Everyone in our group LOVED this brand new gin distillery.. Graham Reid explained the origins of gin and described the process of making their distinctive gin. A wonderful welcoming lounge and bar area and pristine washrooms. The tasting of distillates was super followed by a cocktail of our choice. I would highly recommend this tour. So proud to have a brand new Canadian company in our midst."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Gintastic",
+      "text": [
+        "Brilliant experience, very interesting. We learnt so much about the process in simple terms ! Lovely comfortable bar area to enjoy our most enjoyable post tour cocktails too. I’ll highly recommend to my pals."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Revelry at Reids",
+      "text": [
+        "Joined some good friends to celebrate relaxing of restrictions at Reid’s for their first mixology class after lockdown.  Very fun and educational experience.  All protocols followed but everything still seemed  normal Very cool space and some wonderful products.  It would be great to return with a larger group when times allow.  Gin selection and presentation superb."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Hidden Gem!",
+      "text": [
+        "We had a great night at the Reid’s Distillery. We signed up for their cocktail making class and came away feeling like experts. My favourite was the Old Fashioned. It’s a small class so feels intimate which is nice and very sociable. The staff were fab, very friendly. We will definitely be back. Excited to try their jazz nights!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021 • Couples"
+    },
+    {
+      "title": "Well worth it",
+      "text": [
+        "What an amazing experience. Learnt so much. Our host was funny, engaging and very passionate. The gin was amazing!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021 • Friends"
+    },
+    {
+      "title": "Hidden Gem on Logan Avenue",
+      "text": [
+        "We had become fans of Reid’s Gin so decided to visit the distillery and do the Tour.   It was amazing.  Martin was our host (there was a group of six of us).   We got the history of gin, a tour of the distilling process, the Reid’s story and a tasting of their three gins.   Honestly- it could not have been more fun.   Took about 2 hours in total, and we would have stayed in the lounge longer but had dinner reservations.   Highly recommended"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021 • Couples"
+    },
+    {
+      "title": "Fantastic family business.   Super interesting tour, great fun and welcoming owners",
+      "text": [
+        "Have bought their gin a few times and was finally able to book a tour.   We had planned on going in March but Covid changed things and were thrilled they reopened for tours. ",
+        "Went a Friday evening expecting some info and a drink or two.   Had a great time.  Very informative talk about the history of gin, the Reid’s distillery and their approach to gin making",
+        "Plus we made have had a few cocktails.    Well worth the price of admission.  ",
+        "Great Toronto business.    Good people and a great product.  ",
+        "Good Covid protocols.   Felt safe and comfortable as we learned about and enjoyed the Gin.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020 • Friends"
+    },
+    {
+      "title": "Touring during the Pandemic ",
+      "text": [
+        "Four of us booked an after work tour and tasting online. They accommodate up to 8 for the tour. The Reid family have built a beautiful facility and they make darn good gin in 3 main styles: original, citrus and spiced. The tasting starts with a taste of their original gin at room temperature; then one adds ice; then tonic water. The first allows one to discern the true spirit of the gin; with ice, you have a very dry martini! The added tonic showcases a really good GnT. Our tasting was led by Graham Reid, who enthusiastically and ably led us through the history of gin, and the way the Reids fashion theirs. Next, Graham took us to the actual stills and described the process of turning water into gin: a miracle! Finally, we each chose a cocktail to close the tasting from a list of four. All brilliant. While we sipped, people came in to shop for gins, tonics and other cocktail necessities. Graham wore a mask and we were required to mask when walking about. At the tasting bar, we kept our distance from those outside our bubble but removed our masks to taste. This is a highly recommended “thing to do” during these perilous times. Cheers!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020 • Couples"
+    },
+    {
+      "title": "Pivot!",
+      "text": [
+        "Evan while we have to stay at home, we can get their amazing gin and cocktail kits! We've ordered a few. Today got the French 75 kit. Spectacular!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020"
+    },
+    {
+      "title": "Who doesn’t like a G&T!",
+      "text": [
+        "Our host was Graham, he was funny, informative and knowledgeable.",
+        "There are a few different classes but we chose: ",
+        " ",
+        "Reid's Signature Tour - $30 - 90 minutes",
+        "The Reid's Distillery Signature Experience includes:",
+        "a complimentary welcome Gin & Tonic",
+        "a hosted behind the scenes tour of the Distillery and how Reid's Gin is made",
+        "a tasting exploration of Reid's botanicals and individual distillates",
+        "a guided gin tasting of Reid's Gin ",
+        "a complimentary finishing cocktail in Reid's Distillery cocktail lounge, recommended based on your palate",
+        "Lovely way to spend a Saturday afternoon with family and friends. Great venue."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Friends"
+    },
+    {
+      "title": "Great tour and awesome gin!",
+      "text": [
+        "Had a great time with friends! The tour was informative and the drinks were delicious! Would definitely return again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Friends"
+    },
+    {
+      "title": "Came for the Jazz, found a gem.",
+      "text": [
+        "Came down for the 1st time, attarcted by the Jazz Mavericks and walked in a very stylish and hip room, with a great bar and many comfy looking seating areas, tables, couches, etc.",
+        "I ordered a drink and the bar staff was super helpful and pleasant.",
+        "Sat on one of the plush bar stools and was so pleasantly surprised at how comfy and inviting it is.",
+        "Highly recommend this and will definitely come back for another visit, especially if they have live music."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Solo"
+    }
+  ]
+}

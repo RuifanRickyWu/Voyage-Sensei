@@ -1,0 +1,362 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Intrepid Urban Adventures - Toronto",
+    "url": "/Attraction_Review-g155019-d23587913-Reviews-Intrepid_Urban_Adventures_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Level 7, 567 Collins Street",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "3000"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 166
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/95/21/2f/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Walking Tours",
+    "Beer Tastings & Tours",
+    "Private Tours",
+    "Food Tours",
+    "Day Trips"
+  ],
+  "description": "Intrepid has been taking travellers around the globe since 1989. With locally based leaders out front of every adventure, they have more than 1000 immersive trips in over 100 countries to choose from. More than just good views and great times, these adventures connect you to the places you go, the people you meet along the way and the communities at the heart of every Intrepid experience.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "2 pubs and historic foot tour",
+      "text": [
+        "We learned so much about the history of this part of Toronto from our guide. She took us to places and shared insights that we would have completely missed if not for our guide. Very personable and fun tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Outstanding tour and marvelous guide!",
+      "text": [
+        "This tour is a must for visitors to Toronto. Our guide, Kieran, was outstanding. We have been on several private tours, but never had the delightful and engaging conversation we had with Kieran. His intelligence and dry sense of humor made the tour even more fun. The walking portion of the tour is short, but pleasant. You see green space along with interesting architecture. We heard many intriguing historical facts along with very tasting some fantastic treats! Each item we tried was delectable and it was difficult to find a favorite. The St. Lawrence Market is such a cool place to find fabulous food, a multitude of sweets and unique souvenirs. We will definitely visit the market on our next visit to the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Would recommend ",
+      "text": [
+        "Loved the tour, my tour guide was very professional and knowledgeable about the city.",
+        "Very friendly and answered all my questions. I would love to go on another tour with this company!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great guide",
+      "text": [
+        "Royden gave an excellent tour. The break was well timed, good coffee and lots of local lore. I highly recommend the tour. Thanks!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "We had a great tour with Royden!  He was warm and funny.  Would definitely recommend this tour to anyone interested in this area."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Great way to see and understand the city with added beer!",
+      "text": [
+        "Dave was a welcoming and knowledgeable host, covering both beer and city facts. It was like walking the city with a friend who happens to know about history and brewing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Interesting and fun. Lots to see!",
+      "text": [
+        "I was part of a very small group of two solo travellers, together with our guide, Robert, who was extremely knowledgeable and good fun. The tour covered a brief history of the area generally, street art, eateries, shops, buildings, people and places. Would very much recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Solo"
+    },
+    {
+      "title": "Wonderful tour",
+      "text": [
+        "It was a pleasure to have Michelle as a tour guide and learn about history of two famous historical places in Toronto. Thx"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great tour, highly recommend",
+      "text": [
+        "Dave was our guide for we three couples from the US. He did a fantastic job in super hot and muggy weather. He kept us in the shade as much as possible. Interesting history of the city described in a very engaging and entertaining way. Loved the stop at the St Lawrence Market, would love it if there was a way to allow a few minutes for shopping. The stops for beer at two breweries were very much appreciated as the weather was so hot. We all enjoyed the Distillery District. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing Tour!",
+      "text": [
+        "Michelle was an amazing tour guide! She went above and beyond with her information of the city and her passion for the neighborhoods. This tour was the perfect start to my Toronto vacation and is a must for anyone who visits Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Awesome tour! Guide was super knowledgeable",
+      "text": [
+        "Jason was great. We were running a few minutes late and he waited for us.",
+        "He had so much knowledge of the city and of the areas we were walking through. He has lived in those areas and knows them inside and out. He knows so much about the local history and had context for everything. Listening to him was like drinking from a fire-hose! Awesome. Would highly recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Couples"
+    },
+    {
+      "title": "What's a few beers among friends?!!!",
+      "text": [
+        "Jason ( ( the Norm (from Cheers))was very knowledgeable and enthusiastic on the tour.  He kept the group informed and engaged.  Would definitely recommen!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Tour highlighted Toronto in a way that you can't do by yourself",
+      "text": [
+        "We were 10 minutes late to our tour with Alex, who kindly waited for us to begin. We spent about an hour in each Chinatown and Kensington, through which Alex was a reservoir of knowledge and great suggestions of where to eat with our gluten dietary restrictions. I love Kensington, and I might not have even found it, much less understood the culture and history of the market, without the tour. Would highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Had a great day on the History Is Better With Beer Tour!",
+      "text": [
+        "Had a great day on the History is Better with Beer Tour in Toronto!  4 of us were toured through some great parts of Toronto by Jordon who was extremely knowledgable on the History of Toronto.  We all learned some great history while enjoying great beer along the way.  Will be booking another tour soon. Thanks Jordon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Awesome experience",
+      "text": [
+        "The tour was fun and interesting and glad I got the chance to see some neighborhoods in the city I might not otherwise have visited. Lots of cool places to eat wish I could have tried them all. We did a bunch of snacking at a few stops though. Mike was a great guide who knew so much. And there were about 5 of us all together on the tour. It’s great when you can meet up with strangers but it feels like spending the day with new friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Solo"
+    },
+    {
+      "title": "It was an interesting morning",
+      "text": [
+        "My boyfriend and I took this trip as a weekend date/getting to know our city better trip (We're both familiar with the city). Mike was our tour guide, and was funny, personable, and knowledgeable. He did warn us that he never shut up, but considering I wasn't in the mood to chatter and was in the mood to learn, he was the perfect tour guide. I'm a history buff, and he still managed to teach me something about the city, which was exactly what I was in the mood for.",
+        "The one piece of advice I would give is bring hand sanitizer if you're squeamish - lots of snacking is about to happen."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "highly recommend, he was amazing.",
+      "text": [
+        "Jordan was excellent! Was incredibly knowledgeable about both beer and Toronto history. I'm from Toronto and he had a number of facts & stories about Toronto that I did not know.  As other reviews have mentioned he was funny, friendly and well informed. He also had the challenge of taking us through freezing temperatures and a blizzard. Really enjoyed the tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Great Beer Tour",
+      "text": [
+        "Jordan was great, very informative about Toronto. Took us to some great boozers with excellent beer. The nachos and butter tarts were an added bonus that we didn’t expect, very nice."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Couples"
+    },
+    {
+      "title": "A must",
+      "text": [
+        "This was booked as part of a larger group tour so was unsure of what to expect. Jason was a brilliant host; warm, friendly and incredibly knowledgeable, he was able to provide us with an excellent historical and contemporary insight into the Kensington Market area. We experienced China Town, a cool little coffee shop and some funky street art. The fluffy show that fell throughout the tour only added to the atmosphere.",
+        "This is a must for people looking to explore the local side of Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "We had our tour with Sam and she was fabulous! She was so receptive to questions and had all the answers too! We are from the area and still learned a lot from this experience - the beer was nice too :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Entertaining and informative ",
+      "text": [
+        "Carlos was very informative, kind and entertaining. We thoroughly enjoyed our time touring Chinatown and Kensington Market and we could have talked to him all day long!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Solo traveller who had a small group tour with Carlos - he was excellent. Went to two cool beer spots and learnt plenty about Toronto along the way."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Solo"
+    },
+    {
+      "title": "Great walking tour",
+      "text": [
+        "This was such a great tour and Carlos was fantastic.  I learned so much about the areas we covered and Carlos was so knowledgeable and friendly. Thanks so much!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Beer tour ",
+      "text": [
+        "Dave was a great guide. He was very knowledgeable and cheerful. It was time well spent.  The weather wasn't too bad as well."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Chinatown and Kensington Walking Tour",
+      "text": [
+        "Fantastic tour with Alex. Exceptional knowledge and he kept us wanting more! Fantastic historical knowledge and great background of Toronto, Chinatown, and Kensington Market! We will tour with them again!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing Tour!",
+      "text": [
+        "Alex was amazing! Loved all the stops and SO. MUCH. HISTORY. ",
+        "Would recommend 100% this Kensington and China Town tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022 • Friends"
+    },
+    {
+      "title": "Exceptional",
+      "text": [
+        "This tour was engaging and insightful! Our guide was terrific and thoughtful throughout the entire tour. If you are looking for a fun time while exploring the city I highly recommend this!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Friends"
+    },
+    {
+      "title": "Fun and at the right pace.",
+      "text": [
+        "The guide is informative and fun. The pace was good for us older folks and there was a coffee break at the halfway mark. Toronto Chinatown is not as good as Vancouver or San Francisco but we still enjoyed it. You could tell the guide enjoyed talking about his city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Fantastic Toronto afternoon",
+      "text": [
+        "As a history buff and beer nerd, I had an awesome time learning about Toronto and the local beer scene. My guide Jordan is a wealth of knowledge on both. His beer recommendations were spot on, and the historical tidbits he provided along the tour route were fascinating. I could not have spent my time any better."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Solo"
+    },
+    {
+      "title": "Highly Recommended.",
+      "text": [
+        "Loved learning things about Toronto I never knew.",
+        "Specifically",
+        " the Market but lots about the surrounding areas.  This was all due to our guide Tim.  Tim was an absolute mine of information.  He knew the history of the building, the people in and around too.",
+        "The little tastes of the area were wonderful giving us an impression of how everything/one got to where it was was.",
+        "Very good tour highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Fascinating tour",
+      "text": [
+        "Michelle did a great job of showing us around this interesting area. She covered everything from history to graffiti. And the food stops were delicious. I learned a lot and was thoroughly entertained."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Great way to get to know some neighborhoods outside downtown.",
+      "text": [
+        "Great overview of the history and culture of two great Toronto neighborhoods. Kieran was very well informed and seemed to tailor the tour to our interests."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Lots of food",
+      "text": [
+        "This was one of the best food tours we have taken. Our guide was very informative and took us to out of the way places for a real Canadian food experience. We went to the St. Lawerance and the food and atmosphere was fantastic. Well worth taking."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Try to book with Jason - he’s the best!!",
+      "text": [
+        "My daughter and I did the tour of St Lawrence market with Jason and agreed he was one of the very best tour guides we’ve ever had. Fun, funny, incredibly knowledgeable and chock full of terrific local stories, he made 3 delicious hours fly by! Among the tastings? Apple cake, bagels, blintzes, pierogis, Nanaimo bars, peameal bacon sandwich with maple mustard and more! We were stuffed by the end and knew so much more about Toronto. Highly recommend!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "A great tour.",
+      "text": [
+        "Wow. Robert did a phenomenal job showing us this area. He spent a lot of time explaining the history of this community. All of our questions were answered in a very conversational format. A very u usual area which we would have missed a lot were it not for his informative and detailed talk. Thank you for your recommendation for lunch. The snack stops were very much appreciated."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great tour with lots of great info about the ever-evolving immigrant culture experience in a fresh, modern perspective",
+      "text": [
+        "We had a great time learning about Chinatown (and eating!) and shopping our way through the immigrant experience in the Kensington Market area. Jason was very knowledgeable, very patient, and had lots of little fun facts to share. Would highly recommend as a private tour and I assume in a group tour setting as well. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Terrific!",
+      "text": [
+        "Carlos was a remarkable young man who had a great knowledge of our tour and was so pleasant and friendly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Awesome tour",
+      "text": [
+        "Jason was as knowledgeable as he was fun. I would recommend this tour to anyone! Thank you for a great day full of delicious beer, walking, and history."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "History and beer do go well together.",
+      "text": [
+        "Fantastic experience Carlos had a great friendly personality. A great Knowledge of the city, the history and the beer recommendations were Fantastic. ",
+        "Would definitely recommend this tour to anyone.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "An original Mother's Day Gift.",
+      "text": [
+        "My daughter in law took myself and her mother on the tour today for our mothersday gift.  Taylor, our guide, was very knowledgeable about the market's history and very personable. We enjoyed the whole experience and came home very satisfied with our outing and planning where to go next time."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Family"
+    }
+  ]
+}

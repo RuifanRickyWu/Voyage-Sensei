@@ -1,0 +1,364 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Museum of Illusions",
+    "url": "/Attraction_Review-g155019-d15224488-Reviews-Museum_of_Illusions-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "132 Front St E, Unit A",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5A 1E2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 194
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5e/56/8e/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Sightseeing Tours"
+  ],
+  "description": "Welcome to our fascinating world of illusions. Thrilled yet bewildered you will enter a world that will blow your mind but also give you an opportunity to learn all sorts of things... come and visit us! It is sure to be an amazing and unimaginable experience because whatever you see, especially here in the Museum of Illusions, is not what it appears to be. Are you ready for an adventure?",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Fun day in the city!",
+      "text": [
+        "The best day spent at the illusions museum- it was fun to do something a little bit different and quirky. I went in the daytime mid week and this was a perfect allocation to visit as it wasn’t too busy and were able to freely wonder the Museum without being hurried.",
+        "Everyone was very welcoming and fellow tourist will always kind enough to take photographs. The staff were always on hand to ask questions and enquire on illusions- Pragya was the standout as she was always so upbeat and went above and beyond to make this a memorable and fun day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Seeing is believing at the Museum of Illusions",
+      "text": [
+        "We spent a delightful 90 minutes exploring the Museum of Illusions on Front St. in Toronto. We booked tickets for 10 am on Sunday, few people were present besides us. Our grandkids were 3, 7, 9 and 10 years, boys and girls and they ran giddily from exhibit to exhibit exploring the illusions and trying to figure out how they worked and why. The small space mandates timed entry but there were plenty of illusions to keep everyone mesmerized and not feel crowded. Optical illusions are well placed and ingeniously designed, like the transit car and the \"chair\" in the middle of the hall. Mirrors and optical illusions created a variety of visual treats including kaleidoscopes, games, vertigo-inducing tunnels and objects that appeared different in size but were in fact similar. Our kids were the perfect age to appreciate the interactive activities of the museum, even the 3 year old. Apparently, attendance is heavy in the summer, but very sparse in the winter, so pick your season and select an early morning time slot to have the run of the museum. Coat check and toilet facilities are available."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Disappointing experience",
+      "text": [
+        "We found this experience extremely dissapointing. Entered and exited within approx 15 minutes. Felt the cost was very high for the experience we had."
+      ],
+      "rate": 2.0,
+      "tripDate": null
+    },
+    {
+      "title": "Surprising little gem in the heart of Toronto!",
+      "text": [
+        "This small museum consists of a collection of visual illusion exhibits. It is a unique find for science lovers and families with children in the middle of downtown Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Good place to visit",
+      "text": [
+        "It was fun for both me and my adult autistic son. Very  tripping and cool. Recommend for all ages. A good stop if visiting Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Too expensive for same old 'illusions' one can see  just about anywhere.",
+      "text": [
+        "If you have young (screaming) children, they seemed to enjoy the space.  Adults not so much. Every sound echoes and the illusions are old news."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Cool activity",
+      "text": [
+        "The Museum is a really fun activity to do with friends and family. Make sure to charge your phone beforehand, you’ll take a lot of cool pictures there. Although the museum isn’t that big, we spent almost 2 hours there to explore all the illusions."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Terrible, want my money back!",
+      "text": [
+        "I recently visited the Museum of Illusions with my brother, and it didn't meet our expectations. The space was very small, dusty and there was nothing special to see. We completed the entire exhibit in just five minutes. I feel it wasn't worth the money, and even my 16-year-old brother hated it and regretted going. It was a big disappointment, and I want a refund."
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Not worth the money",
+      "text": [
+        "Not worth the money.  The exhibits are very simple and there are not very many of them. I never once went \"wow\". Many better things to do in Toronto."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Great little add on for our vacation.",
+      "text": [
+        "Grandson (11) loved this.  It is small and doesn't take long to go through.  We spent around an hour there.  The staff was wonderful and would explain the best way to get pictures and would assist. Kayla was especially vivacious.  It seems like the staff likes working there which is always a plus for visitors.   The exhibits are done well and typical of this type of museum.  I believe it is more geared to 10 years and older."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Simple but fun!",
+      "text": [
+        "It was simple but fun! My 13-year-old son and I enjoyed all of the illusions and got some funny photos, especially in the upside down subway car."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Pricey but fun",
+      "text": [
+        "This was really fun, we all enjoyed it (kids and adults) ",
+        "Definitely good for some photo ops.",
+        "I did find it really pricey though, it’s a pretty small museum, you’re not there long and there are only so many pictures you can take."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Disappointing ",
+      "text": [
+        "Disappointing. Finished the exhibition in 25 mins. Fun activities but too expensive af very limited amount of activities. "
+      ],
+      "rate": 2.0,
+      "tripDate": null
+    },
+    {
+      "title": "Not worth the cost",
+      "text": [
+        "We have been to illusion shows before. There  were not many illusions here: we had seen all better presented elsewhere. It was also expensive for what you got."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Not bad experience",
+      "text": [
+        "It was a fun experience with my friends, we laughed a bunch but I found it was very small and short. We paid 28$ each and finished the entire thing in 30 mins... "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Nice one but no parking",
+      "text": [
+        "We were looking at top things to do for kids . And this came across - in trip advisor… our kids loved it . Even the adults had fun . It is a small place and I think some of the illusions- u can see in other places like wonderworks . Some illusions were really good . Price was ok. ",
+        "There was a guy who helped us taking pics exactly how the illusion was . Good customer service . Wish there were few more illusions for the price . Since we were in a large group, we took our time in each illusion , taking pics . Others moved on to the next ones and came back when free . Parking is a problem here . We had to leave our car in a paid parking location , next to this place . Good fun overall … had a good experience… lots of food / drink places around … 👏👏👏👍👍👍"
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Meh! Tourist Trap.",
+      "text": [
+        "We asked how long it would take to do the museum, they said 1hr. Took us 20min. There were 5 \"illusion\" rooms and several other stations. Once you take your photo, it's a one and done."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Take your chances..",
+      "text": [
+        "It was just ok. - Went through it in less than 15 minutes.. - Not what I expected at all.. - But then,, you don’t know till you go there yourself…"
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2022 • Couples"
+    },
+    {
+      "title": "Good place but sadly their staff isn't too friendly",
+      "text": [
+        "Fun place, rude staff. Make sure to call them to check your booking if you're booking via TripAdvisor or any other 3rd party. Our booking was moved because they had a group of students coming and they said that 3rd party websites don't update as per their calendar."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2023 • Friends"
+    },
+    {
+      "title": "Nice and entertaining",
+      "text": [
+        "Its good for an hour. We had a super supportive experience with the people in the museum. The trip advisor booking was no fun at all when we tried to change it. So… thumps up for the museum and boo for trip advisor"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Not bad; worth the visit",
+      "text": [
+        "Not bad; some really great exhibits and a few just ok exhibits, but not a whole LOT of exhibits. Some you can see online and in books, but it's better to experience them in-person.  It's not a big place. My 13 yr old son and I got through everything in 30 min. but we enjoyed ourselves."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "Underrated ",
+      "text": [
+        "If you enjoy optical illusions and scientific phenomena in general, you will find this place AMAZING! It's small. Take your time - even if you go through every exhibit methodically it will only take you about an hour and a quarter to get through, but it's excellent entertainment value for those who like such things. Get there early or go on a weekday to avoid crowds and bring your camera!  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Absolute Thrill",
+      "text": [
+        "Absolutely amazing with the highlights being the infinity room/well and various light fill roomed that left us off kilter and amazed. Perspective images were superb. Even the more basic illusions, including an 'eyes following' you Einstein display were excellent. All in all, an hour well spent. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Family"
+    },
+    {
+      "title": "Lackluster... but they tried",
+      "text": [
+        "Meh. Just meh. ",
+        "Unless you're all about \"taking pics for the 'gram\"... this isn't for you. We were fortunate enough to have gotten free passes. ",
+        "And even still felt like we could've done something better for the little time we were there (you can be in and out in 30 minutes when its not busy)",
+        "There was even a spot where you can do wooden puzzles, just like the ones you can buy at a game shop. The cost of the entry fee can buy you 2 of these puzzles.",
+        "Best display: lights tunnel and twinkle room",
+        "Cons: everything else",
+        "In short, if you like taking photos that can trick the eye, go here. ",
+        "(You can improve your experience by hitting up your local dispensary first... wink wink)"
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Lots of fun, bring a camera and friends",
+      "text": [
+        "Fun for around 45 minute visit, best in groups of 4 or more to share the fun. During our visit, the majority of visitors were teenagers or young couples, but this should appeal to all ages.",
+        "Felt a little smaller than we expected for the money paid, was good fun but would need to avoid at peak periods"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "A fun hour or two. ",
+      "text": [
+        "We really enjoyed the museum. Some fun exhibitions of optical illusions and also interactive pieces as well with clear explanations of how the effects were achieved. Hints of where the best spots to take photos from are dotted around. Staff were really friendly and helpful. (They also were happy to offer to take photos.)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Not worth the money.",
+      "text": [
+        "I was so excited to visit here as We have been to other illusion museums and those were great fun. It is too small and few illusions as compared to Florida and California. Only one floor and hardly 20 min of tour. Good but not worth the money. Toronto one was not up to the expectations. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Mehhh",
+      "text": [
+        "Most of the illusion stations were entertaining , but I expected way more for the price of admission . We went through all of the exhibits in about 20 minutes and then hung around explaining how the illusions worked to other customers"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Confused completely - you have succeeded",
+      "text": [
+        "Great illusion design. I enjoyed to be standing next to my friend as a giant in one of the displays. And I also enjoyed the illusion that made us feel dizzy"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Underwhelming and expensive",
+      "text": [
+        "Expensive for the experience.  Would recommend if you have an hour to",
+        "Kill but otherwise if you were to miss this, it wouldn’t affect your trip to Toronto."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Good Demonstration of Visual Effects or Illusions!",
+      "text": [
+        "For the curious and inquisitive ones, this will give you answers on how movie visual effects are done. You can spend hours here checking out the fascinating rooms."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Highly recommended!",
+      "text": [
+        "While on my staycation in Toronto, I invited my adult daughter to come with me to the Museum of Illusions. We had a blast, thanks in large part to Pragya - a museum staffer who stayed with us the whole time, showing us how to position ourselves for the funniest and craziest pics as well as how to really appreciate the wide variety of optical illusions on display. This individualized guided tour was much appreciated and made possible because we happened to arrive at the museum at a fairly quiet time. If you'd like this experience as well, try to plan your visit on a regular weekday."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Amazing place",
+      "text": [
+        "This attraction is absolutely incredible, ideal for both families and groups of friends alike. It offers ample opportunities for capturing stunning photos, perfect for sharing on Instagram. From captivating scenery to delightful attractions, every corner presents a picturesque moment waiting to be captured. Whether it's a family outing or a gathering of friends, this place guarantees unforgettable memories and countless photo-worthy moments. So grab your camera or smartphone, because you're in for a treat as you explore and snap away at this truly remarkable destination."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Don’t bother",
+      "text": [
+        "Not worth the money they are charging….You can do the whole thing in 15 minutes.  I went with my son and it was kind of amusing….we couldn’t believe we paid $25 each to see what they have."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "Museum of Illusions",
+      "text": [
+        "A little bit crowded when we went but the illusions were well placed and well explained (text could have been bigger).  Several types of illusions are demonstrated including space and visual."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2023 • Couples"
+    },
+    {
+      "title": "Boring experience",
+      "text": [
+        "Not worth it.  Made me think of the Willy Wonka fiasco in Dublin.  Super small, too many people, did not experience anything cool. Save your money..."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Fun, Average, Not Must See",
+      "text": [
+        "Fun experience. Was done in about 25 minutes.",
+        "Place is quite small and takes no where near as long as advertised to walk around.",
+        "This is a fun thing to add to your day as a random booking but is not must see at all.",
+        "Staff were very friendly and described some illusions to us."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Cool concept, place is small and very crowded though",
+      "text": [
+        "Cool concept and definitely had some cool spaces. Gets crowded really fast, with LOTS of kids running around screaming. Even without the chaos, the space is pretty small, and wasn’t worth the $26/person ticket price in my opinion. Spent about 30min inside."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Great photo opportunities",
+      "text": [
+        "We booked this on their website for a Christmas Day at 10:00am. I was surprised that they were opened. When we went in there was 10 of us. We went from room to room taking pictures. The staff were as very friendly. They explained some of the illusions and took our picture. It took 45 minutes to get through. There was an area to do some puzzles. We ended up buying a few in the gift shop at the front of the store $16 each. There is a room where you can hang up your coat and leave your belongs but it’s not their responsibility if something gets taken. This was a great experience and I only  wished it were bigger. But being that it’s downtown I can understand their issue with the space."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Couples"
+    },
+    {
+      "title": "DON'T WASTE YOUR MONEY!",
+      "text": [
+        "Employees were so kind and attentive!.....BUT the place itself was the size of my kitchen/living room. Exhibits were very basic and not very entertaining. For the price I was extremely disappointed. Shouldn't be called museum...this felt like junior high students slapped this together! I can't believe they are in business!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2023 • Family"
+    }
+  ]
+}

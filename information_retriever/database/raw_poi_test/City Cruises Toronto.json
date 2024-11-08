@@ -1,0 +1,282 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "City Cruises Toronto",
+    "url": "/Attraction_Review-g155019-d1744957-Reviews-City_Cruises_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "207 Queen's Quay West Queen's Quay Terminal",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 1A7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 604
+    },
+    "openingHours": "Mo-Su 11:00-18:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/62/7d/57/city-cruises-toronto.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Boat Tours",
+    "Sightseeing Tours",
+    "Private Tours"
+  ],
+  "description": "Leaders in hospitality & cruises on the Toronto Harbour - harbour tours, cocktail cruises, dinner cruises, lunch & brunch cruises, private charters, wedding & events venue.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Worthwhile tour. Enjoy",
+      "text": [
+        "Recommend tour to anyone.",
+        "Friendly, professional  staff",
+        "The meal was very good.",
+        "Very good service.",
+        "Nice views of the Harbour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Couples"
+    },
+    {
+      "title": "Audio guides not available in other languages, as advertised.",
+      "text": [
+        "The day was beautiful, the boat clean and comfortable, staff very helpful and the coastal view of Toronto unique and stunning.  Although the Tripadvisor ad noted that audio guides were available in several languages, including French, the staff told us they have not offered this for several years.  Apparently they have asked Tripadvisor to update their ad but this has not happened.  We were very disappointed since our friends from West Africa speak French.  We did our best to translate but the guide spoke very quickly and so this was challenging."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Very good and informative!",
+      "text": [
+        "A very enjoyable and informative cruise. Our guide was very knowledgeable and friendly, we have learnt a lot about the city in the space of that one hour. Great views of the city and the islands, highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fantastic Dinner Cruise",
+      "text": [
+        "Very impressed with the Dinner Cruise, the food was delicious, staff very helpful and friendly. The views from the cruise were simply stunning, loved it. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Nice hour cruise to see the city",
+      "text": [
+        "The boarding point was easy to find, the boat left and returned on time, the crew were friendly and helpful and the view of the city was excellent. Would recommend for anyone looking for an hour cruise to see the harbour."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great way to spend a relaxing hour",
+      "text": [
+        "We throughly enjoyed our sightseeing cruise. We went on the 6.30pm one , just as the sun was setting and we got some fabulous photos  of the city.",
+        "Our tour guide was Lawrie , he gave a very informative commentary, with lots of interesting facts with a gentle sense of humour.  He interacted well with the guests , mingling amongst us , chatting to everyone,  answering questions and offering to take photos on your own phone.  "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Premier Lunch Cruise on Odyssey",
+      "text": [
+        "Thoroughly enjoyed our lunch cruise onboard the Odyssey today, Aug 30/24. The weather was perfect, the staff was excellent and our meal was amazing and delicious! ",
+        "The dining room where our lunch was served is first class all the way, including white tablecloths!  After our meal, we went up to the open air upper deck to take in the beautiful weather and the picturesque Toronto Skyline. We were treated to an added bonus today as we experienced watching the Snow Birds and the Red Arrows doing their practice before the opening at the CNE Air Show starting tomorrow. ",
+        "We live in Toronto and were very happy to enjoy our experience. Highly recommend to anyone visiting the waterfront, both residents and visitors.",
+        "You will not be disappointed!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Toronto skyline Sunset views",
+      "text": [
+        "Amazing views to the Toronto Skyline. If possible book for the 20:00 tour, because you will see a wonderful sunset behind the Toronto skyline."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Amazing",
+      "text": [
+        "Amazing  ambiance, good food, a good view of the city skyline, good music. It was truly everything we expected and more 💯."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great way to see Toronto from the harbor.",
+      "text": [
+        "We took the 11am cruise on the Oriole and stood in the front of the boat. We took off promptly at 11am. The guide provided great insights into the history of local landmarks. The views of the skyline and islands were beautiful. A great wary to quickly see a lot of Toronto from the harbor. I’d recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fun times and great tour guide",
+      "text": [
+        "We bought our tickets through Toronto CityPass.  Our tour was guided by Scottish Emcee Laurie.  He did a phenomenal job giving us tidbits of the city, architecture, history, and keeping the crowd engaged.  The crew did a great job keeping us safe and the servers were very attentive to our snack and drink needs.  This tour was fun and worth the money."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Good ",
+      "text": [
+        "Good experience.  Taken through toronto city cruise tour with proper explanation by the guide.enjoyed the trip."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Wonderful Brunch Cruise",
+      "text": [
+        "I enjoyed this cruise. The variety of food was delicious, the staff was friendly and professional and the views of the city from the water were beautiful."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great way to start your visit to Toronto. ",
+      "text": [
+        "Great way to get a grip of what to see in Toronto... there is so much!  Friendly staff and knowledgeable guides. World recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Excellent ",
+      "text": [
+        "awesome food, view and music. Had a great time visiting family, the service was amazing. i would recommend to anyone that spends time in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Tour around Lake Ontario ",
+      "text": [
+        "My wife and I took the 60 min cruise when visiting for a few days in the summer. The weather was perfect and the boat ride was very smooth.",
+        "The person providing the commentary was very knowledgeable and made it interesting. ",
+        "It was a nice way to see the Toronto skyline and would highly recommend to anyone visiting."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Very special ",
+      "text": [
+        "The food was excellent and the service really good too.  We’ve been twice since we moved to the area and it’s a wonderful evening out.  It’s a really special restaurant and wonderful to walk by the sea after dinner "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "Great tour of the harbour. Beautiful views of downtown Toronto. Very accommodating to my husband who uses a cane; friendly and informative narration. Enjoyed it tremendously. Would recommend it to others."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Unbeatable POV",
+      "text": [
+        "Beautiful Toronto Harbourfront and Toronto skyline!!! Highly recommended, my family and I had a great experience!!! Good piece of history/information sharing while onboard."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Good Tour!",
+      "text": [
+        "The views were great! I learned a lot about the city and laughed a bit as well. the tour guide was great! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Be careful booking Toronto Harbor Cruise",
+      "text": [
+        "Don’t book through trip advisor! Also would select ‘reserve now pay later’ in future for Toronto Harbor Cruises. Our flight was delayed due to weather. Chatted on site and received a later booking w note to call local operator Viator. The phone agent said we booked through trip advisor so Viator wouldn’t help us. Responded to confirmation email but got no response from Trip Advisor. Missed the cruise entirely and didn’t get a refund. Looked up address and took lyft to harbor cruise to try and take a later cruise. The address was in the middle of a vacant lot. Our credit card was charged and confirmation email arrived quickly but no help after that!."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Can’t go wrong with a large group dinner cruise",
+      "text": [
+        "The staff were great. Very friendly and welcoming   The food was really good    I mean so much better than you may think    I had the braised beef ribs and my wife had a chicken dish.  Others with us had a salmon dish.  All were great. For dessert it was cheesecake    Can’t go wrong amd it was excellent   After dinner enjoying the evening outside watching the city scape    Absolutely perfect."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Seeing Toronto at its best",
+      "text": [
+        "My Husband and I and daughter and partner were on the dinner cruise on August 10th. We all really enjoyed it. The food was excellent . Our waiter Chad was fantastic very friendly had a lovely smile. Would recommend this cruise. Ann"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Cruising Lake Ontario",
+      "text": [
+        "Cruise was great.  Staff was very nice and helpful.  Brunch was very good and plenty of food and selection.  We sat on top of the ship with the rooftop open which was perfect.  I would do it again but this time try the dinner cruise and dance."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "its not a 60 minute sightseeing tour",
+      "text": [
+        "I went on the Oriole cruise with my family yesterday at 8:00 PM. Overall, we were all very disappointed (a group of 12). First of all, as advertised, it’s not a 60-minute trip; it’s a 40-minute cruise. You could have a better experience on a water taxi for $12 or on much smaller cruises.",
+        "The cruise trip started at 8:04 PM (four minutes late) and lasted for 40 minutes, essentially circling the same area without going very far and not even close to the Toronto Island. After 40 minutes, the cruise started backing up to the dock and stopped exactly at 8:48 PM. The final 12 minutes were spent disembarking. By 8:58 PM, the cruise was empty, and the entire experience was less than an hour. It's not worth the money. There are better and cheaper options available around the harborbay on smaller cruises that take you much farther towards and around the back of Toronto Island."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "Boarding was easy and well organized. The food was not showstopping, but pretty good. The wait staff was friendly and attentive.  Even though it was a cloudy day, the views were amazing. Definitely worth it."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Excursion",
+      "text": [
+        "This was an excellent brunch cruise. The trip was a good length and the food was excellent, especially the French toast. I would highly recommend doing this on a trip to Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Toronto Boat Tour",
+      "text": [
+        "A great tour. Andy filled the hour with interesting facts about the city told in a very entertaining way. On a hot day it was a cool way to get a feel for downtown Toronto and get ideas for where else in the city you can go."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Great food with amazing views of Toronto!",
+      "text": [
+        "This was a highlight of our trip to Toronto! The food was amazing and the views were even better! We came here for my mothers birthday, and they brought our a cake and sang to her. Would definitely recommend to anyone who wants great views of Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "NEVER BOOKING WITH TRIP ADVISOR OR VIATOR EVER AGAIN",
+      "text": [
+        "Horrible customer service experience with Viator. Their refund policy is 24 hours before the trip to receive a full refund - after that, you will be charged the full trip price. YOU WILL BE CHARGED REGARDLESS OF THE WEATHER! It was pouring rain, and we obviously did not want to go on a boat cruise anymore because we were travelling with a small two year old baby as it was unsafe but they still refuse to give you a refund! EXTREMELY UNREASONABLE AND UNRELIABLE! How can I predict the weather 24 hours before a trip? You will only be given a refund if the operator decides to cancel, but if you request a refund yourself, you will be charged the full amount. So obviously the operator will not cancel because they still want to make money! They put their customers at risk and do not care about their safety! DISGUSTING"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Family"
+    }
+  ]
+}

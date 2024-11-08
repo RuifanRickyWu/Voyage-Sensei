@@ -1,0 +1,387 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Roy Thomson Hall",
+    "url": "/Attraction_Review-g155019-d184951-Reviews-Roy_Thomson_Hall-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "60 Simcoe St (at King St. W.)",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 2H5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 223
+    },
+    "openingHours": "Mo-Fr 10:00-16:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/20/7e/cd/photo0jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Theaters"
+  ],
+  "description": "This curved glass structure, a downtown architectural landmark, is a well-known concert hall.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great For TIFF",
+      "text": [
+        "I attended a movie premiere here at TIFF. The venue is really cool looking on the outside. I had a seat in the orchestra section to the left so I had no issues viewing or hearing the film."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Spectacular venue!",
+      "text": [
+        "Wow, what a spectacular venue! It's been a few years since I've been here and it's just as incredible as I remembered. This place is beautiful, inside and out! The acoustics are perfect, with clean sounds and no unwanted echoes.",
+        "The lobby and waiting areas outside the seating area is spacious and clean. I only wish the washrooms were easier to locate and access.",
+        "If you ever have a chance to visit Roy Thomson Hall for a show, just go!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "An underrated attraction",
+      "text": [
+        "Roy Thomson Hall is seriously a GEM in Toronto! Why many people don’t consider this a top attraction like the CN Tower, Ripley’s Aquarium, Hockey Hall of Fame, I don’t know.",
+        "The hall itself is quite beautiful once you step inside and find your seat. That being said, don’t worry about wherever you pick your seat. There is no such thing as a bad seat in this house. Wherever you sit, you will always have a great view of the orchestra.",
+        "The music the Toronto Symphony Orchestra performed when I came here was so moving and performed very well. The night I was here, the two main highlights were Tchaikovsky’s Variations on a Theme by Rococo (with Jean-Guihen Queyras as the cello soloist) and Ravel’s Daphnis et Chloé Suite No. 2. My only complaint, however, is that the acoustics are not the best in here. Compared to other halls I’ve been to such as Koerner Hall, the sound just does not project and travel as well in here. The hall is also not as resonant. Regardless of that inconvenience, that did not take away from the overall uplifting mood the concert gave me once I left the hall. Although I do not live in Toronto, I left feeling like it would be worth coming to another TSO concert when in the area.",
+        "Looking forward to being back!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2023 • Friends"
+    },
+    {
+      "title": "Perfect seats…Front row balcony",
+      "text": [
+        "First time in this venue. Experienced the amazing composer Ludovico Einaudi. The whole experience was beyond my expectations."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "A lovely place...",
+      "text": [
+        "Installations and attentions are amazing and very good place. Every space are clean and meticulously organized... "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Friends"
+    },
+    {
+      "title": "Very interesting performance of the Messiah",
+      "text": [
+        "Roy Thomson Hall does not have the best concert-hall acoustics in Toronto -- Koerner Hall and Weston Hall are both significantly better -- but the sound is pretty good in the rear orchestra. We heard the Mozart arrangement of Handel's Messiah with four excellent soloists and the Mendelssohn Choir. We were impressed."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "A brilliant venue",
+      "text": [
+        "In June of 2018, I came with several girlfriends to attend an event with Amal Clooney, being interviewed by Nick Clooney, a renowned journalist/activist and her father-in-law, with Sophie Gregoire Trudeau. First, what brilliant examples of female leadership. Both women and especially Ms. Clooney, are very accomplished professionals prior to their more recent claims to fame!",
+        "Back to the venue - bright, airy, and most importantly, the acoustics are brilliant. No matter where you sit, you will hear well whether a concert or talk. Outside of the auditorium is an open space for a reception or catered dining. ",
+        "Not a surprise that year after year for the Toronto International Film Festival, some of the best new films are introduced here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018"
+    },
+    {
+      "title": "Beautiful music in a beautiful venue",
+      "text": [
+        "We saw Romantic Brahms this Sunday Matinee. It was transcendent mesmerizing and beautiful music. The orchestra was superb and the conductor was excellent.",
+        "It was such a treat! We had great seats at the front centre left and it was just the right length of time with a intermission. I would highly recommend a Sunday afternoon spent listening to superb music live.",
+        "The tickets were not expensive and there were all ages and it was easy to get to with transit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Season opener for Toronto Symphony",
+      "text": [
+        "This was my first time to Roy Thomson Hall, and it was a pleasure.  The staff were helpful, and the concessions were varied and generous for the price.  I found the seating very comfortable.  I doubt there's a bad seat in the house.  The orchestra was fantastic."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Even hosts TIFF films!",
+      "text": [
+        "This is a great venue! I’ve been here for concerts, the Monk debates, women speaking series and TIFF films... great venue for it all!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019 • Friends"
+    },
+    {
+      "title": "Great venue for the symphony",
+      "text": [
+        "Good acoustics for the mid-sized orchestra of the TSO. Although modern in styling, there is minimal garish concrete or bland colouring. Somewhat limited acoustics for speaking without amplification. When sound equipment is being used it can be somewhat visually distracting but overall the audience experience is fairly good with minimal disruptive noise. Lobby is pleasant and open-concept but not much seating and as others have mentioned the washrooms are a bit hard to get at and not many available. Have sat in mezzanine, front and rear floor, and balcony. All good acoustics."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Excellent concert hall",
+      "text": [
+        "This is an excellent concert hall situated in the centre, with very good acoustic, very close to the David Pecaut square. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Roy Thomson Hall",
+      "text": [
+        "Excellent venue !  Sound is fabulous, chairs very comfortable, clean, air conditioned and staff very helpful and professional"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Breathtaking",
+      "text": [
+        "As a longtime patron of the TSO, I can safely say that I have never had a poor experience in the beautiful hall. An absolutely stellar performance of Beethoven’s Ninth was complemented by the architecture and style. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "A perfect venue for sound and feel",
+      "text": [
+        "I came with several girlfriends to attend an event with Amal Clooney, being interviewed by Nick Clooney, a renowned journalist/activist and her father-in-law, with Sophie Gregoire Trudeau opening. First, what brilliant examples of female leadership. Both women and especially Ms. Clooney, were very accomplished professionals prior to their more recent claims to fame!",
+        "Back to the venue - bright, airy, and most importantly, the acoustics are brilliant. Outside of the auditorium is an open space for receptions or catered dining. It never feels crowded. ",
+        "Not a surprise that year after year for the Toronto International Film Festival in the fall, some of the best new films are introduced here. Last year the brilliant, academy award-winning film directed by Dees Rees, was showcased here. ",
+        "If you are at all interested by the many events that are presented here, I recommend attending just for the venue!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Why have I not been here more often?",
+      "text": [
+        "I've been in Toronto a very long time and this is only the second time I have been in Roy Thomson Hall.  I imagine the reason has been the price of the seats - considering how much I have paid for concerts in foreign cities this now seems silly.",
+        "I attended a concert last night in reasonably affordable seats that were very close to the stage - hard to see the whole orchestra but it was a Pops concert and we were there for the singer.  ",
+        "The ushers and attendants were all very friendly.  The acoustics were perfect.  The audience was well behaved.  The symphony sounded wonderful.  The seats were comfortable.  Ever the crowd dispersal was efficient.",
+        "This place has no faults I can criticize except perhaps for the washrooms - but no venue in the world has enough washrooms.  At least they were clean."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Couples"
+    },
+    {
+      "title": "Seats",
+      "text": [
+        "Very comfortable seating with ample space between rows. You do not have to stand to let someone pass your seat.",
+        "Nice area outside to walk around but would like to see at least another entrance to the venue. Do understand for security reasons the access is likely limited.",
+        "Acoustics are good but can always use more washrooms for the ladies!!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "Amazing sound a bit hard to exit",
+      "text": [
+        "Went to see Nana and let start by saying the way the hall is designed you truly get amazing hugh quality sound with no echo.  The seats are nice amd the place is very clean.  As usual things such as a bottle of water are over priced at just over 3.00a bottle and you cannot bring any in with you so why not traet yourself.  The staff are very helpful and most of them seem friendly.  I would lile.to make sure that you know you know if you have a fear of heights order in advamce and get floor seats it can be scary getting to the balcony seats if you have this fear.  The only thing I did not like was took for every to get out of the hall after the show only some od the exits were open creating a long backlog and wait.  It really made me nervous as I had thougjt what if there was an emergency.  I feel they shouldlet people know what to do and what they would dp to help us exit.  It gave me a really uneasy feeling when exiting at how long it took and in fact that there does not seem to be any automated system to open the doors in such a case.  If there was an evac sign posted I would have felt much better.  But had a great time and the prices are good.  I just wish resellers did not buy up all the best seats and sell them at 5 times the price.  They need to fix that to make it fare. "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Couples"
+    },
+    {
+      "title": "Great venue",
+      "text": [
+        "Roy Thomson Hall is a beautiful building with great facilities. The seats are comfortable and compared to other venues spacious. They have great shows like the Toronto Symphony Orchestra. A must watch. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018"
+    },
+    {
+      "title": "Well Done, A Class Act With The Toronto Symphony",
+      "text": [
+        "Well Done, A Class Act With The Toronto Symphony and the Wizard of Oz. Kind and Helpful staff. Would I return? I certainly will."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Couples"
+    },
+    {
+      "title": "Olafur Arnalds ",
+      "text": [
+        "Great acoustics, as usual, and a fantastic show, but what moved me this time was the bio-degradable drinking cups. Had to mention - good choice, RTH!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Wonderful Venue",
+      "text": [
+        "We attended the premier of Outlaw King which opened the TIFF during September 2018.",
+        "A fantastic theatre within central Toronto. Views to the stage were amazing fro our seats in the balcony .  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Business"
+    },
+    {
+      "title": "Awesome Place for Musical Performances",
+      "text": [
+        "I visited this place to attend a musical concert. What a visit it was!",
+        "This seating arrangement is ultra modern. The place has a vibe, for sure.",
+        "Next on list, is to attend a symphony here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "Salute to Vienna on New Year’s Day ",
+      "text": [
+        "We saw Salute to Vienna on New Year’s Day 2019.  It was a good experience. Great performance. The theatre is nice as well. Clean and good service. Our section was at the mezzanine side of the stage. We got to see the musicians and performers very well. Great experience."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2019 • Couples"
+    },
+    {
+      "title": "Very Enjoyable Visit to Roy Thomson Hall",
+      "text": [
+        "We just saw the TSO performance of the score of Home Alone.  What a treat!  We just loved it.  The seats were comfortable, the acoustics were excellent and the fact that you can eat popcorn at your seat and drink was a plus, as well.",
+        "The venue itself is lovely.  It is big enough, yet it feels somewhat intimate.  There are a lot of good restaurants nearby if you want to eat lunch or dinner.  We will most definitely return."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Amazing Concert Hall for Symphonies and amazing price for 19-35 yr olds!",
+      "text": [
+        "Since TSO Soundcheck began offering 19-35 year olds $19 tickets to concerts every month, I have been attending a lot more symphonies and getting my dose of musical therapy. I love this location, the structure makes for balanced acoustics and their movie nights accompanied by orchestra are especially worthwhile to attend. The location is easy to access from the subway (just a walk up the stairs, never needing to step foot outside...great for winter) and easy to find parking in the area. For anyone parking before Nov 1st 2018, use code \"kingpilot\" on the green p parking app for 2 free hours of parking anywhere near king street."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Amazing venue for music",
+      "text": [
+        "Recently attended a Cancer charity music event at Roy Thompson Hall. The acoustics are fantastic and the sight lines to the stage, in my opinion, from any seat, are worth the price of admission. Parking is on site and lots of wonderful restaurants within walking distance. If you love music you will not be disappointed with an evening at Roy Thompson Hall."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Space-age",
+      "text": [
+        "Didn't have time to visit inside to see a movie, concert but did go past it and marvelled at the space age design tucked away between skyscrapers, well worth finding just to see the outer shape of the building."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Beautiful",
+      "text": [
+        "I was there for a movie at the Toronto Film Festival and it was wonderful and we had great seats! near the cast of the movie.  It was completely full and yet comfortable,"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Prime Tiff gala location",
+      "text": [
+        "Great location in entertainment district. Parking underground and various lots close by, but also easily accessible by transit.",
+        "Large with several levels. Let an usher guide you as certain. Tickets only enter through certain doors.",
+        "Lots of concession stands on all floors and escalators to get up and down.",
+        "View from very top can be a bit strained or obstructed."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Great Acoustics, Comfortable, Classy",
+      "text": [
+        "I saw the Toronto Symphony Orchestra at Roy Thompson Hall. It was an excellent time! It's a fairly intimate venue right in the middle of the city.",
+        "The acoustics were perfect for the symphony of classical music. It's a modern facility with decent bar service - can't take your drinks into the show though - probably because of the cloth seats. The seats are super comfortable, with more leg room than I'm used to at venues like this. We sat behind and to the side of the orchestra and still had a really nice view and the sound was great. ",
+        "The architecture is something special. ",
+        "The staff were quite helpful and nice, from the ticket person to the ushers."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Attended graduation here",
+      "text": [
+        "We visited here to attend my son’s graduation from OCAD. It’s clearly a top class venue for all sorts of events. It’s location, near the CN Tower, Rogers Stadium etc and right next to St Andrews subway is great. There are plenty of restaurants nearby too. It’s a very interesting architectural design too."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "wonderful experience",
+      "text": [
+        "The seats were comfortable.  The staff are helpful and approachable.  The washroom are huge and clean. Lighting and decor was good.  I cant complain about the building. Sounds might need a bit of improvement.   I enjoyed the show.  Lots of restaurants around and right in the middle of downtown so public transportation is available.",
+        "We parked not underground but across (RBC building) whole night for $10.00.  Parking was tight as in be very cautious driving here but our car was safe and just need more visible directions to get out.  Tried to be healthy by taking the stairs but got into offices instead of the lobby.  Also tickets for parking is confusing but read directions and you will be fine."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Comfortable seats. ",
+      "text": [
+        "Went to see Jay Leno last night and I have to say the seats were comfortable and lots of leg room. Sitting for 2 hours was no problem. Lots of elbow room as well. The only aspect I did not like was the volume for sound. I was having a hard time hearing all the words. Not sure if it was Leno’s mic or the halls sound system. Anyway, I would definitely go back. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Wonderful Experience",
+      "text": [
+        "First visit to Roy Thompson Hall.  Beautiful well laid out performance area. Seats are comfortable.  There did not appear to be a bad seat in the facility. The building was clean and well looked after.  Staff were pleasant and interactive.  Great experience.  Look forward to another opportunity to visit. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Nice hall, easy to access",
+      "text": [
+        "Just been for a performance from students of high school. Very nice, easy to get in and out, clear indications where to go.",
+        "Attentive staffs, great space for music.",
+        "Despite located in the middle of downtown, plenty of places and spaces for parking."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Nice and comfy venue",
+      "text": [
+        "I came here for DAY6's concert in November 2018. The venue is very convenient by TTC, and the PATH is nearby with restaurants and lots of seating if you have time to kill. I really appreciated it when it was raining and cold on the day of the concert.",
+        "Acoustics were great (as expected of a place for orchestras) and it's small enough so there are no bad seats.",
+        "The ushers were friendly and nicely dressed. I liked the two-minute warning that the show was starting so I could hurry it up haha.",
+        "The only confusing thing was when I had to find which door to enter to find my seating section."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Wonderful Toronto Symphony concert",
+      "text": [
+        "An interesting building with wide public areas and wonderful acoustics in the 1st balcony. Easy on-line ticketing and pick-up. Somewhat confusing seat location system, but a wonderful evening."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Great Venue, Awesome Orchestra ",
+      "text": [
+        "Attended a concert here. Schubert’s 8th was played. This is an incredible venue with very tight acoustics. Every seat seams to offer a great view and very good sound. TSO is an extraordinary group. Definitely a must do if in town during a concert."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "bright, spacious, modern",
+      "text": [
+        "I have't been to the TSO at Roy Thomson Hall in 20 years. Glad I based a train trip around this concert. ",
+        "All seats are great but I prefer the mezzanine level, only a few stairs to access. You can read the music you are that close !",
+        "Choir loft seats are more of a padded bench but a lot of conductors prefer people not to sit there as it can be distracting for them. ",
+        "There are stairs or an elevator for balcony seats.",
+        "Entrance is on Simcoe St. just south of King St. but lots of exits. ",
+        "Planning another trip in 8 months."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Solo"
+    }
+  ]
+}

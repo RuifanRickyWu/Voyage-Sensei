@@ -1,0 +1,386 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Art Gallery of Ontario",
+    "url": "/Attraction_Review-g155019-d187000-Reviews-Art_Gallery_of_Ontario-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "317 Dundas St W ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5T 1G4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 4361
+    },
+    "openingHours": [
+      "Tu,Th 10:30-17:00",
+      "We,Fr 10:30-21:00",
+      "Sa-Su 10:30-17:30"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/33/2a/71/fb-img-1551884149578.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Art Museums"
+  ],
+  "description": "With a collection of more than 90,000 works of art, the Art Gallery of Ontario (AGO) is among the largest and most distinguished art museums in North America. An international landmark, the AGO is also one of Canada’s most innovative cultural destinations. Highlights of the Gallery’s world-class collection include iconic Canadian and Inuit works, along with European and contemporary art – all on view in a spectacular building transformed by renowned Toronto-born architect Frank Gehry. After spending time with the AGO’s vast collection, be sure to enjoy a meal or glass of wine at the Gallery’s award-winning restaurant FRANK. Visit shopAGO for a unique collection of artful gifts, one-of-a-kind jewelry, and beautiful art books.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Great Return Visit",
+      "text": [
+        "It had been two years since I last visited Toronto and the AGO.  I returned to visit the permanent collection of Canadian artists and several special exhibits.  Particularly noteworthy was the special exhibit the late Philippine-born artist Pacita Abad (1946–2004).  This is a great art museum where members of the staff are friendly and helpful."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Modern Art meh",
+      "text": [
+        "Nice architecture for a museum. Not as big as I thought it might be. We all found something interesting to see but its not as big as some other museums we have been to. Mostly modern art which I am not a big fan. The stairs are great and the KAWS exhibit was cool."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Many Eras of Art",
+      "text": [
+        "Loved the Renaissance and Group of 7 collections. Very cool coin social experiment, and lots of nice Canadian landscapes and Impressionism."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing gallery, just a shame I only had limited time",
+      "text": [
+        "Wow, what a great gallery. So much to see. I felt in 2 hours I’d barely covered any of it. I liked all the Canadian and indigenous artists. Good to see the group of 7 and especially Tom Thomson’s stuff. I had been told about them when I’d bought some Tom Thomson wine the previous day. The gallery is maze like I went from room to room completely amazed"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Beautiful",
+      "text": [
+        "Checking out museums while visiting cities is a MUST for us! While visiting Toronto, AGO was on our list! Beautiful art museum with stunning pieces, architecture & collections! We went on a weekend, it had a decent amount of people but never felt crowded since the place is massive & everyone had space. Some of our fave spots:",
+        "- the hallway that had a stunning skyline view of the city",
+        "- the hallway with all glass ",
+        "- iconic paintings",
+        "- fun gift shop!",
+        "Felt very peaceful to stroll around & see the art here."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Special Exhibits",
+      "text": [
+        "A few quick thoughts on a number of the current special exhibits.",
+        "Defaced! Money, Conflict, Protest - This was surprisingly good.  It is astonishing to see how far back in time this tactic was taking place.  The curator has done a wonderful job assembling a large number of examples and nicely presenting the.  Definitely recommended as something unique.",
+        "Steam: Impressionist Painting Across the Atlantic - Wonderful selection of paintings",
+        "Reality & Reverie: Canadian and European Painting Beyond Impressionism: Again, a wonderful selection of paintings.",
+        "Moments in Modernism - Personally still can't get into modern art but I try to keep an open mind.",
+        "Bright Signs: Spotlight on Video Art - Personally still can't get into modern art but I try to keep an open mind.",
+        "Tarralik Duffy: Let's Go Quickstop - Strikes me as a knock-off of Andy Warhol's art."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "A fabulous visit for art lovers",
+      "text": [
+        "Such a great range of Canadian Art - as well as world wide (but Canadian was my focus).  As well as my beloved Group of Seven there was a wide range of art and I learned a lot.  Nice cafe bars and spacious shop."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Delay with confirmation of membership ",
+      "text": [
+        "I was a member of AGO for msny years enjoying visits to the museum several times a year.",
+        "I also had the privilege of visiting many museums all over the North America for  $165 a year.",
+        "This year I wanted to renew the membership but it was $235. I was surprised. But then I decided to go to US and I calculated that it will be netter to buy this type of membership. It turned out the price was $300 (three hundred). But I still proceeded with purchase.",
+        "Guess what? They did not send the membership account number.",
+        "I am still in the loop of paying and not getting the privilege. ",
+        "Too bad. "
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Lovely Museum Highlights with a relaxing cafe stop",
+      "text": [
+        "The museum highlights was a nice way to explore the key collections. The museum highlights were enjoyable, but I really wish they had been guided. A guided tour would have added so much more context and depth to the experience. Still, it was a nice overview of the exhibits, and the museum itself is worth a visit. We took a relaxing break at the museum cafe, where you can enjoy a drink in a cozy setting."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "A very nice but somewhat underwhelming museum. ",
+      "text": [
+        "We spent about 90 minutes touring this museum. There were some very nice exhibits, although many had me saying out loud \"How is this art?\".  Im more of an impressionist paintings guy, and there wasnt too much on that end.  Friendly staff and nicely located. "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Refreshing Wednesday night drop in",
+      "text": [
+        "Free night, not too busy, great guides and explanations, optimal spacing for viewing, inspiring new exhibitions, refreshingly modern and inclusive offering"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "AGO Disappointment",
+      "text": [
+        "Entrance Fee was regular admission; however, 2 floors were closed. Always check the website to see what is offered and what is closed, otherwise, the price should have been reduced. Food prices were high as well. The photography exhibit was just so-la-la. Overall, the experience was not up to expectations."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Definitely worth a visit if you like art museums.",
+      "text": [
+        "Excellent museum with a diverse quality of exhibits. Definitely walk down the wooden  staircase. When I visited, there were extensive showings of female artists, many from Canada. I would visit again. For $5 extra, you get an no annual membership."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Art Collection",
+      "text": [
+        "The museum has an outstanding art collection, particularly Canadian art. The collection is large and takes a few hours to see. The artworks are well displayed. It always amazes me that outstanding Canadian artists cannot be seen in art museums in the US."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Poor lighting that undermines the detail of the artworks",
+      "text": [
+        "I visited the AGO with some disappointment of how the exhibit was conducted with very dim lighting. The lighting was bad and I can’t see the detail of the artwork. It’s a waste of time and it’s unprofessional and unthoughtful of AGO. Hope they can shed more lights on the exhibited pieces. I feel that there are huge negligence in the management and art director in this gallery."
+      ],
+      "rate": 2.0,
+      "tripDate": null
+    },
+    {
+      "title": "Exceptional gallery, terrific collection...",
+      "text": [
+        "Excellent collection, many stunning spaces, gorgeous main court with F Gehry stairs organically rising through the space and beyond. Tremendous Canadiana collection, some impressive old masters, and rooms of interesting modern works. Quite a varied collection. Always interesting special exhibitions, and the McNicoll - Cassatt is no exception. Fantastic work, numerous pieces, well displayed, beautifully lit, and well described. Wonderful! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Annual membership requires iPhone",
+      "text": [
+        "We enjoyed the gallery itself. Our issue has to do with the yearlong membership. It only works on iPhone with Wallet app. We have Android and no special apps. Buyer's regret, big time."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Appreciating Stellar European Art At The Art Gallery of Ontario",
+      "text": [
+        "   A few days ago,I returned to Toronto and the delightful Art Gallery of Ontario.I concentrated on its fine,but not encyclopedic collection of European Paintings and Art.I saw fine paintings by Master of Foces(Spanish Medieval Fresco).Giovanni Dei Biondo(\"Vision of Saint Benedict\"(Italian Medieval)Simon Marmion(\"Mass of Saint Gregory\"(Netherlandish Renaissance),Jacopo Tintoretto(\"Christ Washing Feet of Disciples\").Rembrandt(\"Portrait of Woman With Lap Dog\"),Frans Hals,Samuel Hoogstratten,Mattia Preti(\"Saint Paul The Hermit\"Italian Mannerism),Nicolas Tournier(\"Judgement of King Solomon\"French Mannerism),Gian Paolo Panini(\"Capriccio With Arch of Titus\"),James Tissot(\"Shop Girl\"),Claude Monet(\"Summer in Argentieul\",the paradigm of quality French Impressionism),Pierre Renoir(\"Chatou on Seine River\"),Camille Pissarro(\"Bridge,Rouen),Vincent Van Gogh(\"Woman With Spade\"),Albert Marquet,Maximillian Luce(\"Gesors,Cathedral\"),Pablo Picasso,and Otto Dix,among others.I appreciated splendid sculptural works by Gian Bernini(Pope Gregory XV),Rodin(\"Adam\"),and Henry Moore(\"Seated Draped Woman\") worthy of accolades,among others",
+        "  This art museum has a fine variety of works of Art.I limited this review to its European Collection."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "The Cassat Exhibit",
+      "text": [
+        "Mary Cassat exhibition was excellent. We enjoyed the museum. Easy to get in and navigate. We had fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Two fascinating exhibitions",
+      "text": [
+        "Go on a Sunday morning, and you won't feel crowded. The exhibition of works by Mary Cassatt and Helen McNicoll is visually very appealing as well as informative about the challenges faced by female painters in the late nineteenth and early twentieth centuries. The exhibition of photographs by Wolfgang Tillmans is fascinating and thought-provoking. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Wide range of art in impressive building",
+      "text": [
+        "We really enjoyed exploring the AGO and loved the architecture of the building. The diverse collection of art is displayed in numerous galleries - it is difficult at times to ensure you do not miss out a room. I especially enjoyed the Henry Moore sculpture gallery."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "What’s better than FREE?!",
+      "text": [
+        "Free on Wednesday Nights.",
+        "This is a great gallery from ancient art to modern art.",
+        "There are not just painting/pictures there are installations where you can take Instagram pictures with.",
+        "Also there are some VERY famous artists housed in here. If you go, can you spot them? ",
+        "Wednesday night was really busy and mostly filled with students which was great to see.",
+        "There is a trans art installation which is great to view from anyone art of the LBGTQIA+ community.",
+        "Gift shop at the end was big and has some great items for sale."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Couples"
+    },
+    {
+      "title": "AGO worth a visit",
+      "text": [
+        "The gallery is really nice. The staff are not helpful …need to read signs so they can answer basic questions like where tours meet."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "more than I could handle in one visit",
+      "text": [
+        "It's been so many years since I visited the AGO. The collections cover so many art genres. I enjoyed the Keith Haring exhibition and though I may not get back within the year to use my new annual membership I got great value from just this visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Solo"
+    },
+    {
+      "title": "Solo visit!",
+      "text": [
+        "Great exhibits for everyone to enjoy.  Very clean and spacious. Bring comfortable shoes for steps.  Expect to stay about 2 hours minimum."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "A great art gallery",
+      "text": [
+        "We visited here today. Very impressed indeed. There is great support for local (Canadian) and indigenous artists. Some of the work is highly impressive. Lots of prolific work from folks, particularly documenting the early dawn of Canada as a nation in the 19th century. Beautiful work indeed. And the wonderfully named Group of Seven in the 20th century were similarly impressive. Well done AGO! The exhibited work by KAWS was also impressive & we'll worth seeing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Couples"
+    },
+    {
+      "title": "Good content, mostly.",
+      "text": [
+        "The exponats are good. The museum is not very big, half a day should be enough. I like the European section the most.",
+        "Few drawbacks, not related to the content:",
+        "There is no parking, you have to search around.",
+        "The washrooms: they are \"anyone\" type, which is a terrible idea for some people."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "A must for art fans, and a should for non art fans",
+      "text": [
+        "This is an amazing place to visit if you are in Toronto. Its large enough that the cost is worth it, with a ton of great exhibits. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Surprisingly good collection",
+      "text": [
+        "Spend there all afternoon. Surprisingly good collection, especially paintings including Canadian impressionists. Strange use of third language for explanation (which only a small percentage of Canadian indigenous people speak."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Solo"
+    },
+    {
+      "title": "Art Gallery of Ontario  What Treasures!",
+      "text": [
+        "Took advantage of the annual pass $35.00 and visited twice during a short stay in Toronto. Gehry's artistry transforms a visit into an architectual experience.  Focused on Canadian artists but alo took in the Cassett and McMillian exhibit. Museum uses pocket cards very effectively.  Abundance of interesting galleries to appeal to a myriad of interest. Fabulous gift shop. Hope to see Canadian art exhibits in the states soon. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Some great art, in the middle of Toronto",
+      "text": [
+        "Some great art, in the middle of Toronto.   Runs the gamut from old \"traditional\" art to modern art and when we went had videos of performative art.  I like the traditional best as I just don't get a lot of the modern & performative art, but to each their own.",
+        "As of Aug 2024 the first Wednesday of the month from 6-9pm is free admission.  If you go for this expect a line.... it's a popular time, that being said the line moves pretty quick (we got there at 5:40-ish and got in around 6:20-ish)",
+        "**NOTE** even on free Wednesday you need a ticket, I think you can do it online beforehand, we didn't and so had to go to the ticket counters and \"buy\" our free tickets before handing them to the ticket takers and entering the space."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Worth Seeing",
+      "text": [
+        "This art gallery is lovely, although the path set out is unclear so it can be easy to miss exhibits and backtrack.  There is something for all art lovers, modern, local, historical and masterpieces. KAWS is currently on exhibit and it’s a fantastic large collection, so vibrant and momentous.  There is a nice variety of artists works as well as artifacts and interactive artwork."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Terrific Art Museum",
+      "text": [
+        "This is a vast and somewhat eclectic art museum. There is an understandable focus on Canadian and indigenous artists, some of which is quite good. The permanent collection is vast and impressive, with the Henry Moore Sculpture Gallery standing out as a true world class highlight."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Top Notch Museum ",
+      "text": [
+        "It's a top notch museum filled with great art. I recommend taking the free docent-led highlights of the collection tour. We took it first and then spent another three or four hours seeing the museum in depth."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Impressive collection",
+      "text": [
+        "We stopped here on a whim as we saw the signs for the Kaws exhibit. The exhibit was amazing and fun to look at, especially with the pop culture references. ",
+        "Other than Kaws, we also really liked the artwork of First Nations, indigenous, and Canadian artists on the first and second floors. There’s so much to explore here, and the collection is truly beautiful and impressive. ",
+        "I personally think the fourth and fifth floors were skippable unless you really like contemporary art and need to see that Rothko painting."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Resume",
+      "text": [
+        "My experience it was cool , i enjoyed  walk around the museum, i saw the paints of Picasso . ",
+        "I took peactures and i saw a really especial painting of MiRó . ",
+        "You will see diferents arts of diferents artist around the world and diferents sections .",
+        "It will  be fun"
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Graceful art museum that highlights Canadian artists",
+      "text": [
+        "Nice art museum with interesting exhibits. I went to the Making Her Mark exhibit, which I thought was very well done and addressed different learning styles and sensory experiences, i.e. it wasn't just looking at art, they also had period appropriate music, scent boxes, and touchable items. The artworks themselves were very interesting but it is a temporary exhibition. The other galleries were more traditional in approach and felt more 'museum-like'. The Canadian artists galleries were a lot of paintings by the same set of artists, but were interesting since the color palette reminded me a lot of Scandinavian artists such as Munch. I didn't have a lot of time to explore the permanent galleries but from what I did see, the exhibits look well thought out with an eye towards inclusion and represenation. The building itself was nice and airy with a beautiful central staircase."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Quite disappointing",
+      "text": [
+        "We've traveled quite a bit over the years and always take in the art gallery.  I thought this one was small for a city the size of Toronto, and its collection undistinguished.  There was, however, one painting which I absolutely loved: it depicted a couple who were mad at each other after an argument.  It is called \"Tiff\"."
+      ],
+      "rate": 2.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "World class museum. Superb.",
+      "text": [
+        "Tremendous collection. Very strong in First Nations art and Canadian modernists. We stayed for a full day of art. Very easy to navigate through the collections that specialize in Canadian artists but are buttressed by strong groupings of European and American art."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Greatly recommend! 👍🏻",
+      "text": [
+        "No complaints really. The art is beautiful, tried the food and coffee at the cafe, delicious. Did some shopping at the souvenir store. Would love to visit again. ☺️"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

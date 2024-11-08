@@ -1,0 +1,390 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Nouvelle Maria Spa",
+    "url": "/Attraction_Review-g155019-d3843168-Reviews-Nouvelle_Maria_Spa-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "95 King St E Lower Level",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5C 1G4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 53
+    },
+    "openingHours": [
+      "Mo-Th 10:00-20:00",
+      "Fr 10:00-19:00",
+      "Sa 09:00-18:00",
+      "Su 10:00-15:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ba/02/95/very-old-and-run-down.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Complete waste of time and money",
+      "text": [
+        "Maria recently relocated her spa but unfortunately her poor service continues, despite raising her prices by 40 percent. My recent facial lacked extractions, facial massage and mask, and she performed two facials at the same time on my daughter and myself. For $125, you expect to have your own esthetician for the hour. Maria also started the service 15 minutes late, while chatting on the phone at the front desk. Who do you complain to about poor service if this is the example set by the owner herself? There’s a reason why the King Edward Hotel no longer wants to be associated with this business; I only returned to use a gift card I’d been given but I won’t be back."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Best pedicure in town",
+      "text": [
+        "Recently visited the reopened Nouvelle Maria Spa and Salon located just steps away from their old haunt , the King Edward Hotel. In a space smaller than the previous, Maria has recreated her signature european  style wellness oasis . Nothing grand, simple sophistication  and  you are made to feel special from the moment you enter. My pedicure was excellent,  performed expertly  and with lasting effect. No more in -grown toenails and corns all gone ! And all this at a very reasonable rate .",
+        "Can’t wait to go back !!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Solo"
+    },
+    {
+      "title": "Best Massage ever",
+      "text": [
+        "Every time I go and I have been going there for two years, I leave feeling relaxed and rejuvenated. Massages are excellent."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018"
+    },
+    {
+      "title": "Great massage in Toronto",
+      "text": [
+        "I was staying at the Omni for a few nights and got an 80-minute massage at Nouvelle Maria Spa, which is right in the hotel. The staff was incredibly welcoming. The facilities are luxurious and calming. My therapist - Lau-Fan - was amazing. She really listened to what my problem areas were and did an amazing job. I would highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "The best in the city",
+      "text": [
+        "What an amazing spa - had a mani/pedi, massage, facial and had my hair washed and blown dry,  The staff is extremely professional and all services were top notch.  Felt so pampered there  - definitely will be back.  My pedicure was truly the best I have ever had.  ",
+        "If you are looking to have an amazing spa day this is the place you need to have it at.  ",
+        "Thank you Maria and staff."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Me day!",
+      "text": [
+        "Took my boys to Fan Expo and had a day at the spa - and what a fabulous treat. Amazing spa pedi with Frances and best massage ever with Ting Ting. Superb wonderful amazing! Thank you ",
+        "I will be back"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Wife loved it!",
+      "text": [
+        "Surprised the wife with a spa day during our visit to the Omni king Edward. She thoroughly enjoyed the experience, had nothing but compliments for the staff and facilities, and left relaxed and refreshed after getting the luxury treatment of the Nouvelle Maria Day. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Transforming. Wonderful, personalized spa services.",
+      "text": [
+        "As soon as T & I went for our first treatments, bamboo massage for him, mani-pedi for me,  we booked our second.   T said it was the best massage he's ever had, scheduling 3 massages x 3 days in a row.  After, he said he hasn't felt that good physically in years.  ~ Me, I also went back and had a facial, eyelash tinting, massage and blow dry. Each service left me feeling pampered and more relaxed. ",
+        "I know some people have commented the facility is old. This is gives it charm and personality.  Perhaps not as 'glamorous' as some think it should be, I (we) have never received such personalized and wonderful service. The best books often have worn covers.  Maria and her staff are amazing at what they. do."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Couples"
+    },
+    {
+      "title": "Puzzling place",
+      "text": [
+        "The massages is excellent. I have been to Mark several times, The facility, especially considering it is located in a \"luxury \" hotel, is pitiful- cramped, dark, old outdated facility.",
+        "It is not a place for a spa \"experience\", but is simply a spot where you can find great massages. By the way, try reading the service list on their website....for a laugh. There is certainly no emphasis on promoting or creatiing a welcoming spa experience in this hotel"
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2017 • Solo"
+    },
+    {
+      "title": "Pampering at its best!",
+      "text": [
+        "This was the highlight of my trip to Toronto! You have the option to purchase individual services or packages. Better yet, have Maria plan out your visit! I started by winding down in the relaxation room. Try the lemon tea although the cucumber water is refreshing! My first service was a massage. It was wonderful! I do get a massage every month at home, but this was unbelievable. Back to the relaxation room where I had some more cucumber water and next was my pedicure. Living in Florida and getting a pedi every 3 weeks, this service was fabulous! My feet feel like I'm walking on clouds.....After my pedi it was time for a facial. It was relaxing, it was cleansing, refreshing....I think I fell asleep. My skin feels like new! The last service was a shampoo and blow-dry. Unbelievable! For someone who has straight hair, I still have bounce and curls 5 hours later in very windy weather conditions.",
+        "With Maria and her team's help, my 4 1/2 hours of pampering made me feel relaxed and carefree. ",
+        "Some have posted about the state of the facility (lack of modernization). Look past the missing fancy....The gem is in the actual service! You will not be disappointed!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Solo"
+    },
+    {
+      "title": "Fab pedi and best service!",
+      "text": [
+        "The people are what keep me coming back to Nouvelle Maria Spa year after year: professional, accommodating and friendly.  No other spa in Toronto can match Maria and her staff's level of caring service.  This is the best full pedicure around (and relaxing paraffin wax sooo soothing) and worth every penny-a treat for sure."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Solo"
+    },
+    {
+      "title": "Hidden gem",
+      "text": [
+        "I have been coming to Nouvelle Spa over the past 12 years. It is centrally located at King & Yonge area,inside the beautiful King Edward hotel  just 5 mins across from where I work in the financial district. The spa is a place where I can relax and rejuvenate after a stressful day or week after work. The staff here is very friendly and professional and my massage therapist, Eugene (Evgeniy) is the main reason why I keep coming back all these years. Eugene is the best massage therapist in town with great technique, handsome  but with great personality and so down to earth and really know how to make you feel relaxed, at ease, since my first visit many years ago. ",
+        "If you are looking for a welcoming place with no attitude and good value, you should definitely come to this place and ask for Eugene!",
+        "The hotel is beautiful and has gone through major renovations in recent year but unfortunately the owner of the spa has been unable to secure a long term lease with the hotel so she can catch up with some renovation for the spa."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Solo"
+    },
+    {
+      "title": "Best massage in Toronto",
+      "text": [
+        "My wife and I had a night out in the city and stayed at the luxurious King Edward's hotel in downtown Toronto.  We decided to get a couple's massgae and booked at the hotels spa.  We arrived in our bath robes (which by the way you can purchase from the hotel -you will know why once your wear them) ready for our massage.  After a brief wait we were taken by our therapists Evgeniy and I can't remember the female RMTs name to a private cozy room for our treatment.",
+        "The next thing I remember is being gently asked to wake up.  My wife and I get a lot of massages, this was by far the Best we have had in as long as we can remember.  I woke up feeling invigorated and alive.  Evgeniy has hands of God.",
+        "We were treated to a Champaign glass of super fresh orange juice and then met the owner on the way out.",
+        "All in all this spa is highly recommended, especially for all those in the downtown core looking for a great place to get an unbelievable massage through a RMT.",
+        "Look forward to our next visit!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Amazing massage!",
+      "text": [
+        "I have been coming to the Novelle Maria Spa for a few years to visit a masseuse who also works at the Park Hyatt. While the facilities at the Park Hyatt are definitely nicer, the same massage is almost twice the price! I'm happy to keep returning to the Novelle Maria Spa for excellent service."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Solo"
+    },
+    {
+      "title": "Amazing Massage",
+      "text": [
+        "This was my first time visiting Nouvelle Maria, and my first massage.  It was wonderful!  Mark gave me a great massage, and relieved a lot of soreness and tension I had been feeling.  The full body Swedish massage did just the trick.  Although I agree with some reviews that the facility doesn't look particularly new, it was clean, quiet, and the staff were very friendly.  I was constantly offered hot tea and enjoyed the service I was given.  I came out feeling like a brand new stress-free woman!  Will definitely be going back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Solo"
+    },
+    {
+      "title": "Great Spa!!!",
+      "text": [
+        "I have been coming here for fifteen years and the service has always been amazing.",
+        "The staff are friendly and amazing at what they do.",
+        "One of the best massages I have had here.",
+        "Highly recommend.",
+        "Great value for service.",
+        "Other services are also great manicures, pedicures, facials,etc.",
+        "Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Solo"
+    },
+    {
+      "title": "Great service with good people",
+      "text": [
+        "I had an amazing experience at this spa.A Wonderful facial and delicious honey lemon tea.I found out the tea is the trade mark of Toronto :)",
+        "And the all the history on the doors look so cool!I am going back for honey lemon tea follow by great staffs."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2017 • Solo"
+    },
+    {
+      "title": "Great massage!",
+      "text": [
+        "Lovely visit to this spa. Staff very friendly. Price reasonable. Ambiance was good. Violetta was wonderful. Included hand and foot massage that really hit the mark.  Would definitely recommend this place and would come back again. Great job!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Friends"
+    },
+    {
+      "title": "Elegant hotel, extremely disappointing spa",
+      "text": [
+        "Had a manicure and pedicure at this spa in the elegant King Edward Hotel. We were the only two people in a range large and rather antiseptic room. The chairs were extremely uncomfortable and I had a sore back by the end of the pedicure. The ladies doing our nails were rather antisocial, providing terse answers to questions. There was no chitchat that you'd expect, not even a Happy New Year so early in the year. Not an inspiring environment at all. I would not return."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2017 • Family"
+    },
+    {
+      "title": "Last minute massage ",
+      "text": [
+        "I love going for massages, especially when I travel. I was a walk in client while stay at the King Edward Hotel. I was disappointed in how run down and old the spa area is. Considering the renovations done at the hotel, it was very subpar and cleanliness was okay.  ",
+        "I booked a full body massage and had Mark. Hands down, he is the best masseuse I have ever had!!! From the tip of my head to my toes I was give a complete therapeutic massage. I learned later that he has been working there for 24 years. If I was just rating the massage it would be 5 Stars!!! ",
+        "I would reserve again, but would hope some money is put into the actual spa atmosphere. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2016 • Solo"
+    },
+    {
+      "title": "A long time favourite ",
+      "text": [
+        "I was referred here by a friend many years back and still love to visit when I am in Toronto.  It's a relaxing space that doesn't feel like a cattle stampede.  The therapists are excellent and work out the knots"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Solo"
+    },
+    {
+      "title": "A great day at the spa with mom",
+      "text": [
+        "It was the best way I spent a day this early spring! I took my mother to the Nouvelle Maria spa and we were treated like royalties. The spa is privately owned and I was surprised how present the real Maria is there. She was the one who made our appointment on a short notice and managed to accommodate us both at the same time for a facial. Later, another friend wanted to join for a pedicure and Maria found a way to have us all three at the same time. The whole atmosphere is very relaxing, the place clean and lovely. We were greeted warmly and offered some time to unwind in the lobby, sipping lemon tea and catching up with my friend. Then our facials started and it contained also a generous massage of neck and shoulders, hands and feet! My mom was extatic! As a bonus, Maria who was always there coordinating, took my mother for a consultation with Nima, a master stylist. The consultation continued with a splendid hair cut and styling for her. Nima is an amaizing professional and such a nice human being. It was a real pleasure to listen to his competent advice for styling a nonagenarian (!) and later see the result on my mom. Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Friends"
+    },
+    {
+      "title": "Best massage ever!",
+      "text": [
+        "Just popped by the spa to see if they could fit me in for a massage and it was no problem. Then I had the best massage I have ever experienced - with Violetta. I wish I lived closer and could go back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Solo"
+    },
+    {
+      "title": "Great staff and services",
+      "text": [
+        "A must visit, such a pleasant experience with the staff being very friendly, attentive and very professional.  Definitely relaxing and a great experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Solo"
+    },
+    {
+      "title": "best spa in Toronto",
+      "text": [
+        "I have been going to Nouvelle Maria Spa for over 15 years now as I live and work in the area.   I had tried other spas in the area initially but nothing compared to the customer service at Nouvelle Maria Spa.  I can't say enough good things - I highly recommend them."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Solo"
+    },
+    {
+      "title": "Great Service",
+      "text": [
+        "The whole staff at Nouvelle Maria Spa is so attentive, courteous and friendly. I have had massage treatment through the years with Istvan and Eugene, both are incredible professional and extremely good. Definitely my place to go for a massage treatment."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2017 • Solo"
+    },
+    {
+      "title": "The Best Massage in Toronto",
+      "text": [
+        "The entire team at the spa is hospitable and Istvan has been my go-to guy for years. I make it a point to see him every time I'm in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Excellent service",
+      "text": [
+        "My boyfriend and I went for massages, service was excellent, massages were great, the only thing is that the spa is very dated, the rest of the hotel has been through some sort of renovation, hopefully Omni updates the spa in the near future!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Exceptional visit",
+      "text": [
+        "I'd like to tell all of you out there a little (true) story. Back in 2001 I got married. At the beginning everyone thinks their marriage is made in heaven, but mine actually was. We loved each other far beyond all rational measure. As a wedding gift, my sister gave us a gift certificate to a place neither of us had ever heard of called Nouvelle Maria Spa and Salon. She gave me a massage and manicure and my husband got a massage and pedicure, since everyone who knew him was well aware of the horrid condition of his feet. Years earlier I had been seeing a massage therapist who would come to my home when I lived with my parents, but since I was now living at almost the opposite end of the city, that person was no longer an option. So, as you can imagine, the gift certificate from my sister was a God send. I am in a wheelchair and my husband, though able to walk was in a similar situation. due to our respective physical conditions we both lived on a regular basis with a great deal of muscle tension. When we returned from our honeymoon in Barbados we thought, \"now that we're in completely relaxed 'island mode', let's go for those massages before the drudgery of 'reality' sets in. So we called the spa and made our appointments. The massages were mind-blowing, and my husband struck up an instant friendship with his pedicurist. We decided to make this a regular routine. Every 2 weeks on Saturdays we went over to the King Edward Hotel for his pedicure and my massage. One day when we entered the door we jokingly said to the owner, \"Hi mom, we're home\". Little did I realize at the time how those words would impact the rest of my life. Just short of 2 years after this fairytale wedding, disaster struck. My husband had a massive seizure that ended his life. My entire existence came crashing down on top of me. I had no idea who to turn to. I saw a grief counsellor for a few months, but it never seemed to affect my emotional state. The only thing in my life that wasn't changed was my standing appointment for my massage and manicure. In fact, as soon as the owner heard of my disastrous news, she increased the frequency of my massages from once every 2 weeks to twice a week. I also started having several other services, such as pedicures, facials and waxing. As a matter of routine I would go in twice a week and have my services, while chatting to the staff, who very quickly became family. It was more than just a routine, it became the therapy that no licensed grief counsellor could provide. One day, when I was having my massage, still deep in the abyss of despair over the loss of my husband, my massage therapist asked me a simple question that changed everything. He very simply asked, \"Would Robin (my late husband) want you to feel this way?\" Instantly everything changed. The fog of grief that I had now been living in for 10 long years, instantly lifted. Those words changed my entire outlook on life. That was 5 years ago now, and I'm now seeing that same RMT twice a week. The people are fabulous, the services are incredible, and the lemon tea, I don't know what the secret is but I use the same ingredients at home, (just lemon, honey and hot water) and it never tastes the same. It's probably the atmosphere and the people who I've grown to love like my own family. For anyone out there in cyberspace who has any issues (and every one of us does), from a broken nail to a broken heart, I strongly urge you to go to Nouvelle Maria Spa and Salon. They can, and will, make you feel like a king or queen. Whether you're an executive who only has half an hour between board room meetings, or a maid of honour looking for the perfect fun activity for a bridal party, Nouvelle Maria Spa and Salon has single services, or entire day packages that are perfect for any occasion. They're open Monday to Thursday from 10:00am to 8:00pm, Friday from 10:00 am to 7:00pm, Saturday 10:00am to 6:00pm, and Sunday from 10:00am to 3:00pm. They changed my life for the better, give them a chance and they can change yours too. ",
+        "Sincerely,",
+        "Rachel Polson"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017"
+    },
+    {
+      "title": "Oooh, I'm all smoothed out...",
+      "text": [
+        "Saved by Caroline, a wonderful masseuse, my knots are gone!  Already booked my next one.  Also, Alex does a fabulous facial - I look ten years younger when I leave there!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Solo"
+    },
+    {
+      "title": "Terrible downtrodden facility",
+      "text": [
+        "I am shocked at reading a few of the previous reviews...I am very suspicious of their validity.  It is terribly run down, out of date, and pathetically decorated.  The facility is out of the 1990's and the treatment rooms and bathrooms/showers are deplorable. The waiting room had furniture from 30 years ago, and the massage rooms had no floor to ceiling wall.  The bathrooms literally had mold on the walls and floors.  The lockers looked like they were from a prison, and the flip flops must have been original '90's issue as well.",
+        "I am moved to write this review because the biggest shame of all is that it is connected physically to the beautiful King Edward Hotel.  For shame, KE for allowing such a profoundly substandard 'spa' to be on your property."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2017 • Friends"
+    },
+    {
+      "title": "Loved it!",
+      "text": [
+        "Professional and friendly staff. Relaxing. Had an amazing day. Lemon tea is so yummy!!! Looking forward to going back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Solo"
+    },
+    {
+      "title": "Best massages, facials and beauty treatments in Toronto, in my opinion.",
+      "text": [
+        "Visited Nouvelle Maria Spa & Salon for a few years. Never been disappointed! I always ask my husband for a gift certificate to this spa and go as often as I can!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Solo"
+    },
+    {
+      "title": "Amazing Experience @ Nouvelle Maria Spa & Salon in Toronto",
+      "text": [
+        "My husband gave me a package (as a gift). I truly had a delightful day!  The team is extremely professional. Everyone is clearly committed to providing an outstanding experience. The Spa & Salon is in King Edward Hotel, in a great and beautiful historical building,"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Solo"
+    },
+    {
+      "title": "The best massages and manicure/pedicures in Toronto.",
+      "text": [
+        "The massages at this spa are excellent.  But so are the manicures and pedicures.  Its a convenient location.  Its not flashy but the quality is superb."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Solo"
+    },
+    {
+      "title": "Great Message but the Facilities could be updated",
+      "text": [
+        "While in Toronto this past weekend my sister and I got massages at the hotel spa. The massages were great. However, the facilities were old and outdated. The 'rooms' were half walled and you could hear EVERYTHING that was going on around you. My sister heard the person next to her explaining what she wanted the masseuse to work on. The rooms were very bright and very cluttered. I would not recommend the spa."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2017 • Business"
+    },
+    {
+      "title": "Excellent massage!",
+      "text": [
+        "My husband and I just visited this spa whilst we are staying at the King Edward hotel.  Such great service, really friendly, helpful and professional.  My husband had a sports massage with Mark and I had the aromatherapy massage with Caroline.  We both had a great experience, totally relaxing. All our knots and stresses and strains were completely erased.  Both therapists were so friendly and excellent at their jobs.  Maria is also super friendly and full of great tips and hints for things to do in Toronto. A great little spa, totally recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Excellent Hair Stylist",
+      "text": [
+        "I have been going to the Nouvelle Maria Spa for many years to get my hair cut and coloured by Nima.  He is an amazing hair stylist and exceptional colourist.  I am always thrilled with my cut and colour.  I would highly recommend him.",
+        "And the lemon tea is delicious too!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Solo"
+    },
+    {
+      "title": "Wonderful massage",
+      "text": [
+        "Had a 50 minute Swedish massage with Mark; it was amazing, I have had lots of massages and this guy was a professional with the right techniques. Perfect pressure, absolutely fabulous. The spa is nothing fancy, but the prices are right on and this guy was a fantastic masseuse. I also really liked the owner and other staff members. Very personal and customer service oriented. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Solo"
+    },
+    {
+      "title": "Unpleasant experience ",
+      "text": [
+        "Although the owner Maria was nice, our spa experience left little to be desired. ",
+        "As I mentioned, yesterday my boyfriend and I came to your spa to experience the \"Time Together\" couples spa package. It was my boyfriend's birthday and he's always wanted to have a manicure and pedicure and I thought King Edward would be a convenient but also an exceptional place for us to get mani/pedis and massages.",
+        "Unfortunately it didn't go so well. My boyfriend was given a cheap robe that didn't fit him. This made him feel insecure and ashamed even though it is not his fault for being tall. He mentioned it to me again - calling himself \"too big to fit into King Edward robes\". I said in fact he would probably fit into King Edward robes, but these were the spa robes and not much effort was taken to find a robe that fit. I don't think it would be that difficult to ask the hotel to borrow a robe.",
+        "Then when we got into the massage room, we were both disappointed as the room was exceptionally small (not a couples room for sure) and the massage beds were too small for both of us. There was barely enough room for us to move in the chair and our legs were flailing off the bed because of his height. I'm sure you have had other tall people there - I'm curious, what do you do for them? ",
+        "I, luckily, enjoyed my massage because I had a good masseuse. My boyfriend, on the other hand, was in excruciating pain after his massage and didn't enjoy one bit of it. I know you can experience a bit of pain after a massage, but he could barely move after.",
+        "Our mani/pedis were next and I thought it could only get better from here. Although our aestheticians were excellent, the chair was too small for my boyfriend and since he was already in pain, it made his pain even worse. ",
+        "What was supposed to be a relaxing birthday treat for my boyfriend ended up being a nightmare for him that left him feeling insecure and in excruciating pain afterwards. I also felt guilty because I chose to go to your spa and treat him.",
+        "We have been to the Four Seasons spa in Toronto among others that all had robes of all sizes - my boyfriend even purchased one after having a phenomenal massage in a good-size massage bed in a beautiful room for two.  ",
+        "I thought I would try your spa because I read good reviews and it's also close to  my workplace, but unfortunately, we would never return to your spa and I wouldn't recommend it to anyone.",
+        "Thank you."
+      ],
+      "rate": 2.0,
+      "tripDate": "Apr 2017 • Couples"
+    }
+  ]
+}

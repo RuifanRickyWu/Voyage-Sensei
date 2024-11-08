@@ -1,0 +1,371 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "iflyTOTO",
+    "url": "/Attraction_Review-g181720-d15220521-Reviews-IflyTOTO-Markham_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2833 16th Avenue",
+      "addressCountry": "Canada",
+      "postalCode": "L3R 0P8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 166
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/c6/d5/71/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Taxis & Shuttles",
+    "Private Tours",
+    "Wine Tours & Tastings ",
+    "Air Tours"
+  ],
+  "description": "iflyTOTO is a Toronto-based upscale leisure tour company offering flight escape packages and charters to various destinations throughout Ontario. Packages are designed to pamper and exhilarate with beautifully maintained aircraft and generous offers. Ideal to celebrate your special occasion or enrich your vacation with another destination.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Unique experience",
+      "text": [
+        "Was a good trip, definitely unique and winery experience was great.",
+        "Plane is a lot smaller than I thought, especially as we are a larger, tall couple.  The frustration on the day was trying to find the meeting point, no signage and had to ask a couple of people for help.  Felt a bit strange wandering around what we thought was to be a secure airport area and luckily we had left early to allow plenty of time to find the office.  Pilot was friendly and the flight itself was a unique experience I will not have again."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Forget this",
+      "text": [
+        "Bad experience with this - didn’t get to fly as miscommunication with tour… in dispute with a refund! Would not recommend!!",
+        " Good news - booked a helicopter with separate company instead which was brilliant !"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sept 2024 • Family"
+    },
+    {
+      "title": "Something I would definitely come back to re-experience",
+      "text": [
+        "The tour guide we booked with was very accommodating. Great communication and very helpful! The experience was very fun as well! All in all I would give this a 10/10 experience. Very satisfied especially with the service."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Refreshing and amazing escape",
+      "text": [
+        "Great staff. Very acomodating and professional.   The experience was the right amount of time.   This excursion makes you feel you really got away.  It was so worth it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Awesome",
+      "text": [
+        "Awesome trip.  The weather delayed us but rhe pilots managed to deliver an awesome flight.   They are so accommodating and exceptional customer service."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Amazing Experience",
+      "text": [
+        "This is a must-try experience. The views really are spectacular and the ride is surprisingly smooth! I went with my wife and our kids and everyone had a great time. The pilots were very friendly and made the experience very special for our children. Overall it was a blast - highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Bad experience",
+      "text": [
+        "Very bad experience they overcharge and don’t even provide full time service. They say things but nothing was there when I reached.",
+        "I won’t recommend anyone this."
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "First fly experience",
+      "text": [
+        "it was amazing, very beautiful view, the pilots are real professionals. 1000/100 ⭐️ I recommend. ",
+        "You need to try this one hundred percent😍"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Friends"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "This was the first time that my girl was in a tour like the one and we absolutely loved it. We definitely recommend this experience to anyone who’s coming to the Niagara Falls."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Must try atleast once to get the best view",
+      "text": [
+        "This is the best experience you can get it with the scenic view of City with skyline of toronto, The view is amazing when the lake is freezed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "10/10 would NOT recommend!  Make sure to double check ALL of the information before booking!",
+      "text": [
+        "I booked this for last weekend through trip advisor for my girlfriend and I.  I woke up the morning of the tour to an email from the tour operator, saying the tour is cancelled due to poor weather, low cloud cover and thunderstorm risk, and that they would be happy to rebook the tour with me for another date.  I do not live in the area, and was only in the area for the weekend.  I emailed them back, asking for a refund.  This is where my experience with the tour operator went south.  I was told they do not offer refunds due to weather cancellations, and that the booking website says they do not offer these types of refunds.  Finally, the tour operator phoned me, but not until after I had put a refund request into trip advisor.  There, I was directed to where it shows they do not offer a refund for weather related cancellations.  One would think this information would be in their cancellation policy, but it isn't.  It is hidden under additional information.",
+        "I finally received a refund for the cost of the tour, minus $25 per person (so $50 in total), to help the tour operator recoup the costs incurred.  I honestly do not have any idea what costs they would have incurred for a tour cancellation on their part.  I was also told that the $50 they kept will be available to me as a credit, should I book a tour within the next year.",
+        "I should have checked the weather forecast a little better, and cancelled the tour myself prior to 24 hours before the start time of the tour.  I could at least have gotten all of my money back.",
+        "Due to my experience dealing with this tour operator, I would highly recommend that, should a tour be booked through them, that you first ensure the weather will be absolutely perfect for the flight!  Otherwise, good luck dealing with this company for refunds.  As well, based on my dealings with this tour operator, I would not recommend booking through them!  Find another tour operator in the area."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Worth the upgrade ",
+      "text": [
+        "Amazing experience with iflytoto. We did the private experience with just 2 of us and the pilot for a 2 hour flight and it was worth it. Beautiful views and great accommodations from the team "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Couples"
+    },
+    {
+      "title": "Toronto Tour",
+      "text": [
+        "The tour of downtown Toronto was amazing. The pilots did an amazing job too. The flight was amazing and very smooth."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "Amazing",
+      "text": [
+        "This was an amazing experience, I got to fly in a small airplane around downtown Toronto. The pilots where very friendly , they were very experienced in their job making it a lot less scary and nerve racking"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "Incredible experience all around",
+      "text": [
+        "Beautiful views over the falls.   The staff was fantastic and very friendly.  Our pilot was a flight instructor and did a very smooth flight.  Will do again for sure "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Couples"
+    },
+    {
+      "title": "Private is really worth it",
+      "text": [
+        "Awesome experience.  We took the upgrade and the pictures were exceptional.  Pilot and staff were super friendly and accommodated us around weather.   Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Need better equipment and your experience!",
+      "text": [
+        "The experience was good and I enjoyed it. It would have been a better experience if the pilots were prepared for the riders and the equipment worked. We were 15 mins early to the time needed and the pilots did not show until 15 mins after the appointment time and was confused on who was going in what plane. Also tried to dictate who was going in what plane. So we get into the plane and the head sets did not work. So we rode around in a plane with no info or “tour” of anything!!! Luckily I did other tours that were better and knew the area. Just sucked talking to myself and not hearing anyone or anything."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Don’t go for the upgrade.",
+      "text": [
+        "I upgraded to the flight with just the pilot & our party of two. The upgrade was $75 each & was advertised for an extra hour. For a total of two hours. First I need to stress the pilot was doing what he was supposed to do. However the plane was basically falling apart. Terrible experience! The seat is broken, the interior side wall panels are pealing off the plane. It was a hot day so the plane ride was hot as well. ( No AC) would not recommend the upgrade. We did have nice views."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "Amazing experience love the pilot and the people. Very transparent and fast service. We really loved our time up in the sky"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "10/10 Experience",
+      "text": [
+        "From the beautiful sight over Niagara Falls to the customer service and knowledgeable pilots this was definitely a 10/10 experience and will be flying with iflytoto again. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Worth it for sure. ",
+      "text": [
+        "The experience was great. Need few additions for example water bottles, cheap shades, etc. ",
+        "Smooth operation by the pilots. ",
+        "Heads up; it’s a 8 seater with compact seats - big guy like me might struggle little bit with the leg space. However, it’s a 1hr journey. Enjoy. Loved it. ❤️",
+        "My girlfriend was nauseous but she loved it. 5 stars for sure. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Beautiful views",
+      "text": [
+        "Excellent flight. Strongly recommended. Thank you. Pilot was amazing. We enjoy a lot this view from Downtown and the Niagara falls."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "A Soaring Adventure: Unforgettable Views and Experiences!",
+      "text": [
+        "Taking the aerial tour with iFlyTOTO was the pinnacle of adventure! Soaring above Toronto and Niagara Falls, every moment was a blend of thrill and awe. The vistas, the serene yet exhilarating flight, and the professional crew made it an experience engraved in my memory. I loved every second, and can confidently say - it was the best adventure of my life!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Perfect for couples!",
+      "text": [
+        "The experience was perfect, the attention was great and the flight was very enjoyable. The only thing that could have been improved is to increase the time to stay in Niagara for about an hour, because at the end we had to rush and it was difficult after all the wine."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "THIEVES DO NOT BOOK WITH THIS COMPANYY!!!!",
+      "text": [
+        "PLEASE DO NOT BOOK WITH THIS COMPANY UNLESS YOU WANT TO GIVE MONEY AWAY. This company is front for thieves. I booked my initial trip for Jan 2, 2023. Its now September 20th and I still have not been able to use what i paid for. 30 min prior to them cancelling the first time, i got a text saying i should upgrade. i decline. 30 min later, the flight is cancelled due to bad weather in Toronto. That was one of the clearest days ever. Rebooked, a day before, called to cancel due to bad weather in Hamilton...(and its always the same guy that calls Nick). Its been literally 9 months, in that span of time i couldve had a baby, yet cant take a flight for 1h. Many times ive asked for a refund (this is where they show their true colours). They basically say they cant eat the cost but the customers should. ",
+        "It sucks that people work hard for their money and company's like this are stealing it. They are no better than the scammers on the phone. $560 just gone and i have nothing to show for it."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sept 2023 • Couples"
+    },
+    {
+      "title": "LET DOWN on the day!",
+      "text": [
+        "Unfortunately when we arrived at the airport we discovered that the flight had been cancelled. As we had no internet or phone access we did not pick this up. The excuse was that there were bad cross winds on the run way and the plane could not take off or land!",
+        "BUT we were there, it was a glorious day with no wind at all, so it was an excuse. ",
+        "However we were able to go up in a helicopter with another company, so their gain. As we were leaving another person turned up for their flight, once again with no prior warning.",
+        "I did get my refund promptly but if it wasn't for the helicopter company, I would have been fuming!!!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sept 2023 • Family"
+    },
+    {
+      "title": "Amazing experience, a must try!",
+      "text": [
+        "Breathtaking views and a private tour of the falls. Customer service is top notch and makes you feel like a VIP.",
+        "Read the terms and keep in mind the extra fees to be paid the day-of, and ensure the weather is clear. Make sure you have extra time as there could be some delays.",
+        "As long as you account of these things before hand, you will have an absolutely phenomenal time and get some of the best views of Niagara you'll ever see. ",
+        "My fiancée and I enjoyed it so much we plan on making this a yearly tradition at least! "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Very  bad and very  upsetting  to both of us. We both  was so upset  that we were both  sick  to our stomach. ",
+      "text": [
+        "We didn't get  to go . There was a weight  problem. They  had the  information  when we filled out the  forms  to go. It took a  hour  after  we was supposed to  go to figure out  that we wasn't going. My girlfriend was  so upset. She was scared to  go  because  of all to trouble  it was.the advertising  for this  trip shoulded a jet and a limo  bus .that wasn't the  way it was going to be.  They  called the  day before  and wasn't to upgrade  our trip.  It was about  twice  as much.  I did. That was a mistake. When we said we  wasn't going.  They didn't want to  refund  our money. They are supposed to  return  it. This was a very  big  disappointment. It ruined the  last  day of our vacation. It caused  a big  problem  between  us. She isn't  got over it yet  and I don't think  she will.  It wasted  half a day  that we could have done  something  else. I think I  deserve  some  compassion for  the trouble  and the time it wasted  of our vacation. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Sept 2023 • Friends"
+    },
+    {
+      "title": "Incredible and unforgettable",
+      "text": [
+        "Awesome experience at so many levels.  Great staff.  Very accommodating.  It’s a must do.  We were able to see the city with our pilot Emily who is incredible.  Thank you"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "Super comfortable, professional and reassuring staff. The views were amazing.",
+        "Overall unforgettable, definitely going to try a new destination next time."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Incredible!",
+      "text": [
+        "An amazing time and such a special way to see the city! As well, our pilot Denis was awesome. We had such a lovely time and would definitely recommend it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Fun trip with the Family",
+      "text": [
+        "From the moment we took off, the panoramic views of the iconic skyline and the majestic Niagara Falls were nothing short of breathtaking. The skilled pilot provided insightful commentary, adding depth to the experience. The combination of the bustling cityscape and the natural wonder of Niagara Falls created a perfect harmony that left me in awe. This tour is an absolute must for anyone seeking a thrilling and unforgettable adventure, offering a unique perspective on two of Canada's most iconic landmarks."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "Great views of the Niagara River! ",
+      "text": [
+        "It’s great to see the falls from a different view. The time in the air was just perfect. My wife and I had a fantastic time, I would highly recommend this tour! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "Never miss this chance ",
+      "text": [
+        "Excellent experience celebrating a milestone Wedding anniversary with family. Highly recommend! The views from the jet were awesome. The Pilot is so friendly and interactive….🤩"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Family"
+    },
+    {
+      "title": "Amazing Views of Toronto",
+      "text": [
+        "We enjoyed the flight experience very much. Our pilot Emily, helped ensure our whole flight process went smoothly and took some wonderful photos for us as well. She was very accommodating in terms of timing and let us take photos of the plane and airport before and after the flight. ",
+        "The takeoff and landing process went so smoothly that we didn’t even feel the plane takeoff/land. I’ve never flown this low before. Seeing Toronto and the GTA at this vantage point was such a unique and amazing experience. We also opted to see the Scarborough Bluffs as well and it was nice to see it from a new vantage point that I hadn’t experienced before. We are glad to have experienced it before Buttonville closes. Buttonville will definitely be missed.",
+        "Thank you IflyToronto and Emily for the awesome experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Wow for rhe views and staff",
+      "text": [
+        "Niagara Falls is gorgeous from the air.    It was a little bumpy but overall a great experience and a bucket list item.   Thank you Arty for a great tour"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sept 2023 • Family"
+    },
+    {
+      "title": "Incredible experience. Professional staff",
+      "text": [
+        "The flight was incredible with beautiful views.  We appreciated our pilots ability by making the entire flight including landing and take off as smooth as possible.   A must do."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Fun experience ",
+      "text": [
+        "It was truly a breathtaking experience. The crew was amazing too!! My friend and i had a lot of fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Niagara Falls tour ",
+      "text": [
+        "Great experience with Fly Toto, our pilot Arty was very friendly and accommodating!",
+        "Great view of the falls !! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Amazing sights of the Niagara Region!",
+      "text": [
+        "We had a fantastic flight well worth the 2 week wait. We had our flight canceled twice do to low cloud cover. Thanks to Pilot Denis and Co Pilot Artie we had a great experience and would definitely do it again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    }
+  ]
+}

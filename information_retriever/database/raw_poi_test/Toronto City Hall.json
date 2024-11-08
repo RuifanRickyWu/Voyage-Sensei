@@ -1,0 +1,360 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto City Hall",
+    "url": "/Attraction_Review-g155019-d184942-Reviews-Toronto_City_Hall-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "100 Queen St W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5H 2N2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 681
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/56/a5/37/detailed-work.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Points of Interest & Landmarks",
+    "Architectural Buildings",
+    "Government Buildings"
+  ],
+  "description": "Designed by a famous Finnish architect, this modern building is home to the Toronto City Council.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "ALMOST 60 YEARS LATER IT IS STILL FUTURISTIC",
+      "text": [
+        "Opened in 1965, Finnish architect Viljo Revell did not live to see its completion. The council chamber is between the two towers. The building is a nice backdrop to pictures of Nathan Phillips Square."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "A moving moment",
+      "text": [
+        "They were setting up for an event for the holiday weekend & the theme was welcoming immigrants/understanding the immigrant experience which was beautiful. We had to leave the next day so missed it but saw some artwork being displayed & I found it familiar to my own experience as a refugee in 1975."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Impressive",
+      "text": [
+        "The Old City Hall is a Romanesque-style civic building and former court house in Toronto, Ontario, Canada. It was the home of the Toronto City Council from 1899 to 1966 and a provincial court house until 2023, and remains one of the city's most prominent structures.Toronto's Old City Hall was one of the largest buildings in Toronto and the largest civic building in North America upon completion"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Couples"
+    },
+    {
+      "title": "Interesting, modern architectural design",
+      "text": [
+        "The modern \"new\" City Hall is an attractive complex with an interesting architectural design - two curved towers around a central domed building, said to resemble a giant unblinking eye from above! It is free to enter the foyer of the complex and I would suggest you do, if only to view the Metropolis on the right side wall of the foyer area. It is an intriguing art piece fashioned from more than 100,000 nails!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Feel The Curve",
+      "text": [
+        "Toronto City Hall is a pair of curved buildings. They are located on the Northern side of Nathan Phillips Square. On the Easter side is the old city hall which is an older building and more traditional design.",
+        "The city hall buildings are quite striking and I would love to have an opportunity to explore them but I guess you would have to work for the city to have this chance."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Better view at night",
+      "text": [
+        "Water in summer, skate in winter in front of the city hall. ",
+        "They held lots of festivals/markets through the year, with different food and  cultures to experience. ",
+        "The light up at night us beautiful, highly recommended a visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Action packed in the Winter",
+      "text": [
+        "When examined side by side with the old city hall, the new one does not look appealing to me. However, if you visit this place in the winter, you will see a variety of actions, such as ice skating and night market."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Great building",
+      "text": [
+        "Dominating Nathan Phillips square this magnificent building and huge clock tower are a sight to behold.  The clock tower rings out the hour, not so good if you are in a local hotel!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2023 • Couples"
+    },
+    {
+      "title": "What is this horrific concrete building?",
+      "text": [
+        "OK.  I know you probably thought that the old city hall reeked of Colonist Oppressive Architecture - but that said its a beautiful impressive building.  What Canada has built instead is this horrific monstrosity with equally disgraceful concrete hotels suffocating what historic architecture was there.  What a shame. "
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Architecture a cool fountain and Toronto signage!",
+      "text": [
+        "I find that this is rather underrated. If you love architecture this is a must see! There’s something really special about seeing the old buildings mixed in with modern ones. This building is particularly impressive, especially when the sunlight reflects off of the glass windows in the morning. It’s a cool place to take some great photos. Don’t forget about the fountain in front with the Toronto signage! Did I say cool pics? Um, yes. Definitely!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Landmark of Toronto",
+      "text": [
+        "A symbol of Toronto.  The old City Hall building was at aside. If not in a hurry, can have a visit to the city hall.  There is a hourly car park three blocks away.  CAD15 for 2 hours."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "STUNNING ARCHITECTURE",
+      "text": [
+        "A nice place to stop off when visiting the amazing city of Toronto. Not only to take photos of the city's iconic name, but for admiring the stunning architecture all around."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Great backdrop",
+      "text": [
+        "In our walk around town, we walked through this area.  Pretty nice place.  While we were there, they were having the Nuit Blanche one night.  So this area was turned into an interactive art display.  With dancing in the streets, Japanese Zen Garden, and a host of other artsy things throughout the city.  From 7 pm to 7 am.  Even had a Silent Disco in Graffiti Alley.  Absolute delight!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "One of the symbols of Toronto",
+      "text": [
+        "The result of a worldwide competition for its architect, the “new” city hall is a monument to its Finnish designer and an icon for the city of Toronto. Its unique design has two uneven curved office towers embracing an oyster-shaped domed council chamber raised above Nathan Phillips Square which is home to hundreds of celebrations, art shows and ice skating on the frozen reflecting pool. Designed to allow a space for the people of the city to gather and celebrate like the Raptors’ NBA win. Also a great place to stroll the length of the truck food vendors and breathe in the smell of freshly fried potatoes and poutine and the ever-popular street hot dog. Its New Years’ Eve party is not to be missed. It is famous for banning the group Barenaked Ladies which rather than harming the success of the group it gave it tons of free publicity and paved the way for its future success."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "PHOTO OPPERTUNITY",
+      "text": [
+        "Located outside city hall and is one of the tourist bus stops for a photo opportunity.  The Toronto Sign lights up at night and has a water feature in front which changes every so often.  Wasn't too busy when we visited but animal rights demonstrators waded in to the \"pool\" and chained themselves to a desk I think and had numerous banners.  Seemed there were demonstrations all over the place for all sorts of things.  Plenty of seating in the shade around two sides of the general location.  There were also ice cream and food trucks close by."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Toronto!",
+      "text": [
+        "It's a good square to just laze around, walk by and take some pictures. It's flocked with tourists and always too busy. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Photo op",
+      "text": [
+        "This was on our self guided tour from St. Lawrence Market to Kensington Market.  It was a good site for a photo op, but might not have gone out of our way to see it as a stand alone attraction."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "City Hall",
+      "text": [
+        "Great looking building in Downtown Toronto. Nice outdoor space as well. Good place to sit and people watch. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "TORONTO Sign",
+      "text": [
+        "Kind of cool if you are walking by - get a photo with the TORONTO sign - it lights up at night and changes colors."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Iconic Sign",
+      "text": [
+        "Great area to bring food and people watch. Of course you gotta take a picture in front of the Toronto sign. We got there when there was still daylight and then the sign glows different colors (and changes) when it hits evening. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Walked all around here",
+      "text": [
+        "It was beautiful here...lots of places to take photographs.  They have some tables and chairs to sit at if you want to grab a quick lunch.  There are food trucks at lunch time so you can grab a quick burger fries hot dog etc.  Loved the peace arches.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Iconic + Photogenic",
+      "text": [
+        "A trip to Toronto would not be complete with a visit to the iconic architecture of the \"new\" City Hall.  Take selfies with the giant city sign!  and make sure to get the stately old City Hall into a picture, too. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2021"
+    },
+    {
+      "title": "One of the most famous places in Toronto",
+      "text": [
+        "Toronto city landmark.  Located in the financial center of the city.  It was built in the early 1960s .One of the most famous works of the Finnish architect Vijo Revel. The two curved lumps rising in the city square are impressive. The futuristic looking Toronto City Hall is an iconic Toronto building almost as famous as the tower. Underground Municipal Parking available close by."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "festive spectacle",
+      "text": [
+        "great light show, square was very active with socially distanced skaters and kindness being shared by street workers to less fortunate"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020"
+    },
+    {
+      "title": "Modern architecture",
+      "text": [
+        "Very famous building showing up in a lot of movies. Modern and nice architecture. Nice square with the ice skating ring."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Great styling used in Star Trek and other shows",
+      "text": [
+        "Built in the 1960s this unusual looking building has featured in quite a few tv shows and movies.  It is a very functional building housing the City Council."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Just a wonderful building to view...especially at night",
+      "text": [
+        "with the skating rink below and the changing lights of the building it is well worth the visit ....close to all the major attractions it is worth going for a walk to go and see the building.  There is an iconic Toronto sign and lots going on.  Between the street vendors, the food trucks, the city news reporter on sight and the skating rink it was worth it just to people watch....enjoy the city."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Enjoyable, but not much to do",
+      "text": [
+        "The view of the city from the city hall is exceptional, and the iconic Toronto sign is right in front. However, we went when the sign was right in front of their ice skating rink, which made pictures with it difficult."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Iconic Toronto Sign",
+      "text": [
+        "Every city has it's Icon and the 3D sign by Toronto City Hall is a must visit in Toronto. The sign is best viewed at night as it changes it's colors."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Beautiful City Views",
+      "text": [
+        "A MUST when visiting Toronto...very beautiful and colorful. Very popular throughout the day, plenty of restaurants and shops nearby, public transportation close."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Interesting architecture",
+      "text": [
+        "The old city hall here is quite a remarkable facade and it was nice to pause for  while to study it this afternoon."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Don’t bother as there are so many better Christmas markets",
+      "text": [
+        "Currently at the City Hall area there is ‘Cavalcade of Lights’ which supposedly gives you the “magic of the holiday season”. ",
+        "Now I will admit we arrived just before it became dark but OMG whoever organises this needs to visit Christmas markets in other countries because this market looks grim. ",
+        "Unenthusiastic market stall holders, pathetic Christmas tree decorations, uninspired food. ",
+        "Unfortunately there were several unwell homeless people gathering around the entrance which made the area seedy and unsafe."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2022 • Couples"
+    },
+    {
+      "title": "Great views from the Sheraton Hotel",
+      "text": [
+        "We were staying at the Sheraton and had great views of City Hall from our room. Quite a modern and unusual shaped building. Found in the square with the large Toronto city sign with lake and fountain. Popular spot with tourists and must be photographed with the sign."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Bloody awful",
+      "text": [
+        "This city sucks. Traffic is unbearable to drive in to or out of this Toronto.",
+        "TTC is useless with ridiculous street cars. Subway system is very outdated for such a populated huge city. The city planners who are responsible for all the condominium builds need to be forced to drive around the noisy, dirty, mostly inaccessible city I've ever seen. ",
+        "I've driven in all the major cities in North Americ.",
+        "Toronto wins for being the worst.",
+        "Just go somewhere else."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "A wonderful day",
+      "text": [
+        "Toronto, capital of the province of Ontario, is a major Canadian city located along the shores of Lake Ontario. Dynamic metropolis, it has a nucleus of soaring skyscrapers dominated by the iconic CN Tower."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Nice settings for pictures and selfie",
+      "text": [
+        "Nice settings for pictures and selfies with the Toronto logo, and sometimes host festivals and markets. Close to the old city Hall."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Bustling place",
+      "text": [
+        "We stayed at Sheraton right across from here for a week and everyday there was something happening in the park to see and do."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Toronto City Hall (inside) and Nathan Phillips Square (outside).",
+      "text": [
+        "The City Hall is inside (space ship buildings) and Nathan Phillips Square is the whole area which includes outside with the fountain (ice rink in winter, I think, used to be anyway) and the seating are with good food trucks close by. Hasn’t changed much in the last 20+ years. Only the planing in city hall has (changed the city forever). What?! More Condos?! Ugh! Yep. But the area is nice for now. Go see it."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2022 • Solo"
+    },
+    {
+      "title": "The City Hall Toronto sign - a good photo opportunity",
+      "text": [
+        "I walked outside near Toronto City Hall and took a photo of the Toronto sign and the buildings.  It was a nice place to walk around outside.  Next time I want to come here in the evening when the sign and fountains are lit up.  The location is very good not far from the Eaton Centre."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Pleasure to stroll at night",
+      "text": [
+        "Beautiful Toronto sign displayed in neon lights at night.A very Torontonian place to be.Close to Yonge St and Eaton Center.A landmark that has been around for almost 40 years that has become a  part of Toronto’s history."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2021"
+    }
+  ]
+}

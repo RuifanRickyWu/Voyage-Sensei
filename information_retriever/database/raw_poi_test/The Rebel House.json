@@ -1,0 +1,192 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Rebel House",
+    "url": "/Attraction_Review-g155019-d606615-Reviews-The_Rebel_House-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1068 Yonge St ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4W 2L4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 20
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/1a/83/7c/79-tequilas-try-the-banderita.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bars & Clubs"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Weekend staff VERY rude",
+      "text": [
+        "Is this under new management? Or is it just the weekend staff like mentioned below? Staff extremely RUDE, act entitled, zero customer service let alone respect. Made my 3 year old cry after an encounter with my mother. She is terrified of even the mention of it. Been going here for over 20 years, but sadly will NOT be back on the weekends. Change the staff. Weekday safe lovely."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2023 • Friends"
+    },
+    {
+      "title": "Fun pub in the Rosedale area but skip the Lime Margaritas!",
+      "text": [
+        "Cute place, great patio and menu selection.  We ordered the pasta special and chicken sandwich, both were tasty.  I gave a rating of 3 because they ran out of mussels during the day and lime margaritas were pretty weak (don't think it had any tequila). We will visit again and definitely recommend to others."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Hidden Gem",
+      "text": [
+        "we meet some friends for drinks here, and we had a great time, we order the mussels and they were amazing. we will be coming back for dinner! the location is beautiful inside, staff is friendly and the price is good too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Always great",
+      "text": [
+        "The Rebel is the neighbourhood pub for good food, craft beer and a relaxed friendly vibe. One of the best patios in Toronto in the back, cheery bar seats and tables upstairs. I have been a regular for 20 years and it has always been my spot for comfort food, drinks and enjoying being out. Never disappointed. The food is well above pub fare with mussels and the buffalo burger being my favourites. Daily specials are great. This place is where Rosedale goes to relax. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Don't be put off by the exterior",
+      "text": [
+        "I've walked by this pub for years because I was not enticed inside by patrons smoking on the sidewalk and the generally grubby appearance of the facade....looks like it hasn't been cleaned, painted or otherwise maintained. The interior is dark and pub-like and there is a patio out back. There were no tables for two downstairs or on the patio when we arrived except at the bar so we were invited to take a table upstairs. We ended up with the entire second floor to ourselves for our 2 and a half-hour catch-up lunch. We enjoyed our salad and meat loaf dinner. The cuisine is a step up from regular pub food and the menu has lots of choices as well as daily specials. The dishes contain interesting ingredients and indicate the chef takes particular care and attention to what comes out of the kitchen. Service was attentive and we were not ignored even though staff had to come all the way upstairs to check on us. A good, reliable alternative if you are in the area."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Under stable kitchen and service",
+      "text": [
+        "We were there for lunch and thought let us try the dinner.  Lunch was excellent quality answers service was bar none.  Dinner is another matter.  We thought it slow this weekend with many out of town.  The service was hurried the food was sad.  Sad wilt salad was served.  Brought to server attention and he just dismissed that is the way it is.  Calling the manager felt fruitless.  Not worth going to this establishment as it is unpredictable in quality of service and food.  Take your money elsewhere.  You may play with your health."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "Favourite hangout",
+      "text": [
+        "This is the place to meet with friends. The vibe is relaxed, the food is above-average for a pub/tavern, and it has an old Toronto (in a good way) vibe that is hard to find. Cozy inside in winter, lovely on the patio under the big parachute. The service is the best, too!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Toronto Taverns",
+      "text": [
+        "Very nice place. With a nice selection of tequila. Nice people and a good selection of small breweries ................"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2016"
+    },
+    {
+      "title": "Charming pub",
+      "text": [
+        "This charming pub and restaurant with a delightful outdoor patio. The food and drinks are good pub fare and the staff are very friendly. Located just above Bloor Street."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2016"
+    },
+    {
+      "title": "Rude",
+      "text": [
+        "Don't look like you're enjoying yourself. The fun must be controlled. The fire marshal takes fun very seriously. Sit quietly please"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2016 • Couples"
+    },
+    {
+      "title": "Cozy Pub for Dinner",
+      "text": [
+        "This intimate little pub has a great beer selection and offers a nice selection of better pub grub in the small restaurant.  Staff are friendly and helpful."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2015"
+    },
+    {
+      "title": "Mmmmmm cheese pennies ",
+      "text": [
+        "Shut the front door!!!   ",
+        "If you've never had a cheese penny you don't know what your missing.  Is soft warm cheese with spicy spinach in the center.  Crispy kettle fries hand made and hot bartender to boot."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014"
+    },
+    {
+      "title": "Substandard service mediocre food",
+      "text": [
+        "From the overall experience I'll give them a 1 out of 5 stars for rude service and mediocre food.",
+        "If you want good service & quality food..Summerhill has better places. The Monk's Table is one of them."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "Locals Clearly Understand the Good Vibe and Food Here",
+      "text": [
+        "Most of my reviews are left for the benefit of travellers. In the case of Rebel House I really doubt travellers will be looking for a special place like this in this area. Not really a touristy area. I live in British Columbia and was in Toronto, and invited to join an old friend here for lunch. She grew up in the area and knew the owner very well. He greeted us with a very warm welcome. Looking around at only the main floor I saw that this would be a special experience. We sat near the back, on the main floor in a quaint little 2-person booth. Very unique. Other tables and booths quickly filled this small area. Obviously all regulars, locals. ",
+        "Re. service and food: exceptional service from owner and his friendly, funny male server who may be a co-owner for all I know. I was not terribly hungry so had onion soup* and corn bread which was a surprise to see on the menu here. There were dozens of choices and all looked great. My friend had the grilled cheese sandwich which looked so yummy and I almost wish she was going to ask me if I wanted a quarter of it but she wolfed it down!",
+        "If I am ever in this area I will surely return here. It is hard to describe. You need to go there to experience it. I would bet that all the food selections are wonderful.",
+        "* Incidentally, the onion soup is a clear soup with slices of onion. It's not one of those thick, cheesy, bready French onion soups. I was pleasantly surprised...but I was surprised. A bit pricey at $6.95 for what it was but who cares! I thought the grilled cheese at $8.95 was excellent value. Glass of red $8.95. Corn bread $1.95."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2015 • Couples"
+    },
+    {
+      "title": "Saturday morning brunch/breakfast with family.... perfect!",
+      "text": [
+        "We visited with my daughter on the weekend and were taken out for brunch at the Rebel House on Yonge…",
+        "The service was great and the overall feel of the place was that of a “proper” English pub…  A great selection of offerings and I probably could have stayed there all day… there just seemed to be so many things I wanted to have! My daughter loved the Mac and Cheese and her boyfriend went on and on about the club… my wife raved about the granola, they all LOOKED good and they seemed to enjoy their selections.",
+        "I was in the mood for an omelette and it did not disappoint, the home made potato chips were fried to perfection.  The staff were fun and knowledgeable about the food and made sure our coffees were topped up. All dishes were well prepared and presented and plentiful!",
+        "I picked up the tab (again!  )… VERY reasonable!",
+        "Ill be back… that “club” really looked good!",
+        "WHY IS THIS LISTED AS AN ATTRACTION AND NOT A RESTAURANT?"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2014 • Friends"
+    },
+    {
+      "title": "Great pub for lunch",
+      "text": [
+        "I've been to the Rebel House five or more times for lunch, and never been disappointed.  Great list of beers on tap...and an impressive little lunch menu.  They do a meatball special which has to be one of the best lunches in the neighbourhood.  "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Local Pub",
+      "text": [
+        "This is the local pub in my area. Have been there many times but will not go back due to an upset system after my last visit. Had risotto and spent the next 12 hours very close to a bathroom! When I called to let them know, the answer was that it must be me not used to rich food! There are other places in the area so I will let others enjoy the \"too rich\" food at the Rebel House."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2011 • Friends"
+    },
+    {
+      "title": "the real deal",
+      "text": [
+        "small, cozy, good service, good beer choice, earthy food, inventive pubby menu, local art, noisy friends, honest staff, wooden chairs, good beer choice, baked beans, huge food portions, great wall art, good beer choice, awesome poutine, non-pretentious staff, etc. etc.   ",
+        "Perfect pub if you're near here."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2011 • Couples"
+    },
+    {
+      "title": "Loved it",
+      "text": [
+        "Had the Poutine and sausage plate of the day (wild boar and cranberry).  Rebel House was worth the stroll up Yonge (or take the subway).  I had previously visited Bier Markt and was downright disappointed, Rebel House really saved the evening.  The food was lovely, and at a great price point.  The service was casual and relaxed, but attentive.  The beer selection was great, as was the condition of the beer.  This place is going on my top ten list for toronto.",
+        "Hope you enjoy it as much as I did."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    }
+  ]
+}

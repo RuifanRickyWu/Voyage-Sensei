@@ -1,0 +1,393 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Chariots of Fire Ltd",
+    "url": "/Attraction_Review-g155019-d1465440-Reviews-Chariots_of_Fire_Ltd-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5B 1N8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 997
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f8/b5/9d/arial-shot-of-niagara.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Sightseeing Tours"
+  ],
+  "description": "Our Fall for Niagara day tour includes round trip transportation to and from Toronto, riverside viewing and exploring at Niagara Falls, and a scenic drive on the Niagara Parkway with picture stops at Table Rock, Whirlpool Rapids, Hydro-electric dams, and Floral Clock (seasonal). Our licensed tour guide will provide an informative and entertaining commentary. It is our goal for our guests to have a wonderful Niagara Falls experience, with fond memories to last a lifetime. All this for $77 per person (tax extra).",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Loved it !",
+      "text": [
+        "We had an amazing time time. I loved every bit of it. The best part of it was the amazing stories told our guide Mel ! I definitely recommend it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "An entertaining tour that makes it easy for you to enjoy the Falls",
+      "text": [
+        "My husband and I went on this tour with our 4 year old. It was a fantastic experience and I would highly recommend it! Our tour guide was Melvin, who has been doing this for 24 years. He was very knowledgeable and struck a great balance of entertainment, with stories and music, and also providing time to enjoy the view.",
+        "1.  Here was our itinerary: ",
+        "Leave Ripley Aquarium 8 AM",
+        "1st stop - Sir Adam Beck Hydroelectric Station Reservoir (~10 mins)",
+        "2nd stop - Flower Clock (~10 mins)",
+        "3rd stop - Souvenir Shop (~40 mins); you go in as a group for the maple syrup tasting which was about 5 mins and then you have the rest of the time to shop, eat, etc.",
+        "4th stop - Skylon Tower (~40 mins); you can go up the tower or explore the location, there is a Starbucks, souvenir shops, and an arcade in the building",
+        "Niagara Falls 12 - 3 PM",
+        "5th stop - the group that was going on the cruise was escorted from the bus to the dock; the cruise took about 20 mins and then we had the rest of the time to explore",
+        "Arrive Ripley Aquarium ~5 PM",
+        "2. Do not pick up a coffee and plan to drink it on the bus. It is not allowed because of the many spills the driver has had to clean up in the past.",
+        "3. Strollers are ok on the bus. For our child, we only needed it when we got to Niagara Falls. ",
+        "4. Do the cruise to the Falls, it was well worth it! Note, the ponchos that they give you do not cover your arms and legs."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Excellent trip all the way",
+      "text": [
+        "Had such an amazing time going with the beautiful views and wonderful service my group and I received from Mel the driver. Such a blessing during this trip."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Great tour but not with who we booked with",
+      "text": [
+        "While we had booked with the Chariots of Fire tour company ",
+        "https://www.tourniagarafalls.com/tour",
+        "instead we ended up having a wonderful tour with Niagara Day Tour",
+        "https://www.niagaradaytour.com/niagara-falls-sightseeing-tour/",
+        "Micko was very knowledgeable, fun and interesting. We would definitely recommend him and the Niagara Day Tour company.",
+        "It would have been very helpful to know that we had been moved to a different tour company, at a slightly later pick up time before we had to approach a bus driver (who we thought had nothing to do with our tour) about whether he knew anything about our tour on the morning."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Must see!! Go now!!",
+      "text": [
+        "Love the tour, highly recommend. Our bus driver mell was fantastic, great guy. The views of the falls were amazing, 100% go see them!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Amazing, cheap and convenient experience!! Choose this company!!",
+      "text": [
+        "I am so so grateful to Mel for a safe, fun, organized, hospitable, informative, easy, and wonderful experience. It wasn’t just a day trip, it was an EXPERIENCE to remember. I loved hearing his stories throughout the tour.. he made the Niagara Falls area come alive!! Even as a Niagara Falls local, going with friends on a tour for the first time, it was well worth it and would 100% recommend this to everyone!!!!!!! It is truly much less expensive than other companies and so personal, convenient and fun. We were truly blessed!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Best tour guide I've ever had!",
+      "text": [
+        "The Driver was professional, and really really kind and funny. ",
+        "Driving was safe and efficient.",
+        "Top quality in every aspect."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "An exceptional day out",
+      "text": [
+        "We had an amazing day with Micko our driver/tour guide. Niagara was everything we hoped for and more. Micko took us to some different photo stops and shared a lot of his knowledge with us. You must go on the boat and yes you do get very wet so choose a sunny day ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Niagara Falls from Toronto",
+      "text": [
+        "Nicki did an excellent job telling the story of the Niagara Falls and vicinity around there and Toronto.  Well done!  He had to navigate us around some traffic jams/construction to keep it on schedule, but did so with a minimum of time loss and fuss.",
+        "Thanks Micki!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Excellent day tour and well worth it.",
+      "text": [
+        "Melvin made it a joy to enjoy one of the most spectacular places on Planet Earth. He was so knowledgeable about the local area and its history, both geologically and culturally. Caring and full of it wit, Melvin went out of his way to ensure everyone enjoyed their time and made the effort to ensure all our needs were met. The falls are spectacular and this tour made it all accessible and easy - no thinking involved! Higly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Full day with knowledgable friendly guide.",
+      "text": [
+        "We were lucky to have a very well informed guide in Mel, the driver on our tour. He had vast historical, geographical and political knowledge that he shared with us on the drive up to the falls. There were plenty of jokes and even some music and poetry weaved into the commentary as well. ",
+        "Before going to the falls we had stops at Niagara on the lake (20 mins comfort break and photos) the whirlpool (short 5 mins photos off the bus), floral clock (photos from the bus), smallest chapel (photos from the bus), maple syrup tasting at a gift shop (35 mins) and Skylon tower (50 mins stop, additional charge, cash only, $20). I did the tower and the views are obviously great from height, but actually if I’d seen how close we would get to the falls on the final stop I probably wouldn’t have felt the need to do the tower. There is some Niagara Falls information and details about the tower construction inside as well. ",
+        "At the final stop the boat ride is optional but there is plenty to do during the 2.5 hour stop and great views from the walkway if you don’t do the boat ride. I didn’t take the boat and didn’t feel I’d missed out. Those who went enjoyed it but commented it was shorter than they’d expected at around 15 minutes.  There is a welcome centre with shops, food, toilets and option to buy tickets for the walk behind the water experience if you have time. This is usually dependent on there not being a long queue. ",
+        "We left at 8am sharp, returned around 5:15pm",
+        "Cooled bottle water available free on the bus. ",
+        "No drinks except water allowed on the bus. ",
+        "Although you will probably book online using a card, any payment to driver on the day is cash. Remember cash for tips."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Wonderful tour",
+      "text": [
+        "It was wonderful. We got to see every thing from the tour and got on time back. Due to the season.some places where closed. One thing I would have liked is to stay at the Niagara on the lake more time, it was too early when we got there and stores where closed. It is a beautiful place.  It it was a great tour."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fantastic Day! ",
+      "text": [
+        "We had such a fantastic day from start to finish thanks to Melvin and the beautiful sights that we saw. From start to finish Mel were made sure that we were looked after and were given such a detailed narrative from Melvin as we ventured from location to location, you can tell he really enjoys and is good at his work! The stops we made were great additions to our route before finally ending up at our final destination of the breathtaking Niagara Falls! I recommend this company to anyone keen to see Niagara, it is so worth the money and the entire experience throughout the day is one my mum and I will remember. 10/10 all round! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "Niagara Fall trip",
+      "text": [
+        "Great day trip, a bit expensive with all the activities but well worth it!",
+        "Tour was well organised, reliable, punctual and with a friendly & helpful driver"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Solo"
+    },
+    {
+      "title": "Good tour, rattly bus",
+      "text": [
+        "The tour is good value at this price, with a decent itinerary. I greatly enjoyed the scenery and the timing at various stops was fine. Our guide, Micko, was friendly and informative. The reason for a 4-star rating rather than 5 is that the bus we travelled on (a 25 seater) had terrible suspension at the rear (I was seated over the rear axle), and would clunk and jolt over any bumps in the road (there are plenty in the city area), making it quite an uncomfortable ride until we got out onto the onto road. As mentioned in some other reviews, the bus can get pretty chilly inside, so be prepared if you are travelling in the cooler months."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Awesome guide and awesome trip",
+      "text": [
+        "The tour was great and thanks to our guide who was also driving us - Mel.",
+        "He was full of so much historical information about the entire trip (Toronto, neighbouring cities which we were crossing, Niagara and the falls surrounding areas ) ",
+        "He was very polite, considerate and funny. This trip was so much fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022 • Couples"
+    },
+    {
+      "title": "Fabulous day great value brilliant day trip and not to be missed a big thank to our knowledgeable driver",
+      "text": [
+        "Fantastic trip great value and brilliant knowledgeable driver / host couldn’t recommend this day trip more it was well organised informative and fun ",
+        "Not to be missed !!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Mel is the best ❤️",
+      "text": [
+        "Went on the Niagara Falls boat tour Mel was are driver he is the best tour guide I've ever had . He is so polite and nice. He knows so much history about the area. Highly recommend Chariots of Fire 🔥"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022 • Friends"
+    },
+    {
+      "title": "Best trip ever!",
+      "text": [
+        "All I can say is WOW! The tour was absolutely amazing, our best day in Toronto. Our guide was Melvin (Mel) and he was absolutely fantastic. His knowledge was flawless and so interesting, he took such good care of us throughout the whole day and was so accommodating to everyones needs. He is an absolute asset to this company and would do the tour again just to listen to Mels history facts. Would recommend 10000%"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022 • Couples"
+    },
+    {
+      "title": "Great day!",
+      "text": [
+        "I was a bit unwilling to do the tour since I was travelling by myself, but I have zero regrets. ",
+        "The guide was very articulate (easy to understand for non native speakers) and funny, we learned quite a lot about the Niagara falls and the surrounding areas. The coordination of the group was on point, every key location was visited and the guide offered many recommendations as to sightseeing spots and places to grab snacks. They even offered us complimentary water bottles (cold) and maple syrup biscuits. ",
+        "Couple of notes; in order to keep the windows cleared of any fog, the AC is turned on most of the tour, so it can get chilly in the morning - would recommend to bring a jacket. You can leave your belongings in the bus when walking around, so you don't have to carry anything extra item with you (the seats are assigned so you'll spend the whole trip in the same seat). Additionally, any extra attractions that you book on the go need to be payed for in cash. ",
+        "Overall, the experience was excellent, highlighting the job of the guide-driver (tour taken on the 4th October), keeping up with the schedule and arrived back to Toronto by 5:05 - although the driver did mention we had been particularly lucky with the traffic getting back in the city. ",
+        "The only negative things I would point out are:",
+        " ",
+        "I couldn't find the schedule anywhere on the website, and I ended up learning about it when getting on the bus - to be fair, I booked just one day in advance so I barely gave time to the customer service team to reply in time before my tour, which they did :)",
+        "I found it to be a bit overpriced, since the bus was totally full and the ticket did not include the \"extra\" attractions of the Skylon tower and the boat experience. Still, it is a great option if you just want to visit the Falls and forget about any inconvenience, as long as it is within your budget."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "Great tour! Our driver and guide, Mel, was fabulous! He was welcoming and had a very calm demeanor. He provided the tour with a vast array of knowledge about the local areas and the history and some great dry humor!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "I enjoyed it.",
+      "text": [
+        "It was a great experience. The boat trip near the falls is a must. You will have some free time after the boat tour, so make sure to take loads of pictures of/with the falls from the viewing deck because that would be the last stop before leaving. I didn't think that I would enjoy the maple syrup tasting too. Mel has funny commentaries during the journey that will keep you entertained."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Melvin is my God",
+      "text": [
+        "Great tour, great guide. Melvin is like a humourous encyclopedia put through a text-to-speech algorithm. Great info and great delivery, thanks Melvin"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "~~ Home of the Horseshoe ~~",
+      "text": [
+        "It is mother nature wonderland , got to visit once in your life time , just spectacular ,and  breathtaking view , the fall located  in America and Canada  side  , there is two falls in the U.S  side and  well know Horseshoe   Fall  with 170 feet fall on the Canadian side  , we  are  so close  to the fall      what  a  majestic view , we  all  got  sufficiently  soaking wet  !  what a  Kodak moment  , best  spot  for  photo view for the whole Niagara  Fall  is  at the  Skylon  , great  fun ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Wonderful day out with fabulous tour guide",
+      "text": [
+        "An amazing day out. Mel was a wonderful, knowledgeable and attentive tour guide. The boat cruise to the falls is a must-do. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Awesome day trip to the falls of Niagara",
+      "text": [
+        "The bus trip was great and the sites were too. Mel did an awesome job sharing the history of the area and other general knowledge. He’s very well read and has a dry sense of humor that we appreciated. It was a relaxing way to spend a day seeing the awesome sight of Niagara Falls without having to drive ourselves."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Can you help me Mel",
+      "text": [
+        "It was an amazing day Mel was very knowledgable we went on May 21st, we sat 2 seats back on the left side of the bus & I was so disappointed my fridge magnet must have slipped out of my shopping . I collect them where ever we holiday so Mel can you help us reunite. vshore@hotmail.co.uk"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Fun tour with amazing tour guide, dry humour and interesting facts and stories!",
+      "text": [
+        "Great tour that I can definitely recommend, the tour guide made the drive from Toronto to falls basically fly by in no time. The dry humour and the interesting bits about Canada and the Niagara area were superb! He was very accommodating and easy going when it came to booking the boat tour and the tower during the ride.",
+        "Can only praise this fun tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Brilliant day 👏",
+      "text": [
+        "It was a brilliant day from start to finish. I was amazed by Mel's knowledge especially all the details of people who have gone over the falls and their destinies. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Highly recommend this tour",
+      "text": [
+        "We had a very short stopover in Toronto and wanted to fit in as much as we could, this tour was fantastic, we saw so much, learned so much from Mel who has an  encyclopaedic memory for dates, names, events, poems, he is simply a wealth of information. The day ran very smoothly, the skyline tower I’d say isn’t necessary but I had FOMO and bought tickets on the bus. I would recommend the boat ride. It doesn’t last that long but it is a great experience being so close to the water. If outside you do get totally soaked though! No food allowed on the bus but there are complimentary water bottles and maple syrup biscuits. You get to stop and try maple syrup and fudge and purchase the local ice wine if interested. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "Falling into an amazing Tour of the Niagara with Melvin!",
+      "text": [
+        "Melvin our tour guide/driver was amazing!! A funny and very informative gentleman. The ride was full of joy and I learned a lot of interesting facts about the fall and the city of Toronto as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Excellent trip",
+      "text": [
+        "Melvin was our driver and guide. He was v informative. The tour was well organised and really fun. Would definitely recommend Skylon tower and the boat trip. Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Terrific Tour!",
+      "text": [
+        "We had an excellent tour to Niagara Falls with Melvin as a family with two young children.  The day is action packed and may feel a bit whistle-stop at times (be on time after the different stops!) but the schedule works well, is well-organised.  Melvin is an absolute oracle on all things Niagara and provides a detailed account of history and amusing anecdotes on the way - he has a dry sense of humour!  Make sure you have cash to pay for your ticket, through the guide at a cheaper price, for the Skylon Tower.  Overall, a memorable day - thanks, Melvin!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Nice",
+      "text": [
+        "Nice trip!",
+        "Worth the money.",
+        "Lots of information received during the trip.",
+        "But please do not talk about Jesus!",
+        "It might be not ok with some of the passengers."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Great trip, great guide!",
+      "text": [
+        "Today (12 May) I went on the Chariots of Fire Niagara Falls one day tour. It was excellent. Clearly the Falls are wonderful, but the day was made by the company and the excellent driver/guide, Mel. Mel got us there and back bang on time, despite the problems on the Gardiner Expressway. Most importantly, his commentary was outstanding - knowledgeable and informative, fascinating. Thanks very much. David"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "A thoroughly enjoyable Niagara experience",
+      "text": [
+        "Melvin’s hosting was excellent with great knowledge and facts, supported by a charming and humorous personality. His easy and polite style was just perfect for the group and helped to promote a very relaxed and enjoyable day. The amount of time at each stop was perfect and the day flowed perfectly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Couples"
+    },
+    {
+      "title": "Great tour guide MELVIN ",
+      "text": [
+        "The driver/ tour guide Melvin was very accommodating and welcoming. his history and facts was on point and informative.  He is a wizard with numbers and dates! Trip was well worth doing and had enough time at each stop. Would defo recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Niagara Falls Day Trip",
+      "text": [
+        "Very enjoyable day out booked with Chariots of Fire. Pick up at Ripleys Aquarium was easy. Mel our driver/tour guide was amazing, keeping up a lighthearted and informative commentary for most of the outward journey. The Skylon Tower and the Falls boat experiences were good value for money."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "We recommend this day trip",
+      "text": [
+        "Everything went well. The guide was easy to understand and the bus ride was comfortable. We stayed on schedule pretty well, but that of course depends a lot on the group. We had a good amount of free time to walk around the Niagara area and we also had some photo breaks along the way to the falls. We absolutely recommend buying tickets to the Skylon tower from the tour guide. The views were amazing from up there! All in all a great tour."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Deceived",
+      "text": [
+        "My husband and I were excited for this tour based on all the great reviews. It seemed perfect for what we wanted. Unfortunately, our only experience with Chariots of Fire was meeting the tour group in the morning and then being weirdly handed over to an entirely different tour company, King Tours.",
+        "We arrived at the meeting point 20 minutes ahead of the scheduled departure time as instructed and were confused when we and a handful of others were told to go on a different big tour bus across the street. It was not until after the Chariots of Fire buses had left that we realized we were now on a different tour company's bus with no explanation. We had to sit and wait for this bus to pick up other passengers in town, and we didn't leave Toronto until almost 9:30. This was frustrating, as we specifically booked with Chariots of Fire because of the early departure time. It was an irritating waste of 90 minutes.",
+        "The tour itself was fine and offered essentially the same things we were promised with Chariots of Fire, but the driver, while pleasant and kind, didn't give us much information or historical background about the places we visited. This was something I was looking forward to based on what I had read about the Chariots of Fire tour. ",
+        "We specifically booked this tour because of the smaller buses/tour groups and earlier start and end times, which would have allowed us to catch the 7:00 baseball game we had tickets for that evening. Our bus driver did not seem concerned with sticking to a schedule or getting back by a certain time, and many of the passengers were late each time we re-boarded the bus which made us later and later throughout the day. We also spent an extra hour at Niagara on the Lake, which the driver pitched as a lucky bonus for us, but we would much rather have gotten back on time. On top of that, we hit major traffic getting back into the city (nobody's fault, but exacerbated by our lateness). At the beginning of the day the driver said we'd be back around 6:00, which we thought was fine since we'd still have an hour buffer before the game. We didn't actually end up getting back until after 8:00, which caused us to miss half of the game. ",
+        "I understand this may have been a last-minute change due to unforeseen complications on their end, but we felt a little deceived as none of these changes were brought to our attention and it negatively impacted our plans the rest of the day. It appeared to us that Chariots of Fire overbooked the tour and then passed us off to a totally different tour company without explanation. That may not have been the case, but we found the lack of communication and information frustrating. Not what we expected."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2023"
+    }
+  ]
+}

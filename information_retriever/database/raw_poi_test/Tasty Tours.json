@@ -1,0 +1,348 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Tasty Tours",
+    "url": "/Attraction_Review-g155019-d2486978-Reviews-Tasty_Tours-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6J 1V4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 644
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/17/13/4f/have-you-tried-the-toronto.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Walking Tours",
+    "Food Tours"
+  ],
+  "description": "Award-winning food and chocolate tours - treat yourself to our Kensington Market \"Taste the World\" Food Tour. All tours feature behind the scenes experiences, tidbits of history and lots of delicious food, plus our complimentary neighbourhood guide and food concierge service will help you make the most of Toronto. Besides our regular public tours, we organize private events of all kinds, including sweet & savoury options! Perfect for your birthday, bachelorette party, corporate outing or even marriage proposals. Our goal is to create a sweet & lasting memory for you and your loved ones.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "A world of amazing flovours!",
+      "text": [
+        "Totally worth it! Our guide, Odile, was the best! Full of food and historical information on this very special place. 10 out of 10 recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Family"
+    },
+    {
+      "title": "Sunday Funday with Odile",
+      "text": [
+        "What a fabulous time exploring the cute Kensington market area. Odile was an amazing guide. So knowledgeable and entertaining. The food was delish and such a wide variety!  Come hungry!  Cheers!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "10/10 experience",
+      "text": [
+        "Odile is an amazing tour guide!! We had the best time and were stuffed by the end, her way of explaining Toronto’s history is very on point, we loved it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Couples"
+    },
+    {
+      "title": "Odile was amazing",
+      "text": [
+        "Odile was amazing. We really enjoyed the tour. Will definitely recommend to friends and family. Thank you. We specially enjoyed the historical context."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Couples"
+    },
+    {
+      "title": "Great food. Learned a lot.",
+      "text": [
+        "Odile was very informative and I really enjoyed it. Many different cultures were represented. I enjoyed the Jamaican patties."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Friends"
+    },
+    {
+      "title": "Great fun!!",
+      "text": [
+        "Odila was awesome!!! So many different foods and cultures ! Great history and nice walk!! Great food and sights of restaurants."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Friends"
+    },
+    {
+      "title": "I had a great time",
+      "text": [
+        "This was awesome our tour guide odile  was amazing and she speaks French! She also has great knowledge of history of the area"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Friends"
+    },
+    {
+      "title": "Good food",
+      "text": [
+        "Lots of delicious food from all around the world. Our tour guide and the staff at the restraunts were all very friendly and welcoming."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Good food",
+      "text": [
+        "There was a variety of food and the places they brought us to were cute and cozy (and had some delicious food). Our guide had some good information about the history of the buildings we walked by."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Perfect food tour",
+      "text": [
+        "Foods taste amazing and it is a actually good explanation distance between places are very close and generally really good experience"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Business"
+    },
+    {
+      "title": "Adventures in food and culture ",
+      "text": [
+        "Odile was a charming and delightful host. I am glad we got to discover the Kensington neighborhood through her grace and expertise!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Tasty Tours Kensington Market Tour was a great experience",
+      "text": [
+        "The tour was really good, all of the foods we tasted were unique and delicious. Odile was our guide and she was very knowledgeable about both the foods and the neighborhood’s history."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Great activity in historic Toronto",
+      "text": [
+        "The orientation to the long and colorful history of Kensington Market and the surrounding neighborhood provided by this tour was great. I appreciated learning my way around the bustling streets, tucked-away alleys, and small businesses and feeling at home (it's not otherwise easily understood). Tasting varied and unique goodies, combined with their story, was delightful.  "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "History, Food, and Shopping",
+      "text": [
+        "Food was amazing! We also passed by many antique and eclectic shops. Odile was an amazing tour guide and discussed the history of the area."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Taste of Kensington",
+      "text": [
+        "Great tour, super good variety of different foods and interesting historic facts about the neighborhood. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Business"
+    },
+    {
+      "title": "Good tour, but I didn't appreciate the bribery",
+      "text": [
+        "While the tour was very good, I was very put off when at the end of the tour the guide asked if she could \"bribe\" us (her words) with a free chocolate bar if we would give her a 5 star review on the spot.  Those who took out their phones, scanned the QR code, and confirmed their 5 star review were given a chocolate bar.  I passed."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "2 Hours in Toronto",
+      "text": [
+        "Odile gave us a wonderful tour of Kensington Market, sharing more than just the food from 5 different countries, but also the history of Toronto neighborhoods and its many cultures. Excellent food on the tour, and Odile was a great guide. Worth the couple of hours!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Sunday tour of a historic market",
+      "text": [
+        "Fantastic tour!!!!  Great history of the market by Odlie.  Loved the variety of places and types of food.   Would highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "A great way to spend a couple of hours",
+      "text": [
+        "Odile is an amazing guide who manages to make the food tour both educational and fun. This is a great way to spend a couple of hours in multicultural Toronto and Kensington Market."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Tasty tour",
+      "text": [
+        "Great food.  Odile was our tour guide.  She was very informative and led us through an amazing district!  We tried various foods from different cultures."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great girls trip activity",
+      "text": [
+        "Odile was fabulous- very informative - lots of delicious and different food options! Thank you so much - highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Tasty, informative and historical",
+      "text": [
+        "Plenty of stops, variety, and history! Odile was great! She gives a good mix of history, culture and conversation. A great tour all around"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Excellent food tour",
+      "text": [
+        "Odile was super informative. Lovely. Great tour. Well paced. Good variety of tastes and cultures.  Amazing cultural details"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Great guide and happy tastebuds",
+      "text": [
+        "This was an amazing experience exposing us to a variety of authentic food that makes Kensington market so original and a true melting pot. We are actually full and the walk and views were well worth it. Odile was amazing to give us a tour of all of our senses."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Absolutely do this tour!",
+      "text": [
+        "Incredible food tour experience! Damien was kind, professional, and so knowledgeable about the culture of the area. You get an amazing variety of food (also definitely adds up to quantity of a good lunch) while supporting local business. Would absolutely recommend to both Toronto natives and travelers!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Kensington Introduction with Taste",
+      "text": [
+        "Great variety for the taste buds. Damien did an excellent guide full of fun facts and history of the area. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "We really enjoyed our tour. We learned some cool things about this area and got to try various cuisines. It was a LOT of food :-) Everything was very well organized. Really enjoyed this outing!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Business"
+    },
+    {
+      "title": "Great experience!",
+      "text": [
+        "We had a great time. Damien was very knowledgeable in the history of Kensington market. Food was great! Please take the advice of a light breakfast because you will be treated to delicious food."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Food, fun, and friends!",
+      "text": [
+        "Had the best time! Our guide was so friendly and knowledgeable. We tasted a variety of foods around the area, and everyone had a different favorite treat. Would highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Fun review!",
+      "text": [
+        "Tour was great!! We loved Damien, he was super knowledgeable and kept us entertained through the tour. We would encourage this to anybody visiting the are!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "School field trip",
+      "text": [
+        "The views were great, took many amazing photos, the food was great, went on a school field trip. Amazing history was shared with us."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Kensington Sunday Walking Tour",
+      "text": [
+        "We loved hearing about the history of the area and Udine took us to many places we didn’t know existed. Great to sample the many foods and drinks as we walked through Kensington’s market"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Fun afternoon to learn new things and taste new foods!",
+      "text": [
+        "Great afternoon to learn some history and try some bites from around the world!  Odile was very knowledgeable and taught us  more than expected!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Great way to spend your day in Toronto",
+      "text": [
+        "Odile was an awesome tour guide and we got to taste a variety of delicious foods from all over the world. The food was great!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "History and tasty, together at last!",
+      "text": [
+        "Wonderful tour that gave me a whole new sense of Kensington Market! Odile did a great job of herding us despite all the tasty distractions!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Amazing",
+      "text": [
+        "We had an amazing tour. Odile was very knowledgeable and an excellent tour guide. The Kensington market is an amazing place to have a food tour"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Come hungry :)",
+      "text": [
+        "Had a lovely time with Odele today, showed us places in Kensington market we wouldn’t have thought to visit. It was a fun and tasty day and highly recommend to locals and tourists."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Unique, yummy, eclectic Kensington Market Tour!!",
+      "text": [
+        "Damien was a great guide!! We had a wonderful time!!! Great locations, some history or the area and pacing was awesome, never felt rushed or bored."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Awesome!",
+      "text": [
+        "It was a pleasure, doing the tour with Odile, I would highly recommend it. She was very sweet and knowledgeable and the food was delicious."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Informative and delicious!",
+      "text": [
+        "Odile was so knowledgeable and kind. Nice variety of food and plenty of it! Highly recommended this fun food tour with international flair!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    }
+  ]
+}

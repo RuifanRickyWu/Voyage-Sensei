@@ -1,0 +1,370 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Lokafy",
+    "url": "/Attraction_Review-g155019-d10343718-Reviews-Lokafy-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4Y 2K2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 61
+    },
+    "openingHours": "Mo-Su 09:00-22:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/34/d3/73/toronto-sign-by-night.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Walking Tours",
+    "Private Tours"
+  ],
+  "description": "Explore the city with a friendly local who is passionate about his/her city and eager to share all the tips and tricks that will help you make the most of your trip.Meet where you're staying to get familiar with the neighbourhood, find out about the best places to eat and buy groceries, the easiest ways to get around, and the top things to see and do.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "This company is not serious!!!!",
+      "text": [
+        "This company is not serious!!!! Irresponsible and lying guide. He canceled the tour lying that there would be a storm. The hotel receptionist said that it hasn't rained in Warsaw for many days!!! I tried contacting the company via email, whatss and phone and I simply didn't get ANY response."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "The very BEST way to truly discover a city!",
+      "text": [
+        "I'm so thrilled I stumbled onto Lokafy! Talk about a best kept secret. I've now done 5 tours and will book another 5 soon as I travel Europe.",
+        "These are not usual \"tour guides\" these are folks who love their town and want to share life there from their point of view. The company asks your interests, what your passions are, what you want to do, then selects just the right guide! It's like having a trip matchmaker.",
+        "By the end of your tour you almost always feel you were shown around by a close friend. I've seen and done things I'd never have discovered on my own, or with a traditional tour!",
+        "These experiences are private just for you or your group, not with strangers. Considering the customization and matching process they are remarkably inexpensive. Choose 2, 3, 4, hours to fit your schedule.",
+        "If you want to see the cookie cutter tourist traps this is not for you. If you want to dig deeper go for it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Will Olson is amazing! Fantastic tour!",
+      "text": [
+        "Honestly, we took our work group to Colorado to do some backpacking in the Rocky Mountains. We stayed in Denver the last two days and threw this tour in to fill some space in our second day. It turned out to be the best city tour we had ever done including all of the travels my wife and I do abroad. Will Olson has an encyclopedic knowledge and understanding of the Denver urban core. We did the LoDo and RiNo tours and his knowledge of the buildings, neighborhoods, history, restaurants, chefs, artists and murals is amazing. What's more, he delivers the tour in a very entertaining way: Humorous, articulate and captivating. I would highly recommend this tour to anyone, but I would recommend doing it at the beginning of your trip even more than the end as you will be able to use the information to plan your entire culinary and beverage experience during your stay. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Business"
+    },
+    {
+      "title": "Great tour guide!",
+      "text": [
+        "David was great! He went well out of his way to make sure we were comfortable and gave us an amazing tour. He is personable, friendly, relatable, and even checked on us to make sure we knew about other happenings in the area. Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Great Tour Guide of Toronto with Luis Fernando Salamsnc",
+      "text": [
+        "Luis Fernando Salamanca, the tour guide, was excellent and super kind. He showed us all the iconic areas of Toronto and got us a clear historical reference of the place. We really liked how professionally he treated us."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "Beautiful stroll through town",
+      "text": [
+        "Three hours is right time.",
+        "Our guide (Sergei) showed us interesting hidden bits of Toronto. Very pleasant and knowledgeable"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Worth every penny",
+      "text": [
+        "We loved it. We saw so many different areas of Toronto that we would have never seen and he showed us how to use the local transport. There is so much to see and do in Toronto that you can only scratch the surface in one day but this tour is a great idea for the start of your stay . ",
+        "Chris, if you are reading this, thanks again for a truly fantastic day. Your local knowledge is unreal and you are a true gentleman."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Couples"
+    },
+    {
+      "title": "Art and architecture in Toronto",
+      "text": [
+        "We enjoyed seeing Toronto through the eyes of a local resident.  It was also fun to share travel and life experiences with our guide, Katherine East.  Our guide also had suggestions for activities that we could pursue on our own over the next couple of days in Toronto.  We would heartily recommend this tour, Toronto Like a Local."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Private tour",
+      "text": [
+        "Unfortunately, the first tour we booked was cancelled at the last minute.  That was certainly frustrating and disappointing.  Fortunately, the company refunded our money and gave us another tour for free.  The guide (Santiago) could not have been sweeter and gave us a tour of areas tailored to our interests. He ended up making up for our original dissatisfaction."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2022 • Couples"
+    },
+    {
+      "title": "HIGHLY recommend for first day",
+      "text": [
+        "Chris was FANTASTIC! We booked three hours, but we really should have booked four. Chris gave us such a great overview of the city, helped us get our bearings, and had great suggestions for things to do and places to eat during the rest of our stay in Toronto. I would definitely recommend this tour for the morning after you arrive. It's such a great introduction to Toronto. The company reached out in advance to help us customize our experience based on what we like, and Chris also customized on the fly based on things we talked about during our tour. I'm thrilled with how well this worked out. Highly recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "An unforgettable and invaluable experience!",
+      "text": [
+        "Our guide was Milena who was friendly and so helpful. She answered every single one of our questions, gave plenty of suggestions and was very professional. The knowledge she had of the city was great. It was an insightful tour and definitely made our experience in Toronto a lot better. I would recommend this experience, especially to those who are visiting Toronto for the first time."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Family"
+    },
+    {
+      "title": "Private Tour in Bern",
+      "text": [
+        "I was somewhat skeptical about a local for a tour guide and not a professional, but our tour guide Chris was amazing. He was extremely knowledgeable about Bern, professional, and a great personality. He was patient, willing to answer all our questions, and explain the beauty of the city. His pride in His city was obvious. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "3 hours well spent",
+      "text": [
+        "Stephane knows La Rochelle well because he lives there and has studied the history to provide an informative tour"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Don't use that company",
+      "text": [
+        "It was a failing to deliver promises and poor customer service , Except for a lot e-mails there is no any logical answer    ",
+        " Be careful .- using that company services means to have a great disappointment"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2019 • Couples"
+    },
+    {
+      "title": "Thanks to our Lokafyer - Loris - Amazing Tour of Venice..!",
+      "text": [
+        "We booked this tour as we loved the way it read. See your place through the eyes of a local. We were in Venice for 1.5 days and wanted to bring ourselves up to speed as quickly as possible.",
+        "We booked a 3 hour tour with Lokafy and we were met by the amazing Loris. He is a Venice local and the time we spent with him was one of the highlights of our trip..!",
+        "He was very knowledgeable and set a terrific pace tour. The tour was more than just looking at stuff, he also helped us to understand how to commute around Venice so we were very confident to go it alone and get around for the rest of our time in Venice without getting lost..!",
+        "Loris also recommended some cracking places for Dinner and drinks, which saved us plenty of money, and also had us eating some amazing food...!",
+        "A huge thanks to Loris, and to Lokafy for providing such a great tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Excellent PRiVATE tours by locals!",
+      "text": [
+        "We have recently returned from a trip from Asia and once again used Lokafy to arrange private tours in several cities to acquaint us with the locations.   They are usually walking tours but we have used local transportation with our guides.  ",
+        "This guide service would be ideal for individuals, couples and families with children who are good at walking and touring and walking for a minimum of two hours. ",
+        "The cities we have used a Lokafy guide include Bilbao Spain, Osaka, Kyoto, Hiroshima and Nagasaki Japan and Busan Korea.    ",
+        "Lokafy.com is the best place to start.   By the way - their prices are amazing!    ",
+        "I highly recommend using the guides by locals when you visit any new destination on your travels."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Family"
+    },
+    {
+      "title": "Local tour of Barcelona with Frank",
+      "text": [
+        "We book a city tour with Lokafy for the first time for a last minute trip to Barcelona.  I was very impressed with my guide's knowledge of the city.  Frank, who is not Spanish but has been living in Barcelona for the last 16 years, contacted me beforehand via WhatsApp to ensure we would easily find one another at our meeting point.  His knowledge of the history, buildings and people of the city was impressive.  I enjoyed my tour very much and did feel that I was discovering Barcelona with a friend. He also made sure that I made my way easily and safely to my next stop, without making any fuss about it.   If you're visiting Barcelona, just book and ask for Frank!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "Not the best guide from this company",
+      "text": [
+        "Lokafy's tag line is \"a Toronto-based startup that offers unscripted, personalized walking tours that are like having a friend show you around the city. We work with passionate locals, not professional guides.\" So that's what we were expecting when we booked with them for a tour of the city of Rouen, France. Unfortunately, though our guide, Louise, was friendly and sweet, it was amazing how much she DIDN'T know about her own city. It made us all wonder if she really lived there. She seemed to have NO passion, let alone, curiosity about certain things, for example this amazing multi-colored contemporary building that had been built in the port area the year before (Turned out to be the headquarters of Métropole Rouen Normandie which I had to look up ) If a building like that went up in my city I'd know what it was, but her answer was \"I'm not sure\" This seemed to be her answer a good bit of the time. We had told her that we'd like to be shown the art gallery section of town and she took us to a street that had antique shops but no art. We later found that street on our own. She showed us the two important cathedrals (even though we had said we'd do those on our own)  but had no relevant information about them and she in fact got some of the historical facts wrong. We were shown the very interesting Altre Saint Maclou which is being renovated and used to house and bury the victims of the Black Plague and then became an art school. I asked what it would be after the renovation was complete and she didn't know, so looked it up (to find it would become an attraction) We were constantly looking at our phones trying to find out answers. Really we couldn't wait for the tour to be over. She offered to go into the Joan of Arc museum/tour and find out the hours and I asked if she would find out if we should buy a ticket right then. She came out and said no we could just come back for the last tour at 4 PM but when we did it was sold out! so I was very disappointed. I'm not sure if that was her fault or if she just was given wrong information. When we still had 30 minutes left on our tour she seemed at a loss as  to what to see next, so we cut the tour short. She ended up walking with us back to the area we wanted to explore more, where we paid her and said our goodbyes.The four of us were-as we always are- very pleasant but she had to sense our frustration.  As I am writing this, I am just hearing from my husband that she was given a ten euro tip (which was low for us but all we felt she deserved) She took it, but then walked back and said that the minimum tip was 20. No where on the site does it even say the tip is mandatory.  This is the very first time I've ever given a guide a bad review but if this young lady wants to continue showing tourists around her city she should get out her schoolbooks or spend some time on the internet learning some basic facts."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Great Nice walking tour",
+      "text": [
+        "We book a city tour with Locafy for the first time, H̲o̲w̲ delighted was with our guide Katya, she contact us few days before and asked the best way to provide her expertise, so, was completely enjoyable and yet educational, she is passionate for history and we covered the major sights without no rush. This is a great way to start your journey at this beautiful city, asked for Katya!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Copenhagen Private City Tour",
+      "text": [
+        "My wife and I travel a great deal and have taken tours like this in many different countries and areas around the world and we found this Copenhagen tour with our guide Dalit Vilhelmsen to be of the highest quality and content. Her experience is from living here for a very long time. The content of her tours was very extensive and we felt we got so much more out of our trip because of her easy way of explaining thing. Lokafy and Dalit have made of Scandinavia trip more meaningful. The prices are fair and reasonable."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Great to get to know Copenhagen ",
+      "text": [
+        "I took a three hour walking tour of Copenhagen, my guide Dalit Vilhelmsen was excellent. She was so enthusiastic about the history, architecture and people of Copenhagen that the city became alive to me. I had been to Copenhagen before but had not realised there was so much to see and do. Thank you Dalit for your time ,energy and sheer positivity about all that is good in Copenhagen."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Solo"
+    },
+    {
+      "title": "Learned more about life in Zurich",
+      "text": [
+        "We spent a day with Mariona, a very pleasant knowledge young resident of Zurich. She showed us around the city. More importantly she became a friend and gave us a good insight into what life in Zurich is like. We had one day, after a river cruise to explore Zurich. We saw everything we wanted to see in a leisurely compact itinerary set up by Mariona. We were not bogged down with a bunch of facts and dates we would never remember. She was knowledgeable about the history and customs of the area and answered any questions we had. We communicated with her several times before we met so that she could get a feel for what we were interested in. ",
+        "After my experience with Mariona and Lokafy in general I would definitely use them again.",
+        "As for Lokafy they are easy to communicate with either by phone or by e-mail. Before our trip we were given a contact phone number and e-mail address, for our guide, so that we could communicate directly with her. She met us at our hotel and showed us a great day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Guide Did Not Show Up",
+      "text": [
+        "Due to the Alaska Cruise we were on, and arrival was at 6pm on Saturday, August 24th,  I recited a late communication with our guide, of his no-show, due to a family emergency. He mentioned about a replacement \"could\" be sent; it did not occur, as we waited until 8pm. I communicated with the agency the following day, tried to talk to them yesterday, and said I would talk to them next week, as we were with friends in Washington. I received communication today of our request to receive a refund, but they asked me to inform Trip Advisor of our situation, and appeal to you."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Awful experience, don't book it.",
+      "text": [
+        "My guide, Angel, was absolutely awful, he spoke english so badly, new nothing about the place, and any time I asked a question he answered vaguely.",
+        "I wouldn't recommend it to anybody!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Lokafy tour by a local.",
+      "text": [
+        "We enjoyed our guide, but he did not know the history. He showed us interesting sites and we were worn out by the time we finished"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Great walking tour of Toronto",
+      "text": [
+        "We really enjoyed the couple of hours we spent with Alex, getting our bearings by walking round this great city in his company. Alex introduced us to Toronto's history, culture and architecture, as well as giving us food tips and ideas for the subsequent (rainy) day. A really brilliant way of getting to know a city - our thanks to Alex for his many insights, reflections and great good humour."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Finding hidden places away from the millions of tourists.",
+      "text": [
+        "I had a great time with Maha during my Visit in Kyoto and would do the tour again any day. I find it great, that it isn't the regular old tourist program, but rather insights from local people living somewhere."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "Clueless Guide",
+      "text": [
+        "Guide arrived late, left early, shown tourist traps. Any questions answered from google on phone. Complete rip off and waste of time. Get a proper guide not some student looking for easy money."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "Perfect day with Britta",
+      "text": [
+        "Cool was to See die City Not only as a Tourist. We had a Good Time. Briita had a good knoledge about trondheim ans History. Thank you"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Family"
+    },
+    {
+      "title": "Totally delivered on the premise: nice guide, tailored tour, fun time",
+      "text": [
+        "Julian was very friendly and had a lot of insight about the daily living in Toronto. We saw some cool parts of the city that we would not have known to look for.  We'll definitely look for Lokafy at the next city we travel to."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Toronto My Way",
+      "text": [
+        "Chris introduced us to Toronto in a very personal way! by directing the 3 hours to our interests!  I also liked how he gave us suggestions for others activities, places and restaurants to try on our other days in Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "A Friend In Edmonton",
+      "text": [
+        "It was like having a friend in Edmonton.  We had a great overview of the attractions of the city.  It would had been impossible for us  to had gained a big picture understanding of this unique opportunity."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Cancellation refund was delayed for three weeks",
+      "text": [
+        "I canceled a booking one day after I made it, but they delayed refunding me for three weeks to the point that currency fluctuations lost me $8. I had to remind them to refund me.",
+        "They should not keep people's money for three weeks. Refunds should be processed in duly time.",
+        "At least they were polite in their emails and offered me a discount for a next booking."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Excellent tour ",
+      "text": [
+        "Highly recommended. Chris was very knowledgeable about the history and culture of the city. We had a 3+ hour tour to see the most iconic areas, and get an insiders perspective of the city. It was exactly what we had in mind. He gave us excellent recommendations for food, drinks and souvenirs too. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Avoid",
+      "text": [
+        "Guide didn’t show up. Been promised a refund for over a month now having to make a claim through my credit card. Appalling customer service. My suggestion is to avoid."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2022 • Solo"
+    },
+    {
+      "title": "Loved the personalized walking tour, so glad we went!",
+      "text": [
+        "We loved our long walk around Toronto with Sidonia! Seeing a city at ground level — its shops, its neighborhoods, its people — is such a great way to get to know it. Sidonia was a delightful and friendly walking partner who took us through interesting parts of the city and gave us a real feel for what it's like. We gave her guidelines and let her pick the route and that worked out great. The highlight of our trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Never do it again !!!",
+      "text": [
+        "guide couldn't speak English  properly and she was a student,  how had finished high school  I guess and no basic knowledge o history of her own country ahahaha . wellit was a waste of money, next time we travel  to Europe we rather  book a REAL/ LICENSED  travel guide who knows a bit at least of history of his/her own country !!",
+        "don' waste time with lokafy,  if you wanna good service pay a biiit more and get a professional or somebody who know what he/she's doing !"
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Visiting Toronto feeling at home",
+      "text": [
+        "The tour of Toronto with Claudia was really cool although it was sooo cold. With her i felt like at home, like walking with a good old friend. She made me visit the most important places although it was night time and she also gave me good advices about the place and about life! I really enjoyed this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Solo"
+    },
+    {
+      "title": "Local customised private tour",
+      "text": [
+        "Very personalised tour with Clarice who was very enthusiastic and clearly loved showing us the sights. Some of the sights were closed on Sundays but visited them ourselves the next day. We saw areas away from the regular tourist haunts and would recommend this tour."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "SUPERB GUIDE IN TOKYO",
+      "text": [
+        "Felipe Da Sousa guided us around Tokyo on a five hour tour on a Sunday. His knowledge of the Japanese was excellent and he told us many insightful things about their culture and mannerisms. He  took us to an unbelievable park where people were involved in a myriad of different activities-it was fascinating.On the way to the park we walked through a \"crazY\" street where we saw animal cafes, people dressed up in amazing outfits. I thought I was at Alice in Wonderland mad hatter's party. His  English is excellent and we were thrilled with our day. HIGHLY recommended!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    }
+  ]
+}

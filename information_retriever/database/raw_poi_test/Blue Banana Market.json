@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Blue Banana Market",
+    "url": "/Attraction_Review-g155019-d8822013-Reviews-Blue_Banana_Market-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "250 Augusta Ave",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5T 2L7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 35
+    },
+    "openingHours": [
+      "Mo,Tu,We,Th,Fr,Su 11:00-19:00",
+      "Sa 10:00-19:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b2/89/00/blue-banana-market.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Speciality & Gift Shops"
+  ],
+  "description": "We believe that gift giving is a way of showing someone how much you love, appreciate and understand them - and the gift you choose must reflect that. That's why the Blue Banana Market Team eats, sleeps and breathes gifts so you have fantastic option and give gifts that your family and friends can't wait to open. We want to make you a gift-giving hero!",
+  "duration": "Duration: < 1 hour",
+  "reviews": [
+    {
+      "title": "Fun but Expensive",
+      "text": [
+        "This place was huge but also pretty overpriced. There were a lot of items that you can get online quite cheaply at premium prices. However, they did have a very small but very well-priced thrift store section with clothes. If nothing else, that part of the store is worth a visit. The rest is definitely fun to browse, but do a little online research to make sure you're not being gouged."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Impressive Kensington Market Store",
+      "text": [
+        "Located in Kensington Market, this store is a great place to look for souvenirs, gifts, and household items.  There is a wide variety of items including many local products for sale."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Great gift options",
+      "text": [
+        "This place is huge and you can find gifts for everyone. Some local honey, hot peppers and much more."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Great Store!",
+      "text": [
+        "This store is large and FULL of fun and really unique gifts for yourself or anyone!My husband and I spent  at least an hour here and really enjoyed it! ",
+        "I highly recommend checking this place out, you won’t be disappointed!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "My favourite store in Toronto.",
+      "text": [
+        "I love shopping here. They have something for everyone, and I have never come here looking for a gift without finding the perfect one. They have imported things as well as Canadian-made, and everything from foods, to home decor, to clothing and jewellery."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Great store ",
+      "text": [
+        "This place is super fun to wander around. Unique items are everywhere . The location in Kensington market is awesome. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "You will surely find something you like here",
+      "text": [
+        "Hilarious quotes on socks, on bags etc, crazy 'Orange man' toys, cute kitchen ware, hot sauces hot sauces hot sauces!!! and then some cute stuff you will surely enjoy owning or gifting your loved ones. Must must go here!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Sooo much!",
+      "text": [
+        "This store is amazing! Sooo much to choose from. Great place to pick up a souvenir, house warming gift, gag gift or anything really. Definitely worth visiting!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018 • Family"
+    },
+    {
+      "title": "You WILL find something fun!",
+      "text": [
+        "Visited today after visiting Kensington Market area. Really fun shop with sooooo many different sections with cool innovative gifts or things to add to your home! Even if you don’t find anything you like for yourself or friends/family, you’ll enjoy the 30 mins you spend looking! Go visit! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Couples"
+    },
+    {
+      "title": "So cool! Something for everyone!",
+      "text": [
+        "My husband and I found this on a walk through the market. It looked interesting so we wandered in. Interesting it was!! We both agreed that we could have shopped for everyone on our Christmas list just at this store. It had the neatest finds and gifts. I didn’t like the market as a whole but I would go back to this store specially!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Couples"
+    },
+    {
+      "title": "Great store for gifts, a fun purchase or just to browse.",
+      "text": [
+        "This was a very welcome addition to the eclectic mix which is Kensington Market.  There numerous little stalls selling all sorts of things....candles, kitchen gadgets, candy, condiments, purses, jewelry, scarves, socks...and much more.  Excellent selection of cards.  There is something for everyone and in all price ranges.  I always take out of town visitors here and they are always impressed.  Worth a look."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2015 • Friends"
+    },
+    {
+      "title": "Worth to pay a visit ",
+      "text": [
+        "As mentioned in the previous review, this market isn't the same as common souvenir shops. Spend some good amount of time in there and you will come across with nice stuff. I'd risk saying that there will be at least one single item which you'll want to buy it. Or two, or three, ...",
+        "I bought a mug for my collection. I was looking for a mug related to Kensington Market and I found it. ",
+        "Definitely it's worth a visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2016 • Couples"
+    },
+    {
+      "title": "Magic like an attic ! ",
+      "text": [
+        "While I was visiting Toronto, I had heard that it was the place to go to find gifts to bring back home. I was afraid it would be like a souvenir shop full of useless boring things - well not at all! ",
+        "As the attic of an extraordinary grandmother, full of eclectic objects. Some are funny, some valuable, other are rare or even strange. You have to be patient and take time. But everyone can find the perfect object. I found myself an old fashion box of precious tea! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2016"
+    },
+    {
+      "title": "I love this store",
+      "text": [
+        " Has a mix of kitchen stuff, home decor, silly gifts, jewelry , candy, postcards and other odds & ends . The location is amazing in Kensington Market. Staff isn't the friendliest or most helpful, but what they lack in service makes up in their products. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015"
+    },
+    {
+      "title": "Amazing Store",
+      "text": [
+        "We came upon this store while visiting Kensington Market. It’s my favourite store in the market. The store is huge and there was so many unique gifts. There was kitchen stuff, lots of socks, jewellery, Christmas stuff, toys and so on. Something for everyone. My husband said it was worth coming down to the market for just this store alone. So I highly recommend this store. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017"
+    },
+    {
+      "title": "Such a cool place!! ",
+      "text": [
+        "So much to see,  so many different nicknacks here,  good prices,  kinda felt like a fancier flea market,  but we loved it,  so many possibilities for unique gifts,  a must see for sure!! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Couples"
+    },
+    {
+      "title": "Large eclectic selection of goods",
+      "text": [
+        "A large store in the vicinity of Kensington Market. Has a wide variety of novel items, games, cards, food, souvenirs, presents. Probably not worth going to by itself but definitely worth looking up if you are in the area.",
+        "Has a great novelty bubblegum dispenser. You pay your dollar and watch the bubblegum take a long circuitous route to the opening."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Family"
+    },
+    {
+      "title": "Cool blue",
+      "text": [
+        "This store is in Kensington Market. Cool place to get souvenirs including a really good selection of greeting cards. Also stocks some weird/funny clothing (t-shirts/socks etc). Thought I would be done in about 5 minutes- probably was in there for 30!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "A great shop",
+      "text": [
+        "The blue banana is a great shop in the market, it's got a lot of interesting finds and it seems to go on forever! Everything is clearly marked and all fairly organized. There were a lot of people when I went but the lines moved quickly and the staff was helpful and expedited the check-put process. A little by of everything inside :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017"
+    },
+    {
+      "title": "One-Stop Shopping",
+      "text": [
+        "If you're looking for a bunch of quirky and unique gifts, go here! I'm convinced that there is something fun and funky for everyone. This is also an excellent store to browse. Many items in here are different from those I've seen in other stores. Recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016"
+    },
+    {
+      "title": "Fun & Unique!",
+      "text": [
+        "I've been here a couple of times just to browse as I'm passing through Kensington Market. The store has unique gift items, toys, and beauty products that are perfect for little birthday gifts. The store is huge, so allow yourself some time to walk through and take it all in!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2016 • Friends"
+    },
+    {
+      "title": "Fun and quirky things to buy",
+      "text": [
+        "Had a fun time looking at the eclectic mix of articles on offer at this colourful shop in the Kensington Market area. Socks to tiny espresso cups, lights to put around your bike wheels to Asian stickers...and candy! Something for everyone and a public bathroom on premises. Perfect for a tourist!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Family"
+    },
+    {
+      "title": "Funky shop with unique finds",
+      "text": [
+        "No trip to Kensington Market is complete without visiting Blue Banana. They have the most eclectic selection of unique items you'll find anywhere. If you have someone impossible to buy for, you'll find something here, guaranteed. If you haven't been to Blue Banana Market you're missing out. Go. Now.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "nice souvenir-gift shop if you're into that",
+      "text": [
+        "Good stuff, thoughtful collection of souvenirs, but there's a store like it in most tourist places.  Quality, not junk at all, wife enjoyed it very much, but me - eh.  Nothing unique."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2016 • Couples"
+    }
+  ]
+}

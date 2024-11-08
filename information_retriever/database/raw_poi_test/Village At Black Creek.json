@@ -1,0 +1,382 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Village At Black Creek",
+    "url": "/Attraction_Review-g155019-d187010-Reviews-Village_At_Black_Creek-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1000 Murray Ross Parkway",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M3J 2P3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 605
+    },
+    "openingHours": "We-Su 11:00-16:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/fd/11/ba/bellissimo-posto.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Historic Sites",
+    "History Museums"
+  ],
+  "description": "Immerse yourself in the 1860s and explore an authentically re-created country village of the Toronto region. At Black Creek Pioneer Village, visitors discover 40 historic buildings, 70 rare and heritage breed animals, 10 gardens growing flowers and plants from heirloom seeds, and exciting programs that engage people of all ages. They meet costumed educators who demonstrate and involve visitors with trades and crafts common in 1860s’ Ontario, tap their toes to music of the era, laugh at the hysterical antics of the History Actors, and have fun engaging in hands-on activities throughout the village!",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Amish paradise",
+      "text": [
+        "Used my TPL card to get here for free with my family. Even if I had to pay I wouldn't have regretted it. The staff at the entrance immediately give you a map and explain what and where you can do. The village is big and it took us around 2 hours to walk around and see everything. You can enter houses and see how people lived, how their rooms looked like. Some rooms were blocked from entering but you still could look inside. I really liked the atmosphere. I'm a city person but sometimes you have to leave the noise and bustle behind to enjoy nature. I also liked the animals. We saw sheeps, geese, and horses. There were also pigs but we couldn't find them. There were people but they weren't  annoying. A lot of entertainment for kids. There is a lot of space to sit and relax or eat. The food is expensivebut what did you expect. It is cool that once people actually lived in this village and it is all real - not replica. I left this place with good memories and will definitely recommend it to my friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Wonderful Time!",
+      "text": [
+        "Nice place to go in the summer. Many authentic pieces, and storytelling by friendly welcoming volunteers. They are really cool historic sites. This is a must-visit. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Nice place",
+      "text": [
+        "Nice place, cool things to see in the high season i imagine, but it was a bit quieter, and less workers in each building but it was still fun couple hours"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Interesting and friendly",
+      "text": [
+        "It was a good recreation of the times with some authentic structure   Many authentic pieces, storytelling by friendly welcoming  volunteers. Interesting historical facts",
+        "The weaver and I bonded over our pasts . Was wondrous indeed . It was a manifest that the world is a small place. She was fascinating and so knowledgeable. ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "Living History",
+      "text": [
+        "We visited this place on June 25. There is a parking lot. You have to take a parkingticket and pay at the counter. ",
+        "There are 40 homes. In some, a member of staff will give you more information about the home and its residents. ",
+        "We liked the explanations at the printing company, the school and the one in front of the photo shop where we had to guess which item the employee was holding."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "scary. bone chilling.",
+      "text": [
+        "i just went on the haunted ghost walk with two of my other friends, it was an out of body experience. at first, i was laughing, joking, and scaring my friends (who are of lighter heart than me) but things quickly took a turn. when we entered the house titled \"the second house\", our guide told us about a 17 year old boy named michael who died in a hunting accident (the son of the owners of the house) took a specific liking teenagers. when he was done telling us about the history, he told us to turn our flashlights off and began asking michael to give us a sign of his presence. he then asked if any of the teenagers were willing to get michael to give us a response. i was the only one willing, but i regret it now. i confidently said \"michael, i'm a teenage girl, please give me a chance!\" this caused everyone to laugh, but it was also accompanied by a subtle but very clear knock from upstairs. i was the first to leave the house. as if this wasn't enough, when we entered \"the manse\" there was very clear rustling near the staircase. i was standing right beside it. it was dark and pouring rain outside, creating a creepy atmosphere. i also swear i saw a glimpse of a man in a beige suit standing and listening attentively to the tour guide in one of the closed off doors in \"the burrow house.\" nobody believes me and my dad gave me a lecture in the car about how the supernatural doesn't exist and that everything is set up prior to our arrival. i beg to differ. please, go on the ghost walk. you won't regret it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Great place to see historical buildings!",
+      "text": [
+        "This is a great place for all members of the family to see old historic buildings and get to learn all about them from the friendly and knowledgeable staff. Would visit again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Amazing staff",
+      "text": [
+        "The staff in this place is super friendly and takes good care of the village. I recommend the visit to know a little more about its history."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Extremely Disappointed- Save your money",
+      "text": [
+        "I am reviewing their Ghost Walk specifically. Myself, my husband and another couple attended one of their Ghost Walks on October 22nd 2022 and left feeling very disappointed. Our reasons: ",
+        "- It was a rushed tour to the point where when given \"a couple minutes to look around\" is literally a couple minutes so you do not get to see the entire space in many of the buildings. Especially when the tour group is large. There were many buildings we went into and only saw a fraction of it because of how rushed the tour was. We actually heard another tour guide speak to our guide and say \"Sorry I am going as quickly as possible!\" When their tour was still in a building we were waiting to get into. ",
+        "- Many of the ghost stories included certain buildings or rooms within the building but we were unable to go see those rooms or that building. Full upper levels blocked off yet the ghost story was about that floor? Just don't share that story then. ",
+        "- The tour seemed very rehearsed and not authentic. A part of these tours is how good your guide is. They just came across like a bad actor that had other places to be. No magic was created by their story telling. ",
+        "- Ticket of tour DOES NOT cover parking. After a disappointing tour we were greeted with a $10.50 parking fee for being there for 75 minutes. This was the nail in the coffin for us,",
+        "- The tours are booked basically back to back so throughout our tour you could hear other tour guides which affected the overall feeling of our tour. Some guides voices echoed throughout the grounds above our own guides voice.",
+        "- There was a scavenger hunt going on at the same time and these groups had big bright lanterns. Between all the people, the bright lights and the chatter, there really was nothing spooky about it. The ambiance was stolen- and it felt like it was because they were trying to book as many things as possible for profit, forgetting that this would negatively affect the experience for the patrons.",
+        "- During the tour the guide was telling us about other dates and saying we should come back, selling us on other tours they offer with Toronto. This was so frustrating because it was during our tour time we paid for. There were other times this information could have been shared, like walking back to the main building AFTER the tour was over. Not while we're walking through the village hoping for a spooky experience. ",
+        "Overall this was a very disappointing, unauthentic experience. It felt like a cash grab, Myself and my friends are big fans of these ghost walks, however after last night we will never be back and will be sure to let others know about our experience. ",
+        "There are many ways to make improvements to this tour, however the main focus is going to need to shift from capitalizing on how much money you can make in a night and more on the overall customer experience. ",
+        "Big thumbs down. I wouldn't pay more than $10 a person for what we got."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Wonderful time",
+      "text": [
+        "My husband and I have been saying for a while we wanted to visit so we deiced to go for our wedding anniversary this year. ",
+        "From the moment I booked the ticket to when we left every one was extremely helpful. I booked the tickets online but accidentally wrote the wrong email address I emailed Black Creek and got a reply with my tickets attached. Once we got the village every one we spoke to was extremely helpful and informative. Everyone told us information about the part of the village we were in. ",
+        "We were both surprised about the size of the village, we thought it was smaller. We had a wonderful few hours walking around and speaking to people who work there. Lovely way to spend our anniversary. Thank you"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Fun on a summer's day",
+      "text": [
+        "A whole village of 19th century Ontario log houses each still fulfilling its original intentions -- grinding, pharmacying, cooking. The kids will love the animals. Adults will enjoy the setting. Worth the drive (or the very safe subway) to Toronto's northwest corner."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "A view of the past",
+      "text": [
+        "Black Creek Pioneer Village is a collection of settler homes.  Interesting from the historical perspective, and really nice in the Spring and Fall.  Good period restaurant, with appropriate food."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Christmas fun",
+      "text": [
+        "Had a great day visiting BCPV and exploring Christmas in the village !!",
+        "Will definitely return in the summer !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Family"
+    },
+    {
+      "title": "Please take care of this property",
+      "text": [
+        "An amazing look at history, but the place is falling apart. The buildings need more upkeep!! There are never enough actors in the houses, which takes the 'living' out of this living museum. I know this could be a money issue, but I'm sure there are volunteers that would love to dress up! ",
+        "The parking lot is gravel, yet there are potholes that nearly destroyed my car. Please just fill those potholes with more gravel!! If you drive a car that you love, do not bring it here. ",
+        "I would recommend eating before you come, or bringing your own food/snacks, they sell some sandwiches, etc. in the gift shop, but the quality is awful.  ",
+        "Still this is a great attraction for the family, or anyone that wants to learn more about Canadian settler history. It would be nice to see more of the indigenous influence and history during this time included, as well. ",
+        "With some TLC, this place could be great!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "School Trip",
+      "text": [
+        "Reality check when you visit the beautiful grounds. Our students had so much fun. They didn’t want to leave. The guides were awesome. The many hands workshop was so much fun. Many of our students thought doing some of the chores would be fun. Lol maybe for a day or two then they would be asking for their parents to do them again. It’s a must see in the GTA."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Family"
+    },
+    {
+      "title": "Excellent living museum",
+      "text": [
+        "We spent a lovely couple of hours wandering around this special place enjoying the history on show and talking to the very knowledgeable volunteers who clearly enjoy what they do. It helped that the weather was kind to us the day we went and the trees were showing off their spectacular fall colours but even without that it would still have been a visit well worthwhile doing. It's good value for money and afterwards there is a nice little cafe area that serves snacks etc and one of the best cups of coffee ever!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Informative",
+      "text": [
+        "We called in midweek on a wet and windy day. It’s no surprise when we found it very quiet. We wandered round for a couple of hours, speaking to the staff who were very informative. We learned a lot of new things. I’d recommend this for visitors to Toronto. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "awesome Halloween fun",
+      "text": [
+        "We went to the Haunted Walk at Black Creek Pioneer Village tonight. It was a great time, our guide Casandra a true storyteller.  It was dark, spooky and kind of creepy without anything jumping out at you. The stories were informative and interesting, making me want to go back in the day time so I can see what I am missing. Great Halloween fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Howling Hootenanny at Black Creek Pioneer Village",
+      "text": [
+        "Always a lovely experience for children and adults. It’s interactive, educational and the food in the Village (Peter and Paul’s) was surprisingly good.  We will go back for Christmas in the Village in December.  This is reasonably priced for a family excursion, a safe place for the children to run and explore outdoors."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "Halloween hootenanny at black creek",
+      "text": [
+        "This was disappointing in every way. This is not worth going to even if it were free, and boy it sure isn’t. We are good sports but there was absolutely no imagination, creativity, resources, or even thought put into this. Very lazy and unenthusiastic event."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "Haunted Walk was disappointing for us!",
+      "text": [
+        "We paid about $140 for this experience which was rated 4/5 for level of scare. I’m not exactly sure where that rating comes from. We were actually bored. Our guide did a great job with the story telling but I’m not sure what part of the experience was suppose to be scary. There were just stories. No actors doing scares etc. A lot of the time there were flashlights and other groups passing that would be a major distraction. Guess I had different expectations. I certainly wouldn’t go again and wouldn’t recommend to anyone at this point."
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2021 • Family"
+    },
+    {
+      "title": "Best day ever",
+      "text": [
+        "Spent the day walking around the grounds. The place was well maintained and easy to navigate. I was with 2 very curious children, and the staff took their time to answer all questions without speaking down to them. They said it was the best day ever."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Family"
+    },
+    {
+      "title": "Haunted walk",
+      "text": [
+        "Last night we did the haunted walk with our amazing guide Phi. Not only was the storytelling riveting, but we also got to see and hear some spooky activity! Definitely a must see in the city and will surely be coming back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Couples"
+    },
+    {
+      "title": "One of bests attractions in Toronto for families",
+      "text": [
+        "Surprisingly large in the middle of an urban/suburban environment.  You really feel transported back in time.  The hosts/pioneer actors are great - super welcoming, engaging, and knowledgeable.  The pioneer houses are well maintained and include interesting historical information.  Great way to get away from the city for the day with the kids while learning about old Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Family"
+    },
+    {
+      "title": "Disappointing",
+      "text": [
+        "The fact that it cost $70.00 for two tickets after tax, you really shouldn’t hold weddings at the same time. It ruined the entire atmosphere of any feelings, experiences & all we could hear was the loud music/drumming & DJ. It was absolutely disappointing. ",
+        "Then to tell us the stories of the upper levels of the buildings were the most haunted experiences for people BUT we were banned from going up there was horrible. It was incredibly disappointing all round."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2021 • Friends"
+    },
+    {
+      "title": "Wonderful Ghost Tour",
+      "text": [
+        "We came to see he ghost tour tonight and we were not disappointed! Our tour guide (Jack) was wonderful and very friendly! Speaking was clear and stories were super engaging! They even gave us some advice on post secondary while we were chatting! We will definitely be back and we hope to see Jack again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020 • Family"
+    },
+    {
+      "title": "Ghost tour",
+      "text": [
+        "Jaidyn from the Ghost tour was an amazing guide. she told the stories perfectly and had a great attitude even in the rain! She was so fun to converse with and very polite!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020 • Family"
+    },
+    {
+      "title": "amnal in black creek village was amazing",
+      "text": [
+        "amazing and a great way to reconnect with our food system. Black Creek is also a very interactive and real way to learn about Canadian history and specifically about the history of the Toronto region. Great way to spend the day with the kids. I can’t recommend this place highly enough! It’s also quite easy to get there by TTC now that they’ve built the new subway extension."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Great for kids and adults",
+      "text": [
+        "What a great place to take our grandchildren! The tour of the buildings was informative and kept the girls (7 and 5) enthralled. The fact that we could wander into all the buildings ourselves and could see and learn so much was exceptional. The farm animals were just as engaging. Four hours went by in a flash! We'll be back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "Doing well under restraints!",
+      "text": [
+        "I have been visiting BCPV since the 1990s and am very comfortable there. The staff are handling the restraints of the pandemic very well. I particularly enjoyed the presentation by Keisha who demonstrated great knowledge of her area while being very personable with young and old.",
+        "I look forward to the TRCA allowing BCPV to open up further, allowing more staff back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "great until theft",
+      "text": [
+        "actually the village is great.  I purchased lunch, a stale sandwich and a drink.  I paid by debit and since then I have had over 700.00 taken out of my account.  I have tried to contact someone there but you can only leave a message and they will get back to you.  Piss poor management and corrupt volinteers"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Enchanting snowy evening.",
+      "text": [
+        "We visited during the special holiday lights evening that they had two days before Christmas.",
+        "It was snowing, which made the experience very special for us.  It was not only entertaining to visit each open house and business, but to enter the rustic warmth of these restored places and to stand by a wood fireplace or cast iron stove was especially comforting on this cold, snowy evening.  The rustic life of these settlers felt even closer to our experience for the shelter that we took in each of the buildings while learning about their lives, their pleasures and their industries.  Each location had a small tidbit to offer us.  Especially welcome were the roasted chestnuts and spiced cider at the outside campfires set up for this evening.",
+        "It was not readily apparent which buildings were rebuilt versus maintained or renovated and it would have been nice to more easily find this out before we started traipsing about in the lamplight.  Also, most of the offered snacks were sugary.  Sugar was not only prohibitively expensive at the period of this village tour, the accumulation of sugar got to be a bit too much.",
+        "By the way, there is a small restaurant in one of the restored buildings; we did not see this until we stumbled upon it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Very well done",
+      "text": [
+        "It is all outside. Has many old structures that have been moved there and refurbished. Great for all ages."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "highly recommend!",
+      "text": [
+        "Well kept and very interesting. Loved the interactive components.",
+        "Both myself & my 11 year old grandson really enjoyed it. There was so much to see and  a lot of variety.",
+        "Give yourself lots of time to really experience it all."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "a good time was had by all",
+      "text": [
+        "My daughter, two granddaughters and a friend went to Black Creek last weekend and we had a great time just wandering around the village and checking out the animals.  In a normal Christmas season there would be baking going on but of course in Covid many of the buildings are closed.  Thank goodness the gift shop was open as that is always our last stop."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Wow!",
+      "text": [
+        "What a great afternoon we had! Had not been in years and even with reduced abilites it was a great experience! We will return. The people really bring it to life."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021 • Family"
+    },
+    {
+      "title": "More fun in the day time!",
+      "text": [
+        "Hubby & I came here during the day time to see the buildings & the animals. We'd previously been here in the evening in October for a Haunted Walk tour which was a lot of fun! But most of the buildings are closed in the evenings which is why we came during the day.",
+        "Last time I'd been here was when I was a kid for a school trip. Things were very different back then as it was before covid. There are timed entries now so the village wasn't very crowded. It cost us $15 per adult to enter. The gift shop also doesn't open until 1.30pm. Some of the buildings were closed due to a private event or being repaired.",
+        "Hubby & I enjoyed wandering around the village, reading the information plaques & watching the animals roaming their pens. Some unique animals here. The chickens were really big! Two different breeds which I forget the name now. Also saw some sheep, Toulouse geese, and bunnies. The bunnies were also very big. There were even some guinea pigs in the same pen as the bunnies. The Clydesdale horses were beautiful & gentle. They wanted some treats. LOL.",
+        "We walked around for about 2.5 hours. It was a beautiful fall day so we enjoyed it. The food outlets are closed unfortunately. Though the washrooms are open in the visitors center & also in the events pavillion. We saw families who had brought food with them sitting at the picnic tables eating. We would come back here again!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2021"
+    },
+    {
+      "title": "Creepy at Jane and Steeles",
+      "text": [
+        "Had a great time with my family here last week.  Margot really brought the stories to life and the place was creepy in pitch blackness.  The only real verisimilitude breaker was the planes over head and the roadway sounds nearby, neither of which were under their control.  The Christmas lights didn't add to the creepiness, either.  Definitely coming back."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2021"
+    },
+    {
+      "title": "Day Time Tour, Yay…..! Ghost Tour, meh.",
+      "text": [
+        "We went for Ghosts of Black Creek Pioneer Village",
+        "Ghost Tours expecting it to be a spooky experience for Halloween. But it was just about ghost stories and paranormal activities being narrated. Casandra’s narration was amazing but along with the narration we were expecting that something would happen inside. But we’re disappointed as there was nothing. Not worth spending $30 per head for the Ghost Tours. ",
+        "However you can take the tour of the village during the daytime and it would be worth the money spent."
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2021 • Friends"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "We had a wonderful experience with our amazing guide Anthony. He's absolutely patient, knowledgeable and thanks to him our trip is more enjoyable! Also it would be a great place to take pictures and hanging out with friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021"
+    }
+  ]
+}

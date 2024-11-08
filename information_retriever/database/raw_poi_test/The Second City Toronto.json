@@ -1,0 +1,370 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Second City Toronto",
+    "url": "/Attraction_Review-g155019-d274516-Reviews-The_Second_City_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "One York Street Accessible from 110 Harbour Street",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5J 0B6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 889
+    },
+    "openingHours": "Mo-Su 10:00-23:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/9b/df/71/second-city-toronto.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Theaters",
+    "Comedy Clubs",
+    "Theater & Performances"
+  ],
+  "description": "The Second City is renown as the world's premier comedy theatre, with critically-acclaimed live improv and sketch comedy shows on stage every night. Enjoy a night of laughs and up-to-the-minute satire from the legendary comedy troupe that inspired Saturday Night Live, SCTV, and Whose Line Is It Anyway! The Second City's list of alumni include entertainment legends such as Martin Short, Eugene Levy, Gilda Radner, John Candy, Andrea Martin, Mike Myers, Colin Mochrie, and many more. Tickets are only $14 - $32, making The Second City the best entertainment value in Toronto. Located in the heart of Toronto's Entertainment District, The Second City's intimate cabaret theatre offers table service of a affordable bar and food menu, as well as pre-show dinner packages.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Do not recommend",
+      "text": [
+        "Terrible experience. We went to a comedy show for a friends",
+        "Birthday and we ended up getting kicked out by security for laughing at a comedy show. So glad The guest behind us thought it was ridiculous and were appalled and ended up leaving with us leaving blank stands."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2024 • Friends"
+    },
+    {
+      "title": "Mini Manhattan",
+      "text": [
+        "The way I see Toronto: A mini version of Manhattan, smaller buildings but cleaner and safe. Excellent food( DO NOT MISS THE St Lawrence Market) . Casa Loma ( go to the underground area, in my opinion the best way to experience the place and much more fun than the upstairs living quarters).",
+        "For hockey fun’s as me the Hockey Hall of Fame is a must. The Hop on Hop off bus is a great way to learn about the city and get to those places. Toronto doesn’t disappoint."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Hilarious!",
+      "text": [
+        "Stopped in for a show and it was great! Food and drink options available throughout the show. The improv was fantastic. Great date night!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Fun night!",
+      "text": [
+        "A really fun night! It was really easy to get tickets and buy food and drink once there! The people performing were really funny and engaging! I would definitely recommend going here on your trip."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Couples"
+    },
+    {
+      "title": "Good improv brunch",
+      "text": [
+        "We went to the improv brunch. It was only about an hour long, but the performers were very good and they took suggestions and volunteers from the audience. We shared a breakfast wrap, which was tasty and the mimosas were good as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Moderately funny but with wine agenda",
+      "text": [
+        "Way too woke for me.  We went to see a comedy show not to be subjected to their woke values.  Also 911 is not a Muslim holiday equivalent to Christmas.  NOT FUNNY!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "Great show, great staff!",
+      "text": [
+        "Awesome show, it was hilarious, fast paced, and just the right touch of audience participation. The cast was dynamic, real, and funny! It was our first time at Second City and the new theatre was great!",
+        "All the staff were great, from our arrival, to the lobby bar, to the service during the show itself.",
+        "I highly recommend the kiwi, delicious!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Couples"
+    },
+    {
+      "title": "Great show! Poor food service (missed show to correct the order errors 3 times!)",
+      "text": [
+        "The show was an absolute blast! We went for our anniversary with our teens, and everyone thoroughly enjoyed the performance! Unfortunately, food service did not go well. The food was prepared incorrectly three times, and we finally gave up getting it right. Every time they brought the wrong thing I missed part of the show while trying to explain what was wrong."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Best night ever. Sooo funny",
+      "text": [
+        "Best night ever. Great talent. The place is amazing.  Staff where wonderful.  Best bang for your buck in Toronto "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "Good show, table service kind of lacking",
+      "text": [
+        "Haven't been to a Second City show in ages.   Upon arriving support staff did a great job directing us to coat check, the bar, restrooms, and ticket check.  We opted to get our seats and have table service.  It's only kind of table service:  you order using a QR code with your phone and a server then brings your order.   Our seats were pretty tight where 5 people would have needed to get up and move into the main aisle if I needed to leave my seat.  The comedy show was top notch."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "The Best of Second City",
+      "text": [
+        "We visited Toronto mid-December and was looking for something to do at night. I saw an ad in the hotel book of things to do so we went to see the show. We got last minute tickets and had a great time. We would recommend the show for a great night of laughter!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Booked show tickets through Trip Advisor",
+      "text": [
+        "Wow!  So quick and easy!  We booked tickets on-line, received the tickets and confirmation immediately, and the show was fabulous."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Friends"
+    },
+    {
+      "title": "If I could throw back time",
+      "text": [
+        "Absolutely hilarious night!  The comedians were all fantastic.",
+        "The staff was friendly with great service."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Very fun!",
+      "text": [
+        "I had heard good things about this show so my husband and I decided to go. We are so glad we did. It was entertaining and hilarious - a super good value! Definitely going again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Couples"
+    },
+    {
+      "title": "Fun time!",
+      "text": [
+        "The venue was fantastic, quirky, unique. We laughed a lot and the service was great. I’d definitely go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Some good laughs",
+      "text": [
+        "Enjoyed the show and the venue very much.  ",
+        "The service was great as well so we would recommend this as a fun and not overly expensive time!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019 • Friends"
+    },
+    {
+      "title": "Nice show",
+      "text": [
+        "Funny and very entertaining for a Thursday cold night. Well attended. I highly recommend it. ",
+        "As good as Chicago for a week night. "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fun, and easy.",
+      "text": [
+        "This was a great experience. I love that I wasn't charged extra for ticket handling. Bought the tickets, and all I needed to do was show the email I received to the kind person at the front desk,and our group was in.",
+        "The show itself was great, as I expected. Improv was spot on. Lots of audience participation. Actors were very capable. Table service was not very intrusive. A great value for the 2 hours. ",
+        "Only stress was whether the troupe would ask you to come on stage. Sit in the back if you don't want to be stressed out about that (I suspect)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Great show!",
+      "text": [
+        "We were looking for something fun and different to do on our Toronto visit. This show  (Throwback Time) was so funny and well done. We had a great time and stayed for the after show impromptu session as well.  Really fun night. Food and drinks were available. Super friendly and helpful staff and very entertaining show."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "The whole comedy show was just so funny.",
+      "text": [
+        "One can't ask for a better comedy. The show was fantastic. It was 2 hours long with a 20 minute intermission.",
+        "Many different skits were done. Some with 2 people and others with up to five people. . All types of topics and lots to laugh about."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Everyone in our family was giggling",
+      "text": [
+        "I ordered tickets the day before and the website was simple.  Etickets are the way to go to avoid will call lineup.  Skits and improv were hilarious.  Kid shows are interactive and kids can volunteer to participate on stage.  We always have a great time!!",
+        "Side note, Any possibility of a show for teenage audience?"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Family"
+    },
+    {
+      "title": "Throw back to 70s",
+      "text": [
+        "Wonderful sketch show with solid performances. Nostalgia and the not so well known history of our country and it’s leaders. Songs and some hilarious banter and play between performers . Speed timing and bringing in the laughs this is a fun night out . Tickets are reasonable, food was good just a light pub menu but served hot and fresh by a friendly staff. Food for 2 with drinks $50 . ",
+        "Will be going back in future. It’s a 15 min walk from Union Stn , just enough to stretch the legs before sitting down to 2 hours of entertainment. There IS an intermission to get refreshed or a bit more to nibble. Excellent Adult humour not suitable for youngsters."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Couples"
+    },
+    {
+      "title": "Get ready for a fun evening",
+      "text": [
+        "A professional troupe of comedians who do not fail to deliver laughs. Make sure you get there early for best seating if you have general admission tickets. Snacks and drinks are served throughout the show."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Couples"
+    },
+    {
+      "title": "Great laughs ",
+      "text": [
+        "You are going to a comedy club, so remember that the seating is going to be squishy, but it is totally worth it.  The staff are friendly and the comedy is absolutely hilarious. It is a great night out! "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "I can't recommend this enough! If you like laughing (really) you'll like this!",
+      "text": [
+        "We went on a whim and couldn't be happier we did. The show was excellent from beginning to end. The topics were relevant, creative, and yet easy to understand and laugh about. If you're on the fence, just go. We saw the \"If I could #throwback time\" show and we laughed the whole time. My jaw was tired by the time we were done. A little extra improv section was at the end of the show, but a 2nd intermission was offered and several people chose to leave, but we stayed and laughed a little more. I would recommend this to anyone (old enough) visiting Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Great show! Horrible Staff Ready to Ruin Your Night",
+      "text": [
+        "Great show, very funny! However, horrible horrible staff (few in particular) that feels it necessary to harass their customers over policies that are not clearly outlined anywhere in their facility (put up signs as there were none). The staff made assumptions that I verbally abused their member which is completely false and unprecedented...anything to get your customers out the door right? Especially when a staff member makes it their mission to ruin your night. The security guards are time wasters, and pathetic. A miniscule situation that could have been handled differently had their female waitress approached us without aggression and did not speak to us in such a condecending tone.This company needs to educate their staff on how to properly speak to customers. They did not give us a chance to correct the misunderstanding, but rather asks you to leave on the first \"offense\".Absolutely disgusted at how we were treated here. Don't come to this location if you want to have their staff completely ruin your experience of the show."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2020 • Couples"
+    },
+    {
+      "title": "If I could throw back time!",
+      "text": [
+        "Fantastic show (If I could throw back time) and a great overall experience.  We had rail seats and loved it.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Couples"
+    },
+    {
+      "title": "Deliriously Funny....Best way to start 2020!!!",
+      "text": [
+        "We took in Second City’s Unconventional Holiday Revue on January 1st and can't imagine a better way to start 2020. The show was smart, funny, touching, funny, unpredictable and did I mention funny. The majority of the material was made up of rehearsed sketches, some of which had interjections of audience suggestions, and were so well done that you were easily able to forget about your hangover from partying the night before. ",
+        "There were two moments that allowed you to truly appreciate how amazing, talented and patient these performers are. The first was a sketch where one of the actresses picked a female volunteer from the audience to whom she was going to make a big reveal to about her life. The actress peppered the audience member with some questions and then launched into it. We were treated to a funny, honest and touching performance by both people that couldn't help but bring a tear to your eye. The second sketch was based on Dickens \"A Christmas Carol\" and for it the performers had the unfortunate happenstance to pick a drunk, melodramatic, ham of a person who couldn't do more to derail the work of the performers on stage. They did there best to work around him and I admire their patience but he was so disruptive there was just no saving the piece. Thankfully this wasn't the last of the evening and they rallied and gave us some great laughs to finish out the night. ",
+        "Kudos to all the performers and thank you for starting our 2020 in such fine fashion."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "One of the Best Comedy Shows Out There",
+      "text": [
+        "I loved it. The audience was often in stitches! I laughed so hard at some points that I had tears. We got front row seats because they didn't cost much more than general admission seats. The bonus was that we were seated before all the rest. Sweet! There's a special line inside for front row people.",
+        "I'm not going to spoil the show by giving you any details, but their If I Could #ThrowBackTime show is topical, smart, thoughtful, and hilarious!",
+        "You can order drinks and food during the show and everything is reasonably priced.",
+        "In their diversity, these talented guys work together to make a cohesive story as funny as it could be.",
+        "I'm putting them on my permanent list of things to do while in the six."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "“What The Elf”",
+      "text": [
+        "Everyone should go to this amazing skit about working together and that we are all individuals but we make a fantastic team which can do anything if you believe. Go and leave your adultness at the door. Especially fun for the 4-8 age group"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Family"
+    },
+    {
+      "title": "Fun way to spend a weekend night",
+      "text": [
+        "Great way to spend your night. We attended their Friday night show and we had a good time. The place was almost fully booked. You can order food and drinks right from your seat during the show which was very convenient. The show is not appropriate for kids as the humor and jokes are adult oriented. The cast was funny and clever.  Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Couples"
+    },
+    {
+      "title": "Hilarious",
+      "text": [
+        "Always have a good time. We saw \"Mission Possible\". There were a few skits that I think about and still giggle.  Most of them are better than the skits you see on Saturday Night Live. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "If I Could Throwback Time - I would see this show on repeat!",
+      "text": [
+        "Loved the Second City's 83rd review so much that I have already seen it twice, and I wouldn't mind seeing it again! The humour and quality of improv and writing was top notch - I loved how they blended comedy with relevant, timely topics such as climate change, problematic historical figures and our telling of history, and unbearably long hold times when you call Rogers ;) A great show for the open-minded!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "G King",
+      "text": [
+        "Fantastic night with great laughter, great servers and entertainers kept us laughing throughout the night"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Incredibly hilarious and talented performers!",
+      "text": [
+        "I recently saw two shows, If I could #Throwback time and The Second City Totally Likes you and both were absolutely hilarious.  I brought different groups each time and everyone laughed hysterically and raved about the show. Great service throughout the show. Definitely go if you're looking for a fun evening."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "A founder not recognized - shame on Andrew Alexander",
+      "text": [
+        "The Second City  staying in Toronto was the direct result of the investment of Sam Shopsowitz and Mitchell Gold.   James Patry partnered with me and then stole it from me with the compliance of Andy Alexander.   I have asked him to acknowledge my contribution by he refuses to do so - fearing I will sue him for what he had stolen from me.  I have said that I just wanted recognition for what I did.  He is a foolish man, keeping in the founding records James Patry  - and ignoring me who brought James to the table.  ANd James  still owes money to me as well as he never completed his commitment.  Unfortunately the lawyer who did the deal - George Ferguson QC never respected our agreement and signed a new one with Andrew not recognizing the fact that Moongold  Productions  Limited  the corporate entity that replaced our agreement  had no involvement of Mitchell Gold - he assumed Moongold was me and would not come to the table with the truth.  shame.   "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Lots of laughs, great acting!",
+      "text": [
+        "The cast is very talented , entertaining and their impromptu mixing with the audience was hilarious! Very enjoyable evening. ",
+        "Adults only, went with another couple. We did agree that the LGBT (lesbian) skits were a bit raunchy, and not needed? Not sure...Bottom line, it was great to have a lot of good laughs."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Laughing is contagious.",
+      "text": [
+        "From the most talented performers who take you, and your mind on a trip into the funny and comical world. With actions, song and skits you get to see up close these verse talent as you laugh. Their ability to delve deep into the humdrum of life with a new prospective. Truly magnificent . This is the reason we go, and take family and friends to Toronto so they can see what we see. Also, quoting clips of the show are funnier when shared with others who have seen it too.."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Couples"
+    },
+    {
+      "title": "Throw back to the 70s",
+      "text": [
+        "Great entertainment in a casual atmosphere.  Easy to order tickets online.  Staff for food and beverages were great and orders came quickly.  Can't wait to see another show."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "A must-see!",
+      "text": [
+        "Caught a show here whilst staying in Toronto for the weekend. The show itself was fantastic and the performers/ comedians were really on point with some great improv bits weaved beautifully into their script. The venue and service made this an all-round top notch night. Highly recommend getting front row seats if you can, meaning you can walk in and skip the line to be seated right away. Will go again when next in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Couples"
+    }
+  ]
+}

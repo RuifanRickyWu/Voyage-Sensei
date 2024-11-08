@@ -1,0 +1,370 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Ripley's Aquarium of Canada",
+    "url": "/Attraction_Review-g155019-d5031404-Reviews-Ripley_s_Aquarium_of_Canada-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "288 Bremner Boulevard",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 3L9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 20783
+    },
+    "openingHours": [
+      "Mo,Tu,We,Th,Sa,Su 09:00-21:00",
+      "Fr 09:00-23:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/8b/aa/f6/ripley-s-aquarium-of.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Aquariums"
+  ],
+  "description": "Explore the Waters of the World at Ripley's Aquarium of Canada. Located in the heart of downtown Toronto at the base of the CN Tower, the aquarium is Toronto's must-see attraction for tourists and locals of all ages. Immerse yourself in a world of 20,000 aquatic animals and discover your own underwater adventure. The Aquarium features North America’s longest underwater viewing tunnel with more than 5.7 million litres of water and over 100 interactive opportunities. Get up close and personal with several touch exhibits featuring horseshoe crabs, sharks, scarlet cleaner shrimp, and stingrays as well as daily dive shows every 2 hours. This awe-inspiring attraction consists of nine carefully curated galleries showcasing a cross section of saltwater and freshwater environments from around the world – starting with species from Toronto’s backyard, the Great Lakes basin.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Big fun for all ages",
+      "text": [
+        "Amazing place!! Don’t miss this as there are many fun surprises here. Each one better than the rest! Enjoy way more marine life you bargained for!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Average Aquarium",
+      "text": [
+        "I was underwhelmed with the experience here. They have most everything you would expect in an aquarium (lots of fish, turtles, amphibians, etc.) but I just kept wanting more. There is a nice automated path under a walk-under tank that moves at a nice slow pace for you to take everything in, but there's not really enough to look at to make that a necessity. After a bit, we just decided to hop off and walk the second half. And that's basically how I felt in the entire aquarium: it's fine but nothing special."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Brilliant Aquarium",
+      "text": [
+        "Brilliant experience. Possibly one of the best aquariums I have visited. Very clean and enjoyable walk around! Even though we visited as a couple, we were impressed with all the extras offered for families with children throughout the experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "A Pleasant Surprise!",
+      "text": [
+        "I was not sure what to expect, given the name.  However, I was surprised by the variety of aquatic animals here.  It was very crowded when we were there so expect lots of humanity.  I enjoyed the visit though!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Cool to visit once but never again",
+      "text": [
+        "It was an okay-ish experience. I'm not really a marine biology nerd so it wasn't as appealing to me. We did get to see some sharks and jellyfish which I thought was pretty cool. There was a HUGE variety of different fish you can look at.",
+        "I really did like the over all design of the place, especially this tunnel like place where the fishes swim over and around you. There was even a specific play area for children to play in which was pretty neat. The gift shop was huge and had a lot of beautiful decoration pieces you could buy. The only thing that ruined this experience for me was how overcrowded every single section was. There were times when you couldn't even see the fish because everyone was covering the glass window. It also became very hot and sticky because of how many people there were and this was on a weekday too. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Beautiful",
+      "text": [
+        "We had a fantastic visit to the acquarium.Amazing experience.beautiful views of different fish.really enjoyed the day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Awesome Aquarium",
+      "text": [
+        "Went here to “kill time” before an evening concert. Was pleasantly surprised how interesting and cool the experience was. Seniors discount available. Smooth entry, not too crowded on a Monday afternoon. Many,many fascinating displays, lots of interactive things for kids. Well worth the entry fee and a place worth seeing twice"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Would not recommend",
+      "text": [
+        "We’ve been to many aquariums and this was by far the worst. We did sharks after dark and arrived around 6pm but it was still absolutely packed with people and so many children. It was SO loud everywhere you went and there were so many people that it was difficult to even get decent views of the tanks. The shark tunnel was awesome but every other exhibit was mid and underwhelming. It’s also surprisingly short and extremely overpriced for $45+ a person"
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Ridley’s still brilliant",
+      "text": [
+        "One of the must see sights when visiting Toronto. Very well laid out with some great sea life. As schools were back and early in term the place was much quieter than we have ever experienced before. This made it even better to spend more time looking at all the exhibits and stroking the rays respectfully. What a great place this still is"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Simply the best aquarium to visit.",
+      "text": [
+        "By far one of the best aquarium we have visited. The layout with the displays flowed nicely.  So much to see with a huge variety. Lots of fun stuff for the kids to do. If visiting this area I highly would recommend going here. Loved seeing the seahorses and how they curl their tails around stuff when they sleep so they stay in the same spot. The sharks swimming over top of us was an amazing experience. Touching the sting rays was very cool. Reasonable prices for admission.  A wide variety of souvenirs. Will definitely come back to visit again. A new exhibit opening soon called the dragons. It was not open yet, but I would love to go back to see it. So much to see.  Definitely take you time to explore especially if you love water.  We went at night and it wasn’t overly busy. It was very relaxing and a fun enjoyable experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Save your money",
+      "text": [
+        "Crowded and overpriced. In and out in under an hour. Really geared more towards families with young children. Not enough staff if you want to ask about anything."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Very boring",
+      "text": [
+        "The Ripley’s Aquarium of Canada is certainly for young kids. I found the aquarium very boring and I felt very rushed. I got to the aquarium at 2:00 pm having not eaten lunch just to find out that the cafe was at the end of the walk through aquarium. The coolest part of the aquarium was the walk through tunnel with the moving sidewalk that took you underneath the sea life. At the end, there is a gift shop which was very overpriced to no surprise. At the exit, you get great views of the CN tower very close up."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Expensive and crowded tourist trap",
+      "text": [
+        "Don’t waste your money.  My wife loves aquariums so we went during a recent trip to Toronto.  We booked tickets for entry at a specific time, but there were so many people, it was nearly impossible to get a good look at much.  We were wedged in, shoulder to shoulder so tightly it was hard to move around.   The aquarium obviously sells way too many tickets given the space they have.  We couldn’t get out of there fast enough and felt resentful that we paid so much for a terrible experience."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Good aquarium but pricey",
+      "text": [
+        "Good quality aquarium",
+        "For quite expensive. You can buy a bundle ticket but need to do this days in advance and didn’t plan the week to that detail!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "A good time",
+      "text": [
+        "Really enjoyed our time here. You get to see a lot of the local aquatic life as well as many ocean creatures. The store at the end of the tour is even pretty awesome."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "It's the place to learn about domestic and exotic marine life.",
+      "text": [
+        "The Ripley's Aquarium is an excellent place to learn about marine life, and meet people with similar interests.  It takes roughly 2 to 3 hours to pass through the many exhibits in the aquarium.  I've seen Dory and Nemo in many places.  Recently, the Ray Bay closed briefly and reopened.  The Shipwrecks exhibit is fascinating, and there's now limited time to check it out, as it's last day is July 28, including crawling inside the Uluburun; you could see the ancient Egyptian and Greek artifacts both inside and outside of the boat."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Just Great",
+      "text": [
+        "Great experience and grandkids loved it!  Lots of different species to view. Stall was helpful and friendly. Petting Stingrays was a highlight for everyone.  Seeing sharks that close was great. Would gladly return."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Stingray Experience Well Worth It",
+      "text": [
+        "We did the stingray experience and it was SO WORTH IT. We got an hour long personalized behind the scenes tour, 30 minutes in the water with the stingrays, and time to shower and change, with included photos and bag and towel souvenirs, plus admission to the aquarium. Sam was an amazing guide and Todd was awesome with us in the water. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Overcrowded, Anxiety-Inducing, and Not Worth the Hassle",
+      "text": [
+        "One of the worst experiences I've ever had at a tourist attraction. It was so crowded people were pushing, it was hot and sweaty and smelled bad, and it was difficult to see in the various fish tanks. There were no staff in the main walkways and aquariums to talk to. There were literally thousands of people, many with large strollers, blocking the way. It doesn't make sense that they would let so many people in at once. I have no idea what capacity policy they have in place for the Aquarium but the number of people that were all squished in there when we were there should never be allowed in at the same time. It was an uncomfortable, anxiety-inducing, irritating experience. No fun at all. If there had been some sort of emergency, I'm not sure what would have happened. It felt unsafe. We bought \"timed\" tickets online, thinking that the Aquarium would limit the number of people at that particular time. They didn't. We didn't finish our tour of the tanks because it was too crowded. Instead, we headed back to the entrance to complain and get a refund. We were told that the place wasn't even at capacity! That boggles my mind.. my advice - don't bother going unless you go on a weekday out of season, and maybe don't even go then. Really not worth the hassle."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "A treasure trove of unique fish. Interesting!",
+      "text": [
+        "My first impression was that the fee was expensive, especially for children. Apart from that, it was truly a treasure trove of unique species that I did not even know existed.",
+        "We spent at least 2 hours looking around and enjoying the interactive parts. Our son was able to go in a tube so you could see the fish up close. It was really a well-organized aquarium. We enjoyed the creative displays and were educated along the way. Recommended."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Save your money",
+      "text": [
+        "Too crowded, not worth the money, so many people strollers making it difficult to enjoy the experience. If you like to push your way through crowds, then this is for you.  "
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Lovely aquarium and great for the family",
+      "text": [
+        "This aquarium is 1 of the best I've ever been too. The variety of aquatic species were vast and the tanks clean and large. The tunnel through the main tank has a moving conveyor belt you can stand on as you travel through. Loved seeing the turtles and getting to touch the sting rays. There is a small kids play area around the cafe which was nice. ",
+        "Tickets I bought were part of a combo ticket with the CN Tower which was next door. Saved you money if you are planning to do both."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "First time visit to Toronto, one of few places to see in downtown Toronto.",
+      "text": [
+        "Certainly a lot of fish to see here, and cool to see them all around and over you! Price of $50 entry is rather high for visitors, especially those with children at $37. But, it's one of those things to do when visiting Toronto!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Very good, but far too overcrowded",
+      "text": [
+        "I would have given this a 4 star very good rating had it not been for the sheer overcrowding inside. There were hundreds of school / children's camp groups and certain areas must have been right at capacity from a safety perspective.  It was busy enough to make the visit less enjoyable and slightly stressful.",
+        "That said, it did feel like the claim of 20,000 exotic sea and freshwater specimens from more than 450 species was correct, there was a lot to take in and wonder at.",
+        "The travelator was the obvious highlight, although it did stop half way around. It takes you through a vast tank and you can watch all kinds of fish, sharks and turtles swimming next to and above you. ",
+        "There were good choices at reasonable prices in the shop too. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Maybe better when it’s not peak season",
+      "text": [
+        "This place would be a 10/5 stars if they didn’t let so many people in at the same time. What is the point of buying for a time slot if they just let everyone in, anyways? You can’t see anything and everyone around is as miserable as you trying to navigate the crowds. Only reason for 2 stars: 1- for the potential it has if there was at less people. 2- the moving pathway through the aquarium under the sharks/rays is super cool and makes seeing the fish possible and my kids loved it!! Not worth the 180$. Assuming probably better when it’s not peak season. I don’t like leaving bad reviews and I consider myself a pretty patient person but between the farts, being nudged constantly and the fact that apparently no one wears deodorant, I really felt this time was warranted."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Excellent aquarium let down by greed (overcrowding) and poor labels",
+      "text": [
+        "I’ve been to many aquariums around the world and the quality of the displays and the fish / marine life at this one was excellent, HOWEVER, they let in way too many people at once so it is massively overcrowded.  I have never had so much difficulty finding my way through the crowds of people when visiting an aquarium!",
+        "They also use screens instead of physical labels to tell you what fish are in the exhibit.  That’s great, but it’s one or two fish at a time and the speed of change is either way too slow, or way too fast on some of the more busy information displays, for example the one at the pacific octopus.  If it wasn’t for the ridiculous overcrowding this might not be as bad, but there were also fish missing from the displays that we couldn’t identify.",
+        "With some small changes this really could be a first class experience."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Excellent set of exhibits",
+      "text": [
+        "The best giant Atlantic Octopus exhibits I've ever seen.  A good selection of Jelly Fish (but not as good as the Monterey CA aquarium exhibit).  The tunnels are the best that I've seen as well.  Certainly worth a repeat visit. This is adjacent to the CN Tower. Lots of activities for kids."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Great aquarium in Toronto",
+      "text": [
+        "Excellent aquarium.  Labelling could be a bit better.  Fish fabulous and you get to view them from all sorts of angles.  Particularly enjoyed the moving walkway."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Best Aquarium",
+      "text": [
+        "This is the best aquarium our family has ever visited. The Dangerous Lagoon is amazing, we went through it twice! There are also a lot of hands-on exhibits to keep small children engaged."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Believe it or not, this is a fabulous aquarium ",
+      "text": [
+        "The best aquarium in Ontario, and possibly Canada.",
+        "Fantastic selection of fish and aquatic animals to peruse at a leisurely pace. The highlight of your visit is almost guaranteed to be the moving walkway through an aquatic wonderland."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Fantastic Aquarium!!!!",
+      "text": [
+        "We love aquariums, and this is definately one of our favorites. ",
+        "WE lived in Seattle for a couple of years. And we would go to the aquarium there every month. ",
+        "This one is bigger, more organized, and it takes a good time to visit and enjoy.",
+        "We got the after hours ticket, so we could see the sharks.",
+        "It was worth it. Only down side.... it was CROWDED!!!!",
+        "Even so, the visit was great and we could see many different marine animals and even pet sting rays!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Must see in Toronto",
+      "text": [
+        "We decided to check out the aquarium while we were staying in Toronto. We were overly impressed with everything. There are a lot of cool things to see, including sharks, and you can touch the rays. We ended up spending about 2 hours there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Definitely recommend",
+      "text": [
+        "Absolutely fantastic aquarium. Really great layout and the moving walkway underneath the huge tank was a really cool feature. Very crowded but moved people through and was a nice array of creatures. Definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Great for fans of Sea Creatures",
+      "text": [
+        "If you are a fan of sea creatures - definite place to visit. Its a great experience seeing sharks swim on top of you when going through the shark tunnel and seeing sting rays. At the end you get the possibility of touching some sea creatures including sting rays. A place worth going once and a great opportunity to take kids too, although it tends to be very busy."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "OVERCROWDED!!!!",
+      "text": [
+        "There is ZERO use of the reserved time slots on their website when there is actually no cap on the time spent in the aquarium which leads to EXTREME OVERCROWD! Went with my husband and two kids yesterday (August 2024) and we left in 30mins. Kids could not see  nor enjoy the beauty of the aquarium because of the amount of people, the pushing, people blocking the view trying to take photos etc.",
+        "Management needs to cut its greed and implement a system that actually works so that people can have their money's worth!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Too crowded to fully appreciate the beauty - shame on the greedy management",
+      "text": [
+        "Too crowded! It actually felt dangerous at times in the more confined areas and I’m shocked that there isn’t a safety limit. Naturally, like me with my grandchildren, there were lots of families with little ones, strollers etc. Excited children wandering away, anxious parents because of the crowds and necessary low light - not great vibes!",
+        "Having said that the quality of the exhibits - when you could get close enough - was amazing. If I return I’ll try it on a week day as the frazzled mother I sat next to suggested!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Go for the tunnel, avoid if you hate crowds.",
+      "text": [
+        "My first impression was CROWDS. People and lines everywhere. Since we prebought tickets, we skipped the long outdoor line (phew). But then after getting checked in, we experienced crowds/lines throughout the whole thing. It took my family 1 hour to visit the aquarium because there was no way you were getting close to any exhibits. It was not a relaxing experience but the tunnel portion is what brought this to a 3 star from a 1 star. It was AMAZING. You are slowly taken through the tank on a conveyor belt so no one can block your view. Great variety of fish and very relaxing. Wish I could do that over and over. So be warned that there is an amazing portion (the tunnel) but the rest is a nightmare if crowds aren't your thing."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Fab experience on a rainy day!",
+      "text": [
+        "The aquarium is really enjoyable. There’s a huge range of sea life to enjoy and the staff were all professional and available for anything!",
+        "It rained all day on our first day in Toronto and this was a perfect way to spend half a day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Informative and entertaining",
+      "text": [
+        "The displays were great, we enjoyed it thoroughly even though it was very crowded. The online booking was quick and easy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "A dreadful day at the aquarium",
+      "text": [
+        "We had pre-booked for a visit to this location. In spite of that we still ended in a too long line-up before finally gaining access. Right from the get-go there were far too many people packed into the location and there was no place it did not thin out. I was there with my wife and grand children, the youngest being only nine years of age and I have to tell you she was afraid of the crazy crowds as well as the many strollers that were being pushed through the exhibit. We were unable to see most of the exhibits and my three grandkids decided they only wanted to get out of the place. Despite that we were only halfway through and had to continue to navigate the crowds, strollers etc. before finally getting to the souvenir store which was also packed with line-ups. There has to be a better way to organize the crowds to make it a better experience or is it just a case of collecting more money. We will no be back."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2024 • Family"
+    }
+  ]
+}

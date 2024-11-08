@@ -1,0 +1,394 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Lula Lounge",
+    "url": "/Attraction_Review-g155019-d1474556-Reviews-Lula_Lounge-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1585 Dundas St W ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6K 1T9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 79
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/78/d7/a7/international-stars-also.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Dance Clubs & Discos"
+  ],
+  "description": "For 16 years, Lula Lounge has distinguished itself as Toronto’s home for groundbreaking Latin, Jazz and World Music. Our audience reflects our programming - The crowd at Lula is one of the most diverse, friendly, and multi-generational and multi-ethnic crowds in the city, what ties them together is love of music, having a good time, drinking, dinning and dancing! Friday and Saturday night Lula presents the city's top Salsa bands, Djs and Dance Instructors. The friendly beginner's lesson is great way to break the ice, no partner necessary. Sunday through Thursday evening you can experience anything from Chamber Music to Blues, Spoken Word to Tuvan Throat Singers, South Asian to Jamaican, check out ww.lula.ca for the schedule!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great place, nice atmosphere",
+      "text": [
+        "My friend celebrated her birthday in August there and it was amazing. Beautiful music ( live bands), salsa lessons (Friday and Saturday ),delicious food and drinks ( specially love their Pina Coladas!), great staff!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Amazing! ",
+      "text": [
+        "My husband and I recently visited Lula’s while in Toronto for a couples getaway. We reserved a table for their Pre Fixe Dinner and Show package and absolutely enjoyed our time. The lesson was fun. The people we’re friendly. And while yes there are “ professionals” who have been going and dancing for quite some time showing off their moves, it did not intimidate us one bit to get out on the dance floor ourselves. And quite honestly we enjoyed watching the regulars while sitting down and catching our breath. Time honestly flew by! Our dinner reservation was for 7:30pm and next thing we knew it was 1am! We will definetly return! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "Dinner & dancing in a tropical atmosphere",
+      "text": [
+        "Fabulous atmosphere - feels like you are in a latino club back in the 50's with dinner and dancing. Waiting for Ricky Ricardo to show up......    The food was extremely good.  (Jerk chicken was yummy but pretty spicy, calamari were perfect, crab cake was delicious and desserts were a hit at our table.  8 people all enjoyed their meal.   Salsa dance lesson was great.   DJ music was fun;  the 12 pc band was FANTASTIC!    Dance floor very crowded.  Would be nicer to have a bit of room to dance.  All in all, a very fun, entertaining evening.    Waiters Julio and Lulu were both terrific!    Mostly filled with under 40 year olds, but any age fit in."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Poetry & Jazz Night",
+      "text": [
+        "One of the most exciting places to visit to take in a live music event!",
+        "Did I mention that they offer one of the best Mojito's (aside from Cuba)",
+        "I'd never been to this lounge before; however, it was where they held",
+        "The Poetry & Jazz Event that was benefiting Fight For Freedom!",
+        "An emotional night b'cuz it truly was a life-changing experience for me!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2019"
+    },
+    {
+      "title": "Won't be back",
+      "text": [
+        "Four of us attended an awesome concert buy Ray Montford. One of our party got a steak that was overcooked and couldn't eat it",
+        "Instead of offering to comp the meal which is what should have happened the manager Nicole argued with our party for about 10 minutes and finally she took this meal off the bill. The food is way overpriced and the service was terrible we waited 20 minutes after ordering our drinks before they came back to take our meal order.the concert was fantastic but unfortunately we will never go back to this restaurant."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Great night of dinner and dancing. ",
+      "text": [
+        "Such a fun place. We had a good dinner. They have a beginner dance class first. Then a mix of DJ and a really good (and big) live band. Fun trying to salsa. Also liked they also play other types of dance music in between.  Would be a lot of fun with a group!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "So much fun at Lula!!!",
+      "text": [
+        "Lula Lounge is fabulous. I have been to Salsa Saturday twice recently, once with my husband for birthday dinner and dancing, and once with my girlfriends for a fun night out. I had an amazing time both times! Such fantastic music; dancing to their live bands is such a treat and so much fun. The staff at Lula are wonderful, always working hard to make sure everyone has a good time. I want to especially mention Sara and Melany in the coat check who were lovely and very helpful, and kept our stuff safe and secure so we could dance and not worry about anything! The wait staff and bartenders are also super, and their margaritas are my favourite in the city! My ONLY criticism is that the break between band sets feels very long, although the DJ certainly kept us all dancing during that time.  ",
+        "I definitely recommend Lula Lounge for a great night out! :-)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Great Venue, Weak Food",
+      "text": [
+        "Amazing ambiance, excellent music (great sound system) lovely servers.  Went for Valentine's Day and couldn't ask for a more romantic setting.",
+        "The prix fixe menu was $60 per person plus drinks, which you pay in advance.  ",
+        "The drink special my wife ordered was a French martini which was excellent.  I ordered a Mojito which was not great.  No balance to the flavours, just rum taste. Shouldn't this be a signature drink given the venue's theme?",
+        "Aside from the chips and dip (lovely house-made salsa, guac and bean dip) the rest of the meal was extremely disappointing.  Though jerk chicken appeared on the menu, the kitchen sent word they were out of chicken.  On Valentine's Day you're not fully stocked?",
+        "We opted for the salmon instead (the beef option was an additional $11!).  It was undercooked and rubbery.  Side veggies were passable, rice not very warm.  Neither my wife nor I finished our meal.  ",
+        "We had selected the espresso chocolate cake for dessert.  It was very basic, and went unfinished as well.",
+        "For such an interesting and attractive venue (even the washrooms were nice - yes, decent washrooms south of Bloor!) I can't fathom why you wouldn't put together a better dining experience.  In total, this was a $200 bill.  I can think of many amazing meals to be had in Toronto for that amount.  ",
+        "I would visit again for a concert but not to eat.  With such a gem of a setting, I hope they improve the kitchen offerings and do it right."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Loving Lula",
+      "text": [
+        "If your visiting TORONTO and looking for a great night of food and live entertainment check out Lula Lounge. Check out who is playing and reserve a seat for a great meal and be ready for a night of dining and dancing. A group of 8 of us just spent a great evening at Lula Lounge listening to ‘At Last’ at tribute to Etta James. Other nights arrive early for some dance lessons then dance the night away to Latin rhythms. Fun and affordable"
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2019 • Couples"
+    },
+    {
+      "title": "exceptional food and entertainment",
+      "text": [
+        "Fantastic bands, entertainers. Very busy but with a grand atmosphere. The cocktails were really good. Wonderful tapas and meat dishes. The dancing I will remember the most. Dancing to live music among others. Fantastic."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Couples"
+    },
+    {
+      "title": "What a Salsa Saturday night",
+      "text": [
+        "Visited with friends thruly enjoy the music and the food. Ordered from the 3 course prefix menu two out of three wasn't bad, I had the soup of the day and the Salmon which was good but the desert was a little dry I had chocolate cake.",
+        "Dancing lesson and dancing was great band was a little hard to hear from where we were sitting."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2017"
+    },
+    {
+      "title": "Bachelorette party",
+      "text": [
+        "The menu and food is OK, the ambience is great. The crowd is young and old, very nice music and great live band. I went there for a friend's bachelorette party and took part of the salsa dance lessons which was great. I enjoyed myself."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "Dinner and Dancing",
+      "text": [
+        "The place is the same as 12 years ago. But the music was great with live band and dancers. It was a little long time between two performances, but for the young generation was OK with DJ-ed songs. We wanted more live.",
+        "Dinner was right for the three course meal price, but for our surprise at 9:00PM there was no more fish and smth else.",
+        "Anyway the overall stay was a lot of fun and joy.",
+        "Be careful with reservation because the conception of VIP Lounge and the Lunge will be interpreted at the manager's discretion if you do not find the place of your original reservation."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Anyone for night of Salsa dancing?",
+      "text": [
+        "My first time at Lula Lounge and it was fun! I don't Salsa but that didn't matter. We started the evening with dinner at Lula. The food was great. For $54 you get a 3 course meal and the choices and portions were perfect. At 9pm there was a group Salsa lesson on the dance floor. Perfect for those of us who have never Salsa'd before. It was great fun and the floor was full. The remainder of the evening had live music, drinking wonderful cocktails and great friends. I highly recommend it for any occasion. BUT if you are interested in dinner and making a night of it, MAKE RESERVATIONS! When we left there was a line up at the door and after 8 don't expect a table anytime soon."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Friends"
+    },
+    {
+      "title": "Birthday ",
+      "text": [
+        "Very nice place😍the music was very Cuban & the people enjoy the dance lesson, except the place get to crowded ..."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Couples"
+    },
+    {
+      "title": "Dinner and Dancing",
+      "text": [
+        "If it's your birthday they sing and call your name. On entry you are seated by the waitstaff. The brunch was buffet style and then dancing lessons were given while Cuban musicians played. Simply delightful."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016"
+    },
+    {
+      "title": "Poor Service",
+      "text": [
+        "Not even worth a 1 star rating. Service is crappie.  Waited 4hrs for a table and then was told the kitchen closes as midnight not sure if we would be able to order a meal. That was the only reason we wanted a table. The hostess shows  preferential treatment and  not going according to her list and when you ask about your table she finds an excuse.  If you go there be prepared to stand all night and be hungry.  That was my first and final visit.  Poor customer service."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2016 • Friends"
+    },
+    {
+      "title": "Patsy Cline's Birthday Tribute",
+      "text": [
+        "Awesome atmosphere, good service and wonderful entertainers celebrated Patsy Cline's birthday in song and costume!  Amazing band!  Word has gotten out so the dance floor was filled with tables....not sure how I feel about that as many in the crowd squeezed in spots to move to the tunes.  Book early is all I can say."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016 • Friends"
+    },
+    {
+      "title": "Dancing",
+      "text": [
+        "A wonderful atmosphere with kind staff. The music was like being on a beach in the Caribbean. There was a live band and DJ between sets. The ratio of men to women was off. (About 9 women to 1 man and mostly couples. This has no effect on rating just an observation)",
+        "Bathrooms are your typical bar bathroom. Easy to find and lots of parking on the street if you get there a little early. We did not eat there but saw the food: it smelled and looked delicious!! A great place to be for some Latin beats! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016"
+    },
+    {
+      "title": "MUST go for the Best burrito and salsa dancing!",
+      "text": [
+        "Seriously the best Cuban food from my American opinion. The jerk chicken burrito was literally the best I have ever eaten in my life, as well as the dessert of the Torta de Tres Leches. The 3 course dinner and salsa dance lesson was well worth the price. Live music played during dinner. Only critique was that the dance instructor was hard to see due to being on the floor too and the entire restaurant taking the class. Wish she was standing on a platform to better see her salsa steps. Great place for a Bachelorette party! Overall, a great time with awesome food and dancing!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Mistreated",
+      "text": [
+        "I was treated badly by the waiter,",
+        "when the house filled",
+        "He brought me the bill before I asked,   ",
+        "and he kept pushing me off the table.",
+        "I asked for the menu,  but he just wanted me to give him my credit card.",
+        "The house is great,    but this case has to be checked.",
+        "so as not to happen again with another person."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2017 • Couples"
+    },
+    {
+      "title": "The best place to visit in Toronto ",
+      "text": [
+        "We highly recommend  Lula Lounge,the best multicultural place in Toronto.They make sure you have a wonderful experience,food,live music with one of the best local or international musicians,dance and over all energy is just a bless."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Good for music bad for food",
+      "text": [
+        "too pricey for what you get. It cost $70 for dinner pakege per person and the food and the band is not worth nearly tha mush. Also the service is horrible I waited 45 minutes for drinks in the table after paying dinner pakege.",
+        "We were 5 couples and we all were disappointed.",
+        "The music is good, $15 to get in and ladys don't pay before 10:00 pm"
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "bad service",
+      "text": [
+        "Bad service, it takes for ever to get orders and to pricey for what you get. if you will like to go for the salsa, I advice you to go to a good restaurant for mush less and go there after. just for you to have an idea, a couple dinner package pay $188 after adding 2 coffees and to bottles of perrier water."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "Great fun",
+      "text": [
+        "Well some how some suggested it, no uber to far and we were in the spot. It was sold to be as Latino salsa, but I read it may be a Turkish place anyway that is. Aside the point. We had a large table be hind glass which helps with the volume but keeps you in show really. Live stand up 12 piece Latin band, very fun to watch and participate in. So to break it down for you the staff was nice, I bit over run with people, the drinks were good and strong, so the good didn't come out till the 5th tequila so really everything I had tasted fantastic. Well worth the 15 min ride into actually a really cool",
+        "Part of town I would not have know about.",
+        "Thank you."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Interesting place...",
+      "text": [
+        "I've never been in this place. It has a different ambiance; between a dance venue and bar/restaurant. I've been there for a release of a Turkish-Canadian singer's cd; Zeynep Ozbilen. Even though we've purchased out admission tickets earlier on the net, no one has even asked what would we like to do: Be ay the bar, have drinks at the table, etc... I enjoyed the music 🎶, as our primary objective to be there, but it's unlikely that I visit again unless there a specific venue... just a note; beer price was a bit pricy for the neighborhood. "
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "Go for the music, not for the food.",
+      "text": [
+        "Excellent spot for seeing live music, as the venue is not too large.  Tables on each side and a large main floor for standing only.  Disappointed in the food though.  The nachos chips appetizer were tasteless and one of the tips was a chipotle mayo vrs salsa,  yet there was salsa on the burrito. The chicken wings were excellent.  The pork burrito was good for the most part except when it tasted like it was reheated pork.  Service was attentive but the door staff were rude,  with my wife saying good night and they could not muster a thank you or acknowledgement.  A good thing the music act was good!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2017 • Couples"
+    },
+    {
+      "title": "Our Second Time Just as Great as Our First!",
+      "text": [
+        "We went to Lula for the dinner/dance package on Saturday evening because we knew it would be a live Latin band and you can't beat a 12 piece latin band live.  It's just so energetic!   The 3 course meal that comes with the package is outstanding and there is plenty of menu items to choose from.  We had 8 people celebrating with us that night and I have to say that I don't do this often, but we'd like to make a shout out to our waiter, TODD!  He was unbelievably hilarious, on the ball at all times, and he put up with our shenanigans all night long.  We had a blast with him and a great time all around.  It's a place we will definitely go back to time and time again.  We are in our late 30s, but there are people in their late teens all the way to their 60s/70s!  Can't wait for another night like this!  Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Friends"
+    },
+    {
+      "title": "Cool Neo Soul Concert",
+      "text": [
+        "It was our last night in Toronto, and after a fabulous stay we wanted to end with a little music...our guests were partial to Latin jazz, and this was one of the first places which popped up.  Well no Latin jazz that night, but the concert was fantastic with all kinds of tributes to neo soul classic artists like Jill Scott, Lauren Hill, De'Angelo, Musiq Soulchild and others--I love it.  Unfortunately the kitchen was closed when we arrived, but our waiter recommended a delightful restaurant up the street--what a great recommendation.  We will come back--next time, for Latin Jazz!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2017"
+    },
+    {
+      "title": "Love the food and atmosphere!",
+      "text": [
+        "We had a reservation for 7 on a Saturday. It was quiet when we showed up, our server was great, explained everything and got us drinks right away. We ordered all 3 courses at once and everything came really quick. There was a gap between our meals and dessert which we really appreciated! My husband and I both had the jerk chicken burritos which were delicious! ",
+        "It definitely starts to pick up after 8. By the time the salsa lessons started, it was pretty packed. The couple doing the salsa lessons were great! My husband and I had a great time learning how to salsa. The floor gets pretty cramped which makes it difficult not to run into other people but for free lessons, can't complain!",
+        "Only downside for us is the band was extremely loud but it's not a huge deal when your dancing!",
+        "Definitely go here if you want to try something new or if you like salsa!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017"
+    },
+    {
+      "title": "NYE 2019! 🎉💃",
+      "text": [
+        "My boyfriend and I went to Lula Lounge for NYE. It was an incredible night filled with live music, drinks, dance lessons, a professional dance performance, and a 4-course dinner. I would highly recommend this event to anyone looking for a well-planned, fun, and indoors NYE celebration! We enjoyed our night and Lula Lounge executed the activity and meal planning well. I could tell that the crowd was having a great time, it was lively, and it was packed around 9 PM. Most people stayed to enjoy the meal and dancing from 6:30 PM - 1:30 AM. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2019 • Couples"
+    },
+    {
+      "title": "Great ambiance and decor...and those wings!!",
+      "text": [
+        "Went there on a Tuesday with my son to see Kandle perform. This restaurant has a great layout and decor. Only a snack menu was offered due to the concert but there were many great options. Or, I assume they were great because the ones we ordered were.",
+        "We had a couple different drinks each which were well made, tasty and not short on liquor. ",
+        "Besides the amazing performance by Kandle the wings and accompanying hot sauce  were the standout. The sauce is an in house creation and is exceptionally good.",
+        "We also had the 3 dip and chip platter which was also very tasty.",
+        "Now that we know about Lula Lounge we will be sure to go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "dancing and food",
+      "text": [
+        "love this place, great place to dance the night away and have a blast. I would recommend this place to anyone who wants to get out there and salsa. Food is ok as well. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Great music...but who knew the food was good too!? ",
+      "text": [
+        "I have been to Lula Lounge a few times before so knew the atmosphere was fun, colourful and cozy. It had been a while though, so couldn't remember what the food was like.",
+        "I needed to pick a place to celebrate a friend's birthday and as she likes to dance in a comfortable but not a club atmosphere, I thought Lula would suit.",
+        "It was perfect. Olga in the office is sweet, helpful and patient.",
+        "We went for dinner too, as you then get to keep your table for the entire evening.",
+        "It was totally worth it. Every single one of us raved about what we ate. The quality was excellent.",
+        "There are not too many tables so they can make delicious food whereas if it was a bigger venue the food might be disappointing.",
+        "I recommend it. Eat, drink, dance...and when you are ready for a break, sit at the table and watch the people dance.",
+        "The music is great too. And the DJ played a mix of music that was not all Latin. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Amazing venue but food could be better!",
+      "text": [
+        "I just attended a yearly benefit at the Lulu Lounge! I was there 2 years ago and the food was amazing!  I am gluten free and lactose intolerant and a foodie so I am not your average patron! However I did bring other people with me that can eat anything on the menu! The offerings are slim and with the new prices of food this was not a cheap dinner! Most in my party ordered the same meal as the other alternative meal we were told is too spicy! The Vegetarian Red Pepper Tamales did not taste like tamales at all. It was like glue! The guacamole tasted old and they also added quinoa! You already had a starch why not add a salad with that? Perhaps they should rethink their menu! It could be fabulous as was the event!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "Best Party In Toronto",
+      "text": [
+        "Toronto has many great clubs for live music but I can't think of a place with more energy and style than Lula Lounge. The friendly staff work super fast...the sound is brilliant and the menu changes seasonally. In the past year or so, they've literally raised the roof, put in new bathrooms and repainted. I attend countless concerts there every year and have produced and hosted events at Lula as well. There's no place like home!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "friday night the best",
+      "text": [
+        "nice place where to enjoy cuban salsa live on friday night after 11pm",
+        "been here several times with friends, strongly recommended if you want to enjoy the latino american beat. always nice people, security and if you reserve a table before10 you can enjoy the live music for free.",
+        "good for drinks but also restaurant."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "Best live music and vibe",
+      "text": [
+        "Best place around for great musicians and best Latin music.  Food is ok but it's not what you go for.  All kinds of people go to dance here and the ambience is all about fun. ",
+        " "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "This is the place to learn to dance Salsa and have good food!!",
+      "text": [
+        "We went for the New Year celebration and we just loved it, the salsa clases are for everyone, the music is mostly Latin so you can practice your moves all night, the food is amazing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Couples"
+    },
+    {
+      "title": "So much fun!!",
+      "text": [
+        "I've only been here once as I was visiting the city- and it was SO much fun.  I went with my boyfriend who loves to latin dance.  I was nervous as we had taken lessons 4-5 times prior to this and I was feeling intimidated.  But don't.  There is a lesson and there is a wide variety of dancers.  I enjoyed watching some couples who clearly have been dancing for awhile and others who definitely had two left feet but I think we all had a lot of fun listening to the music.  And the band was amazing.  The energy was electric.  ",
+        "A really really good time, thank you Lula Lounge for a fun night out in the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Couples"
+    }
+  ]
+}

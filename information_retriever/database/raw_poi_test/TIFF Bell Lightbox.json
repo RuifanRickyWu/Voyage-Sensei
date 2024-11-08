@@ -1,0 +1,366 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "TIFF Bell Lightbox",
+    "url": "/Attraction_Review-g155019-d3319947-Reviews-TIFF_Bell_Lightbox-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "350 King St W",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 3X5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 204
+    },
+    "openingHours": "Mo-Su 09:00-23:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d3/14/4f/tiff-bell-lightbox-is.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Theaters"
+  ],
+  "description": "The essential space for film lovers in Toronto and around the world. As Canada's premiere home of cinema, TIFF offers screenings, lectures, discussions, festivals, workshops, events, professional development and opportunities to meet, hear and learn from filmmakers from Canada and around the world.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "TIFF HAS THE MOST UNCARING AND UNACCEPTABLE CUSTOMER SERVICE,",
+      "text": [
+        "Not being able to book tickets with my membership and after 20 minutes on hold I got a terribly uncaring customer service agent. When she said this problem, which they were aware of, was solved, and it wasn't, I asked for it to be elevated. She refused, refused to give me any sort of ID number or name so when elevated I could say who I talked to, and hung up on me. SHE FIGURED HER SUPERVISORS WOULD CARE EVEN LESS ABOUT TIFF MEMBERS THAN HER."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "TIFF Lightbox is a Toronto treasure.",
+      "text": [
+        "We are so lucky to have TIFF Lightbox in Toronto. The theatres are fabulous and they show amazing films. Both restaurants serve great food and drinks. This is becoming our go to place for an early evening out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Friends"
+    },
+    {
+      "title": "Great film selection",
+      "text": [
+        "Unique setting with excellent film choices that often do not show in larger theatres. Venue consists of several small theatres, comfortable seats, building was built specifically for this purpose. There is always something good showing and also run some excellent series."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Good night out",
+      "text": [
+        "Came here for a special event. Had general seating but was glad we were able to sit in the balcony. Would definitely come back."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Unusual movie screenings",
+      "text": [
+        "Beautiful, comfortable theatre seating for films.  More like a concert hall experience.  The movie chosen of course makes a difference."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "TIFF Festival",
+      "text": [
+        "I just wish I had gone when I was younger, but then I would not have been able to afford it.  We flew in from the US.  I have wanted to go to TIFF for 10 years.  Finally, just said, let's go.  Had to review summaries of lots of movies before deciding which tickets to buy.  Bought a diverse group of movies (including one series of shorts).  We did good with our choices.  The best part was hearing from the producers, starts, screen writers, etc. before and after the movies.  And it was great to see Toronto, we had a wonderful time.  I say it would be better to go when younger, because I am 60 now and while still very mobile, I hate standing in lines and waiting, and we did that for all 10 movies we saw.  Very long lines as people come earlier so they can get good seats (all our theaters but one were general admission), and so they can get close to the movie stars.  Also after one movie is done you had to race to another theater and sometimes use a cab.  We got a hotel in the middle of the theaters, but that is downtown and expensive.  Could have probably gotten a cheaper hotel, but I wanted something nice, but still paid a lot. Still as I say I am glad I went, very glad to see Toronto, glad for the experience, but probably a once in a lifetime thing. Still I sat by a lady a lot older than me that was staying the whole 10 days and was seeing 47 movies.  Toronto felt safe and TIFF had a nice store and around the TIFF building were lots of interesting experiences and red carpet areas. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Great time!",
+      "text": [
+        "Good vibes!!!. ",
+        "People from all walks of life sharing the passion for movies, for food, for a lot of things.",
+        "The best part, just by chance I met Antonio Banderas, what a fantastic actor and very nice person!!!",
+        "Don't miss the opportunity to feel those good vibes!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019 • Family"
+    },
+    {
+      "title": "Great venue for film!",
+      "text": [
+        "Leave some time for movie night and enjoy dinner! Great spots to eat right on site one spot is casual and the other spot upstairs a bit more formal! Luv the venue! Very clean, modern and friendly staff!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "World Cinema in a Bold Building",
+      "text": [
+        "Lose yourself in the movies applies in this specially built modern temple to cinema. Box office easily located. Friendly staff.   Restaurants with better best category food and bar selection  inside. Movies that you will not find at the major cinemas on many levels. Event space and film library onsite. Great location in the Entertainment District. Try a Sunday morning movie - just because you can at this place.  A Toronto gem."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "Website that constantly crashes",
+      "text": [
+        "The Toronto Film festival has a website that constantly crashes and even though the films are first rate they have priced the films out of most peoples budget!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Older movies for $14",
+      "text": [
+        "Nice building with 5 floors and a gift shop. They have some of the older classic movies for $14. I didn’t get to see a movie. I just wandered into this building. It’s a nice modern style building. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2018 • Couples"
+    },
+    {
+      "title": "God’s Own Country! ",
+      "text": [
+        "I came here on a Thursday afternoon after eating at Banh Mi Boyz nearby. I parked on Camden Street and had to pay $6 for parking. I came to watch God’s Own Country. While studying in Detroit, I kept asking the distributor and official social media accounts of the film to bring the film to Detroit, but to no avail. But then, I remembered that I was gonna go home to Oakville for the US Thanksgiving break & could watch God’s Own Country at the TIFF Bell Lightbox in Toronto! I was so elated at this revelation! It was about 45 minutes to get to Toronto as there was traffic. Finding parking was a pain as I watched to park for free but relented and paid for it. I came on the last day the theater was showing the film. Students get a discount! The box office was on the first floor right up front. The various theaters are upstairs. My Theater was Theater 5 and was on the third floor. I was surprised at how small the auditorium was as this venue is a part of the annual Toronto Film Festival. The chairs were comfortable and the temperature was nice (not too cold and not too warm). The picture and sound quality were good too! The movie was very good! Although the heavy British accents made it hard for me to decipher some of the words being spoken (interesting that I found the Romanian’s English to be more understandable than the British’s), the movie was touching & engaging! Not as good as Call Me By Your Name or Brokeback Mountain, but still good and worth the long drive and parking pain. Hopefully, the next time I come here, it will be during the Toronto International Film Festival! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2017"
+    },
+    {
+      "title": "Nice space, but so badly run!",
+      "text": [
+        "Went for a non-festival showing... The theatre itself was fine, comfortable seats, good sound, etc. But everything else was a mess! Bought tickets on line. Website terrible. No explanation of how to download to phone. Site said to arrive an hour in advance, but at the theatre we were told that was wrong, we could have arrived any time. Complete lack of signage on the ground floor as to which theatre was for our film, where ticket-holders should wait, etc."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2017 • Friends"
+    },
+    {
+      "title": "What A Terrific Place To Hold A Wedding",
+      "text": [
+        "This venue on the sixth floor of TIFF Bell Lightbox is an excellent place to hold a special event such as a wedding. The service was terrific. The food was wonderful. The entire experience was one of a kind. We had a great time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Friends"
+    },
+    {
+      "title": "TIFF is here...place to be",
+      "text": [
+        "My family and I enjoy every aspect of TIFF and The Bell Lightbox is part of that experience. Too bad it cannot go on all year long."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "Toronto International Film Festival",
+      "text": [
+        "TIFF Lightbox is a great place to see a film anytime and even better when TIFF is on. Comfortable seating, good selection of snacks, all seats provide good view - I love it! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "The Toronto International Film Festival What a disappointment! ",
+      "text": [
+        "For the second year in a row we bought Tiff packages. The website is a disgrace and the organization is pathetic with long line ups taking over an hour to get into the cinema. Since seating is not reserved it is a mad scramble for seats. I cannot understand the appeal and I will not subject myself to this disaster of an event ever again. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "Nice venue for art/foreign film festival experience  . . .staff needs to lighten up",
+      "text": [
+        "My preference for seeing films are at arthouse theaters , like the ArcLight and Laemmle in Southern California. I was hoping for a positive experience for my second visit to the TIFF Bell Lightbox. The venue is lovely and  expansive with a nice bar area to have drinks before your film.  The theaters are large and well - maintained. Glad commercial advertising hasn't crept in here before the film, but also feel they could use the space for better self-promotion. Concession stand could be improved. Pepsi products . . .blecch! when I asked about whether there were \"combo\" option with drink and popcorn it elicited a snarky expression of the person who was taking his job too seriously. My only other negative is the welcoming helpful Canadian attitude found elsewhere wasn't terribly evident here."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Digispace ",
+      "text": [
+        "It was a great visit, lots to do for the",
+        "Kids, pretty amazing technology as usual. The only downside was the amount of people in there and the huge line ups. We got tickets for  2:30PM and were not allowed to go in until3:10PM Once inside, we found it way too crowded."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2017 • Family"
+    },
+    {
+      "title": "Wonderful venue ",
+      "text": [
+        "This is a place that shows a wide variety of films in a variety of languages. You can see things there that you cannot see anywhere else. They host events like the Toronto Film Festival. The theatre is modern and clean and nice seats. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "See indie and art films that you can't see at the movie chains",
+      "text": [
+        "Tired of the handful of movies that you can see at the major chain theatres? Want to see something new and different, maybe indie and art films or documentaries, but also want modern, comfortable seating and first-class projection/sound technology? The TIFF Bell Lightbox is for you. Fabulous building with several cinemas of different sizes, and all run by a charitable organization, so your money goes to supporting film in Canada."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Solo"
+    },
+    {
+      "title": "Get off the beaten path",
+      "text": [
+        "If you're tired of the same old set of movies at your local Plex theater then take a road less traveled with Bell TIFF Lightbox.  Truly unique films that remind you moving making can still be an art and not just a \"bums in seats\" business"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2017"
+    },
+    {
+      "title": "Adore this legendary building so much!!",
+      "text": [
+        "Dear travellers, everybody knows TIFF in Toronto because TIFF is bringing the name of \"Toronto\" always. TIFF makes Toronto so famous and so loved especially by film industry people. Well I am movie reviewer in IMDB since 2015 thats why my very first list in Toronto was going to TIFF Bell Lightbox Building. One month before I ask permission on the email for this free visit and the staffs welcome me in very nice gesture and words. TIFF is my home. I visited TIFF twice, in the night where I have dinner in TIFF Canteen and in the morning on my way before watching Hailee Steinfeld concert in Budweiser Stage. TIFF is both beautiful and iconic both in the night or daylight. But because I was alone so I have to ask other people to take photos of me. Many ways I do selfie but this is TIFF and I want to look beautiful. In TIFF Canteen there are several choices and I ate the Burger grill with price 40 CAD including drink, that is the most popular dish. French fries are so large so I could took them away to home. I want to comeback again to TIFF one day as an invited person in film industry. Amen!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "Great Way to see Art House films",
+      "text": [
+        "I visited the Lightbox to watch the films nominated in the documentary section of the Oscars.    It was a great experience; saw all the films in the category in the large comfortable theatre.    Also had lunch beforehand in the restaurant on the main floor which was delicious."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018"
+    },
+    {
+      "title": "DigiPlay Space fun outing",
+      "text": [
+        "Came with a baby, a friend, and a 5-year old. 5-year old loved it! (She is patient and into experiments and mastering things) Her favourite part was the aquarium of fish you can make. Baby was amused and curious, in her carrier (NB no strollers allowed - use free stroller check). We were fortunate that it was not at all crowded. Lots of lovely staff eager to demonstrate or help us get the most from areas like the Green Screen. It might be less enjoyable if we had to wait in lines, and sound-based activities would not work as well if there's a noisy crowd. But I'm not sure it gets super packed, as visitors only stay about 90 minutes.  The adults enjoyed it too. TIFF has handy spots for food/drinks after."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2018 • Family"
+    },
+    {
+      "title": "Cool theatre for film festivals",
+      "text": [
+        "My husband and I came for the Toronto Irish Film Festival, and we had a lot of fun. The seats are very comfortable! I think the ticket prices are a little too expensive, but I still enjoyed the films."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018 • Couples"
+    },
+    {
+      "title": "A little pricey, but a rare treat for film lovers",
+      "text": [
+        "This place runs off the main stream films throughout the year.  March is Oscar theme.  Many of the nominated films in the \"off-beat\" categories are run (foreign language, documentaries, shorts etc.)  There is an O&B canteen (restaurant) on the main floor and a bar on the movie theatre floors.  There are snack concession stands for traditional movie munchies. This is a multi-plex venue. Often there is an interactive display about film making or a historic movie genre.  Theatres are clean, with comfortable seating, you can enjoy a beer in your seat. Theatre goers are film buffs and are respectful of the film being shown.  Movies are not cheap at $14 and surcharges to $17 for special film types (70mm etc.)"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018 • Couples"
+    },
+    {
+      "title": "Dinner and show",
+      "text": [
+        "Very good food. Beef tartar is delicious. Very good service. Deserts are delicious as well.",
+        "Very pleasant atmosphere and good start for a nice night out."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017"
+    },
+    {
+      "title": "Digital Play space was awesome!",
+      "text": [
+        "Took the kids here for family day, as they had the digital place space. It was awesome! Very interactive, and both of my kids, ages 4 and 8 had a blast! All of the activities were interactive and unique...definitely coming back when this 'space' is set up again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Family"
+    },
+    {
+      "title": "Great venue",
+      "text": [
+        "I love this place! Seats are comfy, lots of legroom and very clean.",
+        "I am a Tiff member and I love that I can watch a movie with my friends or watch a movie here while the fam watches a Mirvish show or Raptors game nearby.",
+        "The washrooms are large, clean and tidy and there are 2 restaurants within the building: Luma on the 2nd floor and O&B Canteen on main floor. Unfortunately the restaurants in the building don’t offer a discount with your tiff card.",
+        "There are cool places/lounges has n the upper floors that can be rented for events and a nice lounge for members to relax in.",
+        "They offer lots of cool programming throughout the year with celebrity/director/author/chef talk backs. ",
+        "Last year we attended a show in the Food in Film series and there was food before the movie and a chef talkback after.....very fun.",
+        "Lots of other restaurants just outside so many meal options pre or post show!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Solo"
+    },
+    {
+      "title": "Nice movie theater in downtown Toronto",
+      "text": [
+        "This theater often shows more independent films than the usual blockbusters or superhero sequels.  It's got a few different theaters and they generally all offer comfortable seating with good sight-lines. The screens are not as big as some other theaters and the sounds systems don't match the mainstream theaters, but the chance to watch some really great films that you wont see at your neighborhood multi-plexes more than offsets these minor inconveniences."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Luna at TIFF",
+      "text": [
+        "Great dinner with Buck a Shuck oysters!",
+        "Order a bottle of wine and get buck a shuck oysters. We ordered 24 oysters, fries and edamame. Excellent service except for front desk people when we were first ignored then tried to give us inferior table. Kevin gave us great service. Still, highly recommended if you’re seeing a TIFF or Hot Docs movie."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Fantastic movie theather",
+      "text": [
+        "Best program; amazing set of films every night. NIce and friendy crew at the desk. Only part thats on the downside is the chears, they realy need to be replaced, they seem to have been around for a long time. Not very confortable and  no longer clean and neat."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "A simply must-see wonderful place in Downtown Toronto",
+      "text": [
+        "If you’re a film buff, or just like a good movie every now and then, this is the place. They have several theatres, a good restaurant, a store ( with lots of film-themed gifts and film books) and a lounge bar upstairs, where you can relax and have a drink and snack before or after a movie. The place just buzzes. And they show rare and classic films, as well as independent contemporary films and just about everything else. Enjoy this fabulous film centre at King and John St and come back for the BIG international annual film fest in September and see multiple world premieres of some of the very best films being made today. If you’re local, become a member, get a discount on tickets and in the store, get access to the membership lounge and invites to member-events."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Friends"
+    },
+    {
+      "title": "Went Christmas day to see a screeening of a Japanese movie",
+      "text": [
+        "Easy on-line ordering of tickets. Theatre seating was good. Do not order butter on your popcorn. Not sure what is used, but it did not taste like real butter. Very chemical taste."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018 • Family"
+    },
+    {
+      "title": "well organized and great movies",
+      "text": [
+        "the choice of movies and documentaries and the openness to multicultural experiences, makes any visit a great one.  the support personnel might be bossy at times"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018"
+    },
+    {
+      "title": "Great venue",
+      "text": [
+        "Went to see ROMA...intimate theatre...awesome surround sound...comfortable seats... great concession selections...overall a wonderful movie experience!",
+        "Wonderful restaurant!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Family"
+    },
+    {
+      "title": "Nice venue",
+      "text": [
+        "Enjoyed seeing the Canadian documentary Anthropocene at this venue. Very comfortable seats, good acoustics. Pleasant areas to lounge and have a drink upstairs and another restaurant on the main level. Excellent crowd control. The documentary itself was a humbling experience as we examine the impact of human progress(?) on our planet and our spot in geological time. A real eye opener. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Intimate Movie Theatre",
+      "text": [
+        "We went here during the Comicon Just For Laughs Festival to meet with one of the comedians in the show. We specifically used cinema 1 which is located on the 2nd floor. The lobby on the 2nd floor was spacious enough to contain some lobby chairs and a small shop that sells drinks and sandwiches, ",
+        "The interior of the cinema was not that big and provided an intimate interaction with the comedian who was on stage. The airconditioning of the place was also just right. Some cinemas have freezing airconditioning but this one was just right.",
+        "I would love to see a movie here during TIFF."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "TIFF Festival Septmber 2018",
+      "text": [
+        "King Street has been closed between Blue Jays Way and University in front of TIFF Lightbox.",
+        "It's  a street of patio restaurants, food trucks, Muskoka chairs for relaxing and loads of people. We saw 3 CTV and CBC celebrities walking through the crowds.",
+        "Huge lineups to see the films and A-listers at TIFF Lightbox and Princess of Wales Theatre."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018 • Couples"
+    }
+  ]
+}

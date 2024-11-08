@@ -1,0 +1,386 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Immersive Van Gogh Exhibit",
+    "url": "/Attraction_Review-g155019-d21084701-Reviews-Immersive_Van_Gogh_Exhibit-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 Yonge Street",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5E 1W7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 99
+    },
+    "openingHours": [
+      "We,Fr 11:00-21:00",
+      "Th 13:00-21:00",
+      "Sa 10:00-21:00",
+      "Su 10:00-19:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/87/da/0a/walk-through-gallery.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Art Galleries"
+  ],
+  "description": "Be immersed in 600,000 cubic feet of stunning projection animating the masters’ oeuvre and illuminating the mind of the genius. Wander through giant projections that highlight brushstroke, detail, and colour as you have never experienced them. The exhibition is custom designed to the historic space that housed the Toronto Star’s printing presses at 1 Yonge Street. For updated hours of operations please visit vangoghexhibit.ca/faq",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Van Gogh",
+      "text": [
+        "Very very lame ,total rip off, stay home and read about Van Gogh, they r making fine money at this event though for delivering nothing"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Drowning experience",
+      "text": [
+        "Disastrous venue with drain pipes and bits of plaster visible on one wall. Flapping curtains enough to distract you during show. Frenzied tourists clicking away with flashes. Stay away!!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Van No-Gogh",
+      "text": [
+        "Was awful. Images were blurry and it felt like we were watching a windows screensaver from the 90’s. The floors are carpeted, so you can hardly see the images projected in the floors. The sound quality of the music was poor. Waste of $."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2023 • Couples"
+    },
+    {
+      "title": "Embarrassed",
+      "text": [
+        "It's not worth the price.",
+        "40$ for a 30 minute video is really shabby.",
+        "I would pay max 10$",
+        "I was expecting so much more this price."
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "Overpriced and underwhelming",
+      "text": [
+        "Save yourself $48 (+$10 for parking at the venue - a big tent with no air conditioning that we could discern) and buy yourself a nice coffee table book on VanGogh, you’ll be further ahead.  Our group of three all felt the same way.  If entry had been $10-$15 it would have been an ok way to spend an hour.  The “gift shop” on the way out continued the rip-off with ridiculously priced merch."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Take your time, sit back and relax",
+      "text": [
+        "This was such a unique way to experience Van Gogh's works.  It definitely hit most of the senses and because of that, it has made me want to go to more immersive experiences in the future.",
+        "If you are looking for history, they have lots of options available for purchase in the store to be able to read, but in the room itself they have a rolling feature with the artwork (both still and moving) and music to fill both you eyes, ears, and mind.",
+        "I found it truly worthy of your time and money if you enjoy Van Gogh's art."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Friends"
+    },
+    {
+      "title": "Completely disappointed and waste of money!",
+      "text": [
+        "I was extrememly disappointed in the Immersive Van Gogh exhibit. It felt like a small room with stuff on the wall, explaining stuff about Van Gogh. I'd like to take my daughter to the Disney Immersive, but worried it could be anpther complete waste of money."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Disappointing",
+      "text": [
+        "Very disappointing. It's OK for people who know nothing about Van Gogh. Not for anyone who has seen his work. Totally avoidable"
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2023 • Couples"
+    },
+    {
+      "title": "Go to Van Gogh!",
+      "text": [
+        "Loved it!   We’ve been to the Van Gogh museum in Amsterdam,  but this was a really unique experience.  Really feels like you are immersed in the art.     ",
+        "There was a lady dancing while we visited.  Not sure if she was just inspired or party of the installation."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022 • Couples"
+    },
+    {
+      "title": "Overpriced screensaver",
+      "text": [
+        "50 per person to watch what is essentially a van gogh themed screen saver with high school level animation. Maybe if you smoke a ton of weed or drop some acid it would be better. 40 minute reel of crappy interpretation. Van Gogh would pluck out his eyes. Buy an art book."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2022 • Family"
+    },
+    {
+      "title": "Don’t go !",
+      "text": [
+        "Overrated .. 20 minutes show .. unorganized ",
+        "Don’t go ….too much money for tickets .. they don’t check if you gave better tickets ."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2021 • Couples"
+    },
+    {
+      "title": "Immersive--Not exactly--but interesting",
+      "text": [
+        "This review is for Immersive Van Gogh in Dallas (December, 2021) as the exhibit stems from Ontario and there is not a separate TripAdvisor Dallas review listing.",
+        "The advertised price is obscenely too high.  I got BOGO tickets with a code offered by TravelZoo, which incentivized my considering it.  The $6.99 per ticket service charge set my teeth on edge, but I took the plunge anyway.  Am I glad I did?  Not really sure, but it was an interesting experience.  That said, I will not do it again--even for a different artist.",
+        "Words to the wise:  download the app and really look at it before and when you go.  It will help with understanding the logic of the images as part of Van Gogh's life.  I have been to the Van Gogh Museum in Amsterdam, but paying attention to the app was still a worthwhile exercise.",
+        "In Dallas there are three rooms, which all have the same images projected and music.  Some times I felt the music was inappropriate to the scene and random.  Where the 1812 Overture fit in I don't have a clue.  ",
+        "Some people said to bring AirPods or the like because the music is too loud.  I brought, but didn't use as the volume was just fine.  I also brought seat cushions with me, but also didn't use.  There were two types of spaced-out-due-to-Covid:  ottoman-type and folding chairs.  The chairs were a bit more uncomfortable, but totally fine.  Those that paid more for VIP and therefore got cushions carried them--didn't see anyone using them.",
+        "Patrons can go from room to room and stay as long as they want.  We watched the loop three times.  The 2nd room was the biggest and from my perspective the best for the immersive experience. That said, I did not feel this was an immersive experience, more one of viewing computer images of Van Gogh's paintings and images of people who were part of his life--albeit via many projections in a massive room."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Huge disappointment!",
+      "text": [
+        "Lower the price or add more the this exhibit. I paid for the VIP ticket and other than the poster and cushion and lanyard I didn't see the added benefit. Don't get the vIP ticket!! You're better off buying something you really want from the gift with the savings. I don't think buying a poster and cushion makes you a VIP. Ripoff!!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2021 • Friends"
+    },
+    {
+      "title": "money grab",
+      "text": [
+        "Disappointed, the paintings used were quickly shown on a wall with extra graphics, seemed more like a Microsoft PowerPoint show with no information. personally I don't feel the music went well with the collection of photos and was quite hard to listen and enjoy. The concept was interesting but the composition was poor. Very overpriced for the experience. I Would not return, I feel a bit scammed. Just use a computer and click through his works with bad music in the background and it's the same experience"
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2021 • Friends"
+    },
+    {
+      "title": "Cash grab",
+      "text": [
+        "It was overpriced for what it was.   It did not feel \"immersive\", it was just pixelated paintings projected on a wall.  Nothing on the ceiling.  One of the paintings wasn't even by Van Gogh.  It was honestly a little bit laughable.  The soundtrack was all royalty free music, and were overused classical pieces. The gift shop was appalling; unbelievably poor quality prints, likely ordered from Wish.  I'd ask for my money back had we not had such a good time laughing at it."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2021 • Friends"
+    },
+    {
+      "title": "Painfully loud noise",
+      "text": [
+        "Artistic display overpowered by blaring music noise that left my ears ringing 2 hours later. The program was very short which was a blessing."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2021"
+    },
+    {
+      "title": "UNMATCHED EXPERIENCE",
+      "text": [
+        "Remarkable and one of a kind . I also would like to commend the creators, technicians, designers, directors of this fabulous exhibit, its creativity, the animation,  the putting together of some of Van Gogh’s paintings if not all, the soundtrack to be able to come up with this unique, awe-inspiring unmatched experience. My deepest appreciation to all !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Couples"
+    },
+    {
+      "title": "waste of money for a 30 min movie on a wall",
+      "text": [
+        "This was honestly a waste of money. Its 45$ for a basic ticket for a 30 ish min movie shot with collages of paintings some eerie soundtrack and a voice-over. Maybe that's harsh but that's what it felt like.",
+        "I thought this was gonna be interactive, interesting and fun but it was none of those. You get led into this big school gym-sized room with very little seating and circles on the floor where u have to sit and crank your head up and down while things move across the wall and ceiling. ",
+        "I thought there were gonna be stories and information about his life and experiences but there was none of that either. ",
+        "I understand the craft and the work put into it but come on. 45? To put it into perspective there are movies that are fully animated with original content that are 1h to 2h long that you can watch on screen for less than 20 bucks. Those movies have a large budget and yet they still charge a reasonable amount. ",
+        "I'm really curious as to what their production cost was cuz this is pretty nuts. ",
+        "I don't recommend it, it is not a fun experience there is nowhere to sit and they ask you to kinda not move around which defeats the immersive purpose.  Take your kids or family to watch some well-made animated film or documentary and you will be much happier."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Uninformative and boring",
+      "text": [
+        "I truly unimmersive, disappointing waste of money. This is literally 40 mins of video projected on a wall. The video has no narrative or information about the artist or the paintings. Save yourself time and money by simply reading about Van Gogh online."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2021 • Friends"
+    },
+    {
+      "title": "Beautiful images.",
+      "text": [
+        "We went there just after Monet, otherwise I would have given it a 4 star.",
+        "COVID protocols were well in place and the room didn't feel crowded.  We actually sat in 2 different places for a different view.",
+        "I love the concept.  Its very cool to be surrounded by a painter's art.  I loved the music, although I am not sure I understood the linkages between it and the art.  Also, it was hard to see where we were at in the painters life.  I can only imagine it was chronological, but then again, maybe not.",
+        "It is worth seeing.  Teens sat on the floor with cells, quite disappointing, but they then loved the by-products of the store.  Go figure!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "I WANT MY MONEY BACK!!!!",
+      "text": [
+        "! I think if Van Gogh saw this so called immersive exhibit,  he would cut his other ear off!   What is missing is creativity!",
+        "You walk in to curtained off section with 6 large screens of enlarged painting on it and a bit of a spiel. ",
+        "Than you funnel through a curtained hallway.  Something like you see in a cheap wax museum to another curtained off larger area with a few chairs and than the so called special effects are the up and down movement and fade in and fade out of a few more pictures of paintings.  The only OK thing about the exhibit was the music.  Of course the grand finale is to be funneled through to tge gift shop with a a meager selection and again total lack of creativity or thoughtfulness to the paying customer. ",
+        "I WANT MY MONEY BACK!!   False advertising at the highest level.  Who ever is in charge should be fired!   One gets the feeling the only thought process was how to do the least artistic effort to rip off the Van Gogh enthusiast!",
+        "DON'T WASTE YOUR MONEY OR TIME!!!!!!!!!!!!!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "The Van Gough Immersive Experience - A Fantastic Show, Not to be Missed.",
+      "text": [
+        "This was was an unbelievable experience that we were in awe of and much appreciated since we were unable to visit the Van Gough Museum in Amsterdam (you need to book days if not weeks ahead of time). We really felt a spiritual connection with the artist and his brush strokes. Highly recommend this."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Couples"
+    },
+    {
+      "title": "Wonderful exhibit",
+      "text": [
+        "We attended this exhibit with 5 friends.  All I can say is WOW!  What an amazing experience we had!  It was nothing like I've ever experienced before. We thoroughly enjoyed it.  Don't miss the virtual experience at the end.  It really made the whole experience for us."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Waste of time and money",
+      "text": [
+        "This is not a immersive experience by any yard.  It's a cheap version of a sound & light show, too noisy with loud orchestral music, really cheesy animation (we don't need to see the birds flying nor the powerpoint style animations.  Absolutely a waste of time and money.  I would much more enjoy a regular exhibition at an art gallery that allowed for quiet reflection and appreciation."
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "Deplorable",
+      "text": [
+        "Refund tickets if a major storm shuts down all forms of transport...$100s lost ...they only care ab profit not people"
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2021 • Family"
+    },
+    {
+      "title": "Great piece of art in the wrong venue",
+      "text": [
+        "The exhibit is a great combination of images and music. However the venue is not the most appropriate. There are columns in the middle of the place which do not allow a perfect vision of this amazing piece of art and some of the walls are not plain surfaces as they should be for a projection.  The exhibition should take place in a hall without columns and with plain walls.  Nevertheless, the venue is not the right place it is worth to see this piece of digital art.  Congrats to the artists who have created it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2022 • Family"
+    },
+    {
+      "title": "Rip Off",
+      "text": [
+        "Definatly not worth what they are charging. $60 to see a 30 minute powerpoint presentation from a projector, while sitting on the floor."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2022 • Friends"
+    },
+    {
+      "title": "Way to Expensive for What You See!",
+      "text": [
+        "First of all I am glad that we got a bogo deal for tickets. I thought it would be a walk through several rooms but it is more like walking into a big room. People sit on the floor or stand by the wall. Opposite wall projections are the same image. The thing is the images of the artists' work are beautiful but it lasts for about 15 minutes. We couldn't believe it! if you didn't know anything about the artist, you would not have learned anything from the presentation.  A huge, disappointment and money grab."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "Disappointed",
+      "text": [
+        "Not worth it. Totally overpriced. I am an art lover, but this was disappointing. $62 dollars wasted. Don't go."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2021 • Couples"
+    },
+    {
+      "title": "Overrated but a nice 45 min show.  Don't shop there!!!!!!!!!!!!!!!!!!!!!!!!",
+      "text": [
+        "Show itself was lovely.  Overpriced for the experience, just paid more to cut the line really.",
+        "Don't buy from the gift shop.  Overpaid for a puzzle called \"Museum Collection, 1000 Pieces, the famous paint of world\".",
+        "GARBAGE!  12 pieces missing, sucks that it took weeks to do, and it's garbage without all of the pieces of course.",
+        "Made in China, Geezus! Buy Cheap Crap, pay through the nose for it..."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "the best waste of money",
+      "text": [
+        "40 dollars per person to sit in a room for half an hour and watch a montage of Van Gogh paintings. there is nothing to do, nothing interesting inside the room, no other rooms, just a room with some projectors playing a YouTube video."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Seattle Van Gogh Immersion",
+      "text": [
+        "My wife and I went to see this exhibit in Seattle and it's a very good way to see Van Gogh's variety and the number of paintings he did in his short life.  We've been to the Louvre and other impressive museums, but they can't show all of what any one artist did.  If you like art at all this Van Gogh exhibit is impressive."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2021"
+    },
+    {
+      "title": "Very sad, they should be ashamed!",
+      "text": [
+        "What a joke, waste of $!,",
+        "we are art neophytes but enjoy art passively, this was so cheesy and disappointing!! basically 2 areas with a few text displays in one and a collection of displays in the second.",
+        "A TOTAL MONEY GRAB!!  instead of spending $50-$100 or more for a couple, we could have bought a very nice table book to appreciate and have indefinitely!!",
+        "save your your time and money !"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Poorly put together and over-hyped",
+      "text": [
+        "The show was not what anyone one would expect, It is over hyped online and other ads for it, If you really are interested in Van Gogh just go to a museum and see his art in person, not on some big projector that didn't even once show a single whole piece of art."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Very interesting",
+      "text": [
+        "Just to be clear, the 360 experience we went to was in Charlottetown PEI. It is the same show as in Toronto. It has been travelling across Canada. It was quite interesting but only if you are an art lover. The first part of the show is walking past illuminated signs telling the story of Van Gogh. After this you go into a huge room where all of his work is projected on the floor and walls. They have motion inserted into pictures so it makes them come alive. The entire production lasts about 30 minutes and it is set to music. Including the illuminated signs, you will spend between 45 min to 1 hour at this exhibit. We enjoyed it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2022 • Couples"
+    },
+    {
+      "title": "Fantastic! Must see!",
+      "text": [
+        "Fantastic! Do not miss this if you have even a mild appreciation for Van Gogh or color or music. Note of caution for those who may get motion sickness with images on the walls moving. Seats available in all 3 rooms. 3 salons: sketches, color party, paintings projected artfully in themes and portraits become animated. Projections on the floor become interactive as you move. Kids were joyfully running through the floor projections and this kid at heart was happily twirling, too! You are free to revisit salons if you wish. Full experience is about an hour plus, but you could breeze through to make it shorter or linger to make it longer."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Couples"
+    },
+    {
+      "title": "Not worth it at all !",
+      "text": [
+        "Not worth it at all! seems like they were trying to make something similar to Epson team lab but it’s far away from that, looks cheap and not much showing in the show."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Overpriced.. Enjoyable, but not what we expected!",
+      "text": [
+        "Like many other reviews stated, the exhibit was meant to be \"immersive\". In reality, you're walking into a huge nearly empty room with a bunch of projectors displaying an animation with the art made by Van Gogh along with some instrumental music playing above you. ",
+        "It was also quite hard to find the entrance.. little to no signs directing us anywhere. ",
+        "For 30 minutes, this wasn't worth all that money!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Immersive King Tut",
+      "text": [
+        "Very silly and short not worth it at all , the voice was not clear . Very disappointed not recommended at all it’s literally waste of time and money unfortunately."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Not worth it!",
+      "text": [
+        "This should not be called immersive. You walk in, read a few stations of text with photos projected. Next you are in another room where it's basically a really underwhelming light show. Hard to imagine that anything Van Gogh can be dull,  it this was, and way overpriced. Save your money and just look at some van gogh online and read a wikipedia page."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2022 • Friends"
+    }
+  ]
+}

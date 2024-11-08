@@ -1,0 +1,366 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Threshold Aviation Airliner Adventures",
+    "url": "/Attraction_Review-g155019-d6496848-Reviews-Threshold_Aviation_Airliner_Adventures-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "215 Carlingview Dr Unit 110",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M9W 5X8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 176
+    },
+    "openingHours": [
+      "Mo-Sa 09:00-19:00",
+      "Su 10:00-18:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1b/49/85/airliner-adventures-simulator.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Game & Entertainment Centers"
+  ],
+  "description": "Fly around the world without leaving the ground! Our state of the art Boeing 737 flight simulator which is built into an actual aircraft nose. Realistic flight controls and visuals. Over 100,000 airports worldwide. Each session is good for up to 4 people for the same price. No previous flying experience is necessary. As real as it gets without flying a real plane! We are open 7 days a week, and conveniently located across from Toronto Pearson International Airport. Within a few minutes walk from all airport area hotels. Click or call to book your Airliner Adventure today!",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Great Aviaton store!",
+      "text": [
+        "Great Aviaton store. Filght instructor was very nice and explained everything.The owner was nice and gave us some free keychains. Very good store. Please just change the Google maps photos because they showed a lot of things that weren't there,thus I had to get different models. Still a great store! Recommended to anyone who likes planes."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Up Up and Away",
+      "text": [
+        "Great staff help you through the whole experience, from booking to flying.  My 32 year old son and I had a great few hours flying, taking off and landing this 737.  Instructor was awesome and helped us all along the way. He explained things then let us learn as we went along, helping when needed. It was so much fun to be in control of this aircraft. I would go do it again in a heartbeat."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "It was a great experience",
+      "text": [
+        "It was amazing!! The instructor was so informative and I had the time of my life, I would recommend it to anyone who loves planes and always wanted to know what it was like to fly. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Amazing!",
+      "text": [
+        "Had a wicked time at @thresholdaviation inside their Boeing 737 simulator. The sim features a decommissioned cockpit of a United Airlines 737. There were definitely ear-to-ear smiles behind the mask. This experience was worth every penny."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Family"
+    },
+    {
+      "title": "737 simulator session",
+      "text": [
+        "Always the best service with threshold! Everything is always clean, and organized! and I always have so much fun! ",
+        "I felt very safe at threshold they do a great job at making sure everything is clean and follow all restrictions from covid! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Great Experience with Friendly Staff!",
+      "text": [
+        "Attended a 3 Hour Sim Session at Threshold Aviation post-COVID in July once the lockdown was lifted. The front end of Threshold is a shop where you can find aviation related memorabilia, and the back end is a full 737 glass cockpit simulator. The place has great decor. The staff and instructor were very friendly. I'll be back!  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Best, almost real airliner experience",
+      "text": [
+        "The cockpit is real and all the warnings, and the stick shaker when the plane is about to stall is unbelievable experience. One of the best 737 simulator I’ve ever experienced. The instructor is very kind and patient when a newbie is flying. Really recommended "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Professional, fun experience",
+      "text": [
+        "We really enjoyed this simulator experience, and felt the staff were exemplary from beginning to end.  They provided a personalized experience based on the requests of everyone in our party, and did their best to fold everyone into the experience, regardless of who was in the captain’s seat.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021 • Family"
+    },
+    {
+      "title": "Threshold Aviation Flight Simulator",
+      "text": [
+        "What an amazing experience! I felt like I was flying a real plane. I was able to perform many flights, sight see across the globe, and perform different situations in the cockpit. It was a great experience to fly in the simulator and I would definitely recommend you try it out. It’s a great price and you can go where ever you want."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "They were organized, timely, and friendly throughout our visit.  Took covid related precautions seriously to ensure a safe experience (prescreening, temperature checks, cleaning, mask / shield enforcement) which my family appreciated.  The instructor was informed, and flexible to ensure both of my children could select routes that appealed to them and also provided some unique landings / circumstances which made it a good learning opportunity.  It was a well spent 90 minutes, lots of fun, and great value."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020 • Family"
+    },
+    {
+      "title": "737 simulator",
+      "text": [
+        "Boeing 737 simulator was awesome, instructor was very helpful and knowledgeable and store was wicked cool! Highly recommend "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Amazing fun!",
+      "text": [
+        "Took my 8 year old son he had the time of his life!!! Still all he talks about! Very friendly staff, great set up and reasonably priced!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Family"
+    },
+    {
+      "title": "Fantastic Fun",
+      "text": [
+        "This was my second visit to the sim. The team at Threshold are very professional and make you feel very welcome. I choose the two hour flight and its a fully functional non motion Sim, well worth the price. If your a home flight sim enthusiast this place is a must visit for fun or serious flights. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Dream day",
+      "text": [
+        "This was literally a dream of mine to spend time in a 737 full simulator.  This day did not disappoint.  2.5 hours of a perfect session.   Weather was real world ( tough day ), everything in the cockpit worked exactly as expected.  I am no pilot but have about 250 hours in the PMDG 737 simulator so I had a sense of what to do.  This again was better than I imagined.  Thank you all very much.  Great day.  ",
+        "Greg Soper. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Great time with the flight simulator. Our instructor was very knowledgeable and friendly. Very cool experience! I’d definitely do this again. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Great shop for pilots and aviation enthusiasts!",
+      "text": [
+        "Came here for the Boeing 737 simulator and had a blast. Also, there is an amazing story behind the cockpit used!!! Check it out!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Great experience!!!",
+      "text": [
+        "Great experience had an amazing time!! Extremely friendly staff and flight instructor. Definitely well worth the money, personally I would do a minimum of 2 hours to get the full experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Business"
+    },
+    {
+      "title": "Amazing customer service!",
+      "text": [
+        "I was there to purchase headset and was really happy with the service! Great selection of items and the staff was very friendly and helpful. I recommend everyone to go!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Solo"
+    },
+    {
+      "title": "737 Sim",
+      "text": [
+        "My 13 year old son was out here visiting from Alberta,so I took him to Threshold. He flies a lot at home on a desk top. Mikey was our instructor, what an awesome experience it was for us. My son knowing a lot more about planes and flying then I ever will. This sure helped my boy and is one step closer to his dream of being a pilot. We will be back for sure every time my son comes out. We done the 1.5 hour flight, but next time I’ll definitely book the 3 or 4 hour flight. Thank you Mikey, hands down a great guy. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019"
+    },
+    {
+      "title": "Threshold Aviation B737 Sim - 3 hour package",
+      "text": [
+        "After several years of flying a desktop and the PMDG B737 NG I booked the 3 hour package at Threshold Aviation; long story short, it exceeded my expectations and was well worth the visit!     ",
+        "Mickey is an excellent instructor who took the time to fill in the gaps and made sure I had time to experience several different approaches and flight configurations.",
+        "The session was long enough to start from cold & dark, fly an IFR plan from YYYZ down the ILS to KBOS, then final approach into Innsbruck, the checkerboard approach into Kai Tak, and finally the approach into St. Maarten.",
+        "The sim is built from an actual B737 cockpit and set's itself apart by using actual Boeing parts - no reproductions; and Threshold is continuing to make upgrades and improve the sim.",
+        "For those of you just interested in aviation, Threshold provides the chance to see what goes on behind the curtain.  And for those of you who fly sims as a hobby, this should most assuredly be a \"bucket-list\" experience.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Solo"
+    },
+    {
+      "title": "It felt very realistic",
+      "text": [
+        "Yes this is an actual 737 that has been turned into a simulator. This means that all the switches, controls, seats etc. are genuine 737 not a computer simulation. You look through the windows and the view is projected onto the walls surrounding the plane. Graphics probably could be a bit sharper or more detailed but they were quite good and responded as expected. I flew it into, among other places, Wiarton. There is a very large selection of airports to fly into. I am familiar with Wiarton airport from having flown my Cessna 172 there so I could judge the simulation and it is good. The one thing it does not have is motion of the plane but that is only found on the multi million $ simulators. The person who acted as our instructor was very good."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018"
+    },
+    {
+      "title": "Awesome Realistic Experience!!",
+      "text": [
+        "Spent the weekend in Toronto and this was by far the highlight of our adventures. Ryan our flight instructor was excellent. He was very knowledgable and attentive. Informative and fun. Highly recommend this to anyone with an aviation interest. We booked the 1.5 hour session and wished we would have booked longer as time \"flew\"by."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Family"
+    },
+    {
+      "title": "Amazing how realistic it is!",
+      "text": [
+        "Had a friend visiting from California so we decided to try the simulator out. I have to say this was a blast. Sitting in an actual cockpit was cool. They can program many airports to fly from and they all look very realistic. The instructor was great also. I have a better appreciation now for pilots. Will definetly do this again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Great time",
+      "text": [
+        "We had an awesome experience. Our flight director was a really nice guy and made us feel comfortable. The simulator felt very real and it felt like I was flying. Glad I wasn't so because I did crash."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Amazing flying experience",
+      "text": [
+        "Amazing experience worth every time. I’ve flown the sim a min of 5 times and it is great experience. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Simply great",
+      "text": [
+        "What is good about it is, this for all levels of skills. From total beginners to real pilots. My usual instructor is now a pilot with Air Canada so you get real pilots here. I would recommend Diego if you want a very good experience"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "Amazing",
+      "text": [
+        "Me and my family went first time ",
+        "It was amazing experience for myself and my kids",
+        "We would like to go again ",
+        "Thank you"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Family"
+    },
+    {
+      "title": "Amazing experience!!!!",
+      "text": [
+        "Our instructor, Diego, was amazing at guiding us through the whole experience! I booked this flight simulation for my husband as a surprise for his birthday and both him and I loved it!! My husband's dream was to be a pilot - so this was very sentimental for him too. We would looove to come back!",
+        "Thank so much Threshold Aviation team!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "FLIGHT Solo  26 Feb 2019.",
+      "text": [
+        "My only experience was using Flight Sim Fsx at home on my computer.. The time I spent at Threshold was a overwhelming experience.  Instructor was friendly and did everything to make  it interesting for me.  I had a friend with me but she didn't fly at the same time. She was there twice before with another friend. We both loved it.  Was so amazing...  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Solo"
+    },
+    {
+      "title": "Interesting and Educational!",
+      "text": [
+        "Very educational and fun. Provides different options as to where you take off and land. Different weather conditions. Different levels of difficulty depending on runway. Highly recommend this for anyone that is even slightly fascinated by planes! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Fun Day Out!",
+      "text": [
+        "Great simulation with up to date avionics.  Friendly and knowledgeable staff.  Choice of airports of our choice to land and take-off in - both daytime and nighttime settings.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "If you are a aviation enthusiast or just curious how does it feel to take off and land a commercial passenger jet without leaving the ground this is the place to go. Friendly people will guide you through the process even if you don't know much about aviation. Definitely recommended as a great  aviation experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "Excellent Adventure !!",
+      "text": [
+        "It was my first time and It was so much fun.  A real 737 cockpit and real simulations that make you feel like a pilot.  The instructor was a real pilot.  Santiago was a great teacher.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "Greatest adventure for aviation enthusiasts!",
+      "text": [
+        "My 15 year old son and I are aviation fans and drone pilots, but have never been in an actual 737 cockpit sim. We signed up for the 1.5 hour flight, and are so glad we did. Best experience of our vacation in Toronto! Sonny from Threshold Aviation took us through all the steps, starting the plane from \"cold and dark\", taxiing, take off, touring over several cities, doing controlled barrel rolls, and landing. WHAT A BLAST! Sonny was a great instructor as well as photographer and videographer.",
+        "If you are in the area of Pearson Aiport in Toronto, and you enjoy aviation, do not hesitate to sign up for this experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Family"
+    },
+    {
+      "title": "Awesome experience for a flying enthusiast",
+      "text": [
+        "I got the 1.5 hour experience for my husband as a birthday surprise and although I knew he would like it, he like it even more than I thought he would.  Even though the flight simulator doesn't move, it's very real since you're using a real airplane cockpit.  The instructor Matt was great and you can tailor the experience to your preferences.  The 1.5 hours was a nice amount of time.  I feel like 1 hour would have been too short.  My husband is dying to go back already."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Bday",
+      "text": [
+        "It was so real. I got motion sickness about 5-10 min in and couldn't take it. I left my sister alone with the pilot for the duration of time but i had been drinking the night b4. I still recommend it to any and everyone. Its different!!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "My son had a blast!",
+      "text": [
+        "Not your typical pit stop.  My son loved this place.  Our instructor was very nice and helpful.  The experience felt pretty real.  We crashed once and I had to close my eyes!  This experience was worth it."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Very realistic and learn a lot",
+      "text": [
+        "Took family to there, lots of fun while we're learning how to operate the airplane.This is an actual 737 that has been turned into a simulator, not a computer simulation, which makes very realistic. Our instructor was very knowledgable, patient and friendly. Although we booked the 2 hour session, still felt there was not enough time. Hope we have a chance to do it again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Learn all about those take-off noises",
+      "text": [
+        "I'm not a pilot or an aviation geek, but I do have a powerful streak of \"what do these buttons do?\" technical curiosity, and Airliner Adventures fits into my personal \"action movie\" curriculum, alongside things like \"operate a Caterpillar excavator.\"",
+        "I picked the simplest one-hour \"scenic flight\" package (C$129 plus HST) and was assigned \"Mikey\" as my instructor. The default experience is to take off from Toronto International Aiport (YYZ), fly through downtown Toronto and over Lake Ontario, then back. You will need to un-learn automobile reflexes, and will probably crash the first time, but your instructor can reset the approach.",
+        "Their \"737NG\" simulator, a combination of genuine Boeing parts and Canadian replicas, isn't atop a motion platform, but the panoramic view beyond the windows, sounds, and force feedback are thoroughly convincing. There's space behind the cockpit for spectators. The \"Threshold Aviation\" store is stocked with airliner replicas, mechanical flight computers and other pilot gear, aviation swag, and Toronto souvenirs. It's located in a strip mall just outside the airport (incidentally, beneath an approach path), so it's accessible on a long layover (a 2.2 km hike, if you tried such a thing).",
+        "Do: Make an appointment. Wear long pants -- twisting into the seat is a tight fit, and it's easy to scrape your shins on the center console. If you're a solo visitor, ask a staff member to take a photo. If you have nothing particular in mind before you start, ask about options and how long each will take (explain all the panels, full start-up checklist, flying, picking an interesting airport and weather conditions, etc.)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Very Realistic",
+      "text": [
+        "Took a friend there visiting from California. It is very realistic and they will let both people take turns flying out of every airport. It is very realistic and the instructions up fron were great. My friend ended up with a bumpy landing but it was still fun. I would highly recommend going there."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019"
+    }
+  ]
+}

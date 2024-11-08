@@ -1,0 +1,267 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Laura Milnes",
+    "url": "/Attraction_Review-g155019-d17819670-Reviews-Laura_Milnes-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "64 Spadina Ave",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 3R5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 28
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/e1/37/70/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Wine Tours & Tastings "
+  ],
+  "description": "I am a wine professional based in Toronto. I really enjoy sharing wine with new and old friends - especially those who haven't had the chance to try the amazing caliber of wines we are producing here. Canada is exploding in terms of quality and producers - it's an exciting time to be here.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Amazing host and not your typical wine tasting event",
+      "text": [
+        "Laura was an amazing host and took the time to make this experience both intimate and informative. We definitely enjoyed chatting with her and learning more about Canadian wine history as well as sampling some excellent wines. Thanks again Laura. Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Couples"
+    },
+    {
+      "title": "Highly recommend!",
+      "text": [
+        "I highly recommend! We discovered and learned so much about Canadian wines, exactly what we were looking for. The ambiance was very cosy and friendly, and the food platter really good!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Couples"
+    },
+    {
+      "title": "Intimate Wine Tasting",
+      "text": [
+        "This wine tasting took us on a journey, tasting different wines from all around Canada. We were extremely impressed with Laura's knowledge and expertise. The room where the tasting took place was very intimate and cozy, which paired nicely with the food/wine. We had the pleasure of meeting 4 other attendees who we chatted with until the very end. It was a great addition to our evening and will definitely do this tasting again in the future. Laura is a superstar!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Perfect Wine Tasting Experience!",
+      "text": [
+        "Laura's wine tasting event was a delightful experience, showcasing her meticulous curation and passion for the world of wine. The thoughtfully selected wines, paired with artisanal cheeses and gourmet bites, created a sophisticated and well-rounded tasting. Laura's engaging presentation, coupled with her insights into the winemaking process, elevated the evening beyond a typical tasting, offering a memorable and educational journey through the vineyards. I highly recommend Laura's events to anyone seeking a refined and enriching wine experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Wonderful Wedding Gift",
+      "text": [
+        "We were delighted to break bread with an interesting group of people and a fabulous (and knowledgeable) host while sipping Canadian wines smartly curated for their unique farming methods, innovative business concept and superior flavour.  What a clever wedding gift we were given! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Great idea for Toronto visit",
+      "text": [
+        "Had a great time with Laura.  It was awesome to explore more about a wine region we really had no knowledge of.  The snacks were great, too.  Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Private wine tasting delight in Toronto. ",
+      "text": [
+        "An exceptional tasting of wines that shone a light on what Canada is capable of producing.  If this is the mission, Laura is professionally and passionately delivering the assignment. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Delightful tasting",
+      "text": [
+        "Such a fun and educational experience. I hadn’t tasted many Canadian wines before this tasting and was definitely impressed!",
+        "If you are looking for a standard, traditional tasting with chards and Pinots, this might not be the experience for you. But if you’re looking to try something new and different, and learn a lot along the way, I highly recommend!  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Such a fun way to taste wine!",
+      "text": [
+        "This was so much fun! Went for a girls trip and the wine tasting was the highlight of our entire weekend! If you enjoy great wine, food and good company, this is the event for you."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "We will be back!",
+      "text": [
+        "We had such a great time - Laura brings people together in the most down to earth way, making everyone feel at ease, while also pouring amazing wines and sharing all her impeccable knowledge. We will be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "One of a kind experience",
+      "text": [
+        "This was one of the best events I’ve been to this year. Amazing host who’s very knowledgeable about wines. Me and my finance also got to meet new friends. I can’t wait to go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Couples"
+    },
+    {
+      "title": "10/10 !!!",
+      "text": [
+        "This was the highlight of our trip! ",
+        "It feels very insider/behind the scenes with tons of amazing wines that go along with it.",
+        "It's also such a great way to meet other people!",
+        "10/10 experience"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Thoughtful passionate tour of Canadian wine!",
+      "text": [
+        "Laura has a deep reservoir of wine contacts. When I was setting up the tasting, I mentioned that I had drank a fair amount of ON wine (listing off a number of wineries that I had had previously). She brough a ton of interesting stuff (ON, BC, QC, NS) that I had never seen or tasted before, considering what I had told her that I liked. Just awesome to have a learning experience with a balance of humour and serious wine chops"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Unexpected private wine tasting experience!",
+      "text": [
+        "Booked this for our wedding anniversary and got a private wine tasting with Laura! She is definitely a knowledgeable wine connoisseur and we both learned a lot about wine that night!!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Wholesome witty wine experience",
+      "text": [
+        "Laura led my friends and I through an oenophilic tour of Canada right from her classy-chic secretive studio. Her unpretentious approach to wine as an expert and relentlessly witty humour as a host left us all wanting to hear more, and to drink more Canadiana. Thanks Laura!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "Such a special gem of an experience!",
+      "text": [
+        "OMG this is the most underrated experience that exists currently in Toronto!",
+        "Laura has an amazing, secret location you would NEVER find wandering around. ",
+        "If you think Canadian wine is subpar, please book with Laura - she will show you a whole host of wines you never knew existed that will surprise and delight you. ",
+        "Laura also showcases tons of amazing local artisans from chilli garlic oil to pickles - all made by local, female entrepreneurs.",
+        "Cannot recommend this enough!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Friends"
+    },
+    {
+      "title": "THE Great Canadian Wine Tasting!",
+      "text": [
+        "I really enjoyed my experience with Laura. I was looking for an experience to learn and taste unique wines, as Ontario is awful with it's limited selection at the LCBO. Having the opportunity to taste wines from across various provinces curated for me, was great. Made me realize what I'm missing...",
+        "Laura is a kind and gracious host, with a huge knowledge of Canadian wines. Laura is fighting to make wine approachable, and helping smaller producers share the love of wine with the rest of us! ",
+        "Awesome experience; would highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023"
+    },
+    {
+      "title": "Such a unique and amazing experience!",
+      "text": [
+        "We had an amazing time with Laura - it's truly such a unique experience she has curated.",
+        "It's tucked away in a super cool location, revealed only to you upon booking the experience.",
+        "The wines she pours are none you'd ever find on your own - they're all boutique, tiny production wineries showcasing how special and interesting Canadian wines are. ",
+        "Laura is warm, welcoming, down to earth and makes this experience well worth it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Canadian Wine Adventure",
+      "text": [
+        "What a great night! The space is divine and the wine was a treat. I’ve never been to a wine tasting quite like this one. I felt like I was sitting with a very knowledgeable friend as we tasted our way across Canada. The wines we were able to sample were exclusively Canadian and noteworthy. Laura’s extensive knowledge combined with welcoming vibes made for a stellar night. Honestly can’t wait to go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Great evening ",
+      "text": [
+        "Was a great evening.  She was incredibly knowledgeable.  And shred even valuable information to me for a future trip.   I gained an appreciation for Canadian wines, and look forward to keeping in touch!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "A must do activity when visiting Toronto !",
+      "text": [
+        "I had such an amazing time meeting Laura and the other guests. I could have stayed and chatted all night. A must do activity when visiting Toronto !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "Definitely recommend! Fun birthday experience",
+      "text": [
+        "Went for my birthday with a couple of friends, and I would definitely recommend! Laura was sweet, funny and personable! Really had a lovely time and would do it again! 5 stars for sure"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Well worth with the wait",
+      "text": [
+        "Elevated yet approachable for anyone seeking to nurture a love of wine without the fluff. Laura is a Toronto gem. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022 • Couples"
+    },
+    {
+      "title": "Supremely lovely",
+      "text": [
+        "Simply lovely. Laura’s cozy, tucked away studio is a real gem adrift a sea of chaos in Toronto. The wines are unique, the food paired perfectly, and the opportunity to meet others from all over the world was really special."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023 • Friends"
+    },
+    {
+      "title": "Who knew…?!",
+      "text": [
+        "….that Canadian wine is sexy! ",
+        "Laura’s unconventional and refreshing approach to her tastings makes a lay person like myself feel welcome and relaxed! Once you step into her space,  There is no judgment. You can tell that every detail has been thoughtfully curated from the charcuterie board, to the lighting and candles. By the end of the tasting, don’t be surprised if your thoughts of: “I don’t like white wine” or “I don’t drink Chardonnay” have been debunked and you walk away with two bottles of said wine…and maybe a new friend or two. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Amazing wine with amazing people",
+      "text": [
+        "Laura is an absolute gem - super knowledgeable about wine, and comes with some of the best bottles both at her tastings and boxes available for purchase. She is warm, inviting, not-pretentious, and is genuinely excited when YOU get excited about the wine. Attending one of her dinners is like going to a dinner amongst your best friends who you simply haven't met yet. ",
+        "Overall - a very unique experience in Toronto, but probably my favourite. I love how she made wine approachable and fun, vs. some stuffy thing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "Wine Maestro Milnes - The Best",
+      "text": [
+        "Laura is prolific.  She bears a considerable tome of wine wisdom gracefully and with an unassuming and genuine charm.  It is always a blast to sit a talk wine with her, I would reccomend it to anyone.  Book with Crushable!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Friends"
+    },
+    {
+      "title": "Excellent wine tasting class!",
+      "text": [
+        "Laura was excellent! She took her time to explain all of the wines to us, but didn’t make us feel like novice wine drinkers. She had great snacks and great conversation. Also, the location was a fun vibe. I would highly recommend for groups and/or couples."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

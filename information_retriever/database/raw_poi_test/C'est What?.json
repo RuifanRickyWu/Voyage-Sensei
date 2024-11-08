@@ -1,0 +1,391 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "C'est What?",
+    "url": "/Attraction_Review-g155019-d600695-Reviews-C_est_What-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "67 Front St E ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5E 1B5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 55
+    },
+    "openingHours": [
+      "Mo,Su 11:30-01:00",
+      "Tu-Sa 11:30-02:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/37/3c/d9/lamb-burger-and-beef.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bars & Clubs"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great atmosphere",
+      "text": [
+        "Great atmosphere. The place is lively and packed with activities. I had two drinks and both were great. Good place for a night hang out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Just great",
+      "text": [
+        "Large basement bar on Front Street. Great atmosphere and mainly with after work drinkers so thins out quite a lot after 20.00 we found.",
+        "Excellent range of food at quality. Top beer list too. So much so that we went twice !   ",
+        "P.s. you can't reserve a table but it is  a large place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Buttee chicken Poutine.  a must when i go to toronto",
+      "text": [
+        "everytime i go to toronto. i have to get this amazing chicken butter poutine. and veing from Quebec,  i think i know what i am saying when i say.  Unbeleivable!",
+        "it was also my first time in a restaurant since covid.   so i did feel a little crowded in this under ground restaurant"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2022 • Friends"
+    },
+    {
+      "title": "C’est What Love ",
+      "text": [
+        "Great food. Try the Lamb Burger. Good Beer try the Fly Girl Porter from Cowbell Breweries. Excellent service (most times-everybody has an off day). Been coming here a long, long time. The noise level for a pub was great. Not too loud that you can’t here your friends at the table. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Friends"
+    },
+    {
+      "title": "Great beer, Good food",
+      "text": [
+        "Nice, cozy basement beer bar. Large beer selection and good food, the barbeque beef ribs were amazing.  We foudn the staff friendly and knowledgeable about the beers on offer.  A can't miss for a craft beer fan."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Drinks etc",
+      "text": [
+        "Great selection of beers along with Ontario based spirits. Creative appetizers. ",
+        "Space and sections within the venue that support special events and gatherings. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019 • Business"
+    },
+    {
+      "title": "Well worth a visit",
+      "text": [
+        "Very popular location and it justifies  the popularity.",
+        "Due to it being busy, and just dropping in rather than booking, we ended up sitting and eating at the bar - what a lucky happening. Very good food (can recommend the shepherds pie and the falafel), good selection of beers - and great service. ",
+        "Well worth the visit - as others have said, easy to miss so search it out!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "If you like beer",
+      "text": [
+        "Be careful you don’t walk past this place it’s one of those bars that’s down a set of stairs and you might miss it.",
+        "Great place if you like beer they have a great selection with a separate beer menu ... heaven. ",
+        "It’s not just beer the food also happens to be good and the staff very friendly with great service. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Trade visit",
+      "text": [
+        "Visiting when on business. Great selection of beers and great understanding by the staff, who didn't mind us having water to start with. Food good including traditional Toronto food. All around good "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Business"
+    },
+    {
+      "title": "Best watering hole in the Big Smoke !",
+      "text": [
+        "If you are looking for a couple of frosty pops in downtown Toronto this is the place! A Front street fixture for many years it is characterized by its beer selection- 100% Canadian craft beers - 50+ ! Friendly and polite service and great live music on weekends. Sorry cannot comment on the food since I come here for the beer. The place for beer in Toronto. Cheers !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Okay Alternative",
+      "text": [
+        "We went C'est What last night with 2 other couples. Decent selection of beer but nothing to really write home about. The prices were actually decent considering it is a downtown bar. Unfortunately a few of the beers on their menu were either sold out or they no longer carry. "
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Excellent craft beer",
+      "text": [
+        "We visit Toronto every year to see family and have started to hunt out the good beer places. This is one of the best. An amazing selection of Canadian craft ales, from Ontario and elsewhere, and a few US and European on when we were there. It was a little cold when we were there but it was so hot outside I can't blame them for having had the A/C up a little high. ",
+        "Could have stayed all night. "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "DO NOT COME HERE",
+      "text": [
+        "Employs the most absolutely disgusting repulsive and RUDE staff  in this city! Like other posts, they operate according to what they see fit and in a fascist manner...amateurs at most! Every time I'm there, there's always a problem between the scums they employ and the patrons that pay their wages! Do yourselves a favour and stay away from this place!"
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great craft beer",
+      "text": [
+        "We had a wonderful chat with the bartender who has worked there for nearly 20 years. She was delightful. Didn't eat here because of previous reviews that were not so positive."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2013 • Couples"
+    },
+    {
+      "title": "Good place to relax",
+      "text": [
+        "I really like this place to meet up with friends and have a couple drinks. They serve pub style food but I wouldnt really recommend going here for dinner. ",
+        "There is a decent amount of seating for toronto, and the service is actually pretty great considering how many people pack into that place. Not really the place for a crazy night out"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2012 • Friends"
+    },
+    {
+      "title": "Food for thought",
+      "text": [
+        "If you won a million dollars, then won a $100,000 next week, you might think, meh  - well, that's OK.",
+        "Hey, it's still $100,000!",
+        "That's how I read the reviews below: fabulous beer; food so-so.",
+        "As a regular to this place, I'd say that if the beers served were Budolson's Blue-Red-Golden, the food would be rated much more highly.",
+        "Gourmet? No.",
+        "Hearty? Yep.",
+        "Good value? You bet.",
+        "Go here hungry.",
+        "Or go here thirsty, drink a beer or two than wait fro the hunger pangs to set in.",
+        "But one thing should be made clear. C'est What? is not known out there for its food.",
+        "It is known for its beer (see the reviews on that subject below).",
+        "Oh, and it won't break the bank and you won't feel self-conscious, even if you go alone; most of the bar staff (and those who aren't - you know who you are!) are friendly, helpful and well-informed about the constantly changing beer menu. And I'm not just talking about one or two interesting beers and a whole lot of Budolson Blue-Red-Golden. ",
+        "Clue: C'est What does not sell any beer from outside Ontario, nor does it sell any beer from Ontario's three top-selling breweries.",
+        "So don't ask for a Budolson Blue-Red_Golden. They don't stock it.",
+        "Let your taste buds do the walking.",
+        "And tell 'em John from the Jazz Club sent you."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2013 • Friends"
+    },
+    {
+      "title": "Beautiful brew",
+      "text": [
+        "My favourite local in the winter. The atmosphere is a cozy basement with stone walls, a fireplace, pool tables and live music. The food menu is solid with vegetarian options. The microbrew selection is off the charts and the staff are very informative about each one. If you're not sure you'll like it, they'll let you sample them. ",
+        "Downside is, I don't believe it is an accessible space and it wouldn't be a great summer venue."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2013 • Friends"
+    },
+    {
+      "title": "Hip",
+      "text": [
+        "Mucho beer!!! beer!!! Food wasn't all that great but who wants food when there's plenty of cerveza. We'll just have pizza back at the Hyatt. Burp Burp"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2012 • Couples"
+    },
+    {
+      "title": "Great beer...",
+      "text": [
+        "The food here seems to have gone downhill a bit in recent years - moroccan veggie stew was very dry and not tasty, with just half an apricot: it used to be far better.  Better drink lots of the lovely beer first, then you'll probably not notice it..."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2012 • Couples"
+    },
+    {
+      "title": "Great Beer - not a great place",
+      "text": [
+        "I've got a love/hate thing going with C'est What. There is no matching them on Ontario Craft Beer.  But the food is bland, boring and overpriced.  In summary unsatisfying.  Get something to eat at one of the great restaurants in the area - and then grab some beers.  And the service often does have an odd negative vibe to it.  Too often you get the \"we are doing you a favour\" attitude.  The bouncer and \"hostest\" often provide a strangly rude welcome at the door."
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2012 • Friends"
+    },
+    {
+      "title": "Fabulous Front Street Hidden Gem ",
+      "text": [
+        "Absolutely fabulous selection of local beer matched with great food.",
+        "King Czech Pil and fish cakes my favourite.",
+        "Great staff."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "5 stars for beer 1 star for no wifi.",
+      "text": [
+        "Excellent selection of beers on tap - I counted 41.   Available in 6 oz pours, so hard to do a very big flight unless one has a DD.  :)   They theoretically have wifi but I was never able to connect in the time we were there.  When I asked, the bartender said - \"yeah it's like that!\"   My wife also ordered the beef ribs - delicious! "
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2015 • Couples"
+    },
+    {
+      "title": "Great beer selection",
+      "text": [
+        "A fantastic range of beers, some local ones are amazing. Simple & effective bar food, good service, nice laid back atmosphere"
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great drink selection, little lacking in atmosphere",
+      "text": [
+        "Place is big, well laid out, if you want a good beer or cider this is the place to come. Had a blood orange ciderbwhich was REALLY yummy. Went on my own but I'm sure with friends this is a great place to be, just lacked a little atmosphere for me. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2015 • Solo"
+    },
+    {
+      "title": "Great beer selection",
+      "text": [
+        "Went here for a quick drink ended up staying until 1am.",
+        "Great basement bar with a large selection of locally brewed beers. Good atmosphere and the food looked good although I didn't try any.",
+        "Selection of board games to play also."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2014 • Friends"
+    },
+    {
+      "title": "Kind of Dull",
+      "text": [
+        "Went one afternoon and we were the only people there.  It was kind of dank and dull.  Might be better at night. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2014 • Couples"
+    },
+    {
+      "title": "Nice place",
+      "text": [
+        "When exploring Toronto's pubs you might want to pay a visit to C'est What? which is very conveniently located in the city's downtown, although not among the skyscrapers. The main area is underground and is designed properly - nothing realy fancy but I liked it. They have a nice beer selection and some starters if you are a bit hungry. Prices are reasonable."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2014 • Couples"
+    },
+    {
+      "title": "Excellent beer selection",
+      "text": [
+        "Great beer, great food, great atmosphere.. what more could you ask for.  I had walked past this place a few times and finally went in to check it out.  I love this place so much.  They have a great selection of craft beers on tap, The food is delicious and they have created a very warm and welcoming ambience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2013 • Friends"
+    },
+    {
+      "title": "Cozy bar with great selection ",
+      "text": [
+        "Great selection of beer! Nice and cozy vibe to the bar. It's located downstairs so it would make a great winter bar. In the summer I enjoy patios and sunshine, not bring cooped up in a basement. Overall I would recommend this place to any beer lover! "
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Sanctuary downstairs",
+      "text": [
+        "Recommended as a nice place for a drink and a casual meal. We arrived and while the greeting was not friendly it was efficient. Interesting when asked about what recommendations they had for a local beer they just indicated they were all good - troublesome given the long list of beers.",
+        "The food was ordered and was quickly served. tHe meals were good - solid and tasty without being overly memorable. The value was excellent and serve at the table good. The decor was nice and provided a feeling of sanctuary from the busyness of Front St.",
+        "Overall, a nice meal."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2014 • Friends"
+    },
+    {
+      "title": "Dim bar in the basement",
+      "text": [
+        "This place is huge. Due to its size, there were quite a number of customers and therefore getting a waitress to take the order took some time. The beer selection is very good."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017"
+    },
+    {
+      "title": "Delicious food, Friendly Service, Cool Setting",
+      "text": [
+        "One of the best Club wraps I have ever had. A great dinner after watching a movie with my best friends. Great place for a meal with friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "Attentive service, wonderful food spread, wide array of beers",
+      "text": [
+        "Our family of between 16-20 people vacation in a different Major League Baseball city annually for a family reunion and a ballgame or two. As we plan this year's trip, I was reminded of this dapper pub/restaurant we found by accident last year. The C'est What staff didn't bat an eyelash when I told them our party was one of 16 and a half (think high chair). They hustled to push tables together, sat us promptly and took our drinks order. Returned with a great selection of craft beers including the much raved-about stout Steve's Dreaded Chocolate (from a 2-page beer menu) for the thirsty crowd. I wish I could remember what my kin had to eat because everyone damn near licked their plates. But husband and I shared with our crowd an enormous poutine appetizer that deserves high praise for its crisp fries, fresh cheese curds, and tasty slathering of gravy. Then I ordered the shepherd's pie (went by a fancy name I don't recall), and it was the best I've had outside of Ireland. Lots of minced lamb and beef with real, not frozen, veg, topped with a layer of flavorful mashed taters, cheese and caramelized onions. The portion could have easily been shared, and I gave tastes to many in our group so as to not waste a bite. What a great find for vacationing Americans. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Family"
+    },
+    {
+      "title": "Best place to taste beer in Toronto ",
+      "text": [
+        "The menu has a great selection of beers and food if you want it, although I didn't try the food myself. ",
+        "The staff are extremely friendly and can help you order from the long list of great beers they serve "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Friends"
+    },
+    {
+      "title": "Local Food, Craft Beer Wine - and Jazz in the Evenings",
+      "text": [
+        "This place is a bit out of the ordinary and welcome on a strip that is dominated by chain pubs and rather ordinary eats.  A HUGE collection of craft beers (including some on tap), a modest selection of Canadian (mainly Ontario) wines and a very broad menu of snacks, sandwiches, burgers and old standbys like shepherd's pie that will suit whatever mood you are in.  A great hangout after work or in the evening, and even better for lunch.  You can easily miss it - don't!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2016 • Couples"
+    },
+    {
+      "title": "Great place",
+      "text": [
+        "Good  welcome to the city if you have too.. you have to go! The staff help me honestly to get to know the city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Solo"
+    },
+    {
+      "title": "Much more than craft beer",
+      "text": [
+        "The term craft beer tends to annoy me these days as there is an oversaturation of craft beer bars all across the board. ",
+        "C'est What however is a little different. For starters, they have many many decent craft beers on draught which is a nice change from spending 12bucks on a bottle because it has a dragon's face on it. C'est What is a staple now in Toronto and beyond having a slew of beers to choose from, they also play host to some very knowledgeable staff. There wasn't a food or beer related question that went unanswered by our server. Beyond the knowledge, the staff were very hospitable and made our visit even more pleasurable. ",
+        "The food.",
+        "This may resemble a bar, but the food they serve us far from pub fare. All four of us chose something different and each was more than happy with our own choices; to the point where a 2nd visit was warranted, as sharing was not an option. ",
+        "Outside of food and drink, C'est What has a couple decent pool tables, board games, some TVs (for the anti-social) and a very nice overall decorum complete with aquarium and fireplace.",
+        "If this place ever goes under or becomes a high rise, it would be damn shame..",
+        "Highly highly recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Good beer and Jazz",
+      "text": [
+        "Stumbled onto this great basement bar from a tip from a friend who had been here before. Great variety of craft beer and on one of the days I was there I heard a great jazz band."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Solo"
+    },
+    {
+      "title": "Excellent for craft beer",
+      "text": [
+        "As a craft beer enthusiast, I fell in love with this place immediately.   Excellent service.  Interesting location.  Clean, well presented.   Definitely a place to visit "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "Basement bar with style, great beers and pool tables",
+      "text": [
+        "This place is very cool for a casual drink, pub snack or a meal. We have been there many times, the craft beers are a real draw. The selection is decent, the service great and the open fire inviting. We were there for Saturday afternoon jazz recently, a real treat. I like the dark beers on tap."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Couples"
+    }
+  ]
+}

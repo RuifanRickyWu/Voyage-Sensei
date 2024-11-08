@@ -1,0 +1,334 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Young Centre for the Performing Arts",
+    "url": "/Attraction_Review-g155019-d2087170-Reviews-Young_Centre_for_the_Performing_Arts-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "50 Tank House Lane Distillery Historic District",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5A 3C4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 35
+    },
+    "openingHours": "Tu-Su 13:00-20:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6e/64/dc/michael-young-theatre.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Theaters"
+  ],
+  "description": "The Young Centre for the Performing Arts was envisioned by George Brown College and Soulpepper Theatre Company to be a home to Toronto's arts community and a destination for all theatre lovers. Anchored by the presence of Soulpepper's year-round repertory season and George Brown College's Theatre School, the Young Centre provides a home for both the leading artists of today, as well as the arts leaders of tomorrow. When you step through the doors of the Young Centre you can feel a difference. The space is alive with discussion and debate. There is a kinetic energy fueled by the passion of performers, students, and audiences. There is a musical hum to designers, choreographers, directors and musicians collaborating. There is a rhythm set by the theatre, dance, music and poetry that fills each of the spaces. This is the environment in which we get to work, play, create and share. And you belong here.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Very enjoyable visit",
+      "text": [
+        "Went for A Christmas Carol by Soulpepper.  Very high standard.  Not a bad seat in the house and very good value price-wise.  We'd certainly go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Intimate venue with reasonable prices",
+      "text": [
+        "Located in the Distillery District, this theatre is a combined facility for the Soulpepper theatre and George Brown school for performing arts.",
+        "Parking:  There are three green P lots around the district as well as metered street parking.  Parking is not that cheap, but in some cases it is best to pay the maximum in order to not run afoul with parking enforcement if you plan to spend a few hours here.",
+        "Facility:  The lobby area is a large, airy spot that has some casual cafeteria style seating, a small café and the ticket desk. Signs direct you to the different theatre venues.  The café will serve basic snacks such as cookies, as well as coffee, cold drinks and alcohol.  You are permitted to take your café purchase into the theatre.",
+        "Theatre: The theatre is an intimate setting.  The theatre we attended had room for approximately 300, but was perhaps 30-40% full. There were staff to help you find your seat, as the seat numbers and rows were not marked well.",
+        "Price: Prices are reasonable for live theatre in the city.  There are also promotions for same day rush seats, patrons under 25, and student tickets.",
+        "Overall:  If you enjoy live theatre, you are encouraged to attend a performance."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Streetcar Named Desire Fairly Desirable",
+      "text": [
+        "Went to see the show on September 21, 2019. Pretty decent performance. Blanche was the hit of the show and Mitch was second favourtie. Stanley wasn't quite as believable/edgy as I thought he would be but then being compared to Marlon Brando is big boots to fill!!  ",
+        "Felt a little long by about 3/4 way through. Enjoyed the musical interludes and the neat way that the band was displayed. Great theatre. Easy to see and hear from anywhere I would imagine even though we were only 5 rows from the front.  I would recommend it to friends but wouldn't recommend the vegan chocolate chip cookie at intermission :-)"
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Wonderful Venue and excellent show",
+      "text": [
+        "We went to see ART it was wonderfully entertaining, the seating arrangements are very well done, If your wondering about going don't hold back we will be going again in the near future."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Fool for Love",
+      "text": [
+        "We attend at least half a dozen theatre performances in the Young Centre annually. It is the home of Soulpepper Theatre, a major Toronto cultural attraction. This afternoon we saw Sam Shepard's \"Fool for Love,\" a difficult play but very well performed. Recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "My favourite Toronto theatre",
+      "text": [
+        "A friend and I frequently see the shows at this facility, actually three theatres. They produce new and old material, musicals and drama. I love it because it's an easy drive in from Whitby for me, and there are several v.g. restaurants for pre-show dinners. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018"
+    },
+    {
+      "title": "\"Bed and Breakfast\" is GREAT!",
+      "text": [
+        "Our family (husband, teen daughter and her friend) loved this play.  The actors were phenomenal and it was a joy watching them cycle through the different characters they play.  It was unbelievable that so many characters were played by two actors.  I love this intimate type of theater.  ",
+        "I wish I had known there were rush tickets readily available for the Saturday matinee (would have saved some $$).  Also, I would recommend sitting in the center seats.  We were seated on the side and I literally had a cramp in my neck by the end of the show."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "Sisters. Excellent!!",
+      "text": [
+        "I went to see the matinee performance. I was only in town for the weekend and didn’t know what to expect. Well it was brilliant. Not just the acting, and the leading lady in particular, but the production too. Nice venue also. I had a vegetarian sandwich and a glass of white wine which were great. All in all good value for money. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Solo"
+    },
+    {
+      "title": "Great Venue",
+      "text": [
+        "First time at this venue and I was very impressed - enjoyed the performance very much. Will definitely be back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "Animal Farm",
+      "text": [
+        "We went to see Animal Farm at the Young Centre.  The venue was very nice, not too big.  I don't think there was a bad seat in the house.  Everyone was very pleasant and the performance was spectacular."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018"
+    },
+    {
+      "title": "great location and comfortable set up",
+      "text": [
+        "We had an enjoyable evening down at the Distillery District.  Had a nice meal at Tappo and then tickets to Twelve Angry Men at the The Young Centre for Performing arts.  Charming theatre built into the old buildings of this amazing part of town.  Love the restoration  of the old distillery buildings.  The stage was very clever for this production.  I don't think there can be a bad seat in the theatre.  I thought the play was brilliantly acted and produced.  The food looked tasty, but because we had eaten, we did not need to eat more."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2014 • Friends"
+    },
+    {
+      "title": "Unhappy with the service!",
+      "text": [
+        "I have visited my fair share of theaters in Toronto and I have to say this was the worse customer service experience yet.  A large group of friends attended this theater for a show for a friends birthday, now this theater has a no entry once the show has started rule but since the show was only an hour long they stated they would make an exception.  I arrived with 2 other friends at 8:12pm after having a very difficult time finding this place for an 8pm show.  Upon arrival there were about 12 people waiting to be allowed in to their seats.  We were given the message that because the show has started we had to wait; we could not enter and disturb the performers but could watch the show on a very small TV hanging on the wall outside the entrance door.  A man came out and took 5 girls into the show and sat them in the very front row (we could see this on the TV), then came back out and shared some whispers with the lady that asked us to stand outside. Several minutes later, several whispers from the staff, and several sighs from the upset waiting guests we were told (only after being asked what the hold up was) that because the show has started and although we all have tickets with specific seats we could not sit in them because if there were in the middle of a row that would disturb the show.  They were moving people around and removing others (who I am assuming were staff or friends of staff or just non paying guests) that filled the empty seats and trying to locate seats for all.  We were told to stand in this really dark small almost sound proof room and wait for directions as to what to do next.  Now not only can we not see the show but we also cannot hear the show.  Several guests as well as myself became upset and we were giving the message to either wait in here, stand at the back of the show and not make any noise but if we were heard talking we had to leave or go back outside and watch from the small TV.  When questioned on how come it was ok to seat guests in the very front row without any issue but not able to seat us we were given the same message as to where to wait but now added was a you can choose to leave and not watch the show, without receiving a refund! ",
+        "It was not until 8:28pm that me and my 2 friends were finally seats (in seats that were not ours I must add).  This situation could have been better dealt with, do not give the message that we cannot be seated due to the location of our seats when you seat people in the front row minutes before without issue, then later say that they are removing/moving people to allow us seats.  All of this is just as or possibly even more disturbing then if you would have just allowed those there to watch the show get to the seats quickly and quietly.  Due to this whereas I would have only missed 15 minutes of the show I now missed half!  Not happy at all!!",
+        "Also a word of advice to women,be very careful when wearing heels as the ground is laid with all uneven stone (bricks), although this gives the overall look great appeal is is quite difficult to walk and I almost tripped a few times making the walk to the theater."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2013 • Friends"
+    },
+    {
+      "title": "Best theatre experience in Toronto",
+      "text": [
+        "We've been going to Soulpepper Theatre for years, so we've have had ample reason to appreciate its acting spaces. If there are bad seats, I haven't sat in them. The food on offer is very good: a bowl of soup and a sandwich or wrap make for a fine start to the evening. Most important, the productions are uniformly very good to excellent. During the past two week we have seen Rosencrantz and Guildenstern Are Dead and, most recently, Spent. The latter was very good fun, the former is an absolutely \"most see\" show, so I'm taking our son there tomorrow. Soulpepper has assembled a stellar group of regulars whose performances make one glad to be living in Toronto. If I have a favorite it is Diego Matamoros, but there are so many others who are excellent that it seems almost unfair to name them, lest I slight the ones I don't. Let me simply say that Ted Dykstra, Jordan Pettle, and Kenneth Welsh are superb as the principals in R and G. For visitors to Toronto this should definitely be part of the agenda."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2013 • Couples"
+    },
+    {
+      "title": "Great productions in a quality environment",
+      "text": [
+        "The centre is modern and well outfitted with comfortable seating.  We often attend Soulpepper productions and find that they are always well presented with quality acting.  We enjoy the intimate setting and the variety of the productions.  Each year, there are offerings to please a variety of tastes."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2012 • Friends"
+    },
+    {
+      "title": "Can't Wait to Go Back!",
+      "text": [
+        "I ordered tickets online for a show I read about in the Globe and Mail. The order process was easy and quick and there is no worry about losing tickets in the mail as they are not sent out, you simply pick them up  at the venure before the show. The venue is intimate without being too tiny, the service from everyone from the people at the door to the ticket desk, the bar and the ushers was absolutely impressive. Where do they find this many nice people?!? The location is very easy to find (I came from 150 kilometers south-west of Toronto) and parking was also easy to find. The distillery district where the theatre is located is a fun place with lots of ambience, art galleries, restaurants and boutiques. The next show I go to I will be leaving at least three hours early so I can visit the shops and have dinner in one of the nearby restaurants. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "LOVE SOULPEPPER! ",
+      "text": [
+        "In 20 years of regular theatre-going in Toronto, Soulpepper has been our only consistently excellent experience.",
+        "There's a great variety; from classics to translations, adaptations and restated fringe plays. Every production has been outstanding and manages to connect with the audience in an authentic, intelligent, and often challenging way.",
+        "These are plays we talk about for weeks afterwards - neither mediocre musicals for the masses nor bizarre avant guard stuff, it always hits just the right note.",
+        "No one else is doing this caliber of theatre in the city. ",
+        "Soulpepper is also engaged with the community, regularly giving back to various local groups, and has a sensitive, comprehensive accessibility policy for people with disabilities. (So much cannot be said for many other theatre companies.)",
+        "The theatre space itself is lovely, nestled in the Distillery District and ticket prices are reasonable. ",
+        "We will keep subscribing year after year."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2016 • Couples"
+    },
+    {
+      "title": "Theatre venture enhances Distillery District",
+      "text": [
+        "We went to see Twelve Angry Men at Soulpepper in the Young Centre. I thought it was a great play  the first time I saw it, many years ago - but this is a better and stronger performance altogether. Drama can be everywhere, of course, but sometimes the best of stories focus on a singular place and time, like a ship at sea, a castle under siege, a space station or a room in which a jury deliberates. It is not an easy process to co-ordinate and hone the skills of 13 very competent actors on one small stage; but the director has found the balance between outrage and deliberation as the memory of facts becomes deconstructed, examined and re-constructed a number of times. It is a very human play where the best of motives can eventually overcome the worst - unlike the less savoury outcome so often evident in the real world. The movie that features Henry Fonda is a good iteration of this play; but the Soulpepper production is better and more immediate, in a way that live theatre can lift us and carry us in its slipstream.",
+        "The Young Theatre Centre is a fine specimen of the restoration/renovation genre, where former exterior walls are magically recombined with the help of steel, wood and glass into new and exciting structures that have new purpose, whilst still referencing the historical use of the space. The seating is well appointed in the theatre, but there is also lots of other space to explore in the foyer, where food and rinks are available and which many patrons are enjoying. Certainly a night to remember, as was also the tab for parking - which at $16 to cover the period for a meal and the theatre is excessive, right up there with hospital parking costs (that the government is thinking of regulating because they are excessive). Perhaps a better (and greener) approach would be to take public transit, although in that case, the return journey on a cold night might take a while."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2016 • Family"
+    },
+    {
+      "title": "Lots of leg room and a bar for your feet",
+      "text": [
+        "I am a relatively new attendee of this theatre. Parking is a pain and expensive, more so than downtown which has $6 parking in most underground lots after 5 or 6PM. The theatre is small and comfortable, which for me is a biggy. There is room for your legs, no matter how tall you are, and a bar on the chair in front of you to rest your feet! The stage is big, the seats comfy and so far the quality of the plays have been exemplary. Of course you can go early and have dinner, stay late and have a drink, in the theatre or within The Distillery itself. A stroll about is always an option as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Friends"
+    },
+    {
+      "title": "Not disability friendly.",
+      "text": [
+        "Theatre seats, at least for the production I saw, were islands of isolation, separate from everyone else, we were unable to sit with our family, even though the tickets were bought as a family outing. Men's washroom is blocked by a huge pillar."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2015 • Family"
+    },
+    {
+      "title": "Spoon River revisited",
+      "text": [
+        "Having enjoyed this show very much the last time we saw it, we went back, this time with our sons and with several friends. It really is a spirited production, well-directed, well-acted, and with infectious music. Soulpepper Theatre is doing great work."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2015 • Friends"
+    },
+    {
+      "title": "Creative and Excellent",
+      "text": [
+        "This was our first visit to this theatre. I was impressed with the creative settings and the quality of acting! It was and excellent performance. Tickets were moderate for live performance. We viewed one of the historical comedies of a series about Pierre Trudeau and Rene Leveque. You do need to know about bit about the politics of the time and the separatist movement in Quebec to fully appreciate the humour."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2015 • Friends"
+    },
+    {
+      "title": "Enjoyed our experience for the most part",
+      "text": [
+        "We had the pleasure to attend the production \"Of Human Bondage\" - our first time to the theatre. The production was clever and kept you interested throughout as you watched the players provide sound effects as well as their fascinating performances. No wonder it won so many awards on its first run. ",
+        "The theatre itself is \"interesting\" although I would not say comfortable. We were seated in the middle of the second row and when we first sat down I said it felt as though we were in \"bad airline seats\"- there was SO little leg room. My legs cramped so much I kept thinking about leaving. Just as the intermission ended I noticed that the seats in front of us were pushed back-they are not adhered to the floor. This  meant a section of about 6 seats were out of alignment and cut our leg room in half! Such a silly thing but it was too late to do anything about it and we had to suffer. I wished I had figured it out sooner although it would have been a bit of a challenge to straighten it out. ",
+        "However, the show was good, sound was great (no trouble hearing) and actors worked very hard. It was a bit pricey but not for TO standards I  guess."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2015 • Couples"
+    },
+    {
+      "title": "Rush to see Spoon River Anthology",
+      "text": [
+        "Make sure you see Spoon River Anthology, the latest of many first-rate productions in the Young Centre and one that affirms life even as it deals with death. Mike Ross has done a splendid job setting some of the poems of Edgar Lee Masters to music, while the direction by Albert Schultz is equally good. Fine performances by all in a production that establishes anew Soulpepper's claim to offer the best theatre in the GTA. Make sure to get your tickets quickly, however: the performances are likely to sell out quickly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2015 • Couples"
+    },
+    {
+      "title": "We keep coming back and bringing our family",
+      "text": [
+        "While this is a long way from broadway- maybe not that far at times - it does offer some great performances and intimate theatre that is both charming and entertaining as well as expanding your horizons. We are now season ticket holders and enjoy the wide range of plays available and the fact that many are very relevant to our current day lives. ",
+        "As a Christmas treat we took our 7-year-old Granddaughter to see Mad about Munch and she was enthralled. The theatre is small and you are greeted by the actors - all young George Brown students - who kept even the youngest children well entertained and captivated. At the end they shook hands with everyone as you left. It was fun and a real deal for the cost. ",
+        "Lot to see and do in the District so make sure that you allow time to explore the many shops and restaurants. Good eats and drinks at the theatre as well but allow time as the service is often overtaxed by the demand."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2014 • Family"
+    },
+    {
+      "title": "Distillery District Surprise",
+      "text": [
+        "We recently purchased tickets for one of the George Brown College productions here and were pleasantly surprised to find it a top-notch professional theatre venue. The theatre is located in the Distillery District and there are not only many eating options nearby on its brick-cobbled streets, but the theatre itself has quite a fine selection of light food options, meaning you don't have to seek far to have a bite before a show.  The lobby space was a large and welcoming place to wait, with comfy couches.  The GB student production itself was akin to professional caliber, and easily as good as many community theatre productions I've seen over the years in NY, London, or San Francisco. They seem to have another company (Soulpepper) that shares this space as well.  It was an affordable delight.",
+        "Really, my only criticism was the HVAC controls.  This show was in the small \"Tank House Theatre\" (note there are several stages on site), and they seemed unable to regulate its temperature, so the room got unbearably hot.  For a three-hour show, that makes for a bit of a grim night.  But that's my only criticism."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2014 • Couples"
+    },
+    {
+      "title": "Soul Pepper: A movable feast",
+      "text": [
+        "I went to this show purely based on the title, having read the book. I knew nothing of the show or the presentation, but was pleasantly surprised by the adaptation. The music and story telling were excellent and entertaining. I would recommend this show to most anyone."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2018 • Couples"
+    },
+    {
+      "title": "Soulpepper’s annual \"A Christmas Carol\" - It's Superb",
+      "text": [
+        "To complement Tafelmusik’s Messiah, the next day we take in Soulpepper’s annual A Christmas Carol in Toronto’s Distillery District which was packed with people celebrating winter.",
+        "John Jarvis, who plays Marley’s ghosts, reminds us at the beginning “that this is a ghost story” and quickly we are engaged in Dicken’s Christmas scenario of diligent Bob Cratchit (Jordan Pettle) trying to support his poor family including Tiny Tim (Cody Black) working for the mean-spirited, bah-humbugging Ebenezer Scrooge (Joseph Ziegler) who gets a wake-up call not once but three times thanks for former partner, the deceased Jacob Marley (Jarvis) who plays a convincing ghost.",
+        "Ziegler, a Stratford Festival regular and co-founder along with Albert Schultz (Artistic Director) of Soulpepper, is perfectly suited for this Victorian morality tale, and amidst a sparse stage, he convincingly transforms from a money-grubbing Donald Trump to a let’s-all-get-along Nelson Mandela ‒ after the three ghostly visits.  ",
+        "Soulpepper is a highly accomplished non-profit theatrical group that works to develop youth as well as producing top-notch plays, in the same professional league as that of Shaw and Stratford. It’s home base, the Young Centre for the Performing Arts, is easily located in the Distillery District at 50 Tank House Lane, and it’s convenient to get to on the King streetcar (every 3-4 minutes). Get off at Trinity and walk five minutes south."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Couples"
+    },
+    {
+      "title": "The Goat: Or Who is Sylvia",
+      "text": [
+        "We went here to see a fun production of Edward Albee's The Goat, which we loved. The centre is in the distillery district and is a beautiful setting for a theatre, which was intimate and had a high-quality of production."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Couples"
+    },
+    {
+      "title": "Leonard Cohen!",
+      "text": [
+        "Happened upon this delightful live theatre performance in the Distillery District. Not to be missed! At 6:30, an hour before showtime, they release add'l tickets for $25!!! Excellent. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017"
+    },
+    {
+      "title": "Its 100% a 6 star plus rating!",
+      "text": [
+        "I was lucky to catch the last 2 tickets for Spoon River at the Distillery District’s Young Theater on Friday April 21st. Our tickets were $35 each and it was the best $35 ever spent. We were in the Baillie Theatre. Rows D – G are mid-section to the stage and make for a great view of the stage but since the theatre is cozy all seats are really good. The group sang, played multiple instruments & acted continually for over 90 minutes. Their voices filled the theatre and the music was warm and exciting to your body and soul. It’s a light & satirical twist on life after death and how the characters lived their lives before their death.  The outstanding part of their acting was each cast member played more than one part. Each with a new accent sometimes and a very different story of what their life was like before ending up in the Spoon River Cemetery.  It ends with a reminder of how we should live our lives. After losing my husband to cancer 4 years ago, it may be wonder what funny things he would say if I could hear him speak about our lives on earth.  It truly was the best play I have ever seen in my lifetime and I have seen a lot of them. If you missed it in Toronto, It will be worth the trip to New York City to see it there starting July 2017. -You know its great when NYC takes it on. See it at Soulpepper on 42nd St."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Friends"
+    },
+    {
+      "title": "Intimate Theatre Up Close and Personal",
+      "text": [
+        "There are few bad seats in the place and most put you within spitting distance of the stage .... but remember that the actors can spit back. You can't help but feel part of the action here and they go out of their way to create entertainment events that bring you among the best stage performances that Toronto has to offer. ",
+        "No pretence here - just good fun, good vibes and bar drinks that you can take to your seat. Very civilized indeed. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2016 • Couples"
+    },
+    {
+      "title": "Best little theatre.",
+      "text": [
+        "The production of The Last Wife at Soulpepper Theatre is first rate.  Written by Kate Hennings, it is the story of Katherine Parr, last wife of Henry V111,a feminist, who acts as regent in Henry's absence and oversees the education of his children.  Done in modern dress, it is very effective in portraying the character of these historical figures.  Soulpepper is a great asset to the theatre world in Toronto, with excellent productions.  The theatre is small with good sight lines and intimate viewing.  Their restaurant serves a variety of light snacks, which can be enjoyed with a glass of wine.  We are looking forward to seeing more plays there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Couples"
+    },
+    {
+      "title": "Great place to see a play",
+      "text": [
+        "Being in the Distillery District, a visit to the Young Centre can be an excursion of art galleries and excellent food. Then a play! Also the Centre has a wonderful Cafe with good food and libation. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Couples"
+    },
+    {
+      "title": "The Most Fun I've had at a Play!",
+      "text": [
+        "We went to see The 39 Steps and laughed hilariously throughout the entire performance!  The actors were magnificent especially Anand Rajaram and Andrew Shaver who had in stitches.  I honestly can't say enough about how good this performance was, it's a MUST see, Soulpepper should really bring it back!  Thank you, so much, for such an excellent piece of entertainment."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Couples"
+    },
+    {
+      "title": "Great cast, interesting area.",
+      "text": [
+        "We went to see A Doll's House performed by the Culpepper Group and it was fabulous.   The facility has three small theaters, and the sight lines and acoustics were great.  The seating became somewhat uncomfortable after about an hour, but not horrible.   There is a bar in the lobby, and everyone we talked to was very friendly. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016"
+    }
+  ]
+}

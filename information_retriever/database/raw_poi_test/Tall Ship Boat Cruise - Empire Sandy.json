@@ -1,0 +1,384 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Tall Ship Boat Cruise - Empire Sandy",
+    "url": "/Attraction_Review-g155019-d3387825-Reviews-Tall_Ship_Boat_Cruise_Empire_Sandy-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "539 Queens Quay W At the foot of Lower Spadina and Queen's Quay",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 3G3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 84
+    },
+    "openingHours": "Mo-Fr 09:00-17:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f1/34/d3/the-tall-ship-empire.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Boat Tours",
+    "Boat Rentals"
+  ],
+  "description": "Toronto Harbour's finest venue for hosting dinner cruises, lunch cruises, weddings and private charters. At 200 feet overall and 11,000 square feet of sail, the Tall Ship: Empire Sandy is Canada's largest passenger sailing ship. Sails are hoisted as the ship departs and the wind is harnessed to propel the 740 ton Empire Sandy along Toronto’s scenic waterfront. Wide expansive decks and spacious wood paneled lounges set the tone for a comfortable yet exhilarating experience.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "A rare opportunity to sail aboard Empire Sandy.",
+      "text": [
+        "This past Sunday, September 15, I attended the Toronto Waterfront Festival at Sugar Beach.  One feature of the festival was cruises aboard the tall ship Empire Sandy.  ",
+        "I'd buy a ticket and go aboard, then set sail.  The views of the Toronto skyline and the Toronto Islands were \"out of this world\".  The weather was warm and sunny, and the water sparkled."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Great family fun!",
+      "text": [
+        "Our 7-year-old grandson had a fantastic experience. This is how great memories are made! I would recommend it for families, couples and friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "A beautiful and unique view of Toronto",
+      "text": [
+        "The Empire Sandy Air Show boat cruise exceeded my expectations. We had a beautiful day ... in full sail like the picture. The crew were hard working, attentive, and fun. The buffet was hot and delicious ... even chocolate chip cookies right out of the oven. I highly recommend the cruise for Toronto visitors and residents alike. A worthwhile and unique view of Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Disappointed",
+      "text": [
+        "Won't recommend it.Tall ships suppose to have sale up at least that's what we expected, without sale it's like being on tug boat. too long sitting on the deck. They don't provide vegetarian meal even when requested 3 times ahead of time. ",
+        "We took Welland canal cruise beginning of August."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "A nightmare from start to the bitter end - deceiving advertising",
+      "text": [
+        "The huge line-up at the start should have given it away, but once on-board we were shocked to learn dining below was so cramped that it likely contravenes any safety and health regulations standards, never mind basic hospitality and decency. The soggy crackers did not qualify as hors d'oeuvre or appetizers, but rather as a warning for worse things to come. It was impossible to stay below the deck because the air quality due to the lack of ventilation was unhealthy. The ship never sailed, the two sails that were put up were for decor only - see photo below. Evidently, the concern for the cost of fuel must have taken us at most 2 km down and then back to port - this was NOT a cruise! Dinner on a small plates after waiting was 1 star, and the portion was child-size - when I requested a bit more, I was told \"you have to leave food for the other passangers\". Later on, the same happened with the dessert, an interminable line-up to get a thin slice of something supposed to be cheese cake, but I wouldn't call it food. People bundled close to the exit for the last hour, including us, anxious to escape the nightmare. After fighting our way to get off they even had audacity to ask for tips - really? In a single word - SHAME..."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Cruise from Brockville",
+      "text": [
+        "This is not a cruise - we travelled 2 kilometres at most - we did not sail - they put up 2 sails for effect but we didn't more - no seating - we could not stay under even in the rain because ventilation was so bad.  No air below.  The food was terrible - line up for dessert was crazy (250) people - and the slice of cheese cake was so small it wasn't worth the wait. I couldn't get off the boat quick enough - OMG $98.00 per person - what a rip off, it was awful - just awful."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Vastly overrated",
+      "text": [
+        "Dinner cruise from Brockville. Crammed quarters, horrible food, worn out ship... really guys? Dinner for 275 but seating for barely half that?",
+        "Bar was well stocked and finger foods were excellent... but barring that, the rest was very below par.",
+        "And to top it off, they try and gouge extra tips out of you at the end. Sorry kids, you tapped me out at the ticket price and bar tips"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Empire Sandy Dinner Cruise Brockville Tall Ships Festival",
+      "text": [
+        "Cool ship, nice crew but don't waste your money on dinner cruise ($85 pp). 275 guests on board but only seating for 160 so the rest had to stand above board to eat. Served cheap, poor quality food. Beef was too tough & impossible to cut when one hand was holding a plate so I didn't eat it. Portions were small. Salad blew away in the wind. I recommend only going for sail-out on this ship. Don't do the dinner cruise."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Disappointed ",
+      "text": [
+        "Expected more for the money on the Empire Sandy tour...dinner was awful...cheap buffet food with very little attention to detail ...shrimp was dumped on a plate...no ice ...with liquid on plate ...nasty ....roast beef more like jerky...vegetables n tasteless rolls...not impressed ...should mention overcrowded and standing whole time on the water....wouldnt recommend!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Fantastic!",
+      "text": [
+        "What a great time.   Food was all really good and and many many options.   We were full on the Hors d’oeuvres that they handed out before the main course even came,  but the main course was so good we couldn’t help but have that too.    The staff was very helpful and nice. They helped my father in a wheelchair get onto the boat no problem.    They even shot a cannon off at the conclusion of the trip."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "Tall ship cruise-Empire Sandy",
+      "text": [
+        "MY husband and daughter and I had a relaxing beautiful cruise in the afternoon. The staff are very impressive from being able to set the sails to serving customers with drinks and food. They also entertain while we cruise! Recommend an afternoon on the Lake"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Great experience and scenic way to see Toronto.",
+      "text": [
+        "I was given the lunch boat cruise on the Empire Sandy as a Father's day present and last weekend, we finally had an opportunity to go.  It was a blustery and cool day so it was good that the  Empire Sandy is a large vessel and there was hardly any motion.  My expectations with tour boat excursions are not high but I was very pleasantly surprised by this trip: the crew were friendly and professional; the food service included appetizers, buffet chicken lunch and a desert table, all good; the sailing experience was interesting and the views of Toronto were memorable.   There was also no shortage of beverages with both a deck bar as well as one in the dining room. ",
+        "Even if sailing is not your thing, I would recommend this experience.  I just wish I had put on some sunscreen."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Family"
+    },
+    {
+      "title": "Worth every penny",
+      "text": [
+        "Went on a groupon coupon air show lunch cruise on Sept.2/17. Wow what a nice cruise. We started with excellent help boarding my elderly mother. Then were greeted with cheese, crackers and veggies. Plenty of appetisers for all. Then we set off around the Toronto Islands. Soon they passed around delicious shrimp with seafood sauce and then some cucumber, cheese and smoked salmon canapes.  Lunch was served and was very orderly and controlled with two buffet tables. They served rolls and four types of salad. Potato, Caesar, Spinach with strawberries and tossed. Then they had hot grilled veggies, rice and chicken breasts. All were served to your china plates by a friendly crew. Everything was delicious with exceptionally tender chicken. Dessert was served a little while latter. Fruit trays of fresh watermelon, cantaloupe, blueberries, pineapple and cherries. They had many cakes to choose from. We choose the cheesecake which was decadent. We cruised around the harbour enjoying the music and the air show at a distance. Then set off the cannon at the harbour front. Wow! We docked and once again we had excellent help disembarking my mother from the vessel. We were offered a sweet chocolate covered strawberry to finalise our journey. Wow! Worth every penny. A great experience with a caring crew dotting the i's and crossing the t's. Fantastic attention to details and attention to passengers needs."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "Air Show/Lunch Cruise",
+      "text": [
+        "There wasn't anything not to like about this cruise. The tall ship Empire Sandy is beautiful. The staff are A+. The food was excellent and plentiful. They fed us from the minute we came onboard til the time we were docking. The weather was chilly and windy so we rocked a bit but you can expect that on the water. My one and only complaint was we couldn't see the air show very well. Even with that I will definitely sail on the Empire Sandy again, and again, and again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "Must experience this amazing Sail with a great view of the Toronto skyline and a good meal :) Blue Room music kept our spirits high despite the downpour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "A great day on the water.",
+      "text": [
+        "We were part of a large group organized by the Retired teachers of ontario for a daylong cruise down the entire length of the Welland Canai from port Colbourn to Port Weller. We left dock about an hour late due mainly to higher priority traffic on the canal, after that everything was plain sailing. Al together there were about 150-180 aboard and the crew were totally amazing!  On boarding muffins, Danish, tea, coffee and water were avaiilable for all. Mid morning snacks of cheese, crackers and fruit plus veggies were offered. Lunch consisted of cold cuts, buns and assorted salads. Dinner consisted of very tender roast chicken, rice, pasta and Caesar salads and bread buns. Throughout the entire trip the crew were constantly bringing around ice water and glasses completely free of charge. In fact coffee, tea and water were constantly available and free for the entire trip. The crew were wonderful, friendly an polite for the entire trip.The DJ was absolutely fantastic, playing a great selection of music, dancing, singing for most of the trip.  I would/will definitely take this trip again!! ",
+        "Just in case your interested, I don't have any connection to this organization, my wife and I are both in our mid 60's and retired.",
+        "Had an absolutely wonderful time!   Mike E."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "Second hand smoke was worse than the fumes from the ship !!",
+      "text": [
+        "It is hard to believe that in the year 2017 there is smoking allowed on the Empire Sandy ..  not only putting passengers at risk in terms of fire .. but having to breathe it in for four hours ....  very disappointing !!  ",
+        "Food was cold  .. the ship hit the boat in front of us .. stuck in the canal for the entire trip  .. not a nice time  ..  I would even give it a another chance if it wasn't for the second hand smoke  .. worse than the fumes form the boat"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Disabled friendly? Think again.",
+      "text": [
+        "My wife pre-booked this trip as it looked like a really nice way to see Toronto from the harbour. And don't get me wrong, it was. But I am paraplegic and a full-time wheelchair user so its eligibility for a wheelchair user was put to them by my wife before she booked it. Is it definitely safe for my husband she asked on many an occasion. Their response was basically, hey, we do this on an everyday basis,nothing to worry about.OK. Great. Let's do it then. ",
+        "Turning up on the day we noticed they actually have 2 different boats to sail on. A big boat holding 252 people and another that held 83. We were too late for the bigger boat so we had to board the smaller one. Now, initially,there was a fuss as to whether I could actually board the boat as the ramp onto it was at a 45 degree angle and I'm not the smallest man to push up that a type of incline. But they said they give it a go and it worked. Great.On board and ready to set sail.",
+        "To start with I was placed in the middle of the boat with nothing to hold onto when two ladies behind me said they would move so I could rest next to the box they were sat on. Lovely. Then there was room for my wife as well and a nice place to view the harbour from. We set sail and for 20 minutes all was fine.Then the sails were released and the boat started to turn. Sharply. And to the right. Now this may have a nautical term, be it Starboard or Port but I scared as hell and I'm 'sure stop the boat!' is universal in any language. I didn't have my brakes on either (my fault) so I swung to the right and smashed straight into my wifes leg and the poor guy sat beside her. OK, I should have had my brakes on but come on, this was supposed to be wheelchair friendly! ",
+        "The people on the boat all had a laugh and I suppose it was funny but then the guy doing the sails said the boat could actually tip so the sails are actually in the water. At this point I just wanted to get off. My poor wife had to hold onto my chair for the whole journey so I didn't tip again and luckily it didn't. But to claim it to be disabled friendly was beyond a joke.",
+        "Leaving the boat the captain asked me if enjoyed it. Yes, apart nearly going overboard and hanging on with white knuckles it was great! Sarcasm doesn't travel over the Atlantic and he just slapped me on the shoulder and said 'well that's just swell!'.  ",
+        "Seriously, it's a lovely ride if not a little bit dull but if you are a wheelchair user, try the bigger boat. I assure you it must be much safer than holding onto nothing and hoping the winds don't pick up for the 90 minutes you are on board. ",
+        "Nice trip but never again, sorry."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Enjoyable but would be more so if the sounds you heard were nature's!",
+      "text": [
+        "A fun interlude on Lake Ontario. The Toronto skyline is the main feature as the ship does not really travel that far. It's an enjoyable way to spend an hour and a half being on the water. We left at 11.30 so the lunch menu was adequate and what you would expect if you want to grab a quick bite to eat. Only criticism - the music. It's loud and awful. Surely part of the enjoyment of sailing is being able to hear the natural sounds around you and not have them drowned out by thumping recorded music - not even nautical music at that!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Awesome",
+      "text": [
+        "Great time great staff great views very nice time a nice but of history as well food was good as well "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Business"
+    },
+    {
+      "title": "Waste of times",
+      "text": [
+        "45 minutes sailing was great! Sails down and stopped for dinner with no motion! Then motored for approximately 30 min and sat for an hour in the same spot until it was time to return to the dock! So the first 2 hours were nice and the last hour and a half boring and miserable waiting for the time to pass! ",
+        "Drink prices reasonable, cheese plate and veggies on arrival good, appetizers of smoked salmon and shrimp excellent but dinner itself was not good! Consisted of some low quality salads, rolls and dried out roast beef that was not edible! However the desert was again good with cakes and fresh fruit !The staff all worked hard and deserving of a tip as you left the boat and were given chocolate covered strawberries!",
+        "A staff member told me they could sail no further and had to take the sails down and motor due to a smell from some island ?????",
+        "Problem with shortage of seats on deck and a lot of hoarding by people so if you cannot stand for a  long time than below decks for you with no view!",
+        "Would only go on a 2 hour cruise again and not this length since sitting on a not moving boat with the same city line was not my idea of a cruise!",
+        "Got a deal on wag jag but the last hour and a half made it no deal at all!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Standing room only!",
+      "text": [
+        "We took the dinner/fireworks cruise at Canal Days, in Port Colborne. There was a DRASTIC shortage of seats on board. When on a four hour cruise that is a proble. Some passengers, those in the know brought folding chairs, these they set up all over the place, with no direction from the crew. The deck was crowded as it was, even without the clutter of these folding chairs, many unoccupied at times. We felt this to be a safety issue!",
+        "Dinner was a roast beef buffet with the crew serving out the food. The young women serving the roast beef, was so stingy that we assumed she got to take to left out beef home. Picking her to hold the TIP chest at the end of the cruise could not have been a worse choice, too bad the the penny has been taken out of use, we would have drop two in the chest.",
+        "NOT recommended!"
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Sail away sail away",
+      "text": [
+        "We decided to do the sail boat tour because we’ve always wanted to do one. The crew was fun and professional. We got to help with lowering and raising the sails. We had so much fun. It was just the right amount of time and the cool breeze was perfect.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "July 27th 2018. Lunar Cruise.",
+      "text": [
+        "Fantastic. Lots of fun. The food was wonderful and plentiful. The DJ is awesome. Everyone enjoyed the 3hr cruise and the sights of Toronto at night were terrific. The Lunar moon showed it's self in great spender. The only negative comment is that the bar is too pricey. $9 for a 12oz beer. More seating also on deck is needed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Cruise July 27th, 2018",
+      "text": [
+        "We thoroughly enjoyed ourselves.  Had a WagJag coupon for this event and I must say it was worth every penny.  Appetizers were good, buffet was nice and a lovely dessert table with a nice variety.  DJ was excellent.  A few surprises!! Lovely night on the lake, would definited recommend and would do again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Just right, slightly Bohemian.",
+      "text": [
+        "Great atmosphere, nice crowd, fun DJ, unique cannon-firing and gorgeous sunset Toronto skyline! Guests talked to each other, friendly as only a Canadian crowd can be, i.e. without invading your space. Buffet quite good, desserts flawless, cash bar quaint all in all very enjoyable evening.. You left feeling warm and fuzzy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Great views of the city.",
+      "text": [
+        "Enjoyed the cruise and the views. Went out through the Easter gap into the outer harbour, and returned the same way. We had a thunderstorm at the half way point on the cruise. It rained heavily for about 15 minutes but the crew sprung into action by putting up some tarps to protect the passengers from the rain. It cleared by the time we returned to the dock. The city lights were an interesting sight as we returned to the harbour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017"
+    },
+    {
+      "title": "Not for me",
+      "text": [
+        "I recently went of the 75th Birthday Cruise and was unimpressed. The bathrooms were filthy, The main deck had a few park benches, all of which were broken. There were chairs below deck but too hot to sit there and of course no view. So you were expected to stand for 4 hours . Most suitalbe for a young adult party, would not recommend for families or anyone who can't stand for long periods. Reallly what would it take to have some seating??"
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Empire Sandy 75th Year Boat Cruise",
+      "text": [
+        "Another fantastic year aboard the Empire Sandy. Food was fantastic, everything was cooked to perfection, always helpful friendly staff and as usual the music rocked. It was are third year back and every year we are never disappointed, highly recommend you at least experience sailing once on the Empire Sandy. Thanks to everyone."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Mixed Experience",
+      "text": [
+        "The cruise itself had spectacular views, especially at sunset. The food was also delicious. However many participants were smoking tobacco or pot and the air was a bit of a nasty, stinky haze. There should be a non smoking policy on board as everyone on board is sharing the same air."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Outing with friends at Canal Days in Port Colborne",
+      "text": [
+        "6 of us bought tickets a month in advance, for the Sunday evening dinner cruise and fireworks.",
+        "The evening was beautiful, temperature great, music good, dessert good. Fireworks were incredible!!!!!",
+        "We found the boat to be too crowded and no where to sit. Some people brought fold up chairs, guess they were warned! Standing from 6-10 was uncomfortable, with little room to move.",
+        "There were tables set up to eat below deck, but it was too warm to sit and the diesel fumes were awful and the air conditioners were not on.",
+        "The information stated an air conditioned dining area.",
+        "The appetizers were good and plentiful. The roast beef was good, as was a couple of the salads.",
+        "Staff worked extremely hard and were helpful."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Not a comfortable cruise",
+      "text": [
+        "Our group of 4 went on the dinner cruise during the Port Colborne Canal Days.  We purchased our tickets by phone and the sales rep neglected to advise us of some very important information. We were told the wrong location to pick up our advance tickets.    We should have been told to bring our own seating (lawn chairs!)  as there is no seating on the upper deck.  The ship was super crowded, we would gladly have paid more to be with 1/2 the people.  The dining room below deck was very hot and had little ventilation.  The dinner was ok, but the roast beef was overdone and dry.  The salads and vegetables were good, as was dessert, but nothing really special. The line ups for food were crazy long.  Overall it was an uncomfortable cruise.  For the money, we expected much more from this experience."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Great experience, terrible food",
+      "text": [
+        "Having lived in Toronto for 12 years and seen the gorgeous Empire Sandy parked at the foot of Spadina for years, it was a long-standing tourist dream come true for me to take a dinner cruise on my Canada Day birthday on the massive vessel. The ship is an absolute beauty above deck, the crew is fantastic and the overall experience was just superb. The captain is funny and it was lovely to see how the sails go up with young crew people working so hard to make it happen. They even set off their teeny cannon and it was quite the spectacle!",
+        "However the food was beyond abysmal. I've done harbour cruises before so I knew it wasn't about the food, but this was even below my already low expectations. Apps were passed around but very limited and there were two dismal looking veggie platters set out on tables. The choices for dinner were limited to say the least. They only had ONE meat option - beef - which my partner does not eat. Sides were also limited and he had to fill up on salad and rolls. The salad literally tasted of rotten leaves. At least provide a chicken option? Note that a menu was not provided beforehand and we were not aware of what would be served even though the website mentions a buffet. ",
+        "Below deck is quite a contrast to upstairs and the basic seating and stark look was a bit disappointing given it's a historical ship and more could be done to enhance the experience.",
+        "Apart from the food it was magical. And honestly had there been no food at all, we'd have been fine - but the attempt made at \"dinner\" was a wet blanket on an otherwise stellar time."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Awesome!!!",
+      "text": [
+        "Everything came together beautifully!",
+        "It couldn't be a more perfect tall sail cruise on Toronto' Lake Ontario Waterfront.",
+        "The weather was most ideal with just enough of a lake breeze to offer wind to a full set of sails. The ship and its crew were magnificent as was the finger foods passed on deck prior to a delicious buffet served just prior to sunset. The ship's DJ Ian entertained us with both commentary and fantastic mix of music. A great time was had by all!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Magical summer solstice harbour cruise",
+      "text": [
+        "We have wanted to cruise on the Empire Sandy for a long time, and finally had our fabulous experience aboard this former tugboat. Beautiful ship, friendly and knowledgeable crew, delicious food and a glorious evening to spend on the water, admiring the Toronto islands and cityscape. Met passengers from around the province, many celebrating birthdays or anniversaries (as we were). The trip exceeded expectations, and luckily the weather was glorious. It gets cooler after sunset so bring along a light jacket or sweater. Food is served buffet style on deck, but there is cosy seating below deck if you prefer to eat at tables. It is magical to sail on this ship - highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Air Show lunch Cruise",
+      "text": [
+        "Great experience!!! We loved the ship and the staff was very friendly. We took the cruise while the air show was going on and it made for an excellent and unique trip. Highly recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Air show cruise sailed far away from air show",
+      "text": [
+        "We were totally disappointed!  ",
+        "Since this cruise was specifically mentioned as air show cruise, we had high expectation to see at least most of the show.  We were instead sailed far away from the air show and ended up seeing almost nothing about the air show. ",
+        "We felt that we were cheated!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Not a good experience. Nice view.",
+      "text": [
+        "The ship looks worn-out. Not enough sitting places on the deck. Most of people has to stay all 3.5 hours. It's not a real buffet, as servers count every peace you take. When rain started the food  wasn't removed from the tables on the deck and was served after for remaining customers in as is condition. Smoking is allowed on the deck crowded with small kids and senior people."
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "A great way to spend a lovely summer afternoon",
+      "text": [
+        "This was a private event 'Blues Cruise'.We set sail for a lunch cruise about 1pm.  The service and food were and  good, the lake and bay were calm. After snacking on cheese etc they came around with shrimp and smoked salmon canapes. I could see the chef busy in the galley  preparing lunch. It has been a long time since I actually enjoyed eating chicken and told him so when I complimented him.   Got a few ideas from him and they worked well  at home Thanks again Chef.  Cruising out into the lake and seeing the skyline behind the Island  greenery cuts out the ugly bits along the shore line  and adds to enjoying a day on the water."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Beautiful day",
+      "text": [
+        "Great tall ship and staff. Beautiful day on the water. Crew very friendly and mingle well. You can help with sails if you wish. There is food and drink if you want a meal while you travel along the shore line. Thouroughly enjoyed the experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    }
+  ]
+}

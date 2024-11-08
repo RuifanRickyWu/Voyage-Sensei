@@ -1,0 +1,388 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Captive Escape Rooms Toronto",
+    "url": "/Attraction_Review-g155019-d7985217-Reviews-Captive_Escape_Rooms_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "43 Elm St Unit 200",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5G 1H1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 139
+    },
+    "openingHours": [
+      "Mo-Th 14:30-23:00",
+      "Fr-Sa 11:00-00:00",
+      "Su 11:30-23:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/80/7c/96/hangout-space.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Escape Games"
+  ],
+  "description": "You know the deal. You and your friends are going to be locked in Toronto's most realistic escape room for 45 minutes, and it's going to take all of your courage and cunning to escape!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Amazing!!",
+      "text": [
+        "What a great puzzle! Such strong clues, but still takes some thinking to get through. The people were also amazing with the bit of help they gave us. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Friends"
+    },
+    {
+      "title": "Fun with kids!",
+      "text": [
+        "We did the doors room with two 11 year olds. Really fun, lots to do for everyone. Staff is great, we had to use 2 hints but it was really good."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Great family Experience",
+      "text": [
+        "Great experience, we did 13 doors and Dracula’s Room. Very help staff from beginning to end. They let have  extra time after our experience had timed out."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2023 • Family"
+    },
+    {
+      "title": "Mediocre - have been to much better escape rooms. Wouldn't go back.",
+      "text": [
+        "We did the Dracula room with a group of 8. It wasn't bad, but it really wasn't that good either. Would recommend going  with a group of 4 or 5 max. There isn't enough to do for all of the people at the same time so there were always people standing around. The puzzles were pretty good, a bit challenging but always solveable. We completed all of the puzzles, but found the ending very anticlimactic.",
+        "It was $35pp which was not a good value for what was offered. The price is similar to the Casa Loma Escape Rooms which are a far superior experience."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Decent game could improve how it’s run",
+      "text": [
+        "We’ve played a fair few escape rooms and this game play definitely made sense and followed a story line we played The Farm and escaped with 31 mins remaining. The only downsides are: a lock was undone; the clues were given to you by the host coming into your room they have no clue where you’re up to as there’s no cameras etc. and it definitely hasn’t been cleaned for a while.  Friendly and welcoming staff though they were all lovely shame we didn’t get a name"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "This was our first time doing escape rooms. It was me and my 13yo and we had so much fun! Have to admit that we totally had to rely on the clues, especially in the beginning 😁. The staff was very friendly and the clues were helpful but not too revealing.  The puzzles were logical  and probably not super hard for those with experience with escape rooms. We were given extra time which was super nice. Will definitely come back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Family"
+    },
+    {
+      "title": "Great experience at Captive Escape Room",
+      "text": [
+        "We had a great experience at the Captive Escape Room. Gavin and Vickkram were really fun and would definitely recommend their service!! 10/10!! Fun activity to do with a small or large group. The escape room was challenging but not impossible! Loved it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "A Lackluster Experience",
+      "text": [
+        "Did the Dracula's Library and it felt ... lazy. The decor was honestly very sparse. The walls were mostly bare white, with few decorations/props, or even furniture. At every turn, it felt like someone took an empty room and dumped some puzzle pieces inside, rather than a real place. It was also lacking many basic features, like a clock, walkie talkies, or monitoring cameras. Instead, they tell you to use  your phones to track time.  To get hints, you press a buzzer and a staff member opens the door, walks in, and asks you to explain what's happening. ",
+        "Speaking of puzzles, just about every lock was a number/alphabet combination lock, which got boring fast. The puzzle pieces were also cheap and worn out, which sometimes made it hard to read whatever words were on it. One puzzle in particular towards the end relied on some shoddy props that can easily give you an incorrect hint (simply due to the imprecise visuals). ",
+        "Finally, unlike many other escape rooms where they ask you to not mess with fixed props, some puzzles actually relied on moving/messing with furniture/fixed props.  This would have been fine if the staff bothered telling us this. Instead, they asked whether we've done escape rooms before and then just said \"yeah it's pretty much the same\".  One particular puzzle needed us to move some heavy yet very unstable props (definitely not safe if you have kids). As mentioned before, there are no cameras inside, which means we were hesitant to mess with some fixed props, just in case they ended up damaging the rooms.",
+        "Overall, very lazy and unpolished. Definitely not worth the $30 bucks."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Best escape room in Toronto",
+      "text": [
+        "The experience Was amazing! I did it with 5 people and we had a great time. Definitely recommend Charlotte! Very engaging and fun. The staff was amazing especially Gavin and Vikkram! They were very helpful and they were super friendly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021 • Friends"
+    },
+    {
+      "title": "Quite good",
+      "text": [
+        "This is a unique little place in downtown Toronto that is off the beaten path. A little unassuming door at the top of the stairs. A little creepy the first time you visit. They offer multiple stories with multiple rooms in each story. This is one of the few escape room places that offer games for 2 players. Most rooms force you to be at least a party of 4. Here they offer at least 3 different stories for 2 players and I think there is a fourth one as well. Been here a few times now and will definately return."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2020 • Couples"
+    },
+    {
+      "title": "Great Time!",
+      "text": [
+        "Me and my girlfriend went to this place for a date earlier this month and it was extremely fun! In the past, her and I go to escape rooms that recommend many people and finish them on our own; however with captive minds, we had a challenge that we were not expecting. Great place, highly recommend.",
+        "Also, the three guys that helped us were funny and hands on with our trip. Thanks to Gavin, Vikkram, and Josh for making the night so much better!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Dracula's Library",
+      "text": [
+        "Man. Let me tell you. This room was super difficult. Went with my wife and kept getting stuck. The staff there was super helpful and patient. It was our second time at Captive, and we will be returning as often as possible to try out their other rooms. I have personally met Marina and Sean at a restaurant I used to work at and they always talked about their escape rooms. Once I tried \"Charlotte\" I was hooked. Will be returning for more!",
+        "Jay"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Fun hour in a small room...",
+      "text": [
+        "I had a few hours left in Toronto before heading to the airport to fly home, and so we ended up finding online, booking, and going to Captive Escape Rooms in downtown Toronto, at very short notice. ",
+        "Once the house rules of taking part were shared with us, we were allocated the Locked Doors theme escape room and given one hour to solve the numerous puzzles to unlock all the doors. ",
+        "The puzzles varied in difficulty and each door we unlocked either provided a key for another door or a physical clue that would be relevant in later puzzles. We made steady progress working our way through, but unfortunately we did not escape our room within the hour, but as we were close to the finish we were allowed stay on for a few more minutes to solve the last remaining puzzles. ",
+        "The hour and a bit we spent here flew by. We had a lot of fun solving the puzzles and then trying to open the various types of padlock.",
+        "Clues can be provided by the staff if you get stuck. We asked for just one. They are not gimmes, but are subtle enough to get you back on track so that you solve the puzzles yourself rather than straight being told the answer.",
+        "I think they have at least 4 different themed rooms and so there is always an incentive to go back to solve the remaining rooms.",
+        "The two members of staff we met on the day were enthusiastic about the experience both before and after we had taken part.",
+        "Highly recommended for a date or as a larger group activity. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "For Escape Room Enthusiasts Everywhere!",
+      "text": [
+        "My wife and I had the privilege of enjoying four of their escape rooms, Dracula's Library, Charlotte, The Surgeon, and 13 Doors! What an amazing time we had. They literally have the nicest and most welcoming staff. We love our hints, and I must say they were super patient with us, and the hints they gave were a fine blend of just enough to get us back on track but not enough to be spoon feed us the exact answer. ",
+        "I'd highly recommend Captive Escape Rooms to everyone. We had a really great time, and the decor and atmosphere was put together very well. The puzzles were very logical too. We've done some rooms with other companies in the past where the puzzles had nothing to do with the room, so it was nice to see a story line that made sense and remain consistent with the theme of the room."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "An Amazing and Engaging Experience",
+      "text": [
+        "I’ve never had more fun doing an escape room! The staff were amazingly friendly, and the room I did was designed thoughtfully. The atmosphere is incredible, and with all the effort put into the lobby area one could almost wish the wait times were longer! That being said I was put into the room very quickly, and would recommend captive to anyone looking for a good time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Overall good rooms but please update your locks!!",
+      "text": [
+        "We came here for a team building event.  There were 11 of us so we had to go with the  Cabinet of Curiosity.  The entrance is a little tucked away so you really need to look for 43 Elm.  Once you open the door, you have to walk up a flight of stairs (don't think there are any elevators) and it's pretty dark so take your time and make sure you don't miss a step.  Once we got to the top, we opened up another door and walked into Captive Rooms.  There's a small waiting area where you can hang up your jackets, have a quick drink of water and check out some of the decor.  We were suppose to arrive 15 min earlier so they could explain the game to us.  They also did a head count to make sure we were the right # of attendees.  We had give our phones to them to make sure we don't take any pics of the room - guess for proprietary reasons? I won't be going into the details of of the game itself but overall, I would say that the puzzles were quite challenging and the rooms quite small.  The staff who was explaining things to us wasn't very good at times - he would say something but then backtrack - like he didn't memorize the script properly, however he was super nice!  My biggest issue with the game were the locks - the chinese character lock was sooooo finicky to open so we actually wasted a lot of them not solving the puzzles but trying to line up the combination on the lock.  We were given an extra 10 mins but it was still quite frustrating.  The puzzles were quite creative and I liked how they were linear.  Side note, none of the rooms were technically \"locked\" so at times, we would just open the door to let some fresh air come through.  We ended up escaping which we were very happy about.  The picture area at the end was a nice touch.  Overall, I recommend Captive Room but if you wanted something that was more elaborate, I would suggest going to Casa Loma instead."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Amazing staff and great room themes",
+      "text": [
+        "Had an excellent time at this place with friends. Great experience throughout, starting with a warm welcome and activities to keep us occupied while waiting for room set-up. Staff (Gavin, Dion, David) did an amazing job of helping us through the rooms, giving helpful hints that allowed the group to figure out solutions without being given the answer, and were very professional throughout. They even offered to bring water inside the room since one of our friends was thirsty, which I thought was exceptional customer service. The time ended in the photo room where they had a variety of props to wear. I would recommend this place to everyone if you're looking for an escape room to visit in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "My least favourite escape room experience. Very rude staff.",
+      "text": [
+        "Drove 3 hours to get here, got stuck in a storm and ended up being late for our appointment. Called ahead and tried to see what we could do. Basically got told we were out of luck and if we weren’t there at least 15 minutes after our appointment the timer would start. Which is not stated on the website. Asked about changing our time or doing another day got told in a very rude fashion there was nothing. We decided to try our luck. Got to the approximate location 20 minutes into our time and spent another 20 trying to find the place due to very poor signage. Once we got there some employees were nice, many were rude teenagers. They insisted on going over all of the instructions, which we appreciated, however failed to mention some very important safety concerns regarding the Surgeon room. Half of our team was uncomfortable and slightly injured in the process. During the room when we asked for clues the staff members were abrasive and brash, flew through the hints very fast- I assume to aid in our short time left, but came off very rude. After our time we were told there was a photo both and decided we wanted to get a pic. One of our members went to the bathroom and when they came out none of the employees seemed to care about us- no see ya later, have a good night, nothing.. focussed on the new people that had shown up for their time. So we had to leave empty handed. We have been to many escape rooms and have never been treated in this manner. We understand that being late was on our end however we wish the staff was kinder and offered more of an alternative. ",
+        "On the positive side the room was challenging and unlike anything we had done before.  ",
+        "We all agreed that we might try another location some other time. ",
+        "Overall not a great way to spend a birthday."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Way more fun than I though!",
+      "text": [
+        "I wasn't really sure what to expect with doing an escape room. To be honest, I wasn't sure I wanted to! There were definitely some moments that creeped me out, and there are super steep stairs thta were a bit freaky! We did the Charlotte room and overall it was actually really fun (and really hard)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Well Done Themes",
+      "text": [
+        "I've been here twice to do Charlotte and Dracula's Library.",
+        "Charlotte (Group of 7):",
+        "The theme is extremely well done. They definitely deliver well in the creepiness category. I liked how the story flowed as you progressed in the game. As previous reviewers have said, there is a lot of math. A lot. Like 85% of it is math, and the rest is physically searching. There was a puzzle that we got, but we it was just a guess and we have no idea how or why the answer was what it was. Despite using all our hints + extra, and being given around 10 minutes of extra time, we did not escape. Regardless it was still fun. If you are afraid of ladders or very steep stairs, be aware that you have a very steep climb and decent to get in and out of the room.",
+        "Dracula's Library (Group of 2):",
+        "The theme is very well done here as well. The set up of the room pretty much matches my imagination for this theme. I enjoyed the puzzles here more than in Charlotte because it wasn't consistently one specific skill set needed like all the math in Charlotte. We ended up using 3 hints (you're allowed 2 if you want to be on their success board), and we got out with 2 minutes to spare.",
+        "The great thing about this place is that in both rooms, we were given access to a pen and paper to help calculate or make notes. Other rooms I've done make you work out difficult problems or calculations in your head, which I find takes away from some of the fun.",
+        "The one thing I don't like about this place is the hint system. You press a doorbell and someone comes in to help you get unstuck, but sometimes they just give you the answer when that isn't necessarily what you want.",
+        "One thing that also surprised me is the lack of waiver forms, especially considering the stairs to get to Charlotte, and a part of Dracula's Library that could be considered quite dangerous.",
+        "In conclusion: I'll be back to try more."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Dracula’s Library",
+      "text": [
+        "Nicely presented environment, tricky puzzles, a fair amount of find and retrieve of items and good use of multiple spaces. The staff were really friendly and helpful, however the briefing caused a bit of confusion with some requirements within the game. Had a great time and would certainly consider returning to try some of the other challenges on offer!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "One of our favorites ",
+      "text": [
+        "We have completed at least 8 escape rooms and this was in our top five.  We did the Charlotte room.  There were some tough clues but they were not impossible to figure out.  Loved the dark and the atmosphere was really authentic and creepy.  The staff was awesome and they clearly enjoy the games.  Would definitely recommend!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Another poor Escape room experience",
+      "text": [
+        "I'm still trying to find decent escape room in Toronto comparing to other countries. This company is categorized as premium escape room, so I expected something fancy. We did the Charlotte. The decor of the room is very cheap, all stuff is brought from a second hand stores, blood stains are not even realistic and scary and the main point - no any technology and mechanical parts are being used, which do escape experience interesting. Only lockboxes. The puzzles are also so-so. Lots of tips which don't lead anywhere. Some people say lots of math, but I wouldn't say so. So my verdict - cheap and poor."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Fun date night",
+      "text": [
+        "Did the Surgeon room, great for two people. Didn't solve it in time, but still had a great night. Puzzles at a reasonably challenging level for relative newbies to the world of escape rooms."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Amazing experience!",
+      "text": [
+        "My cousins are visiting from Cali and we went here and had such a great time, the associate named Tara provided a great experience for us and I will definitely be coming back"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Fun Activity for a group",
+      "text": [
+        "Did this activity over a weekend with 6 people.  I would definitely recommend Captive Escape Rooms.  Staff were very friendly and welcoming - they explained the rules clearly and offered clues to help us along.  The puzzle rooms were challenging - they weren't easy which made it fun!  Try it out - well worth it!!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Bachelor Party Weekend",
+      "text": [
+        "Stopped here for a bachelor party weekend and had a great time. They puzzles were just difficult enough to make sure we had to work at it but easy enough for us to not get too frustrated. Nika, our game master, setup the story great and when we got stuck was able to give us enough of a hint to keep us moving without ruining the puzzle for us. Great time had by all and we were able to break the record for the room. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Pretty good",
+      "text": [
+        "I like any escape room so I am not too critical of them. I like this location as they have 2 rooms that you can do as a couple. A lot of escape rooms will only accommodate a minimum of 4 people. It is located in a very inconspicuous place. Just a single door at the top of the stairs. We did Dracula and Charlotte's Curse. Both with unique stories and multiple rooms. We were able to finish both rooms but with only seconds to spare. Quite challenging."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Great staff, clever rooms",
+      "text": [
+        "My teenager and her friends loved the room (Charlotte) and the staff who set them up and delivered the clues. The lobby was a comfy place to wait while they had their session. The kids didn't even come close to escaping but still had a great time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019"
+    },
+    {
+      "title": "We made it!",
+      "text": [
+        "Needed a little extra time but we made it out. We did Cabinet of Curiosities.   Lots of lock combinations needed.  Had lots of fun but certainly used more than our fair share of hints.  Would like to try one with a bit more variety in challenge.  Employees were amazing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Family"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "Going to the Captive Escape Rooms was one of the best experiences that my friends & I had in a while. It was well put together with a good environment & the staff were very friendly + professional. I can’t wait to go back to figure out the rest of the rooms."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Friends"
+    },
+    {
+      "title": "Fantastic time!",
+      "text": [
+        "Did the 13 doors escape room! group of 4. we made it out but just in time, about 4 minutes to spare! So a perfect challenge for the hour time slot. Staff was also super fun and friendly and gave a great atmosphere. Will certainly go back for a new room! :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Fun, but not exciting",
+      "text": [
+        "Tried the \"13 Doors\" room last week with few new players (I'm experienced!). The theme is ok, atmosphere is not bad and it's not small for our group of 6 people. But you are basically solving all lock boxes, nothing mechanic here which is why the low rating. I do like the last piece of the game (cannot spoil) that's why I still give it a 3 stars."
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Wonderful setup",
+      "text": [
+        "An experience that truly captures you, you are instantly immersed thanks to staff (Tara/Josh). We had the pleasure of going through two different escape rooms, both with their differing levels of challenges and puzzles. I highly suggest checking Captive out the next time you're cruising for something exciting to do."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Escaped (That means we are better than you)",
+      "text": [
+        "Just did two rooms back to back. We were able to escape from both. Had an awesome host named Tara. Definitely want to come back and try some of the other rooms. Great location."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "Run Rabbit, Run Rabbit, Run, Run, Run!",
+      "text": [
+        "Booked the Surgeon room here and it was a great time! Challenging puzzles with a soundtrack that really gets under your skin (but in an understandable and \"good\" way)... Sad to hear that room's going to be changed, but we're all looking forward to what they have in store!",
+        "The staff are all awesome, super personable, and incredibly attentive! :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Amazing time! Highly recommend!",
+      "text": [
+        "Great time for business events or just for friends! Staff was super friendly and helpful, the rooms and puzzles really made you think - but in a fun way! 10/10 great time and would do again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Worn out equipment in \"the surgeon\"",
+      "text": [
+        "We are experienced escape room players with more than 20 wins. So we have seen our fair share of escape rooms in various countries. I will keep spoilers out of this review. ",
+        "The staff at Captive Escape were very friendly and the introduction was comprehensive. They use a 'bell system' for clues, where someone from the staff will step into the room and help you with clues. They were always very quick to respond when we had questions while in-game. ",
+        "The room 'the surgeon' is rather small and it might get crowded with 4 of more players, but it can also be solved with only 2 players. The game flow was basically linear, so a big group might not be able work in parallel much. This is not a mechanical escape room like 'Escape Casa Loma' or 'Mysterious Minds', so expect a lot of numbers and combination locks. ",
+        "Unfortunately it looks like the room has already seen a lot of plays and the wear on the furniture already gives some clues regarding the riddles. On the other hand there are pen/scratch marks from previous players that might lead you on the wrong path. ",
+        "We also had issues with several of the combination locks due to their worn out state. Even with the right codes they needed a good wiggle and some force to open. We wasted time and several clues just to confirm that the code 'should' work. ",
+        "The riddles are very number-centric. Generally there are no clues in the game that would give a hint on how to proceed with the numbers: Do you add them? Do you look for patterns? Do you work with the missing numbers? Do you convert the numbers to roman numerals? Should the numbers represent time / date? I feel that just trying out various combinations without a clear direction until you find the right one is pretty tedious, but your mileage may vary. ",
+        "Pro: super staff, cool serial-killer setting",
+        "Neutral: annoying music, very linear, small room",
+        "Con: worn out locks, lots of try-and-error when checking possible results"
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Dracula’s Library 10/10",
+      "text": [
+        "Had an AMAZING time doing this escape room-the perfect balance of challenging and enjoyable. The set dressing was detail oriented and perfectly conveyed the desired atmosphere. Would highly recommend if you’re ever looking for a fun activity and have an hour (or less, if you’re really keen!) to spare."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Dracula's Library",
+      "text": [
+        "Loved my experience at Captive Escape Rooms! The staff were friendly and engaging, and the presentation of the rules/ expectations was easy to follow. ",
+        "We chose Dracula's Library, and thoroughly enjoyed the mise en scene and difficulty level of the puzzles. We left with smiles on our faces, and with a sense of accomplishment. Would highly recommend."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    }
+  ]
+}

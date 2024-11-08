@@ -1,0 +1,177 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Metro Central YMCA",
+    "url": "/Attraction_Review-g155019-d185079-Reviews-Metro_Central_YMCA-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "20 Grosvenor St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4Y 2V5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 17
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/e2/cd/9b/toronto-s-metro-central.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Health Clubs"
+  ],
+  "description": "This YMCA contains a health club offering a variety of standard workout options.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great YMCA",
+      "text": [
+        "I have been a member of the Central Y for ten years now.  Good facility and friendly, helpful staff.  Can't wait til it reopens post-pandemic so I can start my regular workouts again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Solo"
+    },
+    {
+      "title": "Ymca",
+      "text": [
+        "Very clean and great staff .  Lots of activities dor the  whole  family.  Thanks . Will definitly be back ."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Friends"
+    },
+    {
+      "title": "Weird, Awkward Layout But a Lot of Classes",
+      "text": [
+        "This has to be one of the most bizarrely laid out businesses I've ever frequented. It's the largest Y in Canada and not far from me, which is why I go, but honestly it's a strange, inefficient layout that makes no sense. ",
+        "When you go in the front doors, to get to the gymnasiums, studios and squash courts, you're forced to go down a spiral staircase of about 50 steps. You check in, and then are forced to walk up as many as several hundred steps to reach any of the aforementioned class or activity spaces. The gyms and weight workout rooms, for example, are accessed through doors about a third of the way up this massive long staircase. The studios for yoga classes, etc are accessed through doors located all the way to the top of this staircase.",
+        "I'm relatively fit but honestly this is just stupid. There are many people who aren't fit but want to get fit and when confronted with this huge number of stairs, I imagine more than a few have given up. There is one elevator, which I tried to use once when I got to the Y somewhat late for a class. You have to give someone at the desk your card first of all, then they give you this pass card, which I could not get to work in the elevator as it was NOT clear at all what I was supposed to do with it. Tried passing it over the fob inside but nothing. Finally in utter frustration I ran back to the desk, retrieved my card and sprinted up the endless steps. Can't imagine I was the only one that this has happened to.",
+        "Finally, there is only one set of bathrooms located in the change rooms on the check-in floor. Really sucks if you've gotten to the gym or a studio and realized you want to go to the bathroom before the class!",
+        "Have no idea why the architect came up with this bizarre layout but we're stuck with it as it's not that old of a building! I would have rated it lower than Average except there are a large number of classes."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2019 • Solo"
+    },
+    {
+      "title": "Was harrassed by staff.",
+      "text": [
+        "After being a plus member at this gym for over a year, I was harrassed by a staff member because apparently I was sitting too close to a friend in the hot tub, with our legs touching. I asked the staff member his name and he wouldn't tell me. I came closer to look at his name tag and he physically pushed me. I filed a complaint because I felt that this was totally inappropriate and homophobic but nothing came of it (I got a voicemail a week later from someone and was never able to get ahold of them). Tensions Rose in the changeroom and I heard stories about other members complaining about the 'intimate incident', apparently he said I was sitting in my friend's lap! I wondered whether the staff member was spreading rumours, since practically no one else was there. On my last night this staff told me I couldn't wear my bathing suit on the elliptical in the change room workout area. There was a rule on the wall so I left the elliptical. When I attempted to broach a conversation about what had happened in the past the staff refused to talk to me. When I went to the pool, moments later he was following me with another staff pointing me out. Later in the hot tub this staff asked me to speak to him privately. He reiterated the rule about not wearing the bathing suit as if I needed to hear it again. When I talked to the manager about this she claimed she had been told that I had refused to follow the rule when told. This was a lie. All in all the staff harrassed me by stalking me around the building, shamed me for being close to my friend in the hot tub, pushed me physically, lied, gaslit my claims and I suspect spread rumours. I quit."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2018 • Solo"
+    },
+    {
+      "title": "Healthy Atmoshphere",
+      "text": [
+        "I signed up for a 2 week trail membership and attended for the first time. Very impressed with the cleanliness and variety of programs. Participants are friendly and it feels like a very supportive and healthy environment.",
+        "I love that family orientated programs are offered along with child care.",
+        "There is something for everyone. Free parking is available, however the underground parking spots are very tight."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Couples"
+    },
+    {
+      "title": "Two Week Trial Membership",
+      "text": [
+        "Great facility with equipment and classes to cover anyone's interest. Staff are almost non-existent so if you need help with something on any of the gym floors good luck. Having said that members for the most part are very helpful with the exception of in the conditioning room... where the \"gym rat\" ego attitude is often present.",
+        "There was no orientation at all provided with the the trial membership. So, if you don't know you're way around basic gym equipment or if you don't have a working routine already you're going to be kinda lost, Unless you're just in it for the cardio machines and the classes. On that note my experience with the few classes I've taken has been great. Very friendly and welcoming instructors and participants... this is where the \"community feel\" of the \"Y\" pervades."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Solo"
+    },
+    {
+      "title": "Great place",
+      "text": [
+        "I've been a member for 30+ years and there's no other place like it in Toronto. It's a great facility.. become a member.",
+        "It is good for you and it's good for the community."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016"
+    },
+    {
+      "title": "Mediocre facility - poorly kept equipment",
+      "text": [
+        "This place could be good, but the management is holding it back. ",
+        "The equipment is filthy and poorly maintained. Smells funny and the dust build-up is really unnerving.",
+        "You have to wash it down yourself  and you might as well bring your own WD40 because they certainly don't check for ear-splitting squeaking.",
+        " ",
+        "Stationary bikes rarely have foot straps and the rowing main chines- honestly, I am surprised they are still functioning."
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2014 • Solo"
+    },
+    {
+      "title": "Lots of stairs, lots and lots of stairs",
+      "text": [
+        "This YMCA on Grosvenor street has a lot of facilities and a range of lessons for the young and old. I've mainly used the walk in play room and the kids swimming lessons. The more lessons a child attends, the more value for money the membership becomes. The swimming lessons have been great, classes are small. However, there is a very steep, slippery stair case which leads to and from the pool. There is no other way to get to the pool. There is a lift which I believe is reserved for the handicapped. The walk in play room is a good social place for caregivers and kids. I have made quite a few very close friends from there. The childcare centre/nursery school provides gym, swimming and outdoor play for kids, however kids are expected to walk up and down a lot of stairs, including a spiral stair case. I have heard of quite a few children falling and tumbling down the stairs."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2014 • Family"
+    },
+    {
+      "title": "Lots of activities and amazing staff",
+      "text": [
+        "I love going to YMCA in the evening. Even during peak hours it is never too crowded. So many group activities to choose from. I love their aquafit classes and enjoy my swimming lessons too. I would definitely recommend YMCA as compared to any other fitness club. Worth the money."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2014 • Solo"
+    },
+    {
+      "title": "Laughing Like Crazy",
+      "text": [
+        "Delivered by Amateur Stand-up comedians to a high standard, the \"Laughing Like Crazy Comedy Showcase\" was a hilarious tribute to several brave people. The participants, facing an audience of about 300 people in the Central YMCA Auditorium and did so with flying colours. It was certainly a fun occasion for everyone."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2013 • Family"
+    },
+    {
+      "title": "A hidden gem in downtown Toronto",
+      "text": [
+        "If you like to keep fit, visit the Grosvenor YMCA on your next visit to Toronto.  For a low fee, you have use of updated, modern equipment and the pool.  The staff are friendly and helpful and the facilities are clean and safe.  You won't be disappointed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2012 • Solo"
+    },
+    {
+      "title": "A great place downtown",
+      "text": [
+        "One of the nicest places in the Downtown Toronto area excellent equipment and services and the doors are open to any and everybody."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2012"
+    },
+    {
+      "title": "An excellent YWCA.",
+      "text": [
+        "Not a tourist spot, but a great YMCA facility, with extra community programming that can be found at its on line site."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "ymca -social services",
+      "text": [
+        "i used to volunteer over here,,located in downtown Toronto,,its a good social agency for newcomers,,they are ready to help and give u a lot of info,,they also have a lot of events ,workshops,etc"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2011"
+    },
+    {
+      "title": "Good Facility, Many Choices",
+      "text": [
+        "I am a \"Y\" member, and enjoy the privileges of that at Y's everywhere. From time to time, I schedule a squash match at this Y (conveniently a 5 min walk from the subway, parking scarce in the area) and enjoy the weight room ( free weights and machines), steam room and whirlpool in the same visit. Not too crowded except M-T after work and Sat mornings. Squash courts in good shape, but sadly, only two of them, so book early. Though Squash is the Number One fitness sport, and requires only a minimum equipment investment to start, the Y has reduced the numbver of courts to put more machines in. Sad really, that's just like any commercial gym and a step away from the interqaction that is part of the Y's philosophy. But back to the positive. Staff are friendly, and other patrons are generally not into any nonsense, helpful if asked, but respectful of your space and preferences.",
+        "You don't neeed to be a member to get in, day passes are sold for 11.00 and you can stay all day if you like, or leave and come back later. They will lend you a lock if you need one, and also let you sign out a squash racket, etc etc. Fitness classes, volleyball, bball, and many other activities every day that you can join in if you wish."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Can I move in?!",
+      "text": [
+        "I LOVE the Metro Central YMCA in Toronto. I am here running two marathons - ran Toronto on 15 May; running Ottawa on 29 May. Used the Toronto Y; just steps from my place on Bay & St. Mary. Extremely friendly staff; I got to know at least three members by name within the first few days. It's just that close knit. I go early mornings and that crowd typically knows if you have missed a day, etc, met another runner doing the same marathon and compared notes. Equipment was everywhere - no shortage of anything and everything is clean, available and not broken. I don't want to go back to my old gym after this!  A must-see for any 'Y' member; your card is welcome here. Hours: M-F 5:30A to 11P, Sa-Su 7A-9P. Located between Bay & Yonge near 777 Bay (20 Grosevor St)."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

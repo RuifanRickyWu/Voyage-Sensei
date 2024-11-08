@@ -1,0 +1,374 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Police Museum",
+    "url": "/Attraction_Review-g155019-d184961-Reviews-Toronto_Police_Museum-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "40 College St At Yonge St.",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5G 2J3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 65
+    },
+    "openingHours": "Mo-Fr 08:00-16:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/65/0a/a6/photo4jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Speciality Museums"
+  ],
+  "description": "Using interactive displays, this museum documents the history of the Canadian police, as well as its present operations.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Nice Return Visit",
+      "text": [
+        "The Toronto Police Museum and Discovery Centre, located on the first floor of Toronto Police Headquarters, does an adequate job of conveying the history and mission of law enforcement in Toronto.  The museum hadn’t changed much since I last visited it 15 years ago.  I noticed that the lighting seemed poorer than before and was not conducive to photography.   Admission is free but donations are encouraged.  Persons interested in the history of policing would enjoy visiting this museum."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Free, friendly & worth a trip !",
+      "text": [
+        "Staff couldn't have been friendlier or more helpful. Will only take 1 hour max, but interesting info & you can sit on a police motorbike ! Little gift shop on way out. ",
+        "you go through security on entrance as its part of the Police HQ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Couples"
+    },
+    {
+      "title": "Policing Past & Present; Toronto",
+      "text": [
+        "A fitting tribute to the men and women who have worn the shield in Toronto. This is sited in police headquarters and is an engaging look at policing past and present in Canada’s largest city. There’s a lot of obvious local pride and the displays are both informative and interesting. The museum is free and is well worth a visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "Interesting, but needs a little love",
+      "text": [
+        "This museum has a lot of potential but it needs a little love. Some of the dioramas and displays are outdated, but the information provided is quite interesting. I feel like they need a larger location so they could expand more and provide more of the history and evolution of the department. Not a must go, but it's interesting if you're in the area."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Childcare Field Trip",
+      "text": [
+        "Norina D'Agostini provided us with an excellent experience.  I took a large group of children in for a tour of the Museum and she took her time with each child, allowing them to ask questions, try on costumes, sit on the motorcycle, take photos etc.  She made it fun for the children even though they were a bit too young they got a lot out of it and were talking about it for days.  At the end of the tour she played a game with the children asking them multiple choice questions and gave them prizes.  They all participated and were very excited when they got the right answers. The children were cheering each other on.  Thank you Norina for making this experience so enjoyable.  Great job!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "They let me have a look even though it was closed.",
+      "text": [
+        "They let me have a look even though it was closed. I got a quick walk around but no official tour, but the signs help out. Being a police officer is a tough and thankless job. It’s important to remember that. They’re taking care of us."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2022 • Solo"
+    },
+    {
+      "title": "Excellent private tour with Norina D'Agostini - thanks, Norina!",
+      "text": [
+        "As my husband was previously a policeman with the London Met, we were very lucky to be able to arrange a private tour of the Toronto Police Museum with Norina D'Agostini and nothing was too much trouble for her. We had so many interesting stories to exchange and notes to compare about policing in the UK and in Canada."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Small but extremely interesting",
+      "text": [
+        "The Toronto Police Museum & Discovery Centre is located Downtown Toronto. There are two subway stations at walking distance (Yellow Line and Green Line), and a few bus lines stop nearby. Admission is free, but I strongly recommend donating to the Museum even if it's a few coins. It's worth it, and your support would go a long way!",
+        "The Museum is open Monday to Friday, from 10 a.m. to 4 p.m. There you'll learn about the rich tradition and history of policing in Toronto.",
+        "The Museum was so interesting that even though it's small, I spent almost two hours there. The displays were all very interesting. I enjoyed it very much. It was a delightful visit. Recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "A small museum, but interesting.",
+      "text": [
+        "Located in the foyer of the Toronto Police headquarters at College St. We visited it because we had a few hours to kill before catching our flight and it was close to our hotel. The museum website is not encouraging, saying that admissions are restricted to organized parties and by appointment only. As far as I could see, they will let anyone in (with only minimum security) provided they aren't obviously mad or drunk.  ",
+        "Although the topic is the history of policing in Toronto there is a lot of social history here. Entry is free and there is a useful gift shop selling goods (tee shirts, mugs etc) carrying the Toronto Police brand. A must see for anyone interested in the history of policing and certainly engaging for the general visitor. But unsuitable for young children."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "POLICE BULLETIN",
+      "text": [
+        "Free to enter but you have to go via the entrance to the main Police station and you will be frisked.  Doesn't take too long to go round but what's there is extremely well laid out and is very informative."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "A nice quick visit.",
+      "text": [
+        "A small but enjoyable museum with some great historical uniforms and artifacts in a working police building. Nice little gift shop and well worth a quick pop in."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2015 • Solo"
+    },
+    {
+      "title": "Cool Little Museum, great for your budget!",
+      "text": [
+        "My niece and I visited this museum and it was a big hit (she is 13).  It is located directly in the Police Station and only a donation is requested.  While it is small, it has some cool artifacts like old police uniforms, a staged courthouse and jail cell.  I really enjoyed reading the short excerpts on infamous criminals in toronto.  It will only take you 30ish minutes to walk through the museum to a great stop on your way to another attraction or if you are pressed for time."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "Some cool stuff!",
+      "text": [
+        "It is run off donations which you can clearly see.",
+        "Some parts are broken or poorly designed.",
+        "It was interesting and they have some pretty cool stuff on display and history to read!",
+        "Well worth a look."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2015 • Solo"
+    },
+    {
+      "title": "A must go",
+      "text": [
+        "Local history of the local police and respect to the men and women that have lost there lives. ",
+        "Donations are to keep this place going and I spent 30 mins reading the stories of cases etc "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015"
+    },
+    {
+      "title": "An interesting short visit",
+      "text": [
+        "With a some time to use up this interesting museum was almost on our doorstep. It is well planned with lots of history as well as modern policing."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2015 • Couples"
+    },
+    {
+      "title": "Forget it",
+      "text": [
+        "If you are interested in a few old pieces of memrobelia go and visit, but really it is not worth the effort to see. It is in a modern police building with no atmosphere"
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2015"
+    },
+    {
+      "title": "something to do and have some nice crime materials",
+      "text": [
+        "My first stop on my museum tour of Toronto was the Toronto Police Museum, mainly because they open the earliest at 8AM.  Located in the front of the Police station, this is a donation only exhibit which is right in the front of the building (if taking subway it is right near the College St stop). ",
+        "  I found some of the first items OK such as various uniforms and the like but halfway through they have a bunch of exhibits dedicated to famous crimes including some of the evidence used to solve the crimes.  It is this section that is what I truly recommend as they have all the shell casings from a 4 hour shoot out to various items like blood evidence and other items used to crack various cases.",
+        "  They also have a holding cell, tributes to fallen officers, police car and some other neat items.  Some of the cases with the evidence could be better maintained but it is a nice way to waste time for 1/2 hour or so."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2014 • Solo"
+    },
+    {
+      "title": "Interesting little museum, but sadly neglected",
+      "text": [
+        "This museum provides a brief overview of the evolution of the Toronto police force from their very beginnings to today. It isn't highly sophisticated, but it is interesting. And it is one of the few places that opens before 10 AM, so we stopped in early one morning. And we weren't sorry that we went. But, the building and displays are really quite shabby and neglected...the dust on the mounted police officers boots was depressing. A number of the evidence displays had deteriorated to the point that they wouldn't be admissible in court. And some of the glass in the display cases was fogged up and dirty looking. I would have expected Toronto's finest to have more civic pride than what this museum suggests they have."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2014 • Couples"
+    },
+    {
+      "title": "From horses to cars",
+      "text": [
+        "Although it's not the prime attraction of Toronto, you might want to spare 30-60 minutes to visit this Museum. It's conveniently located in downtown in the main police station. This establishment is self-serviced and you are encouraged to leave a voluntary donation. This place takes you back to the XIX century when the first police force of Toronto was formed. It then takes you through all the events and developments that shaped today's Police Department. You will see all the uniforms and vehicles, past police stations and how the crimes are solved. On top of that you will read about major policies and investigations. You don't have to book much time for the visit. 60 minutes should be more than enough."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2014 • Couples"
+    },
+    {
+      "title": "A creative slice of police history",
+      "text": [
+        "We went to the Toronto Police Headquarters to do an interview but checked out the Museum afterwards. The exhibits were interesting and creative, particularly the displays of items from actual cases. The turn-of-the-century model of a police station was also interesting. The children who were in there while we browsed were equally enthralled by what they saw, including the police car, complete with siren! It won't take more than 20 minutes to go through the entire museum but it's worth a visit!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2014 • Business"
+    },
+    {
+      "title": "Interesting off-the-beaten-path exhibit",
+      "text": [
+        "We happened to stumble across this museum steps away from our hotel. There are some interesting police-history exhibits and a couple of good photo opportunities.  Admission is a free-will offering; for those who are interested in Toronto Police Service attire, a gift shop is across the lobby area."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017"
+    },
+    {
+      "title": "A short trip to see friends visiting from Finland",
+      "text": [
+        "The museum is located inside the downtown police station and is free.  They do have a container at the entrance asking for donations to maintain it.  The gift shop there is excellent and has many items that kids would like!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016"
+    },
+    {
+      "title": "Interesting museum",
+      "text": [
+        "This was free to have a look round. There wasn't anyone else there when we went. Some of the exhibits had fallen over and blocked the descriptions. There are some interesting cases displayed. Very good exhibition overall. The shop in the foyer had very friendly staff."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Couples"
+    },
+    {
+      "title": "Nice to visit if you're in the area with kids",
+      "text": [
+        "Free activity (donation suggested). This museum was probably designed in the 1980s or beginning of the 1990s and it seems that it hasn't really been updated since. Little boys will enjoy seeing the police car and motorcycle. It's a fun activity to do if you have kids and happen to be in the area. Having known, we wouldn't have gone out of our way to go there though, it’s not really worth it. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2016"
+    },
+    {
+      "title": "Interesting history of policing the greater Toronto area.",
+      "text": [
+        "The museum has a lot of information panels to read about the history of policing in Toronto. Some of the history is about the various police chief (maybe commissioners) through the years. Some is about the various smaller police departments that were eventually merged to make the current police force. There are exhibits of uniforms and equipment used during different eras. There are several exhibits related to specific crimes that include a piece of evidence or an object related to the crime. There are a couple of exhibits that need some maintenance; objects have fallen, making the information difficult to read. Admission is free, or a donation if you wish. The gift shop has a lot of branded souvenirs like T-shirts, pens, etc."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2016 • Couples"
+    },
+    {
+      "title": "What you can learn without trying!",
+      "text": [
+        "This was an awesome place to visit.  History of Police in Toronto probably is same as other cities.  Imagine, the Car caused to early rise of the Force, from Traffic to getting to the crime scene.   From Traffic control to the rise of Investigative procedures and the amount of due diligence Police do Get It Right - Impressive!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016"
+    },
+    {
+      "title": "Surprising museum for any visitor or locals!",
+      "text": [
+        "We encountered this museum in the police department building purely by chance whilst on walkabout in Toronto. There is no entry charge but there is a container for donations. It is well worth 30 mins to an hour to see a history of the Toronto Police department, including uniforms, equipment and details of some famous local crimes. The curator even kindly took a few photos of us -- photo opportunities include sitting in a police car with lights flashing, on a motorcycle or even if 'lucky', in a police cell. All ages would enjoy this and having seen some Canadian TV programmes on crime in the hotel as well as observing officers at work in the streets, this is a great introduction for overseas visitors, as well as those in Canada who want to learn about the police force history."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2016 • Couples"
+    },
+    {
+      "title": "WELL WORTHY OF A VISIT WHEN IN THE AREA",
+      "text": [
+        "The Toronto Police Museum & Discovery Centre is a not-for-profit registered charity, operating in close partnership with, but separate from the Toronto Police Service ...",
+        "The Museum is solely funded through guided tours, sales from their gift shop, and research requests ...",
+        "Whether you have only a few minutes or an hour or two, you should enjoy and appreciate your visit to the Toronto Police Museum and Discovery Centre ...",
+        "Occupying 3,000 square feet in the atrium of the Toronto Police Headquarters building, the Museum reflects the rich tradition and history of policing in this great city ...",
+        "Built and maintained entirely from private donations, this facility offers a vibrant blend of the new and old, with interesting interactive displays dedicated to expanding the community's understanding of policing in Toronto ...",
+        "If you have an interest in law enforcement you will not be disappointed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "Worth a visit, particularly if you are from the area ,",
+      "text": [
+        "The museum traces the history of the Toronto Police Force and since 1958 when it merged with 13 other regional police forces. to form the Toronto Metropolitan Police.  God coverage of the almost 200 year history of the Force. ",
+        "Women were part of the Force early on and achieved equal pay decades ago. Something I was surprised and pleased to learn. ",
+        "The museum consists of a series of display cases each featuring an investigation, usually a murder. The display is rounded out with a number of mannequins dressed in uniforms from various eras. It is not a large museum but it has a small gift shop. ",
+        "When you come into the building the gift shop is on the right and the museum is on the left. There is a sign that says everyone must check in at the \"Duty Desk\" but that doesn't seem to apply to museum visitors. Just ask the person in the gift shop if you can visit the museum or say that you want to visit the museum and ignore the 'every person must report to the Duty Desk. I spent at least 15 minutes waiting my turn to get to the Duty Desk only to be told I didn't need to do that. I was the only person in the museum when I visited on a week day afternoon.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2015"
+    },
+    {
+      "title": "Interesting small museum",
+      "text": [
+        "We came across this small museum in the police department building. There is no cost but there is a place for donations. It was worth an hour to see a history of the Toronto Police department. They showcased how the uniforms and equipment and the job description of officers have changed over the years. There are some interesting displays of some famous local crimes. It was worth a visit. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2015"
+    },
+    {
+      "title": "Excellent museum",
+      "text": [
+        "We visited this FREE museum of police,  the staff are very welcoming the displays are well put together and interesting. Very sad section on the officers killed in the line of duty and a section on the criminals and how they were caught"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Small but Very Interesting",
+      "text": [
+        "Suggested by a friend, we went here on a visit to Toronto. The museum is easy to find and free to visit. It is part of the Toronto Police Station, so expect to be searched and patted down when you enter the building. The museum is right off the main entrance and we had the place to ourselves. It is a small museum, but is still very interesting. See if you can tell a real gun from a replica? Read how crimes were solved. Sit in a patrol car. Visit an old police station. Lots of interesting information and displays. If you are in the area and have some time this is worth the visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Quirky but nice",
+      "text": [
+        "What a quirky museum, obviously put together with love from the Toronto police.",
+        "It's in the working police station, so entrance is through a bag search and the lobby where local people are reporting things or paying fines or whatever. You are asked to fill in one of the forms at the entrance and give it to the shop staff, but this wasn't clear until we were halfway round. They have quite a few interesting sections, such as the development of police communications, police transport, the unifying of different police forces and the top men ( and woman) who drove these developments forward. We really enjoyed it, it takes about an hour and it was a block away from our hotel, the Chelsea, so really handy. Thanks Toronto Police!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Small but worthy of your time.",
+      "text": [
+        "We went to this museum as it looked a perfect way to spend an hour in the city before heading to the airport and we were so glad we did. The collection of stories from the forces past were well laid out and the artefacts brought the art of detection to life. ",
+        "There is a moving part to the museum which shows the human cost of protecting the area over the years, i wont spoil the effect but it was lovely. ",
+        "If you have an hour or two its a free way to see bits of history and real crime. Also pop into the little shop as it has some interesting gifts."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Interesting Experience",
+      "text": [
+        "Didn't realise that this museum is within a working station but all the same it was a very good museum with plenty of articles about incidents that had taken place and how the face of policing has changed in the city."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2019 • Couples"
+    },
+    {
+      "title": "History of our Police",
+      "text": [
+        "Spent about 1 hour, no admission charge at Police Headquarters. Displays set up relative to history of force and some previous crimes in the city. Worth the visit."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2018"
+    },
+    {
+      "title": "Touching base with local law enforcement 👮🏼‍♂️👮🏼‍♀️",
+      "text": [
+        "If you have an interest in policing this is a decent wee museum.",
+        "We were welcomed by two officers that searched our bags, one even gave us a song, he didn’t do requests though.",
+        "We had a wee wonder around and the various bits and pieces.",
+        "The museum works on donations so we donated on the way out and then visited the gift shop. The museum is actually part of the headquarters. "
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "unique museum with tons of interesting stories",
+      "text": [
+        "This museum is portrayed to be small but inside it covers a good sized space and is well thought out and interesting in general policing that goes way back. If you have a couple hours, don't pass this one up. They do require advance notice of your visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Solo"
+    },
+    {
+      "title": "Big cheers for the guide ",
+      "text": [
+        "An interesting compact history of the Toronto Police Force and its notorious cases since 1850s. Photo opportunities by crashed police cars and old style police station. The highlight was the lively talk by the historical researcher who brings the exhibits alive , is so knowledgeable and clearly loves her subject."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2017 • Business"
+    },
+    {
+      "title": "Toronto police headquarter ",
+      "text": [
+        "You can make the criminal background check or vulnerable sector check here. The latter is more expensive and more complicated. $65 for 2-3 weeks, double price to expedite. Only money order or certified check are accepted. If you don't have, the nearest RBC branches are within 250 meters on Young street, one north, one south. Paid to Toronto police service. Once you have the signed form, notified copy of ID and the check, you can drop them in the collection box. Service is nice but a bit complicated. As long as you see the word vulnerable, don't make the common criminal check.",
+        "Washroom on the right of entrance. The museum is free. If you pass by, can walk in and have a look. "
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2017 • Solo"
+    }
+  ]
+}

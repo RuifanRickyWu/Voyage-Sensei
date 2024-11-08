@@ -1,0 +1,361 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toonie Tours Toronto",
+    "url": "/Attraction_Review-g155019-d26251419-Reviews-Toonie_Tours_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "123 Cambie St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "V6Z 3B7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 143
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/84/88/e9/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bike Tours",
+    "Walking Tours",
+    "Private Tours"
+  ],
+  "description": "Toonie Tours is Canada's largest Free Walking Tour network. We welcome and connect customers to Canada through high-quality tours & experiences with passionate and personable freelance guides. Toonie Tours is best known for its Free Walking Tours that provide a lay of the land, an introduction to the city, and local recommendations from the unique perspective of a local guide.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Top Toonies!",
+      "text": [
+        "Small group of us so we got a great experience and fun trip lead by Maria.",
+        "Well paced and covered a good area which helped for the rest of the trip."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Solo"
+    },
+    {
+      "title": "Great tour. Would recommend.",
+      "text": [
+        "My friend and I booked with Trip Advisors the Toronto tip based walking tour by Toonie Tours. Our guide was Maria. The appox.  3 hr. Tour took us to many parts of downtown Toronto including the old town, financial district and entertainment areas. Maria was very informative about the history and fun facts of the city. The walking pace was easy and there were many places for photo opportunities. Would recommend anyone visiting the city to take this tour as the information will help you to get around the city easier."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Couples"
+    },
+    {
+      "title": "Really professional, informative and entertaining tour.",
+      "text": [
+        "Very professional tour. The guide (Wei Ting) knew his stuff and the tour was very informative and well structured. In addition he had a good sense of humour, delivery style and empathy for the group."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Tour",
+      "text": [
+        "Our guide gave us a great tour of Toronto, which gave us great ideas for the rest of our stay. Also gave us a great bot of the history of the city. Highly recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Good introduction",
+      "text": [
+        "Good introduction to areas of Toronto.  Guide had a lot of knowledge.  However I felt he could have interacted with the group more.  There was no conversation while we waited he sat looking at his phone."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great tour",
+      "text": [
+        "Such a good walking tour!! Maya was amazing and knew a lot about the city, great way to start our time in Toronto!! Can’t wait to do all her recommendations 👌"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great to get to know Toronto",
+      "text": [
+        "Was a great tour! And although we were only 3 people, our guide did the tour nonetheless. Was very informative with a lot of interesting fun facts."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Nice person",
+      "text": [
+        "Really good guide, nice person. Nice conversation and understandable. He solved all questions and went at a good pace."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Nice intro to the area",
+      "text": [
+        "Our tour guide Maya was friendly, energetic, and informative.  We covered a lot of ground (around 10,000 steps) and learned a lot about the history and architecture of the area. I would recommend Toonie Tours if you’re in the area!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Toronto walking tour",
+      "text": [
+        "This was a brilliant way to look round the city of Toronto. Elizabeth was a great host, took us to places that we wouldn’t have found, very informative & enjoyable. The 3 hours went very quickly and the balance of walking and talking was just about spot on. Would definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Tour with Mara in Toronto.",
+      "text": [
+        "The journey was amazing especially with are tour guide Maria. She was very nice and funny and taught historical facts and stories. Maria took us to many interesting places and explained  all of them in good detail so everyone understood."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Best walking tour of Toronto",
+      "text": [
+        "When ever I arrive in Canada I always look for Toonie tours, the best tours around. Our guide was Joul Torontos finest! very knowledgeable great fun and facts with trivia you won’t be disappointed! Super tour of the city thank you Joul"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Solo"
+    },
+    {
+      "title": "Excellent Experience would do it again!",
+      "text": [
+        "Tour guide Joel was excellent. His knowledge of the city was amazing. He was engaging and made the tour fun. My 17 year old loved it"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Scooters are a great way to see a city!",
+      "text": [
+        "This was such a great way to get a sense of the city and not have to look at a map once! The scooters were easy to operate and the tour guide, Joelle, was fun and friendly! He made it feel like we were just scootering around with a friend who was excited to share fun facts about their city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Solo"
+    },
+    {
+      "title": "Aug City Trip",
+      "text": [
+        "Mya was an excellent guide. Knowledgable, informative and not too serious! Have us a great understanding of the city.."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great tour guide",
+      "text": [
+        "Maria from Macao was an amazing tour guide, and made the tour very interesting. Do not book it through any provider as it's free through the Toonie tours website"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Lovely way to spend a morning in Toronto",
+      "text": [
+        "This is a lovely way to get a sense of Toronto. Our guide Maya was excellent. She was informative and very relaxed and friendly. If you want a little knowledge and insight into Toronto while walking its streets then this is a great tour. It was a lovely way to spend a morning in Toronto and I would definitely recommend it. Thank you Maya!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Fantastic experience!",
+      "text": [
+        "Henry was a fantastic tour guide!",
+        "He was knowledgeable and paced our tour appropriately.",
+        "We loved seeing the city on scooters.",
+        "He gave us ample time to enjoy the neighborhoods and we loved every minute of our trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Walk downtown Toronto",
+      "text": [
+        "Well organised walk. Our guide Maria did a good job of explaining various things in an interesting manner. Walking tours always gives us an insight. Had a group and made some new friends. Keep up the good job Toonie Tours. Thanks Maria"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Great way to explore Toronto",
+      "text": [
+        "Very good and interesting tour, great value. Joel was a fantastic tour guide - knowledgeable, friendly, funny and an amazing storyteller. I would highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Fantastic guide",
+      "text": [
+        "Our guide Rudyard was fantastic. Professional, enthusiastic, knowledgeable. It was impressive how much ground we covered across downtown Toronto and the amount of history and fun facts he packed into every site we stopped at. A lot of walking, make sure to wear comfy shoes, it’s worth it. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Fun scooter tour",
+      "text": [
+        "Our tour guide was very nice and friendly. He lead us to like 6+ different spots around the city. We stopped and took photos at these spots.",
+        "This tour isn’t for the feign of heart though. You’ll be flying down busy city roads next to cars. It was very exciting but I could see how some people might not be ok with that risk level. ",
+        "I’d recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Entertaining tour with lots of history and personal facts",
+      "text": [
+        "Rudyard are was fantastic - a wealth of knowledge and kept the group entertained for 3 hours. We now have a good understanding of Toronto’s history. Thank you for a wonderful day"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Excellent walking Tour",
+      "text": [
+        "Excellent informative tour. Loved every minute of it. the young guide explained a lot of details which we would have missed otherwise. ",
+        "Fully recommed!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Solo"
+    },
+    {
+      "title": "Strolling through the high rises interspersed with pretty park spaces!",
+      "text": [
+        "A fascinating city walking tour that covers the old town and the new and everything in between, but also reveals some of the prettier “park” developments too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Great and interesting tour",
+      "text": [
+        "We had a really great tour with the tour guide Maria who was not just very friendly but also quiet funny and telling lots of stories and interesting facts.",
+        "We really enjoyed the tour. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Long and fun walk thru Toronto's highlights",
+      "text": [
+        "Maja knows her way around the city. We learned a lot and we're really happy to be have joined. ",
+        "At almost 8km, the tour is long but never boring!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Brilliant tour",
+      "text": [
+        "Brilliant tour of downtown Toronto. Maya our tour guide was knowledgeable and entertaining.  Found out lots of facts about Toronto that I wouldn't had known walking around on my own. The tour was at a steady pace and not rushed. You must do this tour when in Toronto"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Toronto CityTour",
+      "text": [
+        "The tour was very informative and comprehensive. Our guide provided bits of info that we never would have picked up by simply touring on our own. My wife and I really enjoyed the tour and would highly recommend it to visitors of Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Highly recommend, but watch the time",
+      "text": [
+        "Great tour, informative guide, nice pace, would recommend!  We took the 2:00 on a Thursday. It took us over an hour driving to make the short 1/2 mile back to the expressway. Plan accordingly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Great tour with Maya!",
+      "text": [
+        "I had originally booked a 2 hr walking tour with a different company, and they canceled.  I was able to book this one and am glad the other co canceled.   ",
+        "Our guide was Maya, and she was great.   I can definitely recommend requesting  her.  "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Free Tour Toronto",
+      "text": [
+        "We walk around Toronto downtown and I have enjoyed a lot this tour. Dwigth is a really good guide! I recommend this tour for everybody, it is a must if you come to Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Great tour with Dwight",
+      "text": [
+        "The tour was great! Totally recommended.",
+        "Our guide was Dwight, and he gave really cool details about the city. He also recommended nice places to eat and visit"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Understood Toronto well.",
+      "text": [
+        "The tour guide was very well prepared and explained history of Toronto excellently.  The tour was insightful and memorable."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "3 hr Toronto walking tour",
+      "text": [
+        "Fabulous experience. Wei Ting was fabulous and informative. Kept us interested from woe to go. Gave us a chance to ask as many questions as we wanted. He didn’t try to rush through the tour at all. Would definitely recommend this tour to visitors to Toronto"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "An enjoyable walk through three districts",
+      "text": [
+        "Wei-Ting was a very personable and well-prepared tour guide. He kept us engaged with his multiple-choice questions about Toronto. He was also very willing to answer our questions."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "A great tailor-made Toronto tour. Henry was a gem.",
+      "text": [
+        "A Friend scheduled a private tour of Toronto. She told Toonie Tours Toronto about our general interests and tour preferences. We got what we asked for … a tour curated to local architecture, history, and graffiti. Henry said it wasn’t his standard tour - but it was clear that he did a lot of homework. He even had old photos of the things we saw, so that we had then-and-now visuals. He was full of facts, affable, a great guide."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Thorough three hour walking tour of Toronto",
+      "text": [
+        "Excellent three hour plus walking tour with extremely knowledgeable and witty host Rudyard.  Be prepared to get your steps in.  Definitely recommended for history buffs."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Toronto 3 hour walking tour",
+      "text": [
+        "I think our guid's name was Win. He did a great job explaining the sites, walked at a good pace that worked for all. He was very personable. we were very pleased."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "A must do intro to Toronto",
+      "text": [
+        "We arrived in Toronto feeling overawed by the size of the city. We booked this tour as a way of orientating ourselves, and were massively impressed. Our guide, Henry, explained the history and culture of the city during our tour as well as pointing out many interesting features and great spots to take pictures. Doing this tour changed our views of Toronto and gave us practical suggestions for spending our time here - it's a fantastic way of starting your time in the city as it makes it relatable and understandable. Would strongly recommend as an introduction to a great place that can be difficult to relate to if you experience it cold."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    }
+  ]
+}

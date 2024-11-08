@@ -1,0 +1,365 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "SpaZen",
+    "url": "/Attraction_Review-g155019-d630439-Reviews-SpaZen-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "8 Colborne St 4th Floor Executive Hotel Cosmopolitan",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5E 1E1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 101
+    },
+    "openingHours": [
+      "Th-Sa 10:00-18:00",
+      "Su 10:00-17:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/fc/73/bd/shizen-spa.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": "SpaZen, inspired by the Japanese word for nature, brings to you a rick indoor haven that offers a blend of both ancient traditions and modern healing rituals. Nestled within the Executive Hotel Cosmopolitan, experience our signature seasonal services, massages, facials, body, nail and esthetic treatments that support your ultimate health and well-being. Hidden away from the urban hustle of downtown Toronto, you will finally discover a quiet moment of solitude and complete relaxation. We call this a SpaZen Moment!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Wonderful",
+      "text": [
+        "Ami was amazing. I felt completely refreshed! Thank you so much!",
+        "What a lovely break during a work trip and a treat for my friends birthday."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Cannot wait to return",
+      "text": [
+        "My husband and I booked a couples package which was a 60 minute therapeutic full body massage and a 30 minute facial. Cori and Ami were so amazing. They also offer time in the jacuzzi and sauna, before and after. The girls made you feel so comfortable and relaxed."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Ultimate relaxation!",
+      "text": [
+        "My wife and I visited SpaZen today for the second time.  Highly highly recommend it.  We were fortunate to get the same masseuses as the first time we visited in Dec/23.  Both Yanina and Komsak were incredible.  Excellent technique and very friendly.  We both agreed that the massages we had were the best we've ever experienced.  The spa itself is quite nice inside.  They have a great relaxation area with large hot tub and sauna that you can enjoy before or after your treatments and the change rooms are well appointed.  Sasha, the front desk concierge was excellent to deal with in booking the appointments and checking us in and out when we were there.  Love this spa and will return again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Couples"
+    },
+    {
+      "title": "Spa Package",
+      "text": [
+        "My experience at SpaZen was a 10/10! I had a massage, facial and manicure by Hailey who was very skilled, friendly and professional. The facility was clean, warm and inviting. There was no waiting and I was not rushed. It was very quiet and relaxing, a perfect space to get away from everything and have peace of mind. The massage was just the right mixture of relaxation and firm touch. I highly recommend services here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "ME Time!",
+      "text": [
+        "Complete relaxation! Great way to get some ME time.  Relax in a serine area with a Zen aura.  Ami, aesthetician was very professional and very attentive to her practice and the clients needs.  Front desk staff was very friendly and welcoming to the Spa. Amazing work by all."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Solo"
+    },
+    {
+      "title": "Spa Zen...The True Spa Experience ",
+      "text": [
+        "The Spa Zen is a beautiful spa with holistic features, such as, a sauna, jacuzzi, waterfall wall...and many other features that add to the \"Zen\" experience.",
+        "The staff are amazing...from Sasha on the front desk to Amy and Hailey who are wonderful spa aestheticians!!  My sister and I had a 1 1/2 hour session which seemed to fly by....we wanted to stay there forever!!  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "Great Experience!",
+      "text": [
+        "My experience was great! I hardly do Del-care but the environment and staff have made me reconsider doing it more often. Cori in particular was great! She gave me a pedicure and manicure, and I felt like I was in safe hands. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Solo"
+    },
+    {
+      "title": "Tina is amazing",
+      "text": [
+        "I love Tina's work! She not only does an amazing job, but she is also very personable and friendly. She has fantastic work ethic and she totally focuses on me. I feel her attention on me 100%. That's so important! Thanks Tina! See you soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Solo"
+    },
+    {
+      "title": "Yamina is Awesome",
+      "text": [
+        "Book with Yamina, she is amazing!!! Spa is nice, changerooms are a bit small. Not all RMTs are great there  but yamina is absolutely perfect, so sweet, great at giving you the perfect pressure massage."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Couples"
+    },
+    {
+      "title": "Feel good end of week treament, with great service.",
+      "text": [
+        "Our experience was great from start to finish, felt well rested and massaged. Exactly what we wanted."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Fantastic Visit!",
+      "text": [
+        "Had an amazing visit.  Very relaxing and peaceful.  Jackie and Gabriela were amazing!  Thank you for a wonderful day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Traquilty Retreat",
+      "text": [
+        "I truly love this place and have been coming hear for many years. Today I had the Tranquility Retreat with Gabriela who was wonderful. I always recommend SpaZen to those looking for a great place to get a little R&R."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Wonderful, relaxing massage.",
+      "text": [
+        "My partner and I went for a couple’s massage today with Gabriela and Yanina. The massages were great and the spa was really peaceful. The lounge area and whirlpool are bigger than they look in the pictures. It was a really nice getaway for the afternoon. It was also one of the nicer treatment rooms I’ve seen. Overall the small is smaller than some of the other day spas in the city but that makes it feel more relaxed since there are fewer guests at once."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "One of a kind experience",
+      "text": [
+        "I had an unexpectedly wonderful experience at the spa. While the hotel is modest the spa itself is like a little oasis. The atmosphere is lovely and soothing and the relaxation room is very calming. I had a relaxation massage with Gabriela, a trained therapist. She is truly phenomenal and the reason for the high review. She fixed some very stubborn pain points on my neck and back that were not allowing me to enjoy my trip to Toronto as much. The pain disappeared afterwards and I felt like a weight had been lifted off my shoulders. If I lived in Toronto I would probably come to the spa once a month. Visiting this spa is a must when in Toronto, especially on a cold or rainy day when there is little to do outside. The prices are also very reasonable compared to other spas."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "Boutique Style Spa in the Big City",
+      "text": [
+        "I loved my experience at this quaint, little boutique style spa!  It is small which I enjoyed because it is not so busy. I enjoyed the Jacuzzi and atmosphere is perfect for a nice getaway.  The treatment I had (Tranquillity) was amazing, and my therapist, Gabriela, was truly fantastic!  One of the best treatments I have ever had - I left with the softest skin and very relaxed!  I look forward to returning! I would say this facility is best for singles, or couples (of friends, or partners) - there is not a lot of relaxed seating for larger groups."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Solo"
+    },
+    {
+      "title": "Amazing RMTs",
+      "text": [
+        "My wife and I have been here quite a few times and have always been satisfied. I decided to post a review after this last visit because I had a 2nd exceptional massage from Gabriella. She has to be the most attentive and skilled RMT I’ve ever had. She has a warm and calming personality. She also has a great balance of checking into see how you are feeling and letting you relax and enjoy. She also fixed some bad soreness I had from a new gym routine. Highly recommended!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Relaxing and Enjoyable ",
+      "text": [
+        "First visit To SpaZen...couples package to celebrate, well, being a couple! Super service and nicely appointed. Enjoyed hot tub soak with aromatherapy, combined with Sparkling wine and fresh and tasty berries...followed by wonderful massages (thank you Gabriella and Komsak - Both RMT’s). We will be back and enjoy this Spa again. A few minor things...1 - suggest providing a Hair Dryer in the ladies change room. 2 - ensure hot water is available for the herbal tea. 3 - ensure you take your bathing suit, there is a large communal hot tub that can be enjoyed after your session...we were unaware.",
+        "Regardless of the 3 minor items listed it was great ... happy travels!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Perfection",
+      "text": [
+        "I thoroughly enjoyed my time at Spa Zen yesterday.  I have been to many Spas in the past searching for the perfect place.  Every year on my birthday, I drive to Niagara-on-the-lake to treat myself to a day at the spa.  After my visit and treatment by Yamuna, I can honestly say that Spa Zen in the Cosmopolitan Hotel will be the place I will be going to in the future.  The spa and amenities were beautiful.  It was great that I could come in early to enjoy the whirlpool and lunch.  Yamuna was amazing, all her services were done to perfection.  I can't wait to be back. ",
+        "I left there extremely relaxed and very pleased."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019"
+    },
+    {
+      "title": "Excellent massage",
+      "text": [
+        "My massage was perfect. Not too hard but not too soft. Yanina was my massage therapist and I recommend highly recommend her."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Relaxing Birthday Experience",
+      "text": [
+        "I was just here on Friday as a birthday gift from one of my friends and I really liked my experience. The place was quiet, the hot tub was nice and hot AND I got to have some champagne by the hot tub as well. My friend purchased an upper body massage along with a scalp massage for me, they were both incredible. I wish I could remember the name of the masseuse - she was really great. I almost fell asleep during the scalp massage."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Amazing mani/pedi",
+      "text": [
+        "My daughter and I went for massages and mani/pedis. Had a great day. Honestly best mani/pedi we ever had. Yamuna is amazing!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Excellent Facial",
+      "text": [
+        "First of all, the Spa Zen is absolutely stunning upon entering, with a zen sofa display, lots of chairs to sit on, and a jacuzzi in the middle of the room.",
+        "My facial was also beyond my expectations. Tina, my massage therapist, not only gave me a facial using high-quality products which smelled so good, but she gave me a back, shoulder, and head massage on top of my facial which I didn't know was part of the facial treatment.",
+        "Overall, I would definitely go back and recommend coming here for anyone looking to get away!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Tranquility Retreat",
+      "text": [
+        "This was by far the best spa treatment I have ever had. The tranquility retreat started off with a full body exfoliation and then a quick shower to rinse off. This was followed by the application of warm oil and a body wrap which felt so warm and cozy. I then received the most outstanding head massage I have ever had. I then had an hour long hot stone massage! Gabriela was the RMT who I had the pleasure of being with for my almost 2 hour long service. She was absolutely AMAZING!!! I would give her a 10 star rating if I could. You can tell she is a very experienced therapist and knows exactly what she is doing. I have never felt so amazing after a spa service!!!! Highly recommend this treatment and ask for Gabriela. The spa itself was so cozy and has a nice relaxing atmosphere. Following my spa treatment I relaxed in the hot tub with a nice glass of cucumber water. Upon arrival, the front desk was so welcoming and made me instantly feel welcomed and comfortable. Highly recommend this spa!!!! Can't wait to go back one day when we are back in Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Great service and relaxing atmosphere",
+      "text": [
+        "I went with friends and we thoroughly enjoyed our spa experiences. The staff are friendly and the atmosphere is relaxing. I had the body scrub and facial and it was blissfully relaxing!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Amazing staff and atmosphere",
+      "text": [
+        "As soon as you walk into the hotel you feel welcomed with the cosmopolitan hotel staff but when you arrive @ spazen Jackie and/or natasha are the smiling faces that you see and give you your locker key and give you the details of the showers and jacuzzi available for your use. I brought my swim suit and body wash.  They provide the towels, slippers, and a lush bathrobe. I did a 1 hour relaxation massage with yamona.  She is absolutely amazing with her warm and caring personality along with her knowledge of massage therapy. I always feel rejuvenated, relaxed and cared for from yamona."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "SpaZen gave a great massage & pedicure",
+      "text": [
+        "This experience was a Mother's Day gift for my wife, her first time for a massage and pedicure. The appointment started at 11 AM and the jacuzzi (included) was available from 10 AM. Her one hour massage started at 11 AM, followed by a 45 minute pedicure which stretched to an hour by the time her toenails dried in an infrared dryer. Both treatments were done by Yamuna, a charming young lady originally from Nepal who gave an excellent massage and pedicure. No previous experience to compare to, but my wife found both treatments very well done and enjoyable.",
+        "Jackie, the Superintendent was also very charming and helpful. She suggested a place nearby for lunch and chased after us down the street to give me my credit card which I had left in the machine,"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "The Spa that can give you the real “ME” time❤️",
+      "text": [
+        "It’s the best place where you can treat yourself after a very stressful week. You’ll get more than what you expect."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Amazing Service Amazing RMT",
+      "text": [
+        "This is usually always a monthly visit for my partner and I. Gabriela & Yanina are awesome RMT’s. Clean facility with amazing people, from the booking service to the front reception we always feel welcomed like old friends. Very quiet retreat that provided the much needed getaway in the financial district."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Quiet retreat",
+      "text": [
+        "I booked a Friday afternoon at SpaZen for a massage and pedicure. Both were amazing. Yanina was my maseuse and she was excellent. She had great hands and even lessened my migraine with a scalp massage which has never happened before. I can't remember the woman who did by pedicure, but she was also excellent and recommended what I should do for my ingrown toenail. She was very knowledgeable. I pretty much had the place to myself. It was so relaxing. I would go again, but I wondered what it would be like with others there, since it's quite small."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Girls Night Out",
+      "text": [
+        "My friend and I booked the Tranquility Retreat package. On the day of our booking, there was a fire in the hotel restaurant and the spa had to be closed. Jackie apologized many times (even though it wasn't her fault) and offered to reschedule the appointment with a discount (bonus!). As it was a long weekend I think we had the place to ourselves. The spa is relaxing and quiet. Yanina and Gabriela are fabulous. Great personalities, attentive and polite. I/we will definitely be going back."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "My husband and I had a great experience; from the front desk with Jackie to the jacuzzi, massage and soak (romance package).  My massage was spot on with pressure, tension points and aches and pains as well as relaxation.  (Not an RMT massage just a relaxation one).  Would definitely recommend and consider coming back to next time we’re in the city!  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Try the Signature Spa Massage",
+      "text": [
+        "If your muscles are aching or you are having trouble relaxing try the Signature Spa massage treatment with Yanina! I went with a bad back and felt so much better immediately. It's a therapeutic experience in a quiet, relaxing atmosphere. Once inside you will forget that you are in downtown amongst the noise and bustle."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2020 • Solo"
+    },
+    {
+      "title": "Zen ambiance and excellent service",
+      "text": [
+        "There are a lot of spa choices in the city, and SpaZen should rank highly among them for ambiance, value, service and quality. The waterfall jacuzzi room is a highlight for before and after and even between treatments. The Signature massage and pedicure were exceptional. Shout out to Gabreiyla, Tina and Yamina for their top notch service! A great place to escape for a few hours."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Amazing!",
+      "text": [
+        "I traveled to Toronto for girlfriends' weekend with my a long-time friend from high school (nearly 30 years)! We both work to excess in addition to working to raise and nurture our families, so we thought the first order of business was a massage. SpaZen was gracious enough to squeeze us in despite a full schedule. We each had a one-hour massage and spent the time waiting alternately in the spa jacuzzi and sleeping a bit in the relaxing environment of the waterfall room where the jacuzzi is located along with some tea and cucumber water for hydration. Gabriela was our masseuse, and --wow!- she was amazing. Strong yet relaxing. She understood our need to relax and check out a bit and she carefully listened to any medical concerns we had, checking in during the massage to ensure she was keeping with our intentions. Excellent place. Perhaps the best massage I've ever had."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Spa zen tranquility retreat package",
+      "text": [
+        "My lovely boyfriend purchased this package for me and it was a wonderful, relaxing experience. Tina was the one taking care of me and she was so entertaining and so lovely to speak to while getting my treatment done. My skin felt so soft after and my body was so relaxed. Will be coming back again! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Solo"
+    },
+    {
+      "title": "Best manicure I’ve ever had!",
+      "text": [
+        "I received a gift certificate for Spa Zen and decided to treat myself to a manicure. A lady named Tina did my nails, and she was not only meticulous and thorough but she was also such a warm, kind, joyful spirit. In a quiet way, I had the loveliest time chatting with her (and I usually hate small talk). She vocalized how much she loves her job and it shows. She did the best paint job I’ve ever seen (and I chose super dark Lincoln Park!) The only reason I gave 4 instead of 5 was because the facility itself was a little underwhelming. (I came early to use the jacuzzi and relax). But still totally enjoyable and relaxing. And everyone was very friendly.",
+        "It was such a pleasurable hour. Thankyou Tina! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Solo"
+    },
+    {
+      "title": "Spazen",
+      "text": [
+        "Great place! The staff are amazing! It was the perfect experience!  The atmosphere is relaxing and the perfect mini getaway! Plus the masseuse’s there are amazing! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "amazing experience, friendly staff, great location",
+      "text": [
+        "Are you looking for a massage, for mani / pedi or waxing services or just for a chat while enjoying the indoor pool? SpaZen is the answer for all. All Ladies are helpful, professional, inviting and have a contagious smile! :) ",
+        "Great plus: location!",
+        "Cosmopolitan Hotel it's in the heart of Downtown Toronto; if you are tired tourist and need a small break or you are working in Financial District and want to take advantage of the lunch break, consider an RMT massage with Gabriela or an appointment with Svetlana for cosmetic services. ",
+        "The spa implacable clean, spacious and distributed on 2 levels; there is enough room in the changing area and they have many lockers.",
+        "One time I was not in rush and after an eyebrow fix (cost is less then $15) I relaxed for few hours in the hot water, reading magazines and checking my emails, at no extra cost."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Spazen",
+      "text": [
+        "Wonderful experience, great ambiance great spa. Very impressed with my service and how well the front end girl manages the spa. I will be back "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Business"
+    },
+    {
+      "title": "Spa Zen is Amazing!",
+      "text": [
+        "I absolutely LOVE Spa Zen!! I was originally looking for someone to do my brows.  I like to have them threaded and the only person who can shape, sculpt and work magic on my brows is Tina.  If you want your brows done perfectly go see Tina at Spa Zen.  She really takes her time and shaping brows comes so naturally to her. Mine are very sparse but somehow she makes them look amazing.  I have also had facials, manis and pedis done by her and I am always impressed by her precision and professionalism. ",
+        "The Spa is located inside the Cosmopolitan Hotel in the heart of downtown Toronto just a few steps away from the Eaton Centre.  Reception is always very helpful and courteous. It is always a clean, cozy and relaxed ambiance.  The large jacuzzi tub is just heaven. I am looking forward to taking more trips to Spa Zen on a regular basis to soothe my achy muscles from the toughest job in the world - parenting 😉. You will not be disappointed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    }
+  ]
+}

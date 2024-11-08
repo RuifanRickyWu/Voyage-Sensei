@@ -1,0 +1,383 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Travelling Chicken",
+    "url": "/Attraction_Review-g155019-d11918297-Reviews-Travelling_Chicken-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "38 Russett Ave",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6H 3M3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 196
+    },
+    "openingHours": "Mo-Su 07:00-20:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f2/ee/f7/relax-time-in-algonquin.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Ski & Snow Tours",
+    "Eco Tours",
+    "Hiking & Camping Tours",
+    "Nature & Wildlife Tours",
+    "Day Trips"
+  ],
+  "description": "Travelling Chicken aims to redefine small group travel. When you travel with us, you're travelling among friends, all while supporting local. Meet great people, learn new things, and soak up authentic local travel experiences. We organize short trips from Toronto to Algonquin Provincial Park, Bruce Peninsula National Park, Waterfalls in Hamilton, Niagara Falls, French Canada, Blue Mountain and road trips around Ontario and Quebec. You can choose from one day or multi- day tours. Solo travelers are welcome to join the trip or you can request a private tour for your group of friends or family. We can also provide transportation to different places in Ontario and Quebec. Join us on one of the adventure tours all year around - hiking, canoeing, swimming, rafting, snowshoeing, skiing, dog sledding.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "A terrible experience",
+      "text": [
+        "Our tour was cancelled. No one informed us beforehand, I called them two times on the day before and then got the cancellation mail and later the refund. Tripadvisor should not promote this type of irresponsible tour arranger like \"Travelling Chicken\". They spoiled our entire day's tour plan."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Best guide in the world",
+      "text": [
+        "The tour was very packed and we didn't have enough time on all activities, but I could do multiple activities that otherwise I wouldn't have done like going to the Winery and the Mapple store. The food was okay, the boat was great and the Niagara falls were amazing.",
+        "What I like the most (besides the falls) was the guide. Very charming and funny guy that made the trip very pleasant. I would love to tour with them again."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Nice tour, great guides, not a good season, terrible organizer.",
+      "text": [
+        "Much of the tour was as expected. The long transfer was no surprise - and at this time of year there was no viable option to make arrangements to stay overnight and enjoy the amazing park. ",
+        "Mike was a great driver and guide and we felt very comfortable. ",
+        "There are pros and cons to doing the tour in late October: On the plus side, there are very few tourists, so the park is more secluded. On the other hand, the forest had lost most of its colours, there were no animals to be seen and no activities other than a few short hikes.",
+        "The main reason for the lower score:",
+        "We had booked a month in advance and had to change from Saturday to Sunday a week in advance. This was confirmed by Tripadvisor. A day in advance the organisers said Sunday was not possible as it was overbooked and we would have to do Saturday or cancel. Absolutely ZERO support or refund, just blame Tripadvisor. We don't care who Travelling Chicken use as a distribution channel as they remain fully responsible for any marketing channel they use. This caused quite a stir as we had to rebook our other Saturday plans."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Beautiful national park tour",
+      "text": [
+        "This is a beautiful day tour of an amazing national park. Joe is a great tour guide and knew all of the inclines of the hills."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "A perfect day trip to explore Bruce Peninsula",
+      "text": [
+        "This Saturday, we had an amazing experience on a Bruce Peninsula hiking tour with my husband and my father in law! The trip included a visit to Tobermory, swimming at the Grotto, and hiking to stunning spots and lakes. As I’ve recently arrived to Toronto, it’s been challenging to explore interesting places here without a car, but this tour made it easy to see the beautiful nature of Canada. A special shoutout to our guide, Joe, who knows every interesting spot in the park and made this trip unforgettable. Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Tour Cancelled",
+      "text": [
+        "I booked this tour over a month prior to visiting Toronto and then the night before I receive a text that there was an issue with Viator and that they are not able to accommodate my reservation and can book me with another tour company.  I did however the new company did not include all the stops and time frame they did and the guide service was very lacking.  Beware if you book this tour they may cancel last minute leaving you to scramble for new plans."
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "GO!",
+      "text": [
+        "Leo was a great guide. The park is beautiful in all aspects. Some of the trails are very rocky so if you have any limitations, be prepared. The bus ride wasn’t easy for my 6’2” partner. It was a transit van really and there is little leg room but he still had a great experience."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Tour cancelled the night before",
+      "text": [
+        "I booked a day trip to Bruce Penninsula for December 24th, was really excited as this was one of the few things I wanted to do during my time in Toronto. Was emailed at around 7.30pm the night before the trip saying it was cancelled. They wanted to move me to the 26th for the tour but that was the day I was leaving. Supposed to be getting a full refund but I am still waiting. Can’t comment on the quality of the tour itself as I never got to do it."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2023 • Solo"
+    },
+    {
+      "title": "Great trip but be prepared for a long day! ",
+      "text": [
+        "A packed full 12 hour day. Excellent venues to visit and would highly recommend this trip. There were only 6 people on our trip so bizarrely they stuck us all in a car that was quite cramped to be honest. They no doubt saved money not using a transit van equivalent. The trip is really about taking you from A to B as opposed to anything being \"guided\" but this was fine. ",
+        "The driver was a good person and did a great job ferrying us all around. He was Filipino (apologies can't remember his name) and a credit to the company. ",
+        "We did the boat included for Niagara Falls and this was simply brilliant as you experience the power and sound of the falls.",
+        "Maple farm was good but the wine location was somewhat small and they only let you try the basic wines.",
+        "Nonetheless, overall I would recommend this trip to others as we certainly enjoyed it. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing day",
+      "text": [
+        "It was a pleasure to participate in this daytrip! We saw many great places, canoed, walked two trails (waterfall and lookout point), swam in a lake, drove to the visitor's center and all of this with a very nice group of people. ",
+        "Our guide Mike was super friendly and did his best to make us enjoy the day and see the beauty of Algonquin Provincal Park. ",
+        "Highly recommended trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Very nice trip an beautiful locations.",
+      "text": [
+        "The trip from Toronto is really worth it. The peninsula is beautiful and our guide showed us the most interesting spots. Can be recommendet for everyone."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "Worth a Trip to Niagara during the Holidays",
+      "text": [
+        "This is not the first time we have visited Niagara during the Holidays but this is the first time that Christmas day had a crisp 4c weather that allowed us to walk around and enjoy the lights!",
+        "These lights had been the same for the last five years or so since I remember. Except for the reindeers and some signs the layout of the lights has not changed considerably but it is still enchanting visitors every year. Worth a visit specially now that there are no other open attractions due to COVID"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2021"
+    },
+    {
+      "title": "It was an amazing experience",
+      "text": [
+        "It was an amazing experience. It was a perfect day. I've already recommended to all my friends to do it too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Fun traveling with TravelingChickens",
+      "text": [
+        "Have been touring parts of Ontario - thanks to TravelingChickens !! They are great tour organizers with good knowledge of the areas being traveled to. And they're safe to travel with as well.  I've had the chance to take trips with both Lenca, and Mike and both of them a very fun, friendly folks! ",
+        "I highly recommend this travel group if you're in Toronto and want to get around Ontario and more!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2021"
+    },
+    {
+      "title": "I love the getaway.",
+      "text": [
+        "I highly recommend this trips.  You will enjoy much! 🤩",
+        "It was a very pleasant and a relaxing trip.",
+        "Did enjoyed much! 😍"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2021"
+    },
+    {
+      "title": "Algonquin Provincial Park Day Tour",
+      "text": [
+        "The guide (Lenka) attended to each guest's interests and needs. She was an exceptional host. Moreover, the trip was very enjoyable  and the sites visited on each trail are beautiful. Well done! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2021"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Very organized trip, Lenka is very kind, patient, and very knowledgeable about the area. Definitely recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2021"
+    },
+    {
+      "title": "Loved it!",
+      "text": [
+        "We went dog sledding and it was so much fun!! Mike is a great tour guide and took many pictures of us. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2021 • Family"
+    },
+    {
+      "title": "Wonderful day!",
+      "text": [
+        "Amazing day! Dog-sledding was the highlight! Dogs were super friendly and learning how to manouver the sled ourselves was amazing. Lenka was very organised and friendly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020"
+    },
+    {
+      "title": "Once in a lifetime experience I could never forget.",
+      "text": [
+        "Screaming Heads Snow shoeing and Dog Sledding. It was a nice experience. Lenka is so organized, so warm and felt safe during the entire trip. Took photos and making sure we all enjoyed our trip. ",
+        "Nice Lenka, looking forward for more trips with you."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2021 • Couples"
+    },
+    {
+      "title": "Beautiful trip and and lovely trails to visit and explore",
+      "text": [
+        "Trip was amazing we had fun Swimming Canoeing  it was wonderful.  The guide was wonderful .The only bad thing was the Bus that took us there , it was too tight in the back."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "The Grotto and Tobermory with the Travelling Chicken tours and Mike",
+      "text": [
+        "My friend and I did a last minute day trip to the The Bruce Peninsula (the Grotto/ Tobermory etc).  Our trip was organized through Lenka and Mike was our driver and guide for the day.",
+        "I like doing my own trips and exploring, so I don't normally do group tours, but I really enjoyed this group tour.  Mike was a great guide.  He is very personable and knowledgable.  He made sure everyone in the group felt included and was safe.  He provided a good mix of group time for hiking and showing you the sites and free time to explore and make the day your own.  This tour company uses a 15 seater van instead of a large bus, so it feels more like a day out with friends.",
+        "We had an unexpected bonus stop at Inglis Falls on the wayThe weather was not on our side for kayaking to the Flowerpots, but Mike offered us the opportunity to spend the last part of the day at Sauble Beach after all of our other activities.  ",
+        "The water at The Grotto and the swimming area is absolutely beautiful and definitely worth visiting.  I highly recommend booking with Travelling Chickens and if you  are lucky enough to get Mike as your guide, you will have a wonderful time!",
+        "Thank you Lenka for organizing and making us the yummy lunch.  Thank your Mike for a great trip and for putting up with 'wild locals'. :)  We will be booking other tours in the future."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Great day trip!",
+      "text": [
+        "I did the Bruce Peninsula kayaking & hiking tour with Ramiro. It is a long drive and long day but it was worth it. It was so beautiful. I was pleasantly surprised that a picnic lunch was also provided. Ramiro was also our designated photographer.  He took hundreds of pictures and created a shared album! Everything was great and I had an amazing time! "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Day",
+      "text": [
+        "This was a great day- as usual with Travelling Chicken Trips, all the tour goes as described. Great logistics, ride, places we visited!!!!!! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Thank You",
+      "text": [
+        "The trip was postponed by one day to have sunny weather and we started an hour earlier to enjoy the Niagara Falls not overcrowded. Simply beautiful! Both tastings were great.. thank for this amazing trip Mike!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Family"
+    },
+    {
+      "title": "Great day!",
+      "text": [
+        "Great combination of activities! We enjoyed every bit of it. Advice; wait for lunch in Niagara on the lake."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Family"
+    },
+    {
+      "title": "A little bit different from the rest and worth every cent",
+      "text": [
+        "We particularly wanted a smaller tour and didn’t want to be taken to the guide’s mates places. We paid extra to be picked up from our hotel and then to the meeting place where we met with our guide for the day- Mike. He was a very knowledgeable, affable chap who knew his stuff and nothing was too much trouble. What we really appreciated was his flexibility and willingness to cut shorter time spent at falls, as the Hornblower cruises weren’t yet running, and to spend more time at the other stops. He had good recommendations everywhere and was great company on what was a long day for him.",
+        "Would definitely recommend this company and will use them again. Thanks Lenka for making all the arrangements"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fantastic",
+      "text": [
+        "Thanx Mike for a great day trip. Everything was well organized and our group of 9 was of perfect size. We even made a little not planned detour to see the beach.. FANTASTIC"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Excellent traveling experience",
+      "text": [
+        "My 3 day trip was most memorable trip ever had. Though I was solo but Travel chicken ensured it's a friendly trip and not just a regular tours like others. Thank you Lenka...you are awesome and will always recommend Travel chicken "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Boring as Snot",
+      "text": [
+        "Police pulled us over and ticketed our driver for spedding, guide was completely disinterested and kept getting distracted looking for moose, and we only got about 2 hours of hiking in an 11 hour trip. Absolutely awful and I will never book with Viator again."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2022 • Couples"
+    },
+    {
+      "title": "Ups and downs",
+      "text": [
+        "The places we were taken too were excellent, hiking and canoeing. Our guide, Joe, was so good. He did an excellent job. However, we felt that there was not enough correct information provided before the day (lunch arrangements and no mention of swimming). Also, for such a long day we spent a lot of time in the van. It would have been a better day if had been able to get out more and walk more. Finally, for safety reasons, two guides would have been a lot better. Joe had to do a lot of driving over the day. Not great for him or us."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Escape",
+      "text": [
+        "Had an amazing adventure. I took the Bruce Peninsula Day Trip. Seen things that were just breathtaking. It was like being taken to another country. Just the escape from the city I was looking for. Went solo and just felt like I was with a group of new friends. Joe was an amazing guide..great information…very funny…and makes sure you are safe and sound! Would definitely do it again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Solo"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Great experience, we were 4 plus the guide who was very invested. He showed us beautiful places that let us to discover a part of Canada !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023"
+    },
+    {
+      "title": "Maple and Wine, Festival of Light",
+      "text": [
+        "I enjoyed the 1 day tour and festival of light.   It was worth the money we paid for this fantastic day. Too bad we didn't stay over night, next year we will. Thank you!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Great experience with a knowledgeable guide",
+      "text": [
+        "Went to many waterfalls and trails, some great sights and visit to the visitor center. Guide Brian was very knowledgeable and keen on hiking and exploring with us."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Solo"
+    },
+    {
+      "title": "Terrible",
+      "text": [
+        "Not enjoyable at all. Wouldn't recommend. Long, boring and better tours out there at much cheaper rates."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2022 • Couples"
+    },
+    {
+      "title": "We feel ripped off!",
+      "text": [
+        "We started at 8am for a four hour drive with one stop of at shop and one other pickup.",
+        "We canoed on the lake for 40mins. Then we where asked if we wanted to do a 5k hike or a 10.5 hike. We felt obliged to do the 10k as the guide seemed very keen as did the others. ",
+        "This hike went on for four hours at high walking speed set by the guide up and down hills. It was boring and not something we wanted to do on our holidays to this length. We have done many hikes in the past much longer and tougher than this but didn't want to do this type of hike for this long on our holidays. Even though the wonderful owner Lenka said that we supposedly struggled by others.",
+        "After 4 hours of up and down hiking we got back and again stopped at another waterfall then stopped again at a shop for the guide to get himself tubs of ice cream. The tour seems to fit around the guide more than him knowing his audience. We got home at 10pm.",
+        "We contacted the wonderfully rude owner Lenka who went ahead without our consent and contacted the other members in our group who supposedly stated that we where struggling. Lenka didn't ask our permission to contact the other members of the group which is completely unprofessional and I think illegal.",
+        "This was a terrible experience from start to finish and an expensive tour when there.betyer ones out there much much cheaper. ",
+        "I'd absolutely avoid and it's been reported to Toronto tourist board..",
+        "Avoid"
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great Day in Niagara!!",
+      "text": [
+        "I had the best time on this tour! The itinerary was perfect and it was a well paced busy day with lots of free time to explore! We had some unique stops that If on my own would not have known to visit! Our tour guide Ramiro was very welcoming, organized, and spoke a lot about the area! I highly recommend booking a tour with this company … it’s a day well spent! I will book another tour with them again!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fun trip but it's not a guided tour",
+      "text": [
+        "We enjoyed our day trip to the Algonquin park with Mike. It was a very long day but all the stops were well timed. Canoeing and hiking were fun, but the best part was swimming in the lake - such an amazing location and crystal clear water. The only downside was that Mike, although called a 'guide', didn't really guide us at all. He was basically just a driver. He didn't speak throughout the whole journey, just played music, and we didn't learn anything from him at the stops about the history of the park or the wildlife. Maybe I was expecting too much, but please be aware of this if you are expecting a guided tour."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2022 • Couples"
+    },
+    {
+      "title": "Jump or not to jump – that is the question",
+      "text": [
+        "It was literally the most fun I had during my visit in Canada. The places we visited were wonderful and the weather was great, albeit this can't be impacted by Tripadvisor. ;-)",
+        "Joe was an excellent tour guide: very considerate, always in a good mood and basically part of us. ",
+        "I would definitely recommend doing this trip."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    }
+  ]
+}

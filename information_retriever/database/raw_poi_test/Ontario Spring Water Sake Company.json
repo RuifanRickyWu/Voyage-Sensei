@@ -1,0 +1,317 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Ontario Spring Water Sake Company",
+    "url": "/Attraction_Review-g155019-d4452255-Reviews-Ontario_Spring_Water_Sake_Company-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "51 Gristmill Lane",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5A 3C4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 41
+    },
+    "openingHours": [
+      "Mo-Fr 12:00-19:00",
+      "Sa 11:00-19:00",
+      "Su 12:00-18:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b5/28/ca/ontario-spring-water.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Distilleries"
+  ],
+  "description": "The Ontario Spring Water Sake Company, located in downtown Toronto’s Distillery Historic District, is eastern North America’s first sake brewery. Using traditional Japanese methods and recipes with delicious Ontario spring water, Torontonians and visitors alike can now enjoy our award-winning fresh locally-brewed sake at our charming tasting bar, learn more about sake by taking a tasting tour and purchase a bottle of our premium sake to enjoy at home. Ontario Spring Water Sake Company is a member of the Brewing Society of Japan.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Refreshing",
+      "text": [
+        "Refreshing. I am not a sake expert, but I could tell that this place makes good sake since the taste was so refreshing. Flight would be a good option for a beginner."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Awesome Sake",
+      "text": [
+        "Cool joint to go to.  Loved the Sake flight but wished they had all Sake options as some were sold out.  The place is in a cool spot and if you are in the Distrillery District check it out"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Can’t miss in the distillery district!!!",
+      "text": [
+        "Godfrey gave us an incredible experience even though we were squeezing in a visit on the last weekend before a pandemic shutdown.",
+        "After having visited Japan many times, this visit and tasting brought me right back there.",
+        "This is a CAN’T MISS in the distillery district and I’m incredibly pleased to see this Canadian success story getting off the ground.",
+        "WELL DONE GODFREY!  We will be back!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2020 • Couples"
+    },
+    {
+      "title": "Great Sake!",
+      "text": [
+        "If you like Sake, come here and drink theirs!  It's a small unassuming little distillery, but had some tasty different variations of sake.  Friendly staff!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Great little spot",
+      "text": [
+        "Great spot in the old distillery buildings.",
+        "The sakes I tried were fantastic and they have a great menu of sake drinks.",
+        "Well worth a stop in if you are in the area."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Good Sake in Canada?",
+      "text": [
+        "Ok, so my wife is Japanese and we've had a lot of delicious sake in Japan so the bar was set pretty low when we walked into a Toronto Sake Brewery.  Not only were we surprised by the taste but that the girl working there went to my wife's school and knows her friends in Japan. But back to the sake, we tried them all and they were all pretty good. We took 3 bottles to go. Cool building too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "Unique sake brewery in the heart of the Distillery District !!",
+      "text": [
+        "The sake drinkers in our group enjoyed this insightful presentation about the history of sake and the process of this unique company.   A variety of samples were accompanied by a detailed lesson about the steps towards production of each sampling.  This hour long presentation was interesting and our host was terrific.  If you're a sake drinker, take the time to visit this establishment.  Small place but big enthusiasm for their sake !!!",
+        "(There is a fee for the personal tour but it is free to enter the brewery and pay for sake at the bar)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Different experience",
+      "text": [
+        "Came in and had a flight/sampler tasting.  I am a sake novice so it was interesting to learn more about it and how it is brewed.  Very distinct and intense flavors."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Unique and fun",
+      "text": [
+        "My friends and I stopped in and each got the flight/sampler to try three of their popular sakes. The sakes are very strong, but also extremely unique. It’s not a taste for everyone, but it’s worth sampling. The staff were friendly as well, and it was a fun experience. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Must visit in Distillery district",
+      "text": [
+        "It is a small craft sake brewery in the district. They actually brew it on premise and offer tours. The simple thing to do is to go for tasting round at the bar. There are some really light and tender unpasteurized sakes. Friendly and fun staff. We enjoyed it.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Wonderful Surprise!",
+      "text": [
+        "You can find this shop in the Distillery District.  Very tasty saki.  They have tasting tours for a fee.  Our guide/saleswoman was very knowledgeable and friendly.  It's a beautiful shop and worth the visit even if you don't want the tour."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2013 • Couples"
+    },
+    {
+      "title": "Great place!",
+      "text": [
+        "My husband and I went on the Sake tasting tour! It was great! We learned how Sake was made and had several tastings!",
+        "The guide was very friendly and made the tour fun! We would recommend this place to anyone. ",
+        "You can also go in and taste the Sake at the bar. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "A surprising discovery",
+      "text": [
+        "We wandered into this \"brewery\" in the Historic Distillery District\" of Toronto, and fell into the opportunity to learn all about the making of sake and its different, very subtle qualities. We started with trying a sampler of three sakes, all chilled, learning that the best sakes are unpasteurized and most subtly appreciated unheated, which changes its taste. We tried the one sake that is pasteurized, and therefore recommended for warming (Nama Cho). ",
+        "There is a tasting tour, but our scheduling conflicted. Very likely an excellent experience, judging by the friendly and informative service we received during our tasting at the small bar.",
+        "Their website is:",
+        "http://ontariosake.com"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2013 • Couples"
+    },
+    {
+      "title": "Hidden gem in distillery district",
+      "text": [
+        "This is probably the best kept secret of the distillery district. Unfortunately their tasting and touring hours are a bit finicky so make sure to plan ahead. For I believe $10 you get 3 small pours of sake - definitely worth it. We did not participate in the tour but it looked and sounded very informative - was going on in the background as we drank. The staff were very pleasant and happy to explain their products and methods. Great overall combination of learning and experiencing. I highly recommend visiting this place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Best thing about the Distillery District",
+      "text": [
+        "I am not usually a big Distillery District fan.  The buildings are beautiful, but it feels like a tourist attraction rather than a real part of the city.  That said, I love Ontarion Spring Water Sake Company (Izumi).  I think it's incredible that people decided to start it up here and make such a good product.  I am no connoisseur of sake, but I loved what I tried.",
+        "Tastings aren't cheap, but they are worth it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2015 • Friends"
+    },
+    {
+      "title": "Always have to pick up a bottle",
+      "text": [
+        "Every time I am in the area, I have to pick up a bottle or two. ",
+        "My favourite is the Asian pear sake. ",
+        "The staff are always friendly. I could easily sit there for a few hours having a lot of drinks. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Friends"
+    },
+    {
+      "title": "Perfect for Dec. Weather",
+      "text": [
+        "After cold rolls of sushi across the lane, drop in for a unique drink!  We've tried Spring  Water Sake in summer, but the slightly warm sake is better suited to winter frost.  Ontario Spring Water Sake Company is opposite Touhenboku Sushi beside Distillery's Sports Gallery.  Just outside, two photo booths (Kinder surprise and Santa's) provide a colourful backdrop to Parliament Parkette.  The sake glassware is cheaper at Ten Ren's teahouse in Fairview Mall, but a bottle of sake is a good gift for the discriminating drinker."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2014"
+    },
+    {
+      "title": "Tour guide was excellent!",
+      "text": [
+        "This is not really a tour as you will spend the whole time sitting and listening to the guide. Fortunately, the tour guide that we had was just fantastic. He was extremely entertaining. We got to try different sakes and the guide explained how sake is brewed and what are the differences between certain types. He also showed us some byproducts that are used in the beauty industry to produce cosmetics. We could not actually see anything in detail because visitors could introduce bacteria to the production process that may change the taste and quality of alcohol produced. Despite it, we still had a great time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2014 • Couples"
+    },
+    {
+      "title": "Delicious!",
+      "text": [
+        "I took the tour at the sake distillery.  While it's more of a tutored tasting vs. an actual tour where you're walking around the parts of the distillery, it's well worth it.  I learned so much about how sake is made and Japanese culture.  We tasted around 4 sakes, and they were excellent!  (All of this for just $15.)  Make this fun, educational, and delicious stop when you're in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Friends"
+    },
+    {
+      "title": "Sake Tasting",
+      "text": [
+        "Try a few different type of sake and learn about the distilling process. You can participate in a tour or just do a tasting in the storefront. This was a unique and fun attraction in the distillery district. Make this one of your priorities :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2014 • Solo"
+    },
+    {
+      "title": "Educational",
+      "text": [
+        "Currently on the 54th batch, this micro brewery is learning as it goes and educating it's clientele on the way. Tour is worth it for the tasting alone. "
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great place for a quick warm up",
+      "text": [
+        "This was the first shop we went into in the Distillery District. Per other TripAdvisor reviews, we did not take the tour. We chose instead to warm up with a small carafe of warm sake for $10. It was good. The guy behind the counter was friendly and chatty."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "great experience, sake, service and informative tour",
+      "text": [
+        "Distillery District is a great walking area with fine shops, galleries and restaurants.  Don't miss this place!  Smallish place with a sake bar and GREAT tasting sake to suit your personal taste.  Friendly service.  I tried most of their sake and although I have 3 favourites, all were very pleasant to me and my wife.  They take pride in their processes of making fine sake.  As the area is quite small, the tour is contained in the public area in front of glass that separates the public area and the area where the sake is made.  Our tour guide is not only a guide but does assist in the sake manufacturing processes.  He was very informative and friendly as was the staff at the sake bar and of course the owner whom I spoke to.",
+        "Most of their sake has not been pasteurized giving better flavour.  It can keep for 6 months after purchasing whether opened or not and must be kept in the fridge.  They do offer sake that has been pasteurized once and can be found at some LCBO stores.  This can be kept for up to one year whether opened or not and does not have to be refrigerated.  I have a slight preference for the flavour of the non-pasteurized sake.",
+        "There is a small area where you can buy sake sets, T-shirts, sake(of course), soap, dressings made from ingredients from the sake process and other items.  I bought a sake set made in Japan (and there are some other nice looking ones made in China) and a bottle of sake.  I will definitely return again to buy more sake.  The prices are similar to other brands at the LCBO that have been pasteurized I believe twice.",
+        "There is a fee for the tour ($15.00) that includes 4 tasting of different sakes.  It takes about 1 hour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2013 • Couples"
+    },
+    {
+      "title": "Cool first Sake experience",
+      "text": [
+        "Stopped by with friends. Each did the sampler. The first time we've ever had sake. Staff was very friendly. Nice atmosphere. Stop by in the distillery district!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Sake sampler",
+      "text": [
+        "I tried their sake sampler and it was really good.  It only cost $10 per person.  The staff explained the history of the building and how they make the sake. I highly recommend trying this."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Incredibly delicious SAKE!!",
+      "text": [
+        "There was not a bad thing to say about the brewery.  Each had a flight of the Jake's.  There is a large enough variety so that there is sure to be one of your liking.  The servers were fun and knowledgeable.  The sake was reasonably priced.  The SakeCollins with Uzi is to die for.  On the side, the sesame dressing they offer is also extremely good!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Cozy spot to sip good sake",
+      "text": [
+        "While not big, it is full of life. You can watch the same being bottled and brewed while you learn about sake and taste as much as you can. Would recommend a stop in if in the area. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "If you like sake like I like sake",
+      "text": [
+        "Amazing sakes from a local brewer how spent time in Japan learning the methods of brewing sake. With a master brewer that came to Toronto for a year to further his education the results are amazing. It's all in the water as they explain. Offering different varieties for different palettes. Worth a visit in the Distiller District."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "If you like sake...",
+      "text": [
+        "Touring here opened up my eyes to sake in a way I hadn't experienced before. We stopped in here as part of the Old Toronto Brewery Tour and I am glad we did. We got the full tour of the way it works along with the samples. I think I could be a sake fan. It is not for everyone but you should definitely give it a try. At the very minimum your learn some stuff you didn't know before. I found that with the curation of the tour, sake takes on a new life other than just buying some at the store and drinking it at home."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Saki brewing up close and personal",
+      "text": [
+        "We chanced upon this \"brewery\" while walking through the distillery district.  We signed up for the 1hr tasting which was enjoyable and informative.  The tasting gave me new-found understanding of the difference between pasteurized and unpasteurized sake.  Unfortunately the master-brewer is no longer on site, so no new \"recipes\" can be expected in the near future."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Great experience, tasty sake and very knowledgable staff!",
+      "text": [
+        "I love trying new things and was especially excited to come here based on the great reviews, but my boyfriend was hesitant to tag along because his previous experiences with sake have not been the best. I kept an open mind despite his description of it being something akin to \"rubbing alcohol burning your throat and stomach\".",
+        "When we walked in we were greeted with a friendly smile from the bartender and decided to order the tasting flight (HIGHLY RECOMMENDED). The Teion-Sakura was my favourite and was described as the company's offering to appeal to those with a preference for white wine. ",
+        "We both really enjoyed the nuanced flavours of each cup we received and appreciated our bartender's knowledge of sake and the brewing process as well as her ability to sense our mood and not rush the process (she joked with us and waited for us to finish each cup before pouring the next one).",
+        "We are definitely coming back as there was so much more we wanted to try (such as the sake cocktails, the arabashiri offerings, and ice cream!)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Traditional Sake in the North",
+      "text": [
+        "I did not expect such traditional tasting experience inToronto and had decent glasses of sake.  The production process looks traditional and the shop master (Nori) is friendly and knowledeable.  They have \"Arabashiri\" - newly brewed sake - almost every month which is unique as the cold climate makes such multiple production possible in a year.  The low temperature fermentation sake \"Teion Sakura\" is delicate and a great surprise.  The price is not cheap, and the taste is rather smooth, yet worth trying and experience the tradition with some unique twistes."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2016 • Solo"
+    },
+    {
+      "title": "Great little hidden away gem.",
+      "text": [
+        "We were walking around the Distillery district when we saw a sign for sake tasting and brewery.  I love sake and so we stopped in.  The gentleman behind the counter was very nice and well versed in his craft.  Tried several different sakes and found everyone delicious.  We spent an hour or so drinking sake and talking and the time just flew by.  Highly recommend you stop and have a few here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016 • Couples"
+    }
+  ]
+}

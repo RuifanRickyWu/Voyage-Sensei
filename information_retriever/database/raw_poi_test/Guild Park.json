@@ -1,0 +1,366 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Guild Park",
+    "url": "/Attraction_Review-g155019-d4859653-Reviews-Guild_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "201 Guildwood Parkway",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M1E 1P5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 63
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/86/1e/5b/the-greek-theater-from.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Parks"
+  ],
+  "description": "A unique 88-acre (36-hectare) public park where art meets nature. Located atop the Scarborough Bluffs, Guild Park includes formal gardens, forest areas and architectural fragments preserved from notable - and now demolished - buildings. Landmarks include the Greek Theatre, created from the marble arches of the 1912 Bank of Toronto; the facade of the 1895 Temple Building, once the tallest structure in the Britsh Empire, and public artwork, including sculptures by E. B. Cox, Sorel Etrog, Emmanuel Hahn, Frances Loring and Florence Wyle. Guild Park is operated by the City of Toronto and open 24/7, year- round. Check Guild Park's website for park events and activities.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Beautiful park with sculptures and flowers",
+      "text": [
+        "We visited this park on a Saturday morning. There is plenty of parking and it’s free. The Guild inn is on the property and they have weddings going on. The grounds are well maintained with lots of flowers, sculptures and relics saved from demolitions. Lots of history. And there’s trails leading off along the bluffs. It’s great to visit when the flowers are in bloom."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Couples"
+    },
+    {
+      "title": "Great Park!",
+      "text": [
+        "This park is an amazing place for taking a walk in the morning, not too crowded, big parking lots. There are plenty of sculptures to take pictures with, and also a short walk down to see Lake Ontario. We took lots of excellent pictures put down below, but the pics don't do this place justice. 100% would recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Nice Place to Take Photos",
+      "text": [
+        "We spent a weekend at my sisters place in Scarborough and before we left for home she invited us to see Guild Park in Scarborough, a favourite spot for photographers taking wedding, prenuptial, debut and graduation photos.",
+        "This is one place to visit if you want to take photos with good background. However make sure you are early to escape others who are there also to take photographs"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Amazing Place for an Evening Stroll",
+      "text": [
+        "Amazing Place for an Evening Stroll",
+        "Guildwood Park and Gardens is a nice little spot for a stroll. With nicely kept walking paths, gardens, sculptures and an outdoor stage give it a try yourself. It is also home to the Guild Inn Estate, where you book events and rent it out as a banquet facility. We spent the day exploring the water and were looking for somewhere to take a nice walk just before we left the area. This park is connected to other parks and trails along the Scarborough Bluffs. It's good for groups, families, couples, bike riding and the solo traveller. If you're ever in the area check it out yourself."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Nice park with sculptures",
+      "text": [
+        "This park is part of Scarborough Bluffs, lots of sculptures to explore, a good place for wedding photos.  There are parking lots (free).  The washroom is clean.  The lake can be seen, but there are ropes along the bluff edges, with signs warning people unstable bluffs, not go closer."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "A Beautiful Legacy.",
+      "text": [
+        "Thanks to conservationists and philanthropists - Rosa and Spencer Clark - for leaving us this beautiful legacy of stone fragments and pieces of architecture which would have otherwise been demolished. I was lucky to go there on a beautiful Fall day and it was just spectacular. I enjoyed reading the bits of information about the pieces displayed and marvelled at the intricate craft by stone makers and others to create the pieces which would been doomed for demolition. In a world of glass and straight lines, these are indeed artifacts. Later, a kind Scarborough native guided us to a trail to get to the shoreline of Lake Ontario and also to see a few glimpses of the Bluffs. A wonderful outing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Beautiful",
+      "text": [
+        "A beautiful and serene place   Most if it accessible for wheelchairs. A last minute decision, so happy we decided to go "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Scenic and historical place",
+      "text": [
+        "Very beautiful and scenic place to visit and spend time with family, lots of historical objects to enjoy. A famous spot for photography and wedding shooting, always busy with lots of couples and photographers. Dogs are not allowed inside the park and laid down picnic not allowed but can have lunch, coffee or drinks on benches."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020 • Couples"
+    },
+    {
+      "title": "Nice lakeside walk, but it could be improved.",
+      "text": [
+        "The grounds are very pleasant, and some of the sculptures retrieved from buildings downtown that have been demolished, are very appealing. We particularly liked the skunk from the mid-1940s BMO building on King Street. The walk down to the lake, though challenging for older people, especially those taking the steep path, leads to some nice views. The walk along the lake would be more agreeable, however, if there were occasional benches. There are precious few places to just sit and contemplate the surroundings."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "Nadine and Todd's reception",
+      "text": [
+        "Great food, location,  staff,parking,views,decor, grounds,everything about this place was nice.  Highly recommend."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Friends"
+    },
+    {
+      "title": "Go there! It's amazing!",
+      "text": [
+        "This park is about 20 minute drive up from TO.  It is a nice drive if you don't take the highway.  We enjoyed the small cities we drove through, even stopped at a pub and had a fabulous lunch. The park is beautiful! The grounds are lovely and the artifacts are amazing to behold.  Such a nice change from the fast pace of the city, I highly recommend it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Couples"
+    },
+    {
+      "title": "Love Guild Park",
+      "text": [
+        "I've been here several times, it tends to be quiet and not very crowded. Lovely hidden little gem, I don't think many people know of this park. Great place to take photos and have a picnic. Bring your camera!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Couples"
+    },
+    {
+      "title": "Guild Park and Gardens - a secret treasure in Toronto",
+      "text": [
+        "The building in the middle is being converted to something new coming soon. 3rd time is a charm?",
+        "The lack of trees is due to two factors 1) Ash borer bug 2) Ice Storm.",
+        "All the trees are there, many of the monuments/statues/etc...have been moved around due to construction.",
+        "History of the Guild Park and Gardens is coming back."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Solo"
+    },
+    {
+      "title": "walk in the park becomes a musical experience",
+      "text": [
+        "I was having a nice quiet walk through this Toronto Landmark - not fully remembering why it was famous.   Well I quickly noticed all the facades of old Toronto Banks - all placed beautifully amongst beautifully landscaped gardens.   Looking forward to the renovations"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Solo"
+    },
+    {
+      "title": "Hidden Gem",
+      "text": [
+        " A nice little gem in Scarborough, great pieces of old architecture saved and display around the park, beautiful gardens, and great view of lake Ontario. Great for pictures"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2015"
+    },
+    {
+      "title": "Lovely park lot of building work going on",
+      "text": [
+        "As there is a lot of building work going on at the moment did not get to see it all had a walk down to see the view of the lake and as it was a hot day it look beautiful the gateways and archways make good shots for taking photo's when its all finished I am sure it will be spectacular as it was a very hot day it was nice for a stroll"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2015 • Family"
+    },
+    {
+      "title": "Wait Until Revitalization is Complete",
+      "text": [
+        "Gulld Park (formerly known as Guildwood Park) used to be a beautiful spot to spend a couple of hours.  It is now in the midst of some sort of major redevelopment, which I am assuming is not anything more sinister than park improvements.  The formerly glorious Guildwood Inn & tearoom, which is located on the park property has been closed and boarded up for several years.  The statuary and archways scattered about the property remain, and are still popular with wedding photographers.  Written warnings and fencing abound, reminding one of the imminent dangers posed by the bluffs and the lake below.  It is not possibly to appreciate the beauty of the bluffs because they are not visible from Guild Park.  There is limited parking; at that, one section is blocked off, presumably to do with the construction.  There remain some pretty flower beds.  Guild Park, at present, is not worth the trek across the city.  It might provide respite for those in the vicinity who'd otherwise not have access to fresh air on a hot 'n' humid Toronto day. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2015"
+    },
+    {
+      "title": "very small, not a first choice to visit",
+      "text": [
+        "For a tourist, I would not recommend it. Its very small also. If you live in Toronto, and have nothing else to do, well, maybe. I'm a photographer and its not really my scene. Although you might find a section or two that you could use as a backdrop for portraits. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2015 • Family"
+    },
+    {
+      "title": "Architecture set in a park",
+      "text": [
+        "When many old buildings were being torn down in the city centre of Toronto, some of the ornate columns and doorways were saved and placed in the Guild Park on the Scarborough bluffs overlooking Lake Ontario. The park is pleasant to walk through with flower beds and paths that wind around the structures.  It is a favourite photo location for weddings,  Too bad the Inn is closed as there is no place to get food or use a toilet. At least parking is free and there are benches to sit on and paths by the lake, high up overlooking the bluffs. Trees block most of the view though."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015 • Couples"
+    },
+    {
+      "title": "Interesting but not as nice as it used to be",
+      "text": [
+        "The park is pleasant to walk through. There are many architectural pieces from old buildings to provide interest.  the old inn is empty and decrepit and fenced off for years. this eyesore should be demolished. there used to be lots of nice trees and shade - most of the old big nice trees have been removed..I'm assuming they were sick or damaged by storms. ",
+        " the park is still interesting but it was much nicer 4-5 years ago"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2015 • Friends"
+    },
+    {
+      "title": "Wonderful place for photography session...!",
+      "text": [
+        "Guild park is our most often visited place in  all season... even in cold winter time too. It’s always hold their scenic view of different old sculptures and monuments that preview bits of history. Well maintained park, trails at the side, view of Lake Ontario, shades of those big trees 🌲 brings cool breezes, party palace and one of the best place for photographers to have their photo sessions especially for those newly weds couple with their bridesmaids & families. Must visit this place if someone come around this area. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Weekend Brunch",
+      "text": [
+        "Five Seniors, four using canes attended brunch last weekend and found the buildings and amenities challenging. The disabled parking closest to the entrance had a transport truck parked across them. One entrance was blocked by construction equipment. The electronic buttons to open the doors for the disabled did not function. The venue was moved to another room, Ballroom C which is at the back of the building requiring a long walk to get to. The only washroom available to all patrons in this room which could hold probably over 100 guests but was only one-quarter full was a single stall washroom for all. It did not have a space to change a child. It had no paper towels to wipe your hands with after washing. It lacked an air dryer. There was a line-up to gain access to it. I was told later there were more washrooms down a flight of stairs accessed from the front of the building. The service staff knew little about the brunch food offerings and the food staff knew little about our service. All staff were polite and courteous. The food warming containers slammed shut after every use startling guests. The food was decent but not special but then the price of the brunch reflected this. The sidewalk outside had few lowered curb areas for guests using walkers or wheelchairs requiring them to go a distance out of their way to avoid the step at the curb. Not all exits it appeared had ramps only stairs. I found the space to not be well designed to meet the needs of their mobility challenged guests. The building itself looks well built but the amenities to meet the number and types of guests they expect are in short supply."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Hard to get to but great day trip",
+      "text": [
+        "In the 1950s and 60s, most of Toronto's Victorian heritage buildings were torn down and replaced with the modernist structures you see today or worse. Fortunately, the good folks who originally owned the Inn here sought to preserve some pieces and set up what is one of the few neo-classical sculpture gardens in the world. Wonderful place for a picnic or stroll along the bluffs. The city has never known what to do with this space which has incredible potential but it's a fav with wedding photographers."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "Beautiful quiet gem. Perfect for photographers",
+      "text": [
+        "This place is a photographer's gem. There are lots of structure to take photos of. Surprisingly, the crowds are few, and the parking is free. You can stay as long as you want or stroll through as quickly as you want. There are only a few structures, but they're worth a visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "Unexpected architecture in Toronto",
+      "text": [
+        "I hadn't been to The Guild in 15 years since my husband and I had our engagement photos done here but went today to show my children.  The gardens are beautiful and very well kept. I visited with my children, but I wouldn't say it's particularly kid friendly. There is no bike riding, dogs, a playground or picnicking allowed in the garden. It's lovely for a walk though. I'm sure a lot of gorgeous photos are taken here every day. Just a note, wear bug spray if you visit in the summer. The mosquitos are plentiful and we all got bitten. There was lots of parking, but also lots of construction going on."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Family"
+    },
+    {
+      "title": "Looking up",
+      "text": [
+        "The guild inn has always consisted of two things:  the inn itself, and the public gardens, which actually a city park.",
+        "The inn was closed many years ago and lay derelict for years while politicians and others argued about its future, and it seemed the gardens also were falling into disrepair.  This was a real shame as the architectural pieces salvaged from razed buildings in downtown Toronto are unique and present an eerie contrast with the bucolic setting.  Off to one side is the oldest structure in all Scarborough. Originally built in 1795 but sadly not open to the public (yet?",
+        "I'm happy to say that the reopening of the guild inn building, along with adjoining conference centre and gazebo, represent a rebirth of this facility.  Millions of dollars were invested by the city and private enterprise, and this work is just finishing now.  ",
+        "By end of summer, the guild inn should be returned to its former glory.",
+        "The guild inn adjoins the waterfront trail, and there is plenty of parking.    Allow an hour to tour the site, bu double that if you are an architecture or horticulture buff.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017"
+    },
+    {
+      "title": "Great park with a great history",
+      "text": [
+        "Guild Park is somewhat of a legend for those living in Scarborough those for the most part we just call it the Guild. You will never hear anyone refer to the area as Guild Park usually just the Guild or the Guild Inn. ",
+        "There used to be alot more flora and fauna but an ice storm in 2013 took out much of the tree canopy. It is a a great place to see some history as the previous owners of the park  (Prior to being taken over by the City of Toronto) took parts of old Toronto buildings as they were being torn down and relocated them here. ",
+        "You can also get an amazing view of Lake Ontario from the edge of the bluffs in this park. Recently they have did some construction and put a conference centre in the Guild Inn. A welcome addition which saved a derelict building. ",
+        "I highly recommend visiting here and you will be amazed at what you find. ",
+        "Take the 116 Morningside Bus from Kennedy Station and get off at the stop called Guild Inn. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016"
+    },
+    {
+      "title": "Great place to take pictures",
+      "text": [
+        "It is a fairly small park with lots of trees, small open spaces and walking trails . We explored for about an hour before the sun went down. We could have easily stayed longer. The cool attraction part of this park is the architectural debris from old buildings. The scattered pieces have been repurposed into benches, piles, set up as gateways to other sections or just left posed as artwork.   The park overlooks the Toronto Bluffs and Lake Ontario.  Right now the parking lot and the large building on the site are under construction."
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2016 • Family"
+    },
+    {
+      "title": "One of a kind",
+      "text": [
+        "love this park because it has history and of course unlike other standard parks. If you go on weekend rest assured you will see lots of weddings taking pictures. You just have to wait until their are done most wedding parties have permits, which means they get the go ahead and you and I need to wait and wait some more"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "One of toronto hidden gems ",
+      "text": [
+        "If you want to know toronto history visit this park. Entrance is free and if you are lucky you will even witness a wedding or see models at work with their photographers. ",
+        "Did you know Drake shot one of his videos here? Yep he did. The beautiful city gardens are just mesmerizing too. ",
+        "Follow  any of the paths and you will be greeted by the  sight of lake ontario. Walk further and you can walk on the sand scarborough bluffs sand beaches.",
+        "The place is very serene and you can admire pensioners casually taking their morning or evening walk  or lovers walking hand in hand.",
+        "Children laughing and rolling on the grass is freedom you can capture."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Family"
+    },
+    {
+      "title": "Went to a wedding which was very well done.",
+      "text": [
+        "A great place to have your wedding and reception.  The  Guild Park has been renovated and given a new face lift.  Lots of good appetizers were served before the dinner of many courses."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018"
+    },
+    {
+      "title": "MY DAUGHTERS WEDDING",
+      "text": [
+        "What can i say but WOW the venue the archetecture the food the friendly staff everything was just amazing it was a hot july day and the experience was just beautiful the outdoor atrium was the perfect spot for the ceremony the layout of the banquet rooms were just spectacular very professional well organized and touch of class when the strawberries and champagne came to the bridal suit NOW THATS CLASS thank you to all the staff and planners hope to return once again in the future"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Beautiful Grand Old Estate Property Dating to 1914",
+      "text": [
+        "Beautiful grounds and an immaculate venue for weddings. Lots of history dating back to 1914. Professional staff - very well organized. A nice ceremony and a great banquet for our goddaughters' wedding. Very enjoyable. Everything needed is instantly available at your beckon call!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "A VISIT TO THE GUILD PARK",
+      "text": [
+        "The visit to the Guild Park or the Guild Wood Park near Scarborough in Toronto was an unique experience, with its beautifully laid out gardens, walking trails, gazebo, and a view from the top of thelake and a view of the Bluffers Park. On the day of our visit we met a couple who were planning their wedding at the venue. We wished them luck and also wished if we too had our wedding in such a scenic park. Parts of old and heritage buildings in and around the area which would have been demolished or modified as part of the development over the years, have been erected in the park. Indeed a nice place to spend some time for rest, relaxation and enjoyment."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Fabulous Event Venue",
+      "text": [
+        "We attended a wedding her and everything was splendid. The outdoor covered atrium was an idyllic spot for the wedding ceremony. The banquet hall was cavernous, yet cozy. The food was outstanding for a large venue. The beef and lamb chop were medium, not the medium well  to well done as you normally experience.. Service was very good and friendly. Had a much better experience here than a similar wedding we attended at the Four Seasons in Yorkville! Lots of parking, great grounds, just a great spot."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Fun and FREE",
+      "text": [
+        "Neat, pretty outdoor area with pieces of historically-significant architecture that has been relocated to the park. Bring a book or a frisbee - it seems like a cool place to just hang out for awhile."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "A wonderful park!",
+      "text": [
+        "We happened to find this park on a list of hidden treasures when researching things to do in the Toronto area. We are glad we did! What a wonderful idea to save beautiful parts of historic buildings before they were destroyed and display them in a park. They are pretty, and we enjoyed looking at them. We were lucky enough to visit the same day as the annual art festival. Great place for pictures!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Such a nice park",
+      "text": [
+        "The park and the place is very nice. In some building there were people making yoga, then other were having a performance in the park....there are beautiful statues around, very nice place. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Magnificent Toronto preserved",
+      "text": [
+        "A quiet enclave off busy Kingston Road.  Lovely old trees and a perfect setting for these porticos and frontages of some of Toronto's most memorable grand buildings of last century and earlier.  Well worth a visit."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018"
+    },
+    {
+      "title": "Best for romantic walk with partner <3",
+      "text": [
+        "I love this place!! I've always wanted to check this place out and when i finally did, I was amazed! This place is just beautiful. It may be small, but it is definitely a place so perfect for a walk with your partner. There was a boardwalk in the woods which you can enter in from the street and takes you to the main attraction, which is the columns. It was quite there and relaxing to walk. It's nice to explore this little park here and the surrounding places. There was a also a small peak there where you can see the lake and this beautiful horizon ahead. Overall, I loved it here and would definitely come back again!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018"
+    }
+  ]
+}

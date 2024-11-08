@@ -1,0 +1,366 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Daydream Adventures",
+    "url": "/Attraction_Review-g155019-d19786389-Reviews-Daydream_Adventures-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1803 Danforth Ave Lower Level",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4C 1J2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 55
+    },
+    "openingHours": [
+      "Mo-Th 15:00-23:00",
+      "Fr 11:00-00:00",
+      "Sa-Su 10:00-00:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/67/17/78/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Escape Games"
+  ],
+  "description": "Daydream Adventures is Toronto’s first and only immersive art escape room. Daydream Adventures has made an alternate world in Toronto’s vibrant Danforth neighborhood. You will enter into an escape room like no other. Your goal is not to simply escape. Your team will embark on an unforgettable adventure. Play through an immersive story, solve interactive puzzles and complete your mission. - Our escape is for all ages and audiences. We can host adult birthday parties, kids birthday parties, team building, corporate events, and much more!",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Amazing and artistic",
+      "text": [
+        "It was an amazing experience. We did the Dream Portal and absolutely loved it. The room is recommended for a minimum of 3 people but we were able to complete it with 2 people. That said, we were both beginners and it did take us close to an hour to complete the entire room. The difficulty level was just right and it was a great gateway experience that got us excited to do more escape rooms.",
+        "The rooms were created beautifully with a focus on storytelling and immersion. Everything in the room, from the props to the backgrounds were all handmade by local artists and the people at Daydream Adventures. Even the staff orienting us to the adventure was in character and very accommodating of our questions.",
+        "Without spoiling anything, the puzzles were very creative and fun to solve and definitely needed some out of the box thinking. ",
+        "We will definitely be coming back to try our hand at the Ice Cave next."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "It was fun",
+      "text": [
+        "We could have been there all day. We managed to bypass the first two clues and still got in the second room. We were on speed dial with the staff in the end lol we left enriched by the experience but boy we need to start on a much easier basic level as this was our first and didn’t know what we were doing"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Daydream adventures",
+      "text": [
+        "I took 3 12yr old girls. They had a blast solving the Dreamland escape room. The personnel was highly engaging and enthusiastic explaining the story. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Enthusiastic About Including Blind and Partially Sighted Participants",
+      "text": [
+        "Staff were very accommodating for our group of children attending with blindness and partial sight. We were offered a tour before booking to see if the rooms could be made accessible. Mac and Ethan provided extensive information and were very helpful in providing copies of elements that needed to be made accessible. CNIB staff created tactile versions of pictorial elements and when possible items were brailed. There was plenty for the kids to experience even if we weren't super successful at solving the larger puzzle. Mac and Ethan were there on the day we booked and provided unlimited hints to the kids. Great team at Daydream Adventures. ",
+        "Handcrafted scenery by local artists in both rooms was super cool and highly impressive. We greatly appreciated the staff doing their best to accommodate our participants and look forward to returning in the future."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Business"
+    },
+    {
+      "title": "Loved it!",
+      "text": [
+        "Very beautiful room. The puzzles were interesting and outside the traditional approach to escape rooms (which basically involves opening locks with 3 to 5 digit codes.)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Lovely, beautifully designed room",
+      "text": [
+        "We went here for our daughter's 10th birthday party. The staff is super friendly and accomodated some last minute chaos (extra kids, late arrivals).  The room itself is very charming!  Both me and the girls found the combination locks a bit too small and finicky, and hard to use in the low light. But otherwise we had a lovely time!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Family"
+    },
+    {
+      "title": "Amazing escape rooms!",
+      "text": [
+        "Amazing atmosphere and everyone was very friendly! Escape rooms are very well designed and very creative, along with being very beautiful and immersive!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Beautiful magical room, good for kids down to age 9",
+      "text": [
+        "We booked Daydream Adventures for my daughter's 9th birthday for her and a few friends. The staff were great and helped them all feel comfortable, guided them through without TOO many hints ;) The story and set up for the \"Dream Portal\" experience wasn't too scary for them, at times thrilling but in a good way. The room itself (I got to peak in) was incredible - lighting, textures, details, felt like a complete world. The kids all had a blast and want to come back to try the second room! Thanks for a great birthday!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "Beautiful - some logistical issues!",
+      "text": [
+        "The art was beautiful, very creative and interactive space. Went with another couple, cute double date idea! ",
+        "We had a few issues that compromised our experience though… for example, the timer wasn’t working so we had no concept of time and it ended abruptly (no warning), the door locked on us at one point (not part of the game) and it caused us to lose a few minutes when we needed to access the original room, the speakers were bad quality so the sound was difficult (especially when needing to listen to the prompts clearly) and lastly, we were told we would have unlimited clues and when we finally decided to ask for one, no one answered for quite some time. ",
+        "Overall, we had a fun night, it was very well designed, but definitely some logistical/mechanical issues that shouldn’t have happened due to the cost. ",
+        "Would still recommend."
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2024 • Couples"
+    },
+    {
+      "title": "Wonderful but..",
+      "text": [
+        "We had a wonderful time! Loved the art, the puzzles, all of it! Our only problem was with the sound/speakers. At times it was really difficult hearing what the mission was. But a great experience nonetheless."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Friends"
+    },
+    {
+      "title": "Great family activity",
+      "text": [
+        "We did The Witch's Forest online experience as a family with our two kids (aged 7 and 10) and we all really enjoyed it. The organizers asked us about our group so they could tailor the experience to us which I really appreciated. We had a great time solving the puzzles together and will definitely recommend this to friends. We hope to visit in person as soon as it's safe to do so."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2021"
+    },
+    {
+      "title": "Perfect Virtual Experience",
+      "text": [
+        "We did the escape room with 8 adults and we had the best time! I was skeptical about a virtual escape experience, but Daydream Adventures perfected it. We hardly felt like we were not physically in the room. Hilda was hilarious and super engaging. The set was really creative and some of the puzzles were quite challenging (in a good way!). We had a blast and look so forward to doing it again! Thank you for a great night - see you soon (hopefully in person but if not, virtually)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020"
+    },
+    {
+      "title": "Fun Virtual Experience",
+      "text": [
+        "I organized a virtual escape room for some colleagues and we had a great time. The experience was very immersive and alot of fun. You can tell that the hosts have put alot of effort into this and love what they do! Would recommend as a team building opportunity - or a fun virtual activity with family and friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020 • Business"
+    },
+    {
+      "title": "Best Online Experience!",
+      "text": [
+        "Very creative and engaging! We had some people in our group who were skeptical at how a virtual escape room would stay fun but all of us were completely into the experience from beginning to end. We were a group of all adults, it's not just for kids. It's easy to see how fun it would be for kids as well. Daydream are doing something really special, you just have to experience it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2020"
+    },
+    {
+      "title": "We stan Hilda the Witch queen",
+      "text": [
+        "Our group has done close to 80 escape rooms, including 10 virtual escape rooms. This one was definitely one of the most interesting and fun ones that we've done! We loved Hilda the Witch so much. It was really fun interacting with her. The puzzles and storyline were very creative with a PHENOMENAL set! We wish we could've done it in person. Family-friendly - a great time for all ages and groups. 10/10, highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020"
+    },
+    {
+      "title": "Fun room",
+      "text": [
+        "Such a neat experience! It was so unique, with a really creative storyline and puzzles. 10/10 would recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020 • Couples"
+    },
+    {
+      "title": "Amazing Room!!  Great gameplay!",
+      "text": [
+        "My wife and I have done more than 400 escape rooms and more than 60 virtual escape rooms, and this was one of the best!!  Their virtual support was fantastic (we really liked the videos and inventory interface).  They had movie quality sets, and Hilda was fantastic!!  We only wish we could have done it in person!!  We strongly recommend playing this game (either virtually or in person)!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "The loveliest escape room",
+      "text": [
+        "The environment is really cute, the enigmas are different and we had a really good time. We needed a but of help and even that was given in a fun and thematic way. We will be back for more!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "An amazing virtual escape room!",
+      "text": [
+        "My friends and I had the best time helping Hilda reclaim her enchanted forest at Daydream Adventures Toronto! Hilda was fantastic and a great addition to the escape room! The set design was amazing and the puzzles really fit with the room! The story was immersive and enchanting and it’s definitely a fun room to check out! I recommend it! It’s a great virtual experience! Until we can play in room again (and it would have been a fantastic in room experience) I highly recommend you check it out!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2020 • Friends"
+    },
+    {
+      "title": "Great new virtual escape room",
+      "text": [
+        "Did their virtual escape room over zoom call. host was great - - really made the experience immersive. puzzles were adequately challenging."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2020 • Friends"
+    },
+    {
+      "title": "Amazing!",
+      "text": [
+        "Friendly and informative staff, beautiful room, great challenge, creative and inventive. Can't wait to go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Dreamy Experience For All Ages",
+      "text": [
+        "We did it! Such a creative escape adventure. The staff were so friendly and the room was beautiful. Great for all ages. A dreamy experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Inventive team-building adventure",
+      "text": [
+        "A creative and thoughtfully planned adventure that provided the right degree of challenge for our plucky team of five first-timers. We just made it out!! The 90 minutes flew by. I loved that we really needed to work together rather than competing against each other. Lots of fun! Even the bathrooms are a must-see."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Beautiful setting",
+      "text": [
+        "I’ve done a lot of escape rooms, and in terms of aesthetics this one is by far the most interesting and beautiful I’ve come across yet. It really is a piece of art. There were quite a few unique puzzles that were unlike anything I’d really seen before and they were an amazing thematic fit. The only downside I have to report is that the there were a couple of setup errors with the room during our play through that made things a bit frustrating at times but it was still super fun. Would recommend 🥰 Can be completed by groups as small as 2 people!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Couples"
+    },
+    {
+      "title": "bad experience",
+      "text": [
+        "rude employees …. ",
+        "My family and I came here to have a good time, but the behavior of the staff was very rude and unprofessional. The children with us were shocked and scared by the bad behavior of the staff, so we left immediately."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2022 • Family"
+    },
+    {
+      "title": "Guaranteed good pick",
+      "text": [
+        "I have done 10-15 escape rooms and this one was special. What I look for are non traditional puzzles (I.e. not just a bunch of locks to get combos to) and a story that makes sense (why would someone hide their password like this?). This escape room is solid on both of those - the puzzles are creative, the challenges make sense with the story. On top of that, the production (the set and props) are beautiful. It sounded cheesey when the site said it was a room you didn't want to escape from, but it actually was, we went back just to marvel as what they made. This escape room is a guaranteed good pick."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022 • Couples"
+    },
+    {
+      "title": "Lovely birthday event",
+      "text": [
+        "Perfect escape room, just the right difficulty level, and absolutely beautiful space. The staff was very friendly and helpful and they took all Covid protocols very seriously so we felt completely safe. A great birthday party for a small group of teens."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2021 • Friends"
+    },
+    {
+      "title": "Magical immersive experience",
+      "text": [
+        "We have done 30+ escape rooms and this one was like no other. It is immersive with unique methods of solving puzzles (not just codes and keys), with many magical surprises. It wasn’t the hardest room we’ve ever done, but it was really exciting and satisfying. It was a very cool experience that we would recommend to anyone who likes escape rooms!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021 • Couples"
+    },
+    {
+      "title": "Terrific!",
+      "text": [
+        "Such a fantastic escape room, we loved it! The puzzles were fun and creative and the art was beautiful!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Amazing Date Night",
+      "text": [
+        "My partner and I did \"The Witch's Forest\" online escape room for our anniversary and - WOW! I've done well over 50 escape rooms and games over the past few years and this was easily one of my favourite experiences to date. ",
+        "The Daydream team was lovely, our guide \"Hilda\" was hilarious, and so many unique and special touches were added to really help make our experience memorable. We could not stop talking about how much fun we had - we honestly didn't want it to end! ",
+        "If you're looking for an awesome escape experience or even just want something special to look forward to during the pandemic - this is your chance. Can't wait to visit Daydream in person hopefully soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2021"
+    },
+    {
+      "title": "Fun family experience",
+      "text": [
+        "Love it! we've been to a few escape room as a family, but this is by far one of the best. We did the Ice Cave and had a great time. We'll definitely go back to do the Dream Portal."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "Great and Fun adventure.",
+      "text": [
+        "This place is very beautiful and fun. We did dreams escape room and very interesting escape room. The whole place is very decorated."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "So Much Fun!",
+      "text": [
+        "So much fun! Amazing 3d art installation . We did the dream portal forestry one, will return to try the ice cave. Just the right challenge level for 11 to 13 year old kids"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Excellent!",
+      "text": [
+        "This is a great place for all ages. The art and creativity really stood out! Excellent staff.",
+        "I would definitely come back to try the other room."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "Best staff ever!",
+      "text": [
+        "It was our first time doing a scape room and we have so much fun, the folks at the front desk help us to solve the puzzles cause we have so much trouble with translation (we speak Spanish) so we’re thankful they were very, very nice. The story and the room was beautiful!! We did the Magic Forest one!! And everyone in our family enjoy it! Very interactive, I will come back to solve the ice one!! I hope they change the rooms in the future so I’ll go back again cause workers there are very friendly and thats something I always looking for specially at places like this! I totally recommended!! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "this place rules",
+      "text": [
+        "i don't usually leave reviews but this place rules. super friendly staff, it's obvious a lot of hard work was put into the crafting of the rooms. A very nice way to spend an hour in the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "12/10 would recommend",
+      "text": [
+        "We had so much fun! ",
+        "We were in TO for a business trip and had an extra day to spend in the city. It was raining and we found this perfect activity. Turns out it was one of the most immersive escape room I did. ",
+        "12/10 would recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "BEST OF MANY",
+      "text": [
+        "Family experience, kids 19, 16, 11. We've been to close to ten escape rooms and the kids unhesitatingly ranked this as their number ONE! Citing \"Because we won!\" \"It was so magical!\" and \"This was the most fun!\" I have to agree. We met 4 staff while there and all of them were super friendly, interested, and helpful.  Daydream Adventures went went all in to keep this experience themed, right down to the voice they use when responding to the call button (a fun little button in itself). They actually monitor and orchestrate (if needed) your whole experience  -  in a good and totally unobtrusive way - to help keep you happy, engaged, and feeling successful. Each puzzle and reveal was such a delight! Thank you DAYDREAM ADVENTURES!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Magical",
+      "text": [
+        "We went to both escape rooms and had a truly magical time. The artists’ work is so well done! What an amazing experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Family"
+    },
+    {
+      "title": "Excellent escape room!",
+      "text": [
+        "Visited the one hour long escape room today and had a fantastic time! The room had incredible, elaborate and unique props and design. I found it to be just the right mix of challenging and satisfying puzzles. I highly recommend it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Couples"
+    }
+  ]
+}

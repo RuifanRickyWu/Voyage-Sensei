@@ -1,0 +1,364 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Steam Whistle Brewery",
+    "url": "/Attraction_Review-g155019-d1456519-Reviews-Steam_Whistle_Brewery-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "255 Bremner Blvd Roundhouse Park",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 3M9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 3607
+    },
+    "openingHours": "Mo-Su 11:00-22:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/07/5b/71/photo6jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Breweries"
+  ],
+  "description": "Located within walking distance of the CN Tower and Rogers Center, Steam Whistle Brewing occupies Bays 1-14 within the old John Street Roundhouse building, a designated National Historic Site that was previously home to the Canadian Pacific Railway steam locomotive repair facility. Thousands of visitors visit this brewery every year to attend one of the on-site events or take a tour of how the company brews its own Pilsner.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Perfect balance between entertainment and information.",
+      "text": [
+        "Great tour! Perfect balance between entertainment and information.",
+        "Plus, you also get to enjoy a beer while you are on the tour.",
+        "Great value for money."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Solo"
+    },
+    {
+      "title": "Great time and worth it for sure!",
+      "text": [
+        "The tour was fantastic. I took a group of 8 people.  It was great to learn a little about the brewery and its history.  The information was interesting, and the tour was very entertaining along the way.  Time wise it was perfect at about 30-40 minutes.",
+        "Cheers"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Business"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "Did the guided tour and it was absolutely fantastic! Kenny our tour guide was whitty and informative at the same time. Thoroughly enjoyed it! It's only $15 and it comes with a free beer while on the 30 min tour. Would highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Great Stop for a Pint!!",
+      "text": [
+        "Steam Whistle has been around for years, but this was my first visit to the Brewery.  We just stopped in for a drink.  Very glad that we did!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Nice beer and lovely staff but really salty food",
+      "text": [
+        "Nice place, great  beer and lovely staff but the food was ridiculously over salted except the gherkins",
+        "The tofu tasted like it had been marinated in brine, the fries clearly designed to increase beer sales, would go back for another beer but not food. We did share the feedback and got an apology and a discount, maybey everyone else likes super salty?"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Our tour guide Kenny was the high light",
+      "text": [
+        "Our tour guide Kenny was hilarious and we had a fun and informative tour. The beer was delicious!  Highly recommended for everyone."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Worst meal in a long time",
+      "text": [
+        "Kids nuggets dry as a bone a d came out 10 minutes before the other food. The  2 more plates the 5 minutes later the rest of the food arrived.  One burger was ok other had so much grease it was uneatable.  Flank steak was chewy and flavorless.  Drinks were good though!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Short and sweet",
+      "text": [
+        "Kenny was well informed very fun and an excellent tour guide. The company should be glad he is with them.  I will recommend this tour to all my friends and family. And a bottle of the worlds best Pilsner."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Informative and fun",
+      "text": [
+        "Great fun tour. Cold bottle of beer as we started (which is a very good beer too!!). Our guide, Tanner, was just the right amount of information and amusement. At this price well worth it. The old buildings and surroundings are very interesting too. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Love this tour !!! Thanks Kenny",
+      "text": [
+        "This is my second time taking this tour , did it last year with a friend, this year with my son. ",
+        "Kenny is an amazing tour guide!!!! I loved the tour even more the second time!!! I always recommend this tour to my friends when they come to Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Fun time! Steam whistle tour was a great addition to our time here!",
+      "text": [
+        "Very interesting tour! Our guide Kenny provided a detailed history of both the company and the building, added a touch of humor, and he gets you invested in the story, plus you get a free beer as you walk on the tour! Highly recommend 👌"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Couples"
+    },
+    {
+      "title": "Best brewery tour I went on",
+      "text": [
+        "Kenny was the best tour guide I can imagine for this! He knows what it’s all about and has lots of secrets in store i guess you can’t discover by yourself. ",
+        "I learned a lot about brewing and the story of the brewery."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Couples"
+    },
+    {
+      "title": "Great food and drinks",
+      "text": [
+        "3 of us went for lunch Sunday. Great menu and a wonderful assortment of drinks. Nice seating area. Located in the middle of the Roundhouse between the arcade and taproom."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Friends"
+    },
+    {
+      "title": "Fun brewery tour",
+      "text": [
+        "The brewery tour was great fun. It was a little different to other brewery tours I've been on before, which only focused on the brewing part. This was a mix of how the beer is brewed, the history of the company, and the history of the building. All were equally interesting. We had a great guide who knew lots of fun facts. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Steam Whistle Brewery Tour Is a Must Do!",
+      "text": [
+        "My son and I booked a tour of the Steam Whistle brewery before heading to a Leafs game and it was a great decision!  Our guide, Kenny, was so personable and entertaining, and walked us through the history of the company and the brewing process for their great tasting beer.  You get a cold Steam Whistle beer for your tour, and I recommend coming a little earlier and having an 'unfiltered' pint to taste the difference.  The tour really gave us a better appreciation of this true Canadian brand, and I highly recommend stopping in to say hi, have a pint and take a tour of the brewery in their historic home."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Family"
+    },
+    {
+      "title": "Great service, good beer",
+      "text": [
+        "We arrived in the morning just after opening. We were warmly greeted by our waitress/server who promptly provided us with a menu, glass of water and lots of information about the beers on offer, she even gave us a taster of one we were interested in. It is in a great location near the CN tower and next to railway rolling stock to look at. The food menu was a little limited but the beer was good. Would recommend."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Whistle Stop Brewery Tour",
+      "text": [
+        "Happened to just stumble upon this tour. The tour was fantastic, Kenny is the best part of the tour. Very knowledgeable, very passionate about the company and the beer. I could’ve spent a couple of hours if they let us listening to what he knew. Would do the tour again in a heart beat, and yes, the free beer was a bonus too. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "Amazing brewery tour",
+      "text": [
+        "Was very surprised by the quality of the tour and how good our tour guide, Kenny, was. Kenny's presentation and passion for the tour made it in incredible experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Family"
+    },
+    {
+      "title": "Terrific Staff and History - Casual Dining Near the CN Tower",
+      "text": [
+        "A couple of hours after arriving in Toronto for the first time, we found Steam Whistle Brewing, steps away from the CN Tower and Ripley’s Aquarium.",
+        "We visited in November. The patio is a “don’t miss” for dining alfresco in warmer months.",
+        "Housed in Roundhouse Park, a well preserved locomotive roundhouse, be sure to make a stop if the kids, or adults, are train enthusiasts. I’m not and I still thought the area was very cool to visit and enjoyed seeing the vintage trains.",
+        "Steam Whistle Kitchen serves-up a seasonal menu, we enjoyed the Roundhouse Burger and Butternut Squash (pasta) partnered with multiple glasses of their award-winning Pilsner, all good.",
+        "Our highlight was the staff. Our server, Cory P., went out of his way to welcome us to the city and recommend Toronto highlights. (Much appreciated for we first-timers). Cory was a great server and went above-and-beyond as a Toronto ambassador."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Really enjoyed it",
+      "text": [
+        "Tour was great! 100% recommend doing one and then enjoying a pint of their unfiltered beer afterwards."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Highly Recommend Steam Whistle Brewery Tour",
+      "text": [
+        "My boyfriend and l went to Steam Whistle for a brewery tour. Kenny our tour guide was awesome. He was very knowledgeable but his great enthusiasm and humour made the tour so much fun! We received a frosty cold beer right at the beginning to drink while on the tour. ",
+        "It was really fascinating hearing the history of the brewery rightvin our province. We thoroughly enjoyed it and would highly recommend it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Great find! Gorgeous food, great staff!",
+      "text": [
+        "So happy we found this place. The staff were great, friendly and attentive, whilst the food was delicious! Best caesar salad I’ve ever had!",
+        "Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Fantastic location and good beer",
+      "text": [
+        "A fantastic venue and destination. The beer is good and the site is historic. It's worth a stroll in the park to see all the vintage trains in show."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Business"
+    },
+    {
+      "title": "Best Pilsner in Toronto!",
+      "text": [
+        "Because of the proximity to the CN Tower and Rogers Centre, this brewery makes for an ideal visit for tourists. Situated where the old railroads used to run through Toronto, this quirky brewery has pizzaz. Friendly, knowledgeable staff, good beer including their award winning Pilsner, and even a classy Char dish prepared! My only gripe with this place is they don't offer flights. Would have loved to have tried more beers. They were nice enough to let me sample, but it's not the same as a flight. Still a worthy choice and not to miss."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "Great fun, engaging and fact finding tour",
+      "text": [
+        "I am over from the UK and had done the Steam Whistle Tour before. However, Kenny was top level. Engaging, knowledgeable and made the whole tour really dynamic. We also got a bonus bottle of beer, with the tour, and got to sample some of the ingredients (one recommended, one less so!). I'm inbetween sightseeing stuff and, because of how good Kenny was, I've popped on to write a review. If you're in the area, and Kenny is hosting, do it. The Canadian Jack Black!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "Liked the beer and trains",
+      "text": [
+        "I only called in for a drink as walking past and thought i would try. The beer was good but the bar area was disappointing.I did like all the old trains outside of the brewery"
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "So worth it! If you love beer or even if you don’t!",
+      "text": [
+        "Absolutely one of the best tours!  Kenny is the absolute best and made it so entertaining!  Love the three stories and the way it was all presented, such a history and beer to boot!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "Great tour!",
+      "text": [
+        "The tour was fascinating and Kenny was a very enthusiastic and knowledgeable guide. We learnt about the brewing process, the history of the building, and of the 3 founders, while enjoying a bottle of their finest. Many great bottle facts included! Topped off with some time in the bar."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Friends"
+    },
+    {
+      "title": "Highly recommend.  Must do.",
+      "text": [
+        "We had a great time on the 30 minute tour of the brewery.  Kenny is absolutely the best storyteller and guide ever.  Incredibly passionate and knowledgeable of the history and story of the brewery.  He kept us entertained, laughing at the same time we were learning all about the brewery.  Great tour for families with adult kids.  So fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Home Grown Hero's",
+      "text": [
+        "Great tour to hear about the history of the building itself, the brewery and the original story on how Steam Whistle grew from a dream to reality. Extremely informative.",
+        "And the beer is very good."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "A long weekend break",
+      "text": [
+        "The whole experience was great - made by our tour guide Kenny !!!  He was very knowledgeable on the process and company and made it so enjoyable. ",
+        "And excellent way to spend an afternoon in the city. ",
+        "Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Best tour ever",
+      "text": [
+        "Amazing tour - perfect length, interesting facts, great storytelling, Kenny was annimated annd funny and we got to have a delicious beer during it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Fun Tour with included Beer!",
+      "text": [
+        "We took the tour and with an included beer it was well worth it. Our tour guide, Tanner, was fantastic and we had a great time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Cold beer, good times.",
+      "text": [
+        "Started out with a cold bottle of beer, what could be better than that? Nice 30ish minute tour of the Brewery with explanation of how the beer is made and the story of how the Brewery came to be. I'm just unhappy that Tanner won't take me as his plus one to Octoberfest next year."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Don’t miss the tour!",
+      "text": [
+        "Loved the tour!  Amazing tour guide, very funny and engaging!!  Knowledgeable about the process of brewing beer, gave great information about the history of the location and the three guys who started the brewery. The tour started with opening a beer for everyone!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Fantastic",
+      "text": [
+        "The tour was very fun! Our tour guide was Kenny who was very enthusiastic and funny! Not the longest brewery tour we have been on (30 minutes) but they have managed to fit a lot into that time and also made it memorable! Would highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Good place!",
+      "text": [
+        "Good food, good beer in a wide selection. Good service and an appropriate environment for a brewpub type of place. Nice!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "Great Beer",
+      "text": [
+        "Great vibes and great beer. The staff were wonderful and very accommodating on a game day. Was nice to grab a beer on the way to the game."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Great beer and even better food",
+      "text": [
+        "Visited the restaurant for dinner and it exceeded our expectations. Conveniently located near the CN tower and arena and the brewery itself is amongst old rail cars that add to the experience. The food and beer were great. Highly recommend the chicken wings and the Pilsner."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Friends"
+    },
+    {
+      "title": "Great beer and great food at the Steam Whistle Brewery in Toronto.",
+      "text": [
+        "This restaurant was highly recommended and it did not disappoint. The food was excellent.  The house salad dressing was very delicious . The service was very pleasant and attentive.  There house beer is a Pilsner, and complemented the meal perfectly.  I have been here twice and will continue to return anytime I’m in Toronto. Located around many local attractions, including the Rodger’s Center, the restaurant can be very busy during game days, lunch, and dinner."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Solo"
+    }
+  ]
+}

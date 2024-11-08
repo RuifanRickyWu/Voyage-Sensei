@@ -1,0 +1,363 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Culinary Adventure Co.",
+    "url": "/Attraction_Review-g155019-d2062889-Reviews-Culinary_Adventure_Co-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5B 2A5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 1538
+    },
+    "openingHours": "Mo-Su 00:00-23:59",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ba/b8/02/cameras-eat-first-snap.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Private Tours",
+    "Food Tours",
+    "Wine Tours & Tastings "
+  ],
+  "description": "Toronto's premier Food Tour company since 2011. What makes Culinary Adventure Co. Food Tours + Adventures so delicious? It’s our passion for local food + drink, and our unwavering belief that “things taste better when you know where they come from.” This fierce commitment to our local partners, their stories, and their food - makes our job simple ... bring you to the best eats, sips and bites of the city. Join us on an adventure, and taste what all the buzz is about.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "A delicious and fascinating time",
+      "text": [
+        "An amazing experience. A 2+ hour tour through an historic site in downtown Toronto with excellent food and fascinating discussion. Our tour guide, CJ, was funny, informative and a wonderful resource for this."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "A great experience!",
+      "text": [
+        "My husband and I thoroughly enjoyed our food tour through St. Lawrence market! Having lived in Toronto for many years and having visited the market in the past, this experience was like seeing it for the first time. From our wonderfully warm and informative host; to meeting some of the vendors; to sampling many amazing products, it was a great adventure! And we came away with some mouthwatering items! 😊"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "St Lawrence Market ",
+      "text": [
+        "St Lawrence Market food tour.",
+        "We have visited the Market a few times on the weekend. This visit was during the week and a guided tour.",
+        "Our guide met us  before the market opened. ",
+        "It was an excellent visit with some history and meeting vendors as well as sampling a variety of products from the market. ",
+        "I would highly recommend not eating before the tour as there are samples of products as well as a few purchases.",
+        "It was a  highly enjoyable tour. We will be back to the St Lawrence Market soon. A hidden gem in our city!",
+        "Many thanks to our guide, for making this tour a very enjoyable fall morning. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Great Foodie tour in Toronto",
+      "text": [
+        "CJ was a wonderful guide- warm, welcoming and very knowledgeable about the St Lawrence Market foods we were tasting. She really brought the tour alive"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "A Tour to Remember",
+      "text": [
+        "What a great tour with CJ. ",
+        "She was super attentive and informative. We would highly recommend this tour of the St Lawrence market. We were so fortunate to have a private tour with my husband and adult son. The foods chosen to try were delicious. You will not be hungry when you are finished"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Fantastic Kensington Mkt & Chinatown food tour!",
+      "text": [
+        "Fantastic first experience of a Food Tour, Kaitlin was super knowledgable and gave us insights into a vast amount of food culture and also regards the surrounding neighbourhoods! Really was great! The time went too quick but our bellies were full, we will absolutely be back for another experience in Toronto soon! And this would be a great experience for visitors too! Loved it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Perfect way to see St. Lawrence Market",
+      "text": [
+        "We had an amazing time on the Made in Canada tour!  We tried several foods we would not have chosen ourselves, every stop had an interesting backstory and we felt like we were supporting the local vendors, and our guide gave us great information about the history of Toronto.  Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Discover the world of food in Gerrard East.",
+      "text": [
+        "A great way to learn about an area of the city of Toronto you might otherwise miss.  And a good introduction to many artisan food shops. ",
+        "We tasted cheese, meat pastry, Canadian sweets, tacos, Indian food, and finished with ice cream/ sorbet!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "CJ was great!",
+      "text": [
+        "CJ was a cheerful, informative & super organised guide! A great way to experience the St Lawrence market for us first timers."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Visit of St. Lawrence Food Market",
+      "text": [
+        "We visited the St Lawrence Food market and Morgan was our guide.",
+        "Very friendly, competent and pleasant. She did a terrific job and made this visit a very memorable one. We enjoyed every one of the various food tastings along our food discovery tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Fun afternoon activity!",
+      "text": [
+        "My son and I did the Kensington & Chinatown tour with Taylor. We lucked out and had a small group that day. Food was delicious and we picked up great bits of local  history. Would recommend for sure. Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Amazing brunch food tour!",
+      "text": [
+        "Culinary Adventure Company has added another Toronto food tour, this time, brunch in the Entertainment District! Wasn't sure what to expect but they found 4 amazing places to share petit dejeuner (Vargas), a brunch to die for (Pigeon Cafe), amazing middle eastern small plates (in the Well), and Forno Cultura for a desert cookie. Caitlin was an amazing guide. We'd highly recommend this for 3 - 3.5 hours mid-day on a weekend. Amazing food and celebration!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Yum!",
+      "text": [
+        "We tried so many different and delicious things! - a great way to sample the city's cuisine. Big thanks to Morgan, our excellent guide."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Food heaven!",
+      "text": [
+        "This tour was outstanding!  Every sample was delicious.  CJ was an absolute gem and her enthusiasm for Toronto was contagious.  She made the tour very accessible and fun for everyone including our tweens.  We can’t wait to visit again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Kensington and China Town tour",
+      "text": [
+        "What a fab day! We arrived hungry and left absolutely stuffed. The food was exceptional, from delicious dim-sum to the best cookie I’ve ever had. Kaitlin was a total star! She was knew so much about the communities and cultures, it  was a wonderful insight into the city. Would definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "The most brunch you’ll ever have!",
+      "text": [
+        "Yet another great tour with the team at Culinary Adventures. Highly recommend to people that are local or visiting this city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "St Lawrence Market Tour",
+      "text": [
+        "The St Lawrence Market Tour, lead by Taylor with Culinary Adventures, was very informative. The food tastings were presented well and inviting. We enjoyed this tour and would recommend to everyone. Thanks to Taylor!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Amazing food and history!",
+      "text": [
+        "This was our second tour with Culinary Adventure co and they do not disappoint! Our first tour was the Kensington Market/China Town tour and we went on the St Lawerence Market tour this past Sunday and loved it. The history is our favourite part along with the delicious food. We had the pleasure of Taylor leading both tours and she is amazing! Very engaging and personable!  We will be doing the Roncy tour next."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Tasty Tour with Taylor",
+      "text": [
+        "Tasty tour with Taylor :).  This tour was a unique gift and we were accompanied by family for the tour. I learned some interesting facts about the market from Taylor. We had sweet treats, fruit bites, smoked salmon samples, cheese nibbles, and peameal  bacon on a bun. Yummy 😋 Well done! What a great gift."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Don’t miss this ST Lawrence Market Food Tour",
+      "text": [
+        "Very interesting and filling food tour. Learned a lot about St Lawrence Market. Taylor was super friendly and knowledgeable. Will definitely be doing another tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Penny’s party",
+      "text": [
+        "CJ was a great guide with a bubbly personality. She is fun and full of information about food and the city. The food was excellent!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Book it now!",
+      "text": [
+        "Awesome food tour! Morgan (pray tell that I remembered your name correctly), was very sweet, personable and informative. She put up with my outspoken ways and shennanagins. There were just three of us with Morgan, and she made it an amazing experience.",
+        "The food action was delightful, we enjoyed all of it. It was a lot of tastings, great bang for your buck. We were waddling around about halfway through! You ro",
+        "No negatives here at all, and I would highly recommend this food tour. I would and will do it again.",
+        "Thank you Morgan! You rock girl!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "So glad for these tours",
+      "text": [
+        "When visiting Toronto, my husband and I toured St Lawrence Market first and Kensington Market the next day. Had we visited the two places without a guide, we would have been overwhelmed by the choices. Also, it was good to learn the history of the markets, including their distrinct differences. Be advised that these tours include not only samples, but also full servings. Even arriving hungry, we had a hard time finishing all of the food, especially at Kensington, so bring a tote for the extras!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Fabulous Food Tour- Chinatown/Kensington Market",
+      "text": [
+        "My 13 year old son and I were visiting Toronto and decided to check out a food tour. This was our first time with Culinary Adventure Co and they did not disappoint! Morgan was our guide for the Chinatown/Kensington Market tour. She was delightful, very knowledgeable about the history of these neighborhoods and the specific foodie spots we visited. Go with an empty belly, we were stuffed by the end! We will definitely be trying another tour with these guys when we’re back in TO, and I’ve already recommended to numerous friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Great present",
+      "text": [
+        "It was a great experience.  The food was well chosen and our guides were very knowledgeable and fun.  ",
+        "I wouldn't hesitate to do another tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Awesome experience of st Lawrence market",
+      "text": [
+        "It was an awesome way to see st Lawrence market.  The food was delicious.  Tour guide was informative and entertaining.  Would definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "My new recommendation to anyone who goes to Toronto",
+      "text": [
+        "Kevin was so much fun! So knowledgeable and felt very personable. For my first time doing the St. Lawrence Market it was nice to have someone who knew what the hidden gems were with a place so large and overwhelming. I definitely left feeling full! Would definitely do a food tour again next time I'm in town!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Highly recommended 5-star culinary tour of TO's Chinatown and Kennsington Market.",
+      "text": [
+        "CJ is an extraordinary tour guide: gregarious, fun loving, high-energy and extremely informative and knowledgeable. I thoroughly enjoyed her superb choice of food and beverages on the culinary tour of Chinatown and historic Kennsington market in downtown Toronto that she led. It was a pleasure to participate  and I especially  appreciated the insights she shared about the cultural and historical background of the area, restaurants and food stalls that we visited. Do not miss this opportunity."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Solo"
+    },
+    {
+      "title": "Highly Recommend!",
+      "text": [
+        "I organized the Chinatown/Kensington food tour for a work team building activity and we loved it! We were left very full and enjoyed every stop on the tour. Taylor was our guide and she was great- super knowledgeable about the city and restaurants we stopped at! I think all of us left with a new spot in the city that we will be going back to! Thank you Taylor!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Business"
+    },
+    {
+      "title": "Took a tour of little India",
+      "text": [
+        "Absolutely amazing guide, will definitely be suggesting and returning!  Was surprised by the diversity of food in the area!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Delicious food and fun on Gerrard Street East and Little India!",
+      "text": [
+        "My husband and I have done walking food tours in France, Croatia, New York City, Little Havana (Miami) and Chicago. Our food tour of Gerrard Street East and Little India was the very best food tour we have ever been on. Morgan,our delightful host and guide was a delight. She was so enthusiastic and passionate about the area, the shopkeepers and the small restaurant owners. She shared their fascinating stories  with our small group and it made the tour more meaningful. Caitlin, the operations manager  for Culinary Adventures Company was there as well to lend support for Morgan who was in training ( not that you could tell)! Caitlin also contributed some amazing stories and tips. Who knew that you are supposed to place cheese on your tongue and let it warm up to truly appreciate all the flavours?  We live in Mississauga Ontario and believe me we will be back to this amazing culinary gem of an area. Thank you Morgan and Caitlin for a fantastic experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Amazing Brunch Tour!",
+      "text": [
+        "My friend and I were absolutely thrilled with our experience at the King West + Entertainment District Brunch Tour! Our tour guides Morgan and Caitlin were fantastic and friendly. We are by no means new to the City, but Morgan and Caitlin took us to great spots we'd never been and shared new info and stories about the area. It was so fun to feel like a tourist in our own city. We got to enjoy very generous portions of food at each place, so come hungry! Definitely would recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "Amazing Food Tour Experience",
+      "text": [
+        "CJ was the BEST guide! I've done food tours in many cities, and CJ taught us so much about Toronto's food scene and culture. We had an amazing experience, and would recommend this tour to anyone."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Lots of fantastic food w a lovely guide",
+      "text": [
+        "So much fun and so much delish food! Prompt and well managed tour. Ceejay was a delightful guide. We would highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Don’t Think  - Sign up for this tour!",
+      "text": [
+        "Awesome, Awesome, Awesome! CJ was great and we enjoyed our tour immensely. All stops on the tour were excellent. We even went back the next day to the restaurants for more!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Excellent tour and guide!",
+      "text": [
+        "What a great experience! Our excellent guide Taylor provided a great tour, not only talking about the food and vendors but also the history of the venue, done with professionalism and humor."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Taylor's Terrific Tour! ",
+      "text": [
+        "Taylor took us around Little India and had us full of delicious food by the end of it. Great tour, lots of new knowledge of places we've never heard of but will visit again "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "worth it!!",
+      "text": [
+        "CJ was a great guide for the Kensington/Chinatown tour. My friend and I were in Toronto for the first time and it was a great way to learn about the city. We were so full by the end so the tour was totally worth it. CJ had great history and stories about the city and made sure we were all taken care of throughout. When I go back to Toronto, I would definitely do another tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "We had a great time and CJ was an amazing guide. The food was filling and tasty. I recommend this experience and would definitely take another food tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "So many tasty goodies -- come hungry!",
+      "text": [
+        "What a lovely (and filling!) experience!  Morgan was a terrific guide/host, showing us through the St. Lawrence Market and surrounding area.  She had a terrific rapport with so many of the SLM vendors who were delighted to work with Culinary Adventures."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "CF Sherway Gardens",
+    "url": "/Attraction_Review-g155019-d657198-Reviews-CF_Sherway_Gardens-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "25 The West Mall",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M9C 1B8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 160
+    },
+    "openingHours": [
+      "Mo-Sa 10:00-21:00",
+      "Su 10:00-18:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/fa/b7/86/sherway-gardens.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Shopping Malls"
+  ],
+  "description": "Sherway Gardens is the premium shopping destination in west Toronto. Only 20 minutes from downtown and the airport, Sherway is located at the intersection of Hwy 427 and QEW. Sherway is anchored by two upscale fashion department stores - Holt Renfrew and Sporting Life. There is also a BAY and Sears, and over 200 great stores. Feature stores include A&F, abercrombie, APPLE, Michael Kors, Honey, Banana Republic, Mendocino, William Sonoma, Pottery Barn + PB Kids, Harry Rosen and so many more great stores. The Gourmet Food Fair offers a great selection of food, or visit Pickle Barrel Grand or Parisco Cafe for a shopping break. Victoria's Secrets, PINK, Juicy Couture and Stuart Weitzman opening Spring/Summer 2011.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great for shopping and dining",
+      "text": [
+        "Many very nice stores and eateries located here. I like the over mall quality, the mix of vendors, layout, signage to assist with getting around and finding a particular location, cleanliness, and parking availability, both indoor and outdoor."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Solo"
+    },
+    {
+      "title": "Great shopping Center to visit",
+      "text": [
+        "Extremely clean mall",
+        "Beautiful Mall",
+        "Felt safe ",
+        "Great selection of stores",
+        "Easy parking   Monitored",
+        "Not too crowded ",
+        "Except apple.  Ha ! ",
+        "Clean washrooms"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    },
+    {
+      "title": "Toronto/Yorkdale vs Sherway",
+      "text": [
+        "Sherway Garden is an underrated mall. It might be smaller than Square One, but it’s not as noisy or chaotic. Yorkdale is more accessible by transit, but Sherway Garden has a lot going for it inside. The restaurants and food court may be one factor, below, which makes it a better meeting place than Shops at Don Mills, Eaton’s Centre, Hillcrest, or Fairview. I like the cleanliness of Sherway Garden, which seems to attract more seniors (not as many as Bayview Village), compared to Yorkdale. It has a Sephora (& Mac) like Fairview and a wide range of mid- to high-priced stores like Yorkdale (H&M, Harry Rosen, Tory Burch/Kate Spade, namebrand accessories); British folks would like this mall. It didn’t have as much in terms of interior decor and mom appeal…but it’s much better and bigger than Centerpoint or Shoppes on Steeles for meeting friends. I prefer parking at P3 outside HBC where it’s calmer beside the Bay entrance. There’s also parking in front of Joey’s, freshii, Cactus Club, and Keg’s. Although Yorkdale food court has a mostly unused patio, I like how airy Sherway feels; its upper food court that was added with skylight wraps around Sporting Life/Gap to the new Indigo location, which has an excellent kids’ books section. (It makes up for the lack of a theatre.) I didn’t see as much bubble tea offered; but there’s Cookies and Amaya facing Chipotle or Bourbon Grill, near the escalators to the sushi bar. Stores are being introduced downstairs by Crepe de licious, which is another healthy alternative, unless you need gluten-free options like Thai and Jimmy the Greek’s. The one down side of Sherway is its figure 8 layout, which can be difficult for people who tend to get lost. If you need a pay-stroller, park in the South-side (rear) by the Shoppers Drug Mart and ask at the Customer Service Desk for directions. Dads might be obliging to offer teens a ride, so they can head across N. Queensway to check out Home Depot. There’s something for the whole family around Queensway or the QEW if you’re patient enough to walk & look. Sherway is conveniently situated between Mississauga and Etobicoke (Kipling-Dundas miway in Toronto). I would recommend Sherway Garden as a place to enjoy on a rainy day, but don’t expect a simple map /layout on your first visit. Meet friends and have fun shopping without the stress!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Family"
+    },
+    {
+      "title": "love it",
+      "text": [
+        "one of the big malls in Toronto ,Ontario . I love to do my shopping there because of all the nice places there with many restaurants so you can rest and eat ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Spacious and bright mall",
+      "text": [
+        "Spacious and well-ventilated.Pleasant place to stroll around.Not crowded .The stores are all very goodLocation of mall is a little out of the way."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Large Toronto Mall",
+      "text": [
+        "Lots of stores but now so \"high end\" that other than the usual mall stores it's just expensive stores that can afford to be in this mall.  The old food court used to have better options - now less so.  Lots of parking.  Easy to get to with a car at 427 and Queensway."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2022"
+    },
+    {
+      "title": "Huge mall",
+      "text": [
+        "The mall is so huge. Lots of shops. Lack of good food and restaurant. Few coffee  shops with snacks. They had done very good decorations. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2021 • Family"
+    },
+    {
+      "title": "Very Large Mall Indeed",
+      "text": [
+        "Lots of stores to choose from. The mall is well maintained and plenty of parking(mostly in parking garages). Not a very great food court for a mall this size however."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Shopping with friend",
+      "text": [
+        "Its like yorkdale except that there's no movies here just cell phone stands, food court, lots of good smoothie places. Its also not hard to get to by kipling station or driving. This mall is definitely worth checking out if you have not came yet"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2021 • Friends"
+    },
+    {
+      "title": "Dogs not allowed now?",
+      "text": [
+        "I have been going to sherway since I was a little kid. ",
+        "I have been bringing my dog to sherway for six years. He is a small Yorkie poo. ",
+        "Today, I was very rudely turned away by guest services who decided only now after six years to tell me dogs have never been allowed at sherway. ",
+        "Disappointed, will take my buisness elsewhere."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2020 • Family"
+    },
+    {
+      "title": "Nice mall",
+      "text": [
+        "I came here on a weekday. It is a nice mall with some high-end shopping. There is a large open space which made it seem like you were walking along Chicago's Magnificent Mile with the large storefronts! There's also a nice food hall (Saks Food Hall by Pusateri's, located near Saks Fifth Avenue) with some food samples.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Good mall for a quick shop",
+      "text": [
+        "I live close by so this is a great mall for a quick shop. Parking is readily accessible and they have parking spots for quick stops (15 minutes) so you can run in and grab your thing (coffee, online delivery to the store etc) without driving around to find parking."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Upscale mall",
+      "text": [
+        "Nice and large indoor mall. Not a regular but rather an upscale mall with high end shops. Also a very good food court."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018"
+    },
+    {
+      "title": "No service!",
+      "text": [
+        "Waited at the bar for a seat on the patio when there were several tables (only one table occupied).  The original hostess sat us there and left although she said she would come back and never did.  We asked the bartender who then told us we could go out in the patio. Got seated on the patio and 10 minutes later no one had come to see us.  My sister went in to the restaurant to find someone and was told they would look for a server??  Waited another 5 minutes and still no one showed up so we got up and left.  It was my sisters birthday and I was extremely disappointed in the whole thing."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Beat the heat!",
+      "text": [
+        "Enough of this heat wave, off to a cool spot where one can get in some serious walking while “window” or real shopping. This shopping centre has had an upgrade and has so much to offer. The full range of price points and plenty of sales. Lots of natural light still floods it’s many wide corridors. Covered parking garage helped keep the car cooler. Many restaurants from which to choose and a very clean and bright food court with lots of choices. I might find it helpful to have a compass as I try to navigate it’s layout, but going in circles led to some neat discoveries. Lots of areas to sit, rest re charge your phone ( or yourself). A good spot to meet your shopping needs and lunch."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Shopping @ Sherway Gardens",
+      "text": [
+        "Sherway Gardens is almost finished with renovations. While it's a nice mall, they have put too many expensive shops geared to a much younger crowd. Norstrom and Saks Fifth, while nice, is so overly priced. The Bay has no staff most of the time. I only come here if I must, as there's no place to sit at Sherway and the Food Court is off to one side with a confusing path. Outside parking is congested and confusing, in particular with the stop signs. Twice, people almost got into a car accident due to the confusing stop signs at each of the entrances to the mall."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Hometown Shopping Mall",
+      "text": [
+        "I lived around the corner from Sherway since I was 12 -- That was a long time ago ! Although I have moved away it is still a pleasure to go back to my old stomping grounds and enjoy it just as much.  ",
+        "The mall  has always been great, from the department stores back in the day and gourmet fair to the now upscale shops and eateries.   How it has expanded is quite something, yet all in the same space.  You will surely find whatever you may be looking for.   ",
+        "It's a great way to spend a Saturday or any day for that matter.  Enjoy!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Couples"
+    },
+    {
+      "title": "Good in the seventies but truly an amazing upscale experience now",
+      "text": [
+        "I think we first walked around Sherway gardens in the early to mid 1970s and compared with other malls at the time it quickly became a favourite. The last few years of expansion and the attraction of retailers we may never enter has brought about a delightful but also a little intimidating change. Gucci and Montblanc are certainly not within our budget but it is pleasant to window-shop.",
+        "The Food Court offers lots of choice and a degree of comfort but I personally miss sitting under what was essentially a 'white tent' in the original Food Court area. These days we usually grab a coffee of light lunch at Brioche Doree or at one of the other smaller places rather then venture up to the busy Food Court area itself.",
+        "Visiting the west end of Toronto? Then I think you will not be disappointed by spending a few hours at this fresh and good looking mall."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Nice and relaxing mall",
+      "text": [
+        "The mall is big and relaxing. You can find major brand in the mall. The mall with a lot of entrance  and it will be good to remember the entrance in order for you to get to car park."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Nice single level mall",
+      "text": [
+        "Great mall for people with small children in strollers or wheelchairs. 90% of the stores are on a single level. Newly renovated. Ample selection."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "The best shopping mall in Etobicoke",
+      "text": [
+        "This is one of the best shopping malls in Toronto. After recent renovations it has become even more attractive and interesting.",
+        "There is everything for everybody. New stores from England and U.K. bring the newest in fashion.",
+        "Tasty restaurants, coffee shops bring a lot of people to this place.",
+        "I highly recommend to come to Sherway Gardens. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "2nd best shopping mall in Toronto",
+      "text": [
+        "Sherway has Added quite a few  new brand retailers and restaurants! Great to shop at Nordstrom, Saks, Pussaterie, would be great to have Uniglo, Muji, Holts too!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019"
+    },
+    {
+      "title": "Larger and more variety than the town I live in",
+      "text": [
+        "This is a big mall, at least for someone who's been living in B.C. for the last 20 years.  Once I found how to get in (the exterior is not the most eye-pleasing, at least from the direction I entered) I was surprised at how I could walk and walk and even get lost with great ease.  The variety of stores is remarkable.",
+        "The food court is not as big as I would have expected for a mall this size.  Perhaps there is more than one?  There are major restaurants outside the building also."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "Best shopping mall 🛍 ",
+      "text": [
+        "CF Sherway Gardens is one of the best shopping destinations. Varieties of store, having their own style of collection. Nice and clean mall. Easy to access through HW and lots of parking spaces."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Interesting experience ",
+      "text": [
+        "We ordered a vegan fajita, pasta and french fries, and sweet potatoes fries. Our table burst into wows as soon as the order arrived. We were surprised by the unique and unexpected hair topping on the fries. We wondered if its a new trend. In the end the waiter graciously agreed to change it and we were grateful. He promptly brought us the same fries container with a couple of fries added to it. How nice of him!",
+        "The vegan fajita protein part was a delicious combination of sweet potatoes, rice and fried onion. Everything looked so appetizing and shiny from the generous helping of cheap grease. We also felt like royalty seeing the very generous helping of one table spoon of guacamole.  We enjoyed not only the meal but also the heart burn after and the greasy aftertaste.",
+        "We definitely recommend this place."
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2019 • Family"
+    },
+    {
+      "title": "Felt like a good steak and felt that you couldn't go wrong at a steak house",
+      "text": [
+        "Had the Teriyaki Sirloin steak - medium rare -with baked potato (twice baked) and beans for my vegies...and a couple of glasses of wine...absolutely delicious - ...F.Y.I. ..I told my waiter that I wanted to use a gift  card and since the value of the card was more than my bill I asked if I could use the card and could it include the bill and the tip.  This was totally acceptable by the Keg.  This was a nice surprise since I had been to other restaurants where they would accept the gift card only for the meal - and you would pay for the wine and the tip for the waiter separately....Kudos to the Keg...will be back..p.s. my waiter was Fabricio who was excellent."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Solo"
+    },
+    {
+      "title": "Keeping the kids busy",
+      "text": [
+        "Bought at Sephora and shoppers and Lego store, had lunch at pickle barrel... Good shopping day, and kids were happy"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Family"
+    },
+    {
+      "title": "A luxurious shopping mall",
+      "text": [
+        "All of famous and expensive brands are placed in this big shopping mall. The LEGO shop here was very good. At the upper level there is a big food court and it was fantastic. No cheap stuff can be found here. So, if you do not have anything planned to buy, you cannot hunt any bargain here.My overall score is 90 out of 100."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Cactus Club Cafe...Sherway Gardens",
+      "text": [
+        "I/2 off all wine bottles Tuesdays and Wednedays",
+        "SUN-FRI Happy Hour Specials 3-6pm",
+        "SUN-THUR Happy Hour Specials 9:00pm to close.",
+        "Bellwoods Jutsu $5/14 oz.",
+        "Longboard Lager $3.5/14 oz.",
+        "$13 Cheddar Burger",
+        "$13 Cajun Chicken Sandwich ",
+        "Good food, service, and atmosphere. Coming during Happy Hour was better than I expected. We will return."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "A maze",
+      "text": [
+        "Very hard to find your way around for parking and shopping.",
+        "Most shops are upscale. Large unused open space."
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "Better than ever?",
+      "text": [
+        "This mall used to be really good with lots of shops, but now its really nice.  Its quite upscale now, so many of the smaller shops that were unique to Sherway are gone.  replaced with trendy shops that everyone browses but no one can afford to buy any of the items.  The mall looks great though.  Very nice finishes and new parking and restaurants are a big plus.  Miss the old food court though."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "It' s a nice place to spend a Friday evening after a week of work",
+      "text": [
+        "It's a nice welcoming place for any occasion. ",
+        "Service is very fast and good. People are professional and warm.",
+        "The atmosphere is relaxing and friendly.",
+        "Their food is delicious and nicely served. ",
+        "Lots of parking space and many stores to visit before or after a dinner."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "One of the best shopping Centre in the Toronto area",
+      "text": [
+        "In the newly renovated section, it is bright and airy. Very pleasant way to spend a day indoor when temperature is terrible outside. Yres, they also have indoor/covered free parking"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "My go to mall for shopping and browsing!",
+      "text": [
+        "Sherway Gardens is my go to mall for shopping!  I have never had a hard time finding a parking spot.  I like that there are covered parking areas too.  They have a great selection of stores and the food court has good options.  I often go with my one of my GFs to walk around as well.  I also frequent the mall with my parents.  We love to eat at The Keg at Sherway.  The service is amazing!  I also enjoy going to Joey's.  ",
+        "The only issue is with the bathrooms.  I think they need to be cleaned a little more frequently."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Great Visit!",
+      "text": [
+        "We easily found parking on our visit, the mall was clean and not too busy. My only complaint about the facilities themselves is that the washroom (near pottery barn) was not very clean and needed attention. Way easier to deal with than Yorkdale and great shopping!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Restaurant - Joey Sherway",
+      "text": [
+        "We had a very enjoyable time with family at a restaurant called JOEY SHERWAY. Good food, fair pricing, terrific table. Party of 8 and we stayed 3 hrs. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "A good mall",
+      "text": [
+        "Perhaps the nicest mall in Toronto.  A good variety of stores, excellent food court, and a pleasure to walk about.  One level is also a pleasant change.  Lots of parking.  Just one word of caution, this mall serves an affluent community.  It is a rich man's mall."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019 • Family"
+    },
+    {
+      "title": "It was surprisingly delicious pizza",
+      "text": [
+        "Must try the amazing pizza, so delicious was great meal, service was fast and every bite was mouth watering."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Great ",
+      "text": [
+        "This is a fantastic mall to visit. Lots of stores, very clean and several food options. Definitely recommend:)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Best mall in the GTA",
+      "text": [
+        "We don't live close to Sherway Gardens, but make sure we visit whenever in the vicinity.  I had part time jobs at Sherway during the 1980s and 1990s and thought it was a fantastic mall at the time.  Now it is even better.  The selection of higher end stores is as good as or better than Yorkdale, and Sherway is just a better place to shop."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    }
+  ]
+}

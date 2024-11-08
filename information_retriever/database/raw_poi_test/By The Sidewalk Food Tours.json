@@ -1,0 +1,212 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "By The Sidewalk Food Tours",
+    "url": "/Attraction_Review-g155019-d14195112-Reviews-By_The_Sidewalk_Food_Tours-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kensington Market 202 Augusta Ave",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5T 2L7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 20
+    },
+    "openingHours": [
+      "Mo-Sa 11:00-21:30",
+      "Su 09:00-17:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/bf/8c/dd/gazing-at-the-cn-tower.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Walking Tours",
+    "Sightseeing Tours",
+    "Private Tours",
+    "Food Tours"
+  ],
+  "description": "Guided walking food tours to experience the best of Toronto local gastronomy; taste delicious cuisines, drink libations and uncover the unique history and culture. Let your epicurean adventure begin! Whether you are a local or visiting Toronto for the first time we ensure you will walk away with new culinary perspectives, broad smiles, satisfied taste buds, full tummies and the confidence to continue exploring the neighborhood by the sidewalk! Attributes that set us apart: - There's a surprise in store for everyone. - We take pride and cherish creating moments of unexpected discovery. - We offer tastings within 2 minutes of entering a place, so say goodbye to waiting times. - Small groups ensure personalized attention. - We strive to make sure it's the most delicious stroll you have ever taken. - All you need is the wish to discover, leave the planning to us Visit our website to start the delicious culinary adventure!!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "A Very Good Food Tour of Kensington Market",
+      "text": [
+        "I booked a private tour with Sidewalk Tours for some friends visiting from the US. It was a wonderful experience. Catherine, our guide, was knowledgeable and interesting. I expected the good food but did not anticipate learning so much about the history of Kensington and the street art in the area. The only suggestion I would make is that we  did not enjoy the Vegan Cinnamon bun at the end of the tour. With so many wonderful dessert places, we felt there were better options. Otherwise, this reasonably priced tour met all of our expectations. Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Great afternoon in the City",
+      "text": [
+        "Our family of four went on the tour, this past Saturday.  The guide, Catherine, gave us a lot of tidbits of information,  As it was a busy and noisy Saturday, she would usually try to pull us into an alleyway where it was a lot quieter, so she could tell us about/show us a mural or give us some other bits of info.  We started off the food part of the tour at Global Cheese, with some delicious cheese bites.  We had a lot of munchies, but our all time favourite food was the Jerk Chicken Dumpling at Rasta Pasta and the delicious brownie that we had at Blackbird Bakery.  We tried Bunners (vegan & glueten free) - their cinnamon bun was not something I would want again, but my son had an Oreo muffin there, which he thought was really good.  We also had some dumplings at a Tibetan Restaurant which were good and an interesting  sandwich at a South American Restaurant.  The guide was interesting and kind enough to wait as some of us were a bit late - stuck in Toronto traffic.  I also thought we were given a wide variety of things to eat and things to see, so that made the tour more interesting."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Family"
+    },
+    {
+      "title": "Great for Both Tourists and Locals",
+      "text": [
+        "I've lived in the city my whole life, but it's just too big a place to know ever nook and cranny. This tour showed me some excellent places to eat, astounding street art, and some key Toronto history that I'd never have stumbled on entirely on my own."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "Great Tour and Great Lunch",
+      "text": [
+        "Have been on food tours before and this one is right up there. Very enthusiastic and knowledgeable host. Eclectic mix of foods but then again, Kensington is a very eclectic area. I am a big eater and was very full by the end."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Food was good!",
+      "text": [
+        "It was my first time to participated in a food tour and love it! It is great to have a tasty foods while listening to the cultural, and historical informative guide. The amount of food were enough for me and I feel very satisfied at the end of the tour. Some of them was a bit spicy but not too much so I think anyone can enjoy. I am thinking about revisiting the restaurant we went."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Solo"
+    },
+    {
+      "title": "Unforgettable pleasant experience at an unbeatable price!!",
+      "text": [
+        "I was referred to this tour by a friend and glad we got on this joy ride. I was accompanied by my 5 year old and we had a more than filling vegetarian portions and had take away too. Our most Speial food moments were cheeses tasting..a 🌵 sandwich. The knowledgable guide showed us places and information that we would not notice in bright daylight ..even if we wonderd in the market for hours!!!",
+        "There was a dull moment where  historical info. was being provided and all my  5 yr wanted to do was wander and eat :)",
+        "Definately recommeded on visit to toronto or as a local to know more about Kensington Market."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "Fabulous Experience of the Market",
+      "text": [
+        "Your food tours are my favorite activity in Toronto.  I never knew about such attraction and activity called as a Food tour. It is so much more than just being walked from place to place, eating food and knowing about the history and importance of the Kensington Market. The food is just a medium but you also get to experience the city in a way that goes way below the surface that I scraped on previous visits. These tours make me feel like a true insider! Most recommended tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Sustainable farming & food creations",
+      "text": [
+        "We live in the suburbs & haven't visited Kensington for years.  It was fun to have an introduction to a variety of local food creators who work with small, specialty suppliers.  ",
+        "We will visit again since we know our way around now and will go to places that are more out of the way.  Thanks for explanations of street art and pre-confederation history.  That is something that is harder to find out about, even for people who live in the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Save your time and money! Skip this tour. ",
+      "text": [
+        "Please let my experience serve some purpose (to help you) – SKIP this “food” tour. Having taken over a half dozen food tours in cities all over the world this was, by far, the weakest. It was not only weak – it was simply unacceptable. Unlike every other food tour I have experienced, everyone was left hungry. In addition to the experience of being on a food-light food tour, the cultural/historical aspect of the tour was both disappointing and factually inaccurate. Upon completion of the tour, we promtly received an email for feedback with the express mention that if our experience was less than “five star,” they  would “make it right.” We wrote a constructive email that expressed the above, and (more than a  2 weeks later) we have not received a response. ",
+        "A more detailed review follows:",
+        "As locals who often frequent Kensington Market, we thought it would be fun to learn more about this amazing district. The blurb talked about a tour of the history of Kensington Market and the food in the area.",
+        "Upon gathering, the friendly tour guide immediately warned/apologized for not having a loud voice. She was not wrong – which is a liability for a walking tour through a busy city street tour. We were then notified for the first time that the focus of the tour would be new, up and coming entrepreneurs of the area. That alone is a surprising focus for an area of such history and character. ",
+        "The first food stop was Global Cheese. Here we were presented with three “local, small batch” Ontario cheeses. The three hard cheeses were completely unremarkable. Being the first stop, we took this as a little warm-up tasting. We then moved across the street to the Mexican restaurant. While I still find it bizarre to stop at one of the newest additions to the market, it was the best stop of the tour. We were given half a sandwich and an interesting rice milk drink.",
+        "It is worth noting that we skipped Patty King – a true established gem of the area that was, coincidentally, on the review survey. Did the guide forget this stop? How could we miss it?",
+        "Then for the next hour or so we engaged in a walking tour that was horrible. Talking about the street art in the market, the guide attempted to incorporate references to Banksy. She was completely wrong about her treatment of the artist and the politics surrounding the most recent exhibit of his art.",
+        "Having only had a half a sandwich and a few cubes of cheese on this food tour scheduled over the lunch hours (11 am – 2 pm), by the second hour people were hungry. One couple asked the trainee guide (who was trailing the group) for a refund – they were talked out of it. In retrospect, I regret not adding my voice to their complaint. As one point, we passed the local bagel shop that was passing out free samples. It was a group joke that we needed to grab free samples because we were all so hungry. ",
+        "At one point, the guide stopped in front of the Kiever synagogue. We were on the sidewalk, at the corner of Bellevue park across from the synagogue. Another group of four adults were looking at the building and talking at a reasonable volume some 10 feet away. The guide walked over and asked them to keep their voices down since she was giving a tour. I was shocked and embarrassed – hushing a group of people on a sidewalk in front of a public park (who were rightfully taken aback) because you can’t project your voice to a modest huddle of 8 people!? It only got worse. Explaining to the group why two synagogues were built in this area and what would have precipitated the wave of Jewish immigration – she noted the Russian Revolution and Stalin’s rise to power. Sorry, given that both synagogues were built in 1912 – they predate both of these historical events. (The wave of Jewish immigration to Toronto – and North America – was largely due to the late 19th century czarist Anti-Semitic pogroms. There were several other major inaccuracies but I suspect you get the point.)",
+        "Some two hours after the tour began we circled back to a relatively new start up brewery for beer samples of two in-house brews. This was the only time an employee even addressed us. (On food tours, one is often greeted by an owner/manager who explains their establishment.) While sampling these beers, the guide went across the street and returned with small individual take-out boxes from Otto’s Doner. Despite again being a relatively new addition to the market, it would have been a worthy stop to sample some excellent doners. As the guide passed the small sample boxes out, she explained, “You’ve probably had too much bread by now so here is a sample of the doner’s filling.” Seriously? First, how does having a half sandwich nearly two hours prior complete our “bread rations.” Second, serving a doner without the pita completely alters the experience – and not for the better. ",
+        "Finally, we walked a couple doors down to Wanda’s (a pie shop). The guide comes out with one strawberry and rhubarb pie and placed it on the table with a pie cutter and made us cut the pie and serve ourselves. Why go to one of the less interesting food places in the market.  Only one pie to try? Cut and serve ourselves?",
+        "Even at the lower price compared to other food tours we have taken, this tour was simply unacceptable. I regret not demanding my money back. Save yourself the time and money.       "
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Walking tour of Kensington Market",
+      "text": [
+        "We had a wonderful experience. Our tour guide was very knowledgeable about the history, local shops, and art in the area. Food sampling was delicious, a good variety, and generous portions. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "You must fit this in if visiting Toronto",
+      "text": [
+        "My husband and I were in Toronto visiting family.  This was his first visit to Toronto and this was the highlight of the trip.  Great food, art and shopping. You will not leave hungry!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Perfect balance of history and food",
+      "text": [
+        "Our group of Texas girls loved this tour. They offered a wide variety of food types including beer and dessert. We were so full by the end. The tour guide was so sweet and made the information interesting. We enjoyed the amount of walking!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Eat before you go",
+      "text": [
+        "First food tour I've ever been on where I left hungry. 4 food stops in 2 1/2 hours with a small sample at each place. I didn't feel the guide knew Kensington anymore than she would have learned from the internet I.e. we didn't meet any restaurant owners, talk to anyone, or hear any personal stories. I've done 4 food tours and to be fair, the others cost a lot more. I'm cheap, but I would have paid more for a better guide and more food. "
+      ],
+      "rate": 2.0,
+      "tripDate": null
+    },
+    {
+      "title": "tourists in our own town",
+      "text": [
+        "We visited with friends from work.  We all live outside of Toronto's downtown, so we had never visited Kensington before. I appreciated that it was a well-organized tour & our friends had a great time.  ",
+        "We saw lots of places we will visit at another time.   Our guide mentioned local music and ethnic festivals that happen in Kensington throughout the year. ",
+        "Who knew how easy it is to be a tourist right at home?"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Interesting and fun tour!",
+      "text": [
+        "Loved the tour and loved the food. Our tour guide was very knowledgeable and made the tour very interesting. The choice of food was awesome, some of which we would never have tried but for the tour. Learned lots about the area and will go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "A fun date",
+      "text": [
+        "We had a great time. The tour guide was very knowledgeable about the area and geared the information provided to the interests of the group. (Our group liked the street art and the historical information).The food samples were generous and delicious."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Great activity filled with food, history and experience..",
+      "text": [
+        "Being a foodie, it was a perfect choice for me. The tour was exceptional. We tried this amazing sandwich and I couldn't believe that it was made of cactus! We learnt a lot about Kensington market and explored it like a local. Thanks to our guide who made sure that we had a great time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Perfect activity to learn about the famous Kensington Market and Toronto!",
+      "text": [
+        "During my recent visit to Toronto, me and my cousin were looking for some fun activity. While searching online, we came across by the sidewalk food tours. I was surprised to see that they operate in Toronto as well. I had taken their Ann Arbor tour earlier this summer and had loved it. So I thought it would be a good activity to do with my cousin who had never been on a food tour before. We both loved the tour. I had cactus sandwich for the first time in my life. Amazing! All the stops were great! Our guide shared a lot of history about Kensington market and Toronto and we saw a lot of street art. It very much met my expectations and I was happy about the fact that my cousin loved it too. Definitely try these guys out!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Total waste of time and money. Very disappointing!",
+      "text": [
+        "You can do this tour yourself. No relevant information was provided, so you don’t need a tour guide for wandering the area. Don’t waste your money!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Loads of great food from places we’d never discovered",
+      "text": [
+        "Thought we’d try something different on a summer Saturday. It was great. The guide was excellent sharing lots of interesting history and local trivia. A great way to explore new, delicious and culturally diverse eateries in the area."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Couples"
+    }
+  ]
+}

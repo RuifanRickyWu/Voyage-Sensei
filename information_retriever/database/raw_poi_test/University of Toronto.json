@@ -1,0 +1,356 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "University of Toronto",
+    "url": "/Attraction_Review-g155019-d591344-Reviews-University_of_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "27 King's College Cir ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5S 1A1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 1377
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d0/1c/9d/photo5jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Educational sites"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Nice Urban Campus",
+      "text": [
+        "This is a huge campus in the Yorkville section. It is easy to traverse on foot, and that is a very good way to get a feel for the place."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Nice buildings",
+      "text": [
+        "Quite nice buildings and parks composed the Toronto University grounds. Easy to reach by metro and close to the Royal Ontario Museum, it makes for a nice walk around the university campus, colleges and parks."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Impressive complex",
+      "text": [
+        "i came across the university and was really impressed by the buildings. It reminded me of both a number of English ones and also Chicago university. Particularly liked the Soldiers tower"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "University of Toronto, Toronto, Canada",
+      "text": [
+        "It's one of the top universities in Toronto and North America. It's surrounded by greenery. While lying on the grass, you can enjoy the view of CN Tower."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "A Place of Learning",
+      "text": [
+        "The University of Toronto is located in the Downtown area and is very grand indeed. There are lots of really beautiful buildings to admire and you do not need to pay to walk round the oiet utside.",
+        "It is a very nice area and we visited at the weekend so it was fairly quiet too."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Historic buildings",
+      "text": [
+        "Historic buildings. I decided to stop by since it was very close to my hotel. The architecture of the buildings were awesome, and many of them were historic buildings."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "A lot of construction lately",
+      "text": [
+        "The university is super cool and I have been there a few times now, but lately, with all the constructions in it, it has become difficult to visit most of the sites in the university."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Fabulous open spaces and historically important architecture",
+      "text": [
+        "Really have to give it to the Brits .... they really do build amazing looking impressive seats of learning.... this University has the mixture of old and new and its open, free, welcoming and historic.  Great place."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Very impressive",
+      "text": [
+        "Wow. My daughter and I went on a campus tour in late April. The grounds are stunning!! So many historic buildings. We were also impressed by what the U of T has to offer in terms of student services and programs."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Family"
+    },
+    {
+      "title": "Well Kept Area",
+      "text": [
+        "We decided to take a walk into the heart of the university   campus and is  building's, it was a nice escape away form the hustle and bustle of the city."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "pleasant",
+      "text": [
+        "University of Toronto has a lovely campus on which to stroll, sit, and people watch, all of which I happily did before walking through the neighboring garden/park and then on to the subway."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Very nice area",
+      "text": [
+        "It is a very nice place to visit. The areas around, including library, the affiliated colleges, they are very beautiful. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Rush fans",
+      "text": [
+        "Hubby is a rush fan so even though the place was closed off the security let him have a photo in this LP cover Icon."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Gret place to go to college, but also fantastic campus to just walk around",
+      "text": [
+        "The campus is located in downtown Toronto and is a great place to wander around and look at the various old buildings. There are a variety of different colleges that make up the University of Toronto, with much debate as to which one is 'best' -- my preference is Victoria College, but then I'm biased! LOL It's still the leading University in Canada."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Quite and in the middle of a big city",
+      "text": [
+        "Unbelievable! you can forget you are in this metropolis. Even heard the church bells ringing. Feels like being in Oxford (England) A good place to sit and reflect and rest after visiting the luxurious stores or the ROM on Bloor street. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Large historic campus",
+      "text": [
+        "Parking was not easy for visitors. The bookstore has a large variety of things for us, though. I almost felt guilty for entering here, as the students complain about the cutthroat competitiveness of this university while I am casually strolling and appreciating the wonderful architecture. It is large enough that, at first glance, I could not see any construction sites."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "Beautiful",
+      "text": [
+        "The U of Toronto grounds and buuildings are beautiful to just wander around and relax.  Many very old buildings."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Very Interesting",
+      "text": [
+        "I only went for the bookstore, I collect university t-shirts from everywhere I go. It was a huge bookstore with a great variety of items."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Not Just For Students",
+      "text": [
+        "Ivy League Architecture, very beautiful. Compare the old to the new. Technology is not always better."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Beautiful College Campus.",
+      "text": [
+        "Came here for a college tour for my son. Beautiful campus, but very large. It is an incredible university with many beautiful buildings and facilities. It is worth touring the campus, even if you have no plans on attending."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "The best University in Canada",
+      "text": [
+        "This is the best University is Canada, they have 3 campuses \"Down Town Toronto, Mississauga and Scarborough \", very highly educated and professional faculties, many libraries, few research centers, very large range of graduate and undergraduate programs and much more."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "My daugther graduation",
+      "text": [
+        "Went to University of Toronto to attend my daugther's graduation in September. Well organized for the ceremony and able to take lots of pictures outside"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Nice place to walk and explore the campus",
+      "text": [
+        "The grandsons enjoyed walking around the various buildings. We were there on a Saturday and didn't go in any buildings."
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "UNIVERSITY BEAUTIFUL, OLD AND CHARMING",
+      "text": [
+        "I stayed in the area of the University at a B and B.  This area was cozy and the architecture was what I imagined France would be like. I wish there was more of the old world.  It seemed too many modern buildings were replacing the old in Toronto.  What a shame in my opinion.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "WORTH A STROLL ROUND",
+      "text": [
+        "The campus of the University of Toronto is substantial but worth exploring because there’s lots of wonderful architecture to admire. My wife and I spent some time strolling round and enjoyed the sights greatly."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Very nice visit on a beautiful fall day",
+      "text": [
+        "We had had a wonderful time exploring the U of T campus.  Its mix of amazing history and a functional University was quite amazing.  We wandered through the campus and building reading plaques and enjoying the history at the same time as students were running to their classes."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "World Class Education in a World Class City!",
+      "text": [
+        "The most amazing thing about the University of Toronto, and there are many amazing things about it, is that anyone from anywhere can feel at home here.  In a city with cultures from around the world, you will find an educational center with ideas from around the world, and people willing to share them.  ",
+        "With a variety of colleges across the campus, there is always a great place to call your home.  ",
+        "The campus itself is a work of art.  Beautiful lawns, soaring trees, and classic architecture combined with the modern, is only dwarfed by the educational prowess found within the walls of this institution.",
+        "The University of Toronto is a true city within a great city and certainly worth your while to explore!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Oct 5 general campus tour",
+      "text": [
+        "We were at U of T St. George Campus on Sat, Oct 5, for the 11AM campus tour (signed up online weeks earlier). We registered at Nona Macdonald Visitors Centre and, since we had a few mins to spare, used the washrooms while we waited for the tour to begin (no washroom break during the tour). The lobby was standing room only by the time one student staff made a brief introduction and proceeded to divide the tour participants into smaller groups. Our tour group consisted of 5 prospective students and 9 accompanying family members while third year Civil Engineering student Nicole served as our guide. ",
+        "The general campus tour covered 7 colleges, a library, a sport facility, a dormitory-style residence, an activity centre, a park and more. It is a predominantly outdoor walk—it took us more than 2 hours to cover 3.5 km (we did not even see half of the campus)—so comfy shoes and weather-appropriate clothing are recommended. Although we did set foot inside a few building lobbies, we never lingered, sometimes just passing through. The one time we were indoors somewhat longer was at the residence. Here we climbed the stairs to the second floor and walked single file in and out a 2-bed dormitory room while the current student resident held the door open.  ",
+        "Overall, it was an informative and interesting tour. Our guide did a great job and her enthusiasm and school pride was obvious. We learned fun facts which would not have been readily known to us if we walked around U of T on our own. We will likely be back another time to leisurely explore the campus grounds and see more of the beautiful architecture."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Beautiful walk or run if you would like to take in some Toronto history",
+      "text": [
+        "The campus is large and the buildings are interesting whether historic or new. This is a great place for runners and walkers to take in the scenery and enjoy some quiet spaces in the centre of the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Excellent venue with great staff/service",
+      "text": [
+        "Attended the U of T for a course over the summer. The grounds are beautiful with access to many great places to enjoy lunch and after hours drinks/dinner. On site food service is above average with very friendly staff. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Beautiful campus",
+      "text": [
+        "We explored the Hart House portion of the campus for the sole purpose of finding some Tommy Boy filming sites. We walked a lot around the entirety of the Hart House and very much enjoyed the grounds and beautiful buildings. There were some people apparently filming some sort of music video while we were there. We found two outdoor spots that were in Tommy Boy but I was really excited to find the door he tried to open. Unfortunately, I believe it’s behind locked gates in a construction zone. One of the gates has a sign saying construction is expected to be done September 2021 so it was a little annoying to have it still locked up in August 2022 but it is what it is. Still a beautiful campus. Also, sorry if you’re like the people I asked on campus and have no idea what Tommy Boy is. This review will be very confusing for you. Haha."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Pleasant stroll",
+      "text": [
+        "In search of new places to walk through while COVID restrictions are in effect, we went for a walk on the St George campus of the U of T. It is a familiar place, of course, somewhat disrupted at the moment by the construction taking place on the Front Campus, where an underground garage is being installed awning with other changes. The resulting mess keeps this from getting an excellent rating at this time."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2021"
+    },
+    {
+      "title": "Huge variety of courses - and extremely well qualified tutors.",
+      "text": [
+        "No matter how specialised your subject requirement, UofT has the tutor for you. Be inspired by their breath and depth of knowledge and their sympathetic styles of tuition. Language a real speciality. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "A wonderful place to stroll through!",
+      "text": [
+        "Being from the prairies, it was quite a treat to walk through this University campus to see all the gorgeous older buildings. Kings College was especially beautiful."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Great Historical Buildings",
+      "text": [
+        "In the summer time it is a nice place to walk and see some great historical building and also great for some nice pictures"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Pretty Campus",
+      "text": [
+        "We walked through the campus of the University of Toronto.  It has many old attractive buildings.  It was worth a quick look."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Beautiful campus",
+      "text": [
+        "Took some foreign students for a tour of the campus portion which is close to Queen's Park (The Ontario Parliament building). I think it is called the St. George Campus. I especially liked the architecture of the older buildings."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Mixed Marvelous Architecture",
+      "text": [
+        "Its a stunning with a lot of history and great architectural buildings. This place is inspiring by the unique preserved from 1827. As a first institution of higher learning in the colony of Upper Canada.   "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Beautiful old buildings",
+      "text": [
+        "During snowy afternoon, we spent some time exploring these viticulture old buildings. They are open for public, and the atmosphere inside is peaceful and yet full of energy. We liked the Trinity a College and Hart House buildings the most.",
+        "All these hallways and staircases look like you are in a Harry Potter movie. Don’t skip lunch rooms which are really great to see too.",
+        "I can say that this was rather romantic side of our Toronto exploration."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Friends"
+    },
+    {
+      "title": "Beautiful campus to tour",
+      "text": [
+        "As a resident of Toronto, I have a lot of appreciation for the University of Toronto campus. It is full of old and new buildings that are beautiful to tour around during any season. Recommend visiting whether you are a local or a visitor to the region."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "CF Toronto Eaton Centre",
+    "url": "/Attraction_Review-g155019-d1863032-Reviews-CF_Toronto_Eaton_Centre-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "220 Yonge Street ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5B 2H1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 3461
+    },
+    "openingHours": [
+      "Mo,Su 11:00-19:00",
+      "Tu-Sa 10:00-21:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f0/09/01/cf-toronto-eaton-centre.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Shopping Malls"
+  ],
+  "description": "Built in 1977, this downtown shopping complex continues to be Toronto's top attraction and North America's busiest mall, offering more than 250 stores and restaurants.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Excellent indoor shopping Mall . Connected to Toronto subway station . Excellent food options. Excellent food court. We plan to ",
+      "text": [
+        "Excellent  guest experience. Connected to  Toronto Transit Subway station . Excellent indoor shopping mall . Lots of shopping and food options "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Friends"
+    },
+    {
+      "title": "Really neat",
+      "text": [
+        "Really massive & high end mall! While visiting Toronto, we did a pit stop to check it out! Large parking garage, ample parking & elevators to get around. Stunning inside with the hustle & bustle of the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Giant Mall",
+      "text": [
+        "It's very good if you like malls. I personally don't. I was there with my teen. We ate in the food court, which was crazy expensive. All of the stores are name brands and the prices are higher than on their websites. Still, it's ginormous and something to see. It's an easy walk from Nathan Phillips Square after getting your photo with the Toronto sign."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Seriously, who came up with the interactive maps.",
+      "text": [
+        "Okay, I'm old school. Way back when, a half dozen people could look at a mall map at the same time, find where they were, and where the store they were looking for is, figure out the direction, and be on there way in a matter of a few seconds. Now, with the interactive map, one person at a time can enter the name of the store they're looking for, and  then a description of the store pops up. (This is a great feature since many times I've known the name of the store I was specifically going to, but didn't know what they sell). Then some strange graphic pops up to tell you what level you are on, with lines going showing where the store is. The lines don't have any real reference to direction, nor do they actually show where you are nor the store you're looking for, so at this point most people look away from the map and try to look if they are able to see the store they are looking for. After some time of looking at the map, and then up and down the mall, they move on, and the process is repeated for the next person trying to find their way. Honestly, I gound it faster to walk through the entire mall to find my destination. ",
+        "Other than that, it's a nice mall. But, as they say, when you've seen one, you've seen the mall."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Better than Yorkdale",
+      "text": [
+        "I recommend this over the soulless Yorkdale mall. Whereas the latter is row upon row of expensive designer clothes shops with few distractions, Eaton has enough small shops, food retailers etc to make it interesting. Because it's central it's easy to pop out of as well if you want to leave a partner to do their shopping and meet up again later. The food court is also impressive with a wide range of outlets selling reasonably priced fare."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Apple Store @ CF Eaton Centre, Toronto, Ontario, Canada",
+      "text": [
+        "Eaton Centre is great. The only downside is Apple Store’s absolutely terrible customer service offered by some of their disrespectful, unprofessional, rude, racist, bigot, and discriminatory employees especially and definitely including specifically the brown guy and the black lady at the apple vision pro seating area at the CF Eaton Centre in Toronto, Ontario, Canada."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "A big mall",
+      "text": [
+        "It’s a mall. Do you like malls? If so you will like this mall. It’s done up nice. It is huge. It is convenient to many hotels and public transit."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Busiest mall in North America",
+      "text": [
+        "The Toronto Eaton Centre is the busiest mall in North America. It is huge and packed! It has tons of stores and restaurants as well as so much to do. I recommend stopping by!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Literally shop til you drop",
+      "text": [
+        "With 3 or 4 levels (lost count), Eaton Centre offers you practically anything you need. Between Canadian brands like Roots and Lululemon, etc., and other brands, you can find a bit of everything here, and spend hours and hours here."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Marvelous Shopping Experience!",
+      "text": [
+        "What a beautiful shopping experience. I love to shop and CF Toronto Eaton Centre was an amazing experience. I spent six glorious hours shopping with lots of awesome purchases to bring back home.  Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Lots to see",
+      "text": [
+        "The mall has tons of good shops and lots to see and do. It’s a good location. There’s quite a bit of construction around. I found it difficult to navigate to find where I wanted to go and would have appreciated a better map."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2023 • Family"
+    },
+    {
+      "title": "good on Easter weekend",
+      "text": [
+        "Went on the long weekend as everything else was closed for the Holidays.  It was great to see the place opened.  It wasn't too busy and the parking was really cheap and underneath the building at 10 bucks.   Manged to buy a few things before everything closed. Very difficult to get a seat in the food court."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2023 • Couples"
+    },
+    {
+      "title": "Good food court ",
+      "text": [
+        "This place has some good shops and it's a nice walk around.",
+        "A good variety of food options in the food court.",
+        "Sadly no options for more affordable shopping."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2023 • Solo"
+    },
+    {
+      "title": "Great Shopping Mall!",
+      "text": [
+        "CF Toronto Eaton Centre is one busy shopping mall! This mall offers a large selection of shops and brands across 4-storeys and a massive food court in the basement. And the architecture is something else!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Big mall",
+      "text": [
+        "Very big shopping mall, one can easily lose the way inside. Many products and brands. The eateries is at the basement if you are looking for cheap eats."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Shoppers delight",
+      "text": [
+        "Always spend an hour browsing this super mall. Very bright, well-maintained mall on 3 floors of shopping / food outlets. Always worth a visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Wow, like going to the Mall of America",
+      "text": [
+        "This is an underground 4 to 5-story mall connected to all modes of transportation and walkways.  The food area was amazing due to the extreme diverse culture.  The shopping was amazing with every store imaginable."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Difficult to navigate if you have specific Brand’s in mind to shop",
+      "text": [
+        "Messy shopping centre. Difficult to navigate around. Lots of shops but spend time finding them.  It’s like a maze once you go wrong direction you will be lost.   The good thing about this shopping centre is it is link to the subway.  The place is huge."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022 • Friends"
+    },
+    {
+      "title": "Christmas energy at the mall!",
+      "text": [
+        "Great place to stop in for a Christmas treat. We were passing through Toronto from winnipeg. Stopped in to see the displays and get some Christmas energy. Was great. Not my kinda place for shopping, mostly too trendy and privacy but a great please to visit and have a coffee/meal. Great fun!  It’s connected to Dudas square too. It’s worth checking that out too."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022 • Friends"
+    },
+    {
+      "title": "Not enough seating for customers",
+      "text": [
+        "We visited December 2022.  We sadly noticed that the beautiful tall Christmas tree was not there this year, nor was the lower level beautiful fountain with seating around it.  Also, there was very minimum places for customers to sit within the entire mall.  We could not find a seat within the mall to rest because the few that they provided scattered within the mall were full.  We ended up sitting on a window ledge in a store."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Huge shopping centre",
+      "text": [
+        "Eaton centre is a massive shopping mall, with hundreds of shops and a huge food court which smells amazing with food from kfc to ramen. ",
+        "Our visit was close to Xmas and the decorations and tree were very good. We shopped for a few hours and eat ramen and shawarma both were very tasty for a food court. It was earlier in the day when we visited so it was quiet to start with but quickly got busy. ",
+        "Well worth a visit we managed to get some bargains in the sales."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2023 • Couples"
+    },
+    {
+      "title": "Very large indoor shopping complex",
+      "text": [
+        "Most shopping centres are the same - multiple shops, multiple levels (or not), maybe a cinema complex, a food court and washrooms. This centre has it all! We tend to avoid spending too much time in them! What drew us into this centre was to see the Canada Geese in flight sculpture. It's an impressive sight with 60 life-size Canada geese suspended below the glass roof. The centre is easily accessible and links to the PATH."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Christmas tree light and snow show",
+      "text": [
+        "Came here to Toronto Eaton Centre with my family specifically to see the giant red Christmas tree, supposedly the tallest indoor Christmas tree in North America, and luckily arrived minutes before the 3:30PM tree light and snow show. Had time to scout the area and take a few photos with the stunningly lit tree. It is impossible to miss and very strategically placed. We went on Tue, Dec 19, so probably a little less crowded than weekends. There are many possible spots to either take a photo or video--water fountain, moving escalator, staircase, levels 1-4, you name it.  Just be prepared to work around the shopping crowd at some point. There is also a giant pre-lit reindeer on level 3 which looks better when photographed at a distance.",
+        "Countdown is displayed on monitors near the Christmas tree and the show started on time. If taking a video, press start around the 0:05 mark so your video begins with the red tree. It was a short (3-1/2 minutes!) but stunning Christmas display--the holiday music, the changing images plus the fake snow at the end--very entertaining and sure to put everyone in a festive mood. Well worth a visit to Toronto Eaton Centre this Christmas season. The tree light and snow show is on until Sun, Dec 31. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "A big mall",
+      "text": [
+        "A big mall with lots of food and shopping options. Accessible by parking and transit. A good place to go and discover something new or cool down."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "Big shopping mall",
+      "text": [
+        "Really big shopping centre in the middle.of Toronto. Easy access and all.the stops you can think of. Ends in Dundas Square which is a must you don't want to miss.",
+        "Also has an entrance to the Path though we couldn't find it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Shopping  at the  Toronto  Eaton Centre  Mall   ",
+      "text": [
+        "Shopping Mall of  Shopping malls!    I'm   preparing for a trip to   Stockholm and then  Andalucia in September.       No better place to  go shopping than  the  Toronto Eaton Centre!      I   found some   minimalist   running shoes.  lightweight and small  and not too expensive   .  So I'm  ready to go.     The  Eaton Centre as it is known  to locals    is  a  large mall   .   a bit upscale and  expensive   and  fashionable.     Stewart    "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Typical Toronto Mall",
+      "text": [
+        "It is a decent shopping center, and well worth visiting if you are interested in picking up some fashion goods or quick snack. Not that far away from the city hall."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Great downtown shopping for pedestrians and transit commuters",
+      "text": [
+        "It’s a huge mall with every kind of store you could ever want. Crazy easy to get to by transit. It’s central to the downtown core so it’s walkable from a lot of other attractions. However, it’s a zoo on weekends and the WORST near Christmas. Don’t even think about trying to drive there unless you want to spend 30 mins trying to find a $50 parking spot"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "Nice mall. Really big. Great shops and restaurants.",
+      "text": [
+        "Nice mall. Really big place. Hard to find out way around. Ended up getting outside to walk around the block to find out way back to the hotel. Great shops & restaurants. People very nice. Great way to spend a poor air quality day!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "A Mall",
+      "text": [
+        "Nice and warm during the cold season. Nice shops and small boutiques. Cafes and Restaurants. Clean and well maintainted."
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2023 • Couples"
+    },
+    {
+      "title": "Still a great shopping mall",
+      "text": [
+        "This is a large, multi leveled, indoor shopping mall. It consists of several floors, making up for 200 stores. On the first level is food court. There are dozens of restaurants to choose from. If you’re coming by subway, Queen and Dundas stations will get you fairly close to the Eaton Center."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Still going (and growing) strong",
+      "text": [
+        "As a Western New York native - and regular visitor to Toronto - I knew the Eaton Centre as a classy and happening mall. Decades later, it is still going strong, even as malls are in serious decline. Busy, interesting and lots of unique (and high-end) stores."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Not an Ordinary Mall",
+      "text": [
+        "Almost did not go. It was an enjoyable surprise. This mall is very busy especially compared to my hometown mall which is almost dead. I did not see any empty stores.  Spent three hours until we ran out of steam.  Definitely would recommend because it is different than any other mall."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "Great for a rainy or cold day",
+      "text": [
+        "My husband & I enjoyed walking around this very crowded & clean mall. Much to see & buy, meet up with family & friends, & walk for exercise when cold/rainy. We didn’t stay long because there is much more that we wanted to see in the downtown area."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Large clean shopping mall",
+      "text": [
+        "The Eaton centre is Toronto biggest indoor mall. Great selection of stores from mid range to high end designer shops. Good food hall and connected to other sites including our hotel by the Path"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Couples"
+    },
+    {
+      "title": "CF Toronto Eaton Center, Toronto, Canada",
+      "text": [
+        "I was a regular there. You can find everything you need, including food courts, brands, and souvenirs. Some events have also been organized there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Friends"
+    },
+    {
+      "title": "Bad customer service that will make you unhappy",
+      "text": [
+        "1, I am Disappointed with the customer service experience at chocolatier in Easton Centre. The staff seemed rushed and lacked patience during my visit. The young male attendant at the chocolate counter was in a hurry, he makes me feel I am wasting his time from his facial and body expressions and not very accommodating when I placed my order. Additionally, the female cashier refused to provide a chocolate sample when requested, stating only the counter staff could assist. Not the level of service I expected from such a renowned chocolatier. Hoping for improved service in the future."
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Classy, modern, & beautiful",
+      "text": [
+        "A very nice, spacious mall and the largest in the downtown area. It houses a good collection of shops. I have never liked the parking, and even if I drive, I usually park somewhere convenient and take the subway the rest of the way."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Solo"
+    },
+    {
+      "title": "SCAFFOLDING GALORE!",
+      "text": [
+        "A great mix of stores over different levels and different price ranges.",
+        "Food court at the bottom, pretty big.",
+        "Lots of scaffolding. Not sure if it’s been there long or not but that part wasn’t great."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Eaton Centre, you make scaffolding look good!",
+      "text": [
+        "An after-work experience. I had popped into Eaton Centre late night just before closing, and wow it has been a long time. Nostalgic memories from young when our family would venture down here during the summer months before going to Lakeshore Park to enjoy picnics we'd always stop in to do some last-minute shopping and throughout the years, I would frequent the Joey's here. Now I'm here and looking for Roots to pick up a few hoodies for my Fiance's nephew. ",
+        "Firstly, Eaton Centre seems to have started a facelift which did not hinder my experience at all, thanks to the clear signage, and engaging anecdotes displayed along the way. My mission was to go to Roots and visible signage placed on the scaffolding. It drove me around to see what the facelift was about. On that stroll, out of simple curiosity, I see how many businesses are here thriving and still humming. Workers/store employees don't look depressed, customers who belong here appear to be here and the occasional rif raf but that is expected in this part of Toronto. ",
+        "The attention to detail and the thought process for me are very impressive. As a programmer, everything is in the details. Details matter when you want convenience. I am so impressed I managed to take a few pictures.  The scaffolding and help in marketing the team at CF must be tirelessly keeping up with demands from the business I can imagine is endless but it is appreciated in the results. This is impressive. Clear, concise. ",
+        "Even on the eve of Chinese New Year. The decor was eye catching, everyone is taking pictures, and might I say, unique it is. Very \"luxue\" and I shared the pic with my fiance who said we are bringing her brother's kids down this weekend. ",
+        "Yorkdale, Eaton Centre (i.e Oxford and CF) really know what they are doing. Good job, an accolade well deserved."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2024 • Solo"
+    }
+  ]
+}

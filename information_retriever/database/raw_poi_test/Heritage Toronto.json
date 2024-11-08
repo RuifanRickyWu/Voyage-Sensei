@@ -1,0 +1,203 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Heritage Toronto",
+    "url": "/Attraction_Review-g155019-d6478888-Reviews-Heritage_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5C 1G9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 21
+    },
+    "openingHours": "Mo-Fr 09:00-16:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/90/a7/aa/raggae-lane-on-eglinton.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Historical & Heritage Tours"
+  ],
+  "description": "Our tours bring people together. Join us as we travel hundreds of kilometres to experience the city – up close and on the streets – through parks, to well-known landmarks, and in the many neighbourhoods that make up Toronto. The Tours program is curated by Heritage Toronto, but driven by over 100 volunteers, 25 community partners, and an annual cohort of Emerging Historians. Together, we have reshaped and shared the stories of Toronto and connected communities across both time and place. The 2019 Tours season has ended. Join us for our upcoming 2020 tour season running from May- October. Did you know? The program started in 1994 with 18 tours – the first featuring downtown architecture.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Interesting and Informative",
+      "text": [
+        "We had a tour in a really hot and sunny summer afternoon, and the tourists are tired. We start off at st. Lawerence market and we had go around the district with some stops at front street, st. James church, st. James park, Adelaide court, King’s hotel. The speech is very informative about the history on the British and French colony, and the tribe. At few stops are about jail stuff and execution. The guide was very enthusiastic and passionate that we could really feel her love in Toronto. The guide is very flexible and caring too, she first tends too end at the st. Lawerence but as she saw us we are very thirsty so she drop us off at st. Lawerence to let us have some drink. Overall, it is a very pleasant and enjoyable journey"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Eastern Swansea Walking Tour",
+      "text": [
+        "I attended many Walking tours with Heritage Toronto and they are for sure different than other companies that do Walking tours because they take you to places that are all new and no other tours offer these same places. They also shows many photos from old heritage that shows you the places in the old days versus what you are seeing currently, they even provide photos of people from old age that they talk about. Their tour is very interactive and they are very friendly and try to involve everyone. The tour is only for $10 donation but they are doing a job that worth much more than that so it's a pretty good deal. Only suggestion for area of improvement is for the tour guide not to read all the time from papers (I understand it's lot of information to give) but to try to add their own input as well. Overall the tour was very informative and the Swansea village is a very beautiful area in Toronto that I recommend people to go and check it out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Tour",
+      "text": [
+        "We took the Toronto Heritage Tour with friends from California. We enjoyed the day just like we did in London England. Even though I've lived here for over 30 years it still was worth the time and money. Showed us a few places I'd never seen"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Insightful, informative, entertaining ... and free!",
+      "text": [
+        "Heritage Toronto offers a summer long series of tours that focus on Toronto's architectural, cultural and natural heritage.  The walks cover neighbourhoods and communities across the city and are offered mostly on weekends from April through October.  Check out Heritage Toronto's website to find out walks that are on offer.",
+        "I recently participated in the Thistletown walk - a little known area of the city located in the far northwestern corner.  The walk leader was from the local heritage group and was able to provide an in-depth look into the area's history through the use of photographs, stories and first hand experiences.  We saw some of the oldest standing homes found in Toronto including a beautiful estate where we met the owner.  ",
+        "Do try to catch one of the walks - they are free (though donations are very much encouraged) and you won't be disappointed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Solo"
+    },
+    {
+      "title": "A wonderful educational opportunity... and free!",
+      "text": [
+        "I've taken a couple of the tours and was quite impressed. Having never fully explored the city, I found the tour of The Beaches quite valuable as it explained how the area developed and changed over the years. The talk was a great balance of history, architecture, and interesting anecdotes.",
+        "I also participated in the South Rosedale and Toronto’s Mayors walks to learn about the specific neighbourhood and how the city evolved.",
+        "All of the tours were well attended and the speakers were well prepared with portable amplifiers and pamphlets showcasing the tour highlights. The tours are free and a fabulous way to learn more about our great city, I highly recommend them."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Couples"
+    },
+    {
+      "title": "Music History on the Yonge Street Strip is DELIGHTFUL (and free)",
+      "text": [
+        "For about 1.5 hours you will be thrown back into a time when Toronto's Yonge street was hopping with Jazz and R&B and Rock. From 1947 when Toronto \"The Good\" issued it's first liquor licenses to the hotels on Yonge St to the mid 70's.  The time before the Eaton Centre and the strip clubs.  Find out how Oscar Peterson met his wife, how black musicians were welcomed in Toronto, how Ronny Hawkins once ruled Yonge Street.  The tour leader come equipped with old posters and pictures, album covers and sound tracks.  Brings you right back!  Loved it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Friends"
+    },
+    {
+      "title": "I always learning something new!!",
+      "text": [
+        "Heritage Toronto runs tours free tours from April to October.  They are led by local historians and they are a wonderful way to learn about various Toronto neighbourhoods.  There may be a large group taking a the tour, but the leader has a microphone and there is no difficulty hearing what is being said.  Lace up your walking shoes, bring a bottle of water and check out one of the wonderful walking tours.  At the end of the tour, donations to the Heritage Toronto organization are gratefully accepted."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2015 • Friends"
+    },
+    {
+      "title": "Great walking tours - and they're free!",
+      "text": [
+        "Although I've lived my whole life in Toronto, I always find out something new and interesting about my city on these walks - its history and architecture. The Heritage Toronto guides do a great job telling the city's stories.  And most of the walks are free / pay what you can."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Friends"
+    },
+    {
+      "title": "History walk",
+      "text": [
+        "I am a Toronto resident. I went to several Heritage Toronto Tours in 2014. The tour guides were knowledgeable and I learned a number of things about each neighbourhood I took a tour in. Besides, it's nice to go for a walk."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Solo"
+    },
+    {
+      "title": "tour guides are very informative !",
+      "text": [
+        "This is a great way to learn about our own 'backyard'...our local areas have wonderful historically significant buildings which are great to learn about so we can help protect them from destruction.  It is great that these walks are free, I would be happy to donate to these buildings/areas - as I do when I do walking tours in other countries"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Friends"
+    },
+    {
+      "title": "A really great way to find out about the city you are visiting",
+      "text": [
+        "OK, I admit that I am one of the volunteer Walk Assistants  for Heritage Toronto but I can't think of a better way to find out about a city you are visiting than taking a local walking tours. There are local neighbourhood walks, along with bus tours, bike tours .... really cool. The walks are usually 1 - 2 hours in length, and include the history of the area, who lived where and all sorts of things."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2014 • Friends"
+    },
+    {
+      "title": "Alway Learn Something New",
+      "text": [
+        "As often as I have walked through familiar neighbourhoods in Toronto, I am amazed at how much I learn each time I go on a Heritage Toronto historical walk.  I now look at city streets and buildings in a different way.  The volunteer walk leaders and guides are all very knowledgeable and friendly.  ",
+        "A great way to spend a Saturday or Sunday afternoon."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Solo"
+    },
+    {
+      "title": "The walking tours are great",
+      "text": [
+        "I am a life time resident of Toronto but I find there is always something to learn from the tours.  I highly recommend them to any one."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2014 • Solo"
+    },
+    {
+      "title": "Walk and learn",
+      "text": [
+        "I love the Heritage Walking Tour as I get know my \"adopted\" city from the historical and architectural perspective.  I find the tours both interesting and educational.  It's amazing to learn all the nuances of a city one lives in that only a walk with an informed guide can give.  ",
+        "The only negative is that sometimes the groups are too large for one guide to do justice as the city noises sometimes block out the guide's voice.  A megaphone would help in those circumstances or else extra guides.",
+        "Keep up the good work."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2014 • Solo"
+    },
+    {
+      "title": "Archeological bus tour of Toronto.  Unique and fantastic!",
+      "text": [
+        "Bus tour led by one of Canada's leading Archeologists Dr. Ronald F. Williamson.  He had items to show us and led us around many sites.  His discussion along the way about Toronto's history was wonderful.  He left time for questions.  This was a great way for anyone to learn about Toronto's history in a fun, interesting, hands on way."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2014 • Couples"
+    },
+    {
+      "title": "Heritage Toronto walking tours",
+      "text": [
+        "I've enjoyed several Heritage Toronto walking tours.  They operate in the city through the spring, summer and fall months.  Always learn something new about the city, even as a resident."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2014 • Friends"
+    },
+    {
+      "title": "A Fascinating Experience",
+      "text": [
+        "Toronto is a city to love with its unique neighbourhoods and rich history. Heritage Tours afford the ideal opportunity. Knowledgeable guides, friendly volunteers and well researched  talks plus an opportunity for a walk add up to a great experience and an affordable one. I have explored Cork-town, Lawrence Park,  the East Indian community oft Gerrard Street and historic Spadina Avenue and each walk was wonderful. Most tours did not involve stairs and some had access to restaurant washrooms and would work for wheelchairs and strollers as well.."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2014 • Friends"
+    },
+    {
+      "title": "Heritage Toronto with a Big Heart",
+      "text": [
+        "I am a member of heritage Toronto for many years together with my husband. we joined because this organization is the only one in Toronto, who really cares about saving and promoting our heritage. they do super walking free tours for public starting from April to October."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2014 • Couples"
+    },
+    {
+      "title": "Toronto Walking Tours!",
+      "text": [
+        "Heritage Toronto offers Pay-What-You-Can walking tours of neighbourhoods all over Toronto. Good for both residents (to discover the history of their 'hood, or find out about a new one) and tourists (a nice way to get out of the downtown core and see what else the city has to offer). Knowledgeable, friendly guides and volunteers. New tours added every summer so check them out!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Couples"
+    },
+    {
+      "title": "Excellent for both Torontonians as well as Visitors",
+      "text": [
+        "I have done several of the Heritage Toronto walking tours  - always a great experience.  Led by knowlegable University student types interested and friendly!   I can't wait for the 2015 season to start!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Couples"
+    },
+    {
+      "title": "Excellent walking tours",
+      "text": [
+        "These are excellent walking tours led by great leaders, you learn a lot and will have a very enjoyable time.  Highly recommended !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Solo"
+    }
+  ]
+}

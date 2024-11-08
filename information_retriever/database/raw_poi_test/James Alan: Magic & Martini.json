@@ -1,0 +1,414 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "James Alan: Magic & Martini",
+    "url": "/Attraction_Review-g155019-d6765589-Reviews-James_Alan_Magic_Martini-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "116 Dundas St W Black Lodge Room",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4Y 2E5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 56
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/d3/82/38/james-alan.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Theater & Performances"
+  ],
+  "description": "Master magician James Alan hosts Magic and Martini, an evening of sophisticated magic accompanied by finely crafted cocktails. Special discounts for large groups available. Join us at the Storm Crow Manor, an immersive sci-fi & fantasy themed venue with a magical menu of finely crafted cocktails and delightful nerdy treats.",
+  "duration": "Duration: More than 3 hours",
+  "reviews": [
+    {
+      "title": "I was nauseated by the sights smells and tastes.",
+      "text": [
+        "The experience could be improved by attending a different show,  at a different venue with a different performer."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2021 • Solo"
+    },
+    {
+      "title": "Great show!",
+      "text": [
+        "I absolutely loved the show. It was different than any other magic show I’d seen. I highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Friends"
+    },
+    {
+      "title": "Such A Fun Night",
+      "text": [
+        "We booked our tickets through Groupon for half the price..what a bonus.  The show was so much fun.. This is a very intimate venue and the menu is scant.. so if you are hungry.. eat before going.. We ordered the cheese board and dip.. both were very good .. but small.  The show was very entertaining and James is most personable..he involves the audience in such a nice way.. I would see the show again .. in a heartbeat"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Great Night",
+      "text": [
+        "A cozy venue. Before the actual show James visits each table and does a magic trick. He remembers everyone's name throughout the show. Eggs magically appear, wine bottles show up out of thin air. A great night out with friends "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Fun Date Night",
+      "text": [
+        "Intimate venue with a cool, swanky vibe. We really enjoyed the show, though I would suggest the humour was the better part of the night and the magic was just okay. We had higher expectations but enjoyed ourselves none-the less. Fabulous, though very expensive, drink menu. Food options are restricted to nibbles like cheese board, olives, etc. We had a charcuterie board which came without any cheese, jellies or mustard, so had to order a cheese board separately. Our Server was amazing and very attentive with our drinks. Ended up spending nearly $200 on top of the tickets and then had to go eat elsewhere, so a pretty expensive night overall. There is definitely room for improvement with both the food and the magic, but overall still a fun few hours in a unique setting."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Amazing show! Awesome venue!",
+      "text": [
+        "On a trip to Toronto from Ireland, and was recommended this show to top off the week.. and WHAT A SEND OFF IT WAS!!! ",
+        "The venue was a cool vibe, something you don't see in Dublin. The drinks and service were fantastic! ",
+        "That said, the venue paled in comparison to the show itself. It was classy, adult orientated, and to say I had my mind blown would be in understatement. Seeing magic on TV and rolling your eyes at the editing is one thing, but being a couple of feet away watching James vanish cons in front of your eyes was insane! ",
+        "I must admit I was expecting to be quite far away from him when he was performing.. but I was sitting literally 3 feet away as he produced a wine bottle from what I can only describe as another dimension. ",
+        "My partner got picked to come up for one of the tricks.. and she hasn't shut up about it since. Thanks for that, James! ",
+        "I'd recommend the show and venue to anyone who has a bit of time on their hands during a holiday.. as we say in Ireland, it was a great Craic!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Couples"
+    },
+    {
+      "title": "Loved it.",
+      "text": [
+        "I came across this entirely accidentally and it was 100% with it. My BF is a magic aficionado so this was the perfect date night treat. ",
+        "The atmosphere was really intimate, martinis creative and James puts on an amazing show. Just make sure too book soon as it books up quickly. ",
+        "Would go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "A must see!",
+      "text": [
+        "My boyfriend and I found this show in groupon and were unsure as to how the night would go. We found the new location very easily(Suite 114) with parking around the corner and had to solve an easy puzzle to gain entry. Upon entry, the atmosphere was very nice. The lighting, and ambience was comfortable and classy.",
+        "They have a very intriguing drink menu and a starters menu. The aged cheese platter I ordered was presented very nicely with a variety of jams. Don't hesitate to ask questions bc the servers are so knowledgable and friendly! .",
+        "Now onto the good stuff, Let me just say James is incredible with his craft and truly knows how to keep you engaged from the moment you walk in the door(he sat with us and did a little private sneak peak of tricks before the show and I was already confused). It was an awesome show and the crowd was the perfect size so it really felt like a personal show. I highly recommend it to anyone looking for a fun night out with a friend or even more perfect for a date night! Will be back!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Fantastic Show",
+      "text": [
+        "Complete magic,how does he do it??  I was amazed and gobsmitten by his talent,should be in Las Vegas A very enjoyable date night evening."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Couples"
+    },
+    {
+      "title": "Good Show, but what Martini?",
+      "text": [
+        "The Title...",
+        "Not sure why the show is called \"Magic and Martini\" anyone? My group and I booked with the impression we would see a great show and be offered at least 1cocktail or Martini, to our disappoinment this was not the case! I really didn't expect an open bar type event, but given the title of the show we assumed it was the package deal!  At the very least, for show night, they should have offer a set menu of Martini's at a special show rate. ",
+        "The Venue....",
+        "Having said this, my group saw James Alan at the Grand Spirits Distillery in Grand Valley ON. This is a wonderful venue; (definitely not the local watering hole) an old school house restored with modern charm. Even though it had been restored the show room where the Magic happened was absolutely freezing. Once it warmed up we were able to take off our jackets and truly settle in for 75mins of carefree fun.",
+        " -Food, (Gluten free option) excellent! -Drinks, extremely expensive (2 Alcohol Martini, 1 Virgin Martini and 1 small Margarita 47$).  -Service (Brittany and Jamie) 10/10....",
+        "The Show:",
+        "James Alan delivered a fun filled evening with this feel good adventure. Even his assistant/photographer was super friendly. Highly recommend this for a great girls night out. I was captivated by the simplicity of the magic, especially since we were about 5feet away and could figure out \" how he did that\".  Well done James Alan! ",
+        "Will go again, some day....."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018 • Friends"
+    },
+    {
+      "title": "Go for the show but pass on dinner",
+      "text": [
+        "We attended the magic show with James Alan and Keith Brown. Both magicians were entertaining and personable and put on a good show. It was really nice that they included various members of the audience in some of their tricks and that the venue was small enough to give everyone a good view of the stage.  Good show guys!",
+        "Dinner was disappointing. We waited 20 minutes for some red wine because they didn't have any and had to send someone out to buy a few bottles. Although the salad and brushetta were tasty, the main course was bland. We were told the curried chicken was on the mild side so we opted for the sweet and spicy pork. The green beans were good but the pork and rice had absolutely no flavour. When we asked for some more red wine we were told there wasn't any left. The kitchen could use a little magic! Also, dining while watching a magic show can be a bit distracting."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2015 • Friends"
+    },
+    {
+      "title": "Biggest waste of money!",
+      "text": [
+        "My fiancé and I visited here this evening 11/29/15....the food was HORRIBLE. Just awful. I had the chicken curry and he had the pasta primavera. They were both so bland. The club kept the door open downstairs and upstairs and we had the table next to the door. I was freezing. My toes were numb while sitting in side! You can also see the toilet from the stage. The place is an absolute dump. It's also cash only which was written nowhere and when we told the waitress, who was VERY kind at first, that we only had credit....whoa! What a different person she became. The magic was juvenile and predictable. Jenny and Steves guessing game (mind reading if you will...) was not wow as it was assumed that they spoke in code to tell each other what the item was. All in all a very disappointing night. What we thought was a great deal turned out to be the biiiiiggest waste of money!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2015 • Couples"
+    },
+    {
+      "title": "A fun evening of magic, entertainment, and laughter!",
+      "text": [
+        "I have been fortunate to have attended Magic Tonight on multiple occasions. Magic Tonight is very highly entertaining and I would recommend this show to everybody. James Alan is a talented performer and puts on an excellent show. Magic Tonight also features guest entertainers from a variety of different areas of magic. If you're looking for an evening of great magic and fun, add Magic Tonight to your list!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2015 • Friends"
+    },
+    {
+      "title": "Magic, Laughter, Good Food and Good Fun",
+      "text": [
+        "It's a wonderful evening of Magic and Laughter.  James Alan is host to some of the best magical talent in the GTA and beyond.  I and my friends keep coming back.  A typical evening begins with host James Alan delighting what is often a sold out house with his blend of urbane wit and sophisticated magic followed by the featured guest Magician.  The guest Magician when I was last there earlier this month was Nick Wallace, a fabulous talent, whose theatrical performance \"Seance\" opens at Theatre Passe Muraille later this month.  If James is involved I know the magic will be good.  What came as a pleasant surprise, is that for an intimate club the food is quite delicious and the service good. It's a great evening out of Good Food, Good Fun, Laughter, Magic and Mystery."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Friends"
+    },
+    {
+      "title": "good food great magic",
+      "text": [
+        "Didn't know what to expect but it sounded interesting. Walked up this narrow staircase into a nice dimly lit lounge. The service was great, very friendly staff and the food was good but the star of the night was the show. That night there were two magicians (James Allan and Nick Wallace) performing for about 30 minutes each. Without giving to much away you have to see it for yourself but they had the whole audience laughing and gasping in amazement.  Must see live entertainment!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Solo"
+    },
+    {
+      "title": "An Intimate Evening of Wonders!!",
+      "text": [
+        "I've never written a review before on Trip Advisor but this one deserved it. James Alan definitely knows how to put on a marvelous and hilarious show and his special guest, Nick Wallace, wowed everyone in the audience with his spooky mysteries. Both of the acts had quite a few volunteers help them out on stage, so you definitely have to be comfortable with a little audience participation. The atmosphere was very cozy and I was impressed by the food, ideal for a date. Highly recommend the dinner and a show combo. My date and I both said to each other after the show that we should make this show a regular thing. Definitely coming back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Couples"
+    },
+    {
+      "title": "Amazing & Unique Experience",
+      "text": [
+        "Saw this show at The Crimson Lounge in The Cage 292 on College.  There were two magicians (James & Nick) that each performed for about 20-30 minutes.  The only way to describe it is that it is like YukYuks but instead of comedy you are seeing magic.  The performers themselves were really good and everything you would expect; charming, interactive, and amazing.  When we went the show was sold out with about adults 100 in a pretty small space but it made for a great atmosphere and show.  There were audible collective gasps from the audience at several times in the evening.  If you want to see magic acts well done this is the place to see it in Toronto.  I'm pretty sure there are different acts there each week."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Friends"
+    },
+    {
+      "title": "A fantastic night out",
+      "text": [
+        "I went to the show mid summer not knowing anything about it. I had a fantastic time. The food and service was great but the magic went above and beyond my expectations. My friends and I had a fantastic time and we will be going back again soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Couples"
+    },
+    {
+      "title": "MAGIC TONIGHT!",
+      "text": [
+        "An excellent show! ",
+        "James Alan is the man! The room was packed and the vibes were good! I'll continue to go to Magic Tonight for sure!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015"
+    },
+    {
+      "title": "A good show, but don't expect showgirls and sparkly costumes.",
+      "text": [
+        "We've seen \"Magic Tonight\" at several venues and have liked it enough to encourage our friends to go. In general, each show features performances by one or two headliners with some additional magic performed by the host, James Alan. The quality of the show, of course, depends on the magicians performing that evening. On the whole, though, the roster features some excellent talent and we've enjoyed most of the performers we've seen. ",
+        "This isn't a huge show that features loud music, massive sets, and barely clad showgirls jumping in and out of boxes. You'll be disappointed if that's what you expect. What you should expect to see at any given performance is two or three talented professionals doing slight of hand that, on a good night, will leave you wondering how what you saw was accomplished."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2015 • Friends"
+    },
+    {
+      "title": "Will definitely go again!",
+      "text": [
+        "We had no idea what to expect going into this show.  It was basically like a comedy club, but instead of comedy it was magic. James Alan acted as host, and had a guest performer, each doing about 45 mins.",
+        "The show was so much fun! Both acts were top notch. The show flew by. It was very interactive, and it was great to see the performers have respect for their audience - everyone was there to have a good time. If you go, you will definitely be in for an amazing night!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Friends"
+    },
+    {
+      "title": "Amazing night!",
+      "text": [
+        "We have been twice. Both times the show was terrific! ",
+        "We understand the venue was under construction. When we first entered the hallway it looked a little rough, but if you can get past that, once inside it was cozy and intimate. ",
+        "The show itself was top notch. We understand there are guest performers at every show. We lucked out both times, because both acts were amazing. Would give the show our highest recommendations!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Friends"
+    },
+    {
+      "title": "Entertainment, Magic and Comedy!",
+      "text": [
+        "We read the reviews on Google and on TripAdvisor.  The most recent reviews were not flattering.",
+        "We decided to go with open mind and not allow the negative reviews taint our expectation",
+        "We were skeptical when we entered the venue as it was under renovations.  The seating area is intimate and comfortable.  ",
+        "The magic show was awesome.  There were two magicians who were excellent.  I was called to the stage and was quite impressed with James’s magic act.  The hostess Jennifer was a comedian who made our entire table split a gut, we laughed so hard!  The next magician Jason was fast and on point with the comedy in his act. Both magicians were good at involving the audience with their routines.  The house was full and the audience were there to have fun!  Fun was had by all!!",
+        "I highly recommend anyone to go to the show and have a great night of entertainment.",
+        "I am buying more tickets to share the experience with more friends and family.",
+        "A good time was had by everyone whom I invited!  Great night out and lots of laughs!  Way to go…James Alan and troupe!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Family"
+    },
+    {
+      "title": "Very disappointing...live and learn!",
+      "text": [
+        "We purchased tickets to this show as a Christmas gift for my in-laws. We have purchased different experiences over the past 10 years and this by-far was the worst.",
+        "The website says that they have moved locations. First mistake...renovations should have been completed before they re-opened the doors. As we entered into a door in a wall...my husband expressed that it looked like we were walking into a horror movie.",
+        "Second mistake...when you say dinner starts at 6pm and guests show for 5:50pm, do not be serving dinner at 7pm. When I purchased the tickets, their site said dinner at 6pm and show to start at 7pm. I thought \"perfect\", I won't be eating during the show. Well, that was not the case. ",
+        "In the meantime, drinks were served in what I'm guessing were 3oz juice glasses. It was easier to drink the beer from the can, yet not my preference when trying to enjoy a nice evening out.",
+        "People were looking around and at their watches. I think most of us were wondering what was going on as the staff hung out at the back of the room, giving no explanation as to what was happening.",
+        "The show began and then the servers started coming around taking orders. Disrupting to the show to say the least. Then food arrived. It was extremely difficult to enjoy the show when your back is facing the stage because you're trying to eat your meal while it's hot. That is, if you didn't get pulled away from your mediocre meal to go up on stage.",
+        "The show itself wasn't bad. James Alan had some interesting stuff to share, but I would say he was better than his so-called amazing guest, who left us with what seemed like an unfinished show.",
+        "I like to give businesses a chance to work out the kinks, but this one had so many and didn't seem to appreciate the good money that people spent to come to their show. ",
+        "This concept of dinner theatre certainly had great potential to do amazing things because everyone loves magic, but I'm not sure they'll be able to reclaim themselves from the bad reputation they are creating."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2016 • Couples"
+    },
+    {
+      "title": "Magic and comedy is a good mix!",
+      "text": [
+        "I have heard about James Alan's magic Caberet in Toronto from many colleagues in the magic circle for sometime, and finally got around to attend the show on Chinese New Year's as I wanted something different to help me ring in the Year of the Monkey other than the traditional dumpling feast with lion dances... When I first arrived, the entrance to the place had an underwhelming effect to the point that I almost doubted if I came to the right place. But after walking through a narrow hall way adorned with some random furniture in the style of an unattended storage room, I was pleasantly surprised to discover a cosy little space set up with small tables lit by candle light and a modest size stage with a vaudevillesque speak-easy vibe. The waitress had an attractive smile and personality that might have caused my date to feel a bit of jealousy and the house wine was served with such efficiency that by the time the show began, I was already smiling at everything. James Alan was dressed in a suit and tie and spoke eloquently and seriously about the subject of lunacy to some very well designed comical effect. His opening trick involving a hundred dollar bet with a random member of the audience who he claimed was psychic was very smoothly executed. The coin routine which followed was well paced and demonstrated some crafty sleight of hand, then he introduced Chris Westfall to the stage and the show suddenly shifted gear from elegant and mysterious to intensely comically surreal! Chris Westfall did not wear a suit and a tie, his jeans and sneakers plus baseball cap worn backwards communicated a sense of casual hip to the crowd that contrasted sharply to James Alan's business formal persona. Chris' nonchalant delivery and off beat jokes brought a good amount of laughter to the room, after a series of tricks that packed a good bundle of humour, he proceeded to destroy my sense of logic with a routine involving 7 random audience members on stage and a prediction held by a blind-folded volunteer. It was the most baffling card trick I've seen this year... Being the year of the Monkey, which symbolizes intelligence and innovation, I'm very happy to have begun my lunar new year with such a magical experience.",
+        "I will not comment on the food in detail as my dining experience was completely overwhelmed by the magic show, but if I had to give a score from 1-10 on the evening, I would give it an \"8\", with 6.6 points going to the magic and the remaining going to the chef after allocating 1 point to the wine. ",
+        "The wait staff was very pleasant and good natured as well as both the performers were very friendly and easy going and I was able to take a picture with them after the show to capture the memory of the most baffling card trick of the night which kept me up all night!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2016 • Couples"
+    },
+    {
+      "title": "Do not go to this show!",
+      "text": [
+        "The venue was \"under construction\" and the washroom facilities were not clean or functioning. ",
+        "The dining area smelled like sewage and wet carpets when we walked in and the kitchen was not fully functional - they were bringing in stacks of plates from another site.",
+        "We were sitting on folding chairs, at tables with red rags as tablecloths.",
+        "Our wine glasses were dirty - very spotty. The waitress brought us new glasses but they were also dirty.",
+        "The event, at time of purchase, advertised a 3 course meal, but we were only served two courses, and no dessert.",
+        "The magic was mediocre at best - way too many card tricks and unwilling volunteers - probably because they were so uncomfortable with the venue. The magician was not good. He was off his game and very odd."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2016 • Friends"
+    },
+    {
+      "title": "Do not go to this show ! ",
+      "text": [
+        "My sister-in-law bought the family tickets to this show as a Christmas gift. We were looking forward to it because she is a prominent figure in Toronto and has very expensive and classy taste in everything. ",
+        "Beforehand, we were advertised the menu would include dessert (THEY DIDN'T EVEN SERVE IT). ",
+        "The venue was a total dump. Bugs crawling everywhere, dirty rags as table cloths, the lighting was too dark to see my food and the venue was apparently \"under renovation\". The kitchen wasn't properly functioning and there was no bar.",
+        "The venue smelled awful and I couldn't get over the fact that we were sitting on folding chairs! Very uncomfortable. You could smell the bathrooms from the dining area so I avoided going to the bathroom altogether. ",
+        "My sister in law was so embarrassed, she asked all of us if we wanted to leave right away. She started to cry, but we stayed for the magic.",
+        "I wish we didn't stay for the \"magic\". A few card tricks and a scarf trick were pretty much all that happened! OH! and the power went out in the middle of the show.",
+        "James Alan was a weirdo and the show might have had redeeming qualities if the venue was CLEAN or even COMFORTABLE.",
+        "I hope she can get her money back. $65 is way over priced."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2016 • Friends"
+    },
+    {
+      "title": "So you want to play with magic?",
+      "text": [
+        "I had the pleasure to attend James Alan's Magic Tonight on several occasions. I was pleasantly surprised to see how different the shows were from one another. Each week has a special guest to keep the content fresh, and Mr. Alan has enough tricks up his sleeves to entertain for hours.",
+        "Doors open at 6:00pm and the show itself starts at about 7:00pm. I recommend arriving early, order a drink and get to know your hosts. The staff is friendly and Mr. Alan himself walks amongst the audience to introduce himself and chat. It did not take long for me to realize that the entire show is run by passion which creates a positive and warm environment.",
+        "Each and every time I was amazed by the talent displayed on stage. From card tricks to mind reading, there is enough material to keep anyone captivated for the duration of the show. Adults and kids alike always seemed to share a glare of excitement and a smile of amusement.",
+        "Although I have not personally purchased a meal yet, it is a great option for this kind of event, making James Alan's Magic Tonight the perfect Sunday night activity for the family."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2016 • Friends"
+    },
+    {
+      "title": "Magic Show and dinner",
+      "text": [
+        "When we arrived it was extremely drafty and they refused to close the outside doors.   If that wasnt enough... as we had our pre dinner drinks a cockroach ran across the table were we sat.  The manager ignored our complaints and no apology was evident.  The food was not well prepared but the second half of the magic show was entertaining.  I would not recommend this place to anyone."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2016 • Family"
+    },
+    {
+      "title": "Great tricks!",
+      "text": [
+        "James is really good at what he does, and has a nice sense of humour to go with it! He involves lots of members from the audience and although you know it's really a trick, he entertains and delivers so well you have no idea how it's done!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Friends"
+    },
+    {
+      "title": "How does he do that?",
+      "text": [
+        "My husband and I went to the Spirit House in Toronto to see the Magic & Martini show.  This is an awesome, intimate setting.  We were amazed at the magic of James and were in constant \"how does he doe that\" mode.  We arrived early as James went around to each table to perform.  He is so personable and great at remembering names.  I cannot wait to go to another show.  I guarantee you will have a great time if you see him!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Couples"
+    },
+    {
+      "title": "Martini and Magic",
+      "text": [
+        "Excellent show. Lots of fun. Very entertaining.  Cool venue with interesting snacks and beverages!  Highly recommend for a great night out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Couples"
+    },
+    {
+      "title": "Great evening of magic.",
+      "text": [
+        "An excellent evening, we saw the show at O'Finns Irish temper Pub, Oakville. ",
+        "The show was held in the separate downstairs area of O'Finns and was set up for around 50 people. The tickets stated dress code, \"jackets and cocktail dresses\". It was really nice to see that the majority of people dressed for the occasion. ",
+        " ",
+        "We arrived early to allow time for a meal before the show, although it wasn't necessary as food and drinks could be ordered all through the show. Food was tasty and arrived quickly. ",
+        "James did go around chatting to people at their tables and doing the odd trick before the show started, probably to suss out his potential volunteers! Mr Alan was an excellent magician and entertainer and left us wondering how did he do that!  Well done."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2017 • Couples"
+    },
+    {
+      "title": "A fun evening of magic, laughs and amazement",
+      "text": [
+        "Be sure to come early as the dapper Mr Alan will perform a short show for you and your guests, at your table. The venue is intimate and everyone has a good view of the main performing area. The main show is 75 minutes and James Alan covers a wide range of magical effects, plenty of audience interaction, lots of humour and some rattling good magic.",
+        "The Spirit House isn't called that for nothing and there's a wide range of unusual drinks and cocktails on the menu, along with a selection of food and nibbles.",
+        "If you are looking for something a little different for your next night out, I highly recommend James Alan's Magic & Martini."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "Great Show",
+      "text": [
+        "I was impressed by the show and am still not sure how some of it was possible. Definitely worth checking out, and I'd even go again! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2016 • Friends"
+    },
+    {
+      "title": "Do you believe in magic?",
+      "text": [
+        "James Alan will make you a believer. I've been to several of his events and each night was fantastic. I was given tickets to his show as a gift and then needed to bring friends to see this guy. It's a top notch show of comedy and magic with new guest performers added to each event. So if you think you can limit yourself to just one show, need to see them all! How do these guys do it?! It's mind blowing! It's a fun night out with friends for food, drinks, magic and laughs. And I've even taken a date...or two. If the person I'm out with turns out to not like magic or this show, then I figure there's no point in continuing with the relationship."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Friends"
+    },
+    {
+      "title": "Such a fun show",
+      "text": [
+        "Was really entertained by the acts and overall was pleasantly surprised as to how much fun it was.",
+        "Would definitely recommend to friends and family."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Couples"
+    },
+    {
+      "title": "Awesome time!!",
+      "text": [
+        "Was totally awesome ! Really enjoyed the night . Totally recommend seeing the show!  If your looking for a date night or wanna just be wowed you really will have a great time ! Thank you for entertaining and wowing us James Allen! ",
+        "Awesome show!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Couples"
+    },
+    {
+      "title": "\"The Real Secret of Magic lies in the Performance.\"  David Copperfield",
+      "text": [
+        "If you are looking for the real secret of \"Magic Tonight\" I would have to say that it IS the performance.  ",
+        "James Alan invites you into his intimate, clever world of awe and wonder. His is simply the most creative form of magic, with-out camera trickery, or \"CGI\", often using the most common of household items, to create the most uncommon of effects.",
+        "His unflappable control of any live audience is really something to behold, and to learn from, and the Magic you will see on any given night will be unforgettable.  James Alan's Magic Tonight allows you to get so up close and personal, that you",
+        "can even be part of the show if you so desire,...or not....,and that is o.k. too!",
+        "Every week James Alan has a different special guest, and there seems to be no end to their repertoire of talents, whether they are Mind Readers, Illusionists or simply some that cannot or will not be labeled easily.  Just know that you will be entertained and you will have fun!  ",
+        "I have seen this show many times and it is the Magic that I keep coming back for. The Wonderful World of \"James Alan's Magic Tonight\",  feeds my imagination, fills me with wonder and brings me just that much closer to  \"The Real Secret of Magic...\" with every performance."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2015 • Couples"
+    },
+    {
+      "title": "OMG....So Bomb!!!!! Love the show",
+      "text": [
+        "This show is really cool, the venue is cute and brings intimacy, really sets the tone of the show. The actual magic is so sick, 2 magicians 2 different kinds of magic, still wondering how any of it is done. The wine bottle coming out of thin year, omg like where do you hide that lol. Defiantly going again, cant wait :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Friends"
+    }
+  ]
+}

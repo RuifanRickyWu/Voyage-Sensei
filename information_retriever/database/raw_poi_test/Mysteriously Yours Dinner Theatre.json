@@ -1,0 +1,383 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Mysteriously Yours Dinner Theatre",
+    "url": "/Attraction_Review-g155019-d600810-Reviews-Mysteriously_Yours_Dinner_Theatre-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "33 Gerrard St W ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5G 1Z4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 120
+    },
+    "openingHours": "Mo-Sa 10:00-18:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/66/74/df/mysteriously-yours.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Dinner Theaters"
+  ],
+  "description": "Come and join the fun! Enjoy a fabulous dinner followed by a hilarious interactive whodunit?! The intrigue begins when you meet some colourful characters. The plot thickens when somebody you've just met... dies! A detective leads the investigation. The suspects are spread throughout the room, sitting right at the tables with you. So, you get to participate and see if you can solve... Whodunit?! Saturday evenings at Chelsea Hotel, downtown. Also available for private, customized events at a location of your choice.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "NOT worth the price!",
+      "text": [
+        "DEFINITELY NOT worth the 280$ I paid. The food was disgusting hotel buffet- with how much they make, they’re better off hiring caterers with real food. The show was pretty good, I expected better, but the jokes made up for awful written script.  I couldn’t enjoy my evening however because all I kept thinking was “for that price I could have had a steak dinner, and still come to the show after. They should rename it “Buffet and a Show”."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "So fun as long as you are not a potato.",
+      "text": [
+        "We had so much fun!  The dinner was good, lots to choose from and enjoy. The show was engaging and the actors are great!  It is so intentionally cheesy and punny (get it)!  Ha, I should be in the show. Honestly I haven’t laughed like that in a while and I think I smiled the whole time. I have to say the duchess and the detective were highlights for me!   Honestly, the only way not to have a great time at this show is if YOU are the problem...don’t be a potato."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "Fun night! ",
+      "text": [
+        "Had a wonderful evening at mysteriously yours dinner and show! The buffet dinner was yummy! However, drinks were quite pricey. The show was entertaining, fun, and kept us laughing all evening. Definitely thought it was worth the money! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "Went to old mill show-disabled",
+      "text": [
+        "Despite our group disabled we were treated fine by  players but not old mill staff.  People in play did their best to accomadote us.  They were limited by old mill."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "First time and will be back \"No Time to Kill\"",
+      "text": [
+        "I have never been to the old stand alone location so I can't comment on previous negative reviews in relation. We attended the last showing of \"No Time to Kill\" at the Chelsea Hotel on Saturday, April 10, 2019 with a group of 10. The table was perfect since each table fits exactly 10 people. ",
+        "The night was a surprise birthday for my boyfriend and I personally loved that this was in the hotel which added to the surprise element for him. Our table was on the edge of the room which didn't cause any issue since the actors walk around engaging everyone in the room. I loved that they never broke characters and would ask questions to get us guessing on clues who was the murderer. ",
+        "The food was good- a lot of people complain about the food choices, but at the end of the day we weren't there for food. Personally, I love anything cards and that's exactly what was delivered. No one else at the table complained about the food and we all went for seconds or thirds. ",
+        "The time absolutely flew by as we mingled and wrote out clues on the note pads. We didn't have a hard time of hearings the actors have conversations at other tables, and if we did , the actors eventually came by our tables and we could ask more questions. I loved that they were able to incorporate my boyfriend into the skit numerous times making him feel even more a part of the night. They also called out numerous people at all tables so everyone gets their moment to \"shine\" in the skit. ",
+        "At the end, everyone who was there for their birthday got to stand up and receive applause which always makes the night special. ",
+        "Overall, great job by the Chelsea Hotel staff and Mysteriously Yours staff/actors you guys all did amazing and brought many laughs and conversations since. We will be back  ",
+        "Thanks to all those at the box-office who helped make this all possible. ",
+        "Helpful hint: buy bulk tickets at once and receive a discount on the ticket price",
+        "Hint 2: be fore-warned that the Chelsea charges HIGH prices for drinks, my Diet-Coke cost $10 and a beer/alcohol costs $12-15"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Good food, good laughs",
+      "text": [
+        "Mysteriously Yours dinner theatre is an evening with dinner and a interactive mystery which is a very entertaining evening with good food and lots of laughs.   The evening starts with a three course meal  and after the meal the mystery begins with a murder.   The actors are within the crowd and interact with the crowd as the mystery is solved.  If you are celebrating a birthday or anniversary you can call ahead and be involved in the show. At the end of the show crowd can guess the murderer.  Lots of fun and laughs for a very enjoyable evening."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Great and hilarious show!",
+      "text": [
+        "We went to celebrate a birthday and had a fabulous time! The food was tasty and the show was super interactive and full of comedy. When you arrive you eat dinner and then the show begins after dinner service. The actors were awesome and funny and included everyone that could into the show as well. Would highly recommend as a dinner outing for anyone!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Interasctive audiwnce participation was great",
+      "text": [
+        "It was the perfect place to take my wife for her birthday. We laughed and laughed at the silliness and predictable humour where nothing was sacred. We had a great time and all celebrants participated in the play to ensure that they were remebered.",
+        "The food was passable or tolerable with all the items on their website being available but not a dining adventure despite the adjectives. Not worth 5 stars on the food, but worth more on the fun side of the evening.They also do not have handicapped access and patrons must walk 2 flights of stairs and one more for each bathroom visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Family night out",
+      "text": [
+        "Fun evening with my son.  Acting was good and very interactive with the crowd.  Food was much better then expected.  "
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2018"
+    },
+    {
+      "title": "Great show",
+      "text": [
+        "if you're looking for some combination of animation and dinner, the Mysteriously Yours dinner is an excellent idea. We enjoyed the \"Murder on the Disoriented Express\" murder mystery and really enjoyed it."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Business"
+    },
+    {
+      "title": "Fun night out with friends",
+      "text": [
+        "While I would usually consider dinner theatres pretty \"cheesy\" I really enjoyed this night out with friends.  The food was enjoyable (the beef was delicious but I found the tomato soup a bit too spicy and by the time it got to me it was cool). The carrot cake was great! ",
+        "The show was humorous in a corny way which I was okay with because I feel like it fits the bill of a dinner theatre.  ",
+        "The drinks were very strong (a plus for some but maybe not for others).  ",
+        "Overall I thought it was well done and we all had a great time!  ",
+        "I would likely go again with family for a special birthday or occasion."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "I think we missed the humour",
+      "text": [
+        "When I looked around the room I saw many people smiling. I heard their laughter, and watched many patrons engage with the \"cheesy\" actors. ",
+        "I didn't really get it. ",
+        "The service was good. Food was just okay.",
+        "I think this would be enjoyable for the 50+ and or the mystery reader crowd. ",
+        "We left at intermission. ",
+        "My average rating should be considered generous. ",
+        "Sorry for the poor review "
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2017"
+    },
+    {
+      "title": "Great Time",
+      "text": [
+        "First time going to a place like this. We all enjoyed the food. Would recommend a children's menu, but our food was excellent. The show with the cast was great and hilarious. Would recommend to others. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Family"
+    },
+    {
+      "title": "Fun for Two or Twenty !",
+      "text": [
+        "My spouse and I travelled to Toronto from Ottawa for New Year's Eve. We had reserved (two weeks earlier) spots for the dinner theatre.  We were seated with four other persons we didn't know (two couples) and had an absolutely grand time of it.  The positives: the food was a mix of very good and excellent.  The Mushroom and Chestnut soup was wonderful - rich, creamy, nutty and served piping hot.  The beef tenderloin was exquisite, melt in your mouth.  The mashed potatoes were a bit dry.  The chicken and pasta was tasty and moist - probably rate it a 4 out of 5.  For dessert I had the toffee pudding and found it delicious.  A foodie might suggest a drizzle of rum over the pudding would have turned it from a 4/5 to a 5/5 dish.  My wife had the smores tart, which was way too sweet for anyone over the age of 6 I'd say.  The pastry was dry and the filling seemed not so fresh - in my view the pudding was the much better dessert.  The alcoholic cocktails the bar had come up with for the evening were excellent and ran the gamut from very sweet to dry to non-alcoholic.  The service was very good - as attentive as they could be given the number of clients.  The actors were spot on, delivering their lines with gusto and excellent timing.  They engaged the audience skillfully, keeping people in their place with wit and well worded directions.  The play was engaging, humourous and made for wonderful entertainment. Highly recommend this as a night out!  That said - a few points to note - double check the day before or day of that your reservations have been properly recorded, especially if you book online as you pay up front.  When we arrived we were not on the seating plan.  Luckily we had brought a printout of our reservation and payment receipt so they seated us right away and there was no issue.  The dance stage is very small too - so as long as you don't mind dancing as though you're in a mosh pit it's fine, but don't expect to be able to swing dance or do any crazy couple routines. Lastly, the only thing that really disappointed was the champagne that was served at midnight.  It tasted like Kool Aid put through a soda stream machine - it was awful, no other word for it. But by then I wasn't feeling much pain anyway  and the rest of the night had been so great that a little bit of bad sparkling wine posed no danger of ruining the night out. All in all a great time!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2016 • Couples"
+    },
+    {
+      "title": "Continuous laughs",
+      "text": [
+        "Had no idea what to expect, but was pleasantly surprised with the humour through out the night. The food was surprisingly good (split the chicken and the beef with the girlfriend) and throughout the night the actors/actresses would come sit at your table, chat and make you laugh.",
+        "They do an excellent job interacting with the crowd and including those who are celebrating a birthday, anniversary or are there for a work venue.",
+        "If you are shy and don't want to laugh this is not the place for you. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2016 • Friends"
+    },
+    {
+      "title": "Harry Potteresque Moment",
+      "text": [
+        "I didn't know what to expect when my wife and I arrived for a Friday night performance of \"Murder by the Books\". You can almost miss the entrance on the west side of Yonge St. Sure, there's a sign and a door squeezed in between, what?, a waxing clinic and medical research office. Where's the theatre? The mystery deepened as we descended a flight of stairs to the reception desk. Down? As the cheery receptionist took our tickets she directed us to the coat check ($2) and requested we fill-out a name tag. As we rounded the corner we found ourselves on a balcony looking down on a large theatre, below street level. I immediately had a flashback to a Harry Potter movie (I don't know, Harry Potter and the Theatre of Mysteries, perhaps) in which they crawl into a small tent only to find themselves in a spacious interior. OK - was this a speakeasy in the 20's (the Roaring 20's - 1920's for the younger crowd - not that I REMEMBER them)? No, the building is too new. Who builds something like this on Yonge street? A mystery. We found our booth, identified by a sign, near the bottom of the stairs at the back of the theatre by the entrance to the kitchen. A good spot for us. Lot's of comings and goings to keep our short attention spans busy. (Really. \"Oh look, that's what we ordered\", \"what's that?\", \"I didn't know they served cocktails\", etc.)  The server was pleasant, informative (they weren't full tonight, but the night before they had a wedding party), accommodating (extra dill sauce for the salmon) and mostly prompt - the wine (Henkel $30+) took 1 or 2 minutes longer to arrive than I thought it should. Maybe I was impatient. I ordered the Chicken Paprikash a la Harry and my wife, surprise, Agatha's Roasted Salmon. Both salmon and chicken were moist and cooked (my wife's beef (so to speak) about seafood). Moderate portions. Tasty. Desserts just ok and not large. The show was fun. The actors visit every table before the start. The small stage is used only briefly. Otherwise the show takes place throughout the theatre. There is a definitive clue as to who the killer is. I missed it. I could blame it on the bottle of wine and two Grand Marniers but it's more likely I went not to solve a mystery but simply to enjoy the dinner and show."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2016 • Couples"
+    },
+    {
+      "title": "Was just alright",
+      "text": [
+        "the service was good, but the food was a joke especially the beef brisket. there was no beef. the mystery show was funny and nice."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2016 • Family"
+    },
+    {
+      "title": "Excellent dinner theater",
+      "text": [
+        "We have been to several other mystery-theater dinners but this one was head and shoulders ahead of the others.  I expected the usual mediocre dinner, but their food was as good as you'd expect in a top-notch restaurant.  The actors seemed to work very well with each other and their handling of unexpected inputs from the audience showed how accomplished they are.  If you want an entertaining evening with good food, then I highly recommend Mysteriously Yours."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016 • Family"
+    },
+    {
+      "title": "You must experience this. Please.",
+      "text": [
+        "This was so out of my norm for things to do but I was pleasantly surprised.   The ombiance the food the the servers the actors. ....all incredible!   I recommend this for everyone.   Please give it a try you will have a wonderful time and an awesome meal."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "Dinner Theatre",
+      "text": [
+        "Nice venue, food was good.  Great atmosphere for a night out.  Had a couples anniversary party here and loved it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Couples"
+    },
+    {
+      "title": "Keep going back",
+      "text": [
+        "I keep going back. Food needs to change though. Service is pretty good. Makes sure you tell them it's a birthday or whatever celebration it is. They'll work it into the show.",
+        "Prices went up and I didn't know that. :-("
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Birthday Fun",
+      "text": [
+        "My family took me here as a surprise for my birthday.  What an absolute blast.   The actors were hilarious and the dinner was great.  It is a really pleasant way to spend some fun times with family and friends.  ",
+        "  The show itself is very impressive.   The interaction with the actors was a unique way to try and solve a crime and they are a lot of fun.    Be prepared to laugh and have a great night out.   I would definitely recommend this for a special night out for birthdays or just a family/friends night out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "go with the flow",
+      "text": [
+        "The food was surprisingly good, although there were long waits between some courses. The show involves a lots of audience participation, so be prepared to get involved and just go with it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "Absolutely awesome ",
+      "text": [
+        "I would highly recommend this theatre as an amazing way to spend an evening.  The food was great, the staff was friendly and the actors were magnificent!  I found them interactive, amusing and very talented.  They got all of the room involved and made the people who had a special event feel very recognized.  My husband had to dance the salsa 😁.   Señor Verde (who we googled and used to act on Degrassi) was the best part of the evening.  He was hilarious.  It was a delicious and entertaining night.  The decor was reflective of the theme of the theatre.  Bathroom was clean.   The only down side is that it is not accessible which is unfortunate.  They did accommodate my family's food allergies and were attentive to our special needs.  I will definitely return and bring friends.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "So much fun",
+      "text": [
+        "We went to Mysteriously Yours Dinner Theatre last night and we had so much fun. The place is great and very nice. First we had a three-course dinner, the food was great (both of us had the salad and chicken). Then the show started, the actors were really funny and they kept interacting with the audience. I highly recommend to try this dinner theatre."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "A fun night out, good food, lots of laughs, makes you think to really solve the murder",
+      "text": [
+        "The food was very good, and the package deal (dinner and show) is reasonable, especially with the $10 discount per person if you have the flyer. Service is good, the wait staff friendly and accommodating. Lots of stairs, no elevator, so getting in and out can be a challenge. Three course meal -- soup or salad; chicken, beef, salmon or vegetarian; choice of desserts. Good size portions, my friend took some home. Coffee and tea included, as was one welcome cocktail -- not sure if that is included with every show or just this one. The actors are hysterical, quick on their feet, and the one liners just keep on coming. The writers must have a blast. Enjoyable evening."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Phenomenal!!!",
+      "text": [
+        "My husband and I went here for our anniversary and it was such a great show. We did the dinner and show package and it was so worth it!! The dinner was amazing, totally exceeded our expectations and the show was down right awesome. Lively performers and captured the audiences attention very well. They even included us as part of the show because we were celebrating our anniversary The whole crowd was laughing. We are SO glad we made this part of our trip. Highly recommended!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Couples"
+    },
+    {
+      "title": "Always a fun night!",
+      "text": [
+        "Been to this venue several times, always have a great time.",
+        "Only complaint is, the bar service is always slow.  Takes a good half hour at least for your first drink and then they don't reask for about 2 hours.  Only ever had two drinks, maybe that is there limit??",
+        "Other than that, great actors, very fun and interactive.",
+        "Highly recommend"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017 • Couples"
+    },
+    {
+      "title": "A Really Great Birthday Dinner And Show",
+      "text": [
+        "My husband took me to see The Final Clue at Mysteriously Yours Dinner Theatre on Saturday, March 18 for my birhday.  We both had a lot of fun there.  For dinner we both ordered the salmon and we really enjoyed it.  He had the salad and said it was great and I had the potato soup.  YUM!  For dessert we both had the s'mores tart.  It was good but a little bit dry.  I think it might have been nicer if it was warmed up and the chocolate and marshmallow were a bit gooey like an actual s'more. ",
+        "The play itself was so much fun.  The actors walked around the room to introduce themselves and talk to us and tell us some of the story or what they had found and where.  It's like the kids game clue.  You even get score cards and pencils to try to work out who did it, where and with what.  At the very end you get a ballot and they draw names to see who will win a prize.",
+        "There is a parking lot nearby that you can use.  The cost was $7.00 and then you just walk two blocks to the theatre.  You should note that there are many steps in the theatre."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Fantastic mystery night",
+      "text": [
+        "We went to celebrate my wife's birthday and it did not disappoint.  Featured great food, friendly service, and a fantastic mystery show that was a hoot.  Great for couples, family and corporate event planning.  Actors and actresses were very funny."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Great food great show",
+      "text": [
+        "Made our 4th trip to Mysteriously Yours and they didn’t disappoint.  Food was delicious.   Started with Pear/Parsnip soup followed by maple glazed salmon over wild rice and parsnip purée and rounded out with strawberry shortcake for dessert.   Fantastic!   Then the show.  Comedy from start to finish as the murder “ooooo” mystery unfolded.   If you are looking for something to do in downtown Toronto you gotta make a trip to Mysteriously Yours on Yonge street.  I know we will definitely be back again.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Couples"
+    },
+    {
+      "title": "A romping good time !!",
+      "text": [
+        "I went by myself to the dinner and the show. The customer service/box office person (Nicole)  was great sending me an email to make sure I wasn’t with a group for the seating arrangements !!",
+        "The meal was very good and the waiter was wonderful! We had an actor sitting at our table during the show which was fun. The jokes were non-stop and ad-libbing was a mark of the capable actors !! ",
+        "It was fun and a nice evening. Well organized with all guests wearing name tags and the actors mingling prior to the show giving “clues”.",
+        "I met some nice people at my table and had a good time. The name tags made it easy to meet people sitting at your table and for the actors of course ! I would recommend this for a few hours if you like live theatre that is interactive !! Bravo actors, bravo!! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Solo"
+    },
+    {
+      "title": "Good value evening of entertainment",
+      "text": [
+        "We have been several times and have always enjoyed the food and entertainment.  We had a large table so every item of food ended up getting ordered.  Every item was quite good.  The production had many laughs and was quite well done.  It is a good venue to bring a bunch of friends for an evening out.  Plus the price is quite modest for the quality of food and entertainment."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018 • Friends"
+    },
+    {
+      "title": "Been 4 Times and Will Go Again!",
+      "text": [
+        "Fun for all ages. The cast is great, show is interactive and the food is delicious. No complaints here. Even chose one of their shows for my birthday celebration and reluctantly (JK...you don't have to. They ask if you are celebrating anything and you can chose to be acknowledged, or not) participated in the show. Love the guess work of the whodunnit and always a fun night out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Family"
+    },
+    {
+      "title": "A great evening out",
+      "text": [
+        "This was quite a unique experience for our staff outing.  This business provides a very tasteful meal with something for everyone.  The meal service was prompt and mindful of dietary restrictions.  The chef delivered excellent portions with tremendous flavor and superb presentation.  The entertainment was well done and very interactive.  This was an anniversary event for our staff but unfortunately it was not integrated into the show as we had hoped it would be, so if you are celebrating anything, despite what you may be told, don't expect your event to become part of the show.  The improv is good and actors were hilarious at times making the show a non-stop work of mystery and intrigue.   We certainly recommend this show and would return again. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018"
+    },
+    {
+      "title": "Entertaining evening!",
+      "text": [
+        "I took my husband and 2 teenagers to the dinner theatre as a surprise to celebrate my husband's birthday.  We also ate dinner there prior to the show.  The food itself was pretty good - certainly not fancy but it tasted homemade and was fairly tasty.  They provided some gluten-free options, which was important to me.  The show itself was very entertaining.  The actors did a fabulous job working with the material that the audience gave them.  They were all so great at thinking on their feet.  The theme of the show was characters in the 80's - the references and jokes were great and although lots of them were lost on my teenaged kids, they enjoyed the show and found the actors very amusing.  A fun night out!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2018 • Family"
+    },
+    {
+      "title": "Great dinner and show",
+      "text": [
+        "Absolutely great experience. First time visit but not the last. A must visit whenever in Toronto. Will definitely be talking about this for a long time. The dinner was fantastic and the show was so much fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Family"
+    },
+    {
+      "title": "AMAZING! ",
+      "text": [
+        "AMAZING! I just had so much fun! I’ve done everything there is to do in Toronto. This was on the list, and it was a great. The actors were great. The food was way better than expected, and the evening was splendid!  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Couples"
+    },
+    {
+      "title": "New Years Eve",
+      "text": [
+        "I attended New Years Eve and for $175 per person, i at least expected a decent meal.  We had a table reserved for 6 people.  3 of us had the crusted bassa (cheapest fish you can buy) and the other 3 had the chicken supreme.  The fish was awful, it was served cold and the crust was overwhelming, way too much of it.  The chicken supreme, looked more like a chicken wing with mashed potatoes.  Was not worth the money at all.  Very disappointed - they should have made more of an effort.  Store bought costco cookies for dessert - really? Bread was cold. ",
+        "I attended for a corporate event in December and paid $60 a person and the food was better.  I had the salmon and it was quite good.  Would not recommend for New Years not worth the money. ",
+        "."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2018 • Friends"
+    },
+    {
+      "title": "Dated and dreadful ",
+      "text": [
+        "The decor is incredibly dated. Food was terrible: soup was way too salty, beef was very dry and tasteless and salty as well. Chocolate bread pudding was bland and tasteless too. service was absolutely terrible! Our food was brought in so late that many people were finishing dessert when we finally got the appetizers. They ran out of salad! So we were forced to choose a soup instead. The waiter never apologized for the delay. ",
+        "The show was pretty lame. Totally not worth the money! Would never go back. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2017 • Friends"
+    }
+  ]
+}

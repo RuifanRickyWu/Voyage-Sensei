@@ -1,0 +1,234 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Pearson Airport Taxi",
+    "url": "/Attraction_Review-g155019-d13565278-Reviews-Toronto_Pearson_Airport_Taxi-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "8 Charlotte St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 0K4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 26
+    },
+    "openingHours": "Mo-Su 00:00-23:59",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/0c/41/98/toronto-pearson-airport.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Taxis & Shuttles"
+  ],
+  "description": "Toronto Pearson airport has 100s of Taxi & Limo companies, If you are searching for reliable, On Time, and professional Transportation service, you are on the right web site. It is very difficult to choose one from the list. There are several companies offering many incentives to be your favorite but Don't go for these so called pearson airport Taxi & limo. Instead look for a proper black cab",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Cheaper to get a Uber than a Taxi",
+      "text": [
+        "We did some research before arriving at Toronto Pearson Airport as we needed to get from there to Downtown Toronto (Peter Street).  On arrival we booked an Uber which was $45 (Canadian) - they pick you up from an allocated area, just follow the signs in the airport (it’s very clear). A taxi would have cost around $74 (Canadian) with a 15%tip.  You do need the Uber app on your phone to use this service but it’s pretty straightforward. There’s free Wi-Fi at the airport which enables you to use the app (we always turn off data roaming before we board the plane to avoid high data costs).  If you are on a tight budget or just want to save money then using Uber is a good option. There is an Express Bus from the Airport to Downtown (terminates near Union Station) which is very good value. It really depends how many of you are travelling and how far away your accommodation is from Union Station."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Driver",
+      "text": [
+        "Driver was very courteous and knowledgeable. On time. The ride was over priced, and driver explained that it is due airport fees"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2023 • Couples"
+    },
+    {
+      "title": "Discrepancy in flat rates 😡",
+      "text": [
+        "I am a regular traveler who took an airport taxi to my home last week. Yesterday I got into another one doing the exact same trip and they increased the price by $40 (flat rate I asked for at the beginning of the trip). The driver argued with me when I brought up the discrepancy. Unfortunately an Uber wasn’t available so I was swindled with no other option to get home late at night. Young girls beware, I feel take advantage of. Not to mention the car had many service lights flashing and was making weird noises.  I learned my lesson and will pre-book an Uber from now on."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2023 • Solo"
+    },
+    {
+      "title": "Great guy I'm really enjoyed",
+      "text": [
+        "I really have to appreciate the kindness of the driver who took me home. He was really respectful, polite and on the line.Thank you.Definitely recommend for this guy!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Business"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "Very satisfied with them. Booked a taxi for me and my fiancee and the driver arrived on time and for affordable price. Driver was friendly and very polite which I appreciate. Thanks"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Business"
+    },
+    {
+      "title": "NOT for families with young children",
+      "text": [
+        "If you are a single traveller, and don't care about this business' ethics, base your use of this company on other reviews. If you have a family with young children and want them in car seats (which this company says they do for a fee), please book elsewhere. ",
+        "I made arrangements with his company to have a taxi with two child seats ready to pick up my family at Pearson a few days ago. Not only did I reserve online and follow up regarding the car seats by email (with a positive reply), I also followed up by calling and speaking to someone. He said that yes they have a driver with two car seats and no I don't have to do anything else to confirm the reservation. Sigh of relief.",
+        "When my family got to the airport, there was no taxi under our name. When we called the company again he said there were no cars with carseats available. What?? My two young children and the rest of my family were stranded at the airport. ",
+        "So. I personally will never use this company again on principle, even if I'm travelling alone. But I strongly suggest that anyone travelling with children avoid them - it feels like you've found a solution only to end up with a massive hassle at the end of an already long day."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Horrible scary experience",
+      "text": [
+        "My husband and I had a horrible experience from Toronto Pearson Taxi services. We were getting back from person airport on Saturday April, 16 2022 at around 5:30pm. Taxi driver of Taxi# 610  became verbally abusive when we asked for the cost of the ride. He also threatened us several times to leave us on the highway if we were to ask for the cost again. The taxi driver was obviously angry and was driving erratically, he was cutting other cars off, break checking other cars, at times driving way over speed limit and at times driving way below speed limits. He kept using his phone while driving!",
+        "The driver also refused wear a face mask (please see attached picture). No one should get in a Taxi and fear for their lives the entire way home. I hope you take proper actions against the driver so, he does not put anyone else's lives at risk. We also have a video of his behavior. We are looking forward to hear from you first before taking any further actions"
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2022 • Couples"
+    },
+    {
+      "title": "Long layover",
+      "text": [
+        "The long layover weekend train tickets are excellent. Great trains and a great weekend. Clean and well presented but perhaps could be a bit cleaner. Please be aware that some airport hotels are not that close. Be prepared to get a bus EG castle Loma or Pearson mall. Educated and articulate cosmopolitan staff. Toronto won basketball playoffs while I was there. Short walk from station to CN tower and bay airport."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Business"
+    },
+    {
+      "title": "LIMO SERVICE",
+      "text": [
+        "EXCELLENT AND RECOMMENDED for whoever doesn't want a bad experience in a new city especially when visiting for pleasure."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "Airport Taxi in Toronto",
+      "text": [
+        "My experience was excellent professional service throughout the whole trip. Toronto to Niagara Falls was very affordable and showed all attractions as promised"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Not friendly ",
+      "text": [
+        "Whenever we come back home to Toronto we always get a taxi at the airport and we ask for a flat rate which is about $65 to where we live. Whenever we get the cab and I don’t know if it’s because of the flat rate request, we notice that the driver never engages in conversation with us. It’s dead silence, not ever the radio is on. We always tip about $5 and if the driver would be more engaging then we would tip more. I read on line that you you should tip 15% to 20% of the fare. I didn’t know that but if that’s the case than $5 is all I’m tipping for the rudeness i feel I’m getting. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Toronto limo service",
+      "text": [
+        "used Toronto pearson airport taxi from yyz arranged for a lkarge vehicle because we were 6 people with lots of luggage. Service was prompt on time and had no issues ",
+        "thanks for the amazing experience through out our trip"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Business"
+    },
+    {
+      "title": "I’m really very happy with the service.",
+      "text": [
+        "Visited toronto with some friends in April 2018. Started with toronto Pearson airport taxi from toronto airport used them for quite a few rides. Dipatched was very help full in helping guiding and the drivers were excellent. Would recommend this service. Affordable prices !!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "SHAM operation",
+      "text": [
+        "Terrible service. I booked with Toronto Pearson Airport Taxi and Limo for a 4:00am pick-up on May 17th for a 6:00am departure into the U.S.  At 4:07, no limo had arrived so I called.  The dispatcher was very apologetic and said the driver was late but would arrive in 5 minutes.  No limo arrived.  I called again and the dispatch of an unknown taxi company answered.  Toronto Pearson Airport Taxi and Limo had forwarded my call directly to another taxi company.  The unknown dispatcher knew nothing about this and told me that \"just one minute ago I received an order for your address.\"  Unfortunately, they did not have a van for me.  We had to make alternate arrange.  This is a warning to all that Toronto Pearson Airport Taxi and Limo (xxx-9321) is NOT reliable. I will not use them again."
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "Pearson Airport Limo",
+      "text": [
+        "Booked the service for a large group of people for an company event going all the way to niagara falls from pearson Airport. have to say the service was uptown my expectations and everything went according to the plan. Thanks khan for your help will use it again for our next event."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Business"
+    },
+    {
+      "title": "Impressive service",
+      "text": [
+        "Impressive service - clean and new vehicle, very friendly and knowledgeable driver, arrived in time, advise on the route...reasonable price."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Toronto airport taxi",
+      "text": [
+        "I was told your driver would be waiting and tracking the flight and I was thinking this company may charge extra for delays and customs times but the driver waited over one hour and they dint charge extra. Excellent driver and service over all."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Business"
+    },
+    {
+      "title": "Good service",
+      "text": [
+        "We booked a car from toronto airport as it was our first time in toronto we asked for car seats for our and were not sure if the driver will show up for a late night pick up with 2 car seats but all went very smooth !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "Best toronto airport taxi",
+      "text": [
+        "This is the best taxi car service I got in toronto the stayed with me for whole day very polite and help full. Made my meetings very easy for me."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Business"
+    },
+    {
+      "title": "A horrible experience ... No Show",
+      "text": [
+        "My Husband book this service 2 weeks in advance of our trip, Feb 5 2019  for a  2: 30 am pick up.We then re-confirmed our booking the day prior to our trip and were told everything was confirmed and we would receive a phone call. prior to his arrival.  No phone call and NO PICK UP  . We waited for 40 minutes after booked time THEY NEVER CALLED and NEVER SHOWED UP !!!!! We tried to call and no answer.  Thank goodness for Orangeville Taxi who reacted quickly and got a driver to take us to the airport..  Do NOT use this service... totally unreliable"
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "excellent service",
+      "text": [
+        "i would like to recommend this company to all passengers. our experience was amazing. driver was well dressed and polite"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Couples"
+    },
+    {
+      "title": "Avoid this company!!",
+      "text": [
+        "Don’t use this company. I called a taxi at a hotel to go to a condo in Mississauga. Few websites said the fare is below $40. The car didn’t have a meter and tried to charge me more than $25. The driver lied that it’s becsuse in GTA or his car was a limo( it was just a sedan). I regret I believed the google reviews made by themselves and didn’t call Uber."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "Excellent ride",
+      "text": [
+        "I booked my car one day before and was not sure and was nervous as it was a early morning pick up. But everything went well drover was very nice helped with luggge as well and he showed up in a Cadillac sedan for a $60 ride in a luxury car was excellent"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Business"
+    },
+    {
+      "title": "Don't get duped by taxi drivers inside the terminal at Toronto Pearson Airport",
+      "text": [
+        "We arrived at 9pm in Toronto and were tired and looking for a taxi. We saw signs that were leading us to Gate D for a taxi. Tried to get help from the \"Customer Service/Information\" counter but the staff were impolite and most unhelpful. Walking toward the gate, a man approached us closer to Gate D. Very friendly and said he could get us a taxi to our hotel. I asked the price and he told us it was a flat rate, not too much to Downtown. Well, like idiots we trusted him because we heard that taxis from the airport have to charge a flat rate, but we were not sure how much. He took us outside via the elevator in the terminal. Then brought a car around and told us it was CAD 74 plus tax. We assumed this was reasonable. When we got to the hotel, he took out his eftpos machine and swiped our card and said it would be CAD 89 with taxes. This still seemed Okay. Then came the tip he punched in and when we looked at our receipt it was CAD 118. We were at the hotel reception, tired and shocked at the cost of a taxi and then the manager advised us that the rate should not be more than CAD 60 to or from the airport. So beware! Learn from our mistake and do not use taxi drivers soliciting business from inside the airport terminal. Go out to the taxi rank and they have to charge you the flat fare, we are told. Toronto!! Not a good first impression."
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Terrible service",
+      "text": [
+        "I booked a taxi drive to airport a day ahead and they never showed up so I  called back to find out what happened they have forwarded my number to a different taxi company who thankfully found me a taxi otherwise I would have missed my plane. This company is not trustworthy and never ever depend on them for booking taxi service."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2018 • Family"
+    }
+  ]
+}

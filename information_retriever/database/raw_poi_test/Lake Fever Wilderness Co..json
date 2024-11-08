@@ -1,0 +1,311 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Lake Fever Wilderness Co.",
+    "url": "/Attraction_Review-g155019-d17591963-Reviews-Lake_Fever_Wilderness_Co-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dundas St.",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6R 1X3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 32
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/93/f4/06/caption.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Multi-day Tours",
+    "Boat Tours",
+    "Hiking & Camping Tours",
+    "Private Tours",
+    "Nature & Wildlife Tours",
+    "Kayaking & Canoeing",
+    "Day Trips"
+  ],
+  "description": "Lake Fever is your provider for affordable all-inclusive eco camping trips. Tour your choice of Ontario's most picturesque parks with an experienced local guide who brings years of camping know-how to your overnight group adventure beginning in Toronto.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Algonquin 3-day adventure",
+      "text": [
+        "Damian was awesome. Totally prepared and easy to deal with. ",
+        "Would recommend to tourists and locals alike."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Amazing time and highly recommended",
+      "text": [
+        "My 11-year-old son & I did the \"Moose on the Loose\" trip in late July and it was a brilliant trip; a good mix of hiking, activities and relaxation.",
+        "This was part of a longer trip around Canada and it was so nice not to have to think about what to do, where to stay and how to get there for a few days…as it’s all taken care of!",
+        "The best thing about the trip was Damian – our tour guide. His approach was friendly, informative and laid-back.  He was particularly great with my son; answering all his questions and chatting to him when he sat up front in the bus.  ",
+        "Amazing time and highly recommended"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Excellent trip",
+      "text": [
+        "A great experience in the northern Ontario nature with plenty of well organized fun out door activities. Nice and responsible tour guide, recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Family"
+    },
+    {
+      "title": "A unique and fun experience",
+      "text": [
+        "The trip to Algonquin Park with Damian was very fun and pleasant. Damian is the nicest guy you can imagine with tons of amazing stories that he shares over a campfire. He is very knowledgable and prepared and never have we felt uncomfortable or unsafe. I highly recomend it, especially if you are not from canada, it truly is a unique experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Awesome 3 day sample of Algonquin park",
+      "text": [
+        "I did the 3 day camping tour to Algonquin park with Damian and 4 other travelers and had a blast.",
+        "I found Damian to have a amiable personality and a knowledgable guide on this tour. We did everything that one could ask for on a 3 day camping trip:  hiking, campfire with s'mores, lake swimming, night sky viewing, canoeing... Every morning we woke to a hearty vegetarian breakfast, and I really appreciated the savory dinners that were cooked both evenings on the campsite. ",
+        "Damien gave us all a tutorial how to set up camp, and took precautions to prevent wildlife from entering our site at night. There was ample free time when we were at the camp grounds to roam around and do what whatever we wanted. ",
+        "If you are looking to go to Algonquin park and want everything including meals taken care of for you, plus the chance to meet new people, then I would highly recommend doing this camping trip with Damian."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Must visit at-least once in your lifetime!",
+      "text": [
+        "The trip was just amazing! Damian our tour guide is as wonderful and spontaneous. He spent time with us like a friend and the people in our group were amazing as well! Elora is beautiful and the tubing experience is one of a kind. You MUST do it twice to have a full experience! Highly recommend this trip for all adventure seekers out there! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "A once in a life time experience",
+      "text": [
+        "For a family that never camped before, that was a true adventure. Our guide was amazing. The well-planned trip gave us the opportunity to explore breath-taking destinations, experience a true thunderstorm, sleep in tents for the first time and really bond as a family. ",
+        "Our guide supported us all the way and was keen to make the hick in difficult terrains that we have never experienced before as easy as possible for me and my husband. He was well prepared and maintained an eco-friendly trip with proper recycling. He was also aware of all the needed practices during Covid times.",
+        "The group was so friendly with an easy-going attitude that made our time together a true blessing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Fun camping trip with Lake Fever Wilderness Tours",
+      "text": [
+        "Fun and well organized camping trip to Elora Gorge. Damien was a very good tour guide for us and took care of everything very nicely. It was also very well organized and he was very patient and helpful while  answering questions. We would recommend Damien and Lake Fever wilderness tours anytime!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Family"
+    },
+    {
+      "title": "White water camping at elora gorge",
+      "text": [
+        "We had a great camping  trip with Damien. It was first time camping for me and Damien made sure we were very comfortable and every thing was  organized and friendly  and timing was well utilized . We had lots of fun and hope to do a trip again with lake fever wilderness tours !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021 • Family"
+    },
+    {
+      "title": "My Trip to Algonquin",
+      "text": [
+        "Our trip with Damian Jakibchuk tour was fantastic, right size group and activity.  The logistic onsite and food cooked by our host was very good.  We will do this again soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Lake Fever Wilderness Company",
+      "text": [
+        "I was quite pleased with the  excursion that was arranged for me on June 15,2019 to Algonquin Park by  Lake Fever Wilderness Company. They looked after all  the details including transportation, food,camping equipment etc. I just had to  show up. The ride up and back was comfortable and relaxing. While there we had some fun and interesting activities including an innovative logging museum tour,canoe excursion and hiking that even I could do in my 70s. I would certainly go back again and it was well worth the cost. ",
+        "Jerry"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "Beautiful nature on a well-organized camping trip",
+      "text": [
+        "I have never experienced such an easy weekend camping trip to get away.  My meals were made for me, equipment was brought for me, and the coolest parts of Algonquin Park were found ahead of time and organized into the trip.  I just had to bring my camera, snacks, and a bag of my personals.  Great memories with great people!  The guide/organizer, Damian, was very well organized and a very personable guy.  A well spent weekend to get away from it all."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Great weekend",
+      "text": [
+        "Great weekend! Damien is a friendly and welcoming guide. He took care of everything and was well prepared. The food was very good, lot of options for lunch and breakfast. Would have prefered to have lunch on saturday in algonquin instead of the restaurant and have more time for a hike. However it was still nice. If youre going at the end of the season, make sure to bring lots of warm clothing because it was very cold during the night!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Algonquin Park Camping",
+      "text": [
+        "We booked this trip for 2 days and it was great!",
+        "You don't need to think about anything, so it is good if you don't have anything for camping. You just have to arrive and that's pretty much it. Everything's taken care of, including the food.",
+        "We did a 2 hour hike with a beautiful view! Damian is very organized and puts in a lot of effort. ",
+        "Would definitely recommend the trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Great!",
+      "text": [
+        "It was a well-organized trip. Damian was very friendly and did a fantastic job ! A well- worth package ! Would recommend it to others. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Algonquin camping",
+      "text": [
+        "Booked this trip after being a little nervous about it, because I’m not really a camping type. But the whole experience was so worth it! We had a small group with 4 people. Damian prepared everything so good and he had everything packed in his little trailer. He was a very nice and friendly tour guide. He took care of everything. We did 2 nice hikes, which are fine for people that are not that active (like me). The views were amazing. The weather was not that good but it didn’t stop us from doing a hike. Make sure you bring a raincoat and bug spray. We had a campfire with s’mores at night and slept in our tent. We also went kayaking on a big lake. You can choose between kayaking or canoeing. Definitely recommend this tour to go out of your comfort zone like me. ",
+        "Thank you so much again Damian, it was a once in a lifetime experience for me. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Nice beach",
+      "text": [
+        "An excellent site for a family trip. Very clean and large shoreline. I’ve been many other beaches around southern Ontario but only this one water wasn’t too cold for fun and swimming."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Family"
+    },
+    {
+      "title": "Perfect weekend away from the city",
+      "text": [
+        "We booked this trip 3 days before going, and it was perfect.",
+        "All you need is you, your camera and your stuff. Damian is taking care of everything, so it is perfect if you don't have all the camping stuff. Moreover, the price includes the trip from Toronto and it is very convenient if you don't want to rent a car, paid the parking and drive. The value for money is the best of all the excursions I have seen.",
+        "During this weekend you can swim in the lake, enjoy a campfire with S'mores, hiking, and canoeing all of this with an amazing view of Algonquin Park. However, be careful with mosquitoes! I have been bite on all my body, don't forget to cover you and take a spray (especially during the hiking)",
+        "I highly recommend this tour, thank you so much, Damian, for your kindness and this amazing experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "An amazing weekend in Algonquin park",
+      "text": [
+        "It was our first time in Algonquin Park and Damian has prepared an amazing weekend ! You'll have everything you need for the weekend. You don't have to worried about anything, Damian takes care of everything. You just have to come and enjoy ! I highly recommend this tour ! ",
+        "Nature in Algonquin is wonderful ! ",
+        "(watch out for mosquitoes)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Father's day getaway",
+      "text": [
+        "I booked a tour to Algoquin for Father's day weekend and brought my dad. It was a super chill weekend with picturesque views and fun hikes. The tour was stress free - we brought snacks for the ride, but otherwise our meals were prepared by the host and our gear was all provided. We camped next to a beautiful lake, played bocce ball and played cards in the slow times. We went for hikes, checked out the logging museum and did some canoeing. We didn't have to bring a car, worry about packing things or bringing enough food. Everything was taken care of by our host/guide Damian. Super chill weekend without stress of packing/unpacking gear. I just showed up with my clothes, some snacks and sunscreen/bug-spray. I plan to book again! Thanks for a great father's day weekend from me and my dad!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Great trip for camping newbies!",
+      "text": [
+        "I took my family out to Sandbanks with Lake Fever as soon as we started getting good weather in Toronto. Our guide was fantastic, very friendly! My kids are young, and didn't know much about camping, but he explained things at a level that worked for everyone. We had plenty of time to ourselves as a family, but the itinerary was also definitely ideal to do things like canoeing. Would certainly recommend to friends, especially if you don't have a big car and lots of your own equipment. Time saver, big time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Fantastic Getaway",
+      "text": [
+        "The trip was an amazing escape from the city at an extremely reasonable price. The canoeing was peaceful and relaxing. The Booth’s Rock Trail had an increadible view. I strongly recommend this tour to everyone!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "Comfortable and fun!",
+      "text": [
+        "River tubing was the highlight. The guide was super laid back and created a very fun environment. Great equipment, meals and transportation! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2021"
+    },
+    {
+      "title": "Excellent trip to Sandbanks Provincial Park",
+      "text": [
+        "Our guide, Damien, was awesome. Responsive to lots of queries in advance of the trip, accommodating, and went out of his way to tailor the trip to meet our specific needs. The kids enjoyed his company alot, and he took great pictures with his water proof camera! His organisation was spot on, and took out all the work out of a camping trip. The kids LOVED the smores which he helped them make on the campfire. All the activities were quite balanced and well thought out, with a trip to the Big Apple, a winery, canoeing, beach time and hiking. Thanks so much , and i look forward to our next trip with Lae Fever Wilderness. The provincial park itself is gorgeous."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2021 • Family"
+    },
+    {
+      "title": "The Best Sandbanks Camping Family Adventure!",
+      "text": [
+        "So glad we opted to go with Damian! He had thought this one really through and arranged every detail of the trip so well. Damian had a immensely well stocked trailer, he gave us bite sized learnings every step of the way from how to set up camp, making & enjoying smores, how to be mindful to mother nature, kayaking 101 and so much more. I am so glad we went with Damian, he was so mindful to our needs from bringing Halal meat options with him to being flexible to the needs of the group and different ages of the team. We were served freshly cooked food with tons of options at every meal and were able to do mutilple activities from hiking, trails, swimming, kayaking and more. highly recommend and money well spent!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2021 • Family"
+    },
+    {
+      "title": "Relaxing Trip",
+      "text": [
+        "Nice and relaxing trip that I enjoyed immensely. I have done 3 trips with Lake Fever Wilderness Co. and every trip has been a mesmerizing experience with different groups of people, but with one similarity, that is these travel experiences helped me just get away from the city life and spend some time in solitude with nature and one's self. And the guide and creator of  Lake Fever Wilderness Co. is a wonderful person with knowledge of the area around, that makes the trip easy going and you can just sit back and relax while enjoying the views. Lovely Adventures !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "Fun times",
+      "text": [
+        "Their was so much to love about this camping trip at the Sand Banks. We had s'mores, went on hikes, had wine testing, visited The Big Apple, explored the sand dunes and went to the beach. ",
+        "Damian was a very friendly and knowledgeable tour guide and I would definitely go on another camping trip with him as the guide. Their was even a returning customer. One of the people on the camping trip had been on a camping trip though Lave Fever before with Damian as her tour guide and she came back for another trip. ",
+        "I definitely had a great time on this camping trip and I already asked if their will be a camping trip in Algonquin Park next year. There will be, and I'm definitely looking forward to that! Would definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "Great Adventure!!",
+      "text": [
+        "Lake Fever (Damian) runs a great show! All you need to do is show up and he takes care of everything - transport, accommodation, food, hikes, canoe reservation. For someone who loves the outdoors and camping but don’t have any of the equipment, can’t recommend Moose on the Loose tour highly enough!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020 • Solo"
+    },
+    {
+      "title": "Back again with Lake Fever Wilderness Co.",
+      "text": [
+        "We were so impressed with Lake Fever Wilderness Co. after our 3 day camping trip to Algonquin (Blue Heaven) that my wife and I booked a second camping trip with them.  This time around we did \"Moose on the Loose\"  This 4 days 3 night camping took us to three different locations.  Algonquin, Six Mile Lake and the Bruce Peninsula National Park.  What a great camping experience.  Every detail was taken care off by our great guide Damian. Food, Tents, walking trails, canoes, glass boat ride in Tobermory, etc.  If you like the outdoors this is definitely the way to experience camping in a very civilized way. We will be back !!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2020 • Family"
+    },
+    {
+      "title": "Great Camping Adventure!!",
+      "text": [
+        "Camping for my wife and myself has always been a great ordeal.  Although we like the experience we always went through the stress of preparing for camping, Food, tents, location, what to do during the day, etc.  Well, we suddenly discover \"Lake Fever Wilderness Co. and our lives changed!!  We can now fully enjoy the camping experience without the hassle.  We booked a three day camping adventure in Algonquin Park with LFW. Everything is taken care off. The drive, the food, the tents, sleeping bags, etc, etc.  Our guide, Damian is an extremely knowledgeable  and friendly individual that is always there to help you you to ensure that you have a wonderful experience.  We did a couple of great trails all pre-arrange. The trials were fantastic but be aware that you need some level of fitness as the first was around 5.5 hours while the second one was only 2 hours.   All in all we would highly recommend the Fever Lake Wilderness Co.  We are already looking for our next Camping adventure with them. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2020 • Family"
+    },
+    {
+      "title": "A well organized Happy Trip",
+      "text": [
+        "My husband and I took the Algonquin Park group adventure. We had no clue how the trip will turn out as It is quite far from Toronto. But to our surprise it was awesome and we enjoyed everything. Damian is very kind and takes care of everything as described in the Itinerary."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Family"
+    },
+    {
+      "title": "Worth the trip and best guide you can ever have !",
+      "text": [
+        "We booked this trip to see the famous call colors in one of the best places of Ontario. Without doubt this one of the best tours we have ever been here. Damian is a wonderful person and the best guide you can get. All destinations covered during the trip was beautiful. We loved all the activities 100% listed in this trip's itinerary without having to think about the logistics and it suited us perfectly. We loved the food at the camp, trekking was so much fun with Canoe/Kayak experience as well. Definitely recommended any trips organized by Damian. Thank you !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    }
+  ]
+}

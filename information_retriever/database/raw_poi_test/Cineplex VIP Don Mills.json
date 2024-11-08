@@ -1,0 +1,392 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Cineplex VIP Don Mills",
+    "url": "/Attraction_Review-g155019-d7140125-Reviews-Cineplex_VIP_Don_Mills-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 Marie Labatte Rd Unit B7",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M3C 0H9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 58
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/fa/d8/5d/seats.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Movie Theaters"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Lights left on for the entire first hour of the film in order to sell more food/drinks.",
+      "text": [
+        "We were so excited to watch the Taylor Swift Eras Concert at this theatre. We paid 1/3 more just to see it at this theatre and pre-purchased our tickets well in advance. Management LEFT THE LIGHTS FULLY ON for the entire first hour of the film as they wanted to \"extend their food and beverage service\". ",
+        "So for the first solid hour of the concert. the images on the screen were not even clear, and not vibrant at all due to the overhead lights being on. ",
+        "It was filmed to be an immersive experience so that people would feel like they were actually at the concert too. It was impossible to engage with the concert in any meaningful way (much less \"immersively\") in a FULLY LIT ROOM with people and food coming and going constantly. Waitstaff were literally standing right in front of my seat talking loudly, taking extended orders and delivering food and drinks. All the while wearing so much perfume and cologne that it was making us nauseous and ill.",
+        "The manager refused to turn the lights off even when asked and was himself wearing such a ghastly amount of cologne that he made us dizzy for ages whenever he walked by.",
+        "Over an hour into the concert the lights were finally blissfully turned off and we could actually see the film properly for the first time. And it was gorgeous! ",
+        "Unfortunately once we could see the screen properly, it became clear that the sync between audio and video was not right so Taylor's mouth never really matched the words she was singing. Which was disappointing/distracting, but of smaller consequence compared to the lights being left on.",
+        "So our $30 per ticket choice to attend this premium-priced event at the Don Mills Cineplex VIP also cost us the chance to properly enjoy what we had paid for and had been so excited to see. We could have saved $10 per ticket and would have enjoyed it *so much more* in a DARK, regularly priced theatre. Where we could see the whole film in the way it was intended to be seen.",
+        "Everyone we spoke with from the audience afterwards were also very annoyed by the lights being left on for so long. It really killed the whole vibe of the event/evening.",
+        "If they are doing this for all of their movies they will not continue to exist for very long. It was my favourite theatre until tonight. Now I won't be going back. And I still have to buy another ticket to properly see the first hour of the concert somewhere else."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Great place to relax",
+      "text": [
+        "The seats are very comfortable, even though they are quite worn. I appreciated the straightforward in seat service and being able to recline. The theatre needs more accessible parking however. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Expensive but worth the treat",
+      "text": [
+        "Don mills has convenient parking and the movie theatre is comfortable and highly recommended.  Just disappointing when the theatre your movie is in is one with the non fully reclining seats for the same big price."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Couples"
+    },
+    {
+      "title": "Great VIP!!",
+      "text": [
+        "This is one of my favourite Toronto VIP theatres. They only have VIP choices. Seating is excellent reclining big oversized chairs, lots of space between your neighbours, etc. Screens are a good size. There is an elevator and unisex private washroom stalls. Our food order was taken fast but food was a bit slow and my fries were super cold. We ordered 12 chicken tenders and only got 6. They brought us hot fries and extra chicken tenders when we let staff know. Staff were really nice and tried hard to fix the mistakes. We saw Western Star Bruce Springsteen did a lot of sharing, music was amazing lots of strings! We enjoyed it."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "Nice place for Movies shows.",
+      "text": [
+        "Cineplex VIP Don Mills is a good place to watch your movies . i love movies and i virtually spend all my weekend in this place .,"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Movies amped up.",
+      "text": [
+        "Go bigm, or go home, I always say, and so wee always choose VIP for our movies! Don Mills is great because the parking is free. Only two of their theatres have fully reclining seats, which we prefer, but the other theatres are super comfortable as well. Great staff!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Meh",
+      "text": [
+        "I suppose this Theatre is newish and modern ",
+        "Arrived to see A Star is Born and ordered 2 beers and some tacos ",
+        "The beers we carried to our seats and the tacos were delivered by a server They were kind of cold and a bit drippy Sort if a messy drippy taco experience ",
+        "I was not impressed ",
+        "There were these tiny tables between every 1 seats ",
+        "Underwhelming",
+        "The theatre was freezing as well",
+        "Bring a warm sweater "
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Nice theatre",
+      "text": [
+        "I first time trying Cineplex vip",
+        "I usually go to Landmark theatres in Calgary",
+        "The 26.00 charge and the extra up charges for food and drinks did seem a little high",
+        "The movie experience was great but not sure if I would pay double that of landmark for the same reclining chairs"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "My favourite way to see a movie",
+      "text": [
+        "I love the service, the comfortable seating, the privacy of the seating.  It makes any movie an event."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "What a great way to view a movie ",
+      "text": [
+        "Excellent service with a great selection of food drinks and snacks",
+        "The seating is wonderful and worth every cent ",
+        "It’s a nice treat and you should go",
+        "Michael"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Great experience!",
+      "text": [
+        "I never knew how different VIP experience would be at this particular location compared to other locations. From friendly staff to the great food at concession and the theatre itself. Blows me away! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2016 • Couples"
+    },
+    {
+      "title": "Awesome experience. ",
+      "text": [
+        "Really great experience. Comfy chairs, great food, and drinks right to your seat. Affordable too.  Would definitely attend again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Friends"
+    },
+    {
+      "title": "Movie ",
+      "text": [
+        "If you enjoy watching movies I suggest you to visit VIP cinema of cineplex, watching with your favorite dessert , drinks and delicious food. They are always change menu for dessert etc."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2016"
+    },
+    {
+      "title": "Great atmosphere!",
+      "text": [
+        "My husband and I like watching movies in cinemas and I always prefer one of downtown Toronto's places. Now it is extremely impossible with 2 months old baby and the last time when we had a chance, he decided to find something closer to our place. So we went to the late evening show in Cineplex VIP Don Mills. The atmosphere was great - so relaxing! And the seats were very comfortable. Later my husband told me that their menu had just few types of tap beer and food choice was not large, but the apple based desert I had was really good. ",
+        "After I visited the cinema with my friend and it was the greatest girls night out I can remember! We were late so had to order everything in the bar and carry it to the movie room ourselves, but the servant was so nice to bring our order! My friend loved her cocktail and desert! ",
+        "I want to repeat it!!! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016"
+    },
+    {
+      "title": "Fun nights ",
+      "text": [
+        "Fun date night or with the girls ",
+        "Great seats and fun to order if you get there early enough ",
+        "Great location many restaurants in the area "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016 • Couples"
+    },
+    {
+      "title": "AMAZING NIGHT",
+      "text": [
+        "Any VIP cinema is really the same, but on this particular night at this place, our group of 4 were treated like royalty and catered to with an amazing amount of respect. The bathrooms were awesome. The cleanliness was awesome, I can't speak any more highly of this place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "Comfy adults only",
+      "text": [
+        "Saw Ghostbusters here.  Previously, had a $49.00 package for meal and theatre for 2, not this time. But we did eat lunch here with wine and had popcorn delivered to our comfy seats.  Wonderful movie concept!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Couples"
+    },
+    {
+      "title": "Great atmosphere... not so great food...",
+      "text": [
+        "So tonight was the first night that i checked out Cineplex Vip",
+        "and I must say.. I loved the reclining chairs and the whole atmosphere.. however, when it comes to the food I was less than impressed.. I mean I understand it's theatre food and it's not gonna be 5 star food but honestly, my burger was cold.. and barely cooked and my boyfriends wrap was also cold.. I mean how can you screw up a burger?? Having the ability to order food at your seat is pretty cool but PLEASE up your food tastes! I would definitely go again however this time I would just get popcorn and drinks not real food!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2016 • Couples"
+    },
+    {
+      "title": "The only way to see a movie.",
+      "text": [
+        "Once again, nothing beats the whole experience of the VIP cinemas at the Shops at Don Mills. LOVE the theatres with reclining seats, but even the other normal VIP seats are great. I LOVE being able to have food and beverage service to my seat, and to enjoy a glass of decent wine (the list is surprisingly good) while I watch my movie. The whole thing is totally worth the higher price tag."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2016 • Family"
+    },
+    {
+      "title": "A Relaxing Time and Great Food Too!",
+      "text": [
+        "My husband and I decided to eat in the VIP lounge area before our movie. We weren't disappointed. We were both pleasantly surprised by the deep fried calamari. They tasted so fresh, same with the scrumptious Caesar salad that came with the Jalapeño Burger my husband ate. I had the tasty  fish and chips which were delightfully crunchy.  My sister-in-law joined us later and agreed the calamaris were one of the best we've ever tasted. Although, she didn't enjoy her ceviche appetizer.  I was happy to take my unfinished Chardonnay to the movie theatre and enjoyed drinking it at my leisure. Overall a great relaxing experience for all of us.  Will come back again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2015 • Couples"
+    },
+    {
+      "title": "Love it",
+      "text": [
+        "Love the ambience of this adult only theatre . The reclining wide leathers seats are so comfortable. With the seats reclined it still leaves plenty of room for people to pass. It's more expensive but worth it. Service was very good.  After going to this theatre a few times I no longer enjoy the regular theatres. ",
+        "You can use you Costco movie pass however have to pay an additional fee . Still a good deal. ",
+        "This is located at the Shops of Don mills which is an amazing place to hang out. Lots of restaurants and shops . Sometimes there is entertainment in the little parkette.",
+        "Plenty of free parking."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Pricey but definitely worth it.",
+      "text": [
+        "Came here on a Friday to see Dunkirk. The tickets were a bit expensive but we decided to treat ourselves. This is definitely the way to see a movie. It is an adult only place so no kids were running around. They have a lounge where you can have a drink before the movie. The seats are extremely comfortable and recline very nicely. It was just like watching a movie in your living room. ",
+        "We ordered food (dinner actually) and a drink and were pleasantly surprised at how reasonable the cost was and even more surprised at the good quality of the food.",
+        "We don't go out to the cinema very much anymore however when we do from now on we will be coming to this VIP experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "More than just a movie!",
+      "text": [
+        "Perfect for a date night! Went for the first time last night to see King Arthur. If you've never tried the VIP movie option...start here. Free parking, great VIP service, great venue with roomy seating and the food was good. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017"
+    },
+    {
+      "title": "Adult living ",
+      "text": [
+        "Enjoying an adults movie night, my friend and I had our first VIP movie experience -",
+        "Aside from the comfy reclining seats and wide aisles, we were overly impressed with the menu selection and the ultimate taste of our food/drinks; think Movie's but at the movies.",
+        "Also, the lounge area was very spacious for large groups and service was friendly & quick -"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "Movie Watching Luxury",
+      "text": [
+        "My boyfriend and I have been to this location twice. Both times we have had pretty similar experiences. You arrive to nice comfortable reclining leather seats with tabletops and menus (including items not available at normal Cineplex's and alcohol). Servers will take your order and deliver your food and drinks before the movie. It is a nice little treat for couples or friends to enjoy a movie together while grabbing dinner at the same time. ",
+        "Its unfortunate, though, that last night, when we saw Fate of the Furious for the 11:30pm premiere night showing, they forgot to serve us our order. We paid almost $50 in food and half way through the movie, still no food delivered. My boyfriend had to leave the theatre and miss part of the movie, to ask them where our food was to be told they didn't even made it and the order must have been lost. We eventually got our food and it was good; but it is just unfortunate that for a \"VIP experience\" they forget peoples orders. We were one of three other couples they forgot the orders for. If they were a bit more organized, they'd get a full 5/5 from me. ",
+        "Nevertheless, the food is delicious! My boyfriend had the Pulled Pork Sandwich with fries and I had the California Burger with Salad. The Sweet Citrus Sangria tasted like fruit juice though (barely any wine taste to it) and my friend--who her and her boyfriend also joined us to see the movie last night--said her beer was very watered down. ",
+        "If you can get past these little things though, it is a pretty fun experience, instead of the normal, sticky-floor, uncomfortable chair, stale popcorn, basic Cineplex experiences."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017 • Couples"
+    },
+    {
+      "title": "Special treat",
+      "text": [
+        "It's not often you can go to the cinema have an electric reclining armchair have a waiter come take your drinks order and sip a gin and tonic and watch a huge screen.  I have to say well worth the money and a special treat.  If I'm totally honest I might not have seen all the film....there were a few zzzz involved and hopefully no snoring.  Can highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Couples"
+    },
+    {
+      "title": "Customer Beware!",
+      "text": [
+        "Was given 2 Free Movie passes to see a film at any Cineplex. I went to this location and Manager told me that I had to pay a 7.00 service charge if I wanted to use the pass. Customer beware that this location does not honor free movie passes."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2016 • Solo"
+    },
+    {
+      "title": "A great experience",
+      "text": [
+        "A comfortable lounge and a comfortable cinema ...had a nice glass of wine ..a nice light ",
+        "Meal ..enjoyed the comfortable seating !!!.friendly staff !!..,my only complaint ..the service is rather slow ...the next time I will sit at the bar ..,,"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "My favourite theatre",
+      "text": [
+        "Me and my boyfriend love it here and try to come as much as possible. It's hard going to a regular theatre after coming here. I save up my scene points (2000) to watch movies in this theatre (providing it's a good one) because it's quite expensive. For two people alone it's about $50 for movie tickets and that's not including food or drinks. ",
+        "The reclining chairs are everything -- they're super spacious and there's enough arm room for two people #OmgFINALLY!I like that you get served inside the theatre and that you feel like you're dining. There's also a bar that looks really cool outside the theatre rooms in the lobby area (although I've never actually sat down there to drink). ",
+        "But anyways, to sum up I love coming here but I just wish it was a bit cheaper."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Couples"
+    },
+    {
+      "title": "The best way to watch a movie",
+      "text": [
+        "Definitely worth the extra dollars! The seats were comfortable and reclined. Ordered wine and cheese and popcorn right to our seats.  The service was super fast and friendly. Overall I found the experience to be very organized! The best part? No annoying teenagers! "
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2016 • Couples"
+    },
+    {
+      "title": "VIP",
+      "text": [
+        "Came on a Tuesday so was able to get seats for cheaper pricing (around $15). My husband and I got there just on time, but found out that to use the restaurant service, you have to go earlier and then order so that they can bring the food to you. We got popcorn and a drink from the concession and brought it in ourselves because that was the only option. The leather seats are very comfy, it was 3D, sound was good. However, the tables are a bit small for dining though. The washrooms are very very clean and lounge area looked nice. Overall a good experience."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018"
+    },
+    {
+      "title": "Movie night",
+      "text": [
+        "Great place to see a movie with comfortable seats and great food. Higher price keeps the noise teenagers away."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018 • Couples"
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "Once you go VIP, you will never go back! We love this theatre, because they just serve us so well. Date night, every Wednesday, is our total go-to. Dinner for two and two movies for $77 with tax. Shared appi, two mains, shared dessert..... Great deal! And fully reclining seats in a few of the theatres. SUCH A CIVILIZED EXPERIENCE :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018 • Couples"
+    },
+    {
+      "title": "Great lil theater",
+      "text": [
+        "I went here for the first time last night. It a nice cozy theater, intimate atmosphere. The staff was nice and pleasant.",
+        "Washrooms were nice a clean.Can't go wrong"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Couples"
+    },
+    {
+      "title": "Date night ",
+      "text": [
+        "Been to vip many of times at other locations amd this one was our first visit. We were expecting this place to be alot more elite from the other vip theatres (queensway, markham) given the location and setup of the shops at don mills, yet sadly the theatre was a mess with leftover junk from previous customers. ",
+        "I would probably skip this vip location (coming from a scene card holder and avid movie goer)",
+        "Food as per usual is good though "
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2018 • Couples"
+    },
+    {
+      "title": "Our favourite VIP!",
+      "text": [
+        "We love the Cineplex VIP at Don Mills because of the many theatres with fully reclining seats. The service is awesome, and fast, and the food here is good. Love the wine list, too! Great theatre experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Couples"
+    },
+    {
+      "title": "Relaxing",
+      "text": [
+        "Comfortable chairs and great food/drinks, which makes it very relaxing and enjoyable for watching the movie. However, it is overpriced and the theatre itself is very unorganized with no directions as to where to go after purchasing your ticket. Great experience though. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2017 • Couples"
+    },
+    {
+      "title": "Good food great theatre",
+      "text": [
+        "This is a VIP Theatre. My first time at one of these. I booked my ticket, seat and time on-line through the Scene.ca website.  When I got to the theatre early I went up to the lounge on the second floor and had something to eat and drink.  They have a fully stocked bar with several beers on tap as well as a nice selection of wines.  As well as getting Scene points for the movie, I got more points for eating there.  What I didn't realize that once I got into the cinema showing the film I could order from the servers there a full meal along with wine, beer, soft drink, etc.  The seats are leather recliners with a table that swings around and holder for wine, pop, etc.  Great experience and will do it again.  Pricier than regular theatre pricing but well worth it.  No one under the age of 19 aloud in the place."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Solo"
+    },
+    {
+      "title": "What treat ",
+      "text": [
+        "What a cracking venue....the seats , the atmosphere , the service, certainly a cut above the normal run of the mill cinema.",
+        "Our only criticism was it was the same prices in all theatres even though the upper venues didn't gave the full recliners, apparently  they are only in the lower areas. ",
+        "Worth checking before you book"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "Date Night",
+      "text": [
+        "Husband And I won't go anywhere else to see a movie now.  This location is the closest for us.  Food is great and seats are comfortable. Prefer the full recline, but not all theaters have it.  Great service."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017"
+    }
+  ]
+}

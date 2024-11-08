@@ -1,0 +1,389 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Spa myBlend",
+    "url": "/Attraction_Review-g155019-d5050049-Reviews-Spa_myBlend-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "181 Wellington St W Ritz-Carlton Toronto",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 3G7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 87
+    },
+    "openingHours": [
+      "Mo-Th 08:30-19:00",
+      "Fr-Su 08:30-20:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/4e/00/be/spa-my-blend-by-clarins.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": "A relaxing spa hotel in the heart of downtown Toronto. Prepare for your visit to our luxurious Toronto hotel and spa by reading our frequently asked questions. Alleviate any concerns and put your mind at complete ease by learning more about our spa hotel policies, treatment requirements, check-in details and age requirements. Let our luxury day spa melt away your world concerns as you indulge in our rejuvenating treatments.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "3 star hardware at 5 stars hotel",
+      "text": [
+        "The place is clean and the staff is nice but the lockers are looking old, showers are no set properly; shower-heads  are leaking water; side jets temperature is not adjusting properly. The refreshments are of 3 star hotels and 20 yrs old TV set on the wall."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Too much dough for nothing great.",
+      "text": [
+        "This spa is them same as it was 10. Yrs ago and not worth the extra you pay for a Ritz Carlton name.",
+        "$1,k for the day with 2 body massage and 1 body scrub service, no lunch included, no parking included. Seriously 😒"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Disheartening Birthday Experience...lovely manager... abhorrent manicures",
+      "text": [
+        "I shall begin by mentioning that I adore the lounge at Spa myBlend. I've been coming over the past few years for a Birthday massage as it's conveniently located, spacious, and their lounge area has lavish lounge chairs and cushions where you can relax and order food or beverages. I enjoy the feeling of luxury on my special day. ",
+        "Unfortunately, that is where the luxury of the experience ended this year. This December I went for a joint manicure with my sister, and scheduled my massage afterwards with an hour buffer. It was my sister's first time to have a manicure, and so I thought it would be nice to have our manicures together, relax in the lounge for some food and a beverage before my annual Birthday massage. In fact, we had to upgrade our manicures to $105 each for a \"Signature manicure\" in order to use the lounge and facilities (which I thought was distasteful seeing as we're already paying a large amount). ",
+        "While the facilities and ambiance were nice, unfortunately the manicure was the worst quality I have ever had, full stop. I have had $20 manicures before, and so being at the Ritz, I expected an elevated level of sophistication. However, all my $20 superseded this one. The polish did not go near the edge of my nails, you could see where each layer started, the nail shapes were not consistent, my cuticles were not trimmed, and the nails on my right hand are noticeably longer than my left. With the dim lighting I could not tell how terrible it was until we entered the lounge. I felt quite awkward since I'm not someone that likes to send anything back, and I'm very grateful for the experiences I'm afforded. But my sister turned to me in horror when looking at my nails and helped me realize I should assert myself in this case. I spoke with reception who brought management over. Anna, the manager was lovely. She redid my nails, however there were still some issues with the length, since one hand had already been cut way too short, and the paint layers - you could still visibly see the edge of each layer. However, it was now past one hour into my buffer time and so I had to run to my massage late. Not only did I not have time to spend with my sister in between, but when she ordered food, they made her pay right away instead of when we leave because of some change in the system. Instead of this being a relaxing experience, I was rushing around trying to make the best of the day. We ended up having to eat the lunch we ordered at 4pm when it was cold. Anna provided a couple of glasses of prosecco in the meantime, and was extremely apologetic. ",
+        "I debated posting this review, but when you're paying this much for a manicure, and it's your Birthday as well as your sister's first experience, it's even more disheartening when a $20 manicure would have been better. While my sister paid, and they offered a tax discount, she basically basically paid $100 for someone to unevenly cut my nails, which I now have to grow out so they don't look silly. I'm ashamed and embarrassed for the Ritz brand. Please do better in the future, this is simply unacceptable. I will be taking my Birthday massages and other business elsewhere for the time being."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "Massages underwhelming",
+      "text": [
+        "“Deep tissue” massages aren’t at all deep tissue. Two tried two different masseuses and it was mediocre. I wouldn’t recommend for the price"
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Glad to be back",
+      "text": [
+        "I'm giving it a five for the lovely service from the service manager, Ms. M. Byrd.  The spa was very quiet which was incredible!!! Very quiet, albeit not many clients were visible.  The massage was o.k. having use of the facilities was great.  Getting a hold of reception and booking was a challenge but handled quite well and efficiently after initial contact. Great snack throughout.  I wouldn't say much has changed since Covid except I do remember paying for the spa and the meal together, I could be wrong, but be aware there is a 18% tip on each of the bills, food and spa, which were separated.  The reception seemed a bit on the inexperienced side for a 5 star spa, but definitely trying their best. Not the warmest reception for a world renowned establishment.  I would def go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Tip",
+      "text": [
+        "Me and my husband visited the spa for our anniversary. It wasn’t our first visit at this spa, but first since Covid. The spa is the same, good massage and overall good facilities and snacks. The only thing that changed in the costumer service in the spa reception and the new 18 percent tip. Usually the asking you if you celebrate something like birthday or anniversary and nobody asked as not in the reception or our RMTs so we felt a little disappointed. We asked the girl in the reception and she had different excuses, but they gave us 2 glasses of Prosecco. But the main complain is about tipping. Since when we have to tip at the spa? After the visit at the reception they give you a bill for your massage + tax + 18  percent tip and say it’s up to you. They put you in uncomfortable position like you must to give a tip. It’s not ok if I want to tip my RMT I will do  that , but they just give you bill with tip in it and put you in uncomfortable situation. So we just left more than 90 dollars tip but after we felt that they made us to do that and it wasn’t our decision. The price went up for the massage but the costumer   service went down and the new tip policy trick also not adding to the overall experience. So be aware and ready!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2023 • Couples"
+    },
+    {
+      "title": "Has seen better days & steamroom never works",
+      "text": [
+        "This used to be a high end spa. Now the steam room never works, the hot tub isn’t hot, and they’ve switched to very cheap shampoo and conditioner that makes my skin itch. Have been a few times in 2022 always with awful experience so won’t go back. Spend your money and time elsewhere."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2022 • Solo"
+    },
+    {
+      "title": "Luxurious relaxing experience",
+      "text": [
+        "Spa myBlend is my favourite spa in Toronto. Although I have not been back in a couple years due to the pandemic, I was interested to see if the quality was still the same. I was not disappointed! I had a lovely deep tissue massage by the lovely Emily. Spent the rest of my time resting in their co-ed sanctuary and female-only lounge and using their facilities. One downside to their whirlpool, is there is only space for 2, so when the spa gets busy, you have to wait a bit to use it.  The showers are very impressive with rain shower head, handheld and jets on the walls! All the staff are very helpful and really quick to refill snacks, towels, etc. The only suggestion I have would be to upgrade the robes and towels, I found my robe to be well worn. Other than that, it was an excellent stay and i can't wait to go back!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "Thank you so much Janet and Emily!",
+      "text": [
+        "I had such a great spa day here at the Ritz",
+        "Carlton, in Toronto. Emily was my massage therapist today and she literally hit all the right spots during my deep tissue massage. One of the best massages I have ever had! I highly recommend people book their massage with Emily! You will walk away very relaxed and satisfied. I love this spa as it has a variety of  delicious tea selections and goodies to nibble on. Big kudos to the manager Janet, who ensured I was well taken care of! Thank you for an awesome spa experience. I will recommend this spa to others!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fantastic luxury facial",
+      "text": [
+        "Had the most sensational facial at Spa myBlend - really and truly, this may have been one of the best facials of my life. The venue is absolutely exquisite, the staff are ridiculously knowledgeable, and the services they offer are really top notch. ",
+        "I specifically enjoyed the LED mask as well as the variety of myBlend luxury products used."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022 • Couples"
+    },
+    {
+      "title": "Better than average but not the best",
+      "text": [
+        "I visited Spa My Blend for the first time in December on a Friday with a friend. I've been to many spas in Toronto; Miraj Hammam and Four Seasons included so I have something to compare my experience to.",
+        "Overall, the facilities are nice and our time was fun - but not necessarily as relaxing as we wanted it to be. It felt very busy throughout the day - not only with other guests but many staff that we kept running into. The no-talking lounge area was spoiled by the door constantly opening and closing and occasionally, a tour of the facilities for new guests. We found most of the relaxing spaces to be ruined by conversations from other guests. In addition, comparable to the Four Seasons and Miraj Hammam for example, the facilities are smaller, especially the pool area. The vitality pool was a bit messy with a few used towels lying around. ",
+        "On the plus side, we received complimentary champagne for my friend's birthday and the lunch menu was extensive - although, I must have gotten mild food poisoning because as soon as I ate the veggie burger I ordered, I had an awful, painful stomach ache that lasted into the evening. We actually left early because of this. ",
+        "The massage I received (deep tissue) was average - nothing special. I personally like to have my massage in silence but my masseuse, unfortunately, was chatty! ",
+        "In the end, another downside was that my friend never received the birthday gift I was promised upon payment. ",
+        "Overall, the experience was nice but nothing to remember. I would probably not return."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Perfect place to relax",
+      "text": [
+        "Love this spa when in TO! Went yesterday solo and had the Jet Lag Revival treatment - 90 minutes of head to toe bliss. Spa is beautiful, clean and well attended - always a treat to come here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Solo"
+    },
+    {
+      "title": "Ritz Events are superb..did the Champagne and truffle cheese tasting",
+      "text": [
+        "I had booked a spa day for my friends 50th and noticed they had this tasting event which so I added it onto our day and then decided we would have our husband's meet us for dinner after.",
+        "The spa day was fantastic and then we went to the champagne tasting which was in their private dining area,  There were only 10 of us and it was 2 hours in length, with two hosts teaching us about champagne and various cheeses, then we went to the cheese cave and a tour of TOCA the restaurant.  My friend who didn't want to celebrate her 50th was so happy and by the time our husbands showed up (only 3 of us were at the birthday) we had a fun dinner for 6. Oh and we stopped in the Ritz bar for a cocktail before dinner. Needless to say all ladies were relaxed from the spa day and very tipsy at dinner but very happy with a great event to talk about for years to come. If I could plan everyone's 50th, this would make the cut. Not cheap but worth every penny. For $99 the event was good value."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Zero Flaws",
+      "text": [
+        "Spent a Sunday afternoon here for a couples massage. Amazing service, amazing amenities, everything was just amazing!",
+        "As soon as you get there, you get a personal tour of the \"change room\", which features a locker room (you get your own coded locker with a robe and flip flops), a washroom, a steam room, a whirlpool and also a waiting lounge with snacks and tea. Beyond this change room is the communal waiting area where you can meet your significant other while you wait for your massage therapist. The massage itself was very good, I enjoyed the slightly heated bed and the smells of the oils they used. That was probably the fastest hour ever! I didn't want it to end. It's hard to find any flaws. The only drawback is the hefty price tag, couples massage included tip was just over $500.00! But i've been to some other spa's where the price is in the $150-200 range per person, if you're spending that much, you might want to consider spending a few more dollars and experience the spa at the Ritz!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "Outstanding Spa Experience",
+      "text": [
+        "As party of my birthday \"adventure\" my hubby and friends organized a full time of surprises.",
+        "After a great lunch, we headed over to the Ritz Carlton Spa for a hot stone massage.",
+        "Having gone to many other spas, can attest this was one of the BEST experiences.",
+        "Staff were friendly and accommodating! Amenities were over the top, with a beautiful lounge with blankets, pillows and snacks! Water and tea available as well.",
+        "My massage was excellent! It actually went longer due to the stones not being \"hot\" but enjoyed every moment! ",
+        "The beds and sheets for the treatments were high quality, as is important to relax.",
+        "When I returned to the lounge area, staff gave us sparkling wine and desert in recognition of my birthday...what a great touch.",
+        "Thank you all for making my birthday so extra special!",
+        "We will most definitely return."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Why would you go to a crappy place when you can do the Ritz?",
+      "text": [
+        "It's the Ritz! It's gorgeous! It's the best. From when you walk in, they get you a water or tea, they help you hang your clothes, they get you seated, they offer you snacks, they offer to order you food, they get your the best massage. Oh come one, why would you waste your time anywhere else? There's a pool, jacuzzi, staff for every need. If you need a full makeup application, Clarins staff is there. I booked this for a friend's 50th and Lana the manager came out and greeted us, they had some bubbly for my guests and checked on us every minute. There are two places I love in Toronto, this one and Four Seasons. That's it!!! Service and ambience. Amazing Amazing Amazing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Excellent service, treatments, food, and ambiance!",
+      "text": [
+        "We have been coming to this spa almost since it opened in Toronto several years ago and it continues to please over and over again. The people at the spa's reception are always friendly and super accommodating. The spa attendants, like Larissa and Irina have always been very pleasant and accommodating as well, always making our time at the spa feel special and enjoyable. I now get my pedicures done with Dana and she is super incredible! I am so lucky to have found her as she is not only an incredibly pleasant person, she is also exceptional at what she does! Angela is also a wonderful pedicurist who is always a pleasure to be around! We will be coming back for sure!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Nice Spa",
+      "text": [
+        "Not overly fabulous like other Ritz Spas...hot tub - ok, no nuts/ snacks/ bottled water like most others. Nice lounge area though...don't like coed waiting areas. Wonderful massage it was more stretching than rubbing but very very good. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Business"
+    },
+    {
+      "title": "Exceptional Service Best massage ever. 5 STAR!!!!",
+      "text": [
+        "I decided to send my wife for a surprise facial and massage. I can not believe the follow up from the calls ahead of time to confirm, the friendliness of the staff . My Wife loved the facilities from the salt water pool to the Jacuzzi. cleanliness is an understatement. Her facial was amazing , the masseuse was so attentive and professional she ranked this one as one of the best massages ever. The Spa Manager Maggie was so helpful!!!. I can not say enough good things. Worth every penny!!!. We will be back and maybe next time I could enjoy this wonderful experience that my wife raves about. Happy life Happy wife.",
+        "Thank you ",
+        " "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Best Birthday Gift!!",
+      "text": [
+        "My boyfriend booked us a couples massage for today and we had an amazing experience! Great massages, very calming and relaxing atmosphere, all the staff were welcoming and very helpful! Plus we had full use of their facilities  (steam room, hot tub, etc.) because we booked a 60-minute treatment. ",
+        "The lounge where we spent time before and after our massage is beautiful! We really enjoyed lounging on a huge recliner, drinking prosecco post-massage! We left several hours later, very satisfied with the services and feeling extremely pampered and happy!",
+        "Would definitely recommend! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Best Spa in Toronto",
+      "text": [
+        "For my boyfriend's birthday we decided to visit My Blend and we received the best service ever. Leonor made my reservation. sent me the menu. Once the day arrived she welcomed us in and remembered all our details. The couple's massage was terrific and the food and service excellent. It might be a little pricey, but extremely worth it. At the end the staff gave my bf a tiny present and I found that touch incredibly warming"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Beautiful Facility....services Terrible.",
+      "text": [
+        "It's a truly beautiful facility.....however, our massages and facials were NOT great.....the massage felt amateur....and our facial left us with irritation ....my husband and I were quite disappointed."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Spa my blend - ritz Carlton 💕Larissa !",
+      "text": [
+        "I had a great time at the spa.   Excellent service and extreme professionalism.  Larissa took it above and beyond, by making sure we had everything we needed and Checked up on us.    She has great people skills.   I ordered a beverage with her and she provided her insight  and helped with my decision.    She is extremely pleasant.  And honestly,  I keep coming back her for the personal touch I get from her.    She remembers me each time and asks how I am.    Superb experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Wanted to try, not sure if I'd return",
+      "text": [
+        "I decided to try Spa My Blend for a massage and to explore the amenities available. The men's changing room was very small, and an odd layout. It felt like I was always on top of another guest, the locker area was not ample. The wet area was great because it had a steam room and a sauna, but the little two-person hot pool in the middle of the room was a strange layout (and not all that comfortable or flexible). One of the showers is definitely sub-par compared to the other two showers. The amenities required constant replenishment because very few towels, etc. were laid out available for guests. I disliked the disposable plastic drinking glasses and the water cooler was tepid at best. There wasn't really any lounge furniture in the wet area which was disappointing. The men's only waiting area wasn't as comfortable or as well-appointed as the mixed gender waiting area, which really is impressive. It was awkward to have to walk through the spa reception, down a long corridor and the elevator bay to access the pool area. The massage I had was good (exactly what I expected, but nothing to define or distinguish it as unique or exceptional), but the amenities and experience overall wasn't commiserate to the cost of the spa appointment when compared to other hotel spas in Toronto."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Great facial",
+      "text": [
+        "I visited on a Saturday afternoon and the noise level was quite loud due to brides and their parties drinking champagne and carrying on in all areas of the spa. The areas that should have been relaxing were not ie: the sauna and relaxation room. The facial was phenomenal though and the spa area was really nice. The service was really good and the employees were very nice. There were some vulgar balloons displayed for the bridal party in the relaxation room which most guests found unacceptable. I was able to enjoy a glass of wine as my husband finished his treatment."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Won't be returning...ever.",
+      "text": [
+        "I've gone to this spa three times. The first time was a good experience. Massage was good and the customer service was solid. I wasn't thrilled with the size of the spa itself (hot tub, steam room, sauna); however, the facilities itself was nice, including the relaxation rooms and selection of teas and snacks.",
+        "I returned for my second visit and unfortunately the experience was interrupted by a group of loud and intoxicated women who spoiled the ambiance. When I mentioned to the manager, Bridgette, she graciously apologized and provided me with a complimentary amenities pass to come back another day and enjoy the facilities.",
+        "I went back to the spa last week after over a year after I came across my amenities pass. The day was going well until I decided to make my way into the steam room. Now, I frequent steam rooms all the time in different spas and gyms when I travel for work. I'm used to the heat and stuffy feeling of being in steam. However, this steam room was SCOLDING HOT. I had to fold my towel to create a double layer before sitting down because the seating was insanely hot. I don't think I was in the room longer than 15 seconds before I frantically ran out because the heat of the room was SCORCHING my skin and scalp. I used the hot tub instead and watched customers go into the steam room only to run out seconds later. I asked some of them if the room was infact abnormally hot or if it was just me. They all confirmed something felt wrong.",
+        "I contacted the manager, Justine, and told her about the problem kindly. I sincerely thought there was a mechanical problem with the thermometer or something. I expressed that I was disappointed that I could not use the steam room. She apologized and said she would call the engineering team to look into it because the heat could not be controlled. Shortly after, she walked over, turned the heat completely off and then opened the door of the steam room to let all of the steam completely out. I moved onto the relaxation room thinking she was working on the solution. An hour later, she came back and said the steam room was free to use. Excited, I walked back over only to go into a room that had ZERO steam and wasn't even warm inside. Was this really her solution? ",
+        "Justine had asked if I was having a service done that day. I got the impression from her that because I wasn't dropping money with the spa that day other than my $35 lunch, she was disengaged from creating a good experience. I expressed to her again that I was disappointed that the amenities were not provided in working order but she gave me \"I've done my best\" talk. When asked upon check out if I enjoyed my time, I mentioned my disappointment again in a gracious way only to be responded to with a \"sorry.\"",
+        "I will never go back to Spa my Blend again. There are several spas in Toronto that are comparable in price, if not cheaper, and can offer full amenities and most importantly, great customer service. Kudos to Bridgette for handling an unpleasant situation with grace and compassion but I was extremely disheartened by Justine's disinterest in creating a solution and managing the situation properly. Even a discount off of the lunch or complimentary glass of wine offered would have been a gesture of good will. There are other great options in the city of Toronto--save your dollars."
+      ],
+      "rate": 2.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Exceptional",
+      "text": [
+        "This spa is absolutely beautiful I had a fantastic massage enjoyed the stunning pool and could order lunch and drinks in spa a plus since most don’t allow this The staff at this spa was the most attentive and kindest staff I’ve ever come across,  I will be back😊"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Solo"
+    },
+    {
+      "title": "I’ve been here more than I can count on two hands- Great, if not, BEST in Toronto",
+      "text": [
+        "They have great, highly trained masseuses. They are aware of conditions, which is highly important in making judgement of how to make your treatment effective for you. Also based off my conversations I’ve had with multiple masseuses here, they have been trained in other parts of the world, or take classes to update their training. The lounge is nice and relaxing as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Solo"
+    },
+    {
+      "title": "Wonderful afternoon at the spa!",
+      "text": [
+        "My husband sent me here for my birthday, and it was fantastic. I appreciate they must keep the number of spa clients limited, so there are always beds for everyone, you aren't lining up for the special showers, etc. I was there for 4 hours, and enjoyed the jacuzzi, the steam and sauna rooms, the relaxation areas - and had a hot stone massage. Service was *excellent*.",
+        "What a fantastic way to spend a luxurious day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Solo"
+    },
+    {
+      "title": "Nice spa experience but not spectacular",
+      "text": [
+        "Massage was great but the spa was too busy so not very relaxing.  I have been to comparably priced spas and this one pales in comparison.  Overall decent experience, but I would expect more from a spa at the Ritz."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Clarins Spa",
+      "text": [
+        "We did not stay at this hotel",
+        "But we will book it on our next trip for sure! We stayed at a boutique hotel in Trastaverre (Donna Camilla Savelli) and they referred us to the spa at this hotel since they don’t have one. ",
+        "What an experience! We were greeted by the lovely receptionist and made to feel most welcome. ",
+        "The we did a couples massage with Bernadette and Valentina. Wow! They were amazing! Thank you so much for a wonderful experience."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Spa My Blend.........Personalized Wellness Care.",
+      "text": [
+        "Toronto's posh Ritz-Carlton Hotel is home to an equally top-notch Spa .....'Spa My Blend'. This comprehensive, 23,000 sq. ft., urban wellness sanctuary  sits in heart of downtown and specializes in skin care. Depending on your skin blemish, the professional staff blend personalized skin products to remedy what ails you.",
+        "The Spa is a wonderland of luxury and the natural light basques the glass enclosed 5th floor retreat revealing sweeping views of Toronto. The sleek white interior with earth-tone accents create a relaxing atmosphere.",
+        "The Spa offers a powerful selection of face, body and massage treatments , each one bespoke just for you, in one of the 16 exquisitely appointed treatment rooms. Need to firm up some skin, jet lagged, shopped t'ill you dropped.......Spa My Blend has a treatment for that. Some quirkier therapies include: Massages from around the world (travel the globe without getting on a plane), Blokes and Beer (is that ale or lager) and others. As for me, I opted for my 'go to'  Hot Stone Massage, a soothing treatment that revitalized my energy levels. A modern saltwater pool along with the Ritz's 24 hour fitness centre are complementary spa facilities. A dedicated men and women relaxation lounge and a heavenly luxe sunroom are excellent ways to put the finishing touches on you spa session.",
+        "S, if you want to whisk away the pressures of urban living in a formidable oasis of relaxation...then try the.....Spa My Blend.......Personalized Wellness Care."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Best spa ever!",
+      "text": [
+        "This is by far the best spa i have ever been too! The atmosphere and the staff are great! We were given complementary bellini's and champagne.  And treated like queens!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Family"
+    },
+    {
+      "title": "ME time!",
+      "text": [
+        "No my first time at the Spa! And today, I couldn’t think of a better place to spend solo time.  Larissas’ champagne welcoming with the sweetest smile on her face, Naomi’s BEST hydrofacial and Rafael’s healing and out of this world massage was all what I needed today to feel pampered and loved on Christmas Eve!!! Thank you guys for making my day so special. Today wasn’t just a treat day at the spa, it was a wonderful experience.  See you later everyone, it’s summing time!!!! Merry Christmas 🎄"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Solo"
+    },
+    {
+      "title": "BEWARE OF UNETHICAL 18% automatic gratuity!!!!",
+      "text": [
+        "How inappropriate that the practice of this spa, especially with regulated health professionals (registered massage therapists) automatically add on an 18% gratuity to the registered massage session.  This is reversed only at the request of the client- and makes it very uncomfortable for the client.  I understand that you will likely respond that this helps cover the service personnel, but this does not warrant such practices.  This is absolutely unethical and your management should be ashamed of this practice."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2019 • Solo"
+    },
+    {
+      "title": "Block your time to fully enjoy",
+      "text": [
+        "Had booked a one-hour massage. The massage itself was nothing extraordinary (I get loads of massages and have a very high bar). The space is lovely - several pools and steam rooms you can use. A lounge area with super high ceilings and natural light to lay back and read/chill. Light refreshments are provided. You have day access to the very well-equipped gym and pool. I didn't get time to fully utilize everything. Would recommend blocking a couple of hours so you can fully utilize the facilities. Bring your swimsuit so you can lounge in the jacuzzi, etc. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "The Extreme Pampering Experience",
+      "text": [
+        "Recently went to the Spa with a girlfriend and we got pedicures. The ambience is simply gorgeous, the staff are incredibly professional and well spoken. You sit in a room in the most comfortable pedicure chairs with every known gadget possible to provide you with the ultimate comfort .We were there about one hour and it was wonderful, relaxing and one felt extremely spoiled by the whole experience. Well worth treating one self."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Heavenly Experience",
+      "text": [
+        "Escape for several hours in a first class spa. All amenities are relaxing, comfortable and very clean. Light lunches are perfectly suited to extending your stay a little longer. Best Hot Stone massage I’ve ever had!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "First year anniversary spa day",
+      "text": [
+        "Thank you so much for making our first anniversary so special. We will never your kindness and most of all your wonderful services. Our massage, facial and pedicure were fantastic! Surprised with the gifts, drinks and the details during our experience. We want to come back again...and soon!  Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Nice Spa, Good Views",
+      "text": [
+        "Visited Spa My Blend in August 2019 and was looking for a relaxing time with my wife.  We both booked a 90 minute massage, separate unfortunately, which was very solid in my opinion.  The masseuse was knowledgeable, friendly, engaging, and very service oriented.  (Thanks Tony!)  As for the other amenities, I suppose we went into it with higher expectations and expected more things to be co-ed to share with my wife.  Unfortunately, the pool and jacuzzi were located on the opposite side of the spa, as it is shared with the Ritz Carlton residents.  As a result, we didn't end up trying it out as there were kids playing in there and didn't create the mood we had hoped.  The eucalyptus steam room and the hot tub in the gentleman's locker area was solid.  I have to say I spent quite a solid amount of time in there.  And the showers were nice too!  Rain shower! <3  At any rate, the co-ed lounge area was nice and relaxing and their tea selection was nice.  The snacks were a bit....underwhelming (the muffins weren't good at all, the apple rings were soggy, but the pretzels/nuts were fine).  Overall a good/great experience but not as top-end as we had expected.  (Perhaps our expectations were a bit too high)"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    }
+  ]
+}

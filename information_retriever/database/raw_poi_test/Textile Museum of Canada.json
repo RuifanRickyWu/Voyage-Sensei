@@ -1,0 +1,364 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Textile Museum of Canada",
+    "url": "/Attraction_Review-g155019-d643369-Reviews-Textile_Museum_of_Canada-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "55 Centre Ave ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5G 2H5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 139
+    },
+    "openingHours": "We-Su 11:00-18:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/53/ce/29/color-improvisations.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Speciality Museums",
+    "Art Museums",
+    "History Museums"
+  ],
+  "description": "The Textile Museum of Canada is the only national museum in Canada that explores ideas and builds cultural understanding through the universally relevant media of textiles. Located in the heart of downtown Toronto, the Museum’s permanent collection spans nearly 2,000 years and consists of more than 15,000 artifacts. A leader in the digitization of collections and interactive environments, the Museum has been recognized the world over for innovation in the development of landmark educational, research and creative initiatives.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Beyond the Vanishing Maya special exhibit",
+      "text": [
+        "We love going to the Textile Museum.  They have the most interesting special exhibits.  The current one \"Beyond the Vanishing Maya\" is fascinating.  I have to admit we had no idea how much art they produce.  The exhibit provides many examples in different mediums and by many artists.  Definitely worth a visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Beautiful Art in Textile Museum Toronoto",
+      "text": [
+        "Small museum rich in stories, craftsmanship, and beauty.  Special exhibit on commissioned masks (pandemic) highlighted artistic talents and creativity.  Collection richi n ethnic context with explanatory videos.  Gift shotp offers range of choices for every pocketbook."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Solo"
+    },
+    {
+      "title": "A wonderful museum",
+      "text": [
+        "The current mask exhibit was very well done and lots of fun to see.  The museum isn't huge, but well worth your time and a few bucks.  Great gift shop."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Another perspective of Inuit art",
+      "text": [
+        "The current main special exhibit are wall hangings and sketches by various Inuit artists.  The are wonderful pieces of work and show the depth of art beyond stone carvings.  The detail of the wall hangings is amazing.  A whole floor is dedicated to these wonder pieces.  There are two other special exhibits which were excellent.  One being wall hangings by Simone Elizabeth Saunders and another about textiles in the context of the environment.  The three exhibits make a very worthwhile visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "stimulating surprising gratifying",
+      "text": [
+        "Excellent exhibits finely curated though aimed at adults there are programs developed for other segments. Shop has been dumbed down. One of the few institutions to focus on process as well as outcome/works. Like McCord small footprint impressive experience."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2021 • Couples"
+    },
+    {
+      "title": "Small but interesting",
+      "text": [
+        "An adult ticket cost $15, which can also include admission to some very neat monthly activities (check the museum's event calendar). It used to have a brilliant kimono exhibition, but this time it features the Inuit textile, kinda bland for my taste. It could be very interesting though, for anyone who loves arts, textile or textile history. And the museum has very neat workshops each month. The one I joined today is about making protective masks. Beading and bedazzling these facial coverings feel just like zen! 🎭✌"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Hands on weaving",
+      "text": [
+        "Be sure to go check out the hands on weaving machines, very fun to use. Gift shop was full of fun items, great for unique gifts. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020 • Solo"
+    },
+    {
+      "title": "Fascinating Textile Museum.",
+      "text": [
+        "This fun place is stuffed with great exciting textiles, from ancient to modern. Classes too, and a great little shop.    I was particularly enthralled with many of the hooked rugs, and in the next gallery were wearables of gorgeous silksm cottons, wools.  Such colors, too!",
+        "I have always managed to find street parking fairly close too."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Interesting museum",
+      "text": [
+        "The Textile museum in downtown Toronto is a nice small museum which include textiles by Inuit artists as well as contemporary Canadian artists. My favourite part was the Inuit textile portion. The patterns were beautiful. There is also a nice gift shop. The admission is $15 per person, perhaps a tad high, though it is a nice museum."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Worth a visit",
+      "text": [
+        "This small but very interesting museum is located close to Nathan Phillips Square. During my visit there were two nice exhibitions: \"Printed Textiles from Kinngait Studios\" and \"Wild\". I really liked the work of Inuit artists. I found the traditional motives and colors very nice. I enjoyed this part of exhibition very much. The information on the exhibits was not only in English but also in the Inuit language. ",
+        "The second part of exhibition was very modern. It showed work of five emerging Canadian artists. ",
+        "The gift shop at the museum was quite big and you could find there a lot of lovely hand made things or books about embroidery, sewing and other handicrafts."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Expensive and not much to see",
+      "text": [
+        "A small, sparse specialty museum that isn't all that inviting. More like a textile footnote than a museum. Not much to see and not very compelling. Perhaps the tours on Sunday at 2 PM can make it more interesting but on your own, not worth it. ",
+        "At $15 general admission, its overpriced. You can, however, get free admission using passes available through the public library."
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Hidden gem!",
+      "text": [
+        "Current exhibit is incredible and thoroughly enjoyed wandering through the entire building to explore all the collections. Highly recommend for museum lovers!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Impressive works",
+      "text": [
+        "We saw a wonderfully colourful exhibition of contemporary quilts and a an exhibition that enabled current textile artists to respond to the work of historical makers. Both exhibitions were impressive. The museum also has a great shop of textile work so if you're looking for unusual and locally made presents, this place is worth checking out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "A Good Experience",
+      "text": [
+        "The Museum can be a bit hard to find, tucked, as it is on the corner of a residential block and on the edge of 'eat street' but it's worth persevering.",
+        "Although the display space is limited, what they do with it is captivating. The 2 travelling exhibits especially the one of decretive kimonos was excellent.",
+        "The staff were helpful and informative."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Solo"
+    },
+    {
+      "title": "Textile Enthusiasts",
+      "text": [
+        "This museum had a wonderful display of international quilts. Secondhand books for sale adjacent to the reference library at a very good price. The Canadian craft section was interesting. The shop was good with lots of items which could be purchased."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Modern art meets traditional",
+      "text": [
+        "We love textiles and decided to visit this museum while in Toronto.  It's close to the Art Gallery of Ontario and the Eaton Center if you are visiting either of those locations.  The current exhibits include modern international quilts and textiles over time in Canada.  The international exhibit of quilts is varied and bold - like a modern art exhibit.  The exhibit with Canadian textiles over time includes captivating descriptions next to pieces that are reminiscent of stories told through oral history.  The descriptions are interesting, educational and at times funny.  The staff is friendly and helpful and the museum is well-curated.  NOTE: Wednesdays from 5-8pm is 'pay what you can' admission versus a regular admission of $15 for adults.  The museum shop is also a wonder of all kinds of textiles and a wide assortment of books on the topic - great for unique gifts.  If you like textiles, definitely plan to visit this museum."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "HIdden Gem",
+      "text": [
+        "I love small museums. This was no exception. When I was there there was an adjudicated Quilt Show that was very interesting.  The friend I was with teaches quilting so of course she was thrilled to see it.  The gift shop has such a wonderful collection of items and books about all kinds of fiber arts.   If I lived in the area I would try to catch each rotating exhibit."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Small museum of great quality",
+      "text": [
+        "If I understand well they do not have permanent collection but only temporary exhibitions. And those two that we attended yesterday - Contemporary quilts  and Crosscurrents - are amazing! Right place to see very special (and very beautiful!) handcrafts and to show it to screen addicted children."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Wonderful and unique museum",
+      "text": [
+        "We came to Toronto because we wanted to see the Textile Museum and it did not disappoint. We were there when the kimono were on display and they were breathtaking. In general the museum seems well-curated and interesting. Staff and volunteers were incredibly friendly and helpful. We arrived right when the museum opened and had it to ourselves for the first little while which was a lot of fun.  It took us about an hour and a half to get through the two exhibits and do a little shopping at the gift shop, so it is easy to do this and then still have time in your day for another excursion. If you love textiles or are looking for a unique arts experience, this is well worth a visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "Quilts of every colour",
+      "text": [
+        "I saw an exhibit of handmade tapestries that were incredibly intricate. Then we",
+        "a chance to try weaving.  A film about the weaver also added to my knowledge of the artist. ",
+        "There was also an exhibit of quilts from around the world. The theme was colour and they were works of art using all kinds of colour. They were a variation on the old crazy quilts. Every time I have visited Toronto I make sure to visit this museum and there’s have always been interesting and informative exhibits. There is an area for school groups to work as well as a lovely gift shop with fabric from around the world. ,"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Current exhibitions are wonderful.",
+      "text": [
+        "The two exhibits currently on display are fabulous.  \"Tapestry of Spirit\" when completed will be the entire Torah in counted cross-stitch, with cross-stitch illustrations designed by the volunteer stitchers.  Its originator and leadership is Torontoan though stitchers are world-wide. The Nadia Myre exhibit combines beading and photography and is also great. Since the exhibits will change over time, I can't make promises about what you will see, but if this selection is any indication, the museum is well worth your time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "Tapestry of Spirit: the Torah Stitch by Stitch Project",
+      "text": [
+        "The current major special exhibit is quite eye-opening.  Be sure to watch the movie that provides the background to the project.  It is amazing how many people and countries have contributed to the project.",
+        "The Nadia Myre: Balancing Acts exhibit makes you think and has some unusual works of art."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Best kept secret!",
+      "text": [
+        "This museum is the best kept secret museum in Toronto! It is a really excellent place to visit. The exhibits I saw were amazing. I’m a crafter and in awe of some of these exhibitors. Well worth my 15 dollars. The gift shop is rather good, lots of ‘nice’ things to buy. The lady, who was knitting behind the counter, was really welcoming and chatty. I loved my visit! "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Innovative and interesting exhibits.",
+      "text": [
+        "I went with a friend to see the Nadia Myre exhibit which we thoroughly enjoyed and then discovered that another excellent exhibit on beading was just one floor away. ",
+        "Well done! "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Something new every visit",
+      "text": [
+        "Small - plan an hour - but every time we've gone there has been something new and interesting.  Weaving, beading, wedding dresses, denim & indigo. Tiny store but well stocked."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Dolling it up",
+      "text": [
+        "An inspiring display of the creative expanse in this form of modern culture. Bring tissues and delve into this collection of work that expresses a universe of communications."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Solo"
+    },
+    {
+      "title": "Best kept secret attraction.",
+      "text": [
+        "There is always a great exhibit on and it's not expensive to either join the museum of just attend the exhibit.  Plus, there is an excellent gift shop and the best collection of books for sale on all things related to textiles - buttons, rugs, etc.  It's an exceptionally great shop for Christmas gifts, especially for people interested in the textile/garment/fashion industries."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Solo"
+    },
+    {
+      "title": "textile museum?",
+      "text": [
+        "Five quilts hanging on the wall does not a \"museum' make. The admission price of $15 is definitely NOT worth it, considering it takes less than an hour to go through the entire museum ( and that's with walking real sl-o-o-w-w-w and reading all the attached info.). Absolutely NOT a museum for children as there is nothing of interest for children. When I was there , there were several mothers with young children and I was considering calling Child Services ( a joke). Save time, money and effort and just take a tour of their website."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2019 • Solo"
+    },
+    {
+      "title": "An unknown gem in Toronto",
+      "text": [
+        "Over more than 40 years, I have been going to the AGO and the ROM, but never made it to the Textile Museum until this year. It is a great little museum, featuring special shows over a period of months, but with no permanent collection on display."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2019 • Couples"
+    },
+    {
+      "title": "Excellent!",
+      "text": [
+        "An excellent museum... much better than the US Textile Museum! Facsinating show and great hands ons displays. Lovely gift shop."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018"
+    },
+    {
+      "title": "4th time",
+      "text": [
+        "I have come many times. A small museum but interactive. The gift shop is well priced and never leave without making a purchase. You can come to the gift shop without paying the entrance fee."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Small, informative museum with lots of hands-on activities for all ages",
+      "text": [
+        "Terrific special exhibits, and worth seeking out a guided tour.  Permanent collection is interesting and you can try your hand(s) at lots of activities including weaving, cross stitch and others.  Great for families and exhibits are a reasonable size for a visit of 1-2 hours.  The gift shop is well curated as well and full of interesting gift options"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Friends"
+    },
+    {
+      "title": "Lovely Environment - So Cozy!",
+      "text": [
+        "The Textile Museum is a great environment for something that is part of everyone's life, the wearing of textiles, the use of textiles in telling stories, as well as the use of textiles in design, and many other aspects of life."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018"
+    },
+    {
+      "title": "Amazing exhibit",
+      "text": [
+        "This is not much of a museum but they currently have the stitchers project where a Torah is being stitched in sections by people of all faiths and all over the world and then sewn together. It is an amazing display. When the project is completed, they hope to take it on tour. Not much else to see there but this project was very interesting and I went specifically for that."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Wonderful Exhibit - The Torah in Stitches",
+      "text": [
+        "This exhibit consists pf many 7 foot high panels of Counted Cross Stitched Torah Verses.  Many of the verses have lovely illustrations.  Very moving, exquisite work. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Excellent Exhibits",
+      "text": [
+        "I visited the museum again yesterday.  There is always something very interesting on display.",
+        "Now until November 2019 there is an exhibit called \"Tapestry of Spirit: The Torah Stitch by Stitch Project.\"   This is a stitching project with over 1000 participants, men and women from all around the world.   The scope of it is breathtaking.  There's an accompanying documentary that explains the background."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "worth a visit - only a short walk from the art gallery of ontario",
+      "text": [
+        "i saw cutting-edge art, both by indigenous and other artists using all forms of textiles and media. was very happy i went back to see them after getting there too early (opens at 11 a.m.) not just textile. good workshop space. i enjoyed the gift shop. compact place yet worth a visit for visitors interested in contemporary as well as community arts projects. shows possibilities of the simplest to the most complex stitching works"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Fleeced @ Textile Museum",
+      "text": [
+        "Two exhibits in a place that looks more like a popup space than a museum and $15.00 later we were left feeling ripped off. Skip this museum and visit the Bata or the Gardiner Museums. Save yourself some money and the aggravation of being taken to the cleaners."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Small but wonderful",
+      "text": [
+        "Because the Textile Museum is narrowly focused on the textile arts the curators can get specialty exhibits that other museums might pass over.  A case in point is the beadwork of Nadi Myre.  Her exhibit has both photos and examples of work that use both  small beads as well as pieces of pipes (the smoking kind) to form large baskets.  These have a beautiful muted colour scheme.",
+        "As well there is an exhibit called \"Tapestry of Spirit\" which consists of the entire Torah in cross-stitch, along with some images showing scenes such as Noah's Ark.  This project is collaborative, which is part of it's charm."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Not to much to see",
+      "text": [
+        "A small, sparse specialty museum that isn't all that inviting. The museum designed in two floors. One floor just stitch. The second floor just pictures on some textiles. We participated on tour which is on Sunday at 2 PM. Not good. ",
+        "We had free admission from Toronto library but At $15 general admission, and 11 CAD for young people. There is no parking spot. but you can find green parking close by,"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2019 • Family"
+    }
+  ]
+}

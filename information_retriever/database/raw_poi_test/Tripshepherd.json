@@ -1,0 +1,364 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Tripshepherd",
+    "url": "/Attraction_Review-g155019-d10717673-Reviews-Tripshepherd-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 372
+    },
+    "openingHours": "Mo-Sa 08:00-17:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/93/10/80/casa-loma.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Boat Tours",
+    "Night Tours",
+    "Sightseeing Tours",
+    "Private Tours"
+  ],
+  "description": "Tripshepherd is a small-group touring company proudly operating in 30 cities across USA & Canada. Guests will enjoy the best of each city's top attractions & visitor experiences including complimentary downtown hotel pick-up & drop-off, fully guided & narrated tours with local guides, skip the line entry, & all paid admissions. We can't wait to show you around!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Fantastic informative tour of Toronto",
+      "text": [
+        "Our tour of Toronto started with a visit to the imposing CN Tower – we went up to BOTH observation decks! – then to the sprawling indoor St. Lawrence Market & Food Court – best Reuben sandwich I ever had! (And I lived in NYC!) – then to the underground PATH (cited by Guinness Records as the largest underground shopping mall in the world), and at every opportunity, we drove around several historic buildings (including the State House and Mayor’s Office). Our tour guide Ehsaan had tremendous knowledge about Toronto’s history, culture, and multi-cultural heritage – he had lots of stories about each place we visited. He was also very personable and always very responsive to our questions – an outstanding tour guide! We highly recommend this tour of Toronto –especially with tour guide like Ehsaan."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Fantastic intro to these Hotspots",
+      "text": [
+        "CJ nailed this one! We had a small but mighty group of 4, and he made sure we all toured well. Got a great overview of the area, plenty of time in the tower, great lunch recommendations at St Lawrence Market, and more. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "This Tour Made Us Fall in Love With Niagara Falls !!",
+      "text": [
+        "Had best time on this tour.  Early pickup from hotel lobby meant early arrival in Niagara Falls.  Fancy but smaller tourist van meant we were comfortable, could actually interact with the guide and other guests.  We basically had 'skip the line' access to Behind the Falls, the Skylon Tower and Boat Ride - - amazing.  It was a beautiful day, so all our pictures are gorgeous.  Behind The Falls was such a special treat and angle to view the falls.  The Skylon Tower had spectacular views of the entire falls area.  And the Boat Ride was unexpectedly 'up close' and 'wet'.  I knew we would get misted on - but it was super watery and hard to keep eyes open as we rode into the circle of the falls.  It was everything.  This was our first visit to Niagara Falls and this tour really hit every highlight.  We also had some free time to walk around/catch lunch.  Our tour guide, Ryan,  was super knowledgeable and provided great tips to ensure we experienced everything we wanted to during our visit.  Highly recommend this tour - and Trip Shepherd in general.  We also took other smaller tours with them in Toronto - and they were terrific.  Merci from Maryland, USA"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Loved our tour of Toronto",
+      "text": [
+        "We loved our tour with Daniel.  He was helpful and had to improvise meeting spots due to the marathon that morning.  We drove from Niagara Falls and were unfamiliar with downtown area.  He told us all about the city and guided us through the CN tower and a Harbor Boat cruise.  It was a beautiful day and we enjoyed the walking.  Since we were parked closest to the Harbor area we did skip the end of the tour to avoid a longer walk to our car and wanted to get back out of a busy downtown area.  I would highly recommend this tour and you’re lucky to have Daniel as a guide!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing eventful day and still made my flight on time!",
+      "text": [
+        "I had a few hours left before my flight and I am so glad I booked this tour because it was worth it and I still made my flight on time lol. Tour guide Ben was so knowledgeable and very accommodating just like everyone I encountered from TripSheperd tours on TripAdvisor. You knew what to expect and they communicate effectively well. I had a lot of fun touring the city and seeing it from the daytime perspective and got to go on a Harbour cruise at the end which was so nice and relaxing. The views wete amazing and the other guests I met were all nice too. I had such a great time that I highly recommend these tours to anyone!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Highly recommend to see Toronto spots at night",
+      "text": [
+        "The tour guide Ansar (spelling?) was so helpful and gave so much advice and allowed us to enjoy our time! It was a perfect night to end my night when I had a full day of tour before then but I wasn’t tired at all because the entire tour was very fun! I saw a lot of the great spots Toronto has to offer from a night perspective like the beautiful views of CN Tower! They also pick you up at the downtown hotel you stay at and it was very convenient & they communicate with you so well! I highly recommend this and I would actually go on this tour again even if I already experienced it! It is nice to have the guided tour but feel like you can explore the spots on your own at the same time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Our tour guide was friendly, knowledgeable and went out of his way to make our experience perfect! Highly recommend",
+      "text": [
+        "Fun in Toronto! Our tour guide was friendly, knowledgeable and made every effort to make sure we had a fantastic experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Best of Toronto - For Real",
+      "text": [
+        "CJ was a great guide - very personable and knowledgeable.  It is a great way to see Toronto in a short period of time!  CN tower, harbor cruise, tour of the city, St. Lawrence Market"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Unfortunate start but excellent thereafter,",
+      "text": [
+        "Unfortunately the minibus did not arrive at the hotel as promised. After contacting Trip Advisor by phone this was sorted out and Daniel caught us up with the main group at the CN tower within  about 30 minutes. The rest of the day was excellent. The CN tower, market visit and Harbour trip all went smoothly and were most enjoyable. The latter having a witty guide on board. The minibus driver was excellent and she gave a good commentary as we went through various parts of Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "A glimpse of Toronto",
+      "text": [
+        "I liked that it was a small group with a very informative and impressive guide (whose name I have forgotten).  ",
+        "It started with a history of part of the harbour city with the first stop at the CN TOWER.  The views were spectacular, to say the least.  ",
+        "Next was the architecture of the council chambers from the outside, followed by a cruise around the harbour.  Lunch was at the ST LAWRENCE MARKETS .  Very enjoyable day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Solo"
+    },
+    {
+      "title": "Excellent trip",
+      "text": [
+        "Brilliant trip!  Our guide Zak was excellent;  very knowledgable and friendly.  Walking behind the falls was fun and the boat ride was amazing.  The pace of the tour was good and the vehicle we travelled in was comfortable and clean.  We loved it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Everything and more",
+      "text": [
+        "Zach was an amazing tour guide. Not only did he have a prefixed tour agenda, he eagerly accommodated an “0ff trail” request to see an underground trail. Great fun!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Very great experience and history of Canada Thank you Ryan",
+      "text": [
+        "We enjoyed or tour Ryann was awesome information and sights were amazing and educational beautiful In Canada keep up the great job"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "A great tour",
+      "text": [
+        "Ainsley was very amusing and knowledgeable,  and able yo answer everybody's questions. A great tour which I would highly recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Toronto’s Best",
+      "text": [
+        "Great guide, a native of Toronto who spoke clearly, personable and friendly.  The boat ride was also a good experience, the young man who explained the sites very engaging and knowledgeable.",
+        "Overall a wonderful experience. . I recommend it to all."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Excellent Get to Know Toronto Tour",
+      "text": [
+        "Excellent and very informative tour with Ben as our tour guide.  Great way to see the main tourist sites in Toronto and get a great feel for the City with door to door pick-up and drop-off.   One of the very best parts of our trip to Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Complete Niagara Falls Tour in a Day from Toronto",
+      "text": [
+        "This was a great way to experience all the falls offer - from behind the falls, to riding into the thunderous storm of the falls (tip - wear rain gear or get wet, the ponchos protect little!), to the top of Skylon Tower, plus other sites. Plenty of time at each stop and for lunch. Going with a small group was great - we had very nice travel companions in our van. Not having to drive ourselves from Toronto and back - priceless!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Brilliant Trip!",
+      "text": [
+        "Daniel our tour guide was amazing! Very knowledge, polite and funny. The whole trip was planned extremely well, skipping the queues for the attractions and very well timed. The duration of the excursion was spot on and it was an added bonus that the minivan had A/C. Definitely worth the extra bit of money!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Great experience ",
+      "text": [
+        "The entire experience was great. We got picked up from our hotel (even though it wasn't on the hotel list) at the exact time we were expecting. Julianna, our tour guide was so happy and helpful with every stop. The tour was just as exhilarating as advertised, CN tower, a guided trip around the downtown core while learning many interesting facts, St. Lawrence market, more fun information as we traveled the distillery district and unto the waterfront and boat tour. Thanks Tripshepherd. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Flexible and impressive",
+      "text": [
+        "I did a lot of research before choosing Tripshepherd for my Niagara Falls day trip. I was looking for an organization that a) offers small group tours (I hate traveling in big buses and losing a lot of time waiting for lost people), b) doesn't stop at every tourist trap just because the operator gets commissions, and c) offers everything included. Tripshepard was the perfect choice and Amar, our tour guide, prepared a perfect day! It was actually much better than I imagined: the program was super flexible and our group of 5 could figure out what to do next and Amar supported us with all organizational things. He also gave information on everything that was asked, but without being too pushy.",
+        "Everything was included, from the pick-up at the hotel to the entrance tickets to the attractions and the safe and comfortable ride by car.",
+        "I'm glad I didn't take a cheap program with half-things done. It was worth every penny! Thank you Amar for the great day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Solo"
+    },
+    {
+      "title": "Outstanding!",
+      "text": [
+        "Outstanding experience! Highly recommend! Our guide was gracious, informative, and made an extra market stop to grab lunch before touring the city shoreline by boat. Learned so much about the inner makings of Toronto from him and fell in love with this must do city because of his tour."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Wonderful Memorable Tour",
+      "text": [
+        "Small group tour is the way to go. Our guide was knowledgeable, friendly and he really wanted to make this experience memorable for each of us.",
+        "We had plenty of time at CNN tower, harbor cruise gave us wonderful view of harbor front and CNN tower. Market was fun and had a variety of  delicious food and goodies . Highly recommend taking this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "A great tour.",
+      "text": [
+        "Great tour with a well spaced out itinerary allowing plenty of time at each attraction. The guide was very personable and knowledgeable."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Friends"
+    },
+    {
+      "title": "A great way to see the city",
+      "text": [
+        "We were picked up promptly by a super clean & comfortable van by CJ who drove us to CN Tower while explaining its history. We had plenty of time to wander around and elected to buy the extra ticket to go to the higher observation tower which wasn’t included in the tour price. From there we went to the harbor where we took a great harbor cruise for an hour. The views were great and the guide did a fantastic job. Next on the agenda was a drive through town to see the old and new City Hall buildings, along with the Toronto sign. It was a gorgeous day, and my daughter and I both really enjoyed the entire tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Great day trip!",
+      "text": [
+        "We had a great day visiting Niagara Falls from Toronto! It was nice to be in a smaller group and tour van. We made a stop at Tim Hortons on the way and our guide Daniel helped us navigate all the activities very efficiently and gave us plenty of time to explore the area. It was also nice to start early and be back to Toronto around 3 pm. Highly recommend this tour for a day trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Very Informative Tour",
+      "text": [
+        "Very interesting and informative tour.  Guide was very friendly and did a excellent job discussing the history of Toronto.  Wife and I really enjoyed the tour."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great way to experience the Falls",
+      "text": [
+        "Excellent way to see the Falls. Daniel was very accommodating of requests and was very knowledgeable. Good value small group tour"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Bad experience ",
+      "text": [
+        "The guide was a horrible driver, and demanding. I didn't appreciate the lack of direction and knowledge of the area. Sorry"
+      ],
+      "rate": 2.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great tour.",
+      "text": [
+        "Exactly as described. Small van picks you up from your hotel and you get a personalized experience based on your requirements. Excellent if you have a group of six or less. The driver was very knowledgeable, friendly and accommodating.",
+        "We had a fantastic day."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Worth it!",
+      "text": [
+        "We had a lovely time learning about Toronto AMA taking in some key attractions: CN Tower, Harbour tour, and the St Lawrence market as well as driving around the city. Zach was lovely and informative and made sure we made the best of our time. Would highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "A great half day tour",
+      "text": [
+        "Thoroughly enjoyed our half day city tour. Our guide CJ was superb & very informative; a great advocate for Toronto.  ",
+        "CJ was happy to answer any questions we had & really made an effort to show off this beautiful city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Very enjoyable tour. Highly recommend.",
+      "text": [
+        "What a great tour Ben was our driver/guide and did a great job. Answered all our questions. One question he did not have the answer at the ready and immediately googled it. It was the origin of the word Toronto. ",
+        "We learned so much and met some nice people. Highly recommend this tour. Good price when you consider the harbor cruise and the CN tour are included. Enjoyed being on Lake Ontario just a bit cool that day. We enjoy the small group as it is easier to ask questions and everyone can hear the questions and answers. Forgot the Lawrence market which was amazing. Ben gave us recommendations of where to get the famous Toronto Peameal Bacon sandwich. It was delicious."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Great Experience with Great Guide",
+      "text": [
+        "We really enjoyed our trip with Daniel as our tour leader. We were a group of six with three pairs, and the pick up was quick and on time. We had a good amount of time up the CN Tower, in the St Lawrence Market and exploring the city in the Mercedes mpv, before going on a great harbour cruise with William as our commentator and Michael, our captain. We enjoyed the company of our fellow travellers, and learnt many interesting facts about Toronto and living in the city."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Disappointing guide",
+      "text": [
+        "Bad start as pick up was 8.45 to 9 and bus did not appear till 9.30. ",
+        "The 2 main visits within the trip were well worthwhile & you do skip the queues.  CN tower & boat trip round the islands.  The guide on the latter was interesting & informative unlike our main tour guide who added nothing to the tour .",
+        "Reading other reviews I think we were just unlucky with the guide on the day, factually inaccurate on some occasions and no sparkle at all.  ",
+        "All guests in the trip were disappointed and with the guide on duty would not recommend it"
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Best tour ever!  Ryan possessed excellent communication skills about how the tour will be and made sure we had fun.",
+      "text": [
+        "Ryan was a phenomenal tour guider! All the attractions and events we did were fascinating! Ryan was very knowledgeable about history of Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Getting to know Toronto",
+      "text": [
+        "Ainsley was a great guide   Learned a lot about Toronto. Highly recommend                        ",
+        "Wish we could have experienced Lawrence market but distillery district was fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Informative City Tour",
+      "text": [
+        "Ryan, our guide, was informative, witty and entertaining on the tour.  The Harbor cruise was the perfect way to end the tour. We totally recommend this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Best experience ever",
+      "text": [
+        "We had the absolute best time with tour guide Isan, he made the world of difference in our experience. I would highly recommend asking for him as a guide. We visited Toronto only for the weekend. Isan recommended an event for us to attend that evening. It was wonderful, without his insight and extensive knowledge of the city we would have never experienced such a great time with family from Germany. A million thanks to Isan from Toronto small group tours. We also made a new friend in him. You are awesome."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Fun Filled Day",
+      "text": [
+        "Eshaan was our guide. I had him for the Toronto city tour also and he’s the best. He gave us plenty of time at each stop. The boat trip to the falls was thrilling; walking under falls;thunderous and sky tower. He knows the area well and stopped at various sites for photos . So happy I went with this tour company. Small group of 4 today was great ."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great tour for Toronto first timers",
+      "text": [
+        "This was a brilliant tour, and Ainslie was exceptional as a tour guide. Took in more than I was expecting. Would highly recommend this for anyone, especially if you're new to Toronto like me."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    }
+  ]
+}

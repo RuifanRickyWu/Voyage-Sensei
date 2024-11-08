@@ -1,0 +1,374 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Left Field Brewery",
+    "url": "/Attraction_Review-g155019-d8263963-Reviews-Left_Field_Brewery-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "35 Wagstaff Drive",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4L 3W9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 53
+    },
+    "openingHours": "Mo-Su 11:00-21:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/4d/cf/88/tasting-bar.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Breweries"
+  ],
+  "description": "Brewery, Tap Room and Bottle Shop in the East Toronto Leslieville neighbourhood brewing a lineup of baseball-inspired craft beers. Family and dog-friendly atmosphere. Tours on Saturdays and Sundays at 2pm.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Baseball and Beer",
+      "text": [
+        "My absolute favorite brewery in Toronto. I love baseball, they do the theme so well. Staff are legends. Not too hard on the wallet. plenty of merch. plenty of great beers. make this your stop in Toronto. Dog and baby friendly as well!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Cool place!",
+      "text": [
+        "My boyfriend and I visited a couple months ago as our first stop in Toronto and found this cool place.  My boyfriend is big into IPA’s and he got to try some really great ones.  I lucked out as they had an oyster eatery there for the day! Fun place to hang out and friendly service. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2020 • Couples"
+    },
+    {
+      "title": "Great clean cut operation..",
+      "text": [
+        "Tucked on a quiet street by a busy major intersection, Left Field is doing it right.  While some breweries make things complicated with ordering, LF has a simple process with friendly staff to help.",
+        "I'm pretty sure this place gets really busy during certain times of the week and I'm also pretty sure I saw an events notice for things that are happening at the building.",
+        "Great brewery, great beers and an overall great experience."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Delicious ",
+      "text": [
+        "Lovely micro brewery in a nice neighborhood.  Very family friendly, even for families with young children.   The sour beers are phenomenal and service is wonderful.  A special thanks to \"Mark's Pizzas\" who was providing the most amazing pizzas tonight as the special pop up feature.  Absolutely unbelievably good pizza."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Cool place, great beer ",
+      "text": [
+        "I love their beer so it was fun to visit the brewery. Simple but effective decor and branding, and the staff was friendly and helpful. A cute little spot in a nice neighbourhood, would definitely visit again! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Hidden gem",
+      "text": [
+        "Cool local brewery with really great beer. They allow dogs in there too. The pinacolda beer was incredible as was the sour. Something for everyone. Do what we did and get a flight of 4 different kinds. Loved this spot"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Great beer and great atmosphere ",
+      "text": [
+        "We visited with family who know the area well - without them we’d never have found this place as it’s tucked away behind some residential streets. Beer was great, staff are knowledgeable and really helpful. No food but they had a pop up bakery stall while we were there on a Sunday afternoon. Obviously welcoming to families and those with dogs which was nice to see and gave the place a really nice atmosphere. Big doors can open out on to the street when the weather is good. Would definitely recommend a visit. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Doesn't get any better... baseball and the best craft beer in Canada!",
+      "text": [
+        "Greenwood NEIPA and WHIP IPA are a juicy haven.  Fun atmosphere with regular pop up food venders.  Only issue is parking... be careful where you park to not get a ticket."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "Great atmosphere, decent craft pints",
+      "text": [
+        "The variety of beer styles was quite impressive, and I dare say that each one is well crafted, although the actual recipes ranged from \"meh\" to \"decent\" IMHO.",
+        "However, their branding, their facility, and their staff are all exceptional.  Worth checking out, even if you're a \"craft beer yuppie\".",
+        "The licensed in store service would benefit from even a slight improvement to their available snacks/foods, as they are currently too lean to be even considered an \"option\".  Sometimes a nice appetizer is all one needs to elevate a reasonable pint....  one doesn't need a kitchen."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Neighborhood favourite",
+      "text": [
+        "Great brewery with an excellent variety! Come here with friends all the time and have always had great service and delicious beer. Highly recommend!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Out of town brewery worth a visit",
+      "text": [
+        "Baseball themed bar in the east end of the city, we visited just after opening and tried 6 beers in all, similar in appearance but all tasted different, would recommend making the effort to give them a visit"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Big Disapointment",
+      "text": [
+        "Had wanted to visit for a while.  Finally had the chance.  Great neighbourhood and fun be in.  Unfortunately on arrival the tasting room was full and we were asked to wait.  Not really a big surprise given the hot day and trendiness of the place.  The issue was more of the way we were told.  Felt like a second class citizen for wanting to spend my money there.  Oh well their loss.  Stopped at two other craft breweries and had a great time.  Will never go back.  Will never drink their beer.  Always be nice people"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Hmmm beers",
+      "text": [
+        "Great beers all around. Very tasty. Unique location for a brewery. Suggest you patk on the main street. As the little lane the brewery is on offer no real parking option. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017 • Friends"
+    },
+    {
+      "title": "Best beer",
+      "text": [
+        "I liked 7/8 of the on tap samples.   Good staff and excellent atmosphere.   Must see for any beer or baseball fan if you are in the area.   Worth the unusual location.   Far better then Mill Street, unless you need food. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2017 • Couples"
+    },
+    {
+      "title": "Nice beer!",
+      "text": [
+        "We have bought beer from here to take home a few times and enjoyed it. The patio looks nice although we haven't stayed in for a pint yet."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Couples"
+    },
+    {
+      "title": "Excellent All-Around!",
+      "text": [
+        "I have been to over 50 breweries in the U.S. and Canada and this is definitely one of my fav's. For starters, their beer is outstanding. They have a great variety and something for everyone. They come out with new brews and team up with other breweries so there's always something new to try. The brewery gives tours and even has an area to watch the big games. Playoff baseball is a must here! If you love baseball like I do, then the baseball themed brewery, beers and cool merchandise make it even better. The staff are always polite and helpful and it's always a chill place to hang out. I even met the owners and they are great people who take pride in what they do and work hard to deliver some of the best craft beers around. I strongly recommend stopping by the brewery for a tasting, tour or to watch a game. And don't forget to look around for the brewery's mascot, a basset hound named, Wrigley. He's very friendly and even has his own award winning beer! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Great East End brewery!!",
+      "text": [
+        "Their beer is really good. Their Eephus is found in the LCBO and the most reasonably priced, a really smooth oatmeal beer. I haven't watched a baseball game in their brew pub yet, but it looks like a cozy good spot to watch a Jays game. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016"
+    },
+    {
+      "title": "Make the Trek",
+      "text": [
+        "It's a little out of the city but we were very happy that we visited. It's an up and coming brewery but the beer is solid. Its a small but cool space and the staff was great. They don't serve food though. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016"
+    },
+    {
+      "title": "Worth a stop!",
+      "text": [
+        "This was literally our first stop when we arrived. Got there right when they opened and had a flight to sample. They have such a cool space, lots of character. I can't remember his name, but the guy serving us on Monday was great! So friendly and helpful with tips for things to do and see around town. Check this place out!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016"
+    },
+    {
+      "title": "Local Neighbourhood Brewery",
+      "text": [
+        "If you enjoy craft micro breweries, totally recommend stopping by. Located in a 100 + year old warehouse style building but within a residential community makes this brewery worth the visit. Finding a parking spot may be somewhat difficult as the brewery is located on an alley type of road with basically has no parking so we recommend parking on Ivy St which runs parallel to the south.",
+        "They currently have five fermenters so their batches are smaller runs, but they still had seven beers available for sampling. Going with the brewery theme, the beer names choices are cool, and the taste on most is a home run! Suggest trying the Wrigley Pale Ale if still available, some of the proceeds are being donated to a local neighbourhood dog park! Sure it's the name of a ball park, but also it's the name of the brewery's dog!",
+        "Prices are reasonable, 5 oz glass is $2.50+ for each sample in a flight, or choose a larger 12 oz glass for $5.50+. There is only beer available, so there is currently no other alcohol available for non-beer drinkers, although suggest trying a can of the Pilot Nitro Iced coffee brewed by a nearby coffee shop.",
+        "No food is available for purchase, but you can bring in your own. Seating capacity is for approx 50 people.",
+        "We really enjoyed our visit, and service was excellent!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016 • Couples"
+    },
+    {
+      "title": "Baseball meets beer... and they make some of the best beer around!",
+      "text": [
+        "Very impressed with this fun lil Brewery that keeps growing!  Outstanding IPAs and sours.  Fun atmosphere with a ton of original events on a weekly basis!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Solo"
+    },
+    {
+      "title": "Awesome beer, small tasting space, sweet experience",
+      "text": [
+        "Great beer quality, 10$ for a flight (4 x 5 oz of your choice) and small sitting space. Was full at noon on a thursday. I think it’s possible to bring your own food, a plus! Try the Laser Show for a memorable experience, one of the best IPA we had the chance to try in Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Nice place, sweet beers",
+      "text": [
+        "Nice place, great concept. After visiting Godspeed, these beers are a couple à notches under. I love IPAs, tasted 4 plus one saison; all but one were unbalanced, mostly too sweet. "
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2018 • Solo"
+    },
+    {
+      "title": "Round second base and head straight out to Left Field",
+      "text": [
+        "I made the long trek out to Left Field just in time for last call and was rewarded for my efforts. The Eephus Oatmeal Brown Ale is their signature brew and it stands above—it’s exceptional. They offer tours on the weekends, and their events are reputed to be well-attended and worthwhile. I missed the beer and cheese pairing event by a day. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Solo"
+    },
+    {
+      "title": "Quick Stop ",
+      "text": [
+        "Went for brunch at Relish on the Danforth that features some of the beers from Left Field that were crisp and clean so I decided to stop by on the way home. So down the alley I drive (gps almost almost missed the street—alley) and found it no problem. Parking on Saturday for a hour. Mix of locals here from dogs to babies to all ages upwards. Had the grapefruit Saison (Sunlight Park) and was quite nice. They didn’t have the pomegranate one I had at Relish. Eight or so on tap and grab and goes available from the bar / shop.  Think the hours said 11-9 today (Saturday). Very casual with picnic table seating and bagged single serve potato chips available. Don’t really see much else good wise but if they add a menu like that at Bandit Brewery this would be the go to for all in the upper beaches area. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2018"
+    },
+    {
+      "title": "Good times, Friendly people",
+      "text": [
+        "My friend Corey Webb loves to drink. He suggested a stop at this location. ",
+        "I have now been twice for mid afternoon drinks and had a great time both times. ",
+        "quality beer. Friendly staff. ",
+        "Check it out if you have a chance!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Friends"
+    },
+    {
+      "title": "Great spot",
+      "text": [
+        "I been here a couple times now with a friend who lives in the area. This is quickly becoming one of my favourite spots in the city to hit whenever u can. The regular line up for beers is fantastic and I was happy to hear Laser Show is going to be a main stay. Love the baseball vibe in the place  this year's sours have been on point.  I'm hoping to grab some more this weekend. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Hidden Gem",
+      "text": [
+        "I wasn't sure what to expect when walking down the alley to find this place, and what awaited was a truly hidden gem. This place has a great atmosphere, wonderful staff, and some great beers. This is a must-see in Toronto for any craft beer enthusiasts."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017"
+    },
+    {
+      "title": "Dog friendly brewery is a hit in my books!",
+      "text": [
+        "I went for a friend's event and stayed for the beer...  Great micro brewery with select offerings is a homerun- pardon the baseball reference, sort of.  We happen to be there on new release night so it was a popular spot.  Seems the locals drop in for a pint after work or during a dog walk- you get thirsty on those things!  ",
+        "Industrial vibe, small but definitive selection of beer and a place for people to have meetings or events- that's collaboration!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Business"
+    },
+    {
+      "title": "Great beer needs a smile!",
+      "text": [
+        "Awesome atmosphere, we love the history behind each beer and the old scoreboard was definitely a favourite. We tried a flight of 4 beers then ordered 12oz of the Cannonball under our craft beer passport. Bathrooms were nice and clean. Our only suggestion would be a genuine smile from the bartender. She just looked miserable the whole time except for when she was dealing with customers with a baby she clearly knew."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Horrible customer service! ",
+      "text": [
+        "I have been to Left Field Brewery a few times, as I live in the neighbourhood. I was very impressed the first time after meeting the owners and tasting the high end quality of the product they produce. Today however, a Saturday, I lined up to get in. No problem! Once inside, I sat at the Bar, in the left stool behind the door. The place was busy and I understood and patiently waited for a beer. Although there was one gentleman pouring beer two others were washing dishes. I said to Ricardo, after being overlooked several times, does this seat not get service. Ricardo rudely replied “ I don’t know I’m busy doing dishes!” I was shocked! This is the first bad experience I’ve had at a Left Field and would suggest that the owners have him customer service training! Remember it takes a lifetime to build a good business and a day to destroy it! Keep up the good work Ricardo, unfortunately your fantastic owners and great colleagues might be out of a job with you in charge! Really too bad! "
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "Real, traditional, pub-style artmosphere - with GREAT beer!",
+      "text": [
+        "LFB is my go-to place when I want to enjoy a great beer in a welcoming, friendly, 'real' pub style place. LFB also does regular interesting and innovative programming of special events that really add to the desire to visit. But main focus has to remain with the great beers being brewed at LFB. If you are an out-of-town visitor, I would strongly recommend a visit to LFB to get a feel for a real Toronto neighbourhood. I live 30 km away, but LFB is definitely my first choice neighbourhood pub (actually a craft brewery)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Solo"
+    },
+    {
+      "title": "Good beer, dog friendly",
+      "text": [
+        "Left Field is a good brewery that is also dog friendly.  I did a tasting flight of four beers. While I enjoyed each of them, I found the stout to be the best of the bunch.",
+        "The space itself is pretty typical of a brewery. Rather nondescript warehouse space. Parking is available, yet not great.",
+        "Service is rather average. You order and pick up at the counter, then are prompted to tip when you settle up. Glad to tip 18-20%, yet prefer to have service beyond just ordering and grabbing my own beer at the counter.",
+        "Pop up Mexican food vendor was on site the day of my visit. ",
+        "Worth a visit, yet not a standout."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Small but great atmosphere.  I tried one beer and it was very good and unique.  Time to expand!",
+      "text": [
+        "Attended a special event.  It was set up very well and went smoothly.  The main area (non event area) is small so space is limited.  But I am looking forward to going back when I'm not watching my calories so I can sample more selections.  And I'm not even a beer fan so that says a lot."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Really good beer!!!",
+      "text": [
+        "Just stopped in for a few samplers. All the beers were good, a couple of them excellent. We ended up taking home a few 4-packs. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "Cool spot great beer",
+      "text": [
+        "Met up with a pal for birthday beers.",
+        "Same date just 31 years apart, I am lucky to have these guys as pals. ",
+        "Crazy rainy days trees coming down in the alley, known as an Ave ..",
+        "Very cool spot, no food but knew that going in, ",
+        "Great beers ",
+        "Good thing I live an hour away, the world needs more \"Left Fields \""
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "First Visit",
+      "text": [
+        "Back alley...hard-to-find, but worth the trek for this tasting room brewery.",
+        "My favourites are the sours...\"Go-Ahead Raspberry Hibiscus Gose\" and \"Bang-Bang Dry Hopped Sour.\"",
+        "Industrial unit  with exposed brick and adjacent \"special events\" space.",
+        "Good atmosphere.  ",
+        "Little parking...few laneway spots along the factory wall are available,  but most spots in the laneway (Wagstaff Drive) are private residence spots."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Cool place in the hood (Leslieville.)",
+      "text": [
+        "Down an old industrial lane running parallel to super leafy Ivy Ave is one of the “new” Leslieville cool spots. Great micro brews , baseball on the screen all summer but really its the picnic tables, garage doors open to the lane , the kid friendly, dog friendly ambience that makes this place so worth a visit. And now they have food trucks and inside grill street fare to help the suds go down. Very family cool with the hipsters and young professionals. Every now and then a drag queen kids show on a Sunday morning is a joy to see."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Smoothie IPA ftw ",
+      "text": [
+        "Do not drink IPAs because they taste bad and smell worse to me, but the Whip Smoothie IPA is some delicious goodness worth a try for sure. Support a local business and make the world a better place!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Beer and cheese tasting",
+      "text": [
+        "The beer and cheese tasting was great. Good price point. I don't like IPAs and many craft breweries seem to focus exclusively on IPAs. Our favourite beer was the Eephus brown ale. They should sell the cheese at the event as well."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Friends"
+    }
+  ]
+}

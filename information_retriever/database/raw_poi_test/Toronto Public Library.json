@@ -1,0 +1,362 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Public Library",
+    "url": "/Attraction_Review-g155019-d186831-Reviews-Toronto_Public_Library-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "789 Yonge St. ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4W 2G8"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 847
+    },
+    "openingHours": [
+      "Mo-Fr 09:00-20:30",
+      "Sa 09:00-17:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/32/da/48/library.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Architectural Buildings",
+    "Libraries"
+  ],
+  "description": "This beautiful building contains a dramatic interior complete with pool and waterfall.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Excellent visit. Five minutes from Yonge Bloor  Subway station. Lots of resources available. Please Ask the staff for a express ",
+      "text": [
+        "We went to read the Toronto star and Globe and Mail at the Toronto public library located at Yonge Bloor on Friday November 1,2024. We will return to this library again. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Friends"
+    },
+    {
+      "title": "Amazing place to visit and study",
+      "text": [
+        "Unfortunately, we visit almost at the closing time. But we could see all the floors. Amazing ceiling and great space for study, So organized and offers so many activities. SO worth the visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Beautiful old library but many drawbacks",
+      "text": [
+        "As a fourth generation Torontonian , and someone who actually grew up in this city,  it is sad to see the state that this library is in now. The pond as you walk in  is non-functional , and the library is full of vagrants and homeless people looking for somewhere warm to sleep, because the shelter system is ineffective and over-run. Pre-pandemic,  I used to spend many hours here studying because I loved all of the natural light coming in and how there were so many cozy/quiet spots to study in; however there are many perverts who come in and harass young female students as this has happened to me numerous times. There is a lot of theft so don’t leave anything unattended. And this particular library has a huge bedbug problem so be careful about where you sit or put your personal belongings (I once left my knapsack on the carpeted floor beside me  and witnessed a bedbug trying to crawl into my bag- I squished it with a Kleenex and blood came out). I showed the librarian and she admitted they had a huge infestation on the fourth floor. Be careful where you sit! I found studying with earphones in prevented creepy men from trying to talk to me so that helps! Good luck! "
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2023 • Solo"
+    },
+    {
+      "title": "Stop in and get a card if you live, work or study in Toronto",
+      "text": [
+        "A beautiful place to see. Not much else to do in the area so if you are here definitely stop in. The gift shop is not located here.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Business"
+    },
+    {
+      "title": "Perfect place for a bibliophile ",
+      "text": [
+        "If you are a bibliophile, you are surely gona love this place... Its a heaven.. Their interiors, layout everything is well planned.. The collection is huge and the private cubicles are the best concept.. The staff is extremely finding in helping you find your correct book patiently.. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Massive library",
+      "text": [
+        "Huge library with lots of space to relax. Exhibits on fifth floor are nonexistent though--it's just a bunch of books."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Plenty of options",
+      "text": [
+        "This library surprised me not only for its size but also for the vast book collection in it. You can find pretty much whatever you are looking for there and have a nice and friendly environment to enjoy it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Update",
+      "text": [
+        "Amazing library- the waterfall and pool are no longer there! I think the pandemic was the reason. Still amazing and enjoyed the special collection room."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "Mesmerizing public library.",
+      "text": [
+        "Probably the most amazing public library in Toronto. I have visited the Sherlock collection and I was impressed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "An essential public service,",
+      "text": [
+        "An essential public service, with some of the best workers and community-minded people in the world. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021"
+    },
+    {
+      "title": "Lots of Books, Magazines and other items on each floor",
+      "text": [
+        "I was amazed to see lots of books on each floor with different titles. Toronto Public Library are the biggest library that I have ever seen.  I will be lost, if I don't know, how to get around this place. I will return to borrow some books.  It was nice to see."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Impressive Public Library",
+      "text": [
+        "This library was very impressive.  They have done a quality job of determining what people want from their library and they deliver it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Research at the Toronto Public Library",
+      "text": [
+        "It was more of a curiosity to check this attractive building out and I  was not disappointed.  The building is attractive and the services are varied.  The public can browse through the collection, do research on the computers, and check out the special collection.  It has lots of natural light and welcoming.  The staff are very helpful as well. "
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Beautiful Modern Information Space",
+      "text": [
+        "Spacious and modern, this branch has a variety of equipment and rooms to provide information: from computers with Internet and printing, digital hub or even 3d design printing. Tt’s huge, full of work spaces. The only downside are the bathrooms, they are not always the cleanest - but if you go to the higher floors where there’s less traffic they are cleaner. ",
+        "Overall - stunning space, right downtown, with all the books and plugs (for laptops) you could ever need. The various events and presentations hosted in this branch that are free to attend are a great bonus. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Toronto Public Library ",
+      "text": [
+        "It's a 5 floor library, with a lot of space to study and many books to consult. Also on the main floor you can find a coffee shop and bookstore.",
+        "If you love books, it's a must see. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Modern Spacey Library",
+      "text": [
+        "This is one of Toronto's best branches among over a hundred! It has spacious curved lines interior, lots of computers with Internet, headsets and printing, private clear glass meeting and study spaces, digital hub for 3d printing and green screen video room, television sets. A cafe on site Balzac, store, and salon for large events. Hangout here to enjoy and attend free talks and events."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Wedding",
+      "text": [
+        "Had a Marvellous time at my Cousins Wedding. Everything was Eexceptional. Locate was Excellent, Food was Absolutely Delicious and Service was Awesome. Had a Great Time"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Amazing library!",
+      "text": [
+        "Well stocken, lovely reading and resting spot. Café on site. Worth a visit. Displays on some floors, on about the city hall competitors which was interesting."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "Interesting building to look at",
+      "text": [
+        "Opened in around 1976, it is still an interesting building to come have a look at. Big open space in the middle with the books and such around the side. Try riding in the open glass elevators. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "Beautiful and spacious",
+      "text": [
+        "This is a 5-floor library with tons of study spaces (both group and individual) and some beautiful touches. For example, when you enter there is an indoor pond. There are also huge windows on every floor. The lower floors have some exhibits to look at, like the international submissions for the Toronto city hall. ",
+        "The library also has a cafe and gift shop by the main entrance.",
+        "Overall a great place to study and even just walk around for 30 minutes."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Family"
+    },
+    {
+      "title": "Highly Impressive ",
+      "text": [
+        "Toronto Public Library is one of the largest and busiest public libraries in the world. It is highly impressive and is open to all. Nearby paid street parking is available. One hour is more then adequate to visit the inside of this library. Customer service is friendly. Would certainly very highly recommend visiting this off beat attraction in Toronto which any trace is likely to miss out on. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Appel Salon lecture with Karen Armstrong",
+      "text": [
+        "Great location for a very interesting talk. SRO crowd, nice space.  Kudos to the Library for hosting innovative talks that interest a wide variety of people"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Place not to be missed",
+      "text": [
+        "I’m resident of Toronto and member of Toronto Public library. This modern place is one of the best libraries in the world, conveniently located in downtown at Yonge and Bloor not only for residents, but for all people. Tired of walking ? Go to library, relax in comfortable chairs, use computer, washroom, have a coffee and read a book or magazine."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Best Library",
+      "text": [
+        "Tourists and locals alike will find this to be a good spot to visit. ",
+        "Gorgeous space, designed by Raymond Moriama, with tons of books. Virtually everything you can imagine is here. There are tons of great community spaces that make it a vibrant centre as well--small pods for tiny group privacy, rooms, computers, a 3D printer. There is also a frequent rota of authors and other panel discussions that happen regularly (check their website). There's a small exhibit space with frequent changes to the exhibits curated with archival material. The coffee shop has good offerings and is quite cozy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "One of the Best Places to Go to in Toronto!",
+      "text": [
+        "The Toronto Reference Library is a fabulous place with a wealth of knowledge. With about 100 branches throughout the city, it is a great place to do research, as well as to borrow books, also available in a variety of languages. There is lots to learn at the Toronto Public Library and I also have six of my titles in the library."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "If they improve the guidelines for new people would be better",
+      "text": [
+        "Very big and nice location to study. Many books and special location to do printing. Even 3D printing. Just the problem for the new people it is hard to work with the Printer. Some times the assistance can help a lot"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2019"
+    },
+    {
+      "title": "Check out the free programs for all ages",
+      "text": [
+        "Recently we have taken our grandson to several free programs including lego and robotics and coding to multiple libraries",
+        "Programs are free",
+        "excellent staff and many locations throughout GTA",
+        "I highly recommend for free value added programs for kids",
+        "PH"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Alert to all book enthusiasts!",
+      "text": [
+        "The most beautiful library I've seen so far. I originally went to see the Arthur Conan Doyle Room, which by the way is no longer secret, in the reference library. After speaking with the library, I was fortunate to touch and read a 3rd edition (1882) of a book written by my ancestor. This surprise made my visit!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Excellent Library, excellent set-up.",
+      "text": [
+        "You find all kind of subjects. All the books are in a perfect order and it's very easy to choose your subjects."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "ONLINE e-BOOK BORROWING IS TERRIBLE",
+      "text": [
+        "Trying to borrow an e-book online is like swimming through sludge. The interface is slow and cumbersome. The selection of titles is limited. The search feature is awkward and is in desperate need of refinement. This site is an excellent advertisement for downloading books from Amazon."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Great photo opportunity",
+      "text": [
+        "I visited the Toronto Public Library in June 2022.  It is located near Yorkville which is an area full of stores and restaurants.  The main reading room has a great design with red and white and includes some spiral stair cases.  It also had a nice book and gift shop.  It was a great photo opportunity.  In terms of architecture and photo opportunities, I would rank this library up there with other libraries I have visited such as the New York Public Library, the Boston Public Library and the Victoria State Library in Melbourne, Australia."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "more than 5 stars",
+      "text": [
+        "We happened upon this library and were intrigued by the science fiction/fantasy exhibit and the childrens' book exhibit.  What an amazing collection!  The librarians were a wealth of knowledge and patient with our long list of questions.  They showed us incredible artifacts and told fascinating stories.  We have since bragged to everyone about this library."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Lot of space and resource",
+      "text": [
+        "There is a lot of space and resources to go through, This place hold great events from time to time too I would go for work and business meeting, academic research and the events. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Iconic Library",
+      "text": [
+        "This library might be one of the best in the Toronto Public Library system. It holds awesome events, including the Toronto Comic Arts Festival (TCAF), is the location of the Arthur Conan Doyle special collections (a must see for Sherlock Holmes fans), has hard working staff, and is visually stunning. Plus several film shoots and weddings have happened here!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Amazing Resource",
+      "text": [
+        "The central Reference Library is an incredible place.  You'll find helpful staff, amazing resources and a beautiful building to enjoy it all!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "A regular go to for me!",
+      "text": [
+        "The Public Library has so much to offer and there is something for everyone. They have so many free events, wonderful interesting free lectures that I attend as often as I can. I always learn something and always come away fulfilled at some level. I recommend you regularly check out their website. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "great place to study",
+      "text": [
+        "a big large but focus on what you are looking for, lots of places to study alone and with groups, great choices of books and magazines "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Modern open library",
+      "text": [
+        "Great place to hear a lecture. Open architecture also makes it good  to spend time in between activities. Nothing special for tourists."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Great space",
+      "text": [
+        "Love going to the library and spending time reading all the magazines. What a great service in this awesome city."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019 • Friends"
+    },
+    {
+      "title": "Very nice",
+      "text": [
+        "My son, though young, loved books. And this place was the stopped we'd glad we had made to. Awesome place. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    }
+  ]
+}

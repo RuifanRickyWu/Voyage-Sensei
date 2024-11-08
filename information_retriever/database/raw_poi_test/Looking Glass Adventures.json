@@ -1,0 +1,363 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Looking Glass Adventures",
+    "url": "/Attraction_Review-g155019-d8508023-Reviews-Looking_Glass_Adventures-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2944 Danforth Ave Lower Level",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4C 1M5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 573
+    },
+    "openingHours": "Mo-Su 10:00-23:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f8/e1/bf/our-lobby.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Escape Games"
+  ],
+  "description": "Have an adventure you won't forget! We host a variety of escape room adventures which will suit any age and any level of experience. Our games work for as few as 2 players for for up to 10. Choose which adventure you'd like to play and book in advance to play with your own private group. We book parties, family gatherings, community or church groups, camps and schools as well as corporate team building. We have a meeting and party room to help plan a full day with us!",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Excellent family experience",
+      "text": [
+        "This was our time trying an escape room and we couldn’t be happier with the experience we had! We will definitely be going again! Staff is super friendly and helpful!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "An awesome experience",
+      "text": [
+        "A fun place to go with family or friends. The staff is absolutely wonderful. The rooms are well laid out with just enough puzzles to keep you on your toes. I will definitely be returning in the future."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Great afternoon of fun!",
+      "text": [
+        "Great time, fun hour with challenging puzzles. Good atmosphere created by staff, we will definitely be back! ",
+        "We did the attic puzzle and it took me back in time with some old school equipment, so much fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Relics saved and found the Egyptologist!",
+      "text": [
+        "Had a great time with my colleagues! Lots of fun solving the puzzles and hope to continue the fun after visiting their shop!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Business"
+    },
+    {
+      "title": "Amazing Team Outing",
+      "text": [
+        "We had an amazing time! I'm not an escape room aficionado but I've been invited on four others, and this was one of the best! Lots to keep you engaged and easy ways to ensure you're not wasting time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Business"
+    },
+    {
+      "title": "I highly recommend Looking Glass Adventures!!",
+      "text": [
+        "What a fantastic experience! We booked a group visit as a team building activity. We were given a warm welcome by Anna and treated like VIPs. The escape room had a great atmosphere, fun theme and storyline, plus loads of challenging puzzles to solve. The team cheered each time we discovered a new room together! We had a great time working together. The gift store was a pleasant surprise with so many games and goodies, each of us ended up buying a game, puzzle, or treat to take home. I would definitely come back to experience another challenging room!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Business"
+    },
+    {
+      "title": "Great experience.",
+      "text": [
+        "We did the Mystery at Maryweather Mansion.  It was our first escape room and it was great, ver funny adventure and very friendly staff."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Couples"
+    },
+    {
+      "title": "Birthday",
+      "text": [
+        "My daughter had a blast celebrating her 12th birthday at Looking Glass Adventures Inc solving a mystery! Beautifully decorated place!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "Birthday fun",
+      "text": [
+        "11 yo birthday party success ! They did “It Came From the Attic” which was a bit too challenging for them ( my son’s fault for insisting on that one), but with a bit of staff help, he boys got through and were thrilled!  They were engaged the whole time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Friends"
+    },
+    {
+      "title": "Good idea but too glitchy to be this expensive",
+      "text": [
+        "Good puzzle but glitchy and malfunctioning equipment required staff assistance during the game. We had to redo many things and adults had to help the kids because the equipment was very glitchy. For the 300$ we paid to play, I really think this should have been more professional. IMHO, not worth the money. Will go elsewhere next time. ",
+        "I would have been happier if we had been compensated for the issues. Once the staff have to come in to help you, the design isn’t good enough to charge 35$/pp."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2024 • Family"
+    },
+    {
+      "title": "Loads of fun!",
+      "text": [
+        "Came here with a group of friends to do the Operation Flamingo escape room back in August 2021 and we all had a blast!  The escape rooms here are very family friendly and do not include any extra effects that may scare people.  The difficulty level is just right for people of all ages (but don’t come here thinking the escape room puzzles will be a cakewalk), and the puzzles offered are definitely solvable in the quoted amount of time you have to escape.  The hosts and staff are friendly and will be more than willing to give you a helping hand if needed.  They also seem to have a variety of other escape room themes and even a virtual option should you wish to have an escape room experience from the comfort of your home.  Definitely something I will consider if I’m in the mood to go do another escape room.  I’d highly recommend this place for anyone, both virtual and in person - I will definitely be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Fun puzzle-solving at home",
+      "text": [
+        "My friends and I played all three of the hosted virtual games currently on offer: Operation Flamingo, Mystery at Maryweather Mansion, and Walden's Wizarding Shop.  We had Caroline as our host for the first two, and she is fantastic!  Both her guidance in the game and her camera skills were exceptional. We had a different host for Walden's, and he had some trouble managing the camera while performing the tasks needed to complete the puzzles.  ",
+        "Of the three rooms, Walden's was by far the easiest. My favorite was Maryweather Mansion---the puzzles and the physical aspects of the room were very good. It was harder to see and hear some of  what was going on in Operation Flamingo, and some of its items had some damage---plastic spiders missing legs---that made one of the puzzles a challenge in a not good way.",
+        "These are the only virtual escape rooms I've played so I can't compare, but all three experiences were enjoyable. Definitely request Caroline if you can :) ."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2021"
+    },
+    {
+      "title": "Adult Birthday Party - Thank You Lizzy!",
+      "text": [
+        "Booked the virtual escape room with a group of 9 of us for my husband’s birthday party. The entire group had a blast, and our host (Lizzy) did a fantastic job. She was super sweet, and provided just the right amount of info for our group to be challenged, but to ultimately win the game!",
+        "Loved it, and would definitely book again!! ",
+        "Thanks Lizzy!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Virtual birthday part success!",
+      "text": [
+        "My daughter did a virtual escape room for her 13th birthday party, and it was the highlight of the party.  Everyone had so much fun, the host was so helpful and engaging, and the clues were very well done.  I would highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2020"
+    },
+    {
+      "title": "Great Remote Option for Friends or Family",
+      "text": [
+        "Very enjoyable escape room experience. The guide, who has to show every aspect of the physical space virtually, did a great job. The clues were fun. The only downside is that there was so much physical detail I really wished I could have been there in person. But that’s the reality of distance and no fault of the business, who did a great job designing and presenting the game. Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2020"
+    },
+    {
+      "title": "Great fun from your couch!",
+      "text": [
+        "Did online remote room escape May 31 7pmAST with people from Nova Scotia and New Brunswick, (total 8). We all enjoyed it a lot.  I didn’t catch the name of our avatar but he did a wonderful job, followed direction well and didn’t reveal anything without someone in our group drawing attention to it. He also spoke clear and to the point.   The game flowed well, not too easy but now impossible solve.  Some cool mechanisms to reveal clues and interesting story line.   Looking forward to doing another one when available.  I strongly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2020 • Friends"
+    },
+    {
+      "title": "Tween birthday party(11 11&12 years old",
+      "text": [
+        "Best party ever!!!  The young ladies enjoyed the adventure of working together to solve the mystery of locating & returning the priceless treasure to its’ rightful place. There was lots of big laughter, giggles, squeals & cheers of excitement, and confidence of working together. ",
+        "I would definitely do it again, hands down.  All I had to do was bring a few of the birthday girl friends and a cake.",
+        "Loved it!!! The presentation was excellent, seamless transition. Awesome host, who engaged the girls exceptionally"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Family"
+    },
+    {
+      "title": "Amazing Way to Spend An Evening!",
+      "text": [
+        "My partner and I had the chance to do one of the escape rooms at looking glass and we had an amazing time! The puzzles were challenging but very interesting and there was more than one surprise that enhanced our experience. I would 100% go back and do their other escape rooms!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Great for teen birthday party!",
+      "text": [
+        "Booked an escape room experience for 6 teens for a birthday party and it was excellent. Once the online booking was made, the telephone and email follow-up to ensure accuracy and to confirm any changes was timely and professional. Upon arrival, the staff was friendly, informative and eager to please. Caroline, who was assigned to conduct the birthday party portion of the event, was fun and full of enthusiasm. She had the music going, and introduced some party games that had the kids laughing and enjoying themselves. A truly worthwhile experience. Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Excellent family activity",
+      "text": [
+        "Overall was a great family activity.  Game is challenging but not so hard that even younger children can't get caught up in solving the mystery. No scary effects that might upset anyone.  Very easy online booking and confirmation/followup impressive.  Excellent helpful staff and very well maintained facility.  Easily reached  and excellent alternative to going downtown.  Highly recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Great bonding experience!",
+      "text": [
+        "Lots of fun!  My moody 16 year old daughter loved it and talked about it for hours! I have to use at least 100 characters!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Great Family Fun",
+      "text": [
+        "I've participated in all four escape rooms.  Amazing experience.  Brought my teenage son each time and he loved it.  The atmosphere and room designs are completely immersive.  You feel as part of the adventure.  Always a satisfying conclusion to the room.  Friendly and helpful staff.  Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Tremendous Escape Room experience",
+      "text": [
+        "Tremendous Escape Room experience. We went as couple and thoroughly enjoyed ourselves. Booking on line was simple. The location was easy to get to with plenty of parking. We were greeted by friendly welcoming staff who explained everything clearly. The puzzles and challenges were tricky but not too difficult as to be frustrating and we loved being able to get as many hints as we needed to avoid the disappointment of not reaching any objectives. The room setup and technical aspects were excellent (we did Operation Flamingo). Ww will certainly be returning to try one of the other rooms!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Super fun and creative stories",
+      "text": [
+        "Super fun, creative and family-friendly puzzle rooms. My kids (who are 9 and 10) have done all four and want to go back again to introduce their friends to the adventures. Staff members are very helpful and friendly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Awesome Experience!",
+      "text": [
+        "I arranged to take students from my Grade 12 Data Management class to Looking Glass Adventures as part of their course. The idea is to have students construct their own escape rooms based on the curriculum topics covered in the course. To help facilitate this, Christine provided incredible support with the entire booking process and also participated in a Google Meet with my class to talk about the process of coming up with an escape room. ",
+        "Although I personally did not go into one of the three rooms, my students who were separated into groups of five could be heard laughing, squealing and cheering through the walls during their entire session. ",
+        "At the end of their time, all the students agreed that the excursion had been extremely enjoyable and that they had gained from the experience to help them come up with ideas on how to create their own escape rooms for their project. ",
+        "Overall, the excursion was a great success, and I hope to return with future classes in the future! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Business"
+    },
+    {
+      "title": "Time well spent with family... Best Escape Room I've experienced to date",
+      "text": [
+        "Very fun and entertaining game.  Just the right amount of hints from Looking Glass team to create momentum and still feel like you're accomplishing the game.  Great attention to detail and staff was very engaging. 100% recommend.  We did the Wizard Room which myself and two kids really enjoyed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Amazing Night",
+      "text": [
+        "It was amazing!  The story was great, and we felt like we had been transported in time and place to the shop of an actual wizard.   If we were struggling, we could ask for help, and the staff were wonderful.  We thought that the props and the technology were very impressive.  It was the best escape room that we have ever been to.  (We also loved how we couldn't hear anyone except ourselves)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Good for small group as well",
+      "text": [
+        "It’s pretty good. Well designed escape room. Most importantly, it allows 2 people to play instead of a large group. Good for couple"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022 • Couples"
+    },
+    {
+      "title": "Family fun",
+      "text": [
+        "What a great family adventure!  Our four teens actually loved doing something that involved math and did not involve their screens."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "First time",
+      "text": [
+        "Our team of 10 people visited as a group activity there was a mixup at the time of booking however the staff was very accommodating due to availability I was able to move our reservation up earlier also they were pleasant professional the atmosphere was clean breedable overall a great experience"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022 • Business"
+    },
+    {
+      "title": "Wonderful Experience",
+      "text": [
+        "It was such a well made escape room. Really loved the experience. The secrets were hidden properly with so much to think and have fun. Loved it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Best birthday party!!",
+      "text": [
+        "Took eight 15 year old girls to do the Flamingo room for my daughter’s bday party. They had an absolute blast! I explored the game room with my partner while they were in the room and the staff was delightful and so knowledgeable about games! We will definitely be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Friends"
+    },
+    {
+      "title": "Great experience with Looking Glass Adventures",
+      "text": [
+        "Highly recommend for anyone who loves escape rooms. Great staff, great atmosphere, and well made puzzles."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "Escape Room Awesomeness",
+      "text": [
+        "This place is just perfect. We just went for our third room and the rooms and staff have been nothing short of excellent every time. We took friends who had never done an escape room and they immediately said that they want to go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Knocked it out of the park",
+      "text": [
+        "Gorgeous design of the room and smooth flow of puzzles (It Came from the Attic!). Very friendly and informative staff! They also have a vast and impressive board game selection, with a bit of something for everyone. We're definitely planning on going again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Couples"
+    },
+    {
+      "title": "Great escape room experience",
+      "text": [
+        "We liked the escape room we picked because of the unique clues, good difficulty level, and fun story. We’ve done a lot of Toronto escape rooms and this was among the best"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Family"
+    },
+    {
+      "title": "Nyall’s Team.",
+      "text": [
+        "Excellent & well worth the price. I had my son’s 11th birthday. His 12 eleven year olds had real amazing time. The staff was polite & very processional. ",
+        "Thumb up. ",
+        "Nyalls Team. All. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "Great setting",
+      "text": [
+        "Great puzzles in an awesome setting.",
+        "Staff are super friendly and offer hints to keep things moving. A good variety of challenges. Everyone contributed to our win!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "BEST ESCAPE ROOM EXPERIENCE EVER!!!🤩🤩🤩",
+      "text": [
+        "IT WAs SO FUN!!! I did it with my family and we took 57minutes! We will def do it again! 10/10 came here for my daughters bday! She loves it(she’s 11) tho our 7 year old was a bit scared. But she gets easily scared"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Family"
+    },
+    {
+      "title": "It was AMAZING ",
+      "text": [
+        "The staff was genuinely so nice. He even made me a balloon animal since it was my birthday. He was really helpful. I had a great experience! The escape room was amazing. Definitely going back and I definitely recommend!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023 • Friends"
+    }
+  ]
+}

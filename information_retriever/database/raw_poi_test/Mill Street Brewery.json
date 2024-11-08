@@ -1,0 +1,384 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Mill Street Brewery",
+    "url": "/Attraction_Review-g155019-d5920929-Reviews-Mill_Street_Brewery-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "21 Mill St",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5A 3R6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 169
+    },
+    "openingHours": [
+      "Mo-Tu 11:00-23:00",
+      "We 11:00-00:00",
+      "Th 11:00-01:00",
+      "Fr 11:00-02:00",
+      "Sa 10:30-02:00",
+      "Su 10:30-22:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/93/99/e5/imag0439-largejpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Breweries"
+  ],
+  "description": "Get a true craft experience with daily brewery tours, seating surrounding the glass encased, still operational brew house and an ever rotating list of small batch brews alongside our classics. On the go? Our retail store is fully stocked with the freshest packaged Mill Street Brews. About Mill Street Brewery: Our story begins in the winter of 2002 when we opened the doors to our little red brick brewery in Toronto's historic Distillery District. With an earth-friendly philosophy in mind, Original Organic Lager was the first beer we ever made, and the first ever organic beer brewed in Canada. Soon after we impressed curious craft drinkers with Tankhouse Ale, a uniquely flavour-forward brew for its time. In 2006, we exceeded the capacity of our modest brewhouse and made the decision to expand the brewery, converting the original brewery space into a brewpub. 2012 saw us take on Ottawa's vibrant craft beer scene, opening a second brewpub in a historic old gristmill on the banks of the Ottawa River. We certainly never lost our dedication to our craft and passion for pushing the envelope. Our ever-expanding portfolio now includes over 60 unique beers earning us well over 100 awards, including 3-time Canadian Brewery of the Year. That's our story up till now. Who knows where our \"Great Beer\" adventure will take us next?",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Pub in a Historic District of Toronto",
+      "text": [
+        "In October a friend and I went to the Mill Street Brewery, an establishment we had visited 15 years ago.  The place seemed to have expanded since we were last there.  We had a beer and an early dinner, which consisted of beef short ribs, mashed potatoes, and vegetables.  The service was friendly and attentive but food was just average."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Best poutine we had in Ontario",
+      "text": [
+        "Probably the best poutine we had in Ontario.   Large restaurant, good beers.  Service was very good.  In a high tourist area, but worth visiting."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Business"
+    },
+    {
+      "title": "Good place for a beer",
+      "text": [
+        "Nice place to have a drink in the Distillery District. One of Toronto’s historic breweries, and they do have a large beer list. I did not try the food, but the beer and the experience were pleasant."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Waste of money!!",
+      "text": [
+        "We ordered nachos, the lettuce wraps and drinks. Waiter was nice and efficient but……",
+        "Nachos $28 not much on them and we had to pay an extra $4 for guacamole. The guac was such a tiny serving and was disgusting quality. The lettuce wraps were nicely presented but they gave the limpest 4 pieces of lettuce I have ever seen to wrap the ingredients up in so everything g fell apart immediately. 2 normal size pieces of lettuce and 2 tiny unusable sized pieces of lettuce. They may as well of chopped it all up and gave us a fork. Go somewhere else. Huge waste of money."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Cavern of a Brewery ..",
+      "text": [
+        "If you love your beer then Mill St is for you. A great selection of your normal and not so normal beer flavours . It also comes in three different sizes . Opt for large and save your server a few walks !! Huge indoor/ outdoor space .. Food is your regular brewery fare ..  Great spot in the Distillery district.. Recommended!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Nice Atmosphere and Food",
+      "text": [
+        "We had a fun and relaxing evening with family. This a very large pub with outdoor seating in summer. The brewery produces a variety of beers. The food menu features classic pub fare, such as burgers, wings, nachos, as well as pizzas. Food was tasty and went well with the beer. This is one of the best brewery pubs in Toronto, and I would highly recommend it to anyone who loves craft beer and good food. The service was friendly and efficient, the atmosphere was cozy and lively, and the prices were reasonable."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2023 • Family"
+    },
+    {
+      "title": "Unique beer",
+      "text": [
+        "Unique beer. Mill street brewery offers variety of beer. At the time of my visitation, pumpkin beer was available, so I grabbed that. It was very unique. I wish I could buy more."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Premium Service",
+      "text": [
+        "We are on a driving tour of Canada and USA and arrived in Toronto after a long and tiring journey from Ottawa.",
+        "We decided on an early drink and meal at the Toronto Mill Street Brew Pub.",
+        "The place was huge and rammed with hundreds of customers and the outside barman was having a bad one! A champagne glass was broken and he lost it and walked.",
+        "After a little chaos, two managers showed great leadership and customer service, directing staff and caring for customers in a first class manner.",
+        "Great job, well done.",
+        "Beer and food great"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Good food and beer",
+      "text": [
+        "We called in here after wandering round the distillery district I had the pulled pork taco, just because the beer I chose was meant to be a good accompaniment for it.  Then Taco was on the small size and not overly flavoursome.  On the other hand the  chicken wings were fantastic, huge bowl of them a massive amount of flavour. Mostly pepper sauce 😊"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Friends"
+    },
+    {
+      "title": "Must Visit if you are in Toronto ",
+      "text": [
+        "Old brewery converted into a pub. ",
+        "Good food and good music. ",
+        "The place was buzzing and packed. ",
+        "The Pizzas were good, beer, and fries were just perfect. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2023"
+    },
+    {
+      "title": "Great selection of craft beers",
+      "text": [
+        "We started by just trying a selection of their craft beers. We ended up staying and having lunch and a glass of our favorite beers from the tasting. The bartender was knowledgeable and engaging. We also very much enjoyed our lunch selections. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Awesome experience ",
+      "text": [
+        "Would come back in a heartbeat. Food and service were top notch. Highly recommend anytime. Beers were awesome. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Beer lovers spot",
+      "text": [
+        "We love trying different craft beers and Mill St offers an extensive beer selection. We tried 4 different beers and all we delicious. We stayed for dinner. Their Angus burger and Thai curry mains went well with our beers. On the menu, most items had suggested beers.  We stayed inside.  They have outdoor patios and a large bar area. Worth a visit and conveniently located in the Distillery District. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Great beer range",
+      "text": [
+        "We visited Mills street restaurant today & we had some good no of rounds of beer with different flavours, food is also of high quality, service was good."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Family"
+    },
+    {
+      "title": "Decent Bar Food; Horrible Dining Experience",
+      "text": [
+        "This was a horrid dining experience for my boyfriend and me, who came here on a Saturday afternoon in late March. The hostess was too busy flirting with her friend/coworker/who knows who cares to even bother to greet us. It took five minutes for us to be acknowledged and told that we could sit at one of the hi-tops near the bar. Upon finding a table, we waited another 15 minutes for the server to actually stop by and take our order. It's not the server's fault--she was friendly and apologized for the situation several times--but at the end of the day, there isn't a good excuse for this nonsense. The vegan burger and skinny fries were decent and probably the highlight for us. All in all, we won't be coming back until the dismal service is addressed."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Great pub / brewery to get out of the cold",
+      "text": [
+        "Came to Mill St to check out the distillery precinct. This brewery/ distillery has a fantastic vibe to it. Classic pub fare and great beers brewed on site. I would highly recommend this place to come and eat, catch up with friends & just hang out. Our waitress was lovely. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Family"
+    },
+    {
+      "title": "Great beers and atmosphere!",
+      "text": [
+        "We had a day to spend in Toronto, and found ourselves at Mill St. Brewery towards the end of our day and so glad we did!",
+        "This place is HUGE! The atmosphere is great whether you sit inside or out. We sat on the patio because it was a gorgeous day out. I got a flight because I like to try several beers at a new place, and it did not disappoint! We sat at the bar, and our bartender was extremely helpful and nice. ",
+        "They always had food that looked amazing, but we didn’t try any."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Cool Landmark, Beer isn’t great",
+      "text": [
+        "I went on a tour of the Distillery District when I was in Toronto last week for Spring Break with my friends, and we concluded our tour at Mill Street, where we got to see the facility and sample two of their craft beers for free. I will say, it was very cool to see the oldest brewery in Toronto— it is certainly a landmark that many Canadians are very proud of— but the beer wasn’t all that great. I tried two different flavors, and both were so unpleasant that I didn’t finish either one of them. The guy who helped us though was very nice— he really knew his beer, and did his best to help me choose one I liked! I don’t regret stopping by, again, because it is a landmark, but I would have been upset if I had to have paid for the Beer."
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Nice place",
+      "text": [
+        "Went to the Distillery District in heavy snow and spent a couple of hours here. They have a great selection of beer which we used to wash down a giant pretzel. The staff were very friendly. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Disappointed",
+      "text": [
+        "Popped in for dinner while visiting the lights festival at the distillery district.  The \"greeter\" at the door was cold to say the least, not the friendly service you expect in Toronto.  Our server was no better.  Sighed and looked disinterested when we asked her to explain what sides were served with dishes.  My son had a burger which looked lovely, I had a chicken and chorizo pot pie which was served with cold fries and very little chicken and no chorizo.  The place was very busy therefore the service was slow, food dumped on the table, server didnt ask if we needed ketchup etc.  I think the staff feel they are doing you a massive service by allowing you in. please do not waste your money. Much better restaurants in the area with better food and service."
+      ],
+      "rate": 2.0,
+      "tripDate": "Feb 2019 • Family"
+    },
+    {
+      "title": "My favourite bar in Toronto and the best beer I have ever tasted.  Praise indeed",
+      "text": [
+        "I was in Toronto for 6 nights with my wife.  We visited Mill Street Beer Hall and Brewery Pub after internet research.  Both great but the Beer Hall was by far our favourite.  It was a 20-30 minute Uber ride from our hotel but that did not stop us visiting 4 times out of the 6 days.",
+        "First off the beer.  OMG.  The Vanilla Porter is the absolute best beer I have EVER tasted and I have been to a lot of craft beer establishments.  The seasonal Nightmare on Mill Street and the Cobblestone Nitro Stout came a very close 2nd and 3rd.  We sat at the bar the first time we visited as we had planned to eat next door in the brew pub.  The next three times we visited, we always sat at the bar.  The waiters were extremely friendly and efficient and we got to know a couple of them quite well by the end of the trip, Clint and Eric.  They were brilliant.  ",
+        "I just can't rave on enough about the quality of the beer in this place.  On our last day in Toronto, we had about half a day before we had to leave for the airport so with all sightseeing done, we rocked up at the Beer Hall for our last Canadian beers and decided to have lunch as well.  We still had this sat at the bar and the food was lovely.",
+        "I've seen some bad reviews on here and had a read as I couldn't believe that anyone would find anything bad to say and on reading them, I just think that some people are overly fussy.  Yes we went slightly out of season being early November and I can imagine it being very busy in Summer or at Christmas and maybe people visiting at this time had a different experience.  I though can only speak from my personal experience and if I was ever in Toronto again, this would be the first place I would head for.  it was fantastic and a memory I will treasure forever."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Not just for drinkers",
+      "text": [
+        "Caught a local bus to go to this new tourist destination.as they called \"The Distillery Historic District\" with plenty of things to do & see other than drinking. It's a Dining &  Architectural Wonder for whom appreciates the old & historical. Picked up a simple lunch in well known Mill Street Brew Pub & The Beer Hall. My highlight was a selfie in the \"Love\" sign where I visited in many part of the world. Some nice art gallery, fashion boutique shops & not to miss a taste of local ice cream."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Great Pilsner ",
+      "text": [
+        "Spent years in Munich and appreciate a good pilsner- but been consistently unimpressed by North American “craft beers” for the last 30 years - BUT - the Mill Street Organic Larger from Toronto is easily the best none Bavarian “Bavarian style beer” i’ve had .  Great job guys- don’t change it !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Great food and beer",
+      "text": [
+        "Stopped in here for lunch and it was terrific.  Great beer and great atmosphere.  Nice place to eat lunch in the Distillery District."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Dinner!!!",
+      "text": [
+        "Popped in for dinner whilst looking around the Distillery area... i had the fish and chips which was ok apart from the fact that they use skinny fries instead of thick cut chips as were used to in blighty...the wife had the chicken and chorizo pot pie which she said was great... nice atmosphere and good service....: "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Historic Distillery District ",
+      "text": [
+        "We’ve actually eaten here twice on our two visits to the distillery area",
+        "First time here, we ordered a glass of Merlot at €8.25 CAD and a mixed plank of 4 x 8oz IPA’s at $14.00",
+        "We had a chicken and chorizo pot pie which was served with a tasty salad $18.00 and a Chuck burger and chips at $15.00",
+        "The second time we ate here we had a pint of IPA at $8.65 and a 6 0z house red at $8.25 and two Angus burgers with fries",
+        "At $17.00 each",
+        "Great atmosphere, sat outside in the sun people watching and listening to the street artists",
+        "The service and food was good on both occasions and would not hesitate in recommending this place"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Amazing Food and Beer",
+      "text": [
+        "It was busy but it was such a cool place to have a beer and enjoy lunch. There is plenty of seating and the staff were quick. The Apple 🍎 Cider was tasty. I enjoyed the poutine and the others some burgers. This is a working Brewery and there is plenty o see and do there. A must see."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Fish and Chip Lunch ",
+      "text": [
+        "Food was great, really fresh and crunchy, I’d definitely order this again. I ordered a tasting tray of the local beers, they were okay but I’ve tasted better. Above all, great atmosphere and location and worth a visit. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Ok",
+      "text": [
+        "Popped in for a beer with my wife. Although the place looks good and the food looked good, we were asked to sit at the bar as we weren’t eating. Also we tried a cider that came in a jam jar which always makes me think somewhere is trying too hard. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Good beer but",
+      "text": [
+        "Just came home from a disappointing visit to this restaurant. With another couple we went for a post play dinner. ",
+        "Food was below average in quality - I had the Thai curry chicken “mild” and although they put chilies on the side there was a 5 alarm blaze in my mouth. Could not finish most of meal. Our friend’s beef was over cooked, the meatless burger had no flavour and the fish was so-so.",
+        "Don’t really think they care anymore about taste, flavours and being a great dining place. Just process the crowds through and clear the table for next clients."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Very good service but fish and chips were average.",
+      "text": [
+        "We have dined here a number of times over the years, often ordering the fish and chips.  At our most recent visit the chips were cold and my fish was over cooked and  VERY small (long and super skinny). The first piece of fish I cut off to eat was an inch of batter with no fish inside.  There would have only been about 3 bites of fish in the whole piece.  ",
+        "However the staff was excellent and when I explained the problem and asked for a new piece of fish, it was no problem.  A new, much larger, better cooked piece of fish arrived. We likely won’t be returning anytime soon for the fish and chips but the service was very good."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2023 • Couples"
+    },
+    {
+      "title": "Great food",
+      "text": [
+        "We came here while exploring the Distillery District. We were sat quickly and it wasn’t terribly busy when we got there. Even though it wasn’t very crowded, the waitress seemed to be very busy and didn’t have much time to tend to us and every process of our dining experience took longer than it should have. As far as the food though, everything looked and tasted excellent and the food was some of the best we had while in Toronto."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2022 • Family"
+    },
+    {
+      "title": "Total service fail ",
+      "text": [
+        "Blond waitress had a meltdown, because we were brought a raw burger. She was snotty when I asked her if it said medium rare on the menu and she lost it. KUDOS to her for apologizing, but I wasn't the least bit rude or challenging when she decided to take her day out on us. Won't be back "
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022 • Friends"
+    },
+    {
+      "title": "Don’t waste your money!",
+      "text": [
+        "Very unfriendly service. Ordered poutine and got it before my drink. Fires had been sitting there, gravy cold and tasteless. Will not visit again. Did I mention the unfriendly service? Shame because it is a beautiful place and atmosphere."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Great place this!",
+      "text": [
+        "THe Mill Street set-up is a great place to wander about in as there are plenty of pubs, bars and eating places to enjoy!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Grateful!",
+      "text": [
+        "We, my husband, son, daughter-in-law, and 4 year old grandson enjoyed the food and atmosphere at the Mill Street Beer Hall part of this group. We enjoyed the fried fish and chips, burger, chicken fingers, schnitzel, and a brunch dish. The beer was enjoyed, too. ",
+        "My ‘Grateful’ title is a result of the manager taking the time to find a contact person who was then able to notify me that I had left my purse in the restaurant!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Family"
+    },
+    {
+      "title": "Terrible service - would t bother! ",
+      "text": [
+        "Visited here on light night and was added to list for a table of two. We were given a pager and told to wait 5 mins. ",
+        "After waiting for 25 in the lobby, and watching three other tables of 2 being called (who came in after us) we went to find out what was happening. ",
+        "The hostess explained they tried to page us and maybe we walked too far away for the pager to work. After explained we’d been stood in the doorway, they went to check for a table. Absolute disorganised chaos. Of course no tables remained as all the tables for two had been taken by those who walked in after us. ",
+        "No offers or apologies. We were asked to wait in the tasting room whilst a table become free. Absolutely not. Walked out before wasting another 20 minutes to be forgotten about. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2020 • Couples"
+    },
+    {
+      "title": "Great place to grab a drink and appetizer!",
+      "text": [
+        "My husband and I were checking out the Distillery District and happened upon this place for an early lunch- around 11:00.  Lots of drink choices- and the Montreal Smoked Meat Poutine- amazing!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Free beer !!",
+      "text": [
+        "Decent menu.  Some vegan stuff.  Good burgers.   Love the beer menu.  Free samples are nummy ",
+        "Service is good.  Kind of Loud though. Like 87db "
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019 • Couples"
+    },
+    {
+      "title": "Really Friendly Service ",
+      "text": [
+        "On Sat Nov 23rd, my friend and I went to the Toronto Christmas Market. It was a great afternoon weather wise and having never been to the market it was a great treat.  Finding a place to eat wasn't too difficult, the Mill Brewery sounded perfect.   I just wanted to say that although the place was packed and we were told it would be up to an hr wait, our buzzer went off with 20 min and we were seated right away.   The food came nice and hot and in particular I wanted to give a shout out to our server Dylen Guiry. He was so friendly, knew the menu inside out and was very attentive even during a busy night.  There was a bit if a hicc6with my order and Dylen was quick to rectify the situation.  Overall delicious food and pleasant service. I'd definitely go back again.  If you have Dylen as your sever just say the ladies with crabcakes and double fish and chips did come through with a Trip Advisor review.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Friends"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Escape Games Canada",
+    "url": "/Attraction_Review-g155019-d7302775-Reviews-Escape_Games_Canada-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "15 Kodiak Cres",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M3J 3E5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 93
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/04/3f/2c/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Escape Games"
+  ],
+  "description": "You and your closest friends step into an alternate reality with one goal: to accomplish your mission and escape. You'll be faced with challenging puzzles, cryptography, obstacles, and a time limit of one hour. Think you are smart enough?",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Noriko was fun and scary",
+      "text": [
+        "Such a fun place for escape room games. Their rooms are large enough to explore in amd move around to solve the puzzles. Very friendly staff as well. I've tried the Noriko mission and Pathogen mission, both were super fun. Between the two, I enjoyed Noriko a lot more because it was scary."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Friends"
+    },
+    {
+      "title": "Very Scary",
+      "text": [
+        "We did the last resort room, and it was incredibly immersive. Excellent customer service and room design."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "Escape Games is by far the best escape place I visited in the last 5 years.",
+      "text": [
+        "The place is well decorated, very efficiant system. The stuff is professional and courteous The Missions are superb, wee designed to give you the thrilyou looking for. Tried all their rooms at least ones. The tech level is years ahead of the others I visited. All around, the best Escape place. If you plan on going, book two missions. We used to book one and then wanted to do a second onebut not always they had the space.",
+        "I would advise to groups going, don't try and do it with 4 players, it's mor fun with 6 or more."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "The room we did was well done.",
+      "text": [
+        "Great rooms and the overall experience was great.  We booked for a specific time and the group before us ran late so while we rushed to get there we ended up having to wait an extra 20 minutes which meant 2 members of our group had to leave early."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Two Escape Rooms in one night",
+      "text": [
+        "Our group of friends does an escape room each month, so while on a trip to Toronto, we decided to fit our monthly escape room in during our trip. This place was pretty nice, I like how they set up up in the lobby to wait, we did The Unknown first and I absolutely loved it, we were on edge the whole experience. The second room we did was Mindshaft, I could have completely done without this room, it’s not really a typical escape type room more of a multiple brain teaser room that you play over and over until it’s time to progress to the next room. We were so bored in the final room, we could have walked out before our time was up. If we lived in the area I would still have loved to come back and done some of the other rooms they offered."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019 • Couples"
+    },
+    {
+      "title": "Mansions of Madness fans",
+      "text": [
+        "It was our teams’ second time visiting Escape Games Canada. We came specifically to play the new Mansions of Madness themed room The Lost Will. I was incredibly impressed with the level of details, the use of tech, and all the Easter eggs inside.",
+        "Staff were great, a few staff in particular spent some extra time talking about the board game with us which of course just bumped up the customer service level.,",
+        "You don’t need to have played the game to enjoy this room, if you’re into Lovecraft/Occult or just really well themed rooms I think you’ll have a great time.",
+        "Upon reflecting on the room and the puzzles, I do think the difficulty on this one will be a little higher for folks who are new to escaping, especially if they’ve not played the board game before. I would not suggest this room for beginners but I would encourage everyone to go get some escapes under their belt and then come to this place. It’s worth the premium price. ",
+        "Lastly, a star in this room is the hint mechanism. It actually allows you to continue trying puzzles/working things out rather than fighting over whether or not to call for a hint. It helped us pace the game really nicely and it works wonderfully in the narrative."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "The unknown ",
+      "text": [
+        "10/10 amazing !! Highly recommend if you like horror movies . It’s scary and I don’t get scared easily. AmAzing production and overall experience . Actually wish we could do it all the time. By far the best room we have all ever done . ",
+        "If they recorded all of us and we got to see the video , would have died laughing at the things they got us to do 😂"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Great introduction to escape rooms",
+      "text": [
+        "We were a 4-person group with varying levels of experience so we chose the Mayan Curse room as an introduction. It was great! The atmosphere was wonderful and the puzzles weren't too difficult once we got going. We were a group of university students and so, being taught critical thinking, definitely overcomplicated the puzzles at times! We got out with literally a minute to spare, so we were very happy about that. A tip - make sure you check everything at least three times so you don't miss anything ;)"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Mindshaft",
+      "text": [
+        "Mindshaft is not an escape game but an adventure game but still just as much fun! We have done almost 30 escape rooms and this adventure game was just as challenging and exciting I definitely recommend trying it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Ruined the Day",
+      "text": [
+        "Completed the rest of the room in 30 minutes, the final \"puzzle\" was a roadblock of an endless process of elimination, ruined everyones experience as we stood around for 30 minutes, no labels, hints, or player engagement."
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Noriko was some seriously spooky stuff",
+      "text": [
+        "I'm actually writing this review some time after I went to Escape Games and did their \"Noriko\" room, however the entire experience is still completely fresh in my mind (And in a good way, I mean). I've been to several other escape room attractions across southern Ontario, but this one blew all those other ones out of the water by far. Allow me to list the pros and cons of this escape experience to let you know my opinion on it as a novice escape room fanatic:",
+        "+ The atmosphere/production value was second to none. Of all the escape room attractions I've been to, this is the only one where I truly felt immersed in the world the game presented. Sure, there were a few non-authentic props here and there, but that's just being nitpicky if you're to complain about it. The room truly felt scary, without needing to rely on jumpscares or other typical scary elements. ",
+        "My favourite memory of this rom: I went with my brother and his friends, who are all your typical early twenties dudebro type figures. When presented with a new area to explore, all of us were bottlenecked at the entrance arguing back and forth 'No, you go first! No, you go first!'. It was hilarious to see these macho dudes all terrified to enter a room. ",
+        "+ Speaking of the atmosphere, the story of the room was excellently crafted. It's not just one of those rooms where they throw you into a room with a bunch of puzzles and go \"here, get out.\" They truly tell a captivating story to get you hooked in the room, and give you a meaningful goal to achieve while in there that concludes the story. It was such a wonderful touch and really spoke miles about the dedication these guys put into their experiences. ",
+        "+ The tech of the room was also amazing. This isn't one of those rooms where the only things you're doing are finding the codes to combination locks. There's some seriously high tech stuff in here that adds a level of professionalism to the already rather breathtaking experience. We experienced no technical difficulties either, everything worked perfectly smooth from start to finish. ",
+        "+ The staff was very friendly and helpful, me and the woman at the front desk had a nice conversation before we did the room and the gentleman who came to greet us at the end was also quite willing to talk about the room and our performance. It made me feel very welcome and definitely left a smile on my face. ",
+        "- Now, here's one of my two complaints if I had to choose any: This room seemed almost too easy. The website listed it as an 'advanced' room and recommended you play with 7-10 players. Even the woman we bought tickets from commented on how we might not be able to complete the room considering most of them were first-timers and there were only 5 of us (The bare minimum the room allows). We completed the room with over 20 minutes to spare! I can't tell if we're all just very smart, or if the room is overcompensating on the difficulty. ",
+        "- The hint system was both great and not so great. It was great because of the tech and how it was implemented, I found it a very innovative way to create a hint system rather than just the usual \"Speak into the walkie talkie to get a hint\". However, a fair warning for anyone wanting a hint: These are not 'hints'. A hint, in my mind, should gently nudge the players in the right direction for how to solve the puzzle, pointing out things they may not have noticed and giving them a clue on how to solve it. This is not the 'hint' button, it's the 'okay dummy, let me show you how to solve this' button. It essentially gives you a complete walkthrough on how to solve a puzzle. So fair warning, don't press one of the hint buttons unless you're absolutely stumped and don't mind essentially skipping the puzzle. ",
+        "Well, there we are! My complete review of Noriko at Escape Games! An amazing experience from start to finish, just a few details short of being a perfect 5/5 experience. I wholeheartedly recommend, and am quite excited to go back and try one of their other experiences. I was afraid my brother's friends wouldn't be as into it as I am (I'm a super geek and they're... the opposite), but they all couldn't stop talking about it for nearly hours after we went! We're all very excited to go back and try out \"The Unknown\", as we could hear the screams of it's victims from all the way inside the lobby. I bet that one's a treat!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "Just As Good As The First TIme",
+      "text": [
+        "This is the second visit to Escape Games and it was just as good as the first time. We did 2 of their missions and had a blast. Noriko was my favorite. It was intense and realistic. Enjoyed every minute and will go back again the next time we are in Toronto. Their location is easy to get to by subway and they also sell snacks and have board games for you to play while you wait for your mission to start."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Family"
+    },
+    {
+      "title": "Amazing",
+      "text": [
+        "We were a group of four and it was our first time. We did the Mayan Curse. It was amazing. the details of the rooms and the puzzles were incredible. We escaped successfully but we took almost the whole hour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Amazing experience! ",
+      "text": [
+        "Went to Escape Games with a group of 6 and we did The Unknown game room. It was honestly the best I've been to!! The effects and atmosphere was amazing! Not going to spoil it, but one thing I can say is it can be scary. Definitely an unforgettable experience for me. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Fantastic! ",
+      "text": [
+        "Hands down the best escape room experience I have had, doing about 20 rooms this by far blew away the competition. We did the \"unknown\" and \"crossroads\" both puzzles very cool, design was awesome, staff was great. Must do for escape enthusiasts!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Business"
+    },
+    {
+      "title": "THE BEST!",
+      "text": [
+        "I went with 6 of my friends to Escape Games Canada and we signed up for the \"Haunting of Noriko\" game. This was by far the best room escape I have done in and around the Toronto area. I won't say much about the actual game itself but the decor was excellent and the game itself was hands-on and challenging (we came close to solving!). I have already booked my next night out here and look forward to returning!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Friends"
+    },
+    {
+      "title": "Hands down, the best escape room experience",
+      "text": [
+        "I consider myself a bit of an escape room junkie, and I've tried upwards of 10 different places across Toronto and the GTA... nothing even came close to this one. I've done End of the Line (which has been changed to Crossroads now I believe), Noriko, and the Unknown, each with different groups of friends and EACH ROOM was phenomenal. I actually can't pick a favourite! Unknown was an unforgettable experience; Noriko was very spooky, and End of the Line was very challenging and captivating."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Friends"
+    },
+    {
+      "title": "Escape Room of Your Dreams? Look No Further.",
+      "text": [
+        "As an avid lover of Escape Rooms, I've found myself especially drawn to the facilities that prioritised not only the difficulty of puzzles, but the immersion of the rooms. I can't tell you how many times my friends and I had entered an Escape facility and entered rooms that were filled with dollar store props and an unconvincing layout. ",
+        "Escape Games has changed the game. ",
+        "The staff are extremely committed to making you and your team feel completely immersed, supported, and ready to have fun! We completed the Crossroads room (takes place in a subway) and were so immersed we could not BELIEVE how realistic everything seemed, complete with lighting, sound effects, etc. It almost feels as though you're on a movie set. This made the experience absolutely worth the money and us not even getting to the end. The puzzles were also challenging enough for us to genuinely have to think and work as a team in order to bypass them, but not so illogical or non-linear that we felt completely helpless or overwhelmed by them. ",
+        "We have quickly learned to love this escape facility and will definitely be back to try all the other rooms. If you're anywhere in the GTA and are looking for a great time, do not hesitate to come here!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Best Escape Games in TORONTO",
+      "text": [
+        "WOW! I have completed 4 rooms here now ",
+        "The unknown- Scary as sh**- very immersive- 18+ - not timed due to the fact that it is about the experience not the time",
+        "Bleak Prison- great game for teamwork- immersive and great puzzles",
+        "The haunting of Noriko- scary but only due to the fact that they made everything look and sound scary with the noises- HALF the level of scariness from the UNKNOWN however.. WOuld be best to try this room first before you do the UNKNOWN to make sure you ready ",
+        "Crossroads- Not my favourite but it was still very cool - good layout and puzzles - you must do this one quickly to succeed in escaping . ",
+        "Have fun"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "Amazing room designs and puzzles",
+      "text": [
+        "I read a review of Escape Games Canada on EscRoomAddict.com and had to play myself. I was not disappointed. We played Unknown and The Syndicate (Feb 3, 2017). Both were outstanding and among the best rooms that I have played in the GTA. Absolutely worth your time and money, and I'll be going back to play more rooms there for sure. I would book 2 rooms to play back to back, because they are great. ",
+        "Note: Parking is a bit lacking there, so if you go at a busy time it might be tough to get a spot."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "A must do! One of my favourite summer activities!",
+      "text": [
+        "Every year I come to Toronto to visit family and Escape Games Canada is ALWAYS one of the things on the \"must do list.\" If you're a beginner or an experienced 'escaper' these guys have something for you. I have done different escape games all around the world and these are some of, if not the best ones I've done. The puzzle are creative and challenging but never too obscure or abstruse. Great staff that helps you get started and if you're stuck and the new electronic hint system is very helpful. I cannot recommend this place more highly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "The Haunting of Noriko makes for a challenging and entertaining evening. Recommended!",
+      "text": [
+        "A bunch of us decided to give The Haunting of Noriko a try, and it was well worth the time! Our group consisted of people who are fairly experienced at escape rooms and some with much less experience, and everyone had a great time.",
+        "Some of us have done escape rooms with Escape Games before and they are usually well designed with challenging puzzles. The Haunting of Noriko was no different. A creepy back story, a (well decorated) eerie haunted house, some good scares, and a range of different kinds of puzzles to solve (task-based logic, indexing, memory, and association) made the evening lots of fun. ",
+        "Escape Room Games says The Haunting of Noriko can accommodate 5-12 players but that it's best with 7-10 Players. I agree; there were 7 of us in our group and there seemed to be enough to keep everyone busy most of the time. While 5 people would be enough to solve all of the puzzles, I think that with 12 there might not be enough for everyone to do.",
+        "Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Haunting of Noriko",
+      "text": [
+        "Well that was intense! We did this super scary escape room with 5 people (really could have used a few more) and it was tough (for us!) It was like doing an escape room inside a haunted house - we were on edge the entire time. The staff was great - helpful, funny, and made us feel it was totally fine to ask any questions we had. We will definitely go back to try out some of the other rooms. Highly recommend the Haunting of Noriko!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "We were a group of 11 (from our 30s all the way to 60s). We booked two rooms, the Mayan and the Prison. It was our first time and from the beginning to the end, we enjoyed our experience. I have called Escape Games a week ahead of time and the lady representative on the phone was very friendly, patient and helpful in terms of guiding us to choose the right kind of rooms for our group (some of whom were older and not well versed in English). We were divided into two groups, a group of 5 in Mayan and a group of 7 in Prison. While we did not manage to escape, we enjoyed every minute of being in the room. The staff was very friendly, they greeted us, helped us set up, walked us in the room, gave us flashlights when we asked for it, and at the end when we did not finish the game, they walked us through the rest. Our room (Mayan) was super cool, well decorated, we loved the puzzles, and I think if we had a bit more time, we would have managed to escape. We loved it, we recommend it and we will go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "What a great experience",
+      "text": [
+        "Four newbies.  One room... to start... a GREAT adventure.  We picked Escape Games because of the reviews and the fantastic staff.  From the moment this newbie called to today as I write the review, everything about Escape Games is fantastic.  You can't really mentally prepare yourself for such an adventure.  Go in with an open mind and have fun.  We did the Mayan Curse as our first ever Escape Room and loved it.  We will definitely go back to try and Escape more rooms. We were not \"successful\"  but we had such an amazing time.  Staff is friendly, professional and very helpful!!  100% recommend!!!  Can't wait for Room 2!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Friends"
+    },
+    {
+      "title": "We miss you Escape Games",
+      "text": [
+        "My friends and I always have a wonderful time here, the escape rooms are second to none, the prices are great and the customer service is exceptional! Please make more rooms, we'd love to solve them all! Would love to see a downtown location, it's a bit hard to get to."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Friends"
+    },
+    {
+      "title": "Best escape co. in Canada",
+      "text": [
+        "My friends and I love escape rooms and have visited many throughout the country. Toronto and GTA folks are lucky to have the best ones so close! ",
+        "I have done every room except Noriko and can't wait for them to add more. We visit every time we come to Toronto and each experience is so fun & satisfying. ",
+        "The absolute best experience we have had with this company is The Unknown as it is really immersive with unique puzzles. Crossroads is also very well done.",
+        "The staff is super friendly, helpful, and also really into making your experience a positive one. ",
+        "I would recommend Prison & the Mayan one for beginners."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Amazing!",
+      "text": [
+        "LOVED this place! I’ve done 8 rooms so far and this one was my favourite. I highly highly HIGHLY recommend Escape Games Canada! We did ‘The Unknown’ and it was AMAZING!!! The front lobby is so inviting and moody. Drinks and snacks ($) available. Lots of comfy seating and lots of other games to play (free) so it’s definitely a ‘come for an escape room and stay for the social type games after’ kind of place. Staff were awesome and answered our questions (when they could) we’re already planning our next visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Friends"
+    },
+    {
+      "title": "Epic experience ",
+      "text": [
+        "My friends and I went to the “Unknown” and I have to say, I was super impressed. I’ve been at other escape rooms and they don’t compare to the level of detail, excitement and effects at Escape Games. My group and I left having had an incredible time - sadly we didn’t escape though! But I would highly recommend this place as a fun, immersive, multi-sensory experience!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Had a TON of fun figuring out Crossroads",
+      "text": [
+        "The only downside to Escape Games is finding the place, its your first puzzle.",
+        "Everything else about this facility is incredible. The staff are extremely immersed and friendly. We did the Crossroads Mission. Myself (33 yo) My girlfriend (29 yo) Her sister (27 yo) and younger brother (14 yo).",
+        "We solved the Mission with one second to spare!!!!! ",
+        "The front lounge is very tidy and I like the free lockable lockers. ",
+        "When you enter the Escape room space the first thing you will notice the attention to detail. Everything is meticulous. ",
+        "I will 100% be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Family"
+    },
+    {
+      "title": "Great team builing experience",
+      "text": [
+        "Recently went to Escape games as part of a team building experience and a great team building experience it was!!",
+        "The place is well kept and the staff helpful and enthusiastic.  We did the Mineshaft room and it is different than your average escape room and more along the escape room meets a video game vibe, which I must say is both unique and very cool.  Our group had a great time and really enjoyed ourselves.  We would not hesitate to visit again and thank you to Escape games for a great day."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Business"
+    },
+    {
+      "title": "Escape the drone of the day",
+      "text": [
+        "I have been to a number of escape rooms across the GTA and this one is by far the most intuitive and exciting. The rooms are regularly updated and the staff are friendly and fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "We regret going to Escape Games Canada - Go somewhere else.",
+      "text": [
+        "We did the Unknown, Myan Curse and Bleak Prison. Other reviews made these sound like it would be such an awesome and intense experience. Maybe these people don't get out much. It wasn't that great. Nice sets, but not scary or intense. The staff weren't  friendly and were in fact fairly short with us. We came as a large group and did three of their rooms. They were not welcoming and it seemed like we were just a pain to them despite the fact that we dropped over 600 bucks there for 45 not very entertaining minutes. It was actually the worst customer service I've had in quite a while. Overall it was very disappointing and it really took the whole groups energy down a notch. Don't listen to the reviews making this sound like you will be involved in something incredible. Its not. There are better ones in Toronto. I would recommend you try somewhere else. We wish we hadn't chosen Escape Games Canada and just spent our money elsewhere."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2018 • Friends"
+    },
+    {
+      "title": "Very intriguing",
+      "text": [
+        "We visited The Unknown due to great reviews and not really knowing what to expect. The experience starts with a special beginning and you end up in a greatly decorated room set. The puzzles were great but there was not enough of them, as there is an actor and because of him the game has many different twists. As far as I know, there is also quite a few different endings to it. A very special adventure, you should definitely try it. Unfortunately, they don't take pictures which is really bad."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Incredible production value! One of the best!",
+      "text": [
+        "I love to get my friends going to escape games and I had seen some fantastic reviews for Escape Games Canada! On our first visit we tried Syndicate, which was phenomenal. I would say this particular room is not for beginners but for a more experienced player you must try this out if you are in the area! ",
+        "After playing Syndicate, we wanted more so tried our hand at a new room, Mindshaft! Very different to conventional escape games I have done before but it was a lot of fun! ",
+        "Finally, we bucked up the courage to try The Unknown! It was absolutely incredible. No spoilers, but as everyone says it’s 18+ for a reason! ",
+        "I can’t say it enough, the quality of these rooms is phenomenal and the staff are wonderful!",
+        "We will be back!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Very fun!",
+      "text": [
+        "We want just 4 of us and it was an amazing experience! Their rooms are well and professionally done, we had a great time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Great Experience!",
+      "text": [
+        "Came here with a group of 4 friends to do The Unknown escape room. It is a premium room so it is about $3 more expensive, but it is so worth it! Lots of fun, interesting puzzles, and a lot of laughs! Definitely recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Fantastic Experience",
+      "text": [
+        "We have been here twice and have completed Noriko, Syndicate, The Unknown and Crossroads.  All of them were fantastic.  Well planned and organized and all the features worked.  I think my favorite was The Unknown and we will leave it at that!   We come from Orillia and dont mind the drive for a fun night out.  Looking forward to completing all their rooms"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Friends"
+    },
+    {
+      "title": "So much fun! ",
+      "text": [
+        "We did it! We escaped. Well set up. Great staff. We did the Mayan Escape. Team work is essential.  As part of a day or evening out; this is a go to. I highly recommend this as an activity with your teens. Great night out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Best in the City!",
+      "text": [
+        "Love this place! Best stories and cinematic in the city. My friends and I have now done every single one of their rooms and have never been disappointed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    }
+  ]
+}

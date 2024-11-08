@@ -1,0 +1,363 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Pedal Toronto",
+    "url": "/Attraction_Review-g155019-d14009496-Reviews-Pedal_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "500 Front St E In front of Gears Bike Shop",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5A 0J1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 44
+    },
+    "openingHours": "Mo-Su 09:00-17:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f7/0e/39/our-beautiful-city.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Bike Tours",
+    "Sightseeing Tours"
+  ],
+  "description": "Discover Toronto from the parks, the waterfront or the island. Our location in the Canary District puts you in the heart of Toronto’s urban community and the site of PanAm 2015 athlete’s village. Our partnership with Gears Bike Shop allows us to offer beautiful, well maintained bikes and helmets. Come visit, we ride every day.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Superb tour, a must do if your in Toronto",
+      "text": [
+        "Fantastic half day tour led by Wendy who was so informative. We had not been on a bike for years however she put us at ease & we soon got into it.  Such a lovely place to see by bicycle.  One of our favourite parts of the tour was going across to the island & riding around, it was fascinating. Thanks Wendy for a super time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Super afternoon! Wendy was patient and knowledgeable. Beautiful ride.",
+      "text": [
+        "Great tour!  Easy and safe to ride.  Wendy made sure all was perfect.  Very informative and comprehensive.  She shared history and details of Toronto and the island.  She accommodated our needs and took great care of us!  Would def recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Senior and young adult family 👍🏻👍🏻",
+      "text": [
+        "A wonderful time was had by all… senior and young adult family were all happy. Great guide, good weather, a stop for iced  drinks…Excellent sights."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Fresh take on an urban bike tour—city meets country for a unique and memorable Toronto experience",
+      "text": [
+        "Relaxing afternoon biking along the waterfront and through the islands with an amiable and knowledgeable guide. This is an opportunity to see a part of Toronto many people miss—a verdant oasis on the water with spectacular views of the city scape and a touch of bohemian quirkiness. Water taxi and ferry ride an added bonus. Bikes and helmets were lightweight and new. Most (all?) of the ride was on bike paths so we felt safe the whole time. Leisurely, unique experience. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Would definitely do this again! 👍🏻",
+      "text": [
+        "Wendy was a great tour guide and was very knowledgeable. She is a local to Toronto and knows lots of history. She provided the bikes and helmets. The pace was leisurely with lots of stops where Wendy gave us information on what we were seeing. Plenty of photo opportunities with the downtown skyline being the best. Very little wait for the ferry to the island. She purchased us snacks on the island from a local vendor. We would definitely do this tour again!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great communication",
+      "text": [
+        "Wendy was fantastic - I couldn't go on the bike tour, as my flights got messed up. Maybe another time! Wendy was very helpful in suggesting ideas and alternatives as the world conspired against me. Should I get back to Toronto, I will be booking this first!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Perfect three hour excursion ",
+      "text": [
+        "Excellent bike ride along waterfront and then over to the islands!  Very informative tour guide!  I highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Best Bike Tour!",
+      "text": [
+        "Our bike tour with Wendy was WONDERFUL! She did a nice job guiding us around town while sharing her experience and insight into how the city has developed. The bikes were very well maintained, and the route had a nice mix of city hustle and relaxing bike trails. The tour is well worth the money. She paid for the water taxi to the island as well as a drink at a small café halfway through the ride. It was hard to find a bike tour around the city, and I’m glad that Wendy was recommended to us by Gears Bike Shop."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "TEENS said it was their favorite activity",
+      "text": [
+        "Our 3 teenagers were all whiny that we signed up to do this activity (husband and I are avid cyclists and love biking wherever we go). Afterwards they all said it was their favorite part of our jam-packed 3-day trip to Canada. And—it rained on us and they were still having a blast!  Wendy is organized, fun, and so knowledgeable. I hope you enjoy it as much as we did—Can’t recommend highly enough! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "A \"Must Do\" activity when visiting Toronto!",
+      "text": [
+        "My husband and I truly enjoyed a private guided bicycle tour of the Toronto waterfront, Toronto island and the disillery district in late Oct. It was a wonderful mix of exercise (10-15 miles) along with sightseeing and engaging conversation with Wendy, a lifelong Toronto resident. The whole experience, especially taking the ferry over to the island to ride, was amazing! "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Fun and informative ! Highly Recommend !",
+      "text": [
+        "I did a private all day tour and had a great time ! Wendy provided loads of information about the city and it was a great way for me to get oriented to the city. It also gave me great idea for the next visit(& I will probably do this again !) Everything was well organized and the bike was in great condition. The pace was perfect for me. I have done bike tours in a number of cities & I highly recommend Pedal Toronto !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Pedal Toronto Review",
+      "text": [
+        "I moved to Toronto in September 2017, and I haven’t had time to really see and learn about the city. Cycling is such a great way to see the beautiful little spots along the city - without doing any of the research. I think what made Pedal so much better are the guides - really genuine and friendly (not the type of rehearsed folk that you get on a lot of tours). Honestly, the type of people that could get along with anyone. ",
+        "Also, I don’t normally feel safe riding around Toronto or any other big city on my bike, but i’ve never felt safer and the tour seemed to flow really naturally. They really pay attention to small details and timing. ",
+        "All in all, I left feeling really happy and super glad I decided to sign up.",
+        "P.S. I am already planning a tour with a group of friends!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "amazing fun",
+      "text": [
+        "my family and i had a great time on the island tour it was great exercise but the views of city were the best.Mike was very knowledgeable and took it easy with us relaxing along the way. i would tell anybody who wants to know Toronto get booked and let the good times roll."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Great way to tour the city!",
+      "text": [
+        "Very well organized and great experience. Wendy was great and I would recommend to other interested in bike tours. Pedal Toronto is second to none"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "great day exploring TO",
+      "text": [
+        "My daughter and her friend were visiting from Australia and wanted a fun, active way to take in some Toronto highlights. I haven't been on a bike for a couple of years but found the ride very easy to manage. We took in the Distillery district, waterfront and Island. I saw places even I didn't know about. Our guide Wendy was super. Would highly recommend for TO residents and visitors. We all had a great time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Harbor views, the Islands and Distillery District",
+      "text": [
+        "This intimate bike tour of Toronto’s waterfront and the Islands was a perfect way to spend a morning. Guides Wendy and Mike grew up in the city, so besides great views, brand-new bikes and two boat rides in the harbor, we were treated to insiders’ perspectives on the city’s history, politics and recent boom. Absolutely recommend this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "What fun!",
+      "text": [
+        "Biking is a great way to experience Toronto and \"PEDAL TORONTO is the company to call.",
+        "Wendy is passionate about her city and biking and her enthusiasm is contagious.  She and Stephen led our group along the waterfront to all the main attractions (and also a few lesser known gems).  They were very knowledgeable and had lots of great stories to share which made for a very entertaining tour.",
+        "After exploring the busy waterfront, we water-taxied to the beauty and serenity of the Toronto Islands with fantastic views of the skyline.  Wonderful experience!  Don't miss it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Torontonian discovers Toronto",
+      "text": [
+        "I’ve lived in Toronto most of my life, yet I learned much from taking the waterfront and Toronto Islands tour.  Wendy and Steve were knowledgeable and pleasant and took the time to answer our questions about the sights.  It was a nice way to move around the area and they made sure we were safe.  I have highly recommended Pedal Toronto to my friends and I will be booking another tour (of a different area) with them."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "What a cool bike tour!",
+      "text": [
+        "Best way to see Toronto!   Pedal Toronto takes you on a journey of Toronto that helps you see the 'main sites' but also the 'gems' of Toronto.  They showed us so many things that I would have missed as just a normal tourist. ",
+        "Wendy and Steve were very personable, knowlegeable tours guides."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Great day in Toronto",
+      "text": [
+        "Five of us took a bike tour with Pedal Toronto. We learned a lot about the city, culture and nature. Stephen took excellent care of us and ensured our biking safety. He was very courteous and knowledgeable. I would recommend this excellent tour company with local routes and local knowledge. Thank you Stephen and Hanoki for a great experience we will never forget."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Brickworks/Distillery - Wonderful Tour of Toronto!",
+      "text": [
+        "This tour is awesome!  Our guide, Wendy, was extremely hospitable and accommodating.  I had not realized how much I don't know about the city I live in!  I love to bike and be outdoors, but truth be told I am a bit of a spaz when it comes to enjoying the scenery and remembering how to keep myself safe on the roads at the same time.  Wendy made sure we were well taken care of by leading us safely along bike paths and limiting our amount of time on city streets.",
+        "Book this tour now... you will NOT be dissapointed!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Great Tour",
+      "text": [
+        "This is a tour not only for visitors to Toronto, but local residents as well! Wendy introduced us to city buildings and spaces that we may not have discovered otherwise, from the newly constructed “underpass park” to the historical Wellesley Cottages in Cabbagetown, to art installations along the Don River. Wendy shared her vast knowledge at each point of interest. The pace was relaxed and she made sure we were all safe and comfortable. One of the best aspects of this tour is that it was mostly on bike lanes in non-high-traffic areas. I highly recommend this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Best Bike Tour Ever!",
+      "text": [
+        "Our tour guide was amazing.  She set a nice pace for all of us and ensured all were safe and none left behind.  Wendy was very knowledgeable and took us to many interesting points along the way. Learned a lot about the history of Toronto, including an Indigenous perspective.  Would definitely go on another tour again soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "A fantastic way to see Toronto!",
+      "text": [
+        "I could not have had a more perfect morning than I did on my bike tour with Wendy. She showed us so many great places we would not have seen on our own and gave us such interesting information about Toronto.  Do it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "health coach",
+      "text": [
+        "I visited Toronto for a business trip. I didn’t have a lot of time for sightseeing, but didn’t want to leave without seeing more than a conference room. As I was looking for an activity, I saw the bicycle tour and thought it might be fun. I was not disappointed. It combined everything i was looking for: a little physical activity, being outdoors and seeing some highlights of the city. The tour lasted 3 hours. (It was supposed to be at 1pm, but the weather didn’t cooperate, so the owner gladly rescheduled it for a day and time that fit into my schedule) We took a late afternoon tour which was beautiful. She was a great story teller as well as guide. I thoroughly enjoyed every minute.",
+        "She also was mindful of my safety, and had new equipment. She even took some pictures of me along the way and emailed them to me. She went out of her way to make it a special trip. I wholeheartedly recommend her bicycle tour. M.U. from Wheeling, WV, USA"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "What a great day!",
+      "text": [
+        "What a great way to see the real Toronto. Wendy and Mike were great guides who were passionate about their city, and so they should be! What a cool place the Island and the Distillery are. Getting to and from Toronto Island on water taxis and the ferry was my unexpected highlight of the tour. You can’t get a bad photo with the city in the background from on the island. The bikes were brand new, comfortable and smooth to zip around on. 100% will do again when I’m back in Toronto. I recommend asking Wendy or Mike where to have a drink or eat after the tour. They really do know all the good spots."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Get Out and Bike!",
+      "text": [
+        "Wendy is a fabulous guide, knows the city and history, made us feel welcome, and provided a fun-filled biking experience. The bikes were very comfortable. We highly recommend using Pedal Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Highlight of our Trip",
+      "text": [
+        "Booked the Distillery/Island  Tour and it did not disappoint. Stephen and Mike were super knowledgeable and we had a lovely day riding and seeing the sights. First time being in Toronto, so the Islands were a pleasant surprise. The pace was easy and learning the history of the areas made it a lot more interesting. Being on the tour by ourselves made it a fun day and we didn't feel like tourist being herded along! Just felt like we were bike riding with some friends.  5 stars, must do and enjoy the cute little islands!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Toronto on wheels! ",
+      "text": [
+        "This is the best way to see Toronto. I booked two tours and both of them were great. Stephen was an excellent guide! 100% Recommend:) "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018"
+    },
+    {
+      "title": "Excellent Tour",
+      "text": [
+        "I did the Midtown, Brickworks and Distillery tour and it was excellent. Perfect pace,comfy bike and plenty of opportunities to ask questions. Wendy is a very knowledgeable tour guide and the tour gives you a real feel for the city and a chance to see some very interesting community based projects and amenities that you might not otherwise come across. The tour starts and finishes near The Distillery which is a lovely place with lots of nice little shops, bars and restaurants... perfect place to relax and have a drink and a bite to eat after a great day out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Solo"
+    },
+    {
+      "title": "What a treat!",
+      "text": [
+        "Fantastic bike tour!",
+        "As someone who did not know much about the Toronto waterfront history and development we learned a ton from our guide Wendy. Such a wealth of knowledge and fun to be with! We were alone, so it ended up being a private tour.",
+        "The equipment provided is top notch, comfortable and reliable - it made riding around a breeze.  The experience is fantastic, you will cover so much more territory and sights compared to other forms of sight-seeing.  HIghly recommended, you won't get this bang for the buck elsewhere! If we come back to Toronto, we will do it again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022"
+    },
+    {
+      "title": "Great fun!",
+      "text": [
+        "Wendy was the tour guide. It ended up just being the two of us, so I got a private tour. Wendy was great. She knows the city well. We took the ferry to Ward Island, which was so cool. Later she showed me around the Distillery District. Cycling is the funnest way to tour an area. Felt great. Really enjoyed it. Thank you, Wendy! "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "We thought we knew Toronto. (We were wrong.)",
+      "text": [
+        "We've visited Toronto before. But for the first time ever, my wife and I felt truly immersed in the city when Wendy took us on a bike tour. Toronto transformed from a grid of concrete and condos. It became lively communities, nestled together amongst parks and paths and art installations. We pedalled across green grass alongside a downtown farm. (Who knew there was a downtown farm?) Any bike guide can point up at Googleable tourist stops. But Wendy's route took us away from the city's hustle, and into its heartbeat -- all within sight of the CN Tower. Whether you just arrived in town or you've lived here for years, Pedal Toronto is worth checking out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Great experience!",
+      "text": [
+        "Wendy did an amazing job showing me around Toronto! Great way to explore the city! Great price and experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Great way to enjoy Toronto",
+      "text": [
+        "We spent a very enjoyable and informative morning with Wendy exploring the Harbourfront and Toronto Island. She was a great tour guide who obviously enjoys touring people and the city she grew up in. We would definitely recommend this tour to anyone wanting to learn about parts of Toronto on a bicycle."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "The Best Tour in Toronto - Pedal Toronto",
+      "text": [
+        "Totally worth it. Such an enjoyable 3 hours. You start out at a local bike shop (tour includes bike rental and helmet, bikes/helmets are very comfortable and in great condition).  Our guide, Wendy, was absolutely kind and so informative. She always kept a comfortable pace, made sure we were together and everything was to our liking. Cycling is such a great way to get around Toronto. I would recommend this tour for when you first arrive to Toronto as a way to get to know the city quickly. It’s always more fun to be in a city you know something about. We took the Harbor/Island/Distillery Tour. Pedal Toronto offers several tours of different areas of Toronto.  On our next trip to Toronto, we’ll be sure to sign up for another one."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "A great way to see the City of Toronto",
+      "text": [
+        "Wendy took 3of us out on the City tour of Toronto, the bikes and helmets were right for the job and Wendy an enthusiastic; formative host who gave a great insight into the history as well as modern day profile of how Toronto sits today. We did the morning tour option, which worked well. Our youngest was 12 and the distance, route profile and traffic were all fine. Thank you Wendy !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Awesome!",
+      "text": [
+        "We went on the bike tour a few weeks ago. Although both Darryl and I grew up just outside the city, we learned many new things about Toronto that we've never heard before. Our guide Wendy was so knowledgeable, and stopped many times along the route to point out various facts about the city and answer all of our questions. She was awesome! So glad that we decided to do this. We would highly recommend it. Thanks Wendy! Cheers!",
+        "Wendy & Darryl",
+        "Brechin, Ontario"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "Best Way To See Toronto --- The Perfect Day",
+      "text": [
+        "Wendy the tour guide and owner was amazing, knowledgeable, fun and super well informed.  It was literally the best and most efficient and fun way to see Toronto and learn about where to go and what to do."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Wonderful Biking Experience",
+      "text": [
+        "It was a wonderful way to spend a few hours on a late June 2019 morning in Toronto!  With Wendy H. as our guide, we easily toured the Canary District, Lake Front and Toronto Island.  We are “mature” adults and do not bike often, yet Wendy set a comfortable pace, guided us safely and expertly through a few city streets and mostly bicycle paths while giving us meaningful historical facts about the numerous Toronto gems we saw during our ride.  Our rented bicycles were sized based on our height/weight and were a breeze to ride. Wendy went out of her way to make our experience rewarding.  We strongly encourage you to book a tour with Pedal Toronto (Wendy H.) today! You will have a memorable experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    }
+  ]
+}

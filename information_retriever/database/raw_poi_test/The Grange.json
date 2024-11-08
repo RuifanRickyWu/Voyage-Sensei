@@ -1,0 +1,242 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Grange",
+    "url": "/Attraction_Review-g155019-d184958-Reviews-The_Grange-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "317 Dundas St W (at McCaul St.)",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5T 1G4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 25
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/c1/2e/3d/the-grange.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Historic Sites"
+  ],
+  "description": "This restored brick home is open to the public and formerly housed the Art Museum of Toronto.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Nice Park",
+      "text": [
+        "We walked through Grange Park the other day.  The walkways were icy and we had to step around the frozen dog poo."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "GRANGE PARK AS A BIT OF TORONTO HISTORY",
+      "text": [
+        "Staying at the Super 8 a bit west of the park, it was a pleasant stroll as I headed east. It is always nice to see any green space in a large city. This one is a cut above. There was a large enclosure for dogs to run around unleashed. There were extensive play areas for children, one sign indicating no adults unless accompanied by a child. Located and very much associated with the Art Gallery of Ontario to its north, some unique sculpture work is on display, including pieces by the world famous sculptor Henry Moore. The park’s history is interesting. From the early 19th century, it served as the front lawn area of The Grange, the family residence of the Boulton family. An elliptical path for carriages of that bygone era has been kept. The area was reopened to the public in 2017, under the supervision of the Grange Park Advisory Committee. Keeping the historic theme, the park is anchored on its northern side by The Grange, a Georgian manor house. I suspect it the park looks even better in the summer when splash pads are a welcome relief from the heat."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Well kept little park",
+      "text": [
+        "If you're moving between Downtown and Chinatown/Kensington Market, try to route your walk through this smart little park. The park itself is well maintained and a nice green spot in the heart of the city with plenty of people relaxing in the grass and kids enjoying the play facilities. It is however, greatly enhanced by the neighbouring Ontario College of Arts and Design building, which has a highly unusual annex called the Sharp Centre which stands on tall stilts and dominates one end of the park. Also of note is a fantastic Henry Moore sculpture (Two Large Forms) at the West side of the park."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Food Court at the Village by the Grange",
+      "text": [
+        "Overall, this is one of the least expensive food courts in downtown core. ",
+        "From the food court, avoid \"Tasty Chinese\" - gave us stomach issues twice, will not try the third time. There was a post that the new owner was observed not washing his hands after using the toilet, you can imagine what the kitchen looks like. Should have listened to the voice of experience and not try it on ourselves. Avoid. ",
+        "The Garden Sushi (around the corner from the food court) used to sell decent rolls (take out) for $6.25 for two. Their sit-down lunch is still below $10 and sushi is Ok quality. ",
+        "The Thai place is not bad - they have a decent soup option, try it in the winter, its filling and tasty. The take out options are neither healthy nor fresh, but if you are hungry and willing to eat more tempura bits than chicken - this it it. ",
+        "The Korean \"Bowl\" keeps changing owners, but serves standard Korean fare. Not bad. ",
+        "The Cafe Sushi is good, fresh and tasty, a bit pricier than the Garden Sushi, with smaller portions. ",
+        "The free trade coffee is exuberantly expensive and some of the coffee tastes surprisingly weak. ",
+        "The new kebab place is too expensive compared to all the other eateries in the place - hence, always empty. ",
+        "The Greek is not very good - it tastes like true food court food, bland and low quality ingredients.",
+        "Manipiko is really good, if you have a craving for non-sushi Japanese items (like soups). Very satisfying winter time."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Nice Building in an urban park",
+      "text": [
+        "The Grange is a restored old building that used to house the Art Gallery of Ontario. It is surrounded by a lovely urban park that is a green space in the heart of the city. There is a playground at one end and at the Queen Street end there is the remnants of an old church. Great place to eat lunch in the summer. Lots of dog walkers and people with kids."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Outstanding coffee and pastry",
+      "text": [
+        "I have written earlier that the members's lounge is not optimum for lunch. However, for coffee and dessert it is first-rate. The surroundings are very agreeable, there is a nice view over Grange Park, and the raisin tart with strawberry is delicious. Well worth getting a membership for, although that is worthwhile for other reasons."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "excellent lunch",
+      "text": [
+        "I had a fantastic lunch at the Norma Ridley lounge of the AGO, where I was served even if I'm not a member of the museum society.   The ambiance is cozy and clubbish,if a little cold. The food was awesome!  I has a perfectly balanced salad with smoked trout followed by the best cheesecake of my life. The chef deserves three cheers for the quality of food and its presentation. Service was very friendly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Nice atmosphere",
+      "text": [
+        "It is a great place to relax if you are visiting the AGO. Nice and relaxing atmoshpere, friendly and professional service. Great views. Historic building. I really enjoyed drinking good tea there. Highly recommend this place."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Norma Ridley Lounge",
+      "text": [
+        "The Norma Ridley Lounge in the Grange is the member's lounge for the Art Gallery of Ontario. Membership with the AGO carries with it, several perks, one of which is access to the lounge. It is a peaceful oasis to have a drink or a very nice lunch after viewing exhibits in the AGO. The ambiance is relaxing, the food excellent and the service helpful, friendly and prompt. It is not available to non-members of the AGO but is another good reason to join. Very pleasant."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "Great family park",
+      "text": [
+        "This park was recently revamped with top of the line children's playground equipment that challenges the children to extend their comfort zone.  Park has beautiful gardens and comfortable benches. Our grandchildren love it.  Just south of the Art Gallery of Ontario. Highly recommended. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "come in if you walk pass it",
+      "text": [
+        "There are some history associated with this building and the park nearby, if you care to read about it. The building is old by the local standard. Not much really."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2015"
+    },
+    {
+      "title": "The Norma Ridley Members' Lounge:  always the right place at the right time",
+      "text": [
+        "When the back aches from standing, and the neck aches from craning, it's time to hurry to the Norma Ridley Lounge.  One critical detail:  you must be a paid-up member of the AGO. A small price to pay for the comfort of this tucked away spot.  The menus are inspired -- fresh, ever-changing, eye-catching, and of course delicious;  it's quiet, and it's comfortable. And, once refreshed with a light lunch and perhaps a latte, one is just steps from re-visiting the galleries."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2014 • Couples"
+    },
+    {
+      "title": "Norma Ridley Lounge..............awesome !",
+      "text": [
+        "I am almost ashamed to admit that this lounge for members only open for lunch is a major reason why I renew my AGO membership every year ! Located within the old Grange mansion this exquisite café is by far the best place to retreat after visiting an exhibit here. The space offers a choice of sinking into beautiful modern Danish leather armchairs or sofas or pull up to an old fireplace with  ornate hearths and mantles. French doors lead out to a beautiful green area that can be viewed from most spots inside. The entrance is like a foyer in an old home complete with a grand staircase and flowers on a center table. Makes you feel like you are a guest in a private home. The menu is limited but exquisite and the service is friendly, yet formal. My favorites are the smoked salmon croissant ( with generous amounts of salmon!) and the delicate \"deconstructed\" Salad Nicoise. They also have pricey - but utterly wonderful - wine by the glass ( recently enjoyed a glass of white Rioja - at $13 a glass this is definitely \"a treat\"). I have also treated friends to lunch here and it is the perfect spot for a \"ladies\" get together ! The best butter tarts, too by the way !"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2013 • Solo"
+    },
+    {
+      "title": "Tours every hour",
+      "text": [
+        "The Grange is a historic mansion built in the 1800s in downtown Toronto and is part of the Art Gallery of Obtario. In fact, it was the original Gallery and was home to a mayor of Toronto and MP. If you are at the AGO, make sure to visit this gorgeous, restored home that is also part of the Norma Ridley Lounge for Museum members - open for lunch every day. I enjoy coming here and sitting on one of the many plush leather chairs, overlooking Grange Park that stretches to Queen Street and Spadina. Or sitting by the hearth of a marble fireplace and having a coffee. The tour itself will bring you to the kitchen and the library- the upstairs is not available for visitors. We enjoyed the tour, but the best part is truly the lounge itself and being in such a beautiful house. The winding staircase and open foyer with stain glass, crown moulding and baseboards, oak hardwood and crystal chandeliers of an era gone by, all culminate in that feeling of being in a home as a guest. The lounge is licensed, so a nice glass of Canadian wine just adds to the experience. I've had the home made chips and dip, the trout and salad, quiche, and macaroni and cheese. Service is very good, and the quiet atmosphere and surroundings make it a better choice than the loud cafe. A beautiful home and hidden gem!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2012 • Family"
+    },
+    {
+      "title": "could be better!",
+      "text": [
+        "I just stayed there for one night, service was ok, but there were some littles issues inside the room that made us feel uncomfortable, going from a very annoy and noisy AC through a unpleasant mattress with a big hole where was almost impossible to rest!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Grange Park",
+      "text": [
+        "We were wandering by old stomping grounds and stumbled upon the greatest play park for the kids. Tucked in behind the OCAD is The Grange & the Grange Park. So many things to climb, slide, swing, jump and run over around under and through. We came back the next day too. 2 kids 7 & 8 had a blast and all the kids just played together!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Family"
+    },
+    {
+      "title": "Completely redone over the last two summers and worth the wait!!!",
+      "text": [
+        "If you are looking for a place to picnic with lots of stuff for the kids to do this is the place.  Situated directly behind the AGO it is a convenient location right off the dundas street car line.  The city has spent the last two summers redoing the park with a beautiful water feature, two play structures, one for the bigger kids and one for the smaller kids, washrooms and lots of green space.  They have done an excellent job and my son and daughter love it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017"
+    },
+    {
+      "title": "Pleasant fiirst visit",
+      "text": [
+        "I was introduced to the Grange by a friend who is an AGO member. After spending the am at the wonderful Mystical Landscapes exhibit it was a pleasure to snag a table at this busy spot. The food was reasonable and tasty. My friend had a smoked salmon Benedict that she enjoyed (see picture) and I had a brisket dish that arrived attractively presented in a skillet. I also enjoyed an Aperol Spritz (refreshing) and my companion a glass of wine. Prices were reasonable and portions satisfactory. Seating is in low armchairs. Atmosphere is pleasant with art on the walls."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "expensive and substandard food at the Grange Restaurant",
+      "text": [
+        "Having lunch in the Grange used to be a complete pleasure. I have always loved sitting at the clean tables in the room with light streaming in from the Grange park, and being able to gaze outside or admire the works of art on the walls. ",
+        "Alas, this past Friday was the second visit in about 4 months where the pleasure was cut short. On Friday, in spite of the fact that it was relatively crowded, service was fine. The food, however, was not completely fine. There has never been a huge selection on the menu, which has never been an issue in the past. It used to be that there would be at least one sandwich, a salad, an egg dish and soup.  I like sandwiches... from the rather meager selection on Friday, I chose \"chicken club salad\", foolishly thinking it would be a reasonable facsimile of a club sandwich. The plate came 3/4 covered with large pieces of Romaine lettuce (crisp) that were smothered in nicely grated parmesan cheese. There was one long thin thin piece of toast, a couple of cherry tomato halves and in the other 1/4 of the plate, a mound of rather unpleasant looking chicken salad. The chicken was mostly dark meat (usually a plus in my books) was overcooked and had a dead taste. Instead of being mixed with mayonnaise, it was dressed in a sweetish salad dressing. As far as I could tell, there was zero bacon. It wasn't dreadful enough to send back but it was dreadful enough to be completely disappointed.",
+        "My friend got the crab cakes with a salad. I tasted a bit of the crab cake that was decidedly fishy tasting. Again, it wasn't too fishy tasting to send back but fishy tasting enough to be disappointing.  ",
+        "I'm happy to say that the coffee was brilliant.",
+        "Having to pay $20 each for lunch was a bit much. If the kitchen were up to scratch, this would be completely reasonable. I would view it as supporting the Gallery.   ",
+        "We cleansed our palates by going back into the AGO to feast our eyes on beautifully several beautifully presented rooms filled (but not overfilled) with fine artwork. ",
+        "Next time we visit the AGO, we'll have to think twice about whether to have lunch there."
+      ],
+      "rate": 2.0,
+      "tripDate": "Feb 2017 • Friends"
+    },
+    {
+      "title": "An oasis, but....",
+      "text": [
+        "I honestly want to love this place like I used to. The lobster roll when in season, is fantastic, as are the handmade potato chips. ",
+        "But it feels like, after numerous visits in the last six years, the last year and a half, two years, the service is abysmal.",
+        "Its members only, but no one checks that at the door anymore. We were told a ten minute wait recently, and watched as a much larger group sauntered in and were seated immediately, in a very tiny cafe. When we asked, they suddenly said they were closed. ",
+        "Granted, I'm not one of the older patrons, but we are AGO members but i feel they want a certain...kind of clientele, and with friends or spouse, we consistently get ignored now. ( I find the food in the cafeteria to be shockingly over priced and not all that good.)",
+        "Its incredibly frustrating, when really slow service ( not languid, but downright indifferent, and impossible to summon) makes it a chore to dine there. ",
+        "The simple refusal to sit us was pretty galling. It's happened numerous times, and I'm not sure what's going on but I guess there's no delicious lobster roll in my 2017. ",
+        "So if you go in with a member, or are one, it's not reliable that you'll get seated or served. Upside, there's a few good pubs across the street. Not as \"oasis\" but at least you can get some food. ",
+        "If you really want to dine there sans membership, dress up and swan in. They don't bother checking for members cards anymore."
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2016 • Friends"
+    },
+    {
+      "title": "This oasis is always a delight",
+      "text": [
+        "I make a point to have a leisurely tea or coffee here on every trip. Most relaxing. I must plan better and book ahead for high tea as that looks marvelous."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Not optimum for lunch",
+      "text": [
+        "The lounge is good for a coffee and pastry, but today we were there for lunch. The food is good, but sitting at a low table, hunched over your meal to keep from dropping food on the floor, is not my idea of a pleasurable meal. If you want lunch, go to Frank instead."
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Food was excellent",
+      "text": [
+        "You must be a member to go or go with someone who is.  Considering an AGO memberships many perks it's well worthwhile.  On a very busy Saturday the food was excellent.  The service was very laid back and it's a nice place for a leisurely lunch to break up your gallery visit.  The building is under some construction outdoors but try to get seat by the fireplace or with a window.  I plan on returning soon with friends for their high tea available on weekends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2016 • Couples"
+    },
+    {
+      "title": "A nice oasis",
+      "text": [
+        "The Grange, in the 19th century the home of the Boulton family and then the historian and public intellectual Goldwin Smith, is now the members' lounge of the AGO. I liked it better when it was maintained as a historical site, but I can understand that the AGO wanted to put it to a different use. I try to have a coffee and some pastry here whenever I visit the AGO, and today was no exception. Having taken in the Turner exhibition, about to close, I escaped the crowds by going to the Grange. It is a peaceful oasis, and the apple crumble tart I had was delicious while the coffee was very good."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2016 • Solo"
+    }
+  ]
+}

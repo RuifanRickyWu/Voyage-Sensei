@@ -1,0 +1,315 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Toronto Entertainment District BIA",
+    "url": "/Attraction_Review-g155019-d556414-Reviews-Toronto_Entertainment_District_BIA-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "119 Spadina Suite 200",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5H 3G2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 42
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/cd/ee/df/lots-of-restaurants.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Neighborhoods"
+  ],
+  "description": "The Toronto Entertainment District is home to many of the nation’s most important and recognizable cultural landmarks including the CN Tower, Rogers Centre, Air Canada Centre, CBC, CTV, Metro Toronto Convention Centre, Roy Thomson Hall, the Princess of Wales Theatre, the Royal Alexandra Theatre, the Four Seasons Centre for the Performing Arts, TIFF Bell Lightbox and more. It is where five major-league sports teams play in their home venue, throughout the year.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Air B&B",
+      "text": [
+        "Rented an apartment via Air B&B in the entertainment district. Plenty of restaurants, bars and shops."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Theatres and Restaurants",
+      "text": [
+        "This is a place where entertainment meets appetite. Lots of good restaurant to choose from before an going to a theatre."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Very Active Area",
+      "text": [
+        "There is a lot to see and do in this area. There are several theatres that present Broadway shows, lots of excellent restaurants and shops. The ball park (Rogers Center) is here along with some green space around Roy Thompson Hall. The area is easily accessed by walking from the PATH or above ground from Union Station. The subway serves the area (St. Andrews station) as well as the King Streetcar. King Street, the heart of the district, has no parking on it and cars cannot travel more than one block on the street without being forced to make a turn onto a side street. A great place to stroll on a summer night."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "It depends on what entertains you",
+      "text": [
+        "It depends on what is entertaining you, because seeing big buildings around, expensive shops,  people always is hurry...i call it busy corporate life. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "A Lot to See & Do!",
+      "text": [
+        "I came here on a Monday early evening. I came during rush hour and there was a lot of people walking towards union station. There’s the CN Tower and Ripley’s Aquarium, among the more popular attractions in the district. There’s also the TIFF Bell Lightbox which is the cornerstone for the annual Toronto International Film Festival. There’s a lot of restaurants and cafes in the area too! This would be a great place to stay if you’re coming to visit Toronto. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Great place to stay ",
+      "text": [
+        "This is a great place to stay when visiting Toronto. The region is full of restaurants, bars, snack places, theaters, etc. Also, we are in a stone’s throw from most touristic places."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "So much happening all of the time",
+      "text": [
+        "It's always all go in the downtown area, day or night there is always so many things going on, spend some time down here if your staying elsewhere, but if coming to Toronto then stay in the downtown area it's great. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "Fun times",
+      "text": [
+        "Fun to go for shopping and outings with girl friends make a day of it ,lots of action in the Entertainment District be ready to have some real fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2015"
+    },
+    {
+      "title": "Nice area..like broadwaY",
+      "text": [
+        "There are lots of pubs, cafes and shops along the avenue..my youngest  daughter  got a kick out of seeing Canadas walk of fame",
+        ".it's in a business district but lot going on",
+        ".definately  a.place to visit and catch a show",
+        "."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Family"
+    },
+    {
+      "title": "Always great nightlife in Toronto!",
+      "text": [
+        "There is definitely something for everyone here in the entertainment district.  Whether you're looking for a jazz bar, small pub, or big dance club to party all night....you will always find something on just about every night of the week or weekend!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2014"
+    },
+    {
+      "title": "Dangerous Area",
+      "text": [
+        "You don't want to go clubbing or walking here at night - very dangerous, stabbings shootings, fights - there are many other clubs around Toronto to go to for good music and dancing - stay away from here."
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Name of district, self explanatoy.",
+      "text": [
+        "Everything from restaurants to theatres to events occurring on the street! Always a busy area"
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "OK at night, skivvy during the day",
+      "text": [
+        "Thankfully this area is becoming more residential and less club centered. The clubs range is quality. cost and quality of patron, but later in the evening it is just full of drunk idiots looking for a fight or a place to barf."
+      ],
+      "rate": 2.0,
+      "tripDate": null
+    },
+    {
+      "title": "clubbing area",
+      "text": [
+        "area that never sleeps,,if u wanna go to a club thats the place for u,,just pick! hehe"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2011"
+    },
+    {
+      "title": "very lively",
+      "text": [
+        "to many things to do here and to go. lots of clubs and bars and restraunts, both high class and dives. you can never be bored or hungry around here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2011"
+    },
+    {
+      "title": "taste of everything",
+      "text": [
+        "if you don't like one bar then pack it up and go to another!  Great area for fun, food and drinks :)  All the bars are so close together and there are lot's of great places to eat.  Overall there is something for everybody!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2012"
+    },
+    {
+      "title": "Not worth the prices",
+      "text": [
+        "If you are looking for good restaurants, bars, clubs or lounges, do your research, there are much better places in the city than those found in the \"Entertainment District\" "
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2012"
+    },
+    {
+      "title": "Food, Concerts, Theatre.....is there anything else.",
+      "text": [
+        "If you have tickets to a play or a concert it's worth the trip.  For dinner or lunch, I would venture a little north of King St for better restaurants.  St. Patrick subway stop only 1 short block away.  I love live theatre & concerts.  There are often children's concerts at Roy Thompson Hall & you might be able to catch something like The Lion King.  For seating at Roy thompson Hall, if you aren't obsessed with seeing the whole orchestra while you're listening to the music, the cheaper seats are just as good as the best seats.  There are often short concerts at noon that are free.....check the internet or the newspaper.  For the Royal Alexander Theatre.....get good seats on main floor, especially if you are taller than 5'6\".  I had to leave a good play because we were in the first balcony & I was getting cramps in my legs.  Don't go to the top balccony to sve money....we call them the \"nose-bleeders\".  This is a very old theatre with few washroom & public spaces......so go to the washroom before the play.  Having said all this, I still love this theatre.  One suggestion if you want to save money on tickets, get the very last row of the orchestra if some are available.  These seats are elevated & are the best seats in the house.....a Torontonian secret."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2012"
+    },
+    {
+      "title": "Princess wales theater",
+      "text": [
+        "Attended a matinee performance of War Horse.  The theater is lovely and large and it appears that most orchestra seats have good viewing of the stage.   I was in Row K on the aisle which was ideal.  The cast did a wonderful job of bringing the story to life.   After awhile your mind made you believe that the horses were real.  The cast that operated the horses did a extremely good job.  I was I was in Toronto longer just to experience more shows."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2012 • Business"
+    },
+    {
+      "title": "Lively",
+      "text": [
+        "Lively, attractive; human-scale mix of old and new buildings; huge range of places to eat, drink, go to concerts or the theatre, or just people-watch.  Its days may be numbered; condo towers are encroaching."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2012"
+    },
+    {
+      "title": "TO entertainment disctrict",
+      "text": [
+        "Lots of theatre, clubs, restaurants and movie theatres.  Safe to walk around late, walking distance from most downtown hotels"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2012"
+    },
+    {
+      "title": "LACK OF BAR CULTURE",
+      "text": [
+        "There has never been an entertainment district that has less to offer to singles than that of Down Town Toronto: http://livinginthedeadcity.weebly.com/1/post/2012/03/lack-of-bar-culture.html"
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2012 • Solo"
+    },
+    {
+      "title": "Lots to do in the T-dot",
+      "text": [
+        "The entertainment district has an extensive colleciton of theaters, restuarants, cafes and a feeling of fun and excitment, especially during the summer months.  Walking through this part of town is a fun way to spend a warm summer evening.  Stop for an iced coffee or an ice cream on the street and watch the world go by."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2012"
+    },
+    {
+      "title": "entertainment",
+      "text": [
+        "it is really good to watch thither and go for food. Some of the food of this restaurants are great and not too expensive. the only problems most of them are small."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Something for just about everyone.",
+      "text": [
+        "Lots of great options. You can wander down the street and be sure of finding a great place to eat and terrific entertainment."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Lovely neighbourhood!",
+      "text": [
+        "The Toronto Entertainment District is a lively, pretty & fun part of town. Home to buzzing & trendy streets like John Street, this is a must visit during your trio to Toronto. ",
+        "The shops, bars, clubs, cafes, restaurants, pretty sidewalks all make this place a beautiful place to walk along and spend some time sightseeing. Recommended!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2015 • Solo"
+    },
+    {
+      "title": "So much to see and do!",
+      "text": [
+        "We loved it here. Went to a concert, ball game and eat a lot of food! Ate at three different restaurants and the food and service were outstanding at each one. (Gretzky's, Boston Pizza and Gelato Pizza). Felt like we could have spent a lot more time exploring and wished we could have done Second City! GO HERE!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Family"
+    },
+    {
+      "title": "Clubs, restaurants...",
+      "text": [
+        "In the Entertainment district you could spend a day a night a week exploring.",
+        "Clubs, cafes, shopping, theatres, restaurants, spas, hotels what ever you are looking for it will be there.",
+        "And the range of options gives everyone a choice. Parking is expensive so take the subway and walk or walk or the street car. ",
+        "have fun, be safe, be polite."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2013 • Friends"
+    },
+    {
+      "title": "Oh, to be young again.",
+      "text": [
+        "Walked around this district for a few hours. Nice restaurants and clubs. Theaters showing live shows as well. Even Broadway shows. Mostly young locals enjoying their city. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2013 • Solo"
+    },
+    {
+      "title": "Stay away",
+      "text": [
+        "Unless you really like being surrounded by douchbags stay away from the Entertainment District. It is filled with awful people and when the clubs close can be quite violent. Also stay away from King West. "
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "nice nightlife",
+      "text": [
+        "Nice nightclubs, pubs, this is the heart life in Toronto. With a plus in the TIFF time. Glam our! However, at noon it seems a tnormal tourism neighborhood "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2013"
+    },
+    {
+      "title": "DT T.O.",
+      "text": [
+        "I have not been downtown as much as I would like; however, as with any large metropolis, safety is in numbers. Disclaimer aside, Toronto honestly does have one of the most vibrant and multi - (cultural, historic, lingual) populations the world over. AND eveyone is friendly, to a point. Watch out for our two seasons - Winter and Construction! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2013"
+    },
+    {
+      "title": "Interesting area",
+      "text": [
+        "Another great area.  So much to see, especially during TIFF - Toronto International Film Festival.  The place really comes alive then.  Lots of great restaurants in the area."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2012"
+    },
+    {
+      "title": "Can get Rowdy!",
+      "text": [
+        "In both good ways, and uneasy ways... but usually a good time on the weekends, you wouldn't know it was an Entertainment District during the weekdays, outside the area being home to many Entertainment Industry companies high in the office areas. Nice place to walk through during club nights, good night life, kind of dead during the day..."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Not what it used to be",
+      "text": [
+        "This neighbourhood used to be where all the hip clubs were. At first they were all places you had to hear about from someone in the know. Then, a number of huge clubs attempting to maintain the illusion of exclusivity while hundreds of suburban kids tried to get in. On weekends the crowds on the street at closing time were insane. But nowadays not even the suburban kids flock here, and the really hip places are twice removed. But the area does have decent bars & restaurants because there are a number of theatres here, though it is not even remotely like Broadway or the West End. "
+      ],
+      "rate": 2.0,
+      "tripDate": null
+    }
+  ]
+}

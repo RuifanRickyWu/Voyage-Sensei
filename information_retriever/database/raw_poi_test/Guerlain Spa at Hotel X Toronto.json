@@ -1,0 +1,297 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Guerlain Spa at Hotel X Toronto",
+    "url": "/Attraction_Review-g155019-d19266822-Reviews-Guerlain_Spa_at_Hotel_X_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "111 Princes Boulevard Entrance At Corner Of Lakeshore Blvd And Newfoundland Dr./4th Floor",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6K 3C3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 74
+    },
+    "openingHours": [
+      "Mo-We 10:00-18:00",
+      "Th 10:00-19:00",
+      "Fr-Sa 09:00-20:00",
+      "Su 09:00-19:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/ed/75/7f/guerlain-has-designed.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": "Yield to the magic of a unique Guerlain treatment or massage experience where cutting-edge innovation blends with customization, luxury, emotion and sensuality. Experience one of our exclusive therapies only available at Hotel X Toronto. Guerlain Spa at Hotel X Toronto invites you on a unique sensorial journey dedicated to beauty and well being. Inside a unique cocoon, soothed by relaxing music, the senses are aroused and the mind is calmed. Before each treatment, Beauty Experts ask each guest to choose their own olfactory theme to create an atmosphere of relaxation and serenity. This theme helps encourage gentle relaxation and to ensure that the journey to well-being is enjoyed to the fullest. Every treatment is transformed into a unique and personal occasion, a moment created especially for you – this is the essence of the Guerlain experience, the perfect union of effective know-how and aesthetic expertise.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Princess for a day",
+      "text": [
+        "Just had my third visit to the Guerlain Spa at Hotel X, and it was just as wonderful as the last! I just love visiting the Guerlain Spa, they make each client feel like the Duchess of Cambridge. When you book make sure you request Erica. She is just the best and so knowledgeable on Guerlain products and how to look fabulous! ",
+        "I can’t wait to visit again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Solo"
+    },
+    {
+      "title": "Wonderful healing massage",
+      "text": [
+        "I am fortunate to get regular massages with Shana and she is amazing.  She reviews my chart before each appointment and plans our sessions accordingly.  She is also always ready for a challenge like during my last appointment when I had new injuries to treat.  As a physician, I appreciate her knowledge of the biomechanics of the human body and her recommendations to prevent injuries.",
+        "The spa is also beautiful and luxurious with steam room available pre/post treatment, refreshments and wonderful staff.",
+        "I always feel very relaxed when I leave and Shana's massages help me avoid chronic injuries. Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Girl’s afternoon at the spa",
+      "text": [
+        "What a beautiful spa. The staff were very friendly and professional. Extremely knowledgeable on all the products and fragrances"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023 • Friends"
+    },
+    {
+      "title": "An incredibly relaxing experience!",
+      "text": [
+        "Everything about the experience was exceptional! My bestie treated me to a spa afternoon at Guerlain Spa  and I received the Honey Repair Treatment. I can’t thank her enough!! The spa is beautiful and the staff are professional and welcoming. The facial offered a perfect combination of relaxation and hydration. My skin was glowing afterwards - it felt like the last couple of cold winter months causing dry skin and redness had been eliminated & replenished; days after I am still reaping the benefits. Highly recommend this spa and treatment! Looking forward to booking another service with them!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Friends"
+    },
+    {
+      "title": "Treating my bestie for her birthday.",
+      "text": [
+        "The message was incredible obviously, the complimentary champagne and wind down afterwards was a great touch. The whole hotel is another level of luxury in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Friends"
+    },
+    {
+      "title": "Flawless Experience!",
+      "text": [
+        "The experience that I had was absolutely perfect. The staff were kind, attentive and helpful. I had a 60 minute massage by Julie and she knew exactly what she was doing. She was very sweet, polite and checked in with me throughout the massage to ensure the pressure was good. I feel so relaxed and I cannot wait to visit again! Thank you!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Solo"
+    },
+    {
+      "title": "Sports Therapy Massage",
+      "text": [
+        "Had a beautiful massage by Shanna. It was a sports therapy massage for 90 minutes. Total luxury !",
+        "Shana was very professional, and managed to get rid of all my hidden knots!",
+        "Would highly recommend"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Solo"
+    },
+    {
+      "title": "90min massage",
+      "text": [
+        "Amazing experience. I had the 90 minute signature massage with hot stones by Julie. It was by far the most comprehensive full body massage I’ve gotten at any of the major Toronto spas (e.g. includes a stomach massage which I haven’t had done before). The scents to choose from are all great and beds are very comfortable. After the service they have amazing macarons to enjoy in their lounge chairs. The only negative I can think of is the size of the change rooms. Compared to other spas I’ve been to they are quite small but didn’t matter much to me."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023 • Solo"
+    },
+    {
+      "title": "Spa cold shower",
+      "text": [
+        "The men’s shower had only cold water on the coldest day in Toronto after a massage experience left me with a migraine"
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2022 • Couples"
+    },
+    {
+      "title": "Wonderful massage and relaxation experience",
+      "text": [
+        "My husband and I keep coming to see Julie and Shana for RMT treatments.  And we simply have one word to describe the experience: amazing,  amazing, amazing, amazing, amazing, amazing, amazing, amazing, amazing, amazing!!!! The treatments are fabulous, Julie and Shana are very professional, the spa is gorgeous, and the lounge service with prosecco (or a choice of tea) and something sweet (macaroon, or cream eclair, or a tiny muffin)  is just a perfect finish to this amazing experience.  We drive almost 100 km from Grimsby to Toronto for this indulgence.  And let's not forget the spa front desk team, and spa attendants who take us from the reception area; everyone is just very pleasant and attentive.  Highly recommend this spa."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "A wonderful escape",
+      "text": [
+        "My husband and I had such a wonderful couples massage at the Guerlain Spa.  We were in the couples room and had Marcelo and Shana as our massage therapists.  My husband, who normally does not particularly care for massages, really enjoyed his massage with Shana.  She was so friendly, informative and knew exactly which muscle groups to target and work on. I suffer from extremely tense muscles and always require deep muscle massages.  Marcelo was fantastic and helped alleviate all the tightness in my muscles.  I highly recommend both of them!!",
+        "The spa was extremely clean and had the most beautiful views.  All the staff were so friendly and welcoming.  The facility was well equipped with a sauna, showers, combs, deodorant, slippers, shower caps, Guerlain scented lotions, etc.  After your treatment, you can relax in their lounge and provided with tea/prosecco and a baked treat.",
+        "We had such a wonderful time there and it was the perfect treat to our weekend stay at Hotel X"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Erica is amazing!",
+      "text": [
+        "If you want to get any facials or skin care taken care off, I would highly highly recommend Erica! She is amazing, has great attention to detail and is a joy to interact with during each of my visits. ",
+        "My skin feels great and I’m ready for all my work trips feeling beautiful and confident."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Couples"
+    },
+    {
+      "title": "Beautiful spa day",
+      "text": [
+        "What a beautiful spa, with warm and friendly staff.",
+        "I had a scrub, wrap, massage with the lovely Geeta.  Left feeling ultra relaxed with soft skin. Would definitely go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Friends"
+    },
+    {
+      "title": "Luxurious spa treatment",
+      "text": [
+        "I felt compelled to write this review after having the most luxurious body contour massage from Geeta at Hotel X Toronto (Guerlain Spa). The treatment was a bliss- absolutely relaxing, therapeutic and luxurious. Geeta was informative of the process but at the same time allowed me to enjoy the treatment. I will be back pronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Solo"
+    },
+    {
+      "title": "Incredible escape in the city",
+      "text": [
+        "10/10. I’m in love with this spa. The Intensive Body Treatment with Geeta was one of the best treatments I’ve ever had. And their relaxation lounge  is so perfect. Can’t wait to return !!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2022 • Solo"
+    },
+    {
+      "title": "Wonderful massage but failed on experience",
+      "text": [
+        "Let me start on a positive note. The RMT Julie was truly wonderful. She was extremely attentive to my needs. The massage she provided was wonderful but also the continued attention she provided after the massage was highly appreciated. I mentioned being interested in a perfume, so she chose perfumes based on my preferences. She was amazing and deserves a lot of credit for the experience provided at the spa. ",
+        "Beyond the massage, I was quite disappointed.  My experience began with an inquiry I made to the spa prior to my visit. The attendant wasn’t able to answer my question on the phone so she took my name and number and offered to call me back. She didn’t call me back. A month later, I called back with the same inquiry. The individual",
+        "followed the same process stating she was unable to answer my question and would take my name and number and call me back. I made her aware that I previously provided my name/number with no response. She stated that she will in fact return my call. Low and behold, I received no response for a second time. That initial encounter left a bad taste in my mouth and I hadn’t even visited the spa yet. ",
+        "The spa itself does not compared to many of the other hotel spas in Toronto (shangri la, four seasons, the ritz). Absolutely no products are provided for post shower use. No combs, no brushes, not even moisturizer or deodorant. I was quite surprised to see that. ",
+        "My sisters and I were excited to use the lounge. It is very comfortable and has a wonderful view. However we were quite surprised when we were told to leave after 30 minutes. I’m not sure if this is Covid related but I haven’t experienced this at any of the other spas (listed above) during my visits since 2020. ",
+        "I recognize that an email was sent stating that parking can be validated. It’s not always top of mind when paying and it wasn’t mentioned when we were paying as a reminder. That would have been appreciated. ",
+        "All in all it was a wonderful massage and beautiful space. I’m glad I visited the spa to get an idea of how it compares to others. Unfortunately with so many excellent spas in Toronto, I do not recommend visiting this one."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2022 • Friends"
+    },
+    {
+      "title": "Don't expect a day at the spa here!",
+      "text": [
+        "I expected to have a nice spa day with my sisters.  We had wonderful massages and then we were led to the spa lounge.  Abruptly after 30 minutes in the lounge after our massages we were told our time in the lounge was up and that it was time to leave.  It was disappointing as we had hoped to spend the day together.  As a non-hotel guest, we did NOT have access to the pool or roof top restaurant.  Other spas at luxury hotels allow you to use their services for the day.  We will be choosing a different spa for our next sisters get together where we can actually spend the day together. ",
+        "Also, I was disappointed when I got home to read a review that said they validate parking.  It would have been nice to be offered parking validation while I was there, but I was not."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Awesome spa!",
+      "text": [
+        "It was amazing!  The service was incredible and the people so nice!  This is a truly high end spa inside an incredible hotel!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022 • Solo"
+    },
+    {
+      "title": "Best sculpting facial!",
+      "text": [
+        "I had my first visit to the spa last week and my facial did not disappoint. I chose the Face Sculpt facial and it was one of the most relaxing and blissful experiences I have ever had and I have many facials a year. Erica was my aesthetician and I cannot recommend her more! She is so sweet and very attentive! She listens to any requests! ",
+        "Amazing hands! I highly highly recommend her and this facial! My face felt lifted, toned and I was soo deeply relaxed it was insane! ",
+        "I've already told all my gfs! ",
+        "Beautiful views, peaceful space, amazing steam room!",
+        "Note: Facial does not include exfoliation or extractions"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Luxury and Skill at its finest",
+      "text": [
+        "Wonderful experience with my husband! My therapist was so wonderful and accommodating! She listened and executed my treatment perfectly hitting all of the spots I requested! The staff in the lounge are so sweet and friendly! The scents are to die for! Make sure to sample their skin care and fragrance! This was true luxury thank you Shana and Livia!! We will return soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Couples"
+    },
+    {
+      "title": "Fabulous spa by the lake",
+      "text": [
+        "A beautiful & quiet spot by the water. Greeted warmly, Keren took care to show me the ladies change room & amenities, and my RMT Julie was fabulous. I'll be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2022 • Solo"
+    },
+    {
+      "title": "The spa provides an out if this world experience!",
+      "text": [
+        "The environment, service, quality of the products, location, even the after treatment, all outstanding!",
+        "I suggest to arrive early to enjoy the fascilities and obtain the most of your experience and treatment"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Family"
+    },
+    {
+      "title": "Shana is top notch.",
+      "text": [
+        "Shana’s attention to detail is second to none. She is a genuine person who really cares and loves her craft.  She is a true pro and showed me what a proper RMT massage should be.  Thanks agin Shana!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Solo"
+    },
+    {
+      "title": "Out of this world!",
+      "text": [
+        "Best spa experience of my life so far! The Guerlain Spa at Hotel X is exquisite. The whole experience from start to finish was flawless,  luxurious and professional. My RMT Shana was out of this world. Her deep tissue massage was pure bliss. What an exceptional talent! I will definitely be returning soon."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Solo"
+    },
+    {
+      "title": "DIVINE.",
+      "text": [
+        "This was my 2nd time back to this spa for my birthday and the service as always is impeccable. I had Geeta for my treatment and she was phenomenal!!!!!! I got the body polish treatment and she was so thorough but gentle at the same time. I will definitely be back and will recommend to friends and family. Best spa experience in the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Solo"
+    },
+    {
+      "title": "Excellent experience",
+      "text": [
+        "I spent the afternoon at the spa and it was an absolutely amazing experience. Julie was a fantastic RMT and was so considerate and helpful. She really did go above and beyond. I would highly recommend this spa and in particular Julie! Thank you!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "Amazing experience!!!",
+      "text": [
+        "I just had a spa treatment with Julie. She is an amazing massage therapist. Very considerate of my needs. I felt comfortable with her instantly. The whole staff at the spa was very accommodating and I loved all the little details. I will definatley come back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Solo"
+    },
+    {
+      "title": "One of the Best Spas in Toronto!",
+      "text": [
+        "I had such an AMAZING time here with my sister for our 30th birthday. Complete tranquility, wonderful staff and just a beautiful experience. 10/10 would recommend.",
+        "My sister and I had Julie and Shana for our massages which were AWESOME. They even took the time after to help walk us through some Guerlain fragrances which was awesome because we both loved perfumes. ",
+        "We also did the Skin Bright facial with AGeeta and Ak"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Wonderful spa experience",
+      "text": [
+        "Service is above and beyond. Great for a day of relaxation whether at a massage service, lounge area or steam room. The heated loungers face the lake and you can see the planes landing! Spa is bright, clean and smells great with the Guerlain products. I had Julie as my RMT and I’m definitely going back to see her. Service is wonderful and attentive from the spa attendant to my RMT. The Prosecco/tea and dessert after the massage was an excellent touch!! I even ended up buying the blueberry tea. Thank you Julie!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022 • Solo"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Me and my wife had the hot stone message with Shana and Julie. We had a wonderful time. Thank you so much for the relaxing experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    }
+  ]
+}

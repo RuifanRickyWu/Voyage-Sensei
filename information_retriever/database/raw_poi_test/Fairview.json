@@ -1,0 +1,289 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Fairview",
+    "url": "/Attraction_Review-g155019-d4961568-Reviews-Fairview-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1800 Sheppard Avenue East",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M2J 5A7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 40
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ec/c6/a4/fairview.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Speciality & Gift Shops"
+  ],
+  "description": null,
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Love this mall",
+      "text": [
+        "Easily accessible from the newer subway line this mall seems to be undergoing a transformation with lots of cool shops and one of our fav restaurants (Moxies) well worth a visit "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Making an all-in-one Day of It for Families",
+      "text": [
+        "My kids are not shoppers; yet, this is the mall in the central part of Toronto, where I can satisfy everybody. It’s not quite as upscale as Yorkdale...and is bigger than the Promenade or pricey Bayview Village. Past the LEGO store on the opposite side of the mall from TTC (“Don Mills”) subway station on Sheppard line, there’s a bustling food court. The Apple store is on the level above its Starbucks & McDonalds, where teenagers and senior citizens tend to congregate. I meet friends beside the South mall exit (outside Michel’s Baguette) at modern Heart Sushi to munch, while sending my kids to watch a movie with prepurchased tickets; the Shoppers Drug Mart beside the theatre, at the rear of the mall, has a post office inside to mail parcels, too. When I was a nursing mother, I used to go to the Mother’s Room inside the Bay department store. There’s seating available to wait for people near the Information kiosk in the centre of the mall (by Pandora jewellery), and also, at brightly-lit Aroma Cafe in the lower concourse. Fairview is busy, any day of the week, because of the transit station and also its ideal situation: where highways 401 and 404/DVP meet. However, it doesn’t have the tourist flow due to hotels that Yorkdale mall and Sherway get. It’s not hard for people from polar ends of the GTA to meet at Fairview...not a bad way to spend the day, even in bad weather!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2019 • Family"
+    },
+    {
+      "title": "Just ok",
+      "text": [
+        "This mall has several stores, however their anchor store, The Bay is dated and in dire need of a facelift. Actually the exterior of much of the Mall needs a little TLC. The food court is bright. Movie theatre and LCBO make it a convenient stop. The subway being there now is awesome . "
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Nothing out of the ordinary",
+      "text": [
+        "Mostly just a generic North American shopping mall.  Not much to distinguish it from another.  The most recent time we were there we did a movie, then got a latte, and got some passport photos done before doing a bit of shopping.  Nothing out of the ordinary."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Blah",
+      "text": [
+        "Ok I lived in Toronto for 25 years returning to England in 2006, on my return in 2018 it feels like this mall has kinda gotten stuck in 2000, there are way better malls out there!! On the plus side they do have some good restaurants"
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Great for daily shopping, everything you need",
+      "text": [
+        "I am visiting my in laws in north york every summer and really like to come to this mall. The people are proper, you have all the important stores you need and have a good diversity. The food court is also very diverse and modern. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Ok but could be lot better",
+      "text": [
+        "Plenty of places 2 shop here; food court on site too. There were only 2 small coffee shops which i didnt undastand for a mall of this size. ",
+        "I tried michels bakery & cafe which was ok; but ive had far better whilst out in toronto. ",
+        "Its close 2 the subway & the staff on the information desk are really helpful should you need directions like i did."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Perfect budgeting mall",
+      "text": [
+        "I like this mall because there’re varieties of store like; clothing, jewellery, banks, drugstore, dental clinic, restaurants, movie theatre, LCBO & car rental(Enterprise). Same as they have a nice food court with with a beautiful layout of seating allocation. Most of the stores carry products with a reasonable price. Lots of parking spaces around the mall. And best part is it’s near by Don Mills subway metro station."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Couples"
+    },
+    {
+      "title": "Needs renovation and more coffee shops",
+      "text": [
+        "I go to this mall often because it’s near home. It’s a good mall. There are lots of good stores. What’s missing is nice coffee shops. I know there are 2: aroma and the bakery on the second floor. But none of those have a nice seating area. Aroma is always nasty messy and busy. The bakery is dark with old furniture and awful coffee. ",
+        "Mall has big underground and overground parking areas which is nice.",
+        "The food court is newly renovated but always packed and hard to find seats.",
+        "There is 1 elevator in the middle of mall. I have a little child with stroller and need to use it. The elevator is either packed or not working! I’m not sure why people with no stroller and no physical disability are using the elevator! It’s strange how some people are not considerate! ",
+        "Generally speaking it’s a good mall to f it’s close to where you live, but I wouldn’t travel far to get here."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2018"
+    },
+    {
+      "title": "Movie",
+      "text": [
+        "Walked around this mall with friends and got a bite.to eat over here it was a great time visiting this place and getting to see what it was like "
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018 • Friends"
+    },
+    {
+      "title": "This mall is very good",
+      "text": [
+        "this mall is very good they have a apple store, forever 21 and h&m what they can improve on is parking and free wifi"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2014 • Solo"
+    },
+    {
+      "title": "Small but with higher end stores",
+      "text": [
+        "While waiting for appointments at the Apple store, we had a chance to walk this mall a few times in the past couple of weeks.  The mall is very clean and well kept.  The open spaces are very nice and there is lots of seating throughout the mall.  The mall is smaller than I remembered, but definitely has some niche stores that make it worth the trip.  We had a bite to eat in the food court and it was also very nice and very well maintained with staff constantly cleaning."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Family"
+    },
+    {
+      "title": "Superb mall by donmills",
+      "text": [
+        "Good facilities and shopping areas in mall. Good selection of food kiosk in the mall. Great place for a quick and fast shopping experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2016 • Friends"
+    },
+    {
+      "title": "Better than Most & Accessible",
+      "text": [
+        "Fairview is quite good by North American standards.  It has a good variety of high- and lower-end retail stores, except the bag stores at Yorkdale.  Most importantly, Fairview is accessible by road (at the junction of highways 404/DVP and 401) and by public transit (Sheppard-TTC Don Mills subway station).  There is no indoor passage connecting the subway exit to the mall. However, it has improved in terms of dining options, electronics (incl. Apple Store), and baby change stations with a couple home improvement and kids' wear options now.  What I have seen at malls such as BC's Oakridge Mall is a kids' indoor playground, which would be an added bonus in a Toronto mall of this size.  However, the Lego store attracts school-age kids.  Aside from the paucity of children's' shoe stores (save but Kiddie Kobbler), Fairview is a decent family shopping centre.  I recommend it to anyone who has two to four or five hours to expend."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016"
+    },
+    {
+      "title": "Nice little mall",
+      "text": [
+        "This mall was situated close to where I was staying, and so I decided to have a look inside. ",
+        "It has a range of designer stores in addition to a pretty big food court. ",
+        "The prices seemed reasonable, and the staff in the stores I visited were all welcoming and affable."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2015 • Solo"
+    },
+    {
+      "title": "Best mall I've been to.",
+      "text": [
+        "I really like this mall, the prices are fair but food court isn't that clean, improved wifi",
+        "It's really packed during weekends"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2015 • Family"
+    },
+    {
+      "title": "Just a shopping centre in North York",
+      "text": [
+        "We (me and friends) go to Fairview because it is close to our homes in North York.  It's a mid range (not expensive, nor cheap) price shopping center with a food court, a few restaurants and a cinema.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015"
+    },
+    {
+      "title": "Well kept mall, poor variety",
+      "text": [
+        "It's a decent enough mall. Not a large variety of stores, and most of the stores that are there are more pricey than certain other malls in the region. On the plus side, a large food court. All in all, it's a good place to burn a few hours."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2015 • Friends"
+    },
+    {
+      "title": "Georgeclan",
+      "text": [
+        "Good place to stay with the family during some short stays. Breakfast was always hot and fresh with awesome staff during the night and day shifts.  "
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Standard mall",
+      "text": [
+        "Easy to get to from Toronto city centre using subway. Standard mall outlets with Sears etc. cheaper than the Eton Centre if that is what you want."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2014 • Couples"
+    },
+    {
+      "title": "Don't make a special trip",
+      "text": [
+        "Unless you live in the area, no need to make a special trip here.  ",
+        "Very uninspiring mall when you have better options like Vaughan Mills, or downtown shopping.  And it gets very busy (for some reason).  Save yourself the trip.  I live somewhat close to here and (as a shopper) nothing could motivate me to make a trip here again."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2014 • Couples"
+    },
+    {
+      "title": "I really like this mall cause...",
+      "text": [
+        "I really like this mall cause it has my favorite stores like victoria secret, la senza, sephora and bath and body works. It is the perfect size for anybody not to get tired. The food court is also great as well as the parking."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2017"
+    },
+    {
+      "title": "Bad Customer Service",
+      "text": [
+        "I left my jacket in a mall stroller by the Canada Trust entrance 30 minutes before close. I emailed them that night, and called first thing in the morning knowing that the jacket would still be exactly where I left it. They didn't even try looking for it, they just said they had to wait until someone turned it in. I lost a brand new jacket, my licence and my health card all because no one wanted to put effort in."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2017 • Family"
+    },
+    {
+      "title": "This is a great mall, great selection of stores and services, parking not too bad.",
+      "text": [
+        "I like this mall because it has a St. Louis Wings and a Cineplex. It also has the stores my millennials like to shop at. Hollister and Forever 21 and a whole bunch of others. Good food court too. Not a tourist place as it isn't really connected to anything but the subway at Don Mills. Watch out for rush hour around here as it is a major bottleneck."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Family"
+    },
+    {
+      "title": "Just ok",
+      "text": [
+        "This mall has plenty of stores to choose from. It also has a large food court. ",
+        "I will not be going back to this mall, there were no stores that interested me. I spent over 4 hours here and spent $15 dollars.  Many stores are over priced but many stores are also extremely cheap quality. My purchase was made at a jewellery kiosk called \"Kilo Jewels\".  I am very angered to have looked at my visa statement and it says \"ISIS JEWELLERY\" . I would never have purchased from an establishment that has ISIS anywhere involved in their name. Too bad I had to find out later. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Hat, Wedding Gift, and Lunch",
+      "text": [
+        "My wife and I decided to go to Fairview Mall to get a fedora for my Purim costume. A wedding gift from the registry for my brother and his fiancée for their upcoming wedding. After we decided to have lunch at Jimmy the Greek she got a pork souvlaki dinner while I had a small Greek salad. The food was good. It was enjoyable outing for me and my wife and we got some important  things done.",
+        "Joel M."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Mall for locals",
+      "text": [
+        "This mall didn't seem to have a lot of tourists which was awesome, but they also were missing out on some of the more popular stores like lulu and roots, but still had solid options and a good food court and cinema. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2017"
+    },
+    {
+      "title": "Don Mill's shopping mall",
+      "text": [
+        "We too the subway here to get out of the cold. The walk from Don Mills Station to here is via a carpark and entering directly to Sears at this mall. Its a mall with quite a few branded stalls included to cater for the local residence. A busy place this is, though being located at the last subway station."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2016 • Couples"
+    },
+    {
+      "title": "Good suburban upscale mall",
+      "text": [
+        "One of the better malls in Toronto. A little more upscale than most. It is a large mall. Has a good variety of stores which are not geared towards the economy shopper. Parking is OK but access to the parking lots are tricky as it is in a busy section of town with lots of busy intersections."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016 • Friends"
+    },
+    {
+      "title": "Shoping",
+      "text": [
+        "Its always a good experience to shop here.you can buy almost every thing under one roof.and off course thir food court is a good place for everyone."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016 • Solo"
+    },
+    {
+      "title": "Nice place to shop",
+      "text": [
+        "It's not the best shopping center in Toronto, but it is one of the good ones with a good variety of stores. The worst store we visited though was Zara. It was crowded, unorganized, dirty and messy. Clothes were lying on the floor, getting stopped on & non of the employees cared!",
+        "We went there to shop but decided against it with all the mess. But overall the mall was ok & well managed."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2016"
+    }
+  ]
+}

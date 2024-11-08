@@ -1,0 +1,401 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Beer Lovers' Tour Company",
+    "url": "/Attraction_Review-g155019-d3521938-Reviews-Beer_Lovers_Tour_Company-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "255 Bremner Blvd Steam Whistle Brewery, Roundhouse Park",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 3M9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 139
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/72/f3/fc/beer-lovers-tour-company.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Historical & Heritage Tours",
+    "Beer Tastings & Tours"
+  ],
+  "description": "Celebrating a passion for beer, food and travel, The Old Toronto Beer Tour explores the culture and history of Toronto against the backdrop of our rich brewing heritage both past and present. The Old Toronto Beer Tour is an all-day experience and includes tours and tastings at 4 breweries--Steam Whistle, Amsterdam Brewery, Izumi Sake Brewery and Mill Street Brewery -- a charcuterie lunch, transportation, sightseeing including entrance to Fort York and a walking tour of the Distillery District. Our tours are professionally guided by fun and knowledgeable brewery experts. We also offer a shorter walking tour of the Distillery District, called the Toronto Beer & Chocolate Tour. Now announcing our newest tour, the Toronto Rail & Ale Tour, running Sundays from 1 to 6.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Excellent!!",
+      "text": [
+        "Great tour!! Oliver is extremely passionate and knowledgeable and was able to create a great itinerary. The tour ran smoothly and our whole group had a lot of fun and learned a lot!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023"
+    },
+    {
+      "title": "Beer+History= Perfect Day",
+      "text": [
+        "Such an amazing day. We originally bought this as a Christmas gift for my dad back in 2019 and due to COVID were only able to do the tour this past month, and boy were we glad we held on to do the tour.",
+        "Oliver is such a knowledgeable guide both from a history of the city as well as helping to understand the science of beer! ",
+        "We did his revised tour which took us to some of the smaller breweries on the west end and loved it. ",
+        "If you like beer and history you will love this tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Mémorable Experience",
+      "text": [
+        "Our party of 7 celebrated a friend’s birthday. I started getting quotes a few months before, and Oliver was the only one who consistently communicated with me and answered all questions. His quote was higher than others I received, but this tour was worth every penny and more! We spent a day visiting breweries, Fort York museum, talked beer, history, music and beer. It was a fantastic experience. Oliver combines German order and punctuality with European knowledge of history with truly Canadian love for the country and the city of Toronto. Highly recommended for anyone who wants to see more of Toronto, and who loves beer."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021"
+    },
+    {
+      "title": "Fun Tour",
+      "text": [
+        "My son and I took this tour. It was terrific! Humour, history, food and beer...what more could you ask for? We learned a lot about Toronto and beer. Well worth the money and time - excellent valus."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Old Toronto Beer Tour",
+      "text": [
+        "My husband and I and my sister and brother in-law were 4 of 10 people who were in the Saturday tour. Perfect size group. Noah our tour guide was great and kept us engaged and was a great host for the day. We started off at Steam Whistle at 11am and kept going until we finished at 6pm. A nice pace of drinking and history. Just wish I had brought an umbrella for the visit at Fort York. Every stop was great. Could of used a bit more time in distillery district but I’m guessing we lost some of our time due to the bad traffic. Would definitely recommend as a fun couple or group day whether you are much of a beer drinker or not. Great value for the price and we all had a great time. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "What a wonderful way to spend a Saturday (or any day)",
+      "text": [
+        "Thanks Oliver for a fun and informative experience. Who knew that Toronto had such a rich history as a powerhouse of brewing? An added bonus was the brewing exhibit upstairs at St. Lawrence Market. Great beer and great company."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Great tour",
+      "text": [
+        "We had the privilege of having Oliver do our tour. His knowledge of the craft beer industry in Toronto is complimented by his knowledge of beers from Germany and Bavaria. The recipes,skills and tradition to make these fantastic beers. To tie in the old history of corktown, Fort York and distillary district and beyond is a testiment to his love of beer. Every stop came with a spokes person that shared the love of beer. Great mix. History, beer, good food, and great people made a memorible day. I would reccomand this tour to everyone. Bruce and Brenda"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "Oliver was a great host! He was very knowledgeable and you can tell that he really cares about  making sure every one on the tour has a great experience. With stops including Fort York and Corktown, this tour exposes you not just to Toronto's beer culture but the history behind it as well."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Fantastic Beer & History Tour!!",
+      "text": [
+        "I’ve been on many beer tours and I have to say this was one of the best!!  Oliver was a great host and managed our slightly unruly group with aplomb!  I know a lot about beer and yet Oliver taught us a few things I didn’t even know... Great balance of beer & history - worth every penny."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Excellent Tour!",
+      "text": [
+        "Recently took the The Old Toronto Beer Tour. Great day with everyone. Beer was actually better than expected as they are not beers that I normally drink. Our guide and host Noah was great as well. Actually learned a lot of the history of beer in Toronto but also some other items in relation to drinking beer and how beer is made. Would definitely recommend this for anyone in Toronto or visiting Toronto. It was great meeting all the others on the tour as well. Very relaxed atmosphere and the food was also spot on!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Great Day,and lots of beer",
+      "text": [
+        "We did the tour June 3rd, with another couple, ",
+        "It was a Christmas present for my husband and we made a great Saturday of it.",
+        "We were in a group of 25, fairly large, but our knowledgeable guide Noah was great and kept us all in line lol",
+        "The weather was with us, and it was fun learning all about different beers and brewing methods, and of course all the sampling.",
+        "Robin our guide at the steam whistle was new at her job, but did great.",
+        "The lunch there was wonderful, and kept us going for a few stops, until we got to Mill Street Brewery, at that time we were all hungry and feeling the beer, My suggestion is to put a few more snacks in during the day.",
+        "As I said before, Noah knows his job, and people, and Toronto, he has a great sense of humor and can handle the crowds.",
+        "Hats off to Clem, our bus driver, who did a wonderful job, and even dropped us off back in the area that we started.",
+        "I would recommend this tour to anyone, it would be a great gift to give or receive",
+        "Thanks to Oliver and his crew"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Rail and Ale-  Great way to spend a Sunday",
+      "text": [
+        "Excellent tour- very informative and our guide was tremendous.  Got to sample some great beers, learn a little about producing beer, what tie ins there is and was to railroad and have some laughs."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Business"
+    },
+    {
+      "title": "Rail and Ale",
+      "text": [
+        "I was given this a birthday gift last year and we reserved it , for May this Year.We met Noah (our guide)  at Steamwhistle brewery  in the pouring rain and thought , with all the rain, He would take us onto the Ark , two by two. We toured the round house , with beers, puns and pretzels and had a blast on the steam-whistle. Then a short walk to Mill-street brewery and onto the Up train to Henderson's . This was off/ on the Bloor street line and a  scenic walk to the brewery. Met by Jeff , and then up to the party room for a beer and cheese tasting . It was Outstanding. Nice guys who made our party of 10 feel welcome and shared a great afternoon. On a sunny day it would have better, there was no pain , or rain in Spain as we sipped our beverage, made from hops and grain - Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "One of the best ways to spend the day.",
+      "text": [
+        "Oliver allowed us to start off the Saturday on a fresh beer instead of coffee. This was an unexpected and brilliant move. A fresh beer picks you up and cools you down! It was truly great to see beer, Toronto and history merging together in such a relaxed manner. It reminded me that in the so-called 'civilized' world throughout history, the Middle Ages, the Renaissance and up to quite recently also in pristine Ontario, beer was a safer drink than water. It was a very pleasant and insightful day. Thank you Oliver!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Couples"
+    },
+    {
+      "title": "Beer meets history",
+      "text": [
+        "Great day around town with Oliver. Learned a bit, drank a bit. Great for beer and history enthusiasts"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Toronto Beer Lovers' Tour = awesome day on the town",
+      "text": [
+        "Had a great time with Oliver & Noah as our hosts.  Learned that just about everything in Toronto has been affected by beer or a brewery over the years. Sampled lots of great beers that I never would have tried on my own and would recommend the tour to anyone who likes or loves beer. :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Some great insight into Toronto's History with beer",
+      "text": [
+        "Took the tour 2017-03-25 and had a fantastic time. An excellent slice of the beer Toronto has to offer and some great insight into the history that Toronto has with beer. Both Oliver and Noah were very knowledgeable and fun to talk to. Despite being a local and familiar with the breweries on the tour, I enjoyed the tastings and learned a great deal."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Beer Lovers Tour",
+      "text": [
+        "Outstanding!! Loads of fun and great host!! Would recommend to anyone!! Learnt so much about Toronto and its connection with beer"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Beer Lovers' Tour",
+      "text": [
+        "We had a fantastic time with Oliver on the Beer Lovers' Tour. Lots of fun and very informative. We will definitely be back with friends!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017"
+    },
+    {
+      "title": "Fantastic Tour!!",
+      "text": [
+        "What an incredible day! We were welcomed promptly at 11 am the only way you can be on a full day beer tour, with an ice cold Steam Whistle! The entire day was filled with great beer (never a dry glass), and an exciting look into the history of beer distilleries and how they have shaped Toronto, Ontario and even Canada. Our tour guides (Oliver & Joel) were knowledgeable and passionate, really making the tour and the city come alive. My boyfriend and I thoroughly enjoyed our experience and would recommend this tour to anyone looking for a truly unique day spent enjoying many delicious brews, beautiful sights, and the best sausage rolls the city has to offer (Oliver will be sure to point you in the right direction) !!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2017 • Couples"
+    },
+    {
+      "title": "Beer Tasting Tour",
+      "text": [
+        "We had such a wonderful tour!! I learned so much history about the city, country and the beer! Noah is the best tour guide! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017"
+    },
+    {
+      "title": "Rail and Ale Tour",
+      "text": [
+        "We spent a great afternoon learning more about Toronto's rail history and trying some great beers and cheeses.  Our tour guide, Noah was fabulous and made the tour fun and interesting.   I would highly recommend this tour to anyone who wants to learn more about beer and our great city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "Great day in TO",
+      "text": [
+        "This tour is a great combination of TO history and beer.  Great day, very knowledgeable guide(Noah).  We would highly recommend this tour to visitors and residents of Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Couples"
+    },
+    {
+      "title": "Old Toronto Beer tour",
+      "text": [
+        "What a great day! I mean beer and some Toronto history, why not? I would highly recommend this tour to any level of beer drinker, from the novice to the vet. The day started at the historic Steam whistle brewery and with a few cold ones down the hatch, we were off! Great for friends, family and family to be in our case. Oliver was a great host and tour guide, it's easy to see he's passionate about beer. I will be doing this tour again next year with from friends. Bring some snacks and a bottle of water, you''ll be drinking more than you think!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Friends"
+    },
+    {
+      "title": "A very enjoyable afternoon",
+      "text": [
+        "We received this tour as a gift so weren't quite sure what to expect.  It turned out to be a wonderful combination of historic tour and great tastings of sake, chocolate and beer.  Knowledgeable tour guide (Noah) and excellent breweries.  Highly recommend the tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "Old Toronto Beer Tour",
+      "text": [
+        "The tour was very enjoyable. Oliver certainly is a wealth of knowledge. You will have the opportunity to sample a lot of beer.  My favourite tour was the first stop with Steam Whistle.  Francis, our tour guide with Steam Whistle, was really funny.  What a great ambassador for the company.  I chose this tour to celebrate a milestone birthday. Oliver was good enough to pick out the most delicious cake for us, and the entire group was treated to his amazing singing voice.  I enjoyed Fort York very much as well. I will very likely try another tour with this group.  Well done."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "Amazing time at the beer and chocolate tour",
+      "text": [
+        "We just went on the beer and chocolate tour! We had a phenomenal time! Noah, our tour guide was great! He was knowable, friendly and so much fun! We had a blast and would like to do a full day tour as well.  We highly recommend this tour to anyone who loves a little beer, history, culture, chocolate and fun! Thanks for an amazing tour Noah!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Old Toronto Beer Tour",
+      "text": [
+        "We have been on lots of brewery tours, so we have seen some bad ones and some great ones. This one was fantastic! Noah was our guide. We visited Steam Whistle, Mill Street, Izumi Sake, and Amsterdam breweries. In between those stops we got tons of historical information about Toronto. We stopped at Fort York and did a quick tour there as well as a quick stop in the distillery district to learn more about that section of town. Noah was friendly, informative, and knew a lot about beer and alcohol in general and how it specifically intertwined with Toronto history. I would highly recommend any of their tours. When I get back to Toronto I will be sure to take another one."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Old Toronto Beer Tour",
+      "text": [
+        "A great day touring around downtown and learning about the history of beer in Toronto.",
+        "A lot of beer is offered so prepare to use public transit to get home.",
+        "Our guide Nick was a lot of fun, and very knowledgable. ",
+        "I agree with a previous reviewer who suggested that additional food should be available along the way."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2017 • Couples"
+    },
+    {
+      "title": "Wonderful Tour",
+      "text": [
+        "Really enjoyed Old Toronto Beer Lovers Tour this past weekend!",
+        "Noah, our tour guide was knowledgeable and made the tour fun. ",
+        "Tour was well organized, starting and finishing on schedule.  Some walking, yellow school bus shuttles you from one Brewery to another. ",
+        "Many Beer samples, so driving afterwards is not a good idea. We live out of town and planned an overnight right downtown. ",
+        "A fun way to celebrate a, Birthday or special event!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2017 • Friends"
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "This tour went above and beyond my expectations! I got it as a birthday gift for my boyfriend, and we both absolutely loved every minute. You get a ton of beer samples, an awesome lunch, a great way to sight see the city, and you get to meet some cool people. Our host Noah was so much fun and extremely knowledgeable; without a doubt he made the day as amazing as it could have been. I would highly recommend this tour to anyone visiting Toronto, or to anyone that lives in the GTA like myself who was looking for a unique experience :) cheers!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Old Toronto Beer Company Tour!",
+      "text": [
+        "This was a birthday gift for my husband and I was hesitant to go. Best decision I have made...the day was fantastic. Our host Noah was hands down the bomb, what a great tour guide, absolutely the best, he went over and above for us...we wish him well in all his endeavors.  The group we had was amazing made my husbands birthday.  Great day. Great food. Great beers.  Oliver was wonderful to deal with, always answered my emails and questions.  Highly recommend this tour. Would do this again in a heartbeat. Clem was a great bus driver! All around A+ day in the city. Do not hesitate to book this tour you will not be disappointed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Couples"
+    },
+    {
+      "title": "Oliver is an excellent host!  For the best Beer, add on the Beer Lovers' Dinner option at the Granite Brewery!",
+      "text": [
+        "We spent a great Saturday afternoon and evening with Oliver!  ",
+        "Steam Whistle ",
+        "Fort York ",
+        "The Distillery District",
+        "Ontario Spring Water Sake Brewery",
+        "Mill Street Brewery",
+        "Amsterdam Brewery",
+        "Beer Lovers' Dinner option at the Granite Brewery",
+        "Oliver really does give you some great history of Toronto and its wonderful beers!  The best ones were from Granite Brewery!  ",
+        "Cheers!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Great way to spend the day in Toronto!",
+      "text": [
+        "We booked this tour not really sure what to expect and we even wondered if we'd find it relevant to us as current residents of Toronto. We were looking for something fun to do though and thought \"It's about beer so let's give it a try\". Overall this tour completely exceeded our expectations and we had such an amazing day. It wove the story of beer, history and the city we love into one day long experience while providing us with copious amounts of tasty refreshing beer. Oliver is an amazing, knowledgeable, professional tour guide and he managed to keep the entire day interesting and enjoyable for everybody. The various stops were well paced and you never felt rushed or bored - there was always time to relax and for self guided exploration. I wholeheartedly recommend the Old Toronto Beer Tour to anybody interested in drinking some beer and learning about the city of Toronto. Also keep in mind - if you`re concerned that this might tour involve only small samples of beer, don't be - this tour involves a LOT of beer. Nobody will go away thirsty by the time the day is over."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Great tour and funny guides",
+      "text": [
+        "My boyfriend and I very much enjoyed this tour and I especially loved the tour guide, Oliver, and bus driver, Clem! Oliver is witty, full of information and an absolute perfect person to have as a tour guide. Clem is a fantastic driver and very friendly. I had a lot more fun on this beer tour than I had expected. The beer locations were awesome and the food was great too...the pretzels OH my goodness, they’ve gotta be the softest pretzels in the world. Thank you Oliver and Clem for a wonderful Saturday and a belly full of beer!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Slake your thirst for history and beer with Old Toronto Beer Tours!",
+      "text": [
+        "I routinely tour breweries in the cities to which I travel, but this tour with guides Oliver and Noah was bar none the best I've experienced!",
+        "Oliver and Noah met my group with a full size tour bus and, after loading, provided a narrated tour of the history of Toronto's formation while en route to out first stop, Mill Street Brewery in The Distillery Historic District.  Oliver's wry Canadian appreciation for history made for an entertaining 20+ minute drive over to the District, after which we walked around the Distillery Historic District for a period of time.  Oliver and Noah both gave rich descriptions of the history of the District, including explanations of the various buildings and the preservation efforts undertaken to retain them",
+        "We then ventured into Mill Street Brewery, where were enjoyed samples of four different beers, each of which accompanied by an explanation of its type (i.e., lager v. ale), its brewing process, and its flavor profile.  By samples, let me be clear: each table received a pitcher to share among 4-5 people, so no one went home thirsty or lacking for an appreciation of Canadian craft beer.  Pretzel knots with beer mustard also made an appearance, after about an hour of conversation, beer, and beer knowledge, we returned to the bus to our final stop, The Granite Brewery.",
+        "Again, along the drive to the next brewery, both Oliver and Noah kept things lively with more history: they pointed out sights along the route, and provided a preview of the next brewery.  Upon arrival we enjoyed a multi-course dinner accompanied by four glasses of different beers matches to the course.  The beer was excellent and varied, the conversation enjoyable, and by the evening's end we all boarded the bus back to our convention site.",
+        "Some general notes:",
+        "1)  None of the walking, either to the breweries or  around the District, is particularly far or challenging, but the District's streets had uneven stones (cobblestones or similar) throughout, so walking might be a challenge for some people.",
+        "2)  The beer selections were pretty well balanced (not all dark, not all light, etc.), but if you saw something you fancied at the brewery that was not part of the tour you had time to order it on the side to sample.",
+        "3)  I attended this tour as part of the Rotary International Convention, so instead of a lunch we had a dinner at the conclusion of the tour.  Not sure how common this is, but regardless of the meal, the tour and beer is an excellent time.",
+        "Overall, this was one of my favorite parts of my week in Toronto, and Oliver and Noah do a great job entertaining, educating, and hosting you in their city.  I highly recommend taking this tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Beer Lover’s Tour",
+      "text": [
+        "Lots of fun. I learned a lot about Toronto’s beer history, as well as visiting areas of Toronto I had never been to before. If you enjoy beer and want to see some surprising parts of Toronto, this is a perfect choice."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "Great way to discover Toronto",
+      "text": [
+        "Amazing host/guide (Noah), Plenty of beer tasted from different brewers and a surprise waiting at the distillery district!!! This tour also provides a great way to re-discover the city from a different angle. Highly recommend to beer enthusiasts of all levels."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Couples"
+    },
+    {
+      "title": "Awesome Toromto History and Beer Tour!",
+      "text": [
+        "This is the first tour we did in Toronto and we have lived here all our lives. We leaned so much Toronto history and learned a lot about beer. ",
+        "Our tour guide Noah is very knowledgeable about Toronto’s history and the beer process. He was very approachable and answered all of our questions. ",
+        "I would recommend this tour to anyone."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Couples"
+    },
+    {
+      "title": "Old Toronto Beer Tour ",
+      "text": [
+        "Lengthy review warning:",
+        "I surprised the Mrs. with this tour as an Anniversary gift. She wasn’t enthused at first but my rationale was for us to do something different as we both enjoy beer. However, our beer knowledge doesn’t extend beyond Coors Light and Corona so we could both learn more about this concoction. ",
+        "Our tour date was October 28th and didn’t quite know what to expect as the day was rainy and a bit cold. We met the group and our guide in front of Steamwhistle Brewery. Our guide Noah (AKA Chris) was there to greet us. Along with my wife and I, there were 7 other people in our group. Noah introduced himself, took us inside and led us upstairs, where he told us about the tour company and Oliver, the owner, a little bit about the beer history and what our schedule will be for the day. BTW, as soon as you arrive upstairs, they provide you with a beer. This is a sign for things to come...",
+        "A guide from Steamwhistle, Dan, came to tell us about the company led us to a tour of the facility. This took approximately 40 minutes and once we came back upstairs, Noah had lunch prepared for us. Lunch consisted of charcuterie: pretzel buns, assorted meats and cheeses. ",
+        "Then we left Steamwhistle and hopped into a yellow school bus. This was going to be our mode of transportation for the rest of the tour. Our driver Clem (I believe that was his name) was awesome. ",
+        "Our next stop was Fort York. Noah took us to a little tour of the museum explaining us the history of Toronto in the 1800’s and its relation with beer. Also visited some of the soldiers and officers barracks. No beer tasting in this stop. ",
+        "Afterwards, we went to a driving tour of Corktown and it’s history. This particular section of the tour wasn’t long for us but its dependent of the Downtown traffic. ",
+        "Later, we were dropped off at the Distillery District. We went to the Izumi Sake first to taste some Sake. A worker from Izumi, Godfrey, told us about the company and the Sake process making. We got to taste 3 different types of their Sake: Nama-Nama, Teion Sakura and Genshu. ",
+        "Our second stop within the Distillery was Mill St. pub. Our guide Noah, played server for us offering us their different beers. We had some pretzel bites as appetizers. The main facility for Mill St. is in Scarborough and therefore out of the way. ",
+        "We departed the Distillery for our last stop of the tour: Amsterdam Brewery. Here, as Noah warned us earlier, the beers came fast and hard. There’s no tour of the facility so Noah again served the role of bartender and server for us. We tasted around 7 different kinds of beer, the most memorable for me was Fracture. ",
+        "My wife and I took part of the optional dinner meal at Granite Brewery. A 4 course meal with 4 different kind of beers. ",
+        "Noah was a great guide. He was knowledgeable, funny and friendly. He made sure to keep our group relaxed and focused at the same time. He was also time conscious which is a must for leading a tour group. He made sure that we were all enjoying the tour plus he was very quick to learn all of our names. ",
+        "This tour goes from 11am to 6pm so be warned but the staggers the stops at a perfect pace that you never feel like you are being rushed. This tour is not cheap but it’s worth it. You will be sampling more than enough beer to last a long time. ",
+        "Kudos to the Old Toronto Beer Tour and Noah for a wonderful beer tour of Toronto and for making my wife very happy! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Couples"
+    }
+  ]
+}

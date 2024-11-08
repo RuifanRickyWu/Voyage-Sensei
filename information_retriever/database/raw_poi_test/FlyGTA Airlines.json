@@ -1,0 +1,397 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "FlyGTA Airlines",
+    "url": "/Attraction_Review-g155019-d10784905-Reviews-FlyGTA_Airlines-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Hangar 1 Billy Bishop Toronto City Airport",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 1A1"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 298
+    },
+    "openingHours": "Mo-Su 08:00-19:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/bf/ef/4c/flygta-airlines-logo.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Air Tours"
+  ],
+  "description": "Local Toronto Airline. FLYGTA offers daily flights to surrounding cities, air tours of Toronto, charter flights, and cargo solutions.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "The Worst Service hidden theft",
+      "text": [
+        "Flair is a scam. When you book online, you are not told about the other costs relating to your baggage. On arrival at Pearson Airport, I was told that I needed to pay for my carry on bag which came to 78 CAD and the lady who served me confirmed to me that the cost was for the round flight! While coming back from Halifax to Pearson airport I was again charged 78 CAD for my carry on bag! The cost of the ticket increased by 90% what a scam! ",
+        "I advise fellow travellers to avoid Flair that company is a scam. Coupled with terrible customer service! The actions and treatment is horrible. I advise travellers to  take caution. Flair is such a terrible company! And no one cares! We are in an era of excellent service care travellers should avoid experience such terrible service bordering on theft.",
+        "I can predict and foresee that sooner than later Flair will be no more!"
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Flair Airlines better than expected!",
+      "text": [
+        "Everything was great!",
+        "No problems at security or pre clearing US customs.  Our Flair flight was on time and much better than expected.  Would fly with them again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023 • Family"
+    },
+    {
+      "title": "Top notch!",
+      "text": [
+        "Lovely waiting area, reception staff and pilots so friendly. Flight was amazing and landing in Muskoka was so smooth! I would do this every week if I could! Thank you Mo and Sully!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Solo"
+    },
+    {
+      "title": "Do Not Use",
+      "text": [
+        "Do not use - Not Reliable ",
+        "After booking a week in advance, arrived at Niagara airport on July 28 for 6:30 pm flight to Billy Bishop No plane arrived - when I contacted their 1-800 number advised all flights that day canceled but when they called up my booking it was still ‘active’’ but then said I must have received phone and email message which we did not - put me on hold for 10 plus minutes only to confirm that no messages had been sent and then had to insist on a refund not yet received ",
+        "They were great pre- Covid but not any more"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Kingston to Toronto Service",
+      "text": [
+        "FlyGTA is fantastic! I would definitely recommend it - I have taken it twice so far. Ticket purchasing is fast and easy. They give you good directions on how to get to their terminal at Billy Bishop with the ticket confirmation. The pilots are super friendly, customer support is super responsive and boarding the plane is so fast! The flight itself was fast (about 35 minutes in the air), the seats were comfortable, and best of all, you get to your destination in a 1/3 of the time it takes the train! It's by far the best way to get to Kingston from Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022 • Solo"
+    },
+    {
+      "title": "Great sightseeing tour of Toronto!",
+      "text": [
+        "I had an opportunity to go on a sightseeing flight around Toronto with FlyGTA and it was an enjoyable experience!",
+        "I had scheduled it less than a week in advance and everything went smoothly, from reservations, to checking in, COVID check, and the actual flight. It was all good! Our pilot, Ben, kept everything smooth.",
+        "Our aircraft, a Cessna Skywagon 207 is a six-seater, with a cabin that's narrower than the average car. Thankfully, it was just me, my cousin, and our pilot. It allowed us to spread out a bit and take pictures through the windows on either side of the aircraft.",
+        "Our air tour took us over Lake Ontario, going east to Scarborough Bluffs and then back towards the city, north of the downtown core. We went as far west as Little Italy and then circled downtown. One more trip around the islands and it was back to the airport. Smooth flight all around!",
+        "Although the weather was sunny, it was quite a bit hazy at times, depending on the angle. I did manage to get some decent images out of the 700+ shots though. I just posted a small sample here.",
+        "Going on this flight brought back memories of when I worked as a photographer, traveling to cities in the US and Canada, capturing images for postcards, calendars, and other souvenir items. Back then, digital cameras weren't around, so I'd have three cameras loaded with film, and a limited number of shots. Thank goodness for digital! Most of my flights in those days were in a helicopter with the doors removed for the clearest shots! I miss those days.",
+        "If you're looking for a different type of experience and a new way to discover our wonderful city, contact FlyGTA. They'll take good care of you!",
+        "PS - Our flight also included a bottle of champagne while on board!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021"
+    },
+    {
+      "title": "Flight from Niagara to Toronto Island",
+      "text": [
+        "I write this over a year after the fact because it was such an easy and enjoyable experience and I'm flying with them again this week as a result of that positive experience.  I flew St.Catharine's Niagara Regional Airport to the island in May 2019.  The flight was so easy compared to train and/or bus or even driving the boring highway only to sit in Toronto traffic once approaching from the west.   So, now I am trying the new Kingston to Toronto service later this week.   Should be fun if we don't get snowed in!   The only negative is the poor web site:  googling to get the real website we were lead to a similar one for a \"Curly Airlines\" but that soon became obvious as a test site of some sort.  I know FlyGTA are trying so giving the benefit of the doubt.  They've also been great to deal with over the phone.   Very friendly and well-organized."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Toronto Kingston flights - fast and convenient",
+      "text": [
+        "We took return flights between Toronto Billy Bishop Airport and Kingston (Ontario) Norman Rogers Airport. It was fast and convenient - a great alternative to taking trains or buses.",
+        "At Billy Bishop, they don’t use the terminal (where Porter Airlines uses), so once you walk through the tunnel, before proceeding further to the terminal, take the elevator right after the tunnel on the side up to the ground (arrival) level. You go out of the building, and across the turn-around driveway further ahead you’ll see a small building with “STOLPORT” sign. You walk over there and speak to an agent inside who will help you check in and lead you to a small waiting lounge. Oh, since they are chartered flights. they don’t have those unpleasant security checks! We were the only passengers and we were there 40 minutes before the departure. Since we were all ready, they even departed early for us.",
+        "They don’t have tons of luggage space but they do take suitcases (they put them in the “nose” of the airplane or the back of the cabin). The small 8-seater plane is “well-loved” so if you expect a swanky private jet you might be a little disappointed, but we thought it was quaint. It is just so wonderful to be able to fly direct to Kingston from downtown Toronto - takes only 40-45 minutes one way. I definitely see the need for this as it is fast, convenient, relatively private, fun and easy to fly.",
+        "The building (both STOLPORT at Toronto Billy Bishop and Norman Rogers in Kingston) are fully accessible, but the airplane is a tiny 8-seater, so you will need to be able to climb up/down a small ladder to get on/off the plane. They won’t rush you so you can take time getting on/off if you need extra time.",
+        "(Information is based on our experiences as of October 2020)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2020 • Couples"
+    },
+    {
+      "title": "Flight was nice, but they are very disorganized",
+      "text": [
+        "Flight was nice, but they are very disorganized. We had photos taken and over a month later after multiple attempts to contact them, we have yet to receive them."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2020"
+    },
+    {
+      "title": "Absolutely AWFUL",
+      "text": [
+        "This company is an absolute SCAM! Do not purchase anything from them! I purchased a private sunset tour for my boyfriend for his birthday. The night before our scheduled flight we contacted them to get our details as no one gave us any at all, no follow up email after booking, no itinerary absolutely no information. We called multiple times during the day left multiple vm with no call back! Finally that evening we reach someone who tells us our flight is cancelled. We re-book for over a month later to conveniently have them call us again to tell us the flight is cancelled. They claim we will receive a full refund but now no one will return my emails or vm! Whatever you do DO NOT BOOK WITH FLYGTA!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2020 • Couples"
+    },
+    {
+      "title": "Amazing experience and service!",
+      "text": [
+        "I did the flight from Niagara District Airport to Billy Bishop (Porter) in Toronto and thought it was an awesome experience and tremendous value for the price to have such an easy commute back into the city while avoiding all the traffic AND enjoying a beautiful view of the lake and city. Very comfortable and easy! Totally worth it for commuters and tourists alike!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Solo"
+    },
+    {
+      "title": "Bumpy ride but thoroughly enjoyed it.",
+      "text": [
+        "Weather was windy but we opted to go up anyway! Once we got above 2500 ft it calmed down. Our pilot Samuel was confident and competent. We didn’t go up for the champagne but we enjoyed it even though we hit a bump and I slopped"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Fun flight, great views, friendly staff",
+      "text": [
+        "Really nice flight to see Toronto from top. Great for tourism or to know better the city from a different point"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Flight to Niagara",
+      "text": [
+        "Easy peasy 12 minute flight to Niagara from Billy Bishop airport in Toronto. Very quick and cheap if you want to visit the falls without the hassle of travelling by car, bus or train"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Amazing Fly-By the CN Tower",
+      "text": [
+        "I was greeted by a very experienced team in a brand new office at Billy Bishop. We were offered Champagne (not the cheap stuff) and escorted to our aircraft. ",
+        "The pilot was experienced and handled the plane with ease. ",
+        "Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Beautiful and exciting way to see Toronto",
+      "text": [
+        "Bought the Toronto tour as a gift for my boyfriend, it was a fantastic way to see the city. We had a great time, and the plane is perfect for this kind of trip, with bubble shaped windows that are perfect for site-seeing and picture-taking. Overall it was a positive experience with top notch customer service, but my constructive feedback would be:",
+        " - It could have been a bit longer",
+        " - We were told it didn't matter which side you sat on, but the left side had far more of the city views than the right",
+        " - The 'champagne' was cheap bubbly wine"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Fly gta",
+      "text": [
+        "Amazing experience with fly GTA ",
+        "My sons flew in from Billy Bishop to",
+        "Niagara they loved the flight the pilots were great and getting here in 12 min! Wow thx so much!",
+        "We are lucky to have you in our area",
+        "Wendy C"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Solo"
+    },
+    {
+      "title": "Quick and Convenient Ride to Niagara!",
+      "text": [
+        "This service is great!  Avoid the traffic from Niagara to Toronto Island with a quick 12 minute flight.  It was worth the cost, which is very fair, and the service was very friendly.  I would definitely take it again and recommend it to others."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Solo"
+    },
+    {
+      "title": "Appreciate not wasting time.",
+      "text": [
+        "Plane left well ahead of schedule, once all passengers were checked in. Appreciate it going early and not waiting wasting time just to adhere to a prescribed schedule."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Solo"
+    },
+    {
+      "title": "Really Great Small Company with a BIG VISION!",
+      "text": [
+        "I have been flying with FlyGTA since the launch of their commuter flights between Toronto and Niagara. Their pilots are super professional, clean planes. Well maintained. ",
+        "The entire office cares. It is noted!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Business"
+    },
+    {
+      "title": "Fun flight and time saver",
+      "text": [
+        "I was hesitant to take this flight as I’m a nervous flyer. However, it’s just a 12 minute hop over Lake Ontario to Niagara from Toronto and I reasoned I could cope for that short time. The check in is short and simple and the staff were friendly and helpful. It’s a great experience and the views of the city as you leave (and return) are incredible. I’d definitely recommend this as something different to do but also as a time saver as the drive takes 2 hours so great for people short on time. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Under 15 Minutes to the GTA",
+      "text": [
+        "I’m a fan of aviation. I love to fly. I don’t know the intimate details and distinctions between DC-8 engine types, but exploring different aircraft types is always exciting. Sometimes this happens quite deliberately – I seek specific aircraft types out – and other times it happens, shall we say, by accident. This latter instance probably best describes how I happened upon FlyGTA and their Piper PA-31 aircraft. I was in the Niagara region on a bit of personal business and didn’t want to take a shuttle or bus all the way back into the GTA. It just takes up such a precious amount of time. And so, one morning, I decided to do a bit of random browsing online, thinking “there must be a faster way!” And voila! FlyGTA populated my search engine screen. The best part? The one-way flight was less than $100 AND took less than 15 minutes! In terms of value and convenience, this definitely trumps driving or taking a bus.",
+        "I made my way to the Niagara District airport. The flight was delayed due to low-lying cloud and a bit of stormy weather, but nevertheless arrived. After the lone passenger disembarked the aircraft at Niagara, we boarded the Piper PA-31 – there were a whopping two passengers on this flight, myself included. In essence, it was almost like flying a private plane into the GTA. What could be cooler than that? Oh! I know! How about adding a new aircraft type to my list? That’s what happened here as I’d never flown the PA-31 up to this point. Okay, that was just the icing on the proverbial cake.",
+        "The flight itself was good, albeit a bit bumpy. The crew was professional and helpful throughout. The only aspect I found a bit disappointing was that, due to the clouds, there was nothing to see while in the air. It would’ve been nice to see Lake Ontario from above; however, the lack of scenery wasn’t FlyGTA’s fault. That’s just how the weather was behaving.",
+        "Upon arrival at Billy Bishop, the crew again demonstrated their commitment to a high level of customer service and satisfaction: I was assisted from the terminal and pointed in the direction of Toronto proper. In many ways, the level of service reminded me of Pacific Coastal Airlines – very personable and down to earth, unlike our national flag carrier.",
+        "If you’re looking for an affordable and convenient option to commute between Toronto and the surrounding region, FlyGTA provides excellent value in this regard. They have a solid safety record, great staff and are intimately familiar with southern Ontario. Indeed, this is exactly what you’d want in a regional carrier."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019"
+    },
+    {
+      "title": "Cost-effective solution to horrible Burlington - Oakville traffic",
+      "text": [
+        "Rather than battle 2plus hours of horrible traffic from Niagara Peninsula through Burlington and Oakville and Mississauga to get to downtown Toronto, I flew from Niagara on the Lake airport to Billy Bishop on the island. The flight is 12 minutes across Lake Ontario. It took me 14 minutes to drive to the airport, I was there 15 minutes early, and then the 12 minute flight. ",
+        "Do this math with me. I got up at 6:30 am in the Niagara Peninsula, and was walking up York St in Toronto at 8:10 after a very stress-free commute. Had I been driving, my best guess is I would have been just hitting Mississauga and stressed out.",
+        "Cost of the flight was about half of what it would have been had I stayed in a hotel downtown overnight. Parking was free at NOTL airport.",
+        "Fantastic views in every direction.",
+        "No downsides to this, except the plane is a Piper Apache. Two seats in the cockpit, 8 for passengers. Small seats. Extremely limited room for luggage or even a gym bag. I wouldn't want to be up there in this plane in any kind of turbulent weather."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Excellent trip from Muskoka to Billy Bishop",
+      "text": [
+        "I was heading home solo on Sunday evening, and thought I would try a flight. In short: it was perfect. We were in the air for 36 minutes, and arrived in Toronto a few minutes ahead of schedule. I can only imagine what it would have been like on the bus on the 400!",
+        "Only thing I would say is that it’s a small plane (8 passenger seats). Personally I’m comfortable with that, but I know others might not enjoy the close quarters.",
+        "Highly recommended."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Solo"
+    },
+    {
+      "title": "Great new option for Toronto to Wiarton",
+      "text": [
+        "We tried the new FlyGTA plane from Toronto Island Airport to Wiarton and give it thumbs up.  Plane left on time, gave a great view, staff was friendly and the cost gives decent value.  We'd do it again...as the trip on Friday afternoons would take at least 3 hours and the airplane did it in 45 mins flat."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Awesome ",
+      "text": [
+        "They upgraded me to a couples plane for free. Love the size of it because I was able to out of both windows. Derek the Captain gave a great tour and was soooooo friendly. I Will do again"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing flight from Wiarton to Toronto",
+      "text": [
+        "I left Wiarton at 3pm with an amazing crew.  45 minutes later we landed beautifully with just awsome views at Toronto island airport.  A short (but fun) ferry ride to the shuttle that took me on the short ride to the UP train platform at Union station.  Another 30 minutes and I was checking in for my international flight to Europe at Toronto Pearson Airport- no driving, no parking, no traffic, no hassle.  Planes, trains, boats and automobiles but it all works and  Worth every penny for commuting from the Bruce Peninsula"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Solo"
+    },
+    {
+      "title": "From Niagara District (CYSN) To Billy Bishop Toronto City (CYTZ) - $99",
+      "text": [
+        "Staff was very professional and overall the flight from NOTL to TORONTO was great! Worth every penny. Very fast responses and follow-ups. Billy Bishop Airport is very nice and clean. You can also bring luggage at an extra cost and the staff helps you with them too! Would fly with them again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Simple yet perfect",
+      "text": [
+        "Booked flights months ago, but due to weather they had to cancel. They provided excellent communication at that time and gave me credits to fly another time. Finally used it for flight to and from Toronto. Very basic with minimal staff or facilities, but was on time and perfectly suited my need for the short trip across the lake. Will be using again, and hope they continue to grow their business."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Solo"
+    },
+    {
+      "title": "Amazing Experience and Customer Service",
+      "text": [
+        "I wanted to surprise my boyfriend for his 30th with this treat and it was worth it! The whole experience, from the beautiful views from the plane, to the friendly and passionate staff. Customer support was awesome, Sarah answered all my questions ASAP and was very helpful over email and the phone. We were even running late but the staff on-site were super accommodating. One tip is I would recommend sitting on the pilot's side if you want a clearer view of the city, whereas the right side you see the lake more. Bonus is it was also easy to get to Billy Bishop Airport on Centre Island, and the ferry was a fun little trip. Definitely recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "THIS PLACE IS A SCAM! DO NOT BOOK WITH THEM!",
+      "text": [
+        "Let me start by saying this company is the absolute worst! DO NOT TRUST, ITS A SCAM!",
+        "We had booked a private flight for Saturday Aug 08/2020 to celebrate what would have been our wedding day. We got a call on the evening of Aug 07 telling us that our flight was unfortunately cancelled due to a maintenance issue. We we're disappointed but these things happen and we get that. They told us that they would look into getting us our refund and call us right back. We never got a call back. ",
+        "We called the next week inquiring about the refund, and they said the first gentlemen hadn't even issued it and that they would talk directly to their finance department and get back to us. They never got back to us! We called again a couple days later and got the same excuse, another gentleman saying he would look into it with the finance department and call us back. He never called back.",
+        "We called again the next day, spoke with another gentleman who said the refund was issued and that we should receive it in a couple days. The refund never came in. Its now been 11 days since they cancelled our flight with no refund in sight. I called back today to ask about it, and was told that the tech department was looking into it. Every time we call we get a different excuse. I ended up having to call my credit card company to have the refund issued because I was not getting anywhere with the people at FLYGTA. ",
+        "DO NOT BOOK WITH THESE PEOPLE UNLESS YOU WANT TO GET SCAMMED!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2020"
+    },
+    {
+      "title": "St. Valentine's flight to TSO concert",
+      "text": [
+        "Having recently retired and moved to NOTL, I wanted to try the flight to Billy Bishop. Never done this before.",
+        "So, we did on Feb 14, 2020 - and what a terrific experience it was.",
+        "FlyGTA staff were super-friendly and attentive, at both ends. After only 12 mins in the air, we touched down in Toronto. There is a complimentary Free Shuttle Bus running every 15 minutes to the Royal York Hotel, which makes anything Downtown very accessible.  Concert & Hotel were fabulous and we returned the next day. Derek was our co-Captain both ways.",
+        "This wins hands-down every time, compared to 1 or 2 hours on the QEW.",
+        "Thank you FlyGTA - we'll see you again !",
+        "John Buchanan"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "100km Air Tour",
+      "text": [
+        "Had an amazing time on the air tour! Our pilot (Shan, or Shane?) was great! I definitely recommend this service, and experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Toronto city flight",
+      "text": [
+        "Had an excellent flight over the city for around 30 mins. You don't get any interaction from the pilot but you do get to here the chatter from the control tower, which I found fun. There are some excellent vuews ti be had. I sat on the right side and this is the better side to get photos of the CN Tower. We were lucky in that our flight got extended due to runway issues. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Niagara-on-the-Lake to Billy Bishop",
+      "text": [
+        "So quick and easy and staff were friendly. So glad we took this experience to get to Toronto rather than the train."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Toronto to Niagara On The Lake - 12 minutes",
+      "text": [
+        "Great way to beat the traffic - helpful and professional staff.",
+        "Will do this everytime I need to go to NOTL"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Niagara - on- the -lake to Billy Bishop airport",
+      "text": [
+        "Highly recommend this very enjoyable and convenient 12 minute flight from Niagara-on-the-lake to Billy bishop airport on Toronto Island. Will definitely book again!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "Great fly over Toronto",
+      "text": [
+        "I went with my wife and was a really great flight over Toronto. The views were amazing and the crew was so nice."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Couples"
+    },
+    {
+      "title": "12 minute Flight from Niagara to Toronto",
+      "text": [
+        "Excellent Flight Loved This quick service from this service...",
+        "Very helpful friendly Staff which made your trip more enjoyable...",
+        "I was in a group of 3 who all loved this experience and captured the memories."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Niagara-on-the-Lake to TO",
+      "text": [
+        "12 minute flight from Niagara-on-the-Lake to Billy Bishop. Courteous service at a great price. Shuttle service to/from Royal York."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019 • Business"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "St. Lawrence Market",
+    "url": "/Attraction_Review-g155019-d185112-Reviews-St_Lawrence_Market-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "92-95 Front St. E. ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5E 1C3"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 14069
+    },
+    "openingHours": [
+      "Tu-Fr 09:00-19:00",
+      "Sa 07:00-17:00",
+      "Su 10:00-17:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/55/de/c5/outside-shot-of-st-lawrence.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Flea & Street Markets"
+  ],
+  "description": "All roads to good food lead to St. Lawrence Market, a city landmark more than two centuries old. Two hundred vendors sell everything from local mustard to fresh pasta, lobster to artisanal bread.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Great public market. A must visit",
+      "text": [
+        "Must visit for any visitor to Toronto. This is the \"original,\" the likely template for many public/food markets in North American tourist destinations.  But this is no tourist trap. It is home to over 100 vendors and merchants selling international foods, flavors, and curios. You want japanese or australian wagyu beef? Sturgeon caviar from Italy? Fresh baked breads? Portuguese custard tarts? Fresh seafood? Fish and chips? Smoked meat Sandwich? Fresh produce?  Prepared foods from so many different regions? All there and so much more."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Lots to eat",
+      "text": [
+        "From raw to cooked, from frozen to fresh you could find it all in this market. The meat and seafood counters look amazing while the fruit and vegetable stalls are full and plentiful. From lunch time onwards the market is full of hungry seekers for its variety of restaurants. The dry stalls and kitchen utensils stalls are the find of St Lawrence Market."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Great Market!",
+      "text": [
+        "I've been to other markets in different cities and let me tell you they do not even compare to this one.  You must visit this market if you're visiting Toronto!  It has so many varieties of food.  It even has an upstairs full of hot prepared foods to enjoy!  On the main floor there are different cultural foods.  I really enjoyed myself here what a gem!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Solo"
+    },
+    {
+      "title": "Great Market!",
+      "text": [
+        "Tons of options for food (we went for lunch on a Sunday and had delicious lobster rolls). Several good options for larger quantities of food. Can't speak to the quality as we were headed out of town that day and couldn't take anything that would spoil. A few shops with fairly kitschy items, but since we went on a Sunday, there was a second area with all local merchants (kind of like a real-life Etsy) selling a wide variety of items from art to garage sale-type junk to homemade clothes to candles to collectibles. Fun to walk around and I'm sure the vendors change regularly, so it's probably hit and miss. Only open on the weekends, I believe, (possibly only Sundays) so double check that before you go. Parking was easy and close but not incredibly well marked."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Surely the world’s best market!",
+      "text": [
+        "Such a fabulous market. The range and quality of food and produce here has to be seen to be believed! The fresh bread quality meat and fish, the bakery items cheeses and delicatessen items were superb. I could have spend a fortune.",
+        "We bought a sourdough baguette which barely made it home as we had to keep nibbling it! The best we have tasted!  Even in France!",
+        "There is a kitchen goods stall that I LOVED I have never seen many of the items on sale before. I needed everything in my kitchen! I found a maple leaf cookie cutter ( large) that I couldn’t find in major stores in the city. I am going to have to go back when I have decided what I want!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Couples"
+    },
+    {
+      "title": "Great place",
+      "text": [
+        "We loved this market so many things to choose from , clean and friendly and great food !!!! great dessert , clean busy but fast"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Friends"
+    },
+    {
+      "title": "Excellent Market - Not to be missed",
+      "text": [
+        "Fantastic market, do your research before you go to narrow down the vendors  you want to visit so you don’t miss out on anything. Amazing variety of food clothes and best of all, reasonably priced quality souveniers. Bring a big bag for all your shopping!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Great place if you like food!",
+      "text": [
+        "St Lawrence Market is an interesting place to wander around if you like food!  There is an incredible variety of shops selling all kinds of things to eat and drink although there is actually only one seated restaurant in the whole market.  As well as the permanent building, there is a large tent type structure housing more stalls.  Everything for sale just looked so appetising, if I had something like that close to home I’d shop there all the time.  It does get crowded but is worth visiting, even if just for a short time."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Food",
+      "text": [
+        "After work we there to have dinner as we were told that calamari was delicious. But we arrived there arouns 6:30 pm and it was about to close.",
+        "So we did bot have much time to spend there and had nothing to eat as the seating area inside was not enough.",
+        "Outside tables looked fine but it was too cold to sit outside."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2024 • Business"
+    },
+    {
+      "title": "Great place to grab lunch.",
+      "text": [
+        "This is a great place to grab lunch if you are not in a hurry.   Lots of choices and a very cool market scene.  We were traveling so the purchase of fresh food really wasn't an option, but several butchers really looked superb in their offerings.  We did buy breakfast pastries for the next morning, and those were excellent."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Business"
+    },
+    {
+      "title": "St Lawrence Toronto ",
+      "text": [
+        "I would give this 5 out of 5 rating.  St Lawrence was within walking distance of our hotel.  It is a lively and vibrant market offering freshly produce, freshly  produce a good selection of hot food to take away or eat in.  This includes a broad range of sweets treats and pastries. This is a popular venue for local residents,  school groups and tourists.  ",
+        "The market includes a handful of stalls which sells clothing and souvenirs. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Must do for a taste of local culture",
+      "text": [
+        "Great market especially on Saturday morning with all the fruit, vegetables, baked goods and coffees. Wonderful on a nice weather day"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Great food variety and great location",
+      "text": [
+        "This market is centrally located and easy to get access (close to a subway station). It is a great place to get fresh food with a great variety of vegetables, seafood, meats, cheese, etc. As well there are several restaurants and bakeries. Great to grab a quick bite and do your food shopping."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Great place to get bread, bagels and all sorts of stuff",
+      "text": [
+        "Our hotel was nearby and we came here frequently to get bread and bagels. Plenty of places to choose from, maybe a bit pricier than other location but the produce was very good. The baguettes at Blackbird Bakery and the bagels at St. Urbain Bagels are worth a try."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "You want it? They have it",
+      "text": [
+        "As the title says, in this market you can find anything you’re looking for - even things you didn’t even know existed. Like, did you know there’s more than 100 kinds of rice? Well, there’s a stall that sells them downstairs. If you have time, pop into the exhibition room on the upper floor, you may also find something interesting going on there."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Must Visit",
+      "text": [
+        "Amazing place! A lot of good food options. Stopped there for a quick lunch but this place is massive with 2 levels. Next time will spare some more time to explore."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Business"
+    },
+    {
+      "title": "LOVE Market, but NOT the Tourists",
+      "text": [
+        "I live across the street from St Lawrence Market for 39 years, know the vendors and their families and shop in as many stalls as I can.  It is a wonderful part of our history and the food is wonderful.  I love it and would give it 10 stars except the tourists are making it a really unpleasant experience.  The isles are now almost jammed by packs of them wandering 4 or 5 abreast at a rate of about 0.05 km per hour.  A lot of them do their “sight seeing” by blocking the counters while they take in the wonders of meat cuts and cheeses ( “But where is the American Cheese - why don’t they have American cheese??!!)  or  “Why don’t y’all accept ‘Murican Dollars?? You should”!!!",
+        "The tourists buy nothing save outrageously priced sandwiches from the new obnoxious sandwich fort that is out-of-chapter with the market.  ",
+        "The tour busses park in front of the Market  diesel exhaust belching out of the back and flowing over to the tables beside the building, where people are trying to eat the good food served at Paddington’s.",
+        "I love St.Lawrence Market and the people who work there.  But we need to make the tour buses park elsewhere, and we need to establish a policy that tours are only allowed Monday to Friday."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "More local shopping than tourist shoppimg",
+      "text": [
+        "I wasn’t expecting it to be more geared to the locals but was still a fun market and we enjoyed some delicious seafood!  Thanks"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2023 • Couples"
+    },
+    {
+      "title": "Most amazing market I’ve seen",
+      "text": [
+        "Three of us couples were new to Toronto and visited the market as part of a tour group. What a fantastic facility! Such a diverse selection of vendors and products. We just wish we had some time on the tour to do some shopping but of course that’s not feasible. I’ve seen many such markets but this is by far the most extensive. Highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Couples"
+    },
+    {
+      "title": "Good Food",
+      "text": [
+        "Nice market. Many shops for food, meat, cheese, produce, and maple syrup. The Peameal Bacon Sandwich is very good. Maple syrup is at a good price - 250 ml for $9.99 and 500 ml for $14.99."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Amazing!",
+      "text": [
+        "Amazing! The atmosphere is beautiful and the hustle and bustle is something you don’t want to miss. So many good little vendors and the food is amazing"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Family fun - better with older kids",
+      "text": [
+        "This is a big indoor food market with lots of restaurants. Seating was hard to come by though. In all it was fun to look around."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Foodies' heaven",
+      "text": [
+        "Heaven for foodies. The only trouble is there's too much to tempt the taste buds... decisions, decisions, decisions. I recommend going there on an empty stomach so you can really stuff your face."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Its a market!",
+      "text": [
+        "Lots of fresh fruits, vegetables, fish and meat! They have specialty shops from coffee beans to caviar to fresh press olive oil. They do have some cafe, there are not mush seating in the area.  There is even an oyster bar! There are also some shops that sell souvenirs."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "First trip",
+      "text": [
+        "wonderful array of foods! very warm environment, the cheeses and olives were amazing! my family and i would return 100%"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "One of the best Canadian Markets!",
+      "text": [
+        "It has everything you need at this incredible market! Fresh seafood, butchers, incredible Ontario fruit, fresh pasta, desserts downstairs are amazing and even had live music outside!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Solo"
+    },
+    {
+      "title": "Historic market.",
+      "text": [
+        "Visited and killed the morning here, so many cool shops and vendors to checkout. Great historic market. Wish we lived closer so we could have god more food to take home with us to try. Would recommend walking to the distillery district after visiting for more cool restaurants and vendors."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Foodies dream market",
+      "text": [
+        "This a big market with masses of delicious food on offer. Meat, seafood, bakery, cheese, fruit and vegetables it’s all here under one big roof on several floors. Buy something yummy to eat now or take away for a picnic or a special event. So much choice and fun to look around even if you’re not buying."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Good food galore!",
+      "text": [
+        "We went back to this bustling market two separate times during our short stay, and may still go back for a third before we leave!  The atmosphere is electric and fun, vibrant with activity and wonderful FOOD, FOOD, FOOD!  Even though we weren’t grocery shopping, we enjoyed wandering the market and admiring the local fair.  We did indulge in a couple of treats - my favorite being the lobster roll!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Enjoyable",
+      "text": [
+        "We visited on a Tuesday afternoon. Parking was convenient. Market was easy to maneuver. Lots of options and booths to see. We sampled many different booths. Great location to sample Toronto’s fare. Try the peameal bacon sandwich."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2024 • Couples"
+    },
+    {
+      "title": "Everything under one roof.",
+      "text": [
+        "A lovely market to visit on a cool fall evening, I enjoyed my time here with their varieties of fare it can't be beat.",
+        "From fresh seafood, meats/poultry, wines/spirits, freshly baked goods, grocers, restaurants and more...it's an all in one experience, even for nice souvenirs for a visitor, you can pretty much do your Christmas shopping here.",
+        "A few benches inside to relax or even a patio with tables and chairs to people watch while having a beverage....a recommended stop while in Toronto in the area near Berczy Park."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Why did I come?  Too chaotic and uncomfortable",
+      "text": [
+        "After a lot of walking and asking directions, we found this market in an unlikely location.",
+        "This place is not a place for a leisurely lunch or dinner.  The chaotic atmosphere, often elbow-to-elbow, made me unsettled and seeking tranquility and fresh air.",
+        "We had the lobster roll and creme soda from Buster's Sea Cove.  It was good, but being outside on a picnic table was even better.",
+        "There's better lobster rolls elsewhere.  This spot is too crowded and noisy."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Must taste",
+      "text": [
+        "A great market with so many food options.very chilled enviroment.so much choice.its a must to pay a visit here.i must rate the market 10/10."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Support Ukraine in a Tasteful Way",
+      "text": [
+        "The market offers plenty of opportunities to sample delicious foods for a meal or more. We headed straight to the Ukrainian shop and bought a tasty cabbage salad and Ukrainian sausage for dinner, along with various cheeses (including a smoked one) and sausages for tomorrow’s lunch.",
+        "The girl behind the counter smiled gratefully when we expressed our belief that Ukraine would win the war against Putin’s Russia."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Couples"
+    },
+    {
+      "title": "Tasty Lunch at St. Lawrence Market, but Not a Spot for Lingering",
+      "text": [
+        "We had lunch at “St. Lawrence Market”, and it was a great place to grab a bite with so many food options available. We decided to try \"Buster’s Sea Cove\", where we enjoyed mussels and a crab cake—both were absolutely delicious!",
+        "However, the seating area is more about quick bites than comfort. It's the kind of place where you eat and then move on, so while the food was fantastic, don't expect a full dining experience. Still, it's perfect for a tasty, casual meal on the go!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Eclectic quality market in the heart of Toronto",
+      "text": [
+        "Lovely market selling delicious fresh foods.  You can happily spend a couple of hours wandering around deciding what to buy and take home or snack on around the market."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Busy but Delicious",
+      "text": [
+        "This was a fun place to stop, but it was also unbearably busy on a Saturday afternoon so we didn't stay long. I would like to be able to come back on a quieter day to check out more of the offerings."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "St Lawrence Market",
+      "text": [
+        "Excellent selection of items.Excellent shopping experience.Nice place to meet new and interesting people . Excellent fresh food"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Lots of vendors",
+      "text": [
+        "Good market, plenty of vendors, not enough seating or bars.  Need to make it more of a European experience to be more successful"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Great city market experience",
+      "text": [
+        "We love coming here. Great food and lots of choices. Love the seafood variety, and everything is so fresh. The place was packed, but that actually adds to the experience. Despite that, we never had to wait in long lines to get anything. The cake shop downstairs looked absolutely yummy and it was super hard to restrain ourselves :)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    }
+  ]
+}

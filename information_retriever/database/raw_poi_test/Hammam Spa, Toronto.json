@@ -1,0 +1,436 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Hammam Spa, Toronto",
+    "url": "/Attraction_Review-g155019-d1798618-Reviews-Hammam_Spa_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "602 King St W ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 1M6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 101
+    },
+    "openingHours": [
+      "Mo-Fr 10:00-21:00",
+      "Sa-Su 10:00-20:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/48/e5/a6/experience-total-relaxation.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": "Drawing inspiration from ancient Eastern spas, Hammam Spa is a rare and remarkable place. Indulge in a range of transformative treatments inspired by age-old rituals and tailored to relieve the stresses of the modern world. Nourish your body and soul with natural ingredients and bright botanicals sourced from our beautiful Canadian landscape. Find peace in our sublime steam room and embrace the tranquility found only within these four walls. Discover a place where ancient traditions create a modern retreat, where nature's beauty works in harmony with your own, and where renewal and growth are elementary. Where beautiful becomes spiritual.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Don't Go",
+      "text": [
+        "Disappointing Experience at Hamman Spa on King St, Toronto",
+        "My recent visit to Hamman Spa on King St in Toronto left me with mixed feelings and a sense of disappointment. The Receptionists were lovely and kind. But this spa, known for its luxurious treatments and upscale ambiance, came with a hefty price tag of over $700+ for three people. I treated 2 others for their birthdays. Unfortunately, two of us were left underwhelmed and unimpressed with both the facial and massage services, primarily due to the poor service and incessant upselling at the facial. She even said: \"Come back when you get your paycheck\" to my guest. What the actual....",
+        "Upon arriving at the spa, we were greeted with a neutral vibe. However, neutral turned to underwhelming quickly as we proceeded with our treatments. The troubles began during my own massage where I asked for a deep pressure, hard massage and the masseuse told me to wait, I probably don't want that. Well, yes, I do, I know my body and have had countless previous massages in my lifetime. Perhaps she was tired that day and didn't want to exert herself to meet the $200+something price tag. I was really disappointed despite telling her what I wanted because I was in pain and craved relief after suffering with muscle tension for months of travel and planes. ",
+        "My 2 other guests and I had different therapists, but all of us shared a common sentiment of not feeling satisfied with the quality of the services. The facials lacked the attention to detail and personalized care that one would expect from a premium spa. It was a \"Signature Facial\" we thought but nothing adjusted as per specific skin needs. The therapist appeared disinterested in anything but upselling, going through the motions without making an effort to customize the treatments according to our individual skin concerns. I kid you not, the therapist focused on upselling additional treatments and products to my guest ON HER BIRTHDAY rather than providing a genuinely soothing experience. The constant pressure to purchase expensive add-ons during the session detracted from the supposed tranquility of the environment.",
+        "To add to our disappointment, the service throughout our visit was inconsistent and unprofessional. The spa staff seemed more interested in promoting their expensive packages and retail products than ensuring our comfort and satisfaction. This upselling approach was intrusive and created a sense of discomfort during what should have been a serene experience.",
+        "The exorbitant price I paid for my guests would have been a pleasure to pay if both my guests on their birthday got good service and weren't harassed.  I expected a level of service and attention to detail that wasn't delivered but was easily delivered by the MANY spas I've visited around the world but a fifth of the price. While I understand that luxury comes with a price, it is essential for a spa of this caliber to prioritize customer satisfaction over financial gain.",
+        "Our experience at Hamman Spa on King St was a letdown. The lackluster facials and massages (we found the same moisturizer used in the bathroom for free...), coupled with the pushy upselling tactics and unimpressive service, made this visit far from the experience we had anticipated. We left the spa feeling underwhelmed and regretful for having spent such a significant amount on a disappointing day. We will not be returning to this spa and cannot recommend it to others seeking a truly indulgent spa experience."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Great experience at Hammam spa!",
+      "text": [
+        "I had an excellent experience at the Hammam spa. The change rooms are stacked with quality products and are kept clean. The Turkish baths were great, and incredibly relaxing. The waiting area has mint tea, lemon water and snacks which was also a nice bonus.",
+        "My treatment itself was fabulous! I'll definitely be making this a regular treat for myself. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023 • Solo"
+    },
+    {
+      "title": "Unforgettable spa day for two.",
+      "text": [
+        "We booked the unite couples massage and facial package and it was incredible! The massage was so relaxing we almost fell asleep and the facial left my skin feeling great. There was also a bathtub for two with champagne chocolate and bath bombs. ",
+        "The steam room was nice as well and a comfortable lounge with water and nuts to enjoy.",
+        "Special thank you to Rebecca who helped me find my phone after leaving it in the chauffer's car after dropping us off."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Couples"
+    },
+    {
+      "title": "So good for the body and soul",
+      "text": [
+        "Wonderful staff. Exceptional massage experience. The Turkish steam room is stunning and pure bliss to be in. beautiful environment. Look forward to returning again soon."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Disappointment",
+      "text": [
+        "I am so disappointed at how I was treated on the phone. I called to book an appointment for the first time and I was told someone was going to call me back and no one did. I was really excited because this place was recommended to me. I rather go and choose another spa."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2020 • Solo"
+    },
+    {
+      "title": "Wonderful spa in heart of Toronto",
+      "text": [
+        "Wonderful spa in downtown Toronto. The decoration is beautiful, the staff caring and great at what they do. It is relaxing and you feel like you have been transported to an exotic spa in the Middle East. Cannot wait to return."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2020"
+    },
+    {
+      "title": "very disappointing",
+      "text": [
+        "Came with old friend to unwind and arrived at the last minute because of an accident and traffic. Greeted as if we were wayward schoolchildren (the services we booked were several hundred dollars) and at no point was there a sense of welcome. The 'treatments' are a hodge-podge of wannabe eastern and other traditions; the space is clean but the techniques and products don't hold a candle to the tradition they stem from. Many details are shoddy- calling 4 times on the day or appointment for details and then to warn of potential tardines= no answer (lett 2 messages, and there were 3 receptionists).; flip flops all the same size without indication of where one can find larger or smaller ones, Men and women services are combined- this is the purported justification for the ridiculous 'disposable underwear'- when this more likely reflects the distaste expressed by some staff to gaze at naked bodies. after the mud application the ritual (taking shower) means your flip flops stay full of clay; little supplies in the changing room and low quality hair products for what there was....Bad muzak played loudly throughout.",
+        "Not going back as the solace I hoped for was absend and, for that price, every detail but particularly the service was sub-par"
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Facial and manicure",
+      "text": [
+        "A great place to unwind and destress. Staff was friendly and accommodating.",
+        "Had a facial and manicure. Both services were excellent."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019 • Solo"
+    },
+    {
+      "title": "Lovely afternoon ",
+      "text": [
+        "Great space, atmosphere and friendly staff. Reserved two of the signature pedicures services, Natalie and Phoebe were fantastic - so personable and professional. Facilities are clean, fairly quiet and beautiful. Looking forward to coming back to enjoy more services - especially the steam room!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "amazing place",
+      "text": [
+        "love this place.  Husband and I came up from Pennsylvania to vacation in Toronto and I found these folks to give us a treat.  The turkish bath and then a massage was wonderful.  I recommend grabbing a cold wet washcloth out of the refrigerator just outside the steam room, and breating through it to enjoy the sweat running off of you.  The staff is great and the place is nicely clean."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Shellac nails chipped ONE DAY after service and terrible customer service. Do not book at this salon!",
+      "text": [
+        "I convinced my girlfriends to book an appointment with me at Hammam Spa on September 30th for shellac manicures based on another friend's recommendation. The nail techs who completed our services were friendly and our experience was enjoyable while we were there. However, one of my friend's nails chipped ONE DAY after she got them done (see photos attached). I believe her nail tech rushed the service since she started after us, but finished at the same time. I reached out to the salon that week TWICE by email which included these photos, plus I left a phone message explaining the situation and simply asking for someone to get in touch with me but no one ever did! What terrible customer service!! They should at least have the decency to get back to me. They obviously do not stand behind their quality of work or care about paying customers. DO NOT BOOK at this salon, or else you risk ending up disappointed with your service with no one to even attempt to mend the situation. I will gladly give my business to other salons who actually have integrity."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2017 • Friends"
+    },
+    {
+      "title": "Used gift certificate",
+      "text": [
+        "I booked our appointments well in advance of the date for a Tuesday morning.  ",
+        "The steam room is small but no one else was using it. It is not as hot as other steam rooms which worked better for me. Recommend taking a towel to sit on as the tiles can get warm. ",
+        "Our first service was a couples Turkish bath treatment. It started off relaxing with a body rub & exfoliation. However, my boyfriend was hit rather hard in the head with the bowl used by the attendant to rinse he body. So, relaxation ended when I heard the loud bang.",
+        "The next service was a Swedish massage. Mine was good but not the best. His was not so good. He was on a esthetics table, not a massage table. So when he tried to get onto the table, it collapsed. Not relaxing when you're just covered by a towel. When the masseuse tried for deeper pressure, the table collapsed again. So, was not a great experience for him. ",
+        "The lounge has comfortable chairs, a choice of cranberry or lemon water with apples and nuts available. However, you hear ever step taken from the floor above your head.",
+        "At the counter when I presented the gift certificate as payment, I mentioned our experience. The response was oh my.... I had to ask for an apology. I also asked to speak to a manager who never appeared. I was then told a manager would call me. 2 days later and no call. ",
+        "The high cost compared against the experience makes me uncertain that I would ever go again."
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "Wonderful In every way",
+      "text": [
+        "I had some mix ups booking my day and the spa was amazing at helping sort it out- so I had a wonderful day! I love the steam room and the Turkish Bath was a great and so was my massage!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Solo"
+    },
+    {
+      "title": "Birthday present ",
+      "text": [
+        "I had their deep tissue massage. It was Amazing!!  the therapist gave me a fabulous treatment. she got all the spots where i needed the most. strength was perfect!! Very satisfied. ",
+        "I had the facial afterward, didnt know what i had done there. highly not recommended.  ",
+        "Steam room was good. Changing rooms are clean. It will be better to have more resting areas. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Solo"
+    },
+    {
+      "title": "The Best!",
+      "text": [
+        "This is by far the best spa I have been to in Toronto! From the moment I booked my appointment over the phone all the way to check out, my experience was top notch. Every staff member I encountered was welcoming, friendly and eager to help. ",
+        "The massage was very relaxing, not too painful. And the facial was perfection, one of the best I have ever had. I highly recommend this place to any one looking for an escape, even for a few hours. The quality of the services and the people make it worth the price. Thank you, will definitely be returning!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Solo"
+    },
+    {
+      "title": "Fresh & Flawless Package ",
+      "text": [
+        "Truly a beautiful and lovely experience today at Hammam Spa. This place is wonderful starting with the staff that welcomes you.  I had a massage by Vince. He was very knowledgeable and had excellent technique. The tension in my midback is no longer there, I have more range of motion in my neck and shoulders, my low back feels pain free.  I had the facial to follow and it was done by Khalisah, she has the most lovely personality, very informative and gave me not only an excellent facial but tips! I loved the products used as well. My skin is so glowy, soft and feels nice and refreshed! I am so happy with this entire experience. The steam room was an amazing touch as well so arrive early to enjoy it before your services.  Thank you for the beautiful day at your spa. See you soon :) "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Solo"
+    },
+    {
+      "title": "Wonderful, relaxing day!",
+      "text": [
+        "From the second I walked in on this busy Saturday I felt calm and relaxed. Greeted by the friendly front desk staff, Jennifer gave me a tour. The whole time I was in aw and didn't really listen, I had to of asked her 100 times about the locker and she was pleasant and helpful. The steam room is amazing! My first thought at seeing it was \"wow!\". My massage done by kayla was excellent. To end my day I had one of their newer facials (the oxy facial) with Tanya. My skin was glowing! Tanya was awesome. I love my experience so much I hope to be back soon! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Solo"
+    },
+    {
+      "title": "Body scrub and massage",
+      "text": [
+        "Both where very good. The place is very clean and all the staff extremely helpful and pleasant. You get full use of the steam room and to relax in their lounge which served a superb white tea the day I was there. ",
+        "The only problem was the noise of people walking around upstairs. It was very distracting and annoying especially when you are trying to relax in the lounge. ",
+        "Perhaps they can ask their upstairs neighbor to place carpet down ?"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Solo"
+    },
+    {
+      "title": "A great way to relax",
+      "text": [
+        "Hands down the best steamroom in the city, it is a wet steam so not your average steamroom. The left side is cooler if you are less tolerant to heat. A great escape especially in winter. Use of the steamroom is free with most treatments or you can pay a small fee to just use the steamroom. I go for the body treaments ( be sure to steam before body treatments, arrive early) they are all fantastic but I like the Baltic Wrap the best. Facials are also wonderful. For either treatment request Tanya she is amazing. A very tranquil and relaxing environment, a great way to spend an afternoon and escape the hustle and bustle of the city. A great place to re-charge if you had a few too many late nights in a row. You will leave feeling refreshed and energized. Highly recommend as is the perfect city retreat."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Solo"
+    },
+    {
+      "title": "Nails done to perfection",
+      "text": [
+        "I just love this spa. It is a little oasis in the city. I had a shellac manicure and a spa pedicure. The service was amazing. Great location, desk staff, and estaticians.",
+        "I continually come back to this place and will return soon for a steam and massage!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Solo"
+    },
+    {
+      "title": "Fabulous massage",
+      "text": [
+        "I come here for RMT massages and with them you can access their steam room.",
+        "The lounge is great and has light snacks and drinks, the change rooms are clean and stocked. The staff are friendly.",
+        "The massage is amazing - really great.",
+        "I also love the steam room afterwards to keep the relaxation going.",
+        "A great spot."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018 • Solo"
+    },
+    {
+      "title": "Overpriced Moroccan (Turkish?) Spa ",
+      "text": [
+        "I was hoping to fall in love with this spa after hearing so many reviews about their steam room. Perhaps that was the only attraction to this spa; for a spa in the luxury category, they need a LOT to be done to really capture that luxury spa feel. While the RMT service and steam room were excellent, the ambiance was lacking for a luxury category spa. My detailed reasons below:",
+        "1. Overall ambiance, massage rooms, change rooms:",
+        "I felt the place to be noisy and not tranquil at all. The seating/relaxation area is not too far away from the front desk and the back and forth of people in the change rooms. They do offer tea, water and some nuts, apples, and reading magazines, but the natural light coming in and the limited seating makes it feel more like a doctor’s office waiting room than a spa. Overall, not a place I would be choosing to spend the entire day at. ",
+        "The massage rooms themselves are nicely decorated, but I would say the Moroccan theme can be channeled even more (especially when you compare to the Miraj Caudalie Hammam spa at the Shangri La). I also note one of the “exit” or back doors was scratched quite significantly (which took away from the luxury spa vibe and made me feel like I was in the stock room of a Metro).",
+        "The change rooms were clean, but there was limited space to change (and only a few bathroom stalls). They do offer some amenities but I personally did not reach for any (and don’t recall anything particularly standing out).",
+        "2. RMT massage:",
+        "The massage itself was superb. I had a 90 minute Swedish massage and absolutely loved it. The RMT provided excellent service. The middle eastern themed music was also superb. You can, however, hear people talking outside.",
+        "3. Steam room: ",
+        "The steam room definitely was a highlight. I wish this exact steam room was offered at the Hammam Shangri La). It’s gorgeously lit, perfectly steamed, and they offer ice prior to you entering. It’s weird that they offer Turkish baths at the Moroccan spa; perhaps to keep the theme with Moroccan offerings, to offer Moroccan baths? Minor point, of course.",
+        "Overall impression: while the steam room and RMT service were great, I personally wouldn’t pay $220 for that service again. I would much rather be able to spend a day at a spa and enjoy the amenities without feeling like I’m in a waiting area. 3/5!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2018"
+    },
+    {
+      "title": "Excellent",
+      "text": [
+        "I went here for my birthday pampering and was very happy with whole experience. The staff at the front desk was very attentive and even gave me a little loot bag at the end. The space is small and quite intimate. The steam room is amassing! The resting area is very cozy, there are some healthy snacks (dry fruits and nuts) and some tea. Massage specialists are very knowledgeable and skillful. You pay for a treatment and can use all facilities as long as you like."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Solo"
+    },
+    {
+      "title": "RMT Vince was great; front desk staff not so much ",
+      "text": [
+        "This isn’t a big place. It’s in the basement of a building on King St W in toronto. You can hear people walking around upstairs which is slightly distracting but not a deal breaker. ",
+        "Upon arrival both front desk staff were on the phone so I stood there waiting. When they eventually checked me in for my massage + facial I got a very basic tour (here is the change room, go down that hall to get to the steam room, go sit in the waiting room). I thought they could have done more in terms of explaining where the towels were, what to do in the steam room (ie what’s up with the ice!? should I alternate between a cold shower and the steam? how long should I stay in there?), whether I had time to steam before my massage, whether I should do the steam room after my facial or before etc. Maybe I should have educated myself prior to my visit but I still think they could have done more. ",
+        "My massage with Vince was great. He is strong, knowledgeable and a good conversationist (if you want to chat). I would return to him for sure. ",
+        "I also got a dermalogica facial. It was good and pretty relaxing. My skin felt smooth and looked refreshed after but I’m not sure I would do it again for $135 a pop. ",
+        "Overall I was happy with my visit but I think the front desk staff could be much more friendly and helpful. They are the ones you start and end the visit with so they should go above and beyond to make the experience memorable and perfect. ",
+        "I should mention that the steam room is amazing. I enjoyed doing 5 mins in the steam followed by a cold shower and back into the steam. It was so relaxing and my skin felt great afterwards. ",
+        "This is a co-Ed facility which is great for couples but be prepared to be sitting in the steam room with men+women. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018 • Solo"
+    },
+    {
+      "title": "Not particularly welcoming",
+      "text": [
+        "I arrived for my scheduled pedicure appointment a few minutes early. I was wearing boots, gloves, hat and a winter parka. I had just finished a yoga class so was carrying a yoga mat and a bag with my yoga clothes in it. The receptionist didn't offer a place to hang up my coat or store my bag & mat, and told me to go sit in the lounge with all my things and wait for my technician. I didn't know where the lounge was and had to ask, so she pointed the way. ",
+        "I didn't particularly want to carry all my things to the designated area for my pedicure, so I asked if there was somewhere to hang my coat and store my bag. She told me to go to the locker room. I didn't know where that was either and had to ask her to show me the way.",
+        "I was a bit annoyed because at every other spa I've been to, someone shows you where the lockers, washrooms, etc., and at some places you are offered a robe. Who wants to wear your winter parka and carry a bag & yoga mat to your pedicure chair?",
+        "The atmosphere of the spa is quite attractive, visually. However, I found it noisy with the music in the lounge being quite loud and people talking over it. In addition, there were people stomping around upstairs which was quite distracting",
+        "The technician was capable, however, I had booked the signature pedicure, which was supposed to include a foot massage (among other things). I received a few seconds massage on my right foot, but nothing on my left. The foot massage, to me, is the highlight of a pedicure, so I was quite disappointed.",
+        "Probably won't go back"
+      ],
+      "rate": 2.0,
+      "tripDate": "Jan 2018 • Solo"
+    },
+    {
+      "title": "Awesome Spa experience",
+      "text": [
+        "The Hammam Spa is amazing!  The Steam Room is great!  The services were great as well.  ",
+        "The change room and all facilities were well maintained and clean.  The therapists are professional and do a great job.",
+        "I definitely recommend this place to individuals and couples both!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Couples"
+    },
+    {
+      "title": "new go-to spa",
+      "text": [
+        "i visited hammam spa for a massage earlier this week. on my way to the spa, they called to cancel my appointment. i didn't get the call because i was on the subway. one of their massage therapists had called in sick, so they couldn't accommodate me. i ended up with a last minute 30 min massage instead of the 1.5 hr one planned. this was pretty disappointing. however, the 30 min massage was excellent - i had vince, and he was great. i have had a lot of massages, so i know a good massage from a not so good one, and this one was great. i also liked the steam room - it was very relaxing. they ended up giving me a free credit for a 30 min massage at a later date for the inconvenience, which i appreciated. ",
+        "so, despite everything, i would highly recommend this place. i have been to other high end places in toronto, and body blitz used to be my go-to, but i think hammam has now topped it for me! caveat, that a good massage is more about the person doing the massage than the place, so i can't speak to their other therapists."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Solo"
+    },
+    {
+      "title": "Massage Experience.",
+      "text": [
+        "Ive been going to Hammam Spa for a few months now on a regular basis; Ive done the turkish bath, Facial Treatments, and regular deep tissue massages. ",
+        "The Hammam Spa is extraordinarily relaxing, the staff exceptionally attentive to any and all needs. ",
+        "If one thing stands out about Hammam Spa, it is the prodigious deep tissue massage performed by Sal. He is unparalleled in skill and I have always left feeling significantly better than when I walked in, I feel better in mind, spirit, and physically. I highly recommend Hammam and even more so recommend Sal if you are seeking a masseur with talent. I continue to book exclusively with Sal and will do so for the foreseeable future."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Solo"
+    },
+    {
+      "title": "Best massage ever",
+      "text": [
+        "I visited yesterday with a friend and received a massage from Toby.  I'll preface with i've probably had about 80 massages in the last 10 years and that was the BEST massage I've ever had.   If you like deep tissue massage I wouldn't hesitate and book him.  I'm going to send my boyfriend for a massage from him and he'll be my go-to therapist from now on!   ",
+        "Separately, my only downside to this spa is they don't provide RMT receipts with gift certificates.  Never heard of that before. ",
+        "The steam room is lovely and would be a romantic thing to do as a couple.   Changerooms are great for a nice shower and getting ready."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Tiny massage haven on King Street",
+      "text": [
+        "I was downtown for my business meeting. I had been thinking of visiting a spa for the last 2 months but never got a chance to do so because of my restrained time and tight schedule. I decided to try one of the close-by spas since I had my afternoon off that day. I walked into Hammam Spa after lunch and got an appointment for a massage late afternoon same day. Very friendly Jennifer at the front desk mentioned that I can either go to steam room or relax while enjoying their free snack and juice bar located in the waiting room. I changed into their fabulous Turkish wrap and a gown and went to their waiting room to chill. ",
+        "I am someone who is extremely sensitive to sound and light. This spa is located on the ground floor. Their wooden ceiling at the waiting room was squeaking and creaking. I could hear people walking and talking upstairs. It was bothering me.  I started regretting my choice of spa. Normally I walk out of the place in these situations but I decided to head to their steam room instead. ",
+        "Wallah! My mood changed immediately. Everything except waiting room is sound proof. It was just superb bliss. The ambiance of their steam room is simply amazing. It's not a regular steam room. It is one of those colorful decorated rooms we see in Turkish movies, not that I have ever watched a Turkish movie . :) ",
+        "My massage therapy was incredibly amazing as well. Anna did some kind of massage on my facial pressure points during the therapy. I immediately felt like I was in heaven. She is well experienced and trained in massage therapy. ",
+        "My only advice to this spa is to fix their waiting room's wooden ceiling and make it soundproof. They've invested so much money, great service, staff and ambiance that this waiting room doesn't do any justice to the property. ",
+        "Everything else was simply awesome. Definitely coming back!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Solo"
+    },
+    {
+      "title": "Fast and Friendly Service",
+      "text": [
+        "Arrived for our manicure and were greeted at the front desk and welcomed. Upon arriving in the nail area, we were seated and there were apples and almonds available to snack on while waiting for your service. The nail techs greeted us, introduced themselves and offered us water before beginning. The ladies were friendly and very professional in their service. When they were finished, they instructed us on how long to wait before leaving so our nails would be dry and then left. A great relaxing experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Family"
+    },
+    {
+      "title": "Thank you! Megan and Nicholas",
+      "text": [
+        "Please go visit this spa.  Not only is it organized and clean and amazing and relaxing, but then people there make all the difference.  You know what these people did for me, It was completely booked and they still wanted me to come in because they knew I was from out of town and how much it would mean to me they allowed me to use the steam room, and relax in the lounge and shop there and just relax enjoy the surroundings!",
+        " These people could have turned me down and they did everything to accommodate me!  Incredible! Thank you for being so considering and genuine and understanding.  I will never forget how kind and helpful you guys were to me. ",
+        " Thank you from the bottom of my heart!  I am forever grateful to you guys and you lovely staff behind and front of scene.",
+        "I hope the KARMA comes around for you and that someone does something special for you one day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Mother’s Day Relaxation",
+      "text": [
+        "I have been looking for a spa that does either a Korean scrub or a Turkish scrub.  I found the latter at the Hamman Spa.",
+        "I got there an hour prior to my appointment and was given a tour of the facility.  There is a tea room to sit and relax and a steam room.  I then headed into the ladies’ change room.",
+        "Change Room.",
+        "The change room is spacious and clean.  Then have hair dryers, straighteners and products if you wish to freshen up at the end of your treatments.   You get a locker and in there is a robe and a Hammam towel for you to wear in the spa.  They also have flip flops in various sizes (small, medium, large) for your use while in the spa.",
+        "Steam Room",
+        "I decided to head to the steam room first.  The lights are very low, and they have some nice lights that change colours.  You cannot see much which is nice if you are a bit shy as you are in there with the hammam towel.  There are water basins if you want to splash some water in the steam room and outside it has water available to drink and cool towels that have eucalyptus infused for your face.  It was so wonderful just to sit in there and enjoy the steam!  I visited the room 3 times during my hour prior to my treatment.",
+        "Tea Room",
+        "The tea room is supposed to be quiet.  They have tea (which I need to find out the type of tea as it was yummy), cranberry juice and water.  Some apples and nuts.  There are magazines and colouring pages with crayons to de-stress and unplug.  It was nice just sitting there having a glass of tea.  There is some background music in the background that I would say would either be a mix of Turkish or East Indian.  ",
+        "Turkish Spa Ritual",
+        "My treatment for the Turkish bath was done by Michelle.  It was wonderful!!  You are taking to one of the Hammam rooms and there is a heated marble table that you lie down on wearing a disposable thong.  Michelle scrubbed me with the hammam mitt and some black Moroccan soap.  Little pills of dirt and dead skin along with the soap were coming off.  She then splashed me with warm bowls of water to wash me off.   It was an awesome experience!  When I dried off and put my robe on, there was some tea and a small plate of a petite Turkish delight and baklava waiting for me to nosh on.   ",
+        "Massage",
+        "For anyone going, ask for Toby! He is remarkable in his massage techniques!  I have been going for massages for over 20 years and Toby’s was the best (albeit short as I only booked 30 minutes).   ",
+        "Usually, with massages, if you have a knot or some sore spot, a lot of therapists will cause a bit of soreness during treatment or you will feel sore after treatment to get the knot out.  I never experienced that with Toby! His expertise and remarkable personality gave me the best massage I have ever had!",
+        "All in all, I would say that I loved my time that I spent at Hammam Spa (I really need to pickup a Hammam scarf and what was the tea flavor again?!?).  I recommend it highly.  Parking is an issue (it’s Toronto) but I found something within 2 blocks.  It is a bit on the pricy side but as a treat for Mother’s Day or birthday, anniversary, etc. I say book it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Treated like second class guest",
+      "text": [
+        "I've been to the Hammam spa a few times and like how my husband and I can go in the large steam room together so we decided to go in honour of his birthday.  The spa is really dark and has long halls so I had to wear my glasses to the Turkish steam room to find my way.  There was no where to put them so I had no choice but to put them in my robe pocket and figured I would keep them safe by putting my robe under my husbands.  Well... when I came out my robe was gone but my husbands wasn't.  Another guest took it from underneath and then went to her treatment.  The front desk staff, Nicolas didn't seem as concerned for me as he did for the guest who took my robe.  He considered it my fault for not leaving my glasses in my locker.  She had a double spa treatment and they refused to ask her if she had my glasses between treatments so I had to wait 2 hours for her to be finished.  Needless to say it ruined my experience because I was anxious not knowing exactly where they were and also had to wait so I couldn't relax. To make matters worse when the woman's treatment was finished they did not approach her and ask if she had them.  I had to wait in the waiting area for her and actually call out and ask her if she had them when she was walking into the change room.  If the staff had been there to do this for me then I would not have had to speak with her which is the way one would have expected it to be handled. They were so unprofessional and I expected more from a spa that fancy's themselves as high end. The part that upset me the most was that the staff only valued her experience and not mine when she took my robe. I followed up by calling Giovanna (assistant manager) and it took a few tries of calling and emailing before I got her. She wasn't proactive in wanting to know what happened.  Then I felt like it was lame lip service to apologize.  This is not a high end spa and based on how I was treated I will not go back..... and this is secondary to my experience but the massage wasn't good and was a weird technique.  She used her arm rather than her fingers to massage my back."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Soooo relaxing!",
+      "text": [
+        "I booked a Swedish massage at Hammam. Never having had this treatment before I wasn’t sure what to expect. My body has been in chronic pain for 3 years, a lot of which is muscular. Sal was amazing, I advised him on what my problem muscle groups were and he did such an amazing job - I was so relaxed afterwards, not having felt that kind of relief in a long time. Thanks Sal!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "Life Changing Spa Experience",
+      "text": [
+        "Im not a frequent spa goer but wanted to treat my girlfriend to something special for her birthday. From the moment we stepped into Hammam I knew I made the right choice.",
+        "The front desk staff were friendly and helpful as they toured me around the facilities, including the amazing steam room where I was able to unwind and relax before our scheduled treatments.",
+        "First up was the couple's massage. Lucia was very informative and helpful in identifying what areas I needed the most work on and giving them extra attention. My back and shoulders felt renewed after she worked her hands deep into the muscles and helped straighten me up. Im on the computer a lot and she made sure to work on my wrists as long as necessary to make them feel more free than they they ever have been.",
+        "Kayla worked on my girlfriend and was very thorough, making sure to apply the right amount of pressure for some much needed relief.",
+        "Next we had the Turkish Bath which was an experience unlike anything I imagined. The room was very fancy and the heated platform felt great as we waited side by side for the treatment to begin. I won't spoil too much but my skin felt smooth as a newborn baby when I emerged from the bubbly cocoon and I got goosebumps as the hot water washed away all my worries.",
+        "Once we were done, the locker room had plenty of space to change back into my every day clothes. I sat in a pretty luxurious waiting room with drinks and snacks until my girlfriend was done changing and the check out process was simple and friendly. ",
+        "Overall I had an amazing experience and would definitely recommend the full body massage as well as the Turkish bath experience which you MUST TRY once in your life! Thank you Hammam"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Couples"
+    },
+    {
+      "title": "Shellac Nails ",
+      "text": [
+        "The service here was excellent. All staff very attentive! They made a small error with a payment but emailed me and refunded this all with no hassle. Amanda did my nails for a very good price, I am really happy with them. She had fantastic attention to detail and chatted to me as she worked. Best nails I’ve had in a long time! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Amazing massage and facial!!",
+      "text": [
+        "Toby knew my body like a well traveled road, what an amazing massage!",
+        "Natalia’s extractions were amazing I had no idea my face could feel so good!",
+        "Great service start to finish",
+        "Adam Patel"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Make sure you ask for Anna",
+      "text": [
+        "I had an amazing Dermotological facial with gold mask add on done by Anna. She was an excellent esthetician a real professional. I was there to relax and was not in the mood to chat. She sensed that so did not engage in idle chit chat. That is a very important quality to have, to sense what your client wants. I would rate my service with her a 10 out of 10. My friend, on the other hand had a different esthetician and said it was her worst facial ever and they cancelled her hair treatment add on without discussion or offering another treatment. Unfortunately she did not raise her concerns with management. So my experience was amazing while her's was not. So to ensure a great experience  ask for Anna."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Facilities need work....",
+      "text": [
+        "Planned a spa day for a group of four friends. Had a mixture of massages, a manicure and a pedicure. We arrived early and had a tour of the facilities and received instructions on the steam room. Unfortunately, the instructions were to wear a Turkish wrap (they provided) in the steam room. After a great steam we needed to rinse off using the showers next to the steam room. Although the sign said that the temperature could be adjusted, once inside there was once temperature - ICE COLD. We put it down to hot/cold Nordic spa treatment. The advice to wear the wrap in the steam room is wrong, swap it for a towel (which are stocked) that way you don’t sit around in a damp wrap under your robe afterwards. Following we had our various treatments and the massages and treatments were good. We three of us returned for a couple more steams, it was after the third steam when we were rinsing off, did we realize it wasn’t a hot/cold treatment, we actually had a little bit of warm water, so our freezing experience was just them out of hot water. We had to shower off the oil from our massages before we left, so back in the change room after lathering up with soap and the hint of hot water, after about 60 seconds it returned to an ICE COLD shower. Pretty much the opposite of relaxing. Pretty poor to be that short on hot water. The price of our visit would easily cover another hot water tank. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2018 • Friends"
+    }
+  ]
+}

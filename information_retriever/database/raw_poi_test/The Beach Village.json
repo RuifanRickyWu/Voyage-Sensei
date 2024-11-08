@@ -1,0 +1,354 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Beach Village",
+    "url": "/Attraction_Review-g155019-d184957-Reviews-The_Beach_Village-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4L 1H9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 631
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/33/b1/c9/the-beaches-toronto.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Neighborhoods",
+    "Points of Interest & Landmarks"
+  ],
+  "description": "Undiscovered by tourists, this quaint neighborhood is home to an academic crowd and contains trendy antique stores and restaurants.",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "Lived there for most of my life",
+      "text": [
+        "Lived in the area all my life up until retirement.  Lots to do with Kew Beach and Woodbine Park, Ashbridges Bay in the area.  Wonderful places to eat \"The Goof\" in particular which is a Legendary Local spot to eat, with the Fox Theater right across the street.  Lots of individual shopping experiences unlike the huge Malls the Beach Village offers independent proprietors with unique items, check out Segull and the Artisans store, they were my favorites.  I miss my Village.  It holds a huge part of my heart forever.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Strolling \"The Beaches\"",
+      "text": [
+        "I grew up in Toronto where I lived and then visited Queen E / The Beaches for many years. The area has changed dramatically. There were quite a few new restaurants (more fast food - Popeye's) and a lot of the original stores are now gone.",
+        "Still a good area to walk around and make your way to the boardwalk to catch some rays at the beach.  Tuina massage is at the eastern end of Queen St E and they do wonders with Chinese massage.",
+        "Queen St E streetcar and the Woodbine bus are easily accessible TTC routes."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Too many restaurants",
+      "text": [
+        "Ehhh... I guess I'm feeling curmudgeony (?) If you go to the Beach, go for the boardwalk to walk along the lake – it feels like you're not in Toronto – and to see some of the homes that still have the appeal of when they were cottages. The Beach strip along Queen just has too many restaurants now. There are a few interesting artisans shops (The Curated Market has local artisans' crafts and the Art Marketi s  good), but how many restaurants does one strip need?"
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Feels more like a resort than a large city.",
+      "text": [
+        "Easy to get to via public transit. Lots of reasonably priced restaurants.  The beach is spacious and never over crowded."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Cafés, Boardwalk & beach !!",
+      "text": [
+        "A really nice place to enjoy a stroll along the boardwalk, stop at a cafe and sit on the beach. ",
+        "Walk the board walk until you reach the end …. Pass through the dog off leash part and arrive to the RC Harris water filtration plant (an impressive building set high on the lake edge) back track via the street and drop into a cafe for coffee or stop longer at one of several great restaurants. We stopped at Outrigger - it’s great !! …. And has a patio (unfortunately no dogs allowed). Off street free parking is available ….. so take your time and explore at leisure."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2021 • Family"
+    },
+    {
+      "title": "Meh.",
+      "text": [
+        "For me, there's not really a lot here. There are some nice shops, but not many. The lake is great, but Queen Street in the Beach is sort of a non-event."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2020"
+    },
+    {
+      "title": "Brilliant boardwalk",
+      "text": [
+        "We took a stroll along the boardwalk.  It was well attended.  Families and couples walked, individuals ran or jogged, folks walked their dogs.  Everyone had an enjoyable experience.  Trees had been planted and benches placed in memory of loved ones all along the way.  Many were decorated for the season.  A delightful walk for us before heading home. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "The beach",
+      "text": [
+        "Lots of restaurants, bars, and other shops to go browsing. Many of the great shops though that were locally owned are disappearing and box type stores are moving in. If you walk you'll spot unique shops that have unique items. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Lovely area",
+      "text": [
+        "Fab area for a bit of shopping and hitting the beach.",
+        "Great array of shops including specialised sport shops such as pro league sport collectables which has a fab range of sporting clothing etc.",
+        "Lovely walk along the boardwalk, beaches are fab.",
+        "Some places for eating around beaches."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "Cool, vibrant neighbourhood ",
+      "text": [
+        "Lots of restaurants, cafes, bistros, bars, and shops in this very hip area of Toronto. Queen Street East and the local beaches are the main places of activity. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019 • Business"
+    },
+    {
+      "title": "Beautiful Neighbourhood",
+      "text": [
+        "This Was used to call the beach village and now simply the Beaches. Definitely this is an old town surrounding by the beautiful parks at the sides of shore of lake Ontario beaches, make it so beautiful area! To walk to Woodbine and Kew Gardens are within reachable walking distance too! Surrounding the area are some with famous local foods."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "great neighbourhood",
+      "text": [
+        "Great Neighbourhood with ton to do. Its a lovely family friendly place. You can tae a walk by the beaches trail with beautiful view of the water or go to the park for a little break. There are ton of great food places."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Family"
+    },
+    {
+      "title": "Fun place",
+      "text": [
+        "The beaches and the village is fun to visit and walk around especially in summer.Nice small shops and restaurants.Sometimes it has festivals and vendors."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2018 • Family"
+    },
+    {
+      "title": "Great Neighborhood",
+      "text": [
+        "One of Toronto's most lovely neighborhoods.  Take a short ride from downtown and here you are in the midst of pretty and dense housing with some cool commercial strips with eating and drinking."
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2018 • Solo"
+    },
+    {
+      "title": "Quaint small town",
+      "text": [
+        "This is a small town withing the City, with everything one needs, near the beach, great shops, cafe, restaurants."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2017 • Couples"
+    },
+    {
+      "title": "Great for walking",
+      "text": [
+        "Great area to walk in if you want away from the hustle and bustle of the city. Nice for a day out with the family.  Lots of little shops to wander into if you get bored of the beach."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "A good place to spend the day",
+      "text": [
+        "The beach village should definitely be one of the places in your list to spend a full holiday. A lot of activities to do and many picnic spots around. Many shops for shopping and many places to eat. Very good place indeed."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "Difficult to find parking on weekends, but a great way to spend an afternoon or warm evening.",
+      "text": [
+        "To me the Beach starts at the GOOF and goes West to the Olympic Pool. I like to stroll along the boardwalk or sometimes Queen Street. The area used to have more of a night life than it does now, and it is sad to see some fixtures of the area leave. Like the store ENDS, it was always a destination to see what kind of bargains you could get. Now, I usually go for an ice cream or a slice of pizza and a walk. It is also a very nice place at night to listen to the waves lapping the shore. Great place to watch people and dogs."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "Interesting",
+      "text": [
+        "Downtown Toronto! Take a lakeside stroll along the beautiful 3 km boardwalk. Then enjoy small-town charm one block away on Queen Street E. with its eclectic shops, sidewalk cafes, and vibrant restaurants."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2017 • Solo"
+    },
+    {
+      "title": "A fun, funky laid back neighbourhood that will allow you to see a different side of Toronto",
+      "text": [
+        "The Beach neighbourhood (formerly called The Beaches) is a unique neighbourhood with proximity to Lake Ontario.  It gets crowded on weekends, but if you have a chance to walk through on a weekday morning or evening, you will encounter more local residents who enjoy this affluent neighbourhood as their home. There are an abundance of good dining options along Queen Street East along with some cute boutiques.  Parking on weekends can be tight, so you could enjoy a Queen East streetcar ride and then walk a short walk south to the water.  Or park and come early.  Very, very quiet in the winter (frozen lake, cold winds...but unique then as well with zero crowds.  Summer and spring and fall would be best times to visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Family"
+    },
+    {
+      "title": "Not a known tourist place and its better! ",
+      "text": [
+        "Its not a known tourist place and its better as its not crazy rushy. It has a nice market on the Road with beer tap shops along with restaurants. Beach is approachable through kew park aswell. And has a wooden walk way which is the high light of this place. I would love to come back. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Family"
+    },
+    {
+      "title": "The Beach",
+      "text": [
+        "With lots of shopping, events and restaurants there's always somwething to do in this vibrant neighborhood right nest to Lake Ontario.  After dinner, a nice stroll along the lake down on the boardwalk is a must do."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "Another small attraction",
+      "text": [
+        "Another attraction of Toronto. Very near by queen street. There are number of cafes,different restaurants. Enjoy walking on the street."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2017"
+    },
+    {
+      "title": "A City Escape within the City",
+      "text": [
+        "This is an actual neighborhood called The Beach.  This is a laid back part of town where the beach is the main attraction.  The beach has a boardwalk and a dedicated bike lane.  There are parks along the beach along with places to stop for food and drink.  At any time one can come off the beach and find numerous bars, restaurants, gelato, etc all within a couple of blocks from the beach along on Queen St which runs parallel to the beach.  The best way to experience the neighborhood is on foot and the best way to get there is via the Tram that run along Queen St."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Wandering",
+      "text": [
+        "Its own distinctive part of the city, this could be considered to be the most like what Toronto once was.  The location right next to the lake is special, and wandering through the neighbourhood provides some charming routes and nice vistas.  We were there most recently on a midsummer day to go through Kew Gardens and walk along the lakefront."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Over rated",
+      "text": [
+        "We’ve been many many places around the world and although this area is quaint and old, it’s not the place one would stay for any length of time. 30 percent of these poor souls live in basements as is the norm with these old houses. Homes are basically duplexes but with 3 levels on each side. If your tall, avoid the basements. The number of people somehow allowed to live in this type of housing explains the extremely limited parking. The public transportation is awesome very similar to Europe. Easy and cheap to get around. Get the PRESTO card since it’s good for trams, subways, buses, and has an app to reload money. There are several nice bars and restaurants, few shops worth going out of your way for, but the beach seems to be a huge draw for people. While we were here, there was an ecoli outbreak in some of the lake Toronto beaches which according to the locals is common. Not sure what there plan is but we’re avoiding getting into the lake. The beach has a great wooden walk way along side a bike/jogging trail. Very peaceful and safe. Parking for people visiting can be found in town. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Shopping Mall",
+      "text": [
+        "This is a medical plus shopping mass on Queen Street East, there is not a lot here in the way of shopping.  Mostly medical clinics."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Close to Queen Street,  good stroll",
+      "text": [
+        "This area is very close to Queen street,  and you can have a nice stroll arriving also to see the lake and kew gardens. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Tourists should go here for sure.",
+      "text": [
+        "Each year my husband and I visit the Beach to walk along the boardwalk which winds for about 3 miles or more.  Great spot for a picnic, lots of trees and benches to sit under.  A must for tourists."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Family"
+    },
+    {
+      "title": "Lovely safe Toronto neighbourhood to stroll.",
+      "text": [
+        "Walking the long boardwalk along Lake Ontario. Beautiful peaceful   parks. Giant bubbles, huge kites, sail boats. paddle board rentals, bike rentals. art shows. Queen st east has wonderful local  boutiques. Its a very friendly relaxing place to stroll. Great for people and dog watching! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Best summer walk",
+      "text": [
+        "Best place to visit in summer lots to see, great food and drinks. Jump in the water anytime picnic near the water and good parking spots. Relaxing experience. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Don't miss it",
+      "text": [
+        "Wide clean sandy beaches, fantastic board walk and bike path.  Could with with one or two little cafes."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Summer time in the Beach Neighborhood",
+      "text": [
+        "Lots of nice little shops to visit and a short walk to the Boardwalk. Summer evening walk is always the best."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "Charming Neighborhood",
+      "text": [
+        "A must see place to visit. Quaint neighborhood for shopping and dining. This was my second visit here and it changed a lot since I visited 20 years ago, but it's still a friendly neighborhood and tight knit community."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Family"
+    },
+    {
+      "title": "Used to be awesome",
+      "text": [
+        "I live there for years. It used to be awesome. Like everything, things changed and my last visit was sobering. Good food establishments don't seem to last while junky fast food joints seem to flourish among the rows of shuttered stores. Keep an eye on where you step as it seems that some folks don't feel the need to pick up their dog poop. So we moved away."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Couples"
+    },
+    {
+      "title": "Real nice in summer",
+      "text": [
+        "A great place just east of downtown toronto.  Great place to walk along the boardwalk or walk on the sand. You also can get into a good volleyball game with the nets set up on the sand. Also you can venture up to queen street for some great restaurants or fast food dining. A real nice place to spend a summer day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "My new favourite place in Toronto!",
+      "text": [
+        "Our daughter and her family recently moved to this area in Toronto so that has allowed us the opportunity to get to know this part of the city and it has really blown me away.  The shops, parks, cafes and restaurants are lovely but more importantly the beach and boardwalk are simply stunning.  Regardless if we go in the summer, spring, fall or winter it is truly a lovely area to spend an afternoon, morning or evening even.  Many people bring their towels or chairs in the summer and sit along the water's edge.  Other people walk their dogs or bring their kite. It is imho an underrated area of the city. Really love the Beaches!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Family"
+    },
+    {
+      "title": "LOVED the Beach area",
+      "text": [
+        "We drove to the beach area and took a wonderful walk on the boardwalk. It was a nice alternative to busy, touristy downtown Toronto. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Friends"
+    },
+    {
+      "title": "Fancy houses",
+      "text": [
+        "It's nice to take a walk on those streets, you can see a lot of beautiful houses. You can also enjoy the lake and see the beach."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018 • Solo"
+    },
+    {
+      "title": "The Beaches!",
+      "text": [
+        "The Beaches is how I will always remember it, not \"The Beach\" which it was changed to years ago. Great shopping and restaurants. Boardwalk and park is beautiful. Wonderful day out with family or friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Family"
+    }
+  ]
+}

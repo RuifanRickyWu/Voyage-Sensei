@@ -1,0 +1,262 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Carlton Cinemas",
+    "url": "/Attraction_Review-g155019-d600547-Reviews-Carlton_Cinemas-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "20 Carlton St ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": ""
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 31
+    },
+    "openingHours": "Mo-Su 12:00-00:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c2/86/83/photo0jpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Movie Theaters"
+  ],
+  "description": "Home to the subtitled set, the Carlton plays films -- many of them superb -- that frequently don't see the light of day anywhere else. Many of the offerings originate in France, Italy, Russia, or China; there's also a smattering of independent North American films. Buy tickets early on weekends.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Premier of Movie about Toronto Family April in Autumn",
+      "text": [
+        "Amazing movie...like a trip to Toronto. Always like to go to this small theatre ... Not usually too crowded."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019 • Friends"
+    },
+    {
+      "title": "Great Little Theater",
+      "text": [
+        "I've been to this theater twice now, it's just a short ride from Union Station by subway. I love the decor with all the vintage movie posters on the walls. It has a real vintage feel to it, not like the cookie cutter big chain ones at all. A lot more character. The bathrooms were very clean, and the staff friendly. The smaller theater was much more intimate than the huge, boomingly loud chain ones. The ticket prices were also much lower than most theaters. I highly recommend this charming little movie house."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Great little cinema downtown",
+      "text": [
+        "I love this cinema even though I live outside of Toronto because it plays small movies no one else does, but if I can get near the subway I can get there easily. Small older style theaters, nice seats but they are not staggered like new cinemas but I can live with that. Some great little restaurants nearby too."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2019 • Couples"
+    },
+    {
+      "title": "Pleasant atmosphere",
+      "text": [
+        "The seats are comfortable, and the theatre we were in was quite small and intimate.  Will definitely go again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "great Cinemas",
+      "text": [
+        "Great Little cinemas right downtown lots of films to choose from so spend a night and enjoy! We had dinner just a block away from here and then went to the cinema and then over to Church for a few cocktails. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018"
+    },
+    {
+      "title": "$5 Tuesdays",
+      "text": [
+        "Really good Cinema, Got that old retro feel and quirkiness that the big chains have killed, staff were very friendly , and while the screens have less seats it felt more intimate. saw the insidious  the last key here and it with it being smaller but full there was a great atmosphere. better than a huge cinema but only 30 people in it . highly reccomend",
+        "this place. these smaller cinemas need to live on."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Couples"
+    },
+    {
+      "title": "Carlton Cinemas - Toronto Showing films",
+      "text": [
+        "Recently visited the Carlton Cinemas when it was offering its monthly film series in short films and animations. Lucky to get the tickets as it was sold out. A great place to visit if you have a chance when you are in the Big T."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Couples"
+    },
+    {
+      "title": "Cheap first run movies at $5",
+      "text": [
+        "Take advantage of a great deal every Tuesday - movies are only $5.",
+        "Caveat: screens are smaller than the usual cinema, but the quality is still very good."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Solo"
+    },
+    {
+      "title": "A bit run down but great place to catch cheap films on Tuesday for $5.",
+      "text": [
+        "The Carlton has seen better days but the Imagine theatre chain is a great place to go to see a cheap movie on a Tuesday especially. Other times i believe it is $7. The location on Front- Market Square. I believe you get free refills on popcorn. Great addition for a rainy day."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2017 • Couples"
+    },
+    {
+      "title": "My favourite theatre in Toronto",
+      "text": [
+        "This is absolutely my favourite theatre in Toronto. I've been here a few times to see different types of shows (adventure/crime/suspense and action/adventure).",
+        "The sound in the theatres both times was really good, but my favourite part was the screen size. I really do like the smaller screen size so I can see everything. I don't feel like I'm giving up any of the experience seeing it on a smaller screen but sitting closer to the screen vs. huge screen and sitting way back.",
+        "Absolutely will be back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2016 • Couples"
+    },
+    {
+      "title": "Indy cinema with a great range of films",
+      "text": [
+        "All the staff love films - you wouldthink ha isa give at acinma, but with the AMC's and Cineplex's, yeah, good luck! But wthin minutes of ariving not only was I given a tour but discusig Kubrik, now tha's my kind of cinema.",
+        "The cinema is admitedly simple inside the aud's, but the foyer has lots of charm and the great range of films makes it a place to treasure.",
+        "Cheerio"
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2015 • Solo"
+    },
+    {
+      "title": "Small independent theatre - a dying breed in the city",
+      "text": [
+        "$5 movies on a Tuesday - afternoon or evening films cannot be beat.  The theatre offers some blockbusters but also some independent fare that does not make it to the Cineplex."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2014 • Couples"
+    },
+    {
+      "title": "For your viewing pleasure",
+      "text": [
+        "My partner and I love Carlton Cinema.  They may not always have the best selection of films but there is almost always something decent to see.  Tickets are reasonable and the large popcorn is great.  Remember to ask for free refills on the large popcorn.  Staff are always friendly.  With our U of T student IDs, two movie tickets and a large popcorn only set us back $20.  A great deal."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2013 • Couples"
+    },
+    {
+      "title": "Good theatre to see non-Hollywood films",
+      "text": [
+        "I used to see films at this theatre regularly as it was across the street from where we lived.  Now that we've moved 30 miles away, we don't get there as often as I'd like.  Saw \"The Best Exotic Marigold Hotel\" over the weekend.  Tickets were only $9.50 (adult - evening show), which is hard to beat."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2012"
+    },
+    {
+      "title": "Gem",
+      "text": [
+        "It's a shame that so many of the smaller independant theatres are going the way of the dinosaur. ",
+        "This is a great place to see an indie movie. It is rarely crowded and the prices are reasonable."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2012 • Friends"
+    },
+    {
+      "title": "The closest cinema!",
+      "text": [
+        "Tuesdays all movies $5!!! They have 10 theatres and the seats are good, sound is good, popcorn and drinks as usual. Great choice of movies and running from matinee till late in the night!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2012 • Solo"
+    },
+    {
+      "title": "Cheap-er movies",
+      "text": [
+        "This cinema was recently revamped/renovated (not sure which as I haven't been since it happened) and often screens foreign/independent films along with those no longer playing in 'regular' theatres although I believe there have been some films shown that are still current."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "best value in town!",
+      "text": [
+        "I love Carlton Cinema. Its a regular Tuesday night event for me and my friends. You can't beat $5 movies!",
+        "Its cheap and its cute, the theatres are smaller and so are the screens, but it has a lovely cozy feel to it.",
+        "One of my favourite things about this old cinema, the piano player in the foyer. Makes me feel like I've gone back in time."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2011"
+    },
+    {
+      "title": "Joneses",
+      "text": [
+        "Some good selection and some well-themed retro nights.  Not a state of the art theater, but enough of its original character remains to keep this one afloat in the busy downtown Toronto movie theater market."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2016 • Couples"
+    },
+    {
+      "title": "Lovely little cinema",
+      "text": [
+        "Went to see a film on its release date in this lovely small cinema. Only 10 dollars each. 5 dollars if you go on a tuesday. Lovely staff who seem to enjoy their job. Nice small theatres. Screens not as large as some of the huge cineplex but just as good. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2016 • Couples"
+    },
+    {
+      "title": "Great Little Movie Theater",
+      "text": [
+        "I enjoyed the 2 movies I saw there during my stay in Toronto.  I went during the week and during the day.  It was not crowded and everyone was very friendly.  We got to see a movie we would not have been easily been able to see in NY.  Absolutely Fabulous was the name of that movie.  My wife, who grew up in England loved being able to see this movie."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "Best Cinema in Toronto",
+      "text": [
+        "We go to films at this theatre regularly and it's definitely the best in the city. We tend to avoid the big, corporate theatres. This is a small, independent cinema with a personal feel."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Family"
+    },
+    {
+      "title": "Great cinema experience!",
+      "text": [
+        "Went here for the premiere of a relative's movie and had a great experience.  Love the fact that it was a smaller cinema.  The seats were quite comfy, the theatre was very clean.  The snacks were tasty and fairly reasonable.  Would go back more often if it was a bit closer!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016 • Friends"
+    },
+    {
+      "title": "Rainy day visit",
+      "text": [
+        "We went to the movies whilst on holiday and this movie theatre was right next to the holiday inn we were staying at so location was great.. The service was friendly, didn't try the pop corn although they do other snacks!! Tuesday night is $5 night, we went on a Friday so slightly a little bit more $10. It's a small cinema maybe sits about 50 per screening.. Definitely worth a visit if your in Toronto on a rainy day. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2015 • Friends"
+    },
+    {
+      "title": "Different experience",
+      "text": [
+        "Great cinema experience! Quite different from British cinemas, worth taking a look. Don't try the buttered popcorn."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2014 • Couples"
+    },
+    {
+      "title": "$5 Tuesdays - brilliant!",
+      "text": [
+        "We regularly go for $5 Tuesdays - and it's great. It's a little quant cinema right in the centre of Toronto. They play good films and have unique screening events. A great find in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2015 • Couples"
+    },
+    {
+      "title": "Foreign and non-blockbuster movies",
+      "text": [
+        "Movies that do not play in regular theatres or that have played for very short periods in regular theatres. Small theatres but convenient to subway and good video and audio."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2015 • Friends"
+    },
+    {
+      "title": "Short changing movie goers should be avoided.",
+      "text": [
+        "So much of down town Toronto is changing dramatically enough with the construction of big towers for condo living excitement for me for me to notice during my recent visit there and for me to discuss now for this review that I prepare with pleasure to share with the many readers who benefit from reading the opinions of outsiders who visit a commercial cinema in Toronto. Carlton Street is one of the few streets which gain its identity and name merely because College street ends at Younge and Carlton Street begins there to create a theater district for movies. That fact is interesting for me to note. So many of films shown at the Carlton are not always my type of film, but I pay attention to what is being presented there. But I also pay attention to the never ending exploitation of movie goers with food and drinks. I wonder often about the wisdom of young and old people who are now deciding to buy into this expensive business of accepting a slice of the current trendy life in urban entertainment district as their place to live. Do they know what they are getting themselves into?  Many of the films are popular in part because they get publicity and are presented as fashionable pieces of clothing. But they are shown and served with food and drink when the movie goers should be permitted to see the film a second time without being pulled into accepting poor culinary eating habits just to put junk food in their stomach. I have seen one or two films there as a small taste of urban entertainment life just to see what is it like to see a film in a foreign country at a commercial cinema. My principal complaint against this old time method of seeing a film at commercial cinema goes like this. I do not want refills on popcorn or drinks or whatever food is available for consumption at the cinema. At no cost I want a refill on the opportunity of seeing the film more than once if I like it that much. What about seeing the film a second time at reduced cost? Keep the food and drinks and give me a chance to see a film at no extra cost twice or three times and discuss it long after I see it as well as after the first showing of the film I attend. Commercial showings of good films that I want to see again operate in the wrong way. Provide the names of people who want to discuss the film so they can get together at another place. Give them a chance to begin their discussion after seeing it for the first time at the commercial cinema. Develop a wide network of film aficionados and let them branch out to bring in fellow film goers to their their club but begin everything at the first showing of the film at the commercial cinema. Security is a big problem for these arrangements to unfold just to see a film again and to develop a network from the experience of seeing a film twice or more often film - to form a group composed of fans who might want to see a film a second time I admit. Allow the cinema to be the birthplace of the club of film goers.  Allow true long lasting film appreciation to be nurtured by showing the film more than once without food and at no additional cost. Film appreciation is not promoted by serving food or drink and limiting the showing to seeing it one time. Arrange for seeing film twice with the purchase a ticket for seeing the film a second time time with certain business acumen for selling the cinema as the center of film appreciation rather than presenting the film with the culinary package of junk food. Use the cinema as a center for film fans to get together.  Promote true film appreciation in a way as to develop groups of film fans willing to come together at one place after seeing the film once. Do not limit the showing to one time. The current commercial cinema is a trap and this is one of the many traps waiting people who buy into this method seeing films. Getting refills on popcorn or other food should not be the defining characteristic for seeing a good film. Now it is trendy to leave the cinema and go home rather than stay around and discuss it and see the film a second time. That is what I oppose - this blind habit of accepting the practice of seeing the film once and leaving the cinema. Greater consumption of food is the goal to be avoided at all costs. The more desirable goal is film appreciation and it can't grow from seeing a film once with popcorn and drinks. This review is not composed to blatantly oppose the business interests of the Carlton cinema,  but to merely suggest a better way to use the time that people put forward to become knowledgeable film fans. The traditional method showing a film once with food and drink is most limiting if your desire is to develop circle of film fans who want to become aficionados. Another model is needed soon. Commercial cinemas need to go beyond mass marketing of films as if they are new model cars or clothing styles and promote film appreciation."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2015"
+    }
+  ]
+}

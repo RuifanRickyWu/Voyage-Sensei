@@ -1,0 +1,286 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Lee's Palace",
+    "url": "/Attraction_Review-g155019-d600780-Reviews-Lee_s_Palace-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "529 Bloor St W ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5S 1Y5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.0",
+      "reviewCount": 29
+    },
+    "openingHours": [
+      "Mo,Tu,We,Su 08:00-02:30",
+      "Th 08:30-02:30",
+      "Fr-Sa 09:00-02:30"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/29/3f/18/lee-s-palace.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Antique Shops",
+    "Dance Clubs & Discos"
+  ],
+  "description": "Versailles this ain't. Still, that hasn't deterred the crème de la crème of the alternative music scene. The Red Hot Chili Peppers, the Tragically Hip, and Alanis have performed here. Despite the graffiti grunge, Lee's does boast the best sight lines in town. The audience is young and rarely tires of slam dancing in the mosh pit in front of the stage.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Put some lipstick on that pig",
+      "text": [
+        "I’m 63.",
+        "I worked in the bar industry for years, and hit bars and pubs across the world.",
+        "We’ve come here for these large festivals to watch our kids and their friends perform for about 5 yrs.",
+        "The music was fantastic. The crowd civilized and friendly. The staff did their job as expected in a grungy bar.",
+        "The venue is obviously living on rep alone.",
+        "There was absolutely no investment of any kind in its visual appeal.",
+        "I’d hate to see it with lights on.",
+        "Regardless—- a few carpenters, tile workers, plumbers and painters could do miracles."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2023 • Family"
+    },
+    {
+      "title": "Best music venue in Toronto",
+      "text": [
+        "I don't understand the negative comments. Of course this place is dark and grungy. It is not supposed to be super clean. It is an alternative music place. I mean, Nirvana Played here. The vibe is awsome and the bands are great. It is very cool."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "HORRIBLE, FOUL LANGUAGE",
+      "text": [
+        "A friend and I had tickets for a show tonight, purchased a while back for about $80 each.",
+        " Just a little background info, I don’t drive and my piece of ID consists of only my health card , and sin card. My passport is expired and a new one is in the mail. I also got a photo ID card which is also in the mail. However I have never had any issues with health card up until this point. We go on in and they study my health card meticulously. They then ask for a second piece to which I explain that I don’t have one on me and my passport which is it at home is expired. I show my sin card, smart serve, credit card, and two debit cards all with my name on it. After an incredibly rude back and forth with door men saying that the photo (that I took when I was sixteen) looks way older than me, we concluded I needed to go home and get my EXPIRED passport. My friend speaks to the bar manager, John Pitts and explains to him that my passport is expired and we don’t want to pay for an uber all the way home to retrieve an expired passport if they won’t let us in with it. John Pitts then says if i come with passport which he is aware that is expired,then we’re fine and he will let us in (even though it is expired). I come back with my birth certificate, passport (expired) health card, sin card, smart serve, credit card and two debit cards. ",
+        " They tell me these photos are “completely different people” (ITS ME!!!) and they can’t let me in because it’s clearly not me. At this point I’m at my wits end and livid. I’ve spent upwards $100 and am quite inconvenienced. My friend goes back to attempt to calmly reason with them, to which they proceed to call her a c***",
+        " At this point, I’m confused, annoyed and insulted after the language Lee’s Palace used to address me and my friend. I’m 23 years old and have never had this happen. They made me take my hair down, uncomfortably studied me for ages, all for ID that is very clearly me. I have red hair and the flash in he picture I suppose made it look more red?",
+        " I apologize for the rant I’m just at loss for words, I just want any advice as to how to move forward.",
+        "i am at absolute disbelief with the way my friend and i were treated."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Never Again",
+      "text": [
+        "2 songs into the show the band played a song off their new album, so I went out for a quick smoke. After a 2 minute smoke I was denied entry. What a waste of tickets and travel. Never again!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Unique Spot",
+      "text": [
+        "It's not a polished venue, but it's very cool.  Sure, the ceiling tiles may fall on your head at any time, and you might get some flaking paint in your drink, but it's a cool place to watch small bands.  It's very intimate, and the rail seating is appreciated."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "cooool ",
+      "text": [
+        "pretty cool venue, saw homeshake there a while back and loved the vibe... suited their sound. buncha lil food n drink places around. pretry cool street. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Meh",
+      "text": [
+        "This place is historic but does it live up to it’s historic value or title. They have Pizza Pizza which turns out to be mediocre pizza and it’s a dump. Wouldn’t come here again. It’s a waste of time."
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2018 • Family"
+    },
+    {
+      "title": "Don't Come here",
+      "text": [
+        "Out of five stars, this place deserves none. Heres why. I get to the door and im asked for an ID. When i give it to the door man, i get turned away because its not a Canadian ID. I got rejected forn not being Canadian. He asked me where its from and I replied that it was from Puerto Rico and told him that its not from Canada. He then very rudely replied \"Duuuh! This is foreign. I can't take this.\" The beautiful irony of this whole situation is the fact that the very day that I arrived in Toronto, I visited a similar establishment and had no problem what so ever when I got asked for an ID. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2017 • Solo"
+    },
+    {
+      "title": "Dirty, gritty and rock and roll",
+      "text": [
+        "A small , almost historic venue but not because of the building . Lee's has hosted great artists over the years and continues to do so. Paint is peeling from the walls and if it wasn't so dark I am sure the place would be disgusting. But hey, it's rock and roll. Good venue for small concerts of less than 500(?) people. Your close no matter where u are and the sound is pretty dialed in although the walls could use a little help in the form of bass traps and general sound engineering. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2017 • Friends"
+    },
+    {
+      "title": "Great intimate live music venue",
+      "text": [
+        "Loved the show I saw here, with it being one of the memorable experiences during my time living in Canada.  Acoustics were pretty good, and in my experience staff were friendly – though I think the bouncers were initially surprised when I pulled out an Australian passport for ID.  Probably fits around 500, so nice intimate venue. ",
+        "I didn’t have a chance to check out the top floor Dance Cave.  ",
+        "Love the exterior – can’t miss it! Would happily check out another show here if in Toronto again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2016 • Solo"
+    },
+    {
+      "title": "A staple of downtown Toronto",
+      "text": [
+        "Even though it has it's issues, like the bouncers possibly, this place is a staple of downtown Toronto, lighting up the street with its wide array of colours and artwork. It's definitely worth a visit. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "A bar that judges you for drinking",
+      "text": [
+        "I came to Lee's to see a good friend of mine play with his band. I had three drinks inside, and then went out to say goodbye to a friend. On my way back, the bouncer told my friend and I that we were not allowed back in because we appeared too \"intoxicated\". I was pretty shocked, offered to show him I could walk in a straight line, and tried reasoning with him. In my experience bars usually encourage females to stay. When I tried walking in the first time, he stiff armed me and grabbed me. I'm a tiny female so that was hardly necessary. He didn't let us back in, even though some friends I was with had about 10x as much as I had. The bar tenders were also unpleasant, and the hallway leading to the bathrooms smelt like urine soaked towels. I won't be going back!"
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2014"
+    },
+    {
+      "title": "Lee's Palace: I've been going since '86",
+      "text": [
+        "Lee's is a very good place to see a band you like.  Nice sightlines, good sound, reasonably-priced beer by Toronto club standards, mostly friendly staff.  I've been seeing shows here since February '86, when I saw Bad Manners. There used to be a Chinese snack bar in the wall on the right-hand side, which has long since disappeared--don't visit hungry. I recently saw Cults there, which was excellent. Only bummer was a couple of rude young women who apparently have no knowledge of the words \"excuse me\". Strange thing, all the young guys were very polite. Upstairs is the Dance Cave--I used to go in '87 and it was cool with Marva Jackson spinning vinyl. I know it's geared to youngsters and haven't been in many moons. I'm clueless about it now as an old guy."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2013 • Friends"
+    },
+    {
+      "title": "Cool place for a concert!",
+      "text": [
+        "Small venue that can accommodate aprox 500 people so it allows for intimate concerts. The decor is cool outside and inside. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2013"
+    },
+    {
+      "title": "If you are looking a stress-free, fun night...DON'T go here",
+      "text": [
+        "Staff IS the biggest problem! Bouncers think they have the whole world into their hands (what one would call power trippers). ",
+        "I was there to see my best friend play. Two of my girlfriends were supposed to join us at 11ish pm, after dinner. I got a call from outside telling me that the bouncer would not let one of the ladies in because she was \"drunk\" in his view; he also went on to call her \"too short to hold her liquor\". To put in in perspective, I am talking about a group of over 40s ladies (with children at home, etc.), not a different kind of crowd. ",
+        "When the bouncer announced his decision that my friend was too \"drunk\" to come into this joint, she did get upset and told him he had not right to call her drunk or point at her size as a deficiency! Of course, the bouncer found her \"rude\" and decided that she will not be allowed inside. I tried reasoning to this guy, but nothing. I spoke to the ticket person at the door who tried to call the manager (nowhere to be seen or ultimately to be found); she did say she cannot do anything. The other bouncers were \"more understanding\", but could not really do anything because the \"top\" security guard made his decision, with no breathalyzer and no real reason other than he had to show he was the \"decision-maker\" who could use his \"power\" over whoever he wanted whenever he wanted. Quite disgusting!",
+        "If you want to save yourself the trouble of dealing with such scenarios and types of people, I strongly suggest you go some place else. There are many other venues in the area that offer music, fun and make you feel wanted as a customer (just use your maps on your mobile devices or ask some of your friends). No one should be expected to dress up, make plans, pay door fees and drinks, yet be treated as if the joint would do him/her a favour of even considering them to come in. That, in my humble opinion, does not sound like a recipe for a great night out!",
+        "P.S. - A bit about the venue",
+        "- dirty",
+        "- slippery floors",
+        "- dirty, small bathrooms",
+        "- no food to purchase"
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2013 • Friends"
+    },
+    {
+      "title": "Not for the faint of heart!",
+      "text": [
+        "We went to Lee's Palace to see Colin James. He ofcourse was awesome. The venue is small which is fine because it's intimate. The  walls, ceiling etc are painted black for a reason, it's very dirty. Paint was falling off of the ceiling. The washrooms are located upstairs, which is quite a hike if you've \"had a few\" and they weren't clean either. The sound was good. No seating, standing only if you don't like a seat. Overall I would probably go back to see someone I like there, but atleast I'd be prepared to bring my hand sanitizer!"
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2013 • Couples"
+    },
+    {
+      "title": "Save yourself the trouble!",
+      "text": [
+        "If you want good music, good staff and good security, then this is the wrong place to go. The music is spotty at best. The staff is incredibly rude and condescending. There's broken beer bottles on the ground, long lineups for everything, drinks are tiny and really watered down. Place is old and rickety. Go some place else where you will get your money's worth and be treated with respect as a paying customer, not just another fish in the ocean where they just want your money."
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2013 • Friends"
+    },
+    {
+      "title": "Dance cave upstairs, live fun downstairs",
+      "text": [
+        "Lee's seems to have it all.  It's a very eclectic club, much like the street it live on.  You'll be dazzled by the new-ish mural they have outside, and the dance cave shuffles a decent mix of old and new.  They always have live bands, almost every night, so there's really something for everyone, especially now with the burrito place right there.  No one loses at Lee's."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2012 • Couples"
+    },
+    {
+      "title": "Rotten air and rude staff.",
+      "text": [
+        "Don't expect a good time dealing with any of their flaky, unprofessional, rude staff. It stinks inside and is filthy. Stay away."
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2016 • Business"
+    },
+    {
+      "title": "Unfounded anxiety.",
+      "text": [
+        "After reading a number of the reviews of this venue I have to admit I was anxious about going to a show this past Friday evening.",
+        "Fortunately my experience was overwhelmingly positive!",
+        "This is a rock club of some renown. It isn't trendy.....just bare bones. A bar, a few benches, chairs & stools. A handful of par cans to illuminate the stage & an excellent sound system. ",
+        "Everyone I encountered, patrons & staff, were friendly & wonderful. The person I presume was the bar manager was right on top of things....the couple times I returned to the bar after my initial drink he knew what I wanted & in my opinion, that helps make for a good overall experience!",
+        "I'm looking forward to catching another show at Lee's sometime soon."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2016 • Solo"
+    },
+    {
+      "title": "Music and Vibes",
+      "text": [
+        "Small, open venue allows for an intimate and personal experience with the talent. Bar staff were efficient and on point and security kept tight control of exits and entrances. Over all I was very pleased with Lee's Palace. Until this morning when I heard that my lost possessions were found and that Leslie had gone above and beyond to ensure their safety and return. Now I'm thrilled and cannot wait to go back for another concert. See ya soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2016"
+    },
+    {
+      "title": "Horrible staff",
+      "text": [
+        "This is supposed to be a premiere music venue. The staff treated the musicians and the customers with blatant disrespect. They acted like we were inconveniencing them for being there. They would not serve us at the bar after 11:30 p.m and it was overall a terrible experience. I will never go back to this venue, and I recommend you save yourself the trouble and stay away!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2016 • Friends"
+    },
+    {
+      "title": "Great once you're in",
+      "text": [
+        "I've been going to Dance Cave forever, it is one of my favorite places in Toronto and it's great to check out after enjoying a band downstairs. Tonight, for the first time ever, I was turned away because my ID was expired - which is, I guess, a compliment since I'm in my 30s. That certainly doesn't change my previously great time at this venue, but it is for me a confirmation that indeed, the bouncers are idiotic and will end up ruining that place."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "Good place to catch a band.",
+      "text": [
+        "Over the years I've seen a bunch of bands at lee's and it's a good venue not as good as the horseshoe but not far behind. ",
+        "You can see bands that aren't just mainstream yet but are on there way so music snobs like I can say \"oh I saw that band when they were good\"",
+        "Lee's is not a dive but does have personality."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Stay away !",
+      "text": [
+        "The Dance Cave employs out of control bouncers who clearly abuse their power hidden by the darkness and music.  a young man have a verbal encounter with a bouncer and ended up having 6 bouncers throw him up against a wall punch him, rip hid shirt to shreds, take his belt off of him and steal it  and then choke him out to the point he was tapping for them to let go. A fellow bouncer ran over and pulled his own off of him. The police stated that this happens all the time and to avoid such abuse one needs to stay home and away from venues like this. Shameful actions on account of this venue and it's employees  will definitely be staying away and advising friends to enjoy another more reputable venue! "
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Decent.",
+      "text": [
+        "I personally didn't have any issues with this venue. The bouncers weren't rude. The service at the bar was good. I don't expect places like bars to be overly clean so if this place is \"disgusting\" as some people have put it I wouldn't have cared."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2015 • Couples"
+    },
+    {
+      "title": "Glorious Sons",
+      "text": [
+        "The show is awesome.  The bar is a dump. What an S hole. I would not let my dog go in there.  The owner was a total dick harassing us for having a good time after smoking a joint with his bouncer around the corner of the building. Total waste of time.  We had a great night at House of Beer."
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Worst Bar EVER!! ",
+      "text": [
+        "This bar is so dirty. The owner is so rude. I tried to go so The Glorious Sons and the owner came up to us in line and kicked us out for being \"drunk\" we were excited and laughing. That doesn't count as drunk especially since we hadn't my even been in the bar yet. The owner then proceeded to go near the corner of the bar and smoked a joint with the bouncer (and you're saying I'm intoxicated?). Don't go there you will not get good service or you might not even get in...."
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    }
+  ]
+}

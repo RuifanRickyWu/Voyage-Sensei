@@ -1,0 +1,361 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Gone Sailing Adventures",
+    "url": "/Attraction_Review-g155019-d4356469-Reviews-Gone_Sailing_Adventures-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "415 Queens Quay W Spadina Wave Deck",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5V 1A2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 213
+    },
+    "openingHours": "Mo-Su 09:00-22:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/06/e0/85/the-fleet-queens-quay.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Boat Tours"
+  ],
+  "description": "Gone Sailing Adventures was founded in 2008 by Howie Colt and started charters in 2010. His passion for sailing and over forty-five years of experience has developed into a desire to introduce more people into the world of yachting. Starting as a cruising instructor, Cap't Howie has grown the company to provide the widest range of sailing options in the Greater Toronto Area. Gone Sailing Adventures' fleet includes 10 luxury yachts - 1 catamaran, 5 sailing & 3 motor. All our yachts exceed Transport Canada minimum safety requirements and include a licensed captain and host. Each boat is a brilliant example of modern ship engineering and boasts a superior interior finish. On our larger yachts, there is both covered (bimini) and open areas for those who cannot decide whether they want sun or shade. Foul weather covers are provided should the sunshine be in its liquid form. Below decks are a full galley, seating and head (washroom).",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great morning sail",
+      "text": [
+        "Had an amazing morning on the water with Captain Rob and crew member Aiden! Everything was top notch. What could be better than the lake, sun, breeze, great music and even better company. Even got to see some air show rehearsals! Can’t wait to do it again soon!! Would highly recommend!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Three relaxed hours",
+      "text": [
+        "Our hosts were tremendous conversationalists and charted a route around the Bay that was both beautiful and informative. Service was attentive but not overly so, allowing to chill and settle in for the entire cruise.  It was a wonderful 3 hours. Well worth it and the highlight of our time in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "Toronto from the water!",
+      "text": [
+        "Boat was big and beautiful. Only my hubby and me on the boat with the captain and his helper. Spent a lovely 2 hours seeing Toronto from the water. Captain was professional and friendly. He can also do marriages and spread ashes with families. Recommend highly."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Family"
+    },
+    {
+      "title": "Excellent Sail",
+      "text": [
+        "I sail, usually crew for others, and yet my wife has never been on a sail boat, so I took the opportunity to share the experience with her.  The 2-hour sail was just the right amount of time to experience a gentle sail on Lake Ontario waters.  A 38' Beneteau  was perfect, with a competent captain, gentle winds, she and I had a great time.  A definite must do when in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Great sail with Howie!",
+      "text": [
+        "Our 2 hr sail with Howie was terrific. We were the only ones on board and we had a very relaxing sail. Learned a lot about the area and the islands. Howie and Liam (mate) were friendly and knowledgeable. We would go with them again if we are back in Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Wonderful evening on the water",
+      "text": [
+        "My boyfriend and I had a wonderful time on our Full Moon Sail around the harbor. Captain Howie and crew were extremely helpful and accommodating, providing us with drinks, snacks, comfy bean bag chairs, and even blankets when it got a bit chilly out on the water. We got incredible views of the Toronto skyline and a lovely time out on the lake!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "Great birthday experience! 10/10",
+      "text": [
+        "We chartered Anything Goes for a 3 he sunset sail around the Toronto island and it was wonderful. ",
+        "This was a birthday present for my dad's birthday - he loves sailing but has not piloted a boat of this size on a big body of water. With the help of Capt JC this was the perfect way to learn about sailing while still enjoying the experience. ",
+        "Could not say more good things about Capt JC, the planning and coordination was easy and we'll communicated, and the day was very special. ",
+        "Would recommend for both tourists and locals as a great way to see Toronto, do a unique activity, and have lots of fun."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Must do",
+      "text": [
+        "Capt Howie and her crew were just fantastic. Highly recommend Cap’t Howie. She was the best! A definite must do in Toronto. So peaceful and calming while learning about Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great, fun family experience",
+      "text": [
+        "We had such a great time on this sail.  The crew was fantastic, very knowledgeable and had great sailing stories.  We had a beautiful night.  I never wanted to get off the boat! My teenagers loved it!"
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Sailing ⛵️ Excursion",
+      "text": [
+        "Very good 2hr. Sailing ⛵️ excursion around the downtown Toronto harbor! The administrative procedures at the dock were very efficient.  "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing experience",
+      "text": [
+        "We gifted this trip for my husband on his birthday, he loved it, The boat was in great condition, very confortable.  Howie was so nice and welcoming, he explained everything, taught the kids how to sail and let them try it out. I was a very nice trip, I would highly recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021 • Family"
+    },
+    {
+      "title": "Proposal!!!!",
+      "text": [
+        "We had an amazing proposal done on the boat with an excellent view. The service was the best, with an amazing crew and captain. They helped with the planning of the surprise  proposal and it all worked out amazing. Howie the owner of the boats, Was great at helping to organize the whole event and going exactly with all our schedules. Would definitely recommend Gone Sailing Adventures to everyone!!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Great private charter experience",
+      "text": [
+        "I booked a private yatch to celebrate my husband’s bday and mine. Everything was great! Had a great time! Would do it again! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Great time with friends, even with rainy weather",
+      "text": [
+        "We had a great time thanks to our crew Tim and AJ! We were able to make the best of the sail even with not the best weather. We hope to be back one day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Lovely experience",
+      "text": [
+        "Celebrated a 65th birthday with a sail around Toronto harbour. Staff were skilled and attentive. Highly recommended "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2021"
+    },
+    {
+      "title": "Incredible Experience",
+      "text": [
+        "It was my first time trying sailing and this three hour intro lesson is a perfect opportunity to see if it's something you'd like to continue. The environment is indeed comfortable yet educational. Just enough theory and instruction on the land to enjoy the rest of the lesson on the water.",
+        "Nicolas is a great teacher and knows exactly how much information to give to enjoy the experience and not be overwhelmed. I am looking forward to continue my learning with Gone Sailing Adventures."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Best Crew: Nicholas & Angel",
+      "text": [
+        "Chartered a private sail for my husband's birthday and ran into a bit of trouble with the boat we originally rented - Gone Sailing Adventures quickly amended the situation and got us out on the water in another boat! The sail around Toronto islands itself was relaxing, fun, and picturesque. Special shout out to our crew and captain Angel and Nicholas - they went above and beyond to make us feel special and comfortable, couldn't have asked for a better day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2021"
+    },
+    {
+      "title": "Sailing Lessons: Great Instructor, Great Time!",
+      "text": [
+        "It was great to take on this new experience with Gone Sailing Adventures. ",
+        "The time on the water was challenging but rewarding and Howie was a great instructor. ",
+        "The views of the city from the harbour are spectacular as always and being on the water on a sunny weekend is the best way to enjoy the weather!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2021"
+    },
+    {
+      "title": "Sailing Lessons",
+      "text": [
+        "I had a great weekend learning to sail with Howie. He provided a very in depth class covering all aspects needed for a beginner learning to sail. Howie made the process fun and I would recommend this to anyone looking to safely operate a sailboat. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2021"
+    },
+    {
+      "title": "Yacht Wedding",
+      "text": [
+        "One for the books, Capt. Howie has been so accommodating and kept us updated, there were hiccups due to unforeseen events such as the weather but he has ever been so helpful, understanding and provided you with solutions. The overall experience was also great. We will definitely come back, of course not for wedding but luxury trip. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2021"
+    },
+    {
+      "title": "50th on board a yacht!",
+      "text": [
+        "Thank you Howie and team for an amazing afternoon.  You and your wonderful crew made my 50th birthday one to remember. My friends and family all had a wonderful time and loved the experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Turn your sailing dreams into reality!",
+      "text": [
+        "I was looking for a convenient and cost-effective way to reconnect with my love for sailing after many years away.  Gone Sailing Adventures was the PERFECT solution!  Over the course of 4 seasons I worked my way through the SailCanada curriculum taught by Captain Howie and his team, and worked my way up from the Catalina 275 Sport my first season to three seasons on the luxurious Dufour 380.  Gone Sailing Adventures was my one stop shop to make my sailing dreams a reality.  I loved the convenience of the marina being close to work and in the heart of the city.  It made weekday sunset sails with colleagues easy and fun.  And it was just as easy to take out friends on the weekend with the convenient access to Humber Bay and the Toronto Islands, and parking near the marina.  The boats were well maintained and always ready for \"step on\" sailing.  Captain Howie and his team are also available for private lessons, clinics, and special occasion charters.  I hired a \"captain for a day\" a few times to help me build skills or just help out with the sailing so I could enjoy more time with my guests.  This year my wife and I bought our own boat and look forward to cruising the Great Lakes and beyond.  Our dreams are coming true thanks to Gone Sailing Adventures!  Thank you Captain Howie and team for making it all possible!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Best of the Best",
+      "text": [
+        "A highly recommended place to be. In 2020, there was practically no sailclub in Toronto to provide any sailing activity due to the pandemic. Gonesailing managed to fill this gap. I took with them a small keelboat course with Captain Howie Colt. In 2021, they had a nice program for new sailors like me with no experience. This program helped me to develop my skills in the water. This was one of the nicest programs offered by Gonesailing out of many others. Not to mention that this program allowed you to Sail 4 times a week, therefore a total of 50+ sailing during the season. No club as far as I know offer this, not in Toronto, nor outside Toronto. About its cost, I cannot put it here as it was extremely cheap 😊.  Gonesailing is more than an education sailing club. They will make sure you sail as a pro in moderate to strong weather. I believe, I would have spent lots of time and money if I have to do it myself.  Today, I reach small keelboat sailor and thanks to Gonesailing team as well. Waiting impatiently next season to upgrade my skills from small boat to large boat. If you visit Gonesailing, dont forget to ask for Nicolas. He is always smiling. He will help you in all ways to make your venture memorable. Their location is just perfect. It is in core harbourfront, close to TTC and many hotspots to visit in Toronto which included CN Tower, ScotiaArena, Music Garden, and many more.Thank you Gonesailing."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "A unique and fun experience",
+      "text": [
+        "We booked the WhiRly Girl Sailboat for my friend's bachelorette and it was A BLAST! There were 9 of us and we fit comfortably at the front of the boat. They provided a wireless speaker and waterbottles. There were no shoes on board. It was fun exploring parts of Toronto I've never seen before and everyone enjoyed the views. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Escape the noisy, hot city",
+      "text": [
+        "This 3-hour sail-about on a 41ft bimini-equipped, well-maintained Beneteau is indulgent value - lit!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Professional and Breezy",
+      "text": [
+        "We booked a yacht sailboat for 12 and we had the most wonderful time on the water. Crew was friendly, professional, reliable, and safety focused. Would highly reccomend! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Best day in the City!",
+      "text": [
+        "We had a wonderful time sailing with Gone Sailing Adventures. We live in Toronto and had always wanted to try something like this, and it was well worth it! The staff were helpful and kind, all safety precautions were observed and being out on the water was like entering a new world! We had a wonderful 3 hour sail and will absolutely do it again! thanks!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Just Awesome",
+      "text": [
+        "So much fun, great captain, great ship",
+        "I learned a lot and Nikola made it really easy for me to feel confident in the boat",
+        "Was able to book on not too much notice, really happy with everything provided!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "A luxurious afternoon sail.",
+      "text": [
+        "We had the best time sailing around on the WhiRLygirl for the afternoon of my 40th birthday. I was quite panicked the morning of because the forecast was calling for rain, but Howie was confident it was going to be just fine. And he was right. Trust in Howie and your sail will be splendid. We celebrated with some champagne and charcuterie and just enjoyed the \"Amalfi coast vibes\" as my friend said. If you love getting out on the water, you need to try this with Gone Sailing Adventures."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Our Annual Adventure",
+      "text": [
+        "I’ve hosted this event for the past several years for my daughters and their husbands. It’s their birthday/holiday gift from me and they have asked me to do this again next year.  ",
+        "The weather was perfect and we had a relaxing sail around the shores of Toronto.  By the way I selected friends because that seemed to be the best choice on the drop down menu.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2021"
+    },
+    {
+      "title": "Magical!",
+      "text": [
+        "The crew was wildly over-qualified and regaled us with fantastic stories of sailing the world. They had blankets for my daughter when she got cold and made my motion-sick mom comfortable in the back of the boat where it's less bumpy. ",
+        "Definitely follow all the instructions they give you in the emails leading up to your trip. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "Excellent sailing experience",
+      "text": [
+        "The shared sailing experience was excellent. The captain and crew member were very accommodating and knowledgeable about the cruise and surrounding Toronto waterfront area. Friendly staff, on sail drink options, and a safe environment made for elevated experience with the Gone Sailing Adventures Luxury Yacht Charters company.  Looking forward to enjoying another sail soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Meets all expectations",
+      "text": [
+        "Exactly what I hoped! Lovely boat, well fitted and friendly crew. Small group makes it easy to mix if desired or just enjoy the view and the breeze."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing Sail",
+      "text": [
+        "The captain and his first mate were wonderfully attentive, informative and professional. We felt very well taken care of an enjoyed a lovely evening watching the sunset, sailing in the wind and observing the skyline."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Excellent wonderful experience. I enjoy Niagara Falls.",
+      "text": [
+        "Beautiful thing that experience I enjoy my boat, ride and experience of the Niagara Falls I will definitely come back again."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Gone Sailing Adventures",
+      "text": [
+        "Amazing day. The weather was beautiful & staff (Nicolas & Camila) were very attentive & knowledgeable. We enjoyed the experience very much."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Only way to  learn and sail at the same time in Toronto efficiently",
+      "text": [
+        "Once again, this will be my 3rd season with Gone Sailing Adventures and my second year with Crew Member Club which I highly recommend. There is no better way to practice what you study. The Crew Member offered by Gone Sailing Adventures is the best and the cheapest in entire Toronto. Nice spot, nice boats and best Captain this year. JC was our captain for this summer season 2022, he is very experimented, friendly, patient and much more. You will learn on every sailing with him and you will practice as much as needed.  I hope to see him next year and Gone Sailing Adventures for other sailing adventures. For sure, thanks to Captain Howie to make all this happen every year."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Wonderful Sunset Cruise",
+      "text": [
+        "Wonderful Sunset cruise!   Super comfortable seating, lots of great info on Toronto and the surrounding areas, and overall awesome trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022"
+    },
+    {
+      "title": "Fantastic Trip on the Decompression",
+      "text": [
+        "Had a fantastic trip on the Decompression. It was a wonderful experience, Howie (the captain) and Chrissy really took care of us. The 3 hour sailing ride took us down a lovely path around the Harbourfront and Toronto Island area.",
+        "We'd ordered a charcuterie board which was more than enough for the 10 of us.",
+        "Cannot recommend this experience enough!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    },
+    {
+      "title": "Celebration of Birthday's",
+      "text": [
+        "Todd and Chrissie were wonderful, Chrissie was very attentive with the food and beverages, while Todd attended to the steering and Spencer's, one of the 10 year old's on board, million questions.  Our cruise was absolutely perfect because of the attention to detail by these two.  The swim in the middle of the lake was amazing.  Thanks for making our special day as special as we have hoped for and more."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022"
+    }
+  ]
+}

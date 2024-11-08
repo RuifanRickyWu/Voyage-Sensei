@@ -1,0 +1,368 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Osgoode Hall",
+    "url": "/Attraction_Review-g155019-d186825-Reviews-Osgoode_Hall-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "130 Queen St W ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "ON M5H 2N5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 70
+    },
+    "openingHours": "Mo-Fr 09:00-17:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/da/34/b0/osgoode-hall-in-summer.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Historic Sites",
+    "Architectural Buildings",
+    "Historical & Heritage Tours",
+    "Libraries",
+    "Literary, Art & Music Tours"
+  ],
+  "description": "Visit our website to learn about free summer tours of Osgoode Hall. A National Historic Site of Canada, Osgoode Hall has been delighting visitors since it first opened in 1832. As the current home of the Court of Appeal for Ontario, the Superior Court of Justice and the Law Society of Ontario, it is a hub of legal activity in downtown Toronto and the heart of Ontario’s legal heritage. The grounds sit on six acres in the core of downtown Toronto, bordered by mature trees, lush gardens and the famous iron palisade. Comprised of several buildings constructed over time, Osgoode Hall is a mix of late Georgian, Palladian and Neoclassical influences and is one of the few remaining examples of mid-19th century Ontario institutional landscapes. There are many ways to learn about Osgoode Hall, home of the Law Society of Ontario, the Court of Appeal for Ontario and the Superior Court of Justice.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "EVEN CONSTRUCTION DOES NOT TAKE AWAY FROM ITS IMPOSING EXTERIOR",
+      "text": [
+        "The Law Society of Ontario and the Court of Appeal of Ontario are based in this Victorian Classical structure. There are security measures to enter but it is worth the effort to see some of the grand interior spaces."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2024 • Solo"
+    },
+    {
+      "title": "Civic buildings ",
+      "text": [
+        "This is one of a number of historic buildings in the civic area of the city. The hall has a very nice park and a number of statues surrounded the hall"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2024 • Solo"
+    },
+    {
+      "title": "Very attractive space",
+      "text": [
+        "Years have passed since I last visited Osgoode Hall and its Great Library, but a reception hosted by the Osgoode Society for Legal History took me there yesterday evening. The space is indeed very attractive, dominated by the chandeliers and the portraits of juridical worthies. Well worth a visit!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "nice park",
+      "text": [
+        "After a few hours of walking through Toront we found a place in the park to relax and lie in the sun for a while. I didn't know that the Hall was open for public, but the park was enough for us. :-)"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019"
+    },
+    {
+      "title": "Beautiful Building",
+      "text": [
+        "Osgoode Hall is a classic 2 1/2 story late Palladian style structure built in 1829-32 and named for the 1st chief justice of Upper Canada. It is currently the home of the Law Society of Ontario. This Canadian national historic site was enlarged in 1844,1855,1880 and 1891 and it's great library houses the largest private collection of legal material in Canada. This 6 acre site is located in the heart of Toronto and is surrounded by a cast iron fence built in 1867. It was closed the day we visited and we would like to come back to see the inside of this regal property."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "An English Country House in Toronto",
+      "text": [
+        "Osgoode reminded me of a stately home in England. The building is now used for the court services. It is free to enter and photos can be taken, but without a flash in the library. A valuable insight into Toronto's past."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Beautiful building ",
+      "text": [
+        "Stumbled across this en route to city hall area in Toronto. The architecture is stunning. So many beautiful buildings in Toronto and it's all such a clean city."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Good historic visit - and it’s free!! ",
+      "text": [
+        "I was staying at the Sheraton so it’s just across the road from Osgoode Hall. Before arriving here, I tried to find out if public entry to the Hall was possible - that wasn’t easy to find. So I went thru the Gates into the park - nice shaded area - and walked up to the front door. ",
+        "Yes - it’s fully open to the public. Security was very helpful, giving directions. Inside it’s a working court as well as a law library. It’s not set up for tourists but everyone I spoke to (not the lawyers of course - or their clients) was very friendly and helpful. Don’t miss the restaurant or the library - very historic. ",
+        "Enjoyable way to spend up to an hour - and it doesn’t cost a penny. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2018 • Solo"
+    },
+    {
+      "title": " Beautiful park",
+      "text": [
+        "Our walking tour finished just outside the hall, and the park is amazing being leafy and shady on a hot day with squirrels wandering around on the grass.",
+        "The Hall is grand and imposing and when you look through the ironwork that boarders the Hall and park it does look stately.",
+        "Do not miss the library inside and it’s free to enter.",
+        "Lovely"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Nice place to be",
+      "text": [
+        "This is a nice place to be,  a erfect combination between a historical buildings and nature. The library is a must see."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Old and still in fashion",
+      "text": [
+        "Beautiful old building and a great front lawn to take photos of if you are getting married.",
+        "You don't need to be a lawyer to get inside. Easy access by subway and parking at City Hall is most likely the cheapest option is you drive. The gates do get closed in the evenings so it's a daytime look see."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2013 • Solo"
+    },
+    {
+      "title": "Beautiful building",
+      "text": [
+        "during my visit to Toronto, the city was doing a weekend promotion that allowed me to enter the Osgoode Hall free of charge and self-tour.  the building is beautiful, both inside and outside.  I loved the rotunda and old dining hall.  the library was also gorgeous.  I would love to visit when the dining hall is actually open during the weekday so i could eat there."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2013 • Solo"
+    },
+    {
+      "title": "A hidden Gem in the city",
+      "text": [
+        "Has rich history and worth a visit to Osgood Hall at the corner of Queen Street and University Avenue. "
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "In the legal swing of things",
+      "text": [
+        "Open Doors Toronto is a delight not just for the price (it's free) but also for access. For this event Osgoode is manned by law students and other volunteers sporting T shirts which mimic courtroom guard. Beautiful blend of history and architecture in a purpose built facility. Watch out for the Victorian windows on the south face."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2013 • Solo"
+    },
+    {
+      "title": "Nice!",
+      "text": [
+        "Here is Soooo nice place! Awesome :) a good weather, a good view, good people are there. Above all, a pink tree i didnt know that's name anyway the pink tree is most beautiful thing i have ever seen."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Beautiful old building with beautiful grounds",
+      "text": [
+        "Osgoode Hall is a beautiful old building that houses appeals courts and the Law Society of Upper Canada. If you love 19th century architecture then it might be worth a visit, but it is a working court building so there is only so much you can see. The grounds are one of the nicer spots in downtown Toronto, and in the summer there are a lot of wedding photos taken here. And that is about it."
+      ],
+      "rate": 3.0,
+      "tripDate": null
+    },
+    {
+      "title": "Great old building - worth seeing the architecture",
+      "text": [
+        "Osgoode is a classicly consttucted building with amazing detailed mouldings and ceilings and has the feel of an old time courthouse.  Well worth the visit when you can get a tour, or even better when court is in session.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2012"
+    },
+    {
+      "title": "Eat the Butter Tarts",
+      "text": [
+        "you need a reservation, unless you have been in Court that day or the staff knows you.  But worth the reservation - great staff, great prices for very good food, best butter tart in town."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2012"
+    },
+    {
+      "title": "Building & Grounds are Beautiful.",
+      "text": [
+        "A neo-classical designed building adjacent to the New City Hall.  I haven't been inside but the grounds & architecture are beautiful."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2012"
+    },
+    {
+      "title": "Hidden Gem",
+      "text": [
+        "This is where lawyers eat when they are at trial.  The room has almost a medieval feel to it.  Those who love Rumpole of the Bailey re-runs would love the atmosphere.  The room is one of the most historic in Toronto. The food is excellent these days and the service is always prompt.",
+        "Not for a date, unless you are dating a lawyer or woul-be lawyer, but if you are looking for a place with atmosphere, very good food and reasonable prices, it is a hidden gem."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2012"
+    },
+    {
+      "title": "A Working Landmark",
+      "text": [
+        "Because this is the seat of the Ontario Court of Appeal and the Law Society of Upper Canada and Bar Admission Course this is not an ideal place for tourists. That said our Courts in Canada are public and yes there is Security Screening first. The Building however IS a notworthy Toronto Landmark and has a lot of tradition and history with it. If you have the opportunity you will see pictures inside of Osgoode Hall of the building in the Country with a view to the lake. The grounds are elegant and after you twist through the gates on Queen you can speculate as to why they were uilt that way. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2017 • Family"
+    },
+    {
+      "title": "Exceptional Historic Courthouse",
+      "text": [
+        "On Queen Street West between the city hall and university avenue you will see a tree shaded compound enclosed by a cast iron fence. The fence is an early design that does not permit access to the area by farm animals of different sizes which would have been a problem in the early 19th Century when this courthouse complex was built.",
+        "Inside the fence you see a large stone building with two flanking brick wings. One of the brick wings was built in the 1820s while the stone centre building was added in the 1830s and is now the entrance to the building. The last brick wing was added in the 1840s to balance off the facade. The brick wings are in the neo-classical style with large pillared porticoes while the central main building is in the British Neo-Palladian style. Inside is a large pillared two story main hall with tiles floors and a stained glass ceiling. There are old paintings and heavy Victorian chairs and many doors leading to the elegant courtrooms. Up a grand staircase and on the second floor is one of the finest rooms in Ontario. This is the large and ornately decorated law library. It is surprisingly elegant and must have been quite a place in 19th Century Toronto. This courthouse is well worth a visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016 • Solo"
+    },
+    {
+      "title": "First day in Toronto ",
+      "text": [
+        "We visited after reading about it in a guide book. The whole building was beautiful, especially the library. It could do with better signage though at the front door."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2016"
+    },
+    {
+      "title": "Incredible history!",
+      "text": [
+        "Went here today for a tour after lunch. I was blown away by the history and architecture of this place. I had walked by it on the sidewalk numerous times years ago and never realized what a treasure lay beyond the fence!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "Beautiful Hall ",
+      "text": [
+        "We went here with my sister, she lived in Mississauga and said it was a well kept secret. The three course lunch menu is amazing value, it's open to the public mom to fri, and it's really for the law fraternity but available to everyone. Best to book. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Friends"
+    },
+    {
+      "title": "Victorian architecture at the heart of Toronto",
+      "text": [
+        "A nice place for the public to enjoy Victorian architecture. The Court of Appeal courtrooms are in this building. The Law Society of Upper Canada owned part of this building. In summer, there are organized tours for the Osgoode Hall"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2016 • Business"
+    },
+    {
+      "title": "Visit Ontario's History",
+      "text": [
+        "When York was small (before it was Toronto), in the early 1800's the legal community decided to locate it's governing boady (the Law Society of Upper Canada) her. Since that time the building has been added to and it's functions augmented. Yet it still remains the head office for the Law Society of Upper Canada. Every summer the staff of the Law Society volunteer to run lunchtime tours of this beautiful building and tell you of its rich history - not just legal history but the political, cultural and military history of Ontario. You'll see the monuments to the members of the legal community who lost their lives in the two world wards. You'll see the current Court of Appeal for Ontario. You will see the Great Library, the first law school for Ontario (which is now the setting for a fantastic restaurant at lunchtime - not in the summer) and you'll see where the Benchers (the elected governing body of the lawyers and paralegals in Ontario). The tour is great and it's free. The building is beautiful and its stories intriging. There is a substantial display near the male barristers' robing room about the history of the gates surrounding the gardens and lawn of Osgoode Hall. Great tour."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2015 • Family"
+    },
+    {
+      "title": "Beautiful building, well maintained",
+      "text": [
+        "We stopped in to see Osgoode Hall on our way to some other sights because it is so centrally located. When you enter, you will have to go through a security check like at an airport (not a big deal though). The security guard gave us a friendly greeting and a brochure about the building and we explored for about 30 minutes. The Reading Room is very formal with a very tall ceiling decorated with plaster ornaments. The central lobby has a statue of a young woman with a baby beneath a stained glass ceiling. The halls and staircases are decorated with portraits of famous judges and lawyers (all men from what we saw). They have an exhibit about the wrought iron (or is it cast iron) fence that surrounds the building."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jun 2015 • Couples"
+    },
+    {
+      "title": "Pretty, well-maintained",
+      "text": [
+        "The requisite metal detector is always a bit of a hassle, but the halls, courtrooms, and library are very well maintained with the old-school raised trim/carved embellishment patterns on the walls/pillars, awesome fresco-type paintings on the ceilings, etc. ... It's also the HQ of the Law Society of Upper Canada. Great experience if you want to sit in on any hearings or trials too!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2013 • Solo"
+    },
+    {
+      "title": "One of my favorite places in Toronto",
+      "text": [
+        "Growing up in downtown Toronto, I used to pass by the beautiful building and its grounds. I never stepped inside thinking I was not permitted. Recently I became a lawyer and finally went in the building, including the magnificent library and the gorgeous courtrooms. I also volunteered with Doors Open and provided information to visitors which itself was a wonderful experience because I was able to learn much more about the building`s history as well as share knowledge about it and the law in general with visitors.",
+        " I would definitely recommend a visit to Osgoode Hall, particularly during Doors Open. If you do go during Doors Open, give yourself time to explore and show up early as it seems to be a popular destination."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2013 • Solo"
+    },
+    {
+      "title": "Doors Open, self-guided tour, signages everywhere",
+      "text": [
+        "We were here during Doors Open Toronto and I must say this was the most organized self-guided tour we have ever done. There was no excuse to get lost or miss a room because visitors were provided with a 2-page detailed handout at the entrance, there were attendants at every room and the walls were peppered with directional signages/arrows which were impossible to miss. Personally, I think the signs were excessive but, hey, they have been doing Doors Open for years and the signs were obviously effective.",
+        "First stop was the ROTUNDA/ATRIUM, to see the tile flooring, the World War II Memorial and skylight. At all three 19th c. COURTROOMS, visitors could have their pics taken in legal robes. The 3-tiered seating was explained to us—senior lawyers at the front, other lawyers next and students at the back. We particularly liked the American room in the GREAT LIBRARY, with its old-school vibe, centuries-old hardbound books, creaky wooden floors and spiral staircase, in total contrast to the big and bright main reading room which was mostly cordoned off with ugly “Caution Do Not Enter” yellow tape. Here visitors have no choice but to walk down the corridor, stop briefly at the World War I Memorial at the end and proceed to the next suite of rooms, BENCHER’S QUARTERS. ",
+        "The Bencher’s reception room is a sitting room with vintage armchairs and framed portraits of former Treasurers (or Presidents) of the Law Society of Ontario. At the Convocation room, we were told that the Treasurer’s chair at the head of the table is an original, circa 1860’s. The CONVOCATION HALL, which was the last stop inside the building, is a large handsome hall with chandeliers, a 4-sided hanging clock, torch light sconces and stained glass windows. During Doors Open, sandwiches and drinks were on sale here, as well as souvenir t-shirts. ",
+        "On our way out of Osgoode Hall, I overheard some people complaining about the narrow opening at the glass partition near the entrance, and I agree, it was a squeeze getting through it, with people entering and exiting at the same time. The FRONT/facade seemed to be a favourite for wedding entourage photos because earlier there were 2 wedding parties posing for pics on either side. The unusual gates on the iron FENCE got a second look from us before we finally left the premises."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "The library!",
+      "text": [
+        "You can walk fast through the building, but don't miss the library, it's amazing! Really as it looks in the pictures!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "Interesting Old Court House in the Middle of Toronto",
+      "text": [
+        "The Osgoode Hall Court House is an interesting complex of interconnected buildings located at Queen and University. Housing the Court of Appeal and Law Society of Ontario (formerly the Law Society of Upper Canada) it has a number of spectacular old court rooms, portraits of old leaders of the Upper Canadian legal profession and a spectacular library."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018"
+    },
+    {
+      "title": "Old Toronto meets New Style Club",
+      "text": [
+        "Many people do not realize that you do not have to be a lawyer to get into the Osgood Hall restaurant. It's a great experience for everyone. The Restaurant is spacious and during the day serves as a study hall. This is Old World elegance. Service is impeccable and personal. The staff really enjoys working here. The food is good, contemporary and local. The Chef's team puts a lot of effort into this - I have seen them in the mornings having team meetings and discussing sourcing local produce. The food is simple, elegant and well plated."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2018 • Business"
+    },
+    {
+      "title": "Beautiful setting and incredibly good value ",
+      "text": [
+        "I have eaten at Osgoode Hall a few times. You can book on Open Table but it is still one of Toronto’s best kept secrets. The restaurant is housed in Osgoode Hall, home of the law society of Upper Canada and boasts a high ceilinged dining hall complete with legal texts lining the walls and wood paneling. ",
+        "The menu changes each day and the highlight is the prix fixe menu for 25 which includes a starter, entree and dessert.  Wines are also very reasonably priced by the glass or bottle. ",
+        "Book ahead to avoid disappointment and be aware you will have to go through a security check point as you enter the building since it also houses the law courts- leave the huge handbags etc at home !",
+        "Highly recommended. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2017 • Friends"
+    },
+    {
+      "title": "Osgoode Hall",
+      "text": [
+        "Conveniently located in the center of the city, this beautiful building is surrounded by the equally beautiful park/garden. Nicely maintained, it offers a quiet and peaceful spot for those who seek it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Family"
+    },
+    {
+      "title": "Temple of Law and Civilization",
+      "text": [
+        "Many is the time I've stepped off Queen St at lunchtime to enjoy the garden and oasis of calm in the centre of the city. Friends have worked here and tell me there are tours. It has a terrific city and I think is one of the great centres of jurisprudence in the world. No small thing that."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "Beautiful old library ",
+      "text": [
+        "If you are a book nerd, I highly recommend you go see the Osgoode Hall library. It is really beautiful and free. The building itself is also worth seeing. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2017 • Couples"
+    },
+    {
+      "title": "Beautiful History",
+      "text": [
+        "It's open to the public this summer for Canada 150, so my friends and I went in to have a look. It's beautiful inside! Just stunning. The history of the place is wonderful. The Library is a must see!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Friends"
+    },
+    {
+      "title": "A piece of history!",
+      "text": [
+        "Great meals at a reasonable price.  Always a pleasure eating in this very grand restaurant.  Growing up in Toronto my father would take us to lunch in this historic courthouse.  Wonderful memories!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2017 • Friends"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Bay Street",
+    "url": "/Attraction_Review-g155019-d184777-Reviews-Bay_Street-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Front St. to Davenport Road",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 62
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/82/2f/17/bay-street.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Points of Interest & Landmarks"
+  ],
+  "description": "Downtown street known as the heart of the financial district.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Clean and nice",
+      "text": [
+        "This street goes through the financial district of Toronto. Therefore, you get to see the real people in Toronto, commuting, working, living their daily life. The street is relatively safe and clean compared to other streets too."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Clean and safe",
+      "text": [
+        "This street is safe and clean and full of business people- not many tourists. It’s really a core financial district route. I travel it often!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2023 • Business"
+    },
+    {
+      "title": "Nice street",
+      "text": [
+        "This is a much better Street to walk on than young street. There is still plenty of shops and places to eat on it. It’s also just one street over from young street. You feel much safer on this street and it’s nice and clear too. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Not very touristy",
+      "text": [
+        "The part of the street between Front St and Queen St is the financial heart of the city. The large banks have their head offices near this street in this area along with brokerage houses. etc. The most interesting building on the street is the Design Exchange Building at 234 Bay. This lovely old Art Deco building was the home of the Toronto Stock Exchange until 1983. Beyond Queen Street (marked by the old Toronto City Hall), the street just becomes another urban street. Stay with the Front to Queen area and check out the Design Exchange."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "classy",
+      "text": [
+        "clean and classy is how I'd describe it, lots of shops and restaurants, a better street to walk on than Younge....runs parallel to it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018"
+    },
+    {
+      "title": "OK",
+      "text": [
+        "Well there wasn't a great deal to see as a tourist here save for the relatively modern / contemporary high rise buildings et al - we passed this was en route to getting the Megabus to NF for the day but we weren't sufficiently enticed by what we saw to feel the need to return."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "The street",
+      "text": [
+        "Busy street in the heart of the financial  district.",
+        " Great to shop and walk by the lake. Some ficilities where you can relax, have a nice meal, listen to live music or dance.  "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2017"
+    },
+    {
+      "title": "Normal way",
+      "text": [
+        "Was just a normal Street in the bay",
+        "Most of interesting things are inside the city.",
+        "Nice for walk during the day and night",
+        "Full of Starbucks"
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2017 • Business"
+    },
+    {
+      "title": "Nice",
+      "text": [
+        "The area is Nice , lost to look at . Lost of activities for adults and children . Restaurants , bars . To take pictures of . A must in my mind we have been Walking around The centre of Toronto and there is so much beutiful sightseeing to See . Love IT . Love The city . But a week here is enough When you have come from Norway .",
+        "Rita "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2017 • Family"
+    },
+    {
+      "title": "Bay Street",
+      "text": [
+        "Nothing much here for Tourists as it is a business districts with a lot of corporate buildings as well as some statues. The area will take you to popular tourists spots such as Rogers Centre and the CN Tower are you can explore the under ground PATH."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2016 • Family"
+    },
+    {
+      "title": "shopping and walking",
+      "text": [
+        "Lots of shops, lots of walking, cafeterias, breakfast"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2012 • Couples"
+    },
+    {
+      "title": "Big guns all around",
+      "text": [
+        "CIBC Bank, Bank of Montreal, ScotiaBank, Toronto-Dominion Bank, KPMG, Deloitte, Toronto Stock Exchange, you name it, they're all there.",
+        "The best way to drown in a sea of money is to get out of King Subway Station at Commerce Court, smack in the middle of it. On ground level, it's the junction of King and Bay.",
+        "You're allowed to take pictures of the elephants, the fountain, and the tops of the skyscrapers at Commerce Court. No pictures of building entrances, a polite security officer whispers. Oh.",
+        "If it rains, and even if it doesn't, duck underground into Toronto's PATH network, and enjoy an inside view of those financial institutions and food courts and all."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2012 • Friends"
+    },
+    {
+      "title": "Offices that's all",
+      "text": [
+        "It's a wind tunnel at best, nothing here but the legal offices, no stores or restaurants at all."
+      ],
+      "rate": 1.0,
+      "tripDate": null
+    },
+    {
+      "title": "Shop until you drop!",
+      "text": [
+        "A mix of low-end casual stores like H&M, middle class boutiques like Zara and high-end fashion (and prices) at Holt Renfrew, Chanel and accessories' stores like Aldo are just a few of the things awaiting shoppers on Bay St. Go (window) shop or just admire the beautiful scenery and people."
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Financial Head of Canada",
+      "text": [
+        "Bay St. is the main financial street in Canada, running from Old City Hall to the Lakeshore. Mostly big banks at street level and above, most of the shops are underground, where a thriving mall area is located called the Path."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "fancy street",
+      "text": [
+        "its a fashion street ..with a lot of brand stores and expensive restaurant..check out the place called panorama,,the view is the best in the city"
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2011"
+    },
+    {
+      "title": "Canada's Wall Street",
+      "text": [
+        "all skycrapers, nice condos. It is the best street you can live on in downtown Toronto!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2011 • Family"
+    },
+    {
+      "title": "Yet another street",
+      "text": [
+        "Although at the beginning I was fascinated when I looked at he high towers when I started my stroll in Bay steet, I came to conclude it is yet another street in Toronto. This happens to me every time I am in Toronto and walk through it. It is not as busy and vibrant as Yonge."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2015 • Friends"
+    },
+    {
+      "title": "Bay Street",
+      "text": [
+        "This is one of the main cross city streets in Toronto. An alternative to the main bustling streets (e.g.: Yonge), it is mainly more of business & less of commercial buildings."
+      ],
+      "rate": 3.0,
+      "tripDate": "May 2015 • Solo"
+    },
+    {
+      "title": "Not a reason for taking the subway. Something about this city for me to learn. Worth your time to explore. I liked it.",
+      "text": [
+        "I have walked the length of Bay Street from Front Street and northward to Bloor and beyond for exercise. I would recommend it to you for the same reason just to get another view of Toronto. Bay Street closer to Bloor is of greater interest to me. I did find the Manulife Center and went in for a visit. I did find on three occasions the audio store at Bay and Bloor and went inside to see how overpriced the merchandise is. I believe that there is a Chapters bookstore near by and I did visit it for a long rest one afternoon. By knowing the extent of Bay northward to Bloor I was able to discover many places of great interest to me. Finding alternative routes to those same places was pleasing and rewarding to me as well because I travel on foot as a geographer here. Bay Street helped me more than I thought it might just because I knew where it was in relation to other places. I have fond memories of walking along St. Mary's Street and St. Joseph's Street and the area between Yonge and Bay going in the direction of St. Michael's College and its library and the university to the west. Wellesley and Charles Street area also did deserve my attention so I have walked in that area once or twice on my way to Bay and westward to Queens Park. I know that this is the high rent district and I could not readily find an affordable place to live here. This is where approximately my admiration for Bay Street ends if it were not for my discovery of the subway station complex.  That is a different story worth telling anybody who will listen. I have yet to recover fully from using the subway and understanding how the metro system works inToronto. That was perhaps my greatest discovery and biggest lesson. We do not have anything like this where I live. The almost total dizziness I experienced to view and understand the operations of the underground at Bloor and Yonge was repeated when I got to the subway station complex at Bay and Bloor. I had never experienced or seen - with two or three levels of underground lines - such a complex operation at either place. I knew what I had missed studying in school. Waiting for my subway was an adventure during rush hour as I let several crowded trains go by before boarding one with fewer passengers. It took me a long time to know where to go to catch the train that I wanted to take for reaching my destination. I had some fun making mistakes in traveling on the subway - mistakes that I did correct. Like the signs leading people to the correct trains. I have not come from a city with an underground subway so I when I saw the large underground station on two or more levels and their construction complexity at Bay Street I knew that I was in a different place for travel adventure especially having to take moments of reflection to understand what is happening at Bloor and Yonge. I am not coming here to shop as I am not a shopping fanatic at any time of the year. The underground shops around Bay Street Metro stations deserve your attention if only to walk by and browse on your way the subway underground. For the reasons just mentioned the areas around Bloor and Bay and a little farther south do hold my interest especially the two library-like buildings which I visited twice. Yes, I will agree to a limit that your estimate of Toronto as a place to make your vacation here a most memorable visit should not depend on you having walked along Bay Street south of Grosvenor or College in large measure because there is so much here that can be found in many other large cities of this same physical dimension. This conclusion applies more to the area south of Grosvenor. I found parts of Bay Street south of College to be boring and not very attractive. Yes it is convenient to walk along this street to avoid Yonge and other busy streets, but I did not see much to make me want to take pictures and speak favorably about this street to friends back home. More cultural vitality can be found elsewhere in this city. Some parts have little to see to make it a memorable place as a tourist attraction in my opinion. Maybe the planning was not on target for getting more of interest to be found along this street but tall buildings in a crowded area do not make it a place to discuss reasons to visit Toronto. At times I found it boring to walk by the tall buildings not knowing or caring what was inside. I have never driven a car in this area and I think that I would be afraid to under take such an endeavor for safety alone. Now you might understand why a trip in the underground or subway does seem to have its advantages. I have always preferred to travel by the underground or use the subway if I did not want to see what was above ground. Pan-handling people can be found here in larger numbers than what you had suspected perhaps. There is one advantage for taking the subway and then later walking the same  distance above ground. You can estimate how strong your endurance is for undertaking such a walk and how accurate hour estimate of distances is between subway stops. Now for people from far away places with little knowledge of large cities of this nature maybe Bay Street south of Grosvenor and College might be an attraction that I did not find to make me want to write a letter back home. I walked by the tall buildings as I browsed the stores in the underground shopping areas. Too many tall building made me want to explore the Needle tower for another adventure like nothing I had experienced in the past.  I will concede that walking near Union Station and near by streets as crowded as they were was another chance for me to understand how the Canadian transportation system works in bringing many pieces together for the benefit of people. Walking inside Union Station is worth your time for this reason alone just to see how the subway links together with railway train systems. In this regard Toronto is like a city designed by the Swiss for efficiency.  Wellington, King, Richmond and Queen streets were places I wanted to see.  Since I had walked along Bay Street I did see them and got some benefit from seeing them once or twice. Benefits to be gained were abundant. But I do not have to return here for another visit for anything extra. Sky scrapers are almost everywhere here. Things for me to learn were abundant. I like to test my knowledge of the city streets by taking alternative routes to get to different places and my experience in walking along Bay Street did give me that advantage as I was able to find places just because I had walked along Bay. Knowing how to get to the Commensal Restaurant or Nathan Phillips Square by knowing where Bay Street took me was most helpful. Do not dismiss Bay Street  as being totally useless for gaining accurate travel information. Whether or not there is a lot less going on along Bay Street I will leave that up to you. Whether it has much to see as a tourist attraction I have different responses to that question. Depending where you are - north or south of Grosvenor - to a large degree will also depend on what you came to see in Toronto. Sky scrapers are for me are like visiting Disney land. Like wise the subway system and connections with other forms of transportation. Certain problems found in many cities closer to my home can be found here  Was Toronto a safer city to visit because of the rules for safety in effect?  In some respects seeing the sky scrapers and subway connections in down-town Toronto near Wellington, King and Queen Streets and farther south was worth my time. I would not dismiss the value of getting to know Toronto just because some parts of Bay might not be totally pleasing to the eye. I was able to find many places like the German Goethe Center and downtown buildings like churches just because I had walked along Bay. Go there!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2014 • Solo"
+    },
+    {
+      "title": "Not the best thing to see",
+      "text": [
+        "As a Toronto native, I don't think Bay Street is great to see. It's pretty boring and just a bunch of buildings. You can get a few nice little restaurants, but other than that it's not really worth seeing."
+      ],
+      "rate": 2.0,
+      "tripDate": "May 2013 • Solo"
+    },
+    {
+      "title": "you can find this street in every country",
+      "text": [
+        "It's almost copy/paste of Chicago, Montreal, Philadelphia. You can find this street everywhere you visit a province."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2013"
+    },
+    {
+      "title": "Not for tourists, Bay Street is sleepy....",
+      "text": [
+        "Bay Street is really a nothing to see for a tourist attraction.  Bay St is good to traverse when you want to avoid the hustle and bustle of Yonge St or University Ave.  There is a lot less going on Bay St.  It is a bit of dead zone, especially after the corporate suits have gone home.  Using Union Station and the Air Canada Centre as a base for Bay St., it acts as a launching pad for where to start your Toronto city adventure.  You head east, you have Yonge St and the life Yonge/Dundas Square and the Eaton Centre, you head west, you have the CN Tower, Chinatown, Little Italy.  Bay Street only helps to get north to south (more so after the construction of Union Station will be complete) through the heart of downtown.  Other than acting as a marker, there is no need to see Bay Street."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2013 • Solo"
+    },
+    {
+      "title": "business area",
+      "text": [
+        "corporate area for sure.  Safe neighbourhood, not much going on there after working hours. Housing is very expensive in this area."
+      ],
+      "rate": 4.0,
+      "tripDate": null
+    },
+    {
+      "title": "Not a tourist site",
+      "text": [
+        "This is a basic downtown business area. No shops, no attractions, no interest. Handy if you work there but not much to see."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2012"
+    },
+    {
+      "title": "Nice downtown street",
+      "text": [
+        "Nice downtown street flanked by many new and recently built condos. Further downtown there are hotels, office buildings on Bay St.  Centre for finance in Toronto"
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2012"
+    },
+    {
+      "title": "The financial captial",
+      "text": [
+        "It's where I am daily. Tall buildings. Access to banks and retail centres. Lots of diners and stores. On the subway line. Union Station is the hub. It's Toronto's Financial Capital."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2012"
+    },
+    {
+      "title": "Downtown",
+      "text": [
+        "Bay street is the financial district with all the bank like CIBC Commerce Court at King and Bay, BMO, TD.  Also all the brokerage houses. ",
+        "There is also an underground concourse with shopping that runs under this area starting with Union Station at Front Street.",
+        "Many of the very tall buildings are interesting each one has tried to stand out from the very crowded skyline.   A walk looking up."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Couples"
+    },
+    {
+      "title": "Beneath the Canyons of High Buildings",
+      "text": [
+        "Bay street is one of Torontos prwmier landscapes looking North to Old City Hall. Great postcard view. But tall buildings can be inspiring if you leave Bay Street and explore courtyards where you just may see Elephants or a herd of Cows. But exlore beneath the Bay Street Towers and explore the PATH. Torontos really hidden urban gem."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016 • Business"
+    },
+    {
+      "title": "Worth seeing south of City Hall",
+      "text": [
+        "I've never really thought of Bay Street as an attraction, but I suppose the stretch south of Queen is noteworthy for the bank towers. Between Queen and Bloor it's a bit more dead (mostly condos and apartments), although the intersection at Bloor is vibrant."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2016"
+    },
+    {
+      "title": "The wall street of Canada",
+      "text": [
+        "This is the financial capital of Canada so if you are in the mood to see the stiff collared shirts with ties and business suites this is the place to be."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2015"
+    },
+    {
+      "title": "Bubble Republic on Bay",
+      "text": [
+        "My coworker and I were drawn in by the free samples offered outside the store. He tried the mango green tea and had to immediately buy a large lol - good marketing! I however thought it was too sweet so stayed away. The two guys behind the counter were really nice."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2016 • Friends"
+    },
+    {
+      "title": "Nice big city street to get the vibe of the city going",
+      "text": [
+        "Nice big city street to get the vibe of the city going",
+        "The financial district street is an impressive street to walk by, and nice elephant statue (sort of like the wall stree bull)-feel the vibe of the biz"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Friends"
+    },
+    {
+      "title": "The Wall St. of Canada",
+      "text": [
+        "Very busy financial district in the hear of Toronto. Numerous bank towers, City Hall, hotels, restaurants, courts & bordering on China Town extending down to lake Ontario. Beautiful new buildings combined with older heritage sites. Access to shopping centers is excellent."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2016 • Couples"
+    },
+    {
+      "title": "Lots to see",
+      "text": [
+        "Walked along Bay today right from Union Station all the way up to Bloor. A lot to see along the way. Lots of people walking. Great food options. "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Couples"
+    },
+    {
+      "title": "Great street to see the city",
+      "text": [
+        "I don't think it's better than Yonge Street, but it's another street that you should probably drive or walk in Toronto. Lots of things to see, from the waterfront right to the tallest of buildings."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2016 • Solo"
+    },
+    {
+      "title": "City Tour",
+      "text": [
+        "By standing here you can watch the towers touching the sky and get some beautiful pictures to click around."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2015 • Couples"
+    }
+  ]
+}

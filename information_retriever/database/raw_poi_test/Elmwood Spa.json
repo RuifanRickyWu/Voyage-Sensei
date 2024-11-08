@@ -1,0 +1,383 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Elmwood Spa",
+    "url": "/Attraction_Review-g155019-d186830-Reviews-Elmwood_Spa-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "18 Elm Street ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5G 1G7"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 760
+    },
+    "openingHours": [
+      "Mo-Th 08:30-19:00",
+      "Fr 08:30-21:00",
+      "Sa 08:30-20:00",
+      "Su 09:30-18:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/9d/b9/e7/welcome-to-elmwood-spa.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": "Canada's favourite urban oasis, located in the heart of downtown Toronto. With four floors of treatment and renewal options, retreat packages, couples retreats, Water Therapies (swimming pool, whirlpool and steam), two restaurants and a juice bar, Elmwood Spa offers more than any other day spa in Toronto.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Carol - Extremely Helpful Reservations Agent",
+      "text": [
+        "I am writing to comment on the fabulous agent who helped with my reservation. I used to be a regular at the Elmwood, but since then, the treatments and terminology have changed. I had read the online descriptions, but they are a little generalized. Carol took me through the contents of each body treatment and facial, and put together a package that sounds wonderful. It will be an important birthday for me, and with her assistance, I'm sure it will be more memorable. Thank you Carol for taking the time!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2024 • Solo"
+    },
+    {
+      "title": "Serenity",
+      "text": [
+        "Booked as a couples massage, this was truly a treat from start to finish.",
+        "We arrived at 9:30 am and were promptly greeted. After filling in the required forms we were directed to the second floor for the locker rooms. ",
+        "Upon entering the locker room you are provided with long robe and rubber flip flops. ",
+        "The ladies locker room is well appointed with a hot tub, sauna, showers, as well as cool lemon water. After a shower to remove hair products and lotions, we went to the third floor for water therapy.  Here there is enforced a whisper policy which was very nice - kept the serenity. Water therapy included a pool, hot tub (which unfortunately, the jets were not working) and Turkish sauna. Again cooling lemon water is provided, but bar service is also available if desired (at additional cost).",
+        "After an hour of water therapy, it was time for our hot stone massage.  My therapist was Yu, my husband’s was Robert. What a wonderful experience. We were asked if there were any special concerns they needed to know about before starting and Yu checked on how I felt throughout the 80 minute massage. ",
+        "After the massage we had lunch (still in our robes!) on the 4th floor - you choose to dine inside or on the porch.  The three course lunch was delicious! My appetizer was chicken and shrimp skewers, my main course was pesto shrimp and pasta. Dessert was salted caramel cheesecake. Absolutely delicious!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Couples"
+    },
+    {
+      "title": "Can’t wait to return!",
+      "text": [
+        "Excellent place to go for a “me day” experience. Wonderful treatments and services, I enjoyed the Tastes of the World Head to Toe Reviver!! Plus I enjoyed a wonderful lunch."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Lovely Oasis with Fantastic Staff",
+      "text": [
+        "After a stressful few months, I booked a day at Elmwood.  I had an hour deep tissue massage, a shellac pedicure and a body wrap.   All of the treatments were wonderful - especially the massage with Frank.  I wish I'd booked 90 minutes!  The lunch was also very good.  ",
+        "The only downside are the 'water services,' which are in serious need of upgrading.  Everything else gets 5 stars from me!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Nice first spa experience",
+      "text": [
+        "First time at this famous spa , of any spa. The check in experience was welcoming . Very clean  three level facility . I went for a fire and ice pedicure , which truly helped my swollen legs . The tech was warm and welcoming . I would say this place is very nice . But for a tranquil",
+        "Oasis , I would have expected more in terms of noise level . I wass in the manicure pedicure area , I felt like i shouldn’t have to hear the conversations and laughter of the manicurists . And I think tranquil spa like music could have been  played to add to the ambience .  Otherwise , I don’t really have a comparison to what a spa should be like , since it’s my first one ."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2023 • Solo"
+    },
+    {
+      "title": "Not a spa-like experience ",
+      "text": [
+        "For an upscale spa in Toronto, I was very disappointed with my experience. The pool area was loud and crowded, the hot tub was at capacity for the majority of my time in the pool area and there were no available chairs. As well, the locker room was busy, there was a long line up for check-in and the elevators were packed. It was not the relaxing experience I expected. When I told the receptionist about my experience, her response was \"yeah, it's really busy today. You should come back on a Tuesday.\" Very disappointed. "
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2023 • Solo"
+    },
+    {
+      "title": "Horrible experience.",
+      "text": [
+        "This has, by far, been my worst experience.  I was running late (my fault), there was lots of traffic getting into the city. I got there and got a 20-minute massage  (I am surprised they were not willing to work with me and offer an alternative) because I was late and charged the total price of $211.31; now, had they given me a choice, I would have left, which would have been cheaper than wasting my time with that massage.  Afterward, they put you in the locker where you can get water therapy; at this point, I did not want to waste my time with the facial; everything seemed pointless and useless, so I left.  I would not recommend this place."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "Don't go on the weekend",
+      "text": [
+        "Went to celebrate a 70th with 5 friends. The package deal was good with lunch and services. Our service was a little inconsistent from provider to provider which was disappointing. The entry pool was very busy and not spa like at all."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2022 • Friends"
+    },
+    {
+      "title": "Wonderful birthday @ Elmwood Spa!",
+      "text": [
+        "Beautiful clean facilities. Swedish massage facial and lunch were all excellent. Staff are friendly and well trained. Very relaxing day. Will definitely be returning."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "A local gem in the heart of Toronto. ",
+      "text": [
+        "Very relaxed atmosphere and always excellent services.  I gave been to many spas over the years but The Elmwood is my go to spa at home and still my favourite.  Beautiful building and history too.  Highly recommend if you want something not too ostentatious but highly professional and relaxing. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Couples"
+    },
+    {
+      "title": "Wonderful relaxation",
+      "text": [
+        "We had a wonderful afternoon enjoying massages and facials. Very well staffed and all were gracious and welcoming. Very clean and we felt totally safe with all the covid protocols."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021 • Family"
+    },
+    {
+      "title": "Mini get away with my husband ",
+      "text": [
+        "My husband and I had an amazing day at the elmwood! From start to finish we loved everything. The massage and facial were top notch! Nina and Jinny did my services and I would definitely be back because of them. I haven’t been here in a few years since I moved away so it was so nice to return to a place that I remember! Lunch was to die for and Jeremy was very attentive. Thanks again for a very relaxing day and a long over due get away with my husband! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021"
+    },
+    {
+      "title": "Experience Review",
+      "text": [
+        "Loved everything about the experience the massage,  facial, water therapy and staff! I love the Elmwood spa"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021 • Friends"
+    },
+    {
+      "title": "Perfect place to celebrate a milestone!",
+      "text": [
+        "We came to the Elmwood to celebrate my daughter’s 21st birthday. The service and experience from beginning to end were outstanding. A great place to unwind, relax and celebrate."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2021 • Family"
+    },
+    {
+      "title": "Relaxing evening",
+      "text": [
+        "Great experience! The staff is experienced and knowledgeable. They took great care of us. Only negative was that there is no one making sure that people wear there mask at all time (hydrotherapy)."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Friends"
+    },
+    {
+      "title": "Highly recommend Elmwood Spa!",
+      "text": [
+        "Highly recommend! Went for a service at the spa and staff were incredibly welcoming, friendly & professional. Treatment was high quality service."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Family"
+    },
+    {
+      "title": "My secret",
+      "text": [
+        "Ultimate relaxation. You quickly forget that you're in the heart of the city. The service is top-notch. The facilities are pristine. Easily spend the whole day here!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021 • Friends"
+    },
+    {
+      "title": "Ahhhhhhh..... Amazing spa experience",
+      "text": [
+        "From booking the reservation with Carol to the quintessential Taste of the World spa experience with Sandra M, to the scrumptious meal on the Terrace, Elmwood Spa exceeded my expectations!!!",
+        "Everyone was very excited about the Taste of the World package. It started off with a body scrub, then hot/cold shell massage, followed by one of the best facials with an algae peel. One hundred and ten minutes of bliss. Thank you again Sandra M!",
+        "Lots of staff available to help checking in and out, in change rooms, waiting areas, etc. Those I connect with were happy to make the experience positive and memorable. ",
+        "In terms of self care, this is a must do."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2021"
+    },
+    {
+      "title": "Amazing!!",
+      "text": [
+        "Elmwood spa is my absolute favorite spa in Toronto!!",
+        "The services are amazing and the beautiful pool and restaurant.",
+        "Try it. You will love Elmwood!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020 • Friends"
+    },
+    {
+      "title": "Great pedicure in the heart of downtown Toronto",
+      "text": [
+        "The spa is nice and clean, the staff was attentive and everyone was very friendly. The pedicure was great, we really enjoyed the hot stone leg massage.  It is a little pricey as pedicures go, but definitely a nice treat."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2020"
+    },
+    {
+      "title": "Lovely Setting but I still hurt.",
+      "text": [
+        "Beautiful setting and I was looking forward to a relaxing day with a friend.  I have had massage therapy on a regular basis by a number of practitioners for over 20 years.  This was like a bonus massage in my schedule…. Except  3 days later I still hurt…. Enough to take Advil.  The massage was very deep and the therapist incorporated some uncomfortable arm stretches. Afterwards, thanks to the warm soothing pools I didn’t really feel bad until the next morning my neck felt puffy and bruised and my shoulder started to ache.  I get the impression that the therapists are on assembly line type of schedule…. Every 60 minutes a new stranger and they seem to have a regimental routine, not checking on patient comfort.   Overall, it was probably the most rough massage I have ever had.  If you have a high pain tolerance, beware.  On a positive note the water pools are wonderful…. They bumped the rating up one level.  Also, before writing this review, I emailed the spa but there has been no response.  I will not be returning as there are other options where I have had a more pleasant experience."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jul 2022 • Friends"
+    },
+    {
+      "title": "Spa Day in Toronto!",
+      "text": [
+        "It was my first time attending and a completely last minute decision! I called in the morning and was given an appointment for that same afternoon! I got to experience the whirlpool room and steam room, with an amazing massage for the perfect mental health day break in the city. Would totally do it again!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Solo"
+    },
+    {
+      "title": "Blissful Escape from busy life",
+      "text": [
+        "Visited with a friend after Covid. Elmwood is an Oasis in the centre of a buzzing busy metropolitan for blissful escape with a pampering massage and water therapy experience… ahhhh.  Do miss the complimentary hot tea servicing the guests with 6 different blends of fragrant teas.  But the staff service was excellent going out of their ways to help solve the smallest issues."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2022 • Friends"
+    },
+    {
+      "title": "Great gift!",
+      "text": [
+        "I was in for a visit for a day spa package. I had an amazing experience, as always. The water therapy were also great. Sadly people did not keep their tone down in the spa which made relaxation more difficult in the water therapy section."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "telephone, email or the site are all unresp0nsive",
+      "text": [
+        "How does anyone get hold of a person at this place?",
+        "Whether one phone, or emails, or texed, no one picks up!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Very Poor behaviour and rudeness from Staff",
+      "text": [
+        "Used to come here often as I live in the area but just had the worst service.  Booked a service on line and then paid in advance.  Received an email confirmation from Elmwood the next day and they had a link to their COVID protcols.  When I clicked on the link it was saying everything from the restaurant to the spa water therapies was closed.  So I called to cancel as I was planning a fun girls afternoon with my friend and I did not want to spend that much  money on just a facial.  Found out on the phone that the website info was not correct and that everything was opened but had to book the time which i did and then my friend as well.",
+        "Got there checked in with the woman guarding the water therapies area and then we left for a bit and ordered a drink from the juice bar and then asked if we could drink it upstairs in that area (since there is seating there).  They said they would bring it up to us.  Woman who checked us in just 30 minutes or so earlier then behaved rudely to us like we were criminals trying to break in...then claimed that we already had our time for the water therapies and that we have to check in every time.  I asked her if I should sit outside on their front step in my robe since I have 30 minutes until my facial.  She then claimed she could make an exception but that we needed to understand that we can't just go in there.  My friend and I were embarrased and angry and how disrespectful she was to paying customers who were just trying to enjoy the drink they were PAYING for after paying 200 dollars for a facial.  So disgusted by her behaviour so asked to speak to the manager.",
+        "Manager comes with an attitude does not introduce himself or tell us his name.  I try to explain that since the booking we have had a difficult experience (with incorrect COVID info and now rude staff), but he became fixated on the water therapies booking issue and the COVID rules that he claimed were up to date and then proceeded to ask us to show him proof but my friend pointed out that she is in a robe and her phone is in the locker.  I was so taken aback that he was not listening to what the real issue was (which was the way she treated us as we understand that there are rules but since I have not  been there since before COVID how would I know).  That I became angry that this guy's only objective was to tell us we were wrong.  I left for my facial and when I checkout out it  became clear that the staff at the front desk had been told that I was angry and the limited time I had in the water therapies (which again was not the issue) and then fixated on wanting to show me that their website is up to date and that I am wrong.  But now I had my phone so I showed her the email confirmation I received from THEM three days prior and she read it (twice checking the date as if I am lying), and then I clicked on the link to show her that it says every therapy is closed and that you  need to wear masks etc.  She also had to read that twice (even asking if she could take my phone from me to read it), and then she could not deny that i was RIGHT and that it was not up to date and that the only reason I found out about the therapies being opened was because I CALLED the next day.  ITs not my responsibility to navigate their site its theirs to be informing their clients properly.  I am attaching screen shots from this to prove my point..",
+        "The sadder part was their was no real apology and just claiming that she was new and did not know about the other lounges we could sit in for our drink.  I asked for the managers name and the general manager and she did not give it to me.  No responsibility was taken for their wrong information and for trying to claim that I was wrong when I was right.  And no acknowledgement that the issue was how she treated us when Elmwood spa should be grateful for any business they get.  Especially since their spa has not been updated in years and their services are average - not bad but no cutting edge.  I will never go here again and wish I had never told my friend to join me since it was so bad.  Go to Body Blitz instead."
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Spa Day Toronto",
+      "text": [
+        "Great service and wonderful lunch at Elmwood.  ",
+        "Facilities are well maintained and staff are long time employees that are excellent!  Will definitely return!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2022 • Friends"
+    },
+    {
+      "title": "Would recommend a body treatment",
+      "text": [
+        "It was my birthday present from my daughter, but due to the restriction I had to cancel water treatment services. Overall it was good experience, it was my first time in this SPA. My first treatment was body scrub and massage. I came to the 3rd floor, but girl at the reception told me to go to the 2nd floor to the change room and leave my cloths in a locker. I came to the change room but receptionist there  sent me back saying that I will do it in the room. It's a winter time and I had to carry my coat and boots in my hands, I don't understand why she didn't allowed me to keep in the locker, I had pedicure after that. The body scrub and massage were fabulous! I had a bit of disappointment with the pedicure. The aesthetician was very nice, but the job she's done seems like a little unprofessional. My feet have not been actually cleaned properly, nails shaped unevenly and nails polish coating done awful. It was surprising as this place supposed have good professionals in the basic services too. Their massage therapy is great and the staff is very nice, but this left me a bit disappointed."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2022"
+    },
+    {
+      "title": "Disappointing customer service",
+      "text": [
+        "Booked a December spa day for my wife in October and prepaid for it. Night before our treatments got a call from Elmwood saying they had to cancel one of our treatments due to an employee travelling outside the country and now quarantining. Understood the rough circumstances and told them to cancel mine, making sure my wife still got the full experience. Woman on phone then offered me multiple substitutes only to announce they were all fully booked, something she should have checked before calling. Ultimately she said my treatment was definitely cancelled but they’d figure something out when we came the next morning. ",
+        "Arrived the next morning and nothing was said about cancelled treatment, not even a refund until I brought it up, let alone a substitute. We were separated and rushed off to our first treatments where the aesthetician was incredibly rude to my wife. The only reason this review isn’t a 1 is because of how excellent my massage was. ",
+        "After my massage, my masseuse recommended asking desk on third floor if there was any availability in pool/whirlpool/steam room. I did, they my told me to go to second floor. Second floor told me to to to front desk. Felt like I was just being passed off and shuffled along. ",
+        "Rather than end up in lobby I decided to use steam room in locker room during what should have been a facial. My wife still had several treatments left in her day, usually accompanied by a large family party of 12 and several other couples (she asked why I was the only one who’d been cancelled when there were so many parties but nobody would tell her anything). After I left the steam room to head home, 3 employees (hall way attendant, juice bar, desk beside elevator) all told me I had to check out with front desk before leaving the building so I made sure to do that and get my refund. ",
+        "2 hours later when my wife was waiting for her pedicure to dry, the aesthetician recommended she wait at the juice bar. They refused to serve her any drinks since our bill had already been closed when I checked out, as I was repeatedly instructed to do. The staff were rude to her, not offering any alternatives, just told she wasn’t allowed anything from juice bar except tap water. Will never be returning to elmwood spa, despite the wonderful massage, due to the terrible customer service."
+      ],
+      "rate": 2.0,
+      "tripDate": "Dec 2021 • Friends"
+    },
+    {
+      "title": "Enjoyable time!",
+      "text": [
+        "My initial interaction with Elmwood Spa was shaky when I was trying to book during the time they were having technical issues with their phone system. However,  eventually I was able to get through and book. I am very happy that I did as I had a wonderful time!  ",
+        "It was my first time there and booked the birthday bliss spa package. Perhaps it's because I went on a Thursday but I did not feel it was  crowded, I was able to enjoy the water therapies alone and all protocols were followed.  ",
+        "Alba and Monica did a great job on the body scrub/massage and mini facial, respectively. Food was good; not a huge selection but it was fine for lunch. Customer service was good but it would have been nice if I was told about complimentary coat check upon check-in (told by staff after I stuffed my coat in the small locker). 2nd floor customer service provided me with two lockers since the lockers were small and couldn't hold everything I had.",
+        "Overall, it was a great experience and relaxing time. It is pricey but I would return again for a special occasion."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021"
+    },
+    {
+      "title": "Couples Gift",
+      "text": [
+        "I made reservations for my sister in law and brother for a couples retreat as a gift, they were so happy of their experience and they told me that the staff were so nice and accommodating to them till the end of their appointment and services!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Couples"
+    },
+    {
+      "title": "Always love to visit!",
+      "text": [
+        "Amazing front desk and hair stylist!  I usually go for massage facials and lunches, but hair is a welcome addition! As well I look forward to next visit for any beauty treatment! And lunch and pool time! "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Solo"
+    },
+    {
+      "title": "Unimpressed",
+      "text": [
+        "I can't speak to the spa experience as I never got there. Multiple attempts to book a day spa by phone (from a city other than Toronto) as a gift and lengthly waits on hold followed by someone saying they were too busy to book me and would call back, but never did.",
+        "Hope their in-person service is better than that!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2023"
+    },
+    {
+      "title": "Consistently one of the top spas in Toronto",
+      "text": [
+        "All our services were exceptional.",
+        "We had facials, relaxing massage and hot stone. ",
+        "Hot stone was a bit underwhelming- not sure if it was a chair or cart being moved around the room but it sounded like a hospital cart and was extremely noisy for a massage room. ",
+        "Facials were excellent."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2023 • Couples"
+    },
+    {
+      "title": "Best Spa in Toronto",
+      "text": [
+        "Best spa experience in the City!! Can't say enough good things about service and amenities. The RMT's are incredible, staff are very friendly, and the amenities are to die for. The restaurant is delicious as well. Overall a very relaxing and lovely day!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2023"
+    },
+    {
+      "title": "Relaxing Day at the Spa",
+      "text": [
+        "Such a great day!  We enjoyed the steam room, hot tub and pool before our relaxing facials.  Will definitely go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Friends"
+    },
+    {
+      "title": "Good spa, bad food",
+      "text": [
+        "The spa itself is great; the restaurant is terrible. Not worth the premium cost. Burger was over cooked, bun was stale, spinach wilted and they straight up forgot the onion/bacon jam. Even the fries were over cooked somehow. Wouldn’t recommend"
+      ],
+      "rate": 2.0,
+      "tripDate": "Nov 2022 • Couples"
+    },
+    {
+      "title": "A truly enjoyable day at the spa",
+      "text": [
+        "I have been to this spa many times and have always walked away very happy. Obviously, prices have gone up everywhere, but Elmwood Spa's rates did not go up as much as St. Anne's (almost double now for the day spa). Honestly, I would not have booked my friends and I in unless I had heard about the 40th anniversary promotion of a complimentary lunch.  I have had their lunches on my birthday, also free of charge and I just love them.  I will say, they should include a cold or hot beverage to this offer just to make it complete. It goes a long way to offer even a coffee free of charge. Overall, my friends and I had a fabulous time.  I really enjoy the water therapies, the comfy robe, the slippers, the teas, cucumber water, etc.  My massage was excellent.  All the tension in my shoulders was gone.  Checking out took a while.  Only one attendant with 4 of us checking out. I will definitely return because it is a peaceful and relaxing environment, tucked away in the middle of the city.  Being in the city too, makes it easy to get to. We drove, but public transit is just fine especially when you can do a little shopping at the Eaton's centre or along Yonge St after this awesome day at the spa!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022"
+    },
+    {
+      "title": "Fantastic",
+      "text": [
+        "It was a joy to be back at the spa after an absence of 2 years and I have no regrets!",
+        "The reception was heart warming and staff friendly as usual."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2022 • Solo"
+    },
+    {
+      "title": "Swedish massage = heaven!",
+      "text": [
+        "The Swedish massage was amazing! I like a firm pressure and I got exactly what I asked for. Staff really friendly too"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2022 • Couples"
+    }
+  ]
+}

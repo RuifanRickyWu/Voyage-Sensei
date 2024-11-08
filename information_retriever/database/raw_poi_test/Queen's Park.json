@@ -1,0 +1,356 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Queen's Park",
+    "url": "/Attraction_Review-g155019-d185106-Reviews-Queen_s_Park-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Cres E ",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M7A 1A2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.0",
+      "reviewCount": 262
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/4d/6d/f4/queen-s-park.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Architectural Buildings",
+    "Parks",
+    "Government Buildings"
+  ],
+  "description": "Ontario's provincial parliament buildings, fine examples of high Victorian architecture.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Area of statues ",
+      "text": [
+        "Great place to walk and see all the statues surrounding the hall. Really impressed with the statues of queen victoria and Elizabeth. Numerous statues of historical Canadian figures in the park "
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2024 • Solo"
+    },
+    {
+      "title": "Fun for a Brit",
+      "text": [
+        "Split into two, divided by a road, this is a fun area of Toronto with statues for Kings and Queens in the parks.",
+        "Notably Queen Victoria and Queen Elizabeth II statues with plaques.",
+        "Fun to explore if visiting.",
+        "Fun Fact: QV never actually visited Canada ever!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2024 • Couples"
+    },
+    {
+      "title": "Peaceful",
+      "text": [
+        "A great place to walk. The park is close to the University of Toronto, so my visit to the park was combined with that of the university. There were a few local people enjoying morning walk while I was there. Peaceful."
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2022"
+    },
+    {
+      "title": "Lovely park",
+      "text": [
+        "Lovely tree lined park in front of legislative building. Lots of statues & war memorials including one to Operation yellow ribbon after 9/11 and the recent Afghan conflict. Worth a visit"
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2022 • Couples"
+    },
+    {
+      "title": "Get cultured in arboreal comfort",
+      "text": [
+        "This is a grand Provincial Legislature on a lovely piece of urban parkland. The trees are plentiful, the grounds are well kept. There are the usual statuaries of noble politicians and guys on horses, my favourite however is of a poet; Mr.Al Purdy. If I were in charge I'd renew some bench seating and add some more picnic benches. I didn't spot a fountain, that would be nice. The building has tours still, I took one as a school kid. check before your visit if the streets are closed for festivals which, post Covid, are starting to return. Parking is nearby, there's more to see nearby (ROM, Art Gallery). Come by transit, it's easy and cheap."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2022"
+    },
+    {
+      "title": "Nice park to walk through",
+      "text": [
+        "I walked through Queen's Park during my visit to Toronto.  It was a nice park with some monuments.  Next time I will try to explore it more."
+      ],
+      "rate": 4.0,
+      "tripDate": "Apr 2022"
+    },
+    {
+      "title": "Small city park",
+      "text": [
+        "Nice, clean and small city park in the middle of downtown Toronto. A few people were having a picnic, others were reading, walking running bikes or jogging. It's located between the Legislative Assembly of Ontario and the Royal Ontario Museum. Good to have a nice stroll through a park."
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2021 • Family"
+    },
+    {
+      "title": "Little green oasis",
+      "text": [
+        "If you have an hour to take a walk, then you should take a walk here in the shade and see the surrounding buildings."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019"
+    },
+    {
+      "title": "Best Green Space near U Toronto",
+      "text": [
+        "Toronto has a waterfront with many small parks, but this is the largest to be found in the city.  Sad to see people skate boarding on the center statue, but at least it's a green space with park benches and borders Univ. of Toronto"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "VERY SCENIC",
+      "text": [
+        "Stunningly beautiful area with lots of natural beauty and a peaceful landscape. Lots of regeneration work currently going on. Many wonderful iconic buildings close by."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "This is located in the university district.",
+      "text": [
+        "The architecture is brilliant, lovely park with beautiful trees and gardens. An oasis of peace in a busy City"
+      ],
+      "rate": 4.0,
+      "tripDate": "Dec 2017 • Couples"
+    },
+    {
+      "title": "Beautiful",
+      "text": [
+        "Nice place to have a good walk. You can take a look at the parliament in the same area as well. Worth the visit."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Family"
+    },
+    {
+      "title": "Small but nice",
+      "text": [
+        "Queen's Park isn't too big, but it's a pleasant, shady space to walk through or have lunch. There are benches, some fairly brazen squirrels (keep an eye on your food), lots of students, a couple of statues, and labels identifying some of the trees. There are a surprising number of paths and it's well lit after dark, which is great because it's handy to cut through. While I wouldn't go out of my way to spend time here, it's worth a visit if you're in the area."
+      ],
+      "rate": 3.0,
+      "tripDate": "Oct 2017 • Solo"
+    },
+    {
+      "title": "Ok a bit surprised",
+      "text": [
+        "There has been some effort to create an educational park as well as one to simply walk across. Imagine my surprise to find a labled Kentucky Coffee Tree in the park. A leaf collectors fall paradise."
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2017 • Solo"
+    },
+    {
+      "title": "Nice Park",
+      "text": [
+        "This is a beautiful Park to walk through to get to University Street. We had a nice walk on a very nice day of site seeing."
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2017 • Family"
+    },
+    {
+      "title": "Aesthetic Park",
+      "text": [
+        "This is a garden with a difference in the heart of Toronto. The park is well layout with various plants, the landscape is beautiful. As a planner, I really appreciate the nature to a highest degree in this particular place. Queen’s Park is beautiful "
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2017 • Friends"
+    },
+    {
+      "title": "Lovely Green Space in Heart Of Toronto",
+      "text": [
+        "The Park is a lovely Green  park in  heart of Toronto.We went for a stroll in it on our way back from Royal Ontario Museum.It is not a park meant for playing . So no plagrou nds and Picnic Tables. But we could many having a Stroll and enjoying the beautiful day.. You can spend couple of hours relaxing and enjoying nature."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "heaven during the fall season!!!",
+      "text": [
+        "watch the leaves turn into a symphony of color at queen's park and you'll be making a memory you'll never forget!!! enjoy"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2017 • Friends"
+    },
+    {
+      "title": "Interesting and simple tour of the Parliament Building ",
+      "text": [
+        "A 20/30mins tour of the building by a down to earth and informative guide. Learnt a little bit more about the history, geography and political landscape of Canada as well as the architecture of the building. Kept the whole family interested. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2017 • Family"
+    },
+    {
+      "title": "Green, Trees, running, places to sit.",
+      "text": [
+        "A lovely green space in the heart of Toronto.  Lots of walkers, runners, people with pets and students reading.  This is not a park that has playgrounds or exercise gear for the adult players.  There are no picnic tables or the like.  There are benches and well kept grassy spots to sit.  The trees are absolutely beautiful.  They have them identified by species for those interested.  We enjoyed the walk through this park on our way to the Royal Ontario museum."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2017 • Family"
+    },
+    {
+      "title": "City park with an identity crises",
+      "text": [
+        "As anyone from Toronto knows, \"Queen's Park\" is both a \"park\" and the informal name for the Ontario legislature, which is located on the south end.  This park is surrounded by major roads as University Ave runs both south and north of it (turning into Avenue Road) and is circled by Queen's Park Crescent East (road going north one-way) and Queen's Park Crescent West (going south one-way).  The northern portion of this middling size urban park has an extensive tree canopy formed by a large selection of different non-native trees and is criss-crossed by paths that U of T students use to get to and from classes and dorms.  The Wikipedia entry will give you a history of the site and a run-down of all the statues.  I particularly like the statue of the poet Al Purdy - he sits delightfully slouched-in marked contrast to rigid posture of Queen Victoria, George Brown and Sir John A. MacDonald.   It is a short distance south from Bloor Street, the Royal Ontario Museum and surrounded by the U of T.  The legislative building is a rather impressive neo-Gothic pile, the front of which has seen many demonstrations (including a few that I have been too;)  The view from the front steps down University Avenue is quite impressive.  I am sure it makes the Members of the Legislature feel very important."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Complete waste of time!",
+      "text": [
+        "Don't bother going to this park, it's pretty awful. We'd walked all day and went out of our way to go here, it was just a mess. So disappointing. Avoid!"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Family roadtrip",
+      "text": [
+        "The park is nice, but it is currently under construction so it put a hindrance on our family's photo scavenger hunt."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "Pleasant park",
+      "text": [
+        "A place to go, to walk through or to ride a bike. Relaxing ambience. When I came for a walk, there was people meditating in a ioga class. Really beautiful place to stay for a while and recover some energy."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "great spot for a picnic lunch",
+      "text": [
+        "It's a good spot for a 'brown bag' lunch on one of the park benches.       Lots of old trees and feel safe."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Friends"
+    },
+    {
+      "title": "What a disaster ",
+      "text": [
+        "We walked down to see the legislative building and walk around the grounds, it’s just a large field of dandelions. Don’t waste your time here. "
+      ],
+      "rate": 1.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "Nice for a walk",
+      "text": [
+        "If you are in the area, Queen's Park is worth a visit. In the summer months it is a great place to escape the hot sun, but it is beautiful to see all year round. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Feb 2018 • Couples"
+    },
+    {
+      "title": "Site of the provincial legislature",
+      "text": [
+        "Before the legislative building, it was the site of a lunatic asylum. Plus ça change, plus c'est la même chose. ",
+        "When the legislature is in sitting, it is possible to get in and listen to question period, when questions are put to ministers of the government, part of the parliamentary process."
+      ],
+      "rate": 3.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "Nice little park, especially during events",
+      "text": [
+        "Quiet peaceful park in the heart of downtown toronto.",
+        "This place is especially poppin in may for their yearly cannabis festivities ;)"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2017 • Friends"
+    },
+    {
+      "title": "Great park....walk all around",
+      "text": [
+        "A great place to a quiet stroll in downtown Toronto. You can book a free tour of the Legislature building or watch the Ontario government live in action."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018 • Family"
+    },
+    {
+      "title": "Picnic among the Oaks",
+      "text": [
+        "Toronto is a city of squirrels and this is where they come from. Great park that students or working people usually make use of during breaks."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Couples"
+    },
+    {
+      "title": "A park for protesters.",
+      "text": [
+        "A grassy field with some trees. The place of many protests trying to get the attention of provincial politicans. Skip this place."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Beautiful and spacious!!",
+      "text": [
+        "A beautiful garden, lush old trees, a lovely setting, and glorious heritage buildings. Quite a sight to see. Stroll along the paths, sit and enjoy nature in the heart of the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "Great in the summer months",
+      "text": [
+        "Queen's park was about a 20min walk from my old building. It was a great place to read underneath the tree's in the shade. I also use to jog through this park every morning, so it become a part of my daily routine. ",
+        "Although it's not one of TO's best parks, it's quiet, local place to chill out if you're looking for some downtime."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2018 • Solo"
+    },
+    {
+      "title": "Rather limited at the moment",
+      "text": [
+        "Much of the park is currently cordoned off so that pedestrians do not walk on the grass. It looks like it will be gorgeous when everything is re-opened, but we were disappointed with our visit."
+      ],
+      "rate": 3.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "Worst of its kind",
+      "text": [
+        "Very very disappointing experience. Worst in Canada (we've done 6 legislature tours now). The tour guide treated our group like we were all 8 years old, skipped over many interesting artifacts and exhibits, and was entirely uninteresting . Looked like one of the larger legislatures in Canada but wouldn't know it. We saw about 20% of the building and the guide was too busy showing us cartoons for children on her iPad."
+      ],
+      "rate": 1.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Toronto's garden",
+      "text": [
+        "This is a beautiful, serene place to sit and meditate for awhile. It is a small grarden that reminds me of the Garden of Eden in the Bible. It is beautiful and alluring. I walk everyday and I love to just take a break whenever I pass Queen's Park. You will enjoy this park. There are birds and squirrels in this park. You have to see it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Solo"
+    },
+    {
+      "title": "Neat park",
+      "text": [
+        "In a very busy area of Toronto is this lovely calm Queen's park, with a marvellous statue of Queen Victoria and some very well maintained gardens, also a spectacular world war memorial, well worth a visit."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Nice Urban Park",
+      "text": [
+        "This is the park that surrounds the Ontario Legislature buildings. It is immediately in front of the parliament buildings as well as on the east side of University Avenue (where the memorial to fallen firemen is found). The park is surrounded by government office towers which are all interconnected by underground tunnels. The park is easily accessed from the Queens Park subway stop on the University Line. Nothing special, just a nice urban green spot."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Nice architecture around ",
+      "text": [
+        "Usually walk through here for work. It’s a nice and usually pretty quiet park. Lots of students during the school year. Nice architecture by campus as well. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2018"
+    }
+  ]
+}

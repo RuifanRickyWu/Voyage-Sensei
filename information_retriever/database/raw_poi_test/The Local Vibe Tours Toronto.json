@@ -1,0 +1,366 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Local Vibe Tours Toronto",
+    "url": "/Attraction_Review-g155019-d13444650-Reviews-The_Local_Vibe_Tours_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 48
+    },
+    "openingHours": "Mo-Su 00:00-23:59",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/b4/3a/ee/carnitas-arepas-topped.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Bar, Club & Pub Tours",
+    "Cultural Tours",
+    "Beer Tastings & Tours",
+    "Private Tours",
+    "Food Tours"
+  ],
+  "description": "Our tours aim to help you get off of the beaten path in one of the world's most diverse cities! We'll guide you through some of the most dynamic and interesting neighbourhoods in Toronto as we eat, drink, explore and learn! A great time for both visitors and locals!",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Danny is a great guide",
+      "text": [
+        "Danny is a great guide...knows how the food was made, the history of the country it came from and the history of immigrants from those countries in Scarborough"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2020"
+    },
+    {
+      "title": "Fantastic Off the Beaten Path Food Tour",
+      "text": [
+        "Our family and adult children spent the afternoon with Danny yesterday doing a Scarborogh Food Tour. We were looking for something different as we live in central toronto and wanted to have a food experience that was not curated only for tourists. This Tour fit the bill perfectly. Danny is a great culture and food ambassadoror for Scarborough. He curated the tasting Tour to lull us into a warm savoury  taste hug . We visited multiple venues by car and were supplied with water and detailed information about the cultures and businesses. There were a lot of pleasant surprises along the way. It is amazing to experience the hospitality of the small business owners. We even went back to one of the spots today to pick up more of the amazing food we sampled yesterday. It was the perfect holiday outing that we will will be able to come back to over and over again. What a great day. Thank you Danny!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Amazing and delicious tour!",
+      "text": [
+        "Danny's tour is unique, delicious, and educational. My partner and I live in the West End of Toronto and do not visit the East End of Toronto very often. ",
+        "Danny is very professional and provides a wonderful overview of a wide arrange of ethnic cuisines, from Tanzanian barbecue to Lebanese pastries to Trinidadian Doubles. ",
+        "Highly recommend this tour for an educational and delicious experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Best of Scarborough Food Tour",
+      "text": [
+        "Had a great tour experience with Danny.  Very friendly, informative and accommodating host.  Danny drove us to restaurants we would have never found on our own and we got to sample foods that we never had before.  Each restaurant visited was unique and offered some very tasty samples.  We highly recommend Danny and this tour.  It was a great experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Great time on Scarborough Food Tour!",
+      "text": [
+        "Went on the Scarborough Food Tour with Dan and had an absolute blast!  Very unique tour being driven around Scarborough to different strip malls to sample some very unique cuisines.  He was very professional and courteous and had answers to all our questions.  My favourite was the Sri Lankan Kothu Roti with Mutton, so delicious! The Lebanese Dessert place was amazing as well.  It would be very hard to find a lot of these places without asking someone who lives in Scarborough.  Definitely off the beaten path with little hole in the wall places that serve honest tasty food! Definitely a must do while you are in Toronto if you willing to explore some food you may have never tried before.  Thanks again Dan! "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Awesome tour! ",
+      "text": [
+        "Dan picked us up right from the subway stop which was super convenient. All the food we tried was delicious! We learned a lot about Scarborough and had a lot of fun exploring the unique restaurants/markets/stalls. Would be a great tour for anyone visiting Toronto who wants to learn more about the area and experience the diversity of the Greater Toronto Area or for locals who want to explore the hidden gems Scarborough has to offer. "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "Amazing food, great knowledgeable guide!  Highly recommended!",
+      "text": [
+        "The food tour was great! A great variety of different places & different foods.  Dan was very knowledgeable, local boy who has clearly been around & knows the best, unknown  places to go for the best food! Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Loved it!",
+      "text": [
+        "My partner and I were impressed from start to finish. Danny was so knowledgable and personable, it was a great way to celebrate a birthday and discover a part of the city we didn't know very well. Highly recommend it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Exploring the Danforth Mosaic",
+      "text": [
+        "This is our second tour through The Local Vibe Tours and we could not have been more impressed! The selection of various cuisines and history that Danny provided throughout was fantastic. We explored small local businesses that we would never have thought to try. We highly recommend this tour to anyone looking to explore some new flavours!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019"
+    },
+    {
+      "title": "Impeccably curated ethnic food tour",
+      "text": [
+        "I took the \"Eat the World on East Danforth\" tour, which far exceeded my expectations. I have had most of the foods featured on the tour before, however the places that Danny selected executed the dishes exceptionally and also put their own unique spin on traditional dishes. Danny was great company, told us a lot about the neighborhood and how it relates to the history of the city, and everything about the tour was extremely well organized and well paced."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Best of Scarborough Food Tour",
+      "text": [
+        "Danny is really knows the varied and delicious food of Scarborough from Tanzanian BBQ, Trinidadian doubles, Tamil delicacies to Middle Eastern pastries. Come with a good appetite."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Friends"
+    },
+    {
+      "title": "Fantastic",
+      "text": [
+        "Danny is very knowledgeable about restaurants in Scarborough. He was very considerate and professional. Danny did a great job in the dishes choosen, they were very delicious. Please bring your appetite because the food is amazing. I highly recommend this tour and would be joining the beer your next summer."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2018 • Solo"
+    },
+    {
+      "title": "Visit great local places for a beer with a friendly local host",
+      "text": [
+        "This tour is a good opportunity to go somewhere you might not otherwise go with a great local host.",
+        "Our local guide Danny took us to 2 breweries and 2 pubs serving local beer. All were unique and had a different feel and good beer. The walk went thru commercial streets, neighborhoods and a park or two. ",
+        " We had a snack at one brewery and another at little Indian street style restaurant.",
+        "Danny was a friendly guide with local knowledge and stories. We had a good time talking and drinking beer with him."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2018 • Couples"
+    },
+    {
+      "title": "Lots of fun!",
+      "text": [
+        "I really enjoyed the East End beer tour. The stops on the tour were all thoughtfully picked out, the beer was all local, and the food was delicious. This trip was a great value and full of cool surprises! ",
+        "I highly recommend the East End beer tour to anybody traveling through Toronto."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "A tourist would NEVER find these great restaurants!",
+      "text": [
+        "This was a great tour with carefully selected stops! The places where we stopped to get food were places where you would not find yourself as a tourist. Very authentic, very tasty! I was so happy joining this tour and recommend it to everyone who loves good food and likes to hear interesting strories told by a person who knows a lot about the area!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Amazing!",
+      "text": [
+        "Amazing tour! Great beer, great food and you can tell Danny really knew the area well. Would never have known about some of these places on my own. I would definitely recommend this tour to any beer lover out there!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Friends"
+    },
+    {
+      "title": "Try something new!",
+      "text": [
+        "This tour was so much fun. The variety of the short eats you get to try is great. Its a fun date or group trip. Danny is very passionate about Scarborough and its food scene. His knowledge about the influences of the dishes you try is very informative. I would reccomend this tour to anyone looking to try new cuisines. 10/10!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Awesome East End beer & bites walking tour",
+      "text": [
+        "Danny's east end beer and bites walking tour provided an excellent introduction to what this part of town has to offer. All of the places were unique in their own way. The choice & quality of beer was impressive and paired with tasty snacks from Japan/India/the Netherlands. I particularly enjoyed the short walks between the different spots during which Danny provided heaps of interesting information on Toronto's ever-changing urban landscape. All in all, based on my experience I wouldn't hesitate to rely on Danny's insider knowledge during future visits to Toronto and can only recommend The Local Vibes Tours."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Solo"
+    },
+    {
+      "title": "AWESOME TOUR!!!",
+      "text": [
+        "This tour is awesome! Danny is extremely knowledgeable about the food scene in Scarborough and we thoroughly appreciated his attentiveness to culture and cuisine. Please come with an empty stomach as there are so many different types of dishes for you to try. Danny was also very receptive towards designing the trip around our dietary restrictions. You can tell that Danny cares about his community and loves showcasing the various the people/cuisines in it. This tour is a MUST do for any potential trips to Toronto and for locals looking to explore a different part of the city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Couples"
+    },
+    {
+      "title": "I LOVED THIS FOOD TOUR!",
+      "text": [
+        "It is a great tour, and all the foods are appetizing! Danny knows Scarborough well and he is also very considerate. He told me a lot about the origin of foods, enchanting places and history of Scarborough. ",
+        "If you find foods delightful and are looking for a guide, he is the first choice!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Solo"
+    },
+    {
+      "title": "Pleasant stroll through the East End.",
+      "text": [
+        "Had an amazing experience on the Local vibe food tour. Our guide Dan, was very knowledgeable about a vibrant and dynamic Danforth neighborhood. The food was delicious and had enough variety to get a good insight into the food scene. From Borrel (Dutch) to East of York Gourmet Food (German Indian fusion) and ending it off with Mary Brigadeiro (chocolates) made the whole tour pleasurable! Highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Discovering new food experiences in our neighborhood",
+      "text": [
+        "What a wonderful way for us to experience and explore amazing restaurants in Toronto and our local neighborhood. Danny, our guide and expert, took us to some local restaurants that we either hadn't heard of or we've driven/walked by but never thought to actually try. Each restaurant had its own unique offering and cuisine but they all had two things in common - great people and amazing food! As vegans, it can sometimes be difficult to find suitable options but Danny had us covered. He ensured that each restaurant prepared something special for our needs. When the tour ended at a yummy chocolatier (which wasn't vegan), Danny pulled out special locally-made coconut macaroons so that we weren't left out of a sweet treat! It was so thoughtful! As we walked from restaurant to restaurant, Danny shared fun facts and stories about the neighborhood and its origin. I highly recommend this experience for anyone looking to enjoy a local vibe and amazing food. Thanks Danny!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Eat the World On East Danforth",
+      "text": [
+        "This experience is definitely a must!!  Our host Danny was very friendly, professional and knowledgeable.  He had such a great understanding of not only food, but the community as a whole.  Each place we went took my taste buds to another part of the world!  Everything was so delicious and I left feeling very satisfied.  I would definitely recommend this experience to anyone who loves food!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Great food, extremely nice guide.",
+      "text": [
+        "Danny met us at the subway station with food ready upon our arrival. From there he drove us a short way to a variety of restaurants with amazing food. Danny told us that he grew up in the area and this was obvious from his \"commentary\" . He was able to give us an insider's view of Scarborough, past and present. The tour was just a really enjoyable, relaxed and delicious re-introduction to the riches of this part of the city."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Friends"
+    },
+    {
+      "title": "Best of Scarborough Food Tour",
+      "text": [
+        "My husband and I did this tour yesterday with Danny. We were given this as a Christmas present from our sons who know how much we love eating a whole array of different ethnic foods and trying new restaurants! We live in Toronto and love to explore different areas but have never ventured far into the Scarborough food scene simply as we were not sure where to go! Well this tour was fantastic! We were met by Danny at the subway and driven to 5 different locations to try different foods which were all amazing! Tried foods we had never sampled before and learnt about all the different foods available in the area. Bring your appetites and be prepared to pop your taste buds! We were able to also purchase foods and bring them home and cannot wait to go right back to those restaurants for more now we know them! ",
+        "Danny is courteous and knowledgeable and made our experience really fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019"
+    },
+    {
+      "title": "Diverse, Delightful and Deelish",
+      "text": [
+        "My wife, adult son and I had a great time.  Danny shuttled us between venues in his comfortable vehicle while chatting about Scarborough and the incredible quality and diversity of ethnic foods that we had never before experienced.  Danny's relaxed manner and genuine interest in food plus his love for Scarborough was entirely infectious."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Family"
+    },
+    {
+      "title": "West end foodie enjoys east end discovery",
+      "text": [
+        "Growing up in diverse Mississauga and now living in Toronto, I have had my fair share of ethnic cuisines, but Dan on his Local Vibes tour introduced me to bites and flavours I hadn't ever had. The locations were cozy and frequented by locals (always a good sign) and Dan was such a warm, friendly guy. I gained a greater appreciation for Scarborough!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Friends"
+    },
+    {
+      "title": "Exploring the food scene in our own backyard",
+      "text": [
+        "This is a fantastic tour that showcases the variety of foods available in the Scarborough area. As a local, we greatly appreciated learning about the area and finding delicious foods that have been right under our nose all this time. Danny was a very knowledgeable and passionate tour guide. Overall, this is a highly recommended tour to travellers or locals!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Friends"
+    },
+    {
+      "title": "Lots of fun!",
+      "text": [
+        "A great morning eating five different ethnicities of food with my boyfriend! Even got food left over for later, definitely recommend if you're an adventurous Eater and Luke exploring new places. Cant wait to do the wine tour!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Eat delicious food while learning about cultures and local history!",
+      "text": [
+        "AND you get shuttled from place to place. I mean, how perfect is that?! We're fans of Suresh Doss' Thursday food reviews on CBC Radio One. So when I stumbled on this Airbnb Experience, I was excited to see something close to home. Danny is a friendly & professional tour guide and driver. As locals, we enjoyed learning more about our city and its past. You'll finish your day with a new perspective on Scarborough... and a full belly!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Couples"
+    },
+    {
+      "title": "Wonderful food tour - highly recommend",
+      "text": [
+        "What a great tour! My husband and I are from Toronto but haven’t spent much time in Scarborough. Danny brought us to incredible gems in Scarborough with absolutely delicious food. He was extremely friendly, personable and knowledgeable and we thoroughly enjoyed ourselves. I highly recommend this tour for visitors and locals alike."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Couples"
+    },
+    {
+      "title": "Loved the Experience",
+      "text": [
+        "Danny introduced us to flavours we probably would never have tried. It was a wonderful experience and really opened the diversity and appreciation for Toronto. Danny was awesome, so knowledgeable, patient and very inclusive. He was a great tour guide and I would recommend the tour. Would be great for corporate team building and small groups of friends and also for friends and families visiting from outside.",
+        "Thank Danny"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Friends"
+    },
+    {
+      "title": "Food tour",
+      "text": [
+        "Danny was great and very knowledgeable about the neighborhood and history of Scarborough. The foods were different and tasty. Thumbs up for Danny"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2019 • Friends"
+    },
+    {
+      "title": "Wonderful experience!",
+      "text": [
+        "My tastebuds were happy during this experience. I had the chance to sample different foods from places such as Ethiopia and Brazil. I recommend this for anyone who is looking to try new things or just for a fun experience. It is worth it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Couples"
+    },
+    {
+      "title": "Great tour, even better host",
+      "text": [
+        "I highly recommend this, for locals and tourists alike! As a fellow Torontonian, I still learned a lot from Danny and discovered an amazing part of the city that I hadn't spent much time in before. He had a lot of great information to share about the food + neighbourhood, but the whole tour was also very laidback and didn't feel scripted in any way. The food was amazing, the streetside Indian snacks and the hidden Lebanese bakery especially felt like hidden gems. This tour is a perfect way to get to know the real Toronto food scene, and Danny is the perfect guide for the job!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2019 • Solo"
+    },
+    {
+      "title": "Great experience!",
+      "text": [
+        "This food tour was such an enjoyable experience for my husband and I.  We usually stick to the same old dinner/movie routine, but decided to try something different for our recent date night. The food was incredible.  Tour guide Danny really selected the best of the best resturants for us.  He understood the importance of giving a great tour, providing interesting information about the history of where we were eating, but also allowed the different couples to walk hand-in-hand, talking and enjoying each others company - much better than sitting in a theater! Thanks again Danny!  Looking forward to seeing you on another tour again soon!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Couples"
+    },
+    {
+      "title": "Different food options",
+      "text": [
+        "We walked to 4 different restaurants and sampled food from different countries and then enjoyed a sweet treat. The tour guide was very knowledgeable of the area, the restaurants, food,  the owners, and considerate. He communicated important information, and kept us on schedule. The tour was even better than he promised. I would gladly try one of his other tours after today’s great event. He even brought water for us."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Expectations exceeded and highly recommend this tour!!",
+      "text": [
+        "We joined the Danforth tour today and were more than pleasantly surprised with the choice of venues, food and overall experience.  Our guide Danny shared info about the area and history of each of the venues on the tour which was really interesting.  I also liked that the tour wasn't in the more popular west end of the Danforth but in the lesser known east end.  It gave us an opportunity to venture into some amazing spots we never would have tried otherwise.  Food was wonderful and I just loved the plant based options available.  Thanks for an amazing afternoon and will be booking another tour soon!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Discovering a Toronto I didn't know existed",
+      "text": [
+        "We had a wonderful afternoon exploring an area of Toronto I have passed through but never stopped.  Our guide Dan introduced us to this area with extensive local knowledge and an eclectic tour of local restaurants that served authentic delicious food from Dutch, Ethiopia, Venezuela to Brazil to name a few.  We came away with full stomach and smiles on our faces. Great afternoon."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Solo"
+    },
+    {
+      "title": "Fun, delicious and off the beaten track",
+      "text": [
+        "When we head to the Danforth we go to Greektown, eat and leave. This food tour takes you to a completely different, up and coming part of the street. ",
+        "My sister, brother and I always celebrate our birthdays by going out to lunch to somewhere `different`from our usual haunts. This was a special birthday for me so we did something quite different, go on a food walk. It was great. ",
+        "In the three or so hours we were together with our guide, the three of us and the other 5 people had a pleasant and interesting walk in the area. ",
+        "We started at a Dutch place, Borrel for our appetizer dutch treat. We then crossed the street for some Ethiopian - first time for me - at Wazema. Different and excellent food. Interesting spices and good food. We then Sampled Venezuela at Pomerosa - again a first for me. We ate excellent little corn bread buns stuffed with meats and veggies. Then on to EastofYork where we were served a combo of Indian/Caribbean. Give these guys credit - everything is made in house and they work to have no waste. Finally we ended at Mary's Brigadeiro where we ate wonderful Brazilian chocolates. ",
+        "I will go back to each of these places. ",
+        "Our guide was terrific - kept a nice pace, not hurried at all and clearly had a good relationship with each place. ",
+        "Absolutely recommend!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2019 • Friends"
+    }
+  ]
+}

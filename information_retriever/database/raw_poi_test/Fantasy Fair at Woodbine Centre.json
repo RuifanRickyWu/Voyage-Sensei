@@ -1,0 +1,413 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Fantasy Fair at Woodbine Centre",
+    "url": "/Attraction_Review-g155019-d2644149-Reviews-Fantasy_Fair_at_Woodbine_Centre-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "500 Rexdale Blvd.",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M9W 6K5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.5",
+      "reviewCount": 139
+    },
+    "openingHours": [
+      "Mo-Sa 11:00-19:00",
+      "Su 11:00-18:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/e4/e3/14/20160707-113957-largejpg.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Amusement & Theme Parks"
+  ],
+  "description": "Indoor amusement park with 12 full size rides and attractions including Antique Carousel, a 3-level Play Village, Ferris Wheel and family arcade.",
+  "duration": "Duration: More than 3 hours",
+  "reviews": [
+    {
+      "title": "Not worth going ,  old and worn out.",
+      "text": [
+        "Tired, run down  and worn out.",
+        "Half the rides were closed due to being broken or no staff to operate them.",
+        "Very poor experience ,  stay away."
+      ],
+      "rate": 1.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "THIS IS BETTER THAN THE CNE",
+      "text": [
+        "It was a fun experience. I HIGHLY recommend you to go here. This place has a little bit of everything: beautiful scenery, fun rides, an arcade, face painting station and has a play place that's even bigger than the ones you see in an average McDonalds! You could plan birthday parties at a cheap expense. And the best part aboutthis place,  its COMPLETLY FREE!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "DO NOT GO HERE",
+      "text": [
+        "My wife and I came here with our daughter while waiting for a flight out of Pearson Airport and we were all extremely disappointed. ",
+        " ",
+        "At first glance on Google it has a 4+ rating and we thought it would be a good place to bring our four year old to kill some time. We made the mistake of showing our daughter the pictures of the attractions, because upon our arrival (and sadly after ordering two tickets via Groupon) there were barely any rides functioning. The rides that were functional were sometimes operated by employees who had to work two different rides simultaneously. All of the stores lining the paths of the park were closed and through the windows you could see they were mostly deserted, some with filled with garbage.",
+        "The whole place seemed extremely forgotten and not clean. When I say not clean I don't mean a little dust here and there, that is normal/acceptable. I mean everything had a layer of what felt like grime all over it and I wanted to rinse myself off within 20 minutes of being there. The bathrooms are sadly in the same (if not worse) condition and no place to take a child.",
+        "Safety also didn't seem to be as important as cleanliness. The playground for kids to climb in was ridden with duckt tape and zip ties, with the nets not being fully fastened in some spots. And while such playgrounds use zip ties in their design, you could tell some were put there to fix a tear. I was nervous going on this playground with my daughter, as it didn't feel safe. The arcade had a gate for locking up during closing and this was being propped up by a vending machine on wheels on one side and a broomstick on the other. ",
+        "The employees seemed miserable and I would be too if I worked there. They seemed distant and not at all with their heads in the right state of mind to watch out for children's safety. Some even seemed strung out or under the influence of either alcohol or drugs.",
+        "The mall where it's located is just as bizarre and depressing as the fair. Weird stores with junk, almost more of a flea market with closed stores all over. The patrons were also a very strange crowd, with people lingering and not giving us a safe vibe.",
+        "All of this for a steep price of 48 Canadian Dollars with the groupon. We went on the three rides we could and left rather quick to sit in a hotel lobby for our time before our flight, because that was much more comfortable/clean/safe than Fantasy Fair. Don't bother going here unless you want to pay to see a mini-amusement park and mall in a failed state. I'd give it no stars if it was possible."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2024 • Family"
+    },
+    {
+      "title": "Could be so much better",
+      "text": [
+        "Pros:",
+        "Big indoor playground (for I think for kids who come regularly, this is the big selling feature)",
+        "Cons:",
+        "-6 our of the 12 rides were closed (nothing was indicated on their website)",
+        "-socks are required in the play area (that's reasonable, but that should be indicated on the website)... If you buy them at fantasy fair, they charge $2.50 a pair (go to dollerama instead)",
+        "-on the weekend it is packed, on the weekday the rides are half shut down (maybe it was a coincidence)",
+        "I know some people buy the annual pass and their grandkids come and play every weekend. They even have a friend group of people who come every weekend and they just get to know each other.",
+        "The mall and the fair are pretty run down."
+      ],
+      "rate": 2.0,
+      "tripDate": "Jun 2023 • Family"
+    },
+    {
+      "title": "Ok I guess, a way to waste time on a rainy day",
+      "text": [
+        "The mall is closing.  All of the stores are liquidating.  They are full of crap.  The fantasy fair part was pretty neat, but absolutely packed.  Huge lines.  Pricey.  It was neat to see.  I hope that they can transfer some of the neat sculptures from the mall when it actually closes."
+      ],
+      "rate": 1.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Ok but needs improvement",
+      "text": [
+        "Not a bad place to spend a rainy day. A couple of the best rides weren't working, which was disappointing.  Maybe there should be some kind of a discount when this happens as it didn't feel like we got the full experience for the same price. And they could most definitely use more benches and sitting areas for resting and for parents. Its also crazy they don't have Wi-Fi.  Staff were competent, although bored it seemed, and the place was decently clean. Kids had a lot of fun."
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2023 • Family"
+    },
+    {
+      "title": "Filthy!",
+      "text": [
+        "This place is disgusting.  They haven't cleaned this place since 1985. Would never return again.   The ferris wheel was closed, and the play centre was especially gross and only had 1 slide open. Huge rip off, not worth it. Save your time and money. This place is a huge disappointment."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2023 • Family"
+    },
+    {
+      "title": "Horrible costumer service!!!!!!",
+      "text": [
+        "Apr 4 2022, i took my boys to woobine fantasy fair.i have very very very horibble and unpleasant moment with the sales costumer service, which that lady serve me with a bad tricky manner and unpleasent attitude like im a beggar.Which is make me feel  very disappointed and ruin my day .first of all , im with my small  son 18 month old baby after long time line up,and finally reach  our turn to the costumer service desk,and then i explain  to the  lady  that  already  purchase the whole years unlimited ride  season pass which costly $149 for my first son 4 years since couple month ago!!because of covid and place  too crowded ,everytime we went to fantasy fair try to get a tag always very long line up !! So the season pass the i been purchase sor far   only being used for once time  only since the date purchase, and im sure you can check in your computer system record to track how many time being used if you dont believe it.so after explain to her and then i ask her if its posible for me  use  this season pass for my small 18 month baby  to go ride the horse merry go round?? And then she print out single ticket over to me and she said to me , that she not supossed give to me cause i buy that for my elder son.but she give it to me this favour for me.after this  i though she is very kind person and im saying thanks to her.",
+        "after an hour later i bring my 4 years old son to long line up again to get a tag for him to go play the slide, when reach to the same lady serve me before , she told me  that she refuse to issue the a tag for my 4years son which is the right holder of the season pass  ,also  with her attitude and she said out to me  , i need  to paid first for the early single entry ticket that she issue to me  for my small baby and then she will issue the tag!!!!!.first i though is nice but in the end i ddnt know which is  she trick me to pay more money??????how could she do that?????i told her i ddnt force her to give me earlier the sinhle entry ticket if i know would be like this i prefer not to take it too, also i axplain to her again that i was payin enough money for the season pass and which even use only for once time only?????been wasting of money !Hopefull after i share my own experience in future  no other peolle will have the same my experience .  I hope every other costumer or family should be aware of this kind of costumer service !",
+        "after all what happen  i paid her and told her give me her manager number , and i  she write me in paper , and then i ask again  what is her name but she refused to give me her name!!! cause  i told that i will call put a complaint to the manager and she answer back to me  that she is the manager there?? Im thinking how could a manager behave like that? ??? Very uneducated!!!i dont know how they have been hired her as a manager ?? Even you position is a manager you shouldnt cheating to costumer!!! They should be train better to serve people"
+      ],
+      "rate": 1.0,
+      "tripDate": "Apr 2022 • Family"
+    },
+    {
+      "title": "Waste of money.",
+      "text": [
+        "I took my grandson to Fantasy Fair today.  I had to pay full price and in return, there were 2 rides closed - the train and the drop and hop, very disappointing.  Also closed was the play area which was even more disappointing.  The cursory cleaning of the rides between patrons was a total waste of time; I do not consider spritzing the air over the seats \"cleaning\".  We sat on the spinner waiting for the ride to go on and had to leave because it wasn't working."
+      ],
+      "rate": 2.0,
+      "tripDate": "Feb 2022"
+    },
+    {
+      "title": "Cockroaches.",
+      "text": [
+        "I swear this was the most horrible thing I’ve gone threw, I hate cockroaches  because of this place. DO NOT GO HERE. I’m a young teen atm but when I was 5 I use to come here with my older sister and we had so much fun, things obviously changed if I’m disgusted with this place. We went for the ice cream (stranger things 3) in 2019. My dad just stepped in to the washroom for a warm welcoming of dirt and cockroaches.  This made me almost puked because they scare me a lot, but another thing is we wouldn’t be able to get ice cream anyway! It was false advertising of something because it was just closed. One more thing is that the bathroom was in the food court. So I repeat do not go here. My dad even has a video."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2020"
+    },
+    {
+      "title": "mall",
+      "text": [
+        "it great place  to buy things  its not to far but i could use a lot renovations but i loks like its going down hill help support the mall by donating money so the can do those renovations at mall the have planed  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018"
+    },
+    {
+      "title": "family affair",
+      "text": [
+        "It was a colleague of mine who suggested this place. I have my daughter and her family from Vancouver who came to visit. She has 2 small kids ages 2 1/2 year old boy as well as a 1 year old girl. This was a great indoor place for kids. My only negative comment was housekeeping, my husband and I ate and sat  at the subway, the housekeeper had their cart parked close to our table and it was just there the whole time we were there. Why couldn't they park their cart somewhere that's not accessible to the public, it was really an eye sore and unhygienic."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Good but pricey",
+      "text": [
+        "Nice selection of rides but limited abs with revised fairs it is expensive. The dinosaurs are all broken now the place needs some major upgrades."
+      ],
+      "rate": 3.0,
+      "tripDate": "Mar 2018 • Family"
+    },
+    {
+      "title": "Fun place for little kids.",
+      "text": [
+        "Very nice indoor amusement park. The full day pass was a little pricey. I liked the moving dinosaurs.  The kids loved the playground area more than the rides. You can also book birthday party rooms."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jul 2018 • Family"
+    },
+    {
+      "title": "What a fun time! We'll visit again!",
+      "text": [
+        "My daughter loved all the rides! We went during the afternoon on a weekday and there was hardly any wait time to get on the rides. There were kids there from barely walking to around 12 years old, so it's great if you have kids of varying ages in your group. You don't have to pay to get into the fairgrounds, but you DO have to pay if you want to get onto the rides. This is great if you are going with multiple adults that don't want to ride (like grandparents) and they can keep watch of the kids that are not going onto that ride for esample. Be sure to wear proper sneakers if you want to do the rock climbing wall. They are very strict about this. Food on site is quite expensive, so I recommend going into the mall and enjoying the food court food; it's more reasonably priced. Lot's of free parking in the outside parking lot."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2018 • Family"
+    },
+    {
+      "title": "Fantasy Fair",
+      "text": [
+        "Came here with a groupon for an adult and child that included unlimited rides. It is around $45 for the Groupon deal. We came here with my 3 year old son and my husband brought him on all the rides. There are around 7-8 rides there, and an indoor playground. The whole park is more dated but the rides are quite fun and there is good variety. There is a train ride and carousel for younger kids and indoor playground but most of the slides are closed down.There are lots of snack options like Baskin Robbins and Sweet Jesus as well. We were a bit hesitant to go on the ferris wheel as it makes a loud banging sound and seemed quite old and creaky.As well, my husband got some whiplash from riding a small rollercoaster ride with my son because he is around 6'3 so I would recommend the ride for taller adults."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2018 • Family"
+    },
+    {
+      "title": "Great for kids",
+      "text": [
+        "This is our second time and our kids (ages 3 and 5) both had a great time. They have a decent variety of rides and attractions and the lineups were not bad at all...in fact non-existent for the most part (at least on the Saturday when we went). This is a great family-friendly atmosphere and since it's indoors, can be enjoyed year round. I would recommend it, especially if you look for a Groupon and get a bit of a discount."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018"
+    },
+    {
+      "title": "Poorly organized children’s party area",
+      "text": [
+        "Why would they have multiple children’s party rooms upstairs with no elevator to get there.  This excludes anybody dealing with accessibility issues.  "
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2018"
+    },
+    {
+      "title": "Poodle Dog Show VS Service Dogs in Fantasy Fair",
+      "text": [
+        "Visited February 24, 2018",
+        "I visited Woodbine today with my friend and our service dogs. ",
+        " While we were there, a man with a pack of poodles emerged from the crowd and his dogs started barking and lunging at our service dogs. ",
+        " The poodles were dressed up in pretty clothes, we thought they're here to do a dog show and we wanted to watch it. The man proceeded to shoo us away trying to tell us we aren't allow to come near. ",
+        " He tried asking security to have us removed from the Fantasy Fair. Thankfully, the security guards were well informed on service dogs and told him that they cannot do that. This man then comes over to my friend and I and told us his dogs get \"protective\" around other dogs and that we either need to leave or stay far away from the stage. In other words, his poodles are dog aggressive. ",
+        " We reported the incident to the head of security. The head of security told us that the man did \"nothing wrong\" and that if we want to watch the show, we need to hide our medical equipment so that the poodles don't get distracted. ",
+        " We were pretty much discriminated against, that man with the poodles has no right to tell service dog handlers to leave Fantasy Fair or that they need to \"stay away\" and aren't allowed to watch his dogs perform. ",
+        " His dogs don't belong in public if they are dog aggressive. Service dogs are medical equipment, and take priority. Regardless, a dog aggressive dog does not belong in public where service dogs or children are."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2018 • Friends"
+    },
+    {
+      "title": "Great Place to Spend the Day when its Freezing Outside.",
+      "text": [
+        "Decided to drop by one day when the weather outside was frigid. First off, it was warm inside which was a definite plus. Great temperature for kids to be playing. Then they had a number of rides to keep children entertained, I think the large play area was pretty cool, never seen one that large before. One thing that really added to the experience was the large robotic dinosaurs that were played all around fantasy fair. Overall I would say this is a great place to spend the day, especially when it is too cold, to hot to do anything outside."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2018 • Family"
+    },
+    {
+      "title": "Family fun!",
+      "text": [
+        "Great rides for younger kids, specially in the middle of our winter or a rainy day. Great place for Birthday parties, connected to the mall."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Surprisingly decent amusement part",
+      "text": [
+        "We walked through the woodbine mall and found the amusement park to be much more than we expected. If you are looking to entertain younger kids on a rainy day this looks to be pretty amazing. I really didn’t expect more than a small ride or two but it’s quite big and would give it a try."
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2019 • Friends"
+    },
+    {
+      "title": "Awesome Experience",
+      "text": [
+        "It was my first time in Canada and my cousin decided we were gonna have a fun evening so we decided to go fantasy fair and it was awesome. The rides omg and the environment plus great places nearby to shop it was awesome"
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Need updates and cleaning",
+      "text": [
+        "We went on a Saturday, very packed. Lined up for around 15 minutes to get tickets. We found it quite expensive, got an unlimited pass for my son, which costs $28+tax for a 5 years old. Had to get one more for my husband to ride along. They ended up only on 2 rides, and my son spent most of the time in the free playground with slides. It definitely needed some good cleaning. The rides are out of date, and we felt like lack of oxygen in there! Haha. Just too many ppl and not enough ventilation.  Won’t recommend it unless there is some major upgrade and cleanup there. "
+      ],
+      "rate": 2.0,
+      "tripDate": "Mar 2019 • Family"
+    },
+    {
+      "title": "Great fun for the little ones",
+      "text": [
+        "Although getting a little tired this place is still a lot of fun and a great place to take the kids in the winter. I had a greasy time and so did my grandson. They have a variety of rides for different age groups and you can accompany the kids on most of them. Best to check the height requirements before going to ensure you don’t line up for a ride they can’t go on though. Lots of food choices in the mall and there’s a dollar store too so you can buy them a prize if they didn’t win one or if you want to save $20. Don’t forget to check Groupon for occasional deals."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2019 • Family"
+    },
+    {
+      "title": "My 6 year old granddaughter loved it!",
+      "text": [
+        "Fantasy Fair was a fantastic experience for my 6 year old granddaughter!  She had a great time on most of the rides and really enjoyed the roller coaster, the merry-go-round, the bumper cars and the Ferris wheel.  It was a Saturday but she did not have to wait to get on any of the rides.  She got to go on her favorites a second time.  A great family place for a cold January day when you do not want to be outside.  We bought tickets on Wag jag and saved ourselves some money on the passes."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2019 • Family"
+    },
+    {
+      "title": "Fun time",
+      "text": [
+        "We bought a groupon for this location. It was really fun and since the weather is never predictable it was nice to have a place indoors. We did go at a non busy time so all the rides were not open (the staff rotated between rides). I plan to take the family again."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2018 • Family"
+    },
+    {
+      "title": "Get rid of dinosaurs, they frighten young children or put them in one area, not all over the place.",
+      "text": [
+        "I took my 21 month old grandson yesterday for a few hours of rides and \"fun time\" with his grandparents. He was terrified of the two storey size, growling frightening dinosaurs. He was so upset that every which way he turned, he could see these things moving and growling, that he cried on the rides.  I had to try to calm him down the entire time.  After two rides we gave up and wasted 2 day passes! $$ It ruined our day.",
+        "I can see the older children would find them cool but I saw several toddlers terrified. I spoke to some parents in line for the train and they agreed that they scare the children so much that it ruins their time there.  My daughter was thinking of having his next birthday party there but the dinosaurs are too overwhelming. It will be a long time before we go back there.  Move the dinosaurs to one area, so that if kids want to see them, they can go to that area. Or just have one or two.  ",
+        "Further, The staff was not friendly.  ",
+        "And, the mall needs a complete renovation.  It's outdated and has some sketchy tenants."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jan 2019 • Family"
+    },
+    {
+      "title": "Stupid place",
+      "text": [
+        "It’s not a great place to visit, there are alone 5 games that a toddler can play with. I think they should close it down "
+      ],
+      "rate": 2.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "Interesting day trip but terrible mall!",
+      "text": [
+        "My toddler enjoyed a couple hours at the amusement park.  There were some interesting rides and he really enjoyed the kid friendly drop-zone.  ",
+        "It’s unfortunate that parents need to accompany children on many of the rides due to safety regulations and that in order to accompany the child you have to pay.  ",
+        "I was able to explore the mall while my child and husband enjoyed the amusement park.  The mall was terrible.  The stores were mostly small one of a kind shops but they didn’t have much to offer.  It was quite unfortunate for such a large mall.  There were signs that said that the mall was getting new stores - I really hope that is true."
+      ],
+      "rate": 3.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "Do not go here waste of money",
+      "text": [
+        "Went here last week, during the strike to have the kids do something, my kids are 5 and 4, ride all day pass is $32 dollars each which gives you 4 rides or less depending on the kids height, and if you have to go with the kids you need a ticket... this place cater to children 8 and under most of the rides seem broken or out of service ",
+        "You can take your kids to a nice lunch and an indoor playground for way cheaper...the washrooms is so disgusting and not family friendly.... no nursing rooms, the mall is cold cold and uncomfortable the tap water in the washrooms is only cold to freezing the kids did not want to use these facilities we tried a few in the mall because fantasy fair washrooms smelted so gross and was so dirty was out of toilet paper and hand towel ",
+        "Also I remembered the ticket price being under $20 for an all day pass last year when I did my child birthday party here ",
+        "PLEASE CLEAN UP THE WASHROOM. TURN ON HEAT, AND WARM WATER IN TAPS, ADD WATER FOUNTAINS TO REFILL WATER BOTTLES, ADD A NURSING ROOM AND FAMILY CHANGE ROOM, ADD A COIN MACHINE FOR THE COIN RIDES, CLEAN THE PLACE AND LET SOME LIGHT IN.... AND LOWER THE TICKET PRICE BACK TO WHAT IT WAS HOW CAN YOU CHARGE $32 FOR KIDS RIDE AND ONLY ALLOW THEM TO BE ABLE TO GO ON FOUR RIDES......OUTDATED RIDES.... WORST EXPERIENCE YESTERDAY NEVER AGAIN"
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2020 • Family"
+    },
+    {
+      "title": "Nice area for kids inside the mall",
+      "text": [
+        "It was interesting to look through and would be a fun place for kids when is cold outside. It was a little dirty but everyone was having fun. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Feb 2020 • Solo"
+    },
+    {
+      "title": "Overpriced with a toddler",
+      "text": [
+        "$50 for parent + toddler overpriced....toddler limited to few rides...ferris wheel not working, line ups very long."
+      ],
+      "rate": 2.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Fantasy Fair",
+      "text": [
+        "Nice place for young kids up to 10 years old. Get the deal from wagjag or Groupon. There are many rides that are fit for kids such as small drop zone, train ride, carousel. Go before noon to go onto more rides before it gets real busy. It is inside the mall so there is food court to buy and eat there. "
+      ],
+      "rate": 4.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "False advertisement",
+      "text": [
+        "Visited on Tuesday night —ALL 3 of your signs say that the park closes at 7pm, however,  the supervisor stated that website closes at 8pm. We came to the mall to shop with 2 children (and knew about the $10 before last hour closing and decided to purchases passes to the rides) they were so disappointed because now we have to wait for extra hour. The supervisor on duty was honestly friendly and was very attentive to what I had to say. This is FALSE advertisement. Instead of using paper to re-do hours, why not make different signs for off season/on season hours? Makes so much more sense.  ",
+        "Moreover, the lady working in the customer service desk IS RUDE, she ignored me TWICE, rolled her eyes at me when I asked for the information to contact you while the supervisor went to fix 1 sign.  The supervisor said he spoke to the manager of the park and that she said “in no way Im I getting the deal early because the sign says so” (Which it DOES NOT)- states park hours may change, NOT that the sign may be wrong. ",
+        " Your customer service sucks and I have been a repeat customer for years, even having birthday parties here.",
+        "****here is the response from the manager on the email I wrote that was the same as above, VERY unprofessional ***",
+        "Hi Anthony,",
+        "Good morning.",
+        "Thank you for your email.  I apologize for the issue you encountered yesterday at Fantasy Fair.  Our regular hours of operations are posted in the park, however it does also say on that sign that “hours are subject to change”.  We also have our summer hours posted on our website.  I understand that not everyone looks at the website but this is really not something new that we have implemented, it has always been this way.  I will speak to the owners regarding this situation and to see if he is willing to change the hours of operation signs.",
+        " ",
+        "The supervisor said he never told you that I said “in no way I am getting the deal early because the sign says so” because I never said that.  We have rules and have to follow them, if we start bending the rules because it is not satisfactory to one person then we should be fair and do it for everyone.",
+        " ",
+        "I will address your concern with the staff that was in Customer Service as that behavior is not acceptable.",
+        " ",
+        "I know that my response is not what you are hoping to hear but we are all here to do our jobs and we need follow the rules. ",
+        " ",
+        "Regards,",
+        " ",
+        "Nanda Shuman",
+        "Manager",
+        "Fantasy Fair"
+      ],
+      "rate": 1.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "Nice place for kids to enjoy themselves",
+      "text": [
+        "We went for a birthday, I have never gone before nor did I know about this location.",
+        "Kids really enjoyed, it was fun, it is simple yet it entertains the kids for the day and the dinosaurs are a bonus as my son loves them.",
+        "I would recommend for simple family fun."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jun 2019"
+    },
+    {
+      "title": "Fine fair",
+      "text": [
+        "Went for a “special” outing with the kids (4, 2 yo old and 5 mo). Family pass $95 (5 Mo free). For the money, we didn’t see a lot of value. The kids did have a good time though - as kids do. Rides were working except for the “iconic” Ferris wheel. We went early, so no lines - that was a bonus. Overall, it’s run down and needs either a reno or a demo. We saw amps in plain sight, not even camouflaged. Personally, he worst part about it were the washrooms. They were filthy and disgusting. I opted to change my baby on the counter instead of the baby changer. Cringed at toddlers using facilities. Not sure if we’d go back as it is now."
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2019 • Family"
+    },
+    {
+      "title": "A good day out",
+      "text": [
+        "Overall we had a good experience at the fantasy fair.  Given it was a weekday, it wasn't busy, so we didn't have to wait for the rides.  My nieces certainly had a lot of fun between the rides and the play zone.  There are a few drawbacks. One is the staff.  With the exception of one smiling staff member, the others all looked depressed and like they wanted to be anywhere but there.  It would create a better atmosphere if they hire employees that were cheerful, talked to the children, etc.  ",
+        "Another drawback was the temperature.  It was a bit hot in there.  No AC.  Finally, a bit of updating is needed.  2 of the rides weren't running.  The dinosaurs had broken pieces etc.  Now, despite the drawbacks we had a good time."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "Don't go on a hot day, or maybe any day",
+      "text": [
+        "If an indoor venue encourages the attendance of small children during the summer months it must tell people LOUDLY AND CLEARLY that the venue is not air-conditioned. ",
+        "Fantasy Fair gave no such warning and the temperature indoors last Saturday July 20 grew hot enough to become a potential safety concern for children running around the space. ",
+        "Air conditioning vents are all over the ceiling but multiple staff confirmed to me that the air conditioning was \"not working\" and that their understanding was that the owner, (I'm told his name is Chris), had no plans to fix it, preferring instead to use the lower cost ceiling fans. Make no mistake, these ceiling fans did NOT properly control the temperature. As for the staff, they appeared uniformly unhappy. They were competent and helpful, but clearly miserable in the heat as well.",
+        "The owner's apparent unwillingness - or perhaps financial inability - to repair the air conditioning and ensure a pleasant and safe environment for guests and staff made my wife and I wonder how well the rides were being maintained. ",
+        "Unlike temperature, neglect in ride maintenance may go unnoticed by the public until a catastrophe occurs. That thought occurred to us around the time the heat became completely unbearable. ",
+        "We were forced to leave, despite the fact that we had paid for the expensive \"passes\" which, it turned out, didn't cover half the rides there (those cost extra), while two of the approximately six rides that the pass did cover, were not operating.",
+        "The whole experience felt more like a crooked carnival, trying to con citizens out their hard-earned money, rather than the wholesome family fair it tries to present itself as.",
+        "Shameful and possibly unlawful."
+      ],
+      "rate": 1.0,
+      "tripDate": "Jul 2019 • Family"
+    },
+    {
+      "title": "A Situation to Be Rectified",
+      "text": [
+        "It was overall a great place to spend time with family, especially younger kids, as the rides were mostly entertaining and enjoyable. However, we did notice some safety concerns that we felt should be addressed. On one particular ride, the drop tower, we felt that there was not proper safety protocol put in place, or followed. On most attractions in other amusement parks (I suppose this would be the exception), the staff with the responsibility of operating the ride give the riders a heads-up about the restraints being lifted and put down. After the ride, we were not told to keep our faces or arms away from the restraints when they were abruptly lifted, resulting in the restraint coming into contact quite roughly with my face. While I was not extremely injured, I believe this is a safety concern that must be addressed whether it was lack of safety protocol altogether or failure to enforce it on the staff's part, to ensure future customers stay safe. While I have great respect for customer service representatives and employees, I felt the staff at the Fantasy Fair were slightly unconcerned with customer safety and created an overall unfriendly atmosphere. I have been coming to the Fantasy Fair for a while now, and sincerely hope that the situation can be rectified."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jul 2019 • Family"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Guided Toronto",
+    "url": "/Attraction_Review-g155019-d14916571-Reviews-Guided_Toronto-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5C 2C5"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 25
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/d6/20/4b/graffiti-alley-with-gaby.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "City Tours",
+    "Cultural Tours",
+    "Walking Tours",
+    "Sightseeing Tours",
+    "Day Trips"
+  ],
+  "description": "Guided Toronto, a locally owned and operated guided tour service, is your personal connection to the megacity. Offering a selection of free group walking tours and privately guided experiences, we can customize your ideal weekend getaway to Canada’s most remarkable city. Come along and join us for a deep dive into Toronto’s fascinating history, culinary delights, local-only secrets, and more.",
+  "duration": null,
+  "reviews": [
+    {
+      "title": "Great walking tour",
+      "text": [
+        "I throughly enjoyed the art walk tour of Toronto. I got to see a lot of Toronto for a good price. The tour guide was awesome. Since he was local he knew the answer to the questions asked and took great pictures! Definitely got my 10,000 steps during that tour!"
+      ],
+      "rate": 4.0,
+      "tripDate": "Oct 2019 • Friends"
+    },
+    {
+      "title": "Personalized Walking Tour",
+      "text": [
+        "Turns out the two of us were the only ones on the tour. Our tour guide Gabby was able to  personalize our walk so we did not have to go to places we had already seen and concentrate on sights that were new to us.  Gabby was friendly and knowledgeable and gave us some history along with showing us the sights.  A great tour and a lot of fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2019"
+    },
+    {
+      "title": "Lots to Learn About Toronto!",
+      "text": [
+        "Gaby gave a great tour of Toronto, showing unique sites from a local's perspective, while also giving tips about other things to do beyond the tour. I also learned some interesting facts about Toronto and the history of its multi-cultural population. Gaby is super down to earth, friendly, and has a great energy! I would highly recommend this tour to anyone visiting the city!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2019 • Solo"
+    },
+    {
+      "title": "great way to experience Toronto",
+      "text": [
+        "Just visiting for the weekend, I booked the two-hour \"York to the 6ix\" Walking Tour. It turned out to be a great way to get a first impression of the city center. Gaby is a highly knowledgeable and enthusiastic guide who understands to cover history, culture, architecture, food markets and many more aspects in a smart and entertaining way. She also shared some excellent advice on where to continue exploring after the tour. ",
+        "I can highly recommend Guided Toronto and will definitely book again when visiting the next time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2018 • Solo"
+    },
+    {
+      "title": "Great way to see Toronto!",
+      "text": [
+        "My mom and I went on a 4 hour guided tour with Gabby today. We are familiar with Toronto already so she took us to places we wouldn’t think to go to or know about. Appreciated the Uber rides to and from areas. She is Very knowledgeable and enthusiastic about the area. We recommend this tour,great way to see the city! "
+      ],
+      "rate": 5.0,
+      "tripDate": null
+    },
+    {
+      "title": "a great trip around the city",
+      "text": [
+        "she really showed us a great time, showed us so much of the city in such a short space of time, we all really enjoyed ourselves."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Excellent tour!",
+      "text": [
+        "I enjoyed the tour with my two sisters. It was very informative.  Gaby was very thorough and she provided background where possible.  We had lots of fun and the two hours flew by so quickly.  My sisters and I highly recommend this Guided Tour.  Thanks Gaby!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Family"
+    },
+    {
+      "title": "Fantastic tour!",
+      "text": [
+        "Gaby is the best tour guide I've ever met! Do not miss this tour if you want to explore downtown Toronto!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2018 • Friends"
+    },
+    {
+      "title": "Tour of downtown Toronto",
+      "text": [
+        "I loved my tour! I was there with my kids and our guide made sure to show us interesting sites that kept the kids engaged like the doggy fountain and the bank vault! They know the city and its history so well!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Family"
+    },
+    {
+      "title": "Wonderful tour",
+      "text": [
+        "The off beaten path tour that needs to be done while in Toronto! Our tour guide was so insightful with many eclectic places to visit. Totally would recommend. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "Necessary",
+      "text": [
+        "It was our first day in Toronto and we were looking for something to introduce us the city. It is the perfect option if you’ve just arrived to the city. At the end you have a general idea about the city, the culture, the best places to eat and whatever you want to ask. Gaby is really friendly and she explain everythin with enthusiasm"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Couples"
+    },
+    {
+      "title": "Best tour ever.",
+      "text": [
+        "I was in Toronto on a business trip and wanted to see the sights and find out about the cool spots around town. I had a free day and decided to choose the 'best of Toronto' tour and was lucky to be guided by the owner herself. I had an amazing time discovering the city, from the AGO museum, to the best Margarita in town,to the market where i could find the best mustard(!), even giving me great tips of where I should go in the evening for some live folk music - Gabrielle tailored the tour to my specific tastes and I had the most amazing time discovering a new city, and made a new friend too. I highly recommend booking a tour with Guided Toronto!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Solo"
+    },
+    {
+      "title": "Fabulous Day Discovering Toronto",
+      "text": [
+        "My sister (visiting from Ireland) and I took the Arts and Culture Walking Tour with Gaby this weekend and I would recommend this to both residents, new & returning visitors to Toronto. Having lived here for 7 years I thought I knew all there was to know about my neighborhood, but I was very wrong. It was amazing to learn so much, uncover many hidden gems, streets and be lucky to have a tailored tour to our interests. Of course, all the while getting our steps in for the day. My advise is, take this fun tour and don't forget to bring your walking shoes! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Thank you Gaby ...",
+      "text": [
+        "Awesome tour! Perfect to get a first impression of Toronto! We really enjoyed it and can highly recommend it!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Friends"
+    },
+    {
+      "title": "5 STAR TOUR IN THE 6",
+      "text": [
+        "My husband and I had 24 hours to make the most of our trip, and opting for Guided Toronto was the best choice we could have made. From booking the tour up until the meet up, everything was coordinated and communicated efficiently.  We chose the free walking guided tour: ARTS, FOOD, CULTURE. And yes, you read that correctly, it was FREE!Gaby, our guide, was on time and had great energy from the start. Upon meeting her we knew we were in good hands. She was super knowledgeable and we learned a lot of historical facts. She walked us through a lot of sites off the beaten path as well as iconic landmarks. Overall it is a 2 hour walking adventure so be sure to wear comfy shoes and bring water!Of note, this tour is rain or shine. It happened to be torrentially raining the morning of our tour. But sure enough, Gaby reached out to ensure that the tour would go on. Luckily the day cleared up and we were able to explore the sites as planned. We would highly recommend choosing Guided Toronto if you're looking for a real and fun way to explore the city. It truly was a memorable experience. PS: This particular tour is F R E E. Be a decent human being and leave your guide a tip."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Really fun and interesting tour",
+      "text": [
+        "Gaby took us on a wonderful tour of Toronto narrating the different cultural and artistic influences of the architecture and street art as we went. She's clearly passionate about her city and it's history and was able to answer all of the questions we threw at her. The tour was the perfect length in both distance and time, and was thoroughly engaging throughout. The group sizing is also perfect with a maximum of 15 participants in any tour which is intimate enough to always be engaged whilst allowing you to mingle amongst yourselves when walking between locations. I'd highly recommend Guided Toronto to anyone visiting the city, or looking to learn a little more about where they call home."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Historical Walking Tour of Toronto",
+      "text": [
+        "Gaby was our tour guide. She contacted us prior to our meeting to see if there was anything in particular that we wanted to see. She was lovely and very knowledgeable about the history and architecture of Toronto. I would have loved to join the afternoon tour as well! Highly Recommend."
+      ],
+      "rate": 4.0,
+      "tripDate": "Aug 2018 • Couples"
+    },
+    {
+      "title": "Fantastic introduction to Toronto from a friendly and knowledgeable guide!",
+      "text": [
+        "I am new to Toronto, and still getting to know the city, so I signed up for the Arts, Food & Culture Walking Tour. So glad I did! Gaby is extremely knowledgeable - not only about things like the history, significance and stories behind various attractions, but also other more niche, quirky information that I don't think you'd get elsewhere, e.g. great insight into the artists and murals featured on Graffiti Alley. She also gave me great ideas for places to go and things to see in the city. I would definitely recommend this tour as a great way to get to know the city with a fantastic tour guide! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Perfect way to discover hidden gems of Toronto ( for visitors and locals as well)!",
+      "text": [
+        "What an interesting way to see Toronto and learn a lot about the city!",
+        "And in just two hours.",
+        "I am so glad I took both walking tours with Gaby. She was awesome! ",
+        "Friendly and knowledgeable about the city and its history, she had a great stories for each of the locations we visited. She took us to some well known places, but also to hidden gems, which many Torontonians couldn’t even recognize.",
+        "When my friends saw my pictures from the tour, they couldn’t believe it was Toronto, and now everyone wants to take the tour.",
+        "Gaby was happy to answer all our questions. She gave us perfect parking and lunch suggestions. During the tour she was shepherding us through traffic and into the shade. ",
+        "There was no rush, the walking pace was comfortable.",
+        "I learned a lot. Time well spent.",
+        "Thank you Gaby!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Solo"
+    },
+    {
+      "title": "Truly amazing",
+      "text": [
+        "If you are in toronto, do this tour! ",
+        "Gaby, our tour guide was so cool and knowledgeable, you could ask her anything about the city and on the walk she would have something to say about it. Highly recommend.",
+        "This tour is pretty perfect for everyone, whether with mates or soloing it or family."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Guided Toronto walking tour",
+      "text": [
+        "Not to be missed! If you like to see another side of Toronto, this tour is not to be missed. Gaby our guide was passionate to show us the ins and out of China town and the Graffiti Avenue. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2018 • Solo"
+    },
+    {
+      "title": "Highly Recommended! ",
+      "text": [
+        "Last month, I did a fantastic walking tour of Toronto City starting at the old City Hall and making our way over to Kennington Markets and Graffiti Street.  We packed so much into the few hours it was just fab. (Grange Park, Art Gallery, Chinatown, new Town Hall, Osgoode Hall and loads more)  Gabby our guide, was so friendly, knowledgeable and great fun...I got the feeling she tailored the trip based on the groups interests as we went.  Be sure to have your walking shoes on....and best of all...I’m sure Guided Toronto are doing a promotion at the moment on this tour....Make sure to put this on the top of your agenda!  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Cool walking tour in Toronto",
+      "text": [
+        "Our 2 hours walking tour was very interesting. A lot of different popular places were covered. It gives a nice overview of Toronto downtown. Little anecdotes told by our guide were quite cool as well. There is a quick bathroom stop after 60 minutes."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    }
+  ]
+}

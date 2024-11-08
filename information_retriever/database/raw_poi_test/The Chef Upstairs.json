@@ -1,0 +1,402 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Chef Upstairs",
+    "url": "/Attraction_Review-g155019-d7222002-Reviews-The_Chef_Upstairs-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "516 Mount Pleasant Rd",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M4S 2M2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": 47
+    },
+    "openingHours": [
+      "Mo-Th 09:00-22:00",
+      "Fr-Sa 09:00-23:00",
+      "Su 12:00-18:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/4a/68/df/private-event-for-friend.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Cooking Classes"
+  ],
+  "description": "The Coolest Food Experience Venue in Midtown AND Vaughan... We are a unique cooking studio offering interactive, culinary experiences in an intimate venue. Join us for weekly cooking classes for all ages, birthday parties, corporate meeting space and team building events, kids camps, bachelorettes, you name it! We also offer In-Home and Off-Site Catering, Delivered Meal Preparation and are 100% nut free!",
+  "duration": "Duration: More than 3 hours",
+  "reviews": [
+    {
+      "title": "Great Thai food and fun evening",
+      "text": [
+        "Did the Thai cooking class with Chef Chris and his assistant Jessie. Learned a lot and the food was excellent. While we all participated in some of the prep ie chopping, prepping etc the chef by far does most of it.  Great way to spend a saturday night. Lots of couples were there but no issue being there in your own. Thanks for a fun time."
+      ],
+      "rate": 4.0,
+      "tripDate": "Mar 2024 • Solo"
+    },
+    {
+      "title": "Poor customer service",
+      "text": [
+        "I bought a class for my partner and my daughter. They cancelled the class because of low enrollment and would not offer a refund, only gave credit for other classes that didn't fit our schedule. I repeat: they cancelled the class. So now I am out $300+. I would highly recommend booking cooking classes with another company. There are plenty of better options around."
+      ],
+      "rate": 1.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "Iron Chef Challenge",
+      "text": [
+        "Our team of 19 attended The Chef Upstairs \"Iron Chef Challenge\" in Oct '23. Chef Pierre's guidance was impeccable and we had the opportunity to prepare and eat a ton of delicious food! We all had a great time and even got to help to make the bananas flambé - so cool! Would definitely recommend as a team-building event - much better than just sitting around a table having dinner at a restaurant. Thanks for the fun! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Business"
+    },
+    {
+      "title": "Amazing experience! Highly recommended.",
+      "text": [
+        "14 people created the most delicious feast from Provence. We went with two of our good friends. Ingredients are top notch. Chef Pierre was delightful and patient and taught us a lot as each team at different stations cooked the different courses. A fun night to remember always! Bouillabaisse, vegetable soup, chocolate mousse scrumptious."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "Fun team cooking class",
+      "text": [
+        "I was here with a group of coworkers for a team activity, and it was really fun to cook and eat our own food with the supervision of chef Pierre! The staff was very friendly and served really lovely wine. I really recommend it as a team activity!"
+      ],
+      "rate": 4.0,
+      "tripDate": "May 2022"
+    },
+    {
+      "title": "Virtual cooking class",
+      "text": [
+        "We did the Valentines virtual cooking class . We had a lot of fun  chef Pierre provided great cooking tips abd the food turned put amazing. We will definitely  be doing a class again in the future and would recommend to others!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2022 • Couples"
+    },
+    {
+      "title": "Chef Upstairs",
+      "text": [
+        "Our dinner on Saturday night was absolutely perfect! Both Pierre and Elle were incredibly professional and accommodating. The food was fantastic, and I truly believe they may have left our kitchen cleaner then it was when they arrived.",
+        "All of our guest were very impressed with the concept, the food, the service and asked me to provide them with your contact info, so I’m sure you’ll be hearing more from our dinner party in the future.",
+        "Once again thank you making the celebration of my wife’s 50th a incredibly enjoyable evening!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2021"
+    },
+    {
+      "title": "So good, we keep coming back!",
+      "text": [
+        "Last night we did our fourth cooking class with The Chef Upstairs, and it was our first in-person experience.  My wife and I thoroughly enjoyed the previous classes, and it was even that much better without the need to do it via Zoom.  (Top marks the Chef Julian and the team though, they made the pivot to online classes last year like it was second nature.  They were an excellent experience as well!)",
+        "This night's theme was \"From Paris With Love\" and the menu consisted of Potato Leek Soup and Coq au vin, followed by Crepes for dessert.  With patient and professional guidance the meal the class created was truly restaurant-quality affair.  All the dishes were flavourful and plentiful, with all the ingredients complimenting their dishes perfectly.  We learned that even what we would consider the most unlikely of ingredient pairings can come together in delicious ways.  For instance, beets with a chicken dish.",
+        "Throughout the evening, Chef Julian rotated the entire group through all of the food preparation stations, including hands-on time at the large gas range.  His friendliness, excitement, and absolute joy of cooking left us with an evening we will never forget.",
+        "We will definitely do this again and highly recommend The Chef Upstairs classes, no matter if they are in-person or online, you will learn how to prepare new dishes and have a fantastic time doing it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2021"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "We have done a couple of virtual classes with the Chef Upstairs and have had great experiences. My teen daughter and her friends just did a fajita party with Chef Pierre, it was fabulous! He gave excellent instruction and kept the girls engaged. I highly recommend this service, especially as some entertainment during lockdown."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2021 • Family"
+    },
+    {
+      "title": "The Chef Upstairs",
+      "text": [
+        "HUGE thank you to Chef Elyse & Roberto for the tremendous birthday party they put on for Sam. Not only did Elyse flex to the needs of Sam's younger brother Hugh who's 6yo but Roberto kept the older kiddos engaged & entertained with tasks. Both Elyse & Roberto were patient; kind & thoughtful with our group to the point that both my husband & I were amazed. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2020 • Family"
+    },
+    {
+      "title": "An Amazing Experience for a Group or a Team",
+      "text": [
+        "Just came back from our company Christmas gathering at The Chef Upstairs.  What a terrific time.  Can't think of a way to improve upon the experience.  The space is perfect.  The food was terrific.  But what was most important - what a great group of people.  So talented.  So friendly.  So interesting.  I can't recommend it highly enough.  Run, don't walk, to The Chef Upstairs.  You won't be disappointed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Business"
+    },
+    {
+      "title": "A different dinning experience",
+      "text": [
+        "Imagine you wanted to have a kitchen party with 25 friends but had no big kitchen of your own, or desire to cook. They have the perfect setting, make wonderful food while you and your friends eat, drink and enjoy! Then go home relax while they clean up. That is what we did last night, could not have been more enjoyable or easier."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Business"
+    },
+    {
+      "title": "What a great concept!",
+      "text": [
+        "What an amazing experience! This is so much more than just dinner. My husband and I joined other couples, as well as a mother and son in preparing our own meal. Chef Gaetano was knowledgeable, fun and had the perfect sense of humor for the crowd.",
+        "I couldn't believe it how delicious the food I made was! I would highly recommend this for anyone looking for a date night idea, birthday gift, or a different experience for dinner."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Friends"
+    },
+    {
+      "title": "Very fun",
+      "text": [
+        "I have done so many cooking classes in my travels around the world and was so impressed by Chef Matt on Tuesday night.",
+        "I chose the Foods of the Far East class and can say that the food was just as good as it is in Thailand.",
+        "I really enjoyed learning some new tricks and the chef was kind enough to accommodate me by providing vegetarian options for me with each course.",
+        "Great for a night out, especially with the cold weather on its way!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Couples"
+    },
+    {
+      "title": "***Fun Filled Evening***",
+      "text": [
+        "This place is great!  The staff members are wonderful and actually provide the ultimate customer service experience.  The Chef is so excited/passionate to talk about what she is making and, if you wish, you can go behind the counter and assist in making the meal.  The set-up fosters discussions with guests as opposed to sitting a long table and chatting with the person beside you.  Fun, fun, fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2017 • Couples"
+    },
+    {
+      "title": "Not Impressed",
+      "text": [
+        "The menu of items we prepared was very basic. For $200.00 you would expect to learn more than how to sauce mushrooms and put them on a baguette, slice tomatoes and cheese for a salad and the dessert be more exotic than strawberries, blueberries and rasberries tossed with sugar and whip cream. We just didn't feel as though we got value for the money spent.  I would rather have spent the $200.00 for the two of us on a fabulous meal at a restaurant."
+      ],
+      "rate": 2.0,
+      "tripDate": "Oct 2017 • Couples"
+    },
+    {
+      "title": "Birthday celebration",
+      "text": [
+        "My wife arranged a birthday celebration here for me in the company of our children and spouses.  The concept and layout is fantastic. A well equipped kitchen is fronted by a large semicircular bar with bar height chairs serving as the eating table. Chef Elyse and Host David are very engaging and efficient.  The setup encourages fun interaction to make a truly memorable evening.  Sipping wine while cooking together makes it truly fun",
+        "   Unfortunately the end result was disappointing to the palate. We made a wild mushroom soup with Parmesan crisps- this was the winner of the evening.   The main course of tomato based risotto with seafood (mussels, shrimp, trout, calamari) just did not hit the mark.  The sauce was bland and the chef chose to place the seafood on the risotto at the end as opposed to simmering in the sauce- as a result flavour was lost",
+        "Dessert consisted of crepes on the side of chocolate sauce with a small amount of berries. The sauce amount was too small for 3 crepes that where folded handkerchief style resulting in a dry pancake-like texture which was disappointing",
+        "      The cost of the evening was high for the food we received. As a family experience it made a precious memory.  ",
+        " There needs to be significant improvement in the food fare to make this a good dollar value expenditure however.  ",
+        "    I would recommend this as a fun interactive evening but not as a culinary experience. "
+      ],
+      "rate": 3.0,
+      "tripDate": "Nov 2017 • Couples"
+    },
+    {
+      "title": "Childrens birthday party",
+      "text": [
+        "I have just had my daughters 9th birthday party here with 12 of her friends. The whole process was so easy from beginning to end, and the end result was amazing! The team catered for our vegan preferences without issue, getting the kids involved in making pasta primavera (homemade pasta), salad and dressing, cupcakes (that the kids decorated) and smoothies for our lunch menu. The kids were completely engaged by the wonderful staff from start to finish and my daughter so happy with all of it. The food was delicious. The process of organizing was so simple, everything was taken care with no fuss. We didnt have to worry about anything and were able to enjoy ourselves too. Kudos to the whole team for an amazing time for the kids and adults! Would definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2017 • Family"
+    },
+    {
+      "title": "Fun, inspiring, and great food!",
+      "text": [
+        "We really didn't know what to expect when we arrived, but ended up having a great time.  Chef Gaetano Pugliese set a great pace, putting everyone to work, teaching practical, hands-on skills while entertaining us with anecdotes from the chef trenches.  Edutainment, if you will, with a great 3 course meal as the outcome.  If you're expecting a home-ec class, however, look elsewhere."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2017 • Couples"
+    },
+    {
+      "title": "Cooking and Laughs",
+      "text": [
+        "From the moment we arrived we felt at home. The large bar separated us sous chefs from the kitchen. The décor was  beautiful and the sound system pumped out some soul/jazz music. Very nice. The evening started with a glass of cava and as the patrons filed in, we giggled with anticipation with Chef Julian Pancer. ",
+        "Our evening was to be an Asian-inspired menu of a Thai Soup, Pork Belly Fried Rice and Bananas in a Coconut Creme sauce. ",
+        "Everything was delicious however I was not partial to the red bananas. They seemed too starchy/bitter for me. Not sure if they were undercooked but the sauce was awesome!",
+        "I was a little timid at the beginning but as the night wore on, most people got up and entered the kitchen to participate. It was really fun and I could see this being a cool team building exercise for corporations.",
+        "It’s also a terrific idea for a date night. You really don’t have to do too much. I chopped vegetables.  There had been a lot of prep already done so Chef Pancer could concentrate on his audience.",
+        "Being that I was brought as a guest and didn’t pay for this, I couldn’t speak to value for money.  I would consider the wine pairing menu next time.  ",
+        "The end of the experience was a little uncomfortable. You had to go into the back storage room and line up to pay as the machine was there. I would look at that as an opportunity for improvement for the future. ",
+        "Overall, an entertaining and delicious evening."
+      ],
+      "rate": 4.0,
+      "tripDate": "Jan 2017"
+    },
+    {
+      "title": "A very pleasant evening,",
+      "text": [
+        "We enjoyed our time at the Chef Upstairs.",
+        "Our chef Elise was very entertaining and got us all involved in the preparation of the meal.",
+        "Although my wife and I did not know any of the other attendees, we all became a team in short order. Great fun,",
+        "PW (Toronto)"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2019 • Couples"
+    },
+    {
+      "title": "Bffs bachelorette",
+      "text": [
+        "Food was amazing, we chose the pear salad, gnocchi, and deconstructed tiramisu. I cant wait to recreate it for my husband!!! My friend is a foodie and loves cooking she was definatley happy. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Friends"
+    },
+    {
+      "title": "Great Place for a Party",
+      "text": [
+        "Had a great time at this Things to Do/Cooking/Eating venue.  Chef Gaetano and assistant David created a wonderful Tapas menu at the request of the hostesses and we all set off to cook.  Great cooking tips, lots of fun and delicious food in the end.  Great idea for a group experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018"
+    },
+    {
+      "title": "What a great private client entertainment location",
+      "text": [
+        "We entertained clients during OpenText Enterprise World last week.   When we arrived there was an excellent charcuterie board waiting for us to enjoy.  Then we got down to cooking and wine pairing.  Participation was optional and all but one person assisted in plating, cooking and chopping.  The Summer Grill menu was so good and enjoyed by all.  ",
+        "Recommend for team building and a great client private party.  They all asked for the recipes."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2018 • Business"
+    },
+    {
+      "title": "Excellent cooking class",
+      "text": [
+        "My wife and I did a Friday night couples cooking class. Spectacular! Chef Gaetano was an excellent teacher who played great cooking music. The food was amazing and the cooking lessons learnt invaluable. Such an amazing experience. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Couples"
+    },
+    {
+      "title": "Great corporate team building event",
+      "text": [
+        "Our leadership team recently spent the evening at the Chef Upstairs and it was the perfect venue after a busy offsite for us.",
+        "Chef Gaetano got the right balance between having us involved in the food preparation and serving as well as feeling we were also being entertained.  David was a hospitable host and made sure we had everything we needed.",
+        "If you are looking for a more relaxed but interactive event with great food in one venue then this is the place.  The location is also very relaxing and practical and lets you mix and mingle with the prep as well as your colleagues.",
+        "A great evening was had by all and highly recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2018 • Business"
+    },
+    {
+      "title": "A great night out activity!",
+      "text": [
+        "My husband and I recently did this class on a Friday night. The menu was themed for cinco de mayo and really diverse. It was also simple and practical enough for us to learn to replicate on our own. We enjoyed the team environment of the class, and learned a lot of great tips - including new ways to store our spices! Our chef was excellent too."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2018 • Couples"
+    },
+    {
+      "title": "The Chef Upstairs is a must-do!",
+      "text": [
+        "The Chef Upstairs cooking class was an excellent birthday present! No matter what a persons skill level or ability, the chefs made everyone feel incredibly welcome and the food was delicious! This is definitely a fun experience. This event also attracts nice and social people. I highly recommend this experience to others!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2018 • Couples"
+    },
+    {
+      "title": "More a social event than a cooking class",
+      "text": [
+        "I met a bunch of great people at The Upstairs Chef, and had an enjoyable evening with a tasty meal. But this fell well short of a real cooking class. The chef and host gave scanty explanations of the dishes, the ingredients and the cooking methods (although they did answer questions very knowledgably). They would have been better equipped to do so if another person had been on hand to pour wine and wash utensils -- which occupied a good deal of these guys' time. Also, there are some marked differences between the food we prepared and the printed recipes that we took home. One real gripe: The email confirmation on the morning of the class included a blunt reminder to tip the host and chef. This is not a restaurant: Upstairs Chef should pay their employees enough so they do not have to rely on tips."
+      ],
+      "rate": 3.0,
+      "tripDate": "Jan 2018 • Solo"
+    },
+    {
+      "title": "The Best Teambuilding Event!",
+      "text": [
+        "The Chef Upstairs was recommended to me by one of the friends and I decided to give it a try for the office Christmas teambuilding activity. The whole experience exceeded all expectations. The booking and organizing was a breeze, thanks to Danielle. Place is sleek, cozy with an upscale-home feel and equipped with professional kitchen. Chef Gaetano is a master of his craft and a joy to watch while he is doing his magic. Even the most experienced of us learned a few tricks! They have an extensive menu to choose from, including all dietary options. Ceviche, risotto and crepes that we picked were the most delicious. Each dish is matched with selected wines to put you into mellow mood (Thanks, David!). Highly recommend, and looking forward to try their cooking classes!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2017 • Business"
+    },
+    {
+      "title": "Great Experience! Left with valuable skills; would definitely go again!",
+      "text": [
+        "I was so excited to take \"Canadian Winter Comforts\", with Chef Pierre Beaumier. On the menu: a spiced squash and ginger soup, cornish hen with maple-glazed root vegetables and kale, and maple-whiskey butter tarts. ",
+        "Before we started working with the very sharp knives, Chef Pierre gave us a thorough tutorial. We began with the basics like how to hold the knife properly to have the best control over what you’re doing. This was news to me, apparently I've been holding the handle too far back for years. No one was sent off to do a new task without support and guidance from the Chef. I’m actually glad we were placed on the soup team because we got to see our dish through to the end and learned tips on plating as well! ",
+        "The large family style kitchen is reminiscent of a cooking show, with ample seating around the counter. Drinks are available to purchase before the class to enjoy as you cook and eat. Before the cooking begins, Chef goes over the menu, ingredients we’ll be using and demonstrates useful techniques. Then we’re divided up into teams to work on the various courses at the same time. Chef does an incredible job guiding a large group through the activity while empowering you to take initiative and make the recipe your own.",
+        "I genuinely enjoyed the experience and would definitely attend another cooking class with the Chef Upstairs. I learned a lot of useful skills that I’ve already starting implementing in my own kitchen. It was a fresh take on recipes I was familiar with and since I usually lean towards a sweater flavour profile when I cook, it was nice to experience savoury recipes I can use to switch things up at home. Chef Pierre was a great instructor! I was amazed by his multitasking skills and uncanny ability to seemingly be able to be exactly where he was needed at any given time."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2020"
+    },
+    {
+      "title": "A great experience for a group",
+      "text": [
+        "We had a great interactive experience for our group - it was a well-paced, fun and tasty evening.  ",
+        "We booked this for a group of 12 as a change from a restaurant dinner and it worked out really well. The location was private and cosy and we were all made to feel welcome when we arrived.",
+        "Once dinner preparation started, we had a good pace from creating starters and desserts as well as the main course. There was always something to do and pitch in, but it wasn't too rushed at all. ",
+        "Chef Elyse and Dave were fantastic hosts - lots of fun and really helped us learn a few things while also making things fun. ",
+        "The food was tasty - despite us being involved in it's preparation!",
+        "Overall, a good time and a great experience compared to a standard night out."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2019"
+    },
+    {
+      "title": "Good from far and far from good",
+      "text": [
+        "We had the chef next door for a private chef experience - for the price we paid per head at 130.00 - it was less than subpar - I am extremely disappointed",
+        "Flavours were bland, vegetables and meat over cooked, not even premium cut meats like flank and what seemed like frozen fish fillets",
+        "Dessert was not good",
+        "I have had many private chef dinners and I must say - just extremely disappointed",
+        "And they made such a mess on my floors and didn’t even bother to clean - crumbs, pepper etc ",
+        "Anyways 2 thumbs down and would not recommend them ",
+        "Do my photos look worth 130 to you?"
+      ],
+      "rate": 1.0,
+      "tripDate": "Dec 2019 • Business"
+    },
+    {
+      "title": "Amazing night",
+      "text": [
+        "My husband and I went yesterday and it was an amazing experience. food and wine quality was excellent, Chef was very knowledgeable and experienced.  will do it again for sure."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "A great night out but not totally what I expected",
+      "text": [
+        "My friend and I had a great evening making a French-inspired meal. The kitchen was very nice and completely prepped and ready for when we arrived.  My only note is that it is not as interactive as I had believed it would be. We still got to take part in the cooking but everyone only got a chance to cook 1 maybe 2 things. For example, we just got to chop and cook the onions for the french onion soup. Since everything was happening all at once it was hard to know what other people were making. We did get a recipe at the end though so we could make it ourselves.",
+        "From my research, this was slightly cheaper than some of the other similar experiences in Toronto and I really thought it is worth the money."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "A great experience every time",
+      "text": [
+        "This was our third visit to The Chef Upstairs and it was another fun experience! This time we brought another couple with us and they loved it. Chef Elise and David were fun and knowledgeable. My daughter attended the Christmas camp last year and is asking to go back. Always a great time!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019 • Couples"
+    },
+    {
+      "title": "Not a cooking class",
+      "text": [
+        "The people are nice but this is not an experience you should ever consider signing up for.",
+        "It's basically an overpriced cooking demonstration followed by eating the most mediocre food I've ever been served at this price point.",
+        "Here is what I expected. Each person or couple would get like their own burner and ingredients and would do all the prep and such and learn each dish. The reality is the chef doing most of the work beforehand followed by parceling out assignments that just insure that all you get is a sliver of the dish. i.e. if I am chopping onions, I am missing everything about how the meat gets cooked or how something else is being prepared.",
+        "So, you'll learn nothing. ",
+        "That leaves the food...which is terrible...I've been to Thailand six times...this was the least authentic Thai food I've ever seen...and badly prepared...the meat was rock hard and way overcooked (searing meat does not take 8 minutes! My lord the meat was like old shoe leather), the rice was undercooked, everything was served lukewarm, the Pad Thai looked nothing like any I've ever eaten.",
+        "Here's the thing...a cooking demo where people \"help\" could be fun at $50 if they were honest about what it was. Charging $112 (with tax) per person (plus drinks) is just setting your money on fire.",
+        "Do yourself a favor, watch some youtube videos and go eat 3 meals at a real Thai restaurant. You'll pay the same price, enjoy it more and not have to spend three hours chopping garlic."
+      ],
+      "rate": 1.0,
+      "tripDate": "Nov 2019"
+    },
+    {
+      "title": "Awesome!",
+      "text": [
+        "We did this as a corporate social event at work and it was so much fun and very informative.  The cheese board prior to the cooking class was delicious.  My favorite was the goat cheese with cherries - so tasty!  The class itself was great.  The chef gave us great tips and kept everything flowing well.  We made minestrone soup, ricotta-stuffed tortellini with mushrooms, prosciutto and peas in a cream sauce and deconstructed tiramisu.  Making the pasta was fun. The food was delicious and we had a wonderful time.I would highly recommend this place!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2019"
+    },
+    {
+      "title": "Date Night at TCU",
+      "text": [
+        "My partner and I had been wanting to take a cooking class for so long, and our experience at The Chef Upstairs did not disappoint. After receiving a pasta maker for Christmas, we decided to sign up for the Italian summer pasta making class to try our hand at making homemade orecchiette. Chef Elise and David were attentive, personable and made the overall experience a very enjoyable one. As the only vegetarian in our group of 14 couples and friends, I was worried about being excluded from the overall experience. Rather, I was accommodated throughout the cooking process and encouraged to experiment and add my own flavours, herbs, cooking method/approach etc to each meal I helped to create. I really appreciated this. The length of the cooking class is perfect - 3 hours was more than enough time to mingle with others in our group, create 3 incredibly delicious meals, connect with my partner and enjoy a cocktail and glass of wine while listening to some fabulous music. The great part of this process is you can be as involved as you want. Some of us (myself included) rolled up our sleeves and got right in there, while others were happy to try their hand at a few recipes or just sit back and just watch everything unfold from the comfort of their seat. We were thoroughly impressed with our experience and are already talking about taking another class in the future with family and friends!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2019 • Friends"
+    },
+    {
+      "title": "Pasta Making Class",
+      "text": [
+        "Amazing.. Our chef and the staff were really great.. What an awesome experience.. I'd definitely be interested in doing more classes.."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2019 • Couples"
+    }
+  ]
+}

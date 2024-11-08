@@ -1,0 +1,382 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "The Imaginarium",
+    "url": "/Attraction_Review-g155019-d15226335-Reviews-The_Imaginarium-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "116 Tycos Dr Unit #4",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M6B 1V9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 117
+    },
+    "openingHours": [
+      "Tu-Fr 16:00-22:30",
+      "Sa 11:30-23:30",
+      "Su 11:30-21:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/0e/bf/8c/the-grand-wilshire-hotel.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Escape Games"
+  ],
+  "description": "The Imaginarium is the perfect playground for a creative mind. Our focus is providing the best adventure escape rooms that Toronto has to offer. Our rooms are designed to be immersive, with theme park quality production value. No expense has been spared, no detail has been overlooked. Our puzzles have been crafted to be challenging but logical and require teamwork to succeed.",
+  "duration": "Duration: 1-2 hours",
+  "reviews": [
+    {
+      "title": "Would Go Again",
+      "text": [
+        "We’ve done a lot of escape rooms and this one did not disappoint. A lot of fun. Unlimited help. Super friendly staff. And great rooms with a variety of puzzles to solve."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "A Wonderful Escape",
+      "text": [
+        "My family of four went to the Imaginarium for my husband’s birthday, and we had a blast. It was our first time doing an escape room, so we had no idea what to expect. We chose the haunted hotel escape room. ",
+        "From the moment we arrived at the Imaginarium, everyone was super friendly. We were given general instructions, advice, and some helpful tips before starting. Then during the escape room, we had a walkie talkie to ask for help when we needed it.",
+        "I was impressed by the quality of the props and the types of challenges.",
+        "The hour flew by, we worked as a team, and we can’t  wait to go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2024 • Family"
+    },
+    {
+      "title": "Great time!",
+      "text": [
+        "The staff and the game was great. Very friendly and fun. The level of detail in the game added to the experience. We all had a great time our 9 year old was a bit scared but got over it."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2024 • Family"
+    },
+    {
+      "title": "Great experience",
+      "text": [
+        "My family, my friends and I had an amazing time at Imaginarium. From the very attentive staff to the well decorated room, it was an awesome experience. I have been to many escape rooms in the Toronto area, and this was the nicest one. The details in the room, the moving pictures and how the clues connect, it was super fun."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Great teen b-day experience",
+      "text": [
+        "Brought a group of 13 year olds here to celebrate my daughter’s b-day. They completed the Amun Ra experience and loved it. The clues were challenging to figure out but they managed to get through the escape room. Will come back next year to try the Wilshire Hotel."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Wilshire Hotel- The Imaginarium",
+      "text": [
+        "Brought  friends from out of town and we all really enjoyed ourselves. We played  Wilshire Hotel, theme is spooky but not too scary, puzzle design and decor were on point! Location is easily accessable by transit. Staff are entertaining and made the experience extra special."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Space Station 19 Augmented Reality Experience",
+      "text": [
+        "Space Station 19 was incredible!!  Again Imaginarium has outdone themselves. This technology has never been done before.  Very Cool Experience!!! We went as a threesome and thoroughly enjoyed it.  Totally immersive experience.  The great blend of Virtual, mechanical, logic and sensory puzzles.  Kudos to the Imaginarium team for making this a 5/5 star experience!!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "AR Space Experience",
+      "text": [
+        "We did the Space Station 19 AR room this past weekend and overall enjoyed our experience, but as an escape room enthusiast, there are some things that could've made the experience much more immersive:",
+        "Pros:",
+        "- very friendly and accommodating staff",
+        "- well decorated rooms + lobby area",
+        "Cons:",
+        "- very lengthy room briefing (game master spent about 20 mins briefing us with information that the tutorial would later cover)",
+        "- briefing included some spoilers of what we would encounter in the room",
+        "- briefing happened inside the room rather than in a separate, making it feel not immersive  ",
+        "I do understand its a relatively new room, and one of, if not, the first augmented experience in the Toronto so its still a learning experience, but I think the addition of a briefing area and a much shorter briefing session would be crucial to making this experience more pleasant"
+      ],
+      "rate": 3.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Great adventure!",
+      "text": [
+        "When you walk in you already feel immersed in another world. The staff were super friendly and helpful. There were four of us and we had a great time! It was our friends first experience at an escape room and they would definitely go again."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Friends"
+    },
+    {
+      "title": "Super nice and helpful staff",
+      "text": [
+        "Staff was super friendly and very helpful. This was for a birthday party and we had two grandparents from out of town that did not speak any English and were going to wait in the lobby. Staff involved them at the beginning and the end and were really nice!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Great escape room with friendly staff",
+      "text": [
+        "My friends and I went here as our first escape room experience. We booked the hotel escape room and it was great. The puzzles were creative and interactive, plus the staff is super friendly. I’m definitely coming back here for more escape rooms."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "Fun escape room!",
+      "text": [
+        "We’ve done quite a few escape rooms and this one was one of the best. I love how immersed we felt. Brent was great too!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023 • Friends"
+    },
+    {
+      "title": "Incredible",
+      "text": [
+        "I’ve visited dozens of escape rooms across the country and not a single one even comes close to the experience The Imaginarium. The attention to details and the intricate puzzles will make your jaw drop. After this experience, I won’t go to any other escape rooms because no one can compete with these guys!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "10/10!",
+      "text": [
+        "What an amazing place, I highly recommend it. The couple who own the place are such friendly and passionate people - and it shows in their escape rooms. From entering the parking lot and into the escape room itself, the production and atmosphere make it feel like you are really in another place. Thank you Imaginarium for a great night, we will definitely be back! "
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023 • Friends"
+    },
+    {
+      "title": "Fantastic escape room",
+      "text": [
+        "The Wrath of Amun Ra - We escaped! ",
+        "3 of us worked hard with the help of our awesome game master to escape this multi room escape room in 51:23. Solid room, lots to do. Great lobby. Great staff. We will be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Family"
+    },
+    {
+      "title": "Excellent entertainment",
+      "text": [
+        "Wonderfull time to be had by all.  The immaginarium never dissapoints.  We lifted the curse of amuran  in a mere hour",
+        "itala"
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2023 • Friends"
+    },
+    {
+      "title": "A Ghastly Fun Adventure!",
+      "text": [
+        "Easily one of the best escape rooms in Toronto. From start to finish, the staff were incredibly friendly, welcoming, and accommodating. Kay, our DM, made our experience extra sweet!  She took the time to explain the backstory of the escape room, which really added to the immersive experience.  We did The Grand Wilshire Hotel.  Once inside, it was immediately clear that a lot of time and effort had been put into the design and puzzles. The room was beautifully decorated with intricate details and the theme was spooky but not too scary to enjoy.  The puzzles were challenging but solvable.  Highly recommend if you're looking for a thrilling and fun adventure with friends, especially if you have never been to an escape room before.  Thanks to the team at The Imaginarium for creating such a fantastic escape room! Will definitely return for more!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2023"
+    },
+    {
+      "title": "Really fun stuff!",
+      "text": [
+        "This was my first experience with an escape room and it was amazing! I felt like I was a part of the theme. SFX were so good!! I can’t wait to try their other rooms. ",
+        "If you are worried about the difficulty, don’t be; it is all fun!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022 • Business"
+    },
+    {
+      "title": "An Immersive Escape Room Experience Unlike Any Other",
+      "text": [
+        "The Imaginarium is like visiting a 5-star hotel where you meet quality in every corner and avenue. Their staff makes your experience there even more enjoyable. The sets in their rooms are mind-boggling, and you experience all these intricate details right at the front door. I love how just finding their front door is a little game on its own, so give yourself enough time if it's your first time visiting them. Our favourite room was The Steampunk Express, where not only do you get immersed in an adrenaline-pumping mission, but the puzzles and details immerse your mind. The Steampunk Express is a mission you have to try! Thank you, The Imaginarium, for all your effort to ensure we have a fantastic experience."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2022"
+    },
+    {
+      "title": "Challenging, but so much fun!",
+      "text": [
+        "Super friendly and helpful staff, who made are first experience exceptional.  We were seven adults ranging from 23 to 60, and we all had a blast."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2022 • Friends"
+    },
+    {
+      "title": "Escape Room  Fun",
+      "text": [
+        "This place was a wonderful experience from start to finish. My team and I really enjoyed ourselves, super fun game play and excellent set design. Will definitely be recommending to my local friends and any Toronto visitors. Totally worth the trip!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Family"
+    },
+    {
+      "title": "Much more fun than a movie!!",
+      "text": [
+        "Impressive from the moment you get to the entrance, walk inside, check in and begin your game… The sets are very well done with a keen eye for detail, the guide that prepped us for the Grand Wiltshire was very helpful, friendly and really got us in the mood.   This is so worth the money.. we’ll be coming back as soon as we can!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "So much fun!",
+      "text": [
+        "This was a great first experience for an escape room! Killarney is an excellent and talented Game Master, as they ran the room for my friends and I. We all had such a great time and I would recommend this place to anyone in a heartbeat. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "The best escape room",
+      "text": [
+        "One of the best escape rooms that I went to. Excellent setting and puzzles. The staff was so nice also"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Friends"
+    },
+    {
+      "title": "Excellent customer service",
+      "text": [
+        "We ran a little late for our slot. It was my sons 15th birthday, the team was welcoming, flexible and very pleasant. They allowed us to finish our challenge despite our time running out. The facility is so clean and well managed! We loved every second!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023 • Family"
+    },
+    {
+      "title": "Amazing Experience!",
+      "text": [
+        "First time experiencing an escape room, and this one was perfect for that! We picked the Wilshire hotel and it was so fun. The set was awesome and it felt like a real haunted hotel. Staff are incredibly kind and helpful and explained all of the rules really well.  Great activity for team building or just for fun with family and friends."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Couldn't have been better!",
+      "text": [
+        "Fantastic escape room! Brent was amazing and explained everything clearly and thoroughly. We went on my husband's birthday, and it was one of the best parts of the day! We escaped with no hints, and 16 minutes left on the clock! Thank you so much for such a great experience. Completely worth the 2 hour drive."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Very impressed",
+      "text": [
+        "This was our first time at The Imaginarium, but we have done many escape rooms before and we were so impressed. The level of detail and quality in the rooms and even in the lobby and the hallway was excellent. The puzzles were interesting, on theme and a step up from any other rooms we've done before. Definitely recommend."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Phenomenal Experience",
+      "text": [
+        "This was the first time we’ve been to Imaginarium. My family has done probably 2 dozen rooms and this by far was the best one! We did The Steampunk Express as it’s rated the most challenging. There were 6 of us, and there was always something for everyone to do. The problem with most of these places is that they are rated for high numbers and then there will always be people just standing around with nothing to do, this was not the case here which raises the bar. Brent was our Game Master and he was AWESOME! Very informative, quite detailed, encouraging and quite funny. We wanted to stay for another room but they were booked solid, which says a lot about the quality of the rooms and the company. We will absolutely be going back!  Thanks for a fantastic experience!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Family"
+    },
+    {
+      "title": "Escape experience ",
+      "text": [
+        "The Imaginarium has a great escape room setup, would recommend to anyone who likes a challenging experience "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023 • Friends"
+    },
+    {
+      "title": "Space Station 19",
+      "text": [
+        "I played Space Station 19 as a twosome and the experience was alot of fun. It's a puzzle room with augmented reality technology that is nothing like I've played before. The staff was great at explaining how to play and you get a trial tutorial so you can get accustomed to how to use the Goggles before the game starts. Our game master was very patient with us and set us up to enjoy our game. Highly recommend!👍"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Friends"
+    },
+    {
+      "title": "Amazing experience at The Imaginarium!",
+      "text": [
+        "As belgians travelling to Toronto, we tried to pack in as much activities as we could. We stumbled upon The Imaginarium on tripadvisor and booked the egyptian style room. Very warm welcome and clear instructions and amazing decorations and setting. Afterwards, the employees we’re super kind and also showed us the train themed room and gave us a brief tour of it. Incredible hospitality and atmosphere. We were very happy we got to experience it."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "A real escape room!",
+      "text": [
+        "Super friendly people, and such a fun experience. This escape room is the real deal. Challenging clues, amazing setup!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Friends"
+    },
+    {
+      "title": "Creepy-cool family outing",
+      "text": [
+        "Great bonding experience for the family — 2 adults, 3 teens. Friendly staff. We visited the Wilshire Hotel. Sort of a mini version of Disney’s Haunted Mansion."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "Great place!",
+      "text": [
+        "It was a truly immersive experience with well-thought-out interior design, impressive sound and visual effects, and engaging tasks and puzzles. The place is highly recommended for a fun and memorable adventure with friends or family."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Family"
+    },
+    {
+      "title": "A+ Experience!",
+      "text": [
+        "We did the Grand Wiltshire Hotel escape room. Our group of 5 ranged from novice to very experienced and all had a great time. Very challenging with lots of animation. We escaped and saved our souls with 3 minutes to spare!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Family"
+    },
+    {
+      "title": "Real Review Really good time",
+      "text": [
+        "We had such a good time. We only had three people in our party but the booking  person was helpful friendly and based on our beginner experience gave us a good run down of what to expect.",
+        "I googled best escape rooms in Toronto and Imaginarium was top rated. I read the reviews about each place on the list and that’s how I chose this. ",
+        "We had all gone to escape rooms ONCE before individually and didn’t have great experiences but we were looking for something to do between 1-6pm so we gave it a try.",
+        "*Clean",
+        "* Had as many hints as needed",
+        "* We actually escaped ",
+        "* Gamemaster and Staff were very friendly ",
+        "* Very fun",
+        "* Wiltshire Hotel"
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024 • Friends"
+    },
+    {
+      "title": "The best escape room in Toronto. Period.",
+      "text": [
+        "The best escape room in Toronto. Period. ",
+        "Both my wife and I have done quite a few Escape Rooms - tens of them in five different countries - some OK, some very good. Well, the Imaginarium just raised the bar for us. The whole complex is tidy and well maintained, The hosts (who happen to be the owners) extremely friendly, helpful and accommodating (as opposed to other places in Toronto where they stick to some strict silly rules and spoil the fun.) The atmosphere is spot-on. The adventure was a bit challenging for us - but mostly because we did not pay attention to some details. All clues made sense and were well integrated in the atmosphere. If you are smarter than we were - you will be able to do it with fewer hints. But even if you miss a detail or two, ask kindly and the hosts will gently nudge you in the right direction (without spoiling the fun of YOU finding the actual solution).",
+        "There is a right balance of \"wow\" high tech effects and figure out what code goes where and how.",
+        "We hardly wait for another occasion to visit the place again and do another adventure there. I would give 6 out of 5 if I could."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Friends"
+    },
+    {
+      "title": "Great Group Activity!",
+      "text": [
+        "My friends and I checked out The Imaginairum for the first time yesterday and needless to say, we had the absolute best time. This was my first ever escape room experience and I has been looking forward to this for months! ",
+        "The difficulty level was listed at about a medium difficult and I would have to agree with that. However, as a team we were able to complete the maze in just under an hour with some help from the staff. ",
+        "We will definitely be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Friends"
+    },
+    {
+      "title": "Exceptional set design, incredibly immersive experience and so much fun",
+      "text": [
+        "We have done many escape rooms in the past and we love them. This one was exceptional. The people who built this have a background in television and their set design was the best we’ve ever seen. we had a fabulous time solving the puzzles which were well put together with plenty of surprise.",
+        "Afterwards, we had a great chat with the owner and designer of the whole thing who was clearly passionate about all of it and gave us a sneak preview at a new room. He’s building that uses for the first time ever Microsoft hollow lens, which sounds just absolutely amazing.",
+        "Well worth the money and would highly recommend this to anyone who loves escape rooms ."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Family"
+    }
+  ]
+}

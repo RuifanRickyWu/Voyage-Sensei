@@ -1,0 +1,365 @@
+{
+  "basic_data": {
+    "@type": "LocalBusiness",
+    "name": "Bahn Thai Spa",
+    "url": "/Attraction_Review-g155019-d7378742-Reviews-Bahn_Thai_Spa-Toronto_Ontario.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "136 Adelaide St E. Somewhere",
+      "addressLocality": "Toronto",
+      "addressCountry": "Canada",
+      "postalCode": "M5C 1K9"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 300
+    },
+    "openingHours": [
+      "Mo-Fr 11:00-20:00",
+      "Sa-Su 10:00-18:00"
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/06/a0/79/bahn-thai-spa-zen-zone.jpg?w=1200&h=-1&s=1",
+    "@context": "http://schema.org"
+  },
+  "tags": [
+    "Spas"
+  ],
+  "description": "Experience a whole new world of relaxation. At Bahn Thai Spa we are committed to creating a stress-free environment for our guests. We offer Traditional Thai Massage at it's very best and offer couples a place to de-stress too! From the moment you enter you are greeted by the smell of our exclusive organic lemongrass oil. Our warm, friendly staff will offer you organic lemongrass tea while they make special arrangements for your visit. You'll be whisked away to our \"Zen Zone , an oasis complete with traditional Thai-style curtained rooms in glorious jewelled colours. Pamper yourselves with a 90 minute couples massage and add on an Infrared Sauna session to melt those aches away. Prepare for the ultimate away-day!",
+  "duration": "Duration: 2-3 hours",
+  "reviews": [
+    {
+      "title": "A Very Special Birthday Present",
+      "text": [
+        "As a birthday present for my daughter, I signed us up for Thai Reflexology. We were both very impressed with the efficiency of registration, the quality of service at the front desk but most importantly,   the  excellent treatments we received from Jan Jared and Ana Paula. We highly recommend Bahn Thai Spa."
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2024 • Family"
+    },
+    {
+      "title": "Highly recommend for couples!",
+      "text": [
+        "Len and Laura were amazing! I brought my fiance here for a couples massage and it was so relaxing. We felt like we were in Thailand, especially in the sauna!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2024 • Couples"
+    },
+    {
+      "title": "Fabulous experience!",
+      "text": [
+        "I had a foot massage, which was SO much more, surreal experience, so relaxing, and the massage included my sore feet (from all my touristy-walking), my calves, thighs, and neck, shoulders, feet.  My practitioner was experienced, and professional, and unbelievably competent."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Family"
+    },
+    {
+      "title": "A perfect massage at Bahn Thia Spa",
+      "text": [
+        "I recently visited Bahn Thia Massage Spa and had a wonderful experience. My massage therapist was Ana who had perfect technique and was able to loosen up my tight muscles. As a 260lb male, she skillfully used her techniques including massage and stretching to help work out the kinks. She was also able to pinpoint problem areas and spend extra time on my trouble spots. My wife saw Ploy who provided a very detailed massage and was able to help realign her body. This establishment offers high-quality massages on comfortable mats so therapists can fully work your body. I would highly recommend booking services here."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2024 • Couples"
+    },
+    {
+      "title": "Excellent massage, my body was very thankful",
+      "text": [
+        "Relaxing and right amount of pressure around the body. My back and shoulders had been very tight and this did the job. Spot on!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "110% Recommend!",
+      "text": [
+        "My feet and body were Happy, and I was ready for more city exploration, after my massage! I worked with a Practitioner, who listened when I said what areas to focus on and adjusted pressure according to my requests. The space was clean, and I felt like I was in another place surrounded by colorful fabrics. It was surprisingly quiet considering there were no doors between the massage areas. The curtains were very opaque and heavy, however, and gave a total sense of privacy."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2024 • Solo"
+    },
+    {
+      "title": "Excellent Thai massage, if  you have never been it is 100% worth trying out then feel the effects of experts magic",
+      "text": [
+        "What an amazing, safe, soothing, relaxing body massage. You leave your clothes on and Jon used an oil to rub on legs, feet and hands, wonderful massage, great for circulation, vitality and the mind. He even massaged my head. Wish I could go every single day."
+      ],
+      "rate": 5.0,
+      "tripDate": "Apr 2024 • Friends"
+    },
+    {
+      "title": "Wonderful experience",
+      "text": [
+        "A beautiful space, one of the best massages I have ever had. An hour and a half was not enough, it was that good."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024"
+    },
+    {
+      "title": "Felt like I was Walking on a Cloud",
+      "text": [
+        "I had the pleasure of attending a couples massage. My partner had the Practitioner Gohar, whom he said did an excellent job and was very strong. ",
+        "My experience was with the practitioner named Angele. She was amazing. I felt like I was walking on a cloud when I left. She massaged my whole body, but focused a little more on the areas where I felt I needed more attention. ",
+        "I’ve been to Thailand and have had the massages there as well, so I can say, it’s quite comparable, I felt as if I was back there again, minus the hot weather. ",
+        "Thank you so much, I will definitely be returning."
+      ],
+      "rate": 5.0,
+      "tripDate": "Mar 2024"
+    },
+    {
+      "title": "relaxation time",
+      "text": [
+        "great massage experience. the atmosphere is relaxing, the massage therapist was skilled and I left feeling wonderful"
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Family"
+    },
+    {
+      "title": "This place is great!",
+      "text": [
+        "Had my first Thai massage at Bahn Thai Spa last week and I'm hooked. Special thanks to Ana! I'll be back again very soon."
+      ],
+      "rate": 5.0,
+      "tripDate": "Sep 2023"
+    },
+    {
+      "title": "Life changing experience",
+      "text": [
+        "I walked out of there a different and very relaxed man. A lovely experience start to finish. Me and my girlfriend had a lovely time "
+      ],
+      "rate": 5.0,
+      "tripDate": "Aug 2023"
+    },
+    {
+      "title": "Incredible Experience",
+      "text": [
+        "My partner and I had an incredible experience at Bahn Thai Spa. We started with the sauna for 30 minutes (which included a shower, tea and water) followed by a 90 minute Thai massage. Len really knows what he is doing and personalize my experience for how I use my body in my everyday life. I wish I lived in the area to continue doing bodywork here!! "
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Twist on our normal massage",
+      "text": [
+        "This was a real Thai Massage...My husband and I chose a couples massage. He is use to deep tissue and I normally get Swedish. This was an interesting twist we didn't expect. They stretch and work muscles like I have never experienced. We felt great and recommend for a different experience that actually makes a difference"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Don't hesitate, go for it !",
+      "text": [
+        "The personnel is very professional Kate the owner, is very human and friendly. a big thank you to his team"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Great experience!",
+      "text": [
+        "It was my first time at the Bahn Thai Spa, and everyone was so welcoming, warm and helpful. I was able to book easily online, and there was a lot of availability. The spa itself is cozy, clean and relaxing- from the welcome tea to the clothes to wear during the massage, they really make you feel cared for. The massage itself was great, very helpful for my neck and shoulder pain! I will be back!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "A great place to relax after busy days in Toronto!",
+      "text": [
+        "We had a wonderful time at Bahn Thai Spa. We booked the couples retreat for 90 minutes and the infra red sauna. We were both very satisfied, clean and comfy place. Definitely highly recommended!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jul 2023"
+    },
+    {
+      "title": "Amazing massage",
+      "text": [
+        "I totally lucked out -- I just wanted a massage, wanted something near my hotel.  I found Bahn Thai Spa online and went with it on a whim. It was AMAZING.  The place is very clean and beautifully decorated, very tranquil, and my therapist took a lot of time before the appointment to ask me about my issues and what I wanted to address. Then the massage and stretching were fabulous.   I walked out of there looser and lighter and wishing I had one of these spas near my home!"
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Forget a regular massage. This is the BEST experience ever!",
+      "text": [
+        "Len. That’s who you need to see. Just do it.",
+        "I can home from a long trip and in rough shape from a fitness bootcamp. I was in dire need of something more than a regular massage and I can’t begin to tell you how incredible this place was for me. They will provide you with a top and pants to wear during the massage. I was stretched and worked on like no other. I am looking forward to my next visit. It’s the best experience next to the one I had in Laos and Thailand. I’ve recommended many. Go!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Jun 2023"
+    },
+    {
+      "title": "Better than I experienced in Thailand",
+      "text": [
+        "This was my birthday present from & formy wife❣️😏❣️",
+        "It was a therapeutic choice as well for relaxation as I’ve not had a massage in years!",
+        "It was a 10 out of 10 & I will be back."
+      ],
+      "rate": 5.0,
+      "tripDate": "May 2023"
+    },
+    {
+      "title": "Great!",
+      "text": [
+        "I was given this as a Birthday present, was a great experience enjoyed it very much stretched and loosened my whole body. Will definitely go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Family"
+    },
+    {
+      "title": "Wonderful gift to yourself",
+      "text": [
+        "One of the absolute best experiences I have ever had. I am not a fan of massage but was told to try Thai massage. I was amazed at how great I felt. Do yourself a favor and book a sauna and massage. It was incredible."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Solo"
+    },
+    {
+      "title": "Very Pleasant",
+      "text": [
+        "This was my first experience with Thai massage and it was very pleasant on all fronts (the session, service, atmosphere, etc.); I will likely return to Bahn Thai Spa. In addition to providing a great massage, the practitioner I was with (Monika) was able to provide some useful feedback about my body's alignment."
+      ],
+      "rate": 4.0,
+      "tripDate": "Nov 2023"
+    },
+    {
+      "title": "Great Experience",
+      "text": [
+        "Had the infrared sauna and then a couples massage. Was relaxing and fun. Great environment and location. Will definitely go back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023"
+    },
+    {
+      "title": "60 minute Thai massage.",
+      "text": [
+        "Amazing experience...great relaxing treatment and atmosphere...team are super kind, thoughtful and caring. Treatment was exceptional. Lemongrass tea was lovely.  Thank you all so much...will be back."
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023 • Friends"
+    },
+    {
+      "title": "Wonderful experience!",
+      "text": [
+        "It was my first Thai massage, I really understood the tagline \"we do your yoga for you\" and I loved it! Amazingly beautiful setting, extremely relaxing experience, especially combined with a bath with epsom salts (given after the massage) at home that same night. It felt like travelling far away and it was wonderful!!"
+      ],
+      "rate": 5.0,
+      "tripDate": "Nov 2023"
+    },
+    {
+      "title": "Couples massage",
+      "text": [
+        "Excellent and attentive staff and service. Excellent attention to safety. Would go again in a heartbeat! We both felt 5 inches taller after they were done."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Couples"
+    },
+    {
+      "title": "Absolutely amazing service and treatment.",
+      "text": [
+        "Most professional and courteous experience.  Renown treatment that completely rejuvenates the mind, body and soul."
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023"
+    },
+    {
+      "title": "Awesome Massage",
+      "text": [
+        "Clean place, calming atmosphere, professional and friendly staff.",
+        "Fantastic massage. Phil did a fantastic job and I will definitely come again. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023 • Solo"
+    },
+    {
+      "title": "The massage I’ve been looking for all my life.",
+      "text": [
+        "It was my first visit to this spa, new to Thai massages. I’ve had thousands of massage in my life constantly begging for “more pressure” and RMT’s telling me they’re “saving their energy for the day” or that they flat out “don’t do deep pressure”. This is the massage I’ve been craving all this time! I had a 90-min massage with Len. I wish I had booked 2-hrs… ",
+        "Such a fantastic experience.  "
+      ],
+      "rate": 5.0,
+      "tripDate": "Oct 2023"
+    },
+    {
+      "title": "Amazing experience!!",
+      "text": [
+        "One of the best massages I have had-and the spa felt like a beautiful escape. Highly recommend the Bahn Thai Spa. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024"
+    },
+    {
+      "title": "Jan is the best",
+      "text": [
+        "Bahn is a wonderful spa. From receptionist to massage therapist, they are very friendly and welcoming. Probably one of the best massages I’ve ever got. Jan was my massage therapist and did an amazing job."
+      ],
+      "rate": 5.0,
+      "tripDate": "Feb 2024 • Couples"
+    },
+    {
+      "title": "Amazing Experience",
+      "text": [
+        "We had an amazing experience, have talked about it non stop and will recommend to friends and family.  Not like any massage treatment I have ever had."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Couples"
+    },
+    {
+      "title": "Cannot wait to go back!",
+      "text": [
+        "First encounter was by phone and they were amazingly polite and helpful. Upon arrival the same level of courtesy continued throughout. Awesome experience every step of the way. Massage was totally fulfilling."
+      ],
+      "rate": 5.0,
+      "tripDate": "Jan 2024 • Solo"
+    },
+    {
+      "title": "First time getting Thai massage",
+      "text": [
+        "Wonderful experience ",
+        "Cant wait to go again",
+        "Went for moms birthday",
+        "She also loved it.",
+        "Parking was a bit hectic."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023"
+    },
+    {
+      "title": "Amazing and relaxing",
+      "text": [
+        "Couples sauna was nice and cozy, massage was amazing. First time I had Thai massage, all the knots are gone, my body feels relaxed."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023"
+    },
+    {
+      "title": "oh so amazing",
+      "text": [
+        "This was my first Thai massage so was a bit unsure of what to expect. I was greeted with an option of some tea or water and asked questions about my health aches and pains.  The massage area had an amazing ambiance about it and  The music in the background was cheerful yet relaxing.",
+        "My Thai massage was more than I could have expected. She worked on all my problem area and had me so limber. I am from out of town but defiantly will return when Im back in the area. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023"
+    },
+    {
+      "title": "Exceptional experience!",
+      "text": [
+        "We had an amazing experience during our visit to Bahn Thai spa. Haya greeted us at the door with a smile and some initial information about the space. She made us some tea and helped us relax before the appointment. Before and after, she also gave us some great information about the spa and the local area for us to check out. Orachon and Jun gave us both of our first Thai massages. They were incredible. We left feeling so energized. Afterwards, we had questions answered and some nice conversations. The gift shop had a bunch of great stuff too that we bought for home. Every time I smell lemongrass I will think of the great night we had here! Thanks again and see you soon. "
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023 • Couples"
+    },
+    {
+      "title": "First visit",
+      "text": [
+        "It was a spontaneous decision and a Friday right after work. One of my best recent decisions. Ana was lovely and skilled. It was a fantastic experience and I look forward to the next one."
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023"
+    },
+    {
+      "title": "Incredible massage",
+      "text": [
+        "I went with my mother and we were delighted by the whole experience. Very friendly staff. comfortable and beautiful set up. incredibly relaxing massage. No complaints whatsoever"
+      ],
+      "rate": 5.0,
+      "tripDate": "Dec 2023"
+    }
+  ]
+}
