@@ -1,8 +1,8 @@
 from typing import Optional, Callable
-from intelligence.llm_wrapper import LLMWrapper
+from intelligence.wrapper.llm_wrapper import LLMWrapper
 import logging
 import openai
-from intelligence.warning_observer import WarningObserver
+from intelligence.wrapper.warning_observer import WarningObserver
 from tenacity import (
     retry,
     stop_after_attempt,
@@ -14,7 +14,7 @@ from tenacity import (
 
 logger = logging.getLogger('gpt_wrapper')
 
-class GPTWrapper(LLMWrapper):
+class sampleGPTWrapper(LLMWrapper):
     """
     Class for wrapping around the GPT LLM.
 
