@@ -1,4 +1,4 @@
-from main.base_system import BASE_SYSTEM
+from system.base_system import BASE_SYSTEM
 from information_retriever.search_engine.search_engine import SearchEngine
 
 
