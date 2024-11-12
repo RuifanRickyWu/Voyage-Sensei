@@ -7,8 +7,10 @@ class TASB(Embedder):
     _model: SentenceTransformer
 
     def __init__(self):
-        super().__init__()
-        _model = SentenceTransformer("paraphrase-MiniLM-L6-v2")
+        self._model = SentenceTransformer("paraphrase-MiniLM-L6-v2", device="cpu")
 
-    def embed(self, text: list[str]) -> torch.tensor:
-        return self._model.encode(text)
+    def embed(self, texts: list[str]) -> list[torch.Tensor]:
+        embeddings = []
+        for text in texts:
+            embeddings.append(torch.tensor(self._model.encode(text)))
+        return embeddings
