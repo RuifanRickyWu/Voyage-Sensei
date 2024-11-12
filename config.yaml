@@ -1,2 +1,3 @@
+API_KEY: "placeholder"
 RAW_POI_PATH_TEST: "/Users/rwu/dev/capstone/Car-Travel/information_retriever/database/raw_poi_test"
 VECTOR_DATABASE_PATH : "/Users/rwu/dev/capstone/Car-Travel/information_retriever/database/vector_database"
