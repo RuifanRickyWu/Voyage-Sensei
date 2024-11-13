@@ -23,5 +23,5 @@ class LLMBasedIRFactory(IRFactory):
         return instance.get_agent()
 
     def create_search_engine(self) -> LLMSearchEngine:
-        search_engine = LLMSearchEngine(self._get_llm_agent())
+        search_engine = LLMSearchEngine(self._get_llm_agent(), self._config.get('ir').get('prompt'))
         return search_engine

@@ -4,6 +4,7 @@ from intelligence.wrapper.llm_wrapper import LLMWrapper
 from planner.planning.planner import Planner
 from planner.planning.llm_planner import LLMPlanner
 
+
 class PlannerFactory(ABC):
 
     @abstractmethod
@@ -11,11 +12,10 @@ class PlannerFactory(ABC):
         pass
 
 
-
 class LLMPlannerFactory(PlannerFactory):
     _config: dict
 
-    def __init__(self,config: dict):
+    def __init__(self, config: dict):
         self._config = config
 
     def _get_llm_agent(self) -> LLMWrapper:
@@ -25,4 +25,3 @@ class LLMPlannerFactory(PlannerFactory):
     def create_planner(self) -> Planner:
         planner = LLMPlanner(self._get_llm_agent())
         return planner
-

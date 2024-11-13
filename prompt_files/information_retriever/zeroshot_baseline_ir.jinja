@@ -1,0 +1,23 @@
+You are an expert travel guide. Please provide a list of the 5 best Points of Interest (POIs) in Toronto based on the following user query:
+
+User Query: {{user_query}}
+
+For each POI, include the following details:
+1. **POI Name**: The name of the place.
+2. **POI Address**: The complete address of the place.
+3. **Short POI Description**: A brief description of what makes this place interesting or unique.
+4. **Reasoning: why this place fits the user query
+4. **POI Duration**: The estimated time a visitor would typically spend at this place.
+
+Return the response as a JSON array with each POI represented as an object in the following format:
+
+```json
+[
+    {
+        "name": "POI Name",
+        "address": "POI Address",
+        "description": "Short POI Description",
+        "reasoning": "Short reasoning for the relation to user query"
+        "duration": "POI Duration"
+    }
+]

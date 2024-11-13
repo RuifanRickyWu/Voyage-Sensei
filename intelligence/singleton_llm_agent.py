@@ -9,7 +9,7 @@ class SingletonLLMAgent:
 
     def __new__(cls, config: dict):
         if cls._instance is None:
-            cls._instance = super(cls).__new__()
+            cls._instance = super().__new__(cls)
             cls._instance._config = config
         return cls._instance
 
