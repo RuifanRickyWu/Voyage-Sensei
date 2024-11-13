@@ -5,3 +5,8 @@ ir:
   prompt:
     PROMPT_PATH: "prompt_files/information_retriever"
     BASELINE_ZEROSHOT_PROMPT: "zeroshot_baseline_ir.jinja"
+
+planning:
+  prompt:
+    PROMPT_PATH: "prompt_files/planner"
+    BASELINE_ZEROSHOT_PROMPT: "zeroshot_baseline_planner.jinja"

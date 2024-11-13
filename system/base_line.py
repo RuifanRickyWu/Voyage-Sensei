@@ -4,6 +4,7 @@ from system.base_system import BASE_SYSTEM
 from information_retriever.information_retriever_factory import LLMBasedIRFactory
 from planner.planner_factory import LLMPlannerFactory
 from api_key import API_KEY
+import json
 
 
 class BaseLine(BASE_SYSTEM):
@@ -23,4 +24,8 @@ class BaseLine(BASE_SYSTEM):
 
         query = "jazz based theme"
         print(query)
-        print(search_engine.get_topk_poi(query))
+        search_result = json.loads(search_engine.get_topk_poi(query))
+        print(search_result)
+        poi_sequence = planner.plan(query, search_result)
+        print(poi_sequence)
+
