@@ -1,0 +1,16 @@
+You are an expert travel planner. Based on the following user query and the provided list of Points of Interest (POIs) in Toronto, please select a subset of POIs that can be visited within a single day. Optimize the sequence of POIs for a pleasant and efficient travel experience, taking into account travel time, POI duration, and the interests of the user.
+
+User Query: {{ user_query }}
+
+List of POIs:
+{% for poi in pois %}
+- Name: {{ poi.name }}
+  Address: {{ poi.address }}
+  Description: {{ poi.description }}
+  Duration: {{ poi.duration }}
+{% endfor %}
+
+Return only the sequence of selected POIs in the format below as a JSON array. Do not include any additional text or explanation.
+
+```json
+["POI Name 1", "POI Name 2", "POI Name 3", "POI Name 4", "POI Name 5"]

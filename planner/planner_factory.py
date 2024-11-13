@@ -23,5 +23,5 @@ class LLMPlannerFactory(PlannerFactory):
         return instance.get_agent()
 
     def create_planner(self) -> Planner:
-        planner = LLMPlanner(self._get_llm_agent())
+        planner = LLMPlanner(self._get_llm_agent(), self._config.get('planning').get('prompt'))
         return planner
