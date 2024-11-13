@@ -13,7 +13,7 @@ class GPTWrapper(LLMWrapper):
         self._model_name = "gpt-4"
         self._client = OpenAI(api_key=api_key)
         self._max_tokens = 4000
-        self._temperature = 0.0
+        self._temperature = 0
 
     def make_request(self, message: str) -> str:
         try:

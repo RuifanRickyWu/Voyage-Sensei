@@ -9,6 +9,6 @@ print(config['RAW_POI_PATH_TEST'])
 embedder = TASB()
 print("check")
 db_creator = VectorDatabaseCreator(config['RAW_POI_PATH_TEST'], config['VECTOR_DATABASE_PATH'], embedder)
-index, map = db_creator.get_vector_database()
+index, poi_info_map = db_creator.get_vector_database()
 
 print(map)

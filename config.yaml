@@ -1,12 +1,14 @@
-RAW_POI_PATH_TEST: "information_retriever/database/raw_poi_test"
-VECTOR_DATABASE_PATH : "information_retriever/database/vector_database"
-
 ir:
   prompt:
     PROMPT_PATH: "prompt_files/information_retriever"
     BASELINE_ZEROSHOT_PROMPT: "zeroshot_baseline_ir.jinja"
+  dense_fusion:
+    RAW_POI_PATH_TEST: "information_retriever/database/raw_poi_test"
+    VECTOR_DATABASE_PATH : "information_retriever/database/vector_database"
+
 
 planning:
   prompt:
     PROMPT_PATH: "prompt_files/planner"
     BASELINE_ZEROSHOT_PROMPT: "zeroshot_baseline_planner.jinja"
+    ONE_STEP_BASELINE_ZEROSHOT_PROMPT: "one_step_zeroshot_baseline_planner.jinja"
