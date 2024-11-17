@@ -15,6 +15,8 @@ class BaseLine(BASE_SYSTEM):
             self._config = yaml.load(f, Loader=yaml.FullLoader)
             self._config.update({"API_KEY": API_KEY})
 
+
+
     def run(self):
         ir_factory = LLMBasedIRFactory(self._config)
         planner_factory = LLMPlannerFactory(self._config)

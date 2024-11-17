@@ -20,6 +20,6 @@ class LLMSearchEngine:
         #loading 0_shot_prompt for baseline
         env = Environment(loader=FileSystemLoader(self._prompt_config.get("PROMPT_PATH")))
         # Load the template file
-        print(self._prompt_config.get("BASELINE_ZEROSHOT_PROMPT"))
+        #print(self._prompt_config.get("BASELINE_ZEROSHOT_PROMPT"))
         template = env.get_template(self._prompt_config.get("BASELINE_ZEROSHOT_PROMPT"))
         return template.render(user_query=query, k=top_k)

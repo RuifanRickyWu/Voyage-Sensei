@@ -12,3 +12,9 @@ planning:
     PROMPT_PATH: "prompt_files/planner"
     BASELINE_ZEROSHOT_PROMPT: "zeroshot_baseline_planner.jinja"
     ONE_STEP_BASELINE_ZEROSHOT_PROMPT: "one_step_zeroshot_baseline_planner.jinja"
+
+user_intent:
+  prompt:
+    PROMPT_PATH: "prompt_files/user_intent"
+    ASK_FOR_RECOMMENDATION: "ask_for_recommendation.jinja"
+

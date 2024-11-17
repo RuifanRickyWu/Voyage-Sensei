@@ -1,5 +1,6 @@
 from abc import abstractmethod
 
+
 class BASE_SYSTEM:
 
     @abstractmethod
