@@ -22,7 +22,6 @@ class QueryResource:
         try:
             payload = request.get_json()
             query_payload = payload.get('query', '')
-            print(payload)
             print(query_payload)
             return jsonify(self._query_service.append_query_or_recommend(query_payload, self._state_manager)), 200
         except Exception as e:
