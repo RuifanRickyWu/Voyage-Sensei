@@ -1,20 +1,22 @@
 import json
 
 from information_retriever.search_engine.llm_search_engine import LLMSearchEngine
+from information_retriever.information_retrival_service import InformationRetrivalService
 from state.state_manager import StateManager
 from user_intent_processor.user_intent_service import UserIntentService
-from planner.planning.llm_planner import LLMPlanner
+from planner.planning_service import PlanningService
 
 
 class QueryService:
+    _ir_service: InformationRetrivalService
+    _planning_service: PlanningService
     _llm_search_engine: LLMSearchEngine
     _user_intent_service: UserIntentService
-    _llm_planner: LLMPlanner
 
-    def __init__(self, llm_search_engine: LLMSearchEngine, user_intent_service: UserIntentService,llm_planner: LLMPlanner):
-        self._llm_search_engine = llm_search_engine
+    def __init__(self, ir_service: InformationRetrivalService, user_intent_service: UserIntentService, planning_service: PlanningService):
+        self._ir_service = ir_service
         self._user_intent_service = user_intent_service
-        self._llm_planner = llm_planner
+        self._planning_service = planning_service
 
     def append_query_or_recommend(self, query: str, state_manager: StateManager):
         recommendation_check = self._user_intent_service.check_for_recommendation(query)
@@ -24,9 +26,9 @@ class QueryService:
         else:
             state_manager.update_query(query)
             print(state_manager.get_query())
-            search_result = json.loads(self._llm_search_engine.get_topk_poi(state_manager.get_query(), 5))
+            search_result = self._ir_service.get_topk_poi_llm_search(state_manager.get_query(), 5)
             print(search_result)
-            poi_sequence = self._llm_planner.plan(state_manager.get_query(), search_result)
+            poi_sequence = self._planning_service.plan_with_llm_planner(state_manager.get_query(), search_result)
             print(poi_sequence)
             return poi_sequence
 

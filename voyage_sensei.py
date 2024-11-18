@@ -4,7 +4,9 @@ from flask_cors import CORS
 from core.query.query_resource import QueryResource
 from core.query.query_service import QueryService
 from information_retriever.information_retriever_factory import LLMBasedIRFactory
+from information_retriever.information_retrival_service import InformationRetrivalService
 from planner.planner_factory import LLMPlannerFactory
+from planner.planning_service import PlanningService
 from user_intent_processor.user_intent_service import UserIntentService
 from state.state_manager import StateManager
 from intelligence.singleton_llm_agent import SingletonLLMAgent
@@ -24,8 +26,13 @@ llm_search_engine = LLMBasedIRFactory(config).create_search_engine()
 llm_planner = LLMPlannerFactory(config).create_planner()
 ask_for_recommendation = AskForRecommendation(config.get('user_intent').get('prompt'))
 
+#Service_Level
 user_intent_service = UserIntentService(llm_agent, ask_for_recommendation)
-query_service = QueryService(llm_search_engine, user_intent_service, llm_planner)
+ir_service = InformationRetrivalService(llm_search_engine)
+planning_service = PlanningService(llm_planner)
+query_service = QueryService(ir_service, user_intent_service, planning_service)
+
+#Resource Level
 query_resource = QueryResource(query_service, state_manager)
 
 # Register the blueprints
