@@ -3,7 +3,7 @@ from typing import Any
 
 class StateManager:
     #temp
-    _query : list[str]
+    _query: list[str]
 
     def __init__(self):
         self._query = []

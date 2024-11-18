@@ -1,6 +1,3 @@
-import json
-
-from information_retriever.search_engine.llm_search_engine import LLMSearchEngine
 from information_retriever.information_retrival_service import InformationRetrivalService
 from state.state_manager import StateManager
 from user_intent_processor.user_intent_service import UserIntentService
@@ -10,7 +7,6 @@ from planner.planning_service import PlanningService
 class QueryService:
     _ir_service: InformationRetrivalService
     _planning_service: PlanningService
-    _llm_search_engine: LLMSearchEngine
     _user_intent_service: UserIntentService
 
     def __init__(self, ir_service: InformationRetrivalService, user_intent_service: UserIntentService, planning_service: PlanningService):
