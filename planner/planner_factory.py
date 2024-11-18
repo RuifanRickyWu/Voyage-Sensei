@@ -23,7 +23,7 @@ class LLMPlannerFactory(PlannerFactory):
         instance = SingletonLLMAgent(self._config)
         return instance.get_agent()
 
-    def create_planner(self) -> Planner:
+    def create_planner(self) -> LLMPlanner:
         planner = LLMPlanner(self._get_llm_agent(), self._config.get('planning').get('prompt'))
         return planner
 

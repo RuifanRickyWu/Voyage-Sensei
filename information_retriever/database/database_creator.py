@@ -26,7 +26,6 @@ class VectorDatabaseCreator:
             index = self._load_index_with_poi_list(faiss.IndexFlatIP(dimension_size))
         return index, self._id_poi_info_map
 
-
     def _load_index_with_poi_list(self, index):
         temp_id_poi_info_map = {}
         temp_total_review = 0
