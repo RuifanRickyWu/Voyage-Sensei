@@ -18,3 +18,7 @@ user_intent:
     PROMPT_PATH: "prompt_files/user_intent"
     ASK_FOR_RECOMMENDATION: "ask_for_recommendation.jinja"
 
+query_proecssor:
+  prompt:
+    PROMPT_PATH: "prompt_files/query_processor"
+    ZEROSHOT_ASPECT_EXTRACTION: "zeroshot_aspect_extraction.jinja"

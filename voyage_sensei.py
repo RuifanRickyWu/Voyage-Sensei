@@ -11,6 +11,7 @@ from state.state_manager import StateManager
 from intelligence.singleton_llm_agent import SingletonLLMAgent
 from intelligence.llm_client import LLMClient
 from user_intent_processor.user_intent.ask_for_recommendation import AskForRecommendation
+from query_processor.query_processing_service import QueryProcessingService
 from api_key import API_KEY
 
 app = Flask(__name__)
@@ -30,7 +31,8 @@ ask_for_recommendation = AskForRecommendation(config.get('user_intent').get('pro
 user_intent_service = UserIntentService(llm_client, ask_for_recommendation)
 ir_service = InformationRetrivalService(config.get('ir').get('prompt'), llm_client)
 planning_service = PlanningService(config.get('planning').get('prompt'), llm_client)
-query_service = QueryService(ir_service, user_intent_service, planning_service)
+query_processing_service = QueryProcessingService(config.get('query_processor'), llm_client)
+query_service = QueryService(ir_service, user_intent_service, planning_service, query_processing_service)
 
 #Resource Level
 query_resource = QueryResource(query_service, state_manager)
