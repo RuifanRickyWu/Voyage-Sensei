@@ -31,7 +31,7 @@ ask_for_recommendation = AskForRecommendation(config.get('user_intent').get('pro
 user_intent_service = UserIntentService(llm_client, ask_for_recommendation)
 ir_service = InformationRetrivalService(config.get('ir').get('prompt'), llm_client)
 planning_service = PlanningService(config.get('planning').get('prompt'), llm_client)
-query_processing_service = QueryProcessingService(config.get('query_processor'), llm_client)
+query_processing_service = QueryProcessingService(config.get('query_processor').get('prompt'), llm_client)
 query_service = QueryService(ir_service, user_intent_service, planning_service, query_processing_service)
 
 #Resource Level
