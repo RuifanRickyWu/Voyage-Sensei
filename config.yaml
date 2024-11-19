@@ -18,3 +18,9 @@ user_intent:
     PROMPT_PATH: "prompt_files/user_intent"
     ASK_FOR_RECOMMENDATION: "ask_for_recommendation.jinja"
 
+geo_processor:
+  prompt:
+    PROMPT_PATH: "prompt_files/geo_processor"
+    BASELINE_COORDINATES: "baseline_coordinates.jinja"
+    test: "test.jinja"
+

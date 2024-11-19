@@ -17,6 +17,7 @@ class QueryResource:
     def _register_routes(self):
         #Register routes with the blurprint
         self.blueprint.add_url_rule('/query', view_func=self.append_query_or_recommend, methods=['POST'])
+        self.blueprint.add_url_rule('/query/current_plan_coordinate', view_func=self.get_planned_coordinate, methods=['GET'])
 
     def append_query_or_recommend(self):
         try:
@@ -24,5 +25,11 @@ class QueryResource:
             query_payload = payload.get('query', '')
             print(query_payload)
             return jsonify(self._query_service.append_query_or_recommend(query_payload, self._state_manager)), 200
+        except Exception as e:
+            return jsonify({"error": str(e)}), 500
+
+    def get_planned_coordinate(self):
+        try:
+            return jsonify(self._query_service.get_current_plan(self._state_manager)), 200
         except Exception as e:
             return jsonify({"error": str(e)}), 500
