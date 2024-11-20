@@ -23,6 +23,7 @@ class QueryProcessingService:
     
     def load_query(self, query: str) -> list[Query]:
         query = query.lower()
+        query = Query(query)
         self.query_list.append(query)
     
     def process_queries(self) -> list[Query]:
@@ -33,7 +34,7 @@ class QueryProcessingService:
         for q in self.query_list:
             query += q.description
             query += '\n'
-        self.results = self._extract_aspects(query)
+        self.results = self.extract_aspects(query)
         
         return self.results
 
@@ -42,10 +43,12 @@ class QueryProcessingService:
     
     def _load_prompt_zeroshot(self, query):
         env = Environment(loader=FileSystemLoader(self._prompt_config.get("PROMPT_PATH")))
-        print("printing zeroshot_apsect_extraction...")
-        print(self._prompt_config.get("ZEROSHOT_ASPECT_EXTRACTION"))
+        # print("printing zeroshot_apsect_extraction...")
+        # print(self._prompt_config.get("ZEROSHOT_ASPECT_EXTRACTION"))
         template = env.get_template(self._prompt_config.get("ZEROSHOT_ASPECT_EXTRACTION"))
-        return template.render(user_query=query)
+        message = template.render(user_query=query)
+        print(message)
+        return message
     
     def extract_aspects(self, query: str) -> tuple[list[str], list[str], list[str]]:
         """
@@ -53,4 +56,4 @@ class QueryProcessingService:
         """
         message = self._load_prompt_zeroshot(query)
         result = json.loads(self._llm_client.make_request(message))
-        
+        return result
