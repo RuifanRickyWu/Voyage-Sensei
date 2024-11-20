@@ -38,15 +38,22 @@ class QueryService:
         recommendation_check = self._user_intent_service.check_for_recommendation(query)
         state_manager.update_query(query)
         if recommendation_check == "False":
+            print("\nrecommendation_check is false")
             processor = self.query_processing_service
             processor.load_query(query)
+            print("we are printing aspects, which should be nothing:")
             print(state_manager.get_aspects())
         else:
+            print("\nrecommendation_check is true")
             processor = self.query_processing_service
             processor.load_query(query)
-            aspects = processor.extract_aspects(processor.query_list)
+            aspects = processor.process_queries()
             state_manager.update_aspects(aspects)
+            
+            print("we are printing aspects, which should have something:")
             print(state_manager.get_aspects())
+            
+            print("query has been processed, will continue to IR to search top k pois")
             
             search_result = self._ir_service.get_topk_poi_llm_search(state_manager.get_aspects(), 5)
             print(search_result)
