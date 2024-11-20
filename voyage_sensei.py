@@ -12,7 +12,8 @@ from intelligence.singleton_llm_agent import SingletonLLMAgent
 from intelligence.llm_client import LLMClient
 from user_intent_processor.user_intent.ask_for_recommendation import AskForRecommendation
 from query_processor.query_processing_service import QueryProcessingService
-from api_key import API_KEY
+from geo_processor.geo_service import GeoService
+from api_key import API_KEY, GOOGLE_API_KEY
 
 app = Flask(__name__)
 CORS(app)
@@ -20,6 +21,7 @@ CORS(app)
 with open("config.yaml") as f:
     config = yaml.load(f, Loader=yaml.FullLoader)
     config.update({"API_KEY": API_KEY})
+    config.update({"GOOGLE_API_KEY": GOOGLE_API_KEY})
 
 #Client level
 llm_client = LLMClient(SingletonLLMAgent(config).get_agent())
@@ -32,7 +34,8 @@ user_intent_service = UserIntentService(llm_client, ask_for_recommendation)
 ir_service = InformationRetrivalService(config.get('ir').get('prompt'), llm_client)
 planning_service = PlanningService(config.get('planning').get('prompt'), llm_client)
 query_processing_service = QueryProcessingService(config.get('query_processor').get('prompt'), llm_client)
-query_service = QueryService(ir_service, user_intent_service, planning_service, query_processing_service)
+geo_service = GeoService(config.get("GOOGLE_API_KEY"))
+query_service = QueryService(ir_service, user_intent_service, planning_service, geo_service, query_processing_service)
 
 #Resource Level
 query_resource = QueryResource(query_service, state_manager)

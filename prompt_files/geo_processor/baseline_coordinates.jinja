@@ -1,0 +1,34 @@
+You are a geocoding expert. Based on the provided list of Points of Interest (POIs), enrich each entry by adding geographic coordinates (latitude and longitude) corresponding to the given address. Use the name and address for geocoding and return the result as a list of dictionaries.
+
+**Input Format:**
+A list of dictionaries, where each dictionary contains:
+- `name`: The name of the POI.
+- `address`: The full address of the POI.
+
+Example input:
+```json
+[
+  {"name": "CN Tower", "address": "290 Bremner Blvd, Toronto, ON M5V 3L9, Canada"},
+  {"name": "Royal Ontario Museum", "address": "100 Queens Park, Toronto, ON M5S 2C6, Canada"}
+]
+
+the input is {{pois}}
+
+Output Format:
+Return a JSON array, where each POI is represented as a dictionary with the following structure:
+
+name: The name of the POI.
+address: The full address of the POI.
+coords: A list containing the latitude and longitude of the POI in the format [latitude, longitude].
+
+Example output
+
+[
+  {% for poi in pois %}
+  {
+    "name": "{ poi.name }",
+    "address": "{poi.address }",
+    "coords": [{ poi.coords[0] }, { poi.coords[1] }]
+  }{% if not loop.last %},{% endif %}
+  {% endfor %}
+]

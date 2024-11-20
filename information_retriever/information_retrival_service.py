@@ -1,18 +1,22 @@
 import json
+import os
+
 from jinja2 import Environment, FileSystemLoader
 from intelligence.llm_client import LLMClient
+from state.state_manager import StateManager
 
 
 class InformationRetrivalService:
     _llm_client: LLMClient
-    _prompt_config : dict
+    _prompt_config: dict
 
     def __init__(self,prompt_config: dict, llm_client: LLMClient):
         self._prompt_config = prompt_config
         self._llm_client = llm_client
 
-    def get_topk_poi_llm_search(self, query, top_k: int):
-        template = self._load_prompt_zero_shot(query, top_k)
+    def get_topk_poi_llm_search(self, state_manager:StateManager, top_k: int):
+        queries = state_manager.get_query()
+        template = self._load_prompt_zero_shot(queries, top_k)
         result = json.loads(self._llm_client.make_request(template))
         return result
 

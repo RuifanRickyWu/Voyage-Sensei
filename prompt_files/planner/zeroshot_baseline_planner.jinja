@@ -1,8 +1,15 @@
 You are an expert travel planner. Based on the following user query and the provided list of Points of Interest (POIs) in Toronto, please select a subset of POIs that can be visited within a single day. Optimize the sequence of POIs for a pleasant and efficient travel experience, taking into account travel time, POI duration, and the interests of the user.
 
-User Query: {{ user_query }}
+For each selected POI, provide a JSON object that includes:
+1. The name of the POI.
+2. A brief description.
+3. The address/location.
+4. Reasoning for why this POI fits the user's query and how it contributes to the overall travel experience.
 
-List of POIs:
+**User Query:**
+{{ user_query }}
+
+**List of POIs:**
 {% for poi in pois %}
 - Name: {{ poi.name }}
   Address: {{ poi.address }}
@@ -10,7 +17,17 @@ List of POIs:
   Duration: {{ poi.duration }}
 {% endfor %}
 
-Return only the sequence of selected POIs in the format below as a JSON array. Do not include any additional text or explanation.
+**Output Format:**
+Return the selected POIs in a JSON array, where each POI is represented as a JSON object with the following structure. Do not include any additional text or explanation outside the JSON output.
 
 ```json
-["POI Name 1", "POI Name 2", "POI Name 3", "POI Name 4", "POI Name 5"]
+[
+  {% for selected_poi in selected_pois %}
+  {
+    "name": "{{ selected_poi.name }}",
+    "description": "{{ selected_poi.description }}",
+    "location": "{{ selected_poi.address }}",
+    "reasoning": "{{ selected_poi.reasoning }}"
+  }{% if not loop.last %},{% endif %}
+  {% endfor %}
+]

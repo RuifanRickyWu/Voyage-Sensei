@@ -22,3 +22,9 @@ query_processor:
   prompt:
     PROMPT_PATH: "prompt_files/query_processor"
     ZEROSHOT_ASPECT_EXTRACTION: "zeroshot_aspect_extraction.jinja"
+
+geo_processor:
+  prompt:
+    PROMPT_PATH: "prompt_files/geo_processor"
+    BASELINE_COORDINATES: "baseline_coordinates.jinja"
+    test: "test.jinja"
