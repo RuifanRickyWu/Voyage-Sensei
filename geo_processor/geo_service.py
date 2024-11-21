@@ -6,12 +6,12 @@ class GeoService:
         self.api_key = api_key
         self.base_url = "https://maps.googleapis.com/maps/api/geocode/json"
 
-    def get_coords_from_plan(self, state_manager:StateManager):
+    def get_coords_for_plan(self, state_manager:StateManager):
         poi_list = state_manager.get_current_plan()
         for poi in poi_list:
             coords = self._get_location_by_address(poi['address'])
             poi['coords'] = coords
-        return poi_list
+        state_manager.update_current_plan(poi_list)
 
     def _get_location_by_address(self, address):
         params = {

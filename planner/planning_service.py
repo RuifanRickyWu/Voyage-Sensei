@@ -22,9 +22,8 @@ class PlanningService:
         queries = state_manager.get_query()
         template = self._load_prompt_zeroshot(queries, poi_list)
         plan = json.loads(self._llm_client.make_request(template))
-        pois = self._extract_poi_from_llm_planner(plan)
+        pois = self._extract_poi_from_llm_planner_with_hardcord_starting_point(plan)
         state_manager.update_current_plan(pois)
-        print(state_manager.get_current_plan())
         return plan
 
     def _load_prompt_zeroshot(self, query: str, poi_list: dict):
@@ -36,5 +35,20 @@ class PlanningService:
         return template.render(user_query=query, pois=poi_list)
 
     def _extract_poi_from_llm_planner(self, plan: dict):
-        return [{"name": place["name"], "address": place["address"]} for place in plan]
+        return [place for place in plan]
+        #return [{"name": place["name"], "address": place["address"]} for place in plan]
+
+    def _extract_poi_from_llm_planner_with_hardcord_starting_point(self, plan: dict):
+        #temp
+        places = []
+        current = {
+            'name' : "Starting Point",
+            'address': "21 Carlton St, Toronto, ON M5B 1L3, Canada"
+        }
+        places.append(current)
+        for place in plan:
+            places.append(place)
+        places.append(current)
+        return places
+
 

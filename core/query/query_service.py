@@ -32,10 +32,10 @@ class QueryService:
         else:
             state_manager.update_query(query)
             print(state_manager.get_query())
-            search_result = self._ir_service.get_topk_poi_llm_search(state_manager, 5)
-            poi_sequence= self._planning_service.plan_with_llm_planner(state_manager, search_result)
-            print(poi_sequence)
-            return poi_sequence
+            search_result = self._ir_service.get_topk_poi_llm_search(state_manager, 10)
+            plan= self._planning_service.plan_with_llm_planner(state_manager, search_result)
+            self._geo_service.get_coords_for_plan(state_manager)
+            return state_manager.get_current_plan()
 
         return "query_updated"
 
@@ -73,4 +73,4 @@ class QueryService:
         if state_manager.get_current_plan() is None:
             return "No plans created yet"
         else:
-            return self._geo_service.get_coords_from_plan(state_manager)
+            return state_manager.get_current_plan()
