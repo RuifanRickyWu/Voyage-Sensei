@@ -1,10 +1,22 @@
-You are an expert travel planner. Based on the following user query and the provided list of Points of Interest (POIs) in Toronto, please select a subset of POIs that can be visited within a single day. Optimize the sequence of POIs for a pleasant and efficient travel experience, taking into account travel time, POI duration, and the interests of the user.
+You are an expert travel planner. Based on the following user query and the provided list of Points of Interest (POIs) in Toronto and restaurants, please select a subset of places that can be visited within a single day. Optimize the sequence of POIs for a pleasant and efficient travel experience, taking into account travel time, POI duration, and the interests of the user.
 
 For each selected POI, provide a JSON object that includes:
 1. The name of the POI.
 2. A brief description.
 3. The address/location.
 4. Reasoning for why this POI fits the user's query and how it contributes to the overall travel experience.
+Recommended plan should be within car reach as this is for car travel
+
+Consider the starting point as 21 carlton st m5b 1l3 toronto ontario but dont put this in to the poi list, only use this for geo reasoning
+
+some rules to think:
+Cannot have 2 meals within 3 hours
+Cannot not have meals for 5 hours
+Cannot exceed 2 attractions between 2 meals
+Breakfast b/w 7-10am
+Lunch b/w 12-3pm
+Dinner b/w 5-8pm
+
 
 **User Query:**
 {{ user_query }}
