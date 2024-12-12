@@ -26,7 +26,7 @@ class QueryService:
     # MVP: pass all user queries
     def append_query_or_recommend(self, query: str, state_manager: StateManager):
         recommendation_check = self._user_intent_service.check_for_recommendation(query)
-        if recommendation_check == "False":
+        if not recommendation_check:
             state_manager.update_query(query)
             print(state_manager.get_query())
         else:
@@ -43,7 +43,7 @@ class QueryService:
     def append_query_or_recommend_q2e(self, query: str, state_manager: StateManager):
         recommendation_check = self._user_intent_service.check_for_recommendation(query)
         state_manager.update_query(query)
-        if recommendation_check == "False":
+        if not recommendation_check:
             print("\nrecommendation_check is false")
             processor = self.query_processing_service
             processor.load_query(query)

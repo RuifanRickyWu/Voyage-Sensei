@@ -7,30 +7,38 @@ from information_retriever.information_retrival_service import InformationRetriv
 from planner.planner_factory import LLMPlannerFactory
 from planner.planning_service import PlanningService
 from user_intent_processor.user_intent_service import UserIntentService
+from user_intent_processor.user_intent_client import UserIntentClient
 from state.state_manager import StateManager
 from intelligence.singleton_llm_agent import SingletonLLMAgent
 from intelligence.llm_client import LLMClient
+from intelligence.llm_agent import LLMAgent
 from user_intent_processor.user_intent.ask_for_recommendation import AskForRecommendation
 from query_processor.query_processing_service import QueryProcessingService
 from geo_processor.geo_service import GeoService
-from api_key import API_KEY, GOOGLE_API_KEY
+from api_key import OPENAI_API_KEY, GOOGLE_API_KEY
 
 app = Flask(__name__)
 CORS(app)
 
 with open("config.yaml") as f:
     config = yaml.load(f, Loader=yaml.FullLoader)
-    config.update({"API_KEY": API_KEY})
+    config.update({"OPENAI_API_KEY": OPENAI_API_KEY})
     config.update({"GOOGLE_API_KEY": GOOGLE_API_KEY})
 
 #Client level
+llm_agent = LLMAgent(config, "GPT")
+
+ask_for_recommendation = AskForRecommendation(config.get('user_intent').get('prompt'))
+user_intent_client = UserIntentClient(llm_agent, ask_for_recommendation)
+
+
 llm_client = LLMClient(SingletonLLMAgent(config).get_agent())
 state_manager = StateManager()
 llm_planner = LLMPlannerFactory(config).create_planner()
 ask_for_recommendation = AskForRecommendation(config.get('user_intent').get('prompt'))
 
 #Service_Level
-user_intent_service = UserIntentService(llm_client, ask_for_recommendation)
+user_intent_service = UserIntentService(user_intent_client, ask_for_recommendation)
 ir_service = InformationRetrivalService(config.get('ir').get('prompt'), llm_client)
 planning_service = PlanningService(config.get('planning').get('prompt'), llm_client)
 query_processing_service = QueryProcessingService(config.get('query_processor').get('prompt'), llm_client)

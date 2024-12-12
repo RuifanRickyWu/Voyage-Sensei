@@ -20,4 +20,4 @@ class SingletonLLMAgent:
 
     def _create_agent(self, agent_type:str = "gpt"):
         if agent_type == "gpt":
-            self._agent = GPTWrapper(self._config.get("API_KEY"))
+            self._agent = GPTWrapper(self._config.get("OPENAI_API_KEY"))
