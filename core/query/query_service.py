@@ -1,4 +1,4 @@
-from information_retriever.information_retrival_service import InformationRetrivalService
+from information_retriever.information_retrieval_service import InformationRetrievalService
 from state.state_manager import StateManager
 from user_intent_processor.user_intent_service import UserIntentService
 from planner.planning_service import PlanningService
@@ -7,12 +7,12 @@ from geo_processor.geo_service import GeoService
 
 
 class QueryService:
-    _ir_service: InformationRetrivalService
+    _ir_service: InformationRetrievalService
     _planning_service: PlanningService
     _user_intent_service: UserIntentService
     _geo_service: GeoService
 
-    def __init__(self, ir_service: InformationRetrivalService,
+    def __init__(self, ir_service: InformationRetrievalService,
                        user_intent_service: UserIntentService,
                        planning_service: PlanningService,
                        geo_service: GeoService,
@@ -32,7 +32,7 @@ class QueryService:
         else:
             state_manager.update_query(query)
             print(state_manager.get_query())
-            search_result = self._ir_service.get_topk_poi_llm_search(state_manager, 10)
+            search_result = self._ir_service.llm_search_get_top_k(state_manager, 10)
             plan= self._planning_service.plan_with_llm_planner(state_manager, search_result)
             self._geo_service.get_coords_for_plan(state_manager)
             return state_manager.get_current_plan()
@@ -61,7 +61,7 @@ class QueryService:
             
             print("query has been processed, will continue to IR to search top k pois")
             
-            search_result = self._ir_service.get_topk_poi_llm_search(state_manager.get_aspects(), 5)
+            search_result = self._ir_service.llm_search_get_top_k(state_manager.get_aspects(), 5)
             print(search_result)
             poi_sequence = self._planning_service.plan_with_llm_planner(state_manager.get_query(), search_result)
             print(poi_sequence)
