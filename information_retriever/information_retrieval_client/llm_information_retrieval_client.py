@@ -17,9 +17,7 @@ class LLMInformationRetrievalClient:
     def llm_search_get_top_k_poi(self, state_manager: StateManager, top_k: int):
         queries = state_manager.get_query()
         template = self._load_prompt_zero_shot(queries, top_k)
-        print(template)
         llm_search_result = json.loads(self._llm_agent.make_request(template))
-        print(llm_search_result)
         self._load_llm_result_to_search_result(llm_search_result, state_manager)
 
     def _load_prompt_zero_shot(self, query, top_k: int):

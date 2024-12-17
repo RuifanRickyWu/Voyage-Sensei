@@ -1,45 +1,36 @@
 You are an expert travel planner. Based on the following user query and the provided list of Points of Interest (POIs) in Toronto and restaurants, please select a subset of places that can be visited within a single day. Optimize the sequence of POIs for a pleasant and efficient travel experience, taking into account travel time, POI duration, and the interests of the user.
 
-For each selected POI, provide a JSON object that includes:
-1. The name of the POI.
-2. A brief description.
-3. The address/location.
-4. Reasoning for why this POI fits the user's query and how it contributes to the overall travel experience.
-Recommended plan should be within car reach as this is for car travel
-
-Consider the starting point as 21 carlton st m5b 1l3 toronto ontario but dont put this in to the poi list, only use this for geo reasoning
-
-some rules to think:
-Cannot have 2 meals within 3 hours
-Cannot not have meals for 5 hours
-Cannot exceed 2 attractions between 2 meals
-Breakfast b/w 7-10am
-Lunch b/w 12-3pm
-Dinner b/w 5-8pm
-
-
-**User Query:**
+Rules to Follow:
+Travel Considerations: The user will be traveling by car. Use the starting point "21 Carlton St, M5B 1L3, Toronto, Ontario" for geo-reasoning but do not include it in the POI list.
+Meals:
+Breakfast: between 7–10 AM
+Lunch: between 12–3 PM
+Dinner: between 5–8 PM
+No two meals can be within 3 hours.
+Cannot have a gap of 5 hours without a meal.
+Attractions:
+Cannot exceed 2 attractions between two meals.
+Ensure the plan can be completed within a single day.
+Input:
+User Query:
 {{ user_query }}
 
-**List of POIs:**
+List of POIs:
 {% for poi in pois %}
-- Name: {{ poi.name }}
-  Address: {{ poi.address }}
-  Description: {{ poi.description }}
-  Duration: {{ poi.duration }}
+
+Name: {{ poi.name }}
+Address: {{ poi.address }}
+Description: {{ poi.description }}
+Duration: {{ poi.duration }}
 {% endfor %}
+Output Format:
+Provide only a JSON array of the selected POI names, in the order they will be visited. Do not include any additional text or explanation outside of the JSON array.
 
-**Output Format:**
-Return the selected POIs in a JSON array, where each POI is represented as a JSON object with the following structure. Do not include any additional text or explanation outside the JSON output.
+Example Output:
 
-```json
 [
-  {% for selected_poi in selected_pois %}
-  {
-    "name": "{{ selected_poi.name }}",
-    "description": "{{ selected_poi.description }}",
-    "location": "{{ selected_poi.address }}",
-    "reasoning": "{{ selected_poi.reasoning }}"
-  }{% if not loop.last %},{% endif %}
-  {% endfor %}
+  "{ selected_poi_1.name }",
+  "{ selected_poi_2.name }",
+  "{ selected_poi_3.name }",
+  ...
 ]

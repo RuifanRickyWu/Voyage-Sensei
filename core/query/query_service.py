@@ -34,6 +34,7 @@ class QueryService:
             print(state_manager.get_query())
             self._ir_service.llm_search_get_top_k(state_manager, 1)
             self._planning_service.llm_planning(state_manager)
+            print(state_manager.get_current_plan().get_converted_planned_poi_list())
             self._geo_service.get_coords_for_plan(state_manager)
 
             return state_manager.get_current_plan().form_current_plan()

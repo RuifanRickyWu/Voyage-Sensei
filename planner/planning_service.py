@@ -11,6 +11,8 @@ class PlanningService:
     def llm_planning(self, state_manager: StateManager):
         queries = state_manager.get_query()
         poi_list = state_manager.get_current_search_result().get_converted_retrieved_poi_list()
+        print("this is the poi list")
+        print(poi_list)
         self._llm_planning_client.llm_planning(state_manager, queries, poi_list)
 
 
