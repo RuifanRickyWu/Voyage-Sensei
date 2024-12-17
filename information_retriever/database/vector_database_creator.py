@@ -11,7 +11,8 @@ class VectorDatabaseCreator:
     _embedder: Embedder
     _total_review: int
 
-    def __init__(self, raw_poi_path: str, output_path: str, embedder: Embedder):
+    def __init__(self, config: dict,
+                 raw_poi_path: str, output_path: str, embedder: Embedder):
         self._raw_poi_path = raw_poi_path
         self._output_path = output_path
         self._embedder = embedder

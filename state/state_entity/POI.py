@@ -6,12 +6,13 @@ class POI:
     _duration: str  # Duration as a string like "2h 30m"
     _keywords: list[str]
 
-    def __init__(self, name: str, address: str, description: str, duration: str):
+    def __init__(self, name: str, address: str, description: str, duration: str = None):
         self._name = name
         self._address = address
         self._description = description
         self._coordinates = []
         self._duration = duration
+        self._keywords = None
 
     def update_coordinates(self, coords: list):
         self._coordinates = coords

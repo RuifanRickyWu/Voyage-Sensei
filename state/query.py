@@ -3,6 +3,8 @@ class Query:
     A class represents a user's travel destinations query.
     A query contains a list of preferences and constraints.
     """
+
+    #Todo: depricate this and merge into session_history class
     def __init__(self, description: str):
         self.description = description
         self.aspects = None

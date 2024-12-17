@@ -14,7 +14,10 @@ class UserIntentClient:
 
     def check_for_recommendation(self, query):
         template = self._ask_for_recommendation.get_prompt_for_classification(query)
+        print(template)
         result = self._llm_agent.make_request(template)
+        print("here is the result")
+        print(result)
         if result == "True":
             return True
         else:

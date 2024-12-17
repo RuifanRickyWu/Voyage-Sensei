@@ -3,11 +3,11 @@ from tqdm import tqdm
 
 from state.query import Query
 from jinja2 import Environment, FileSystemLoader
-from intelligence.llm_client import LLMClient
+from intelligence.llm_agent import LLMAgent
 
 class QueryProcessingService:
 
-    def __init__(self, prompt_config: dict, llm_client: LLMClient):
+    def __init__(self, prompt_config: dict, llm_agent: LLMAgent):
         """
         Initialize the query processor
         :param query:
@@ -19,7 +19,7 @@ class QueryProcessingService:
         self.query_list = []
         self.results = None
         self._prompt_config = prompt_config
-        self._llm_client = llm_client
+        self._llm_client = llm_agent
     
     def load_query(self, query: str) -> list[Query]:
         query = query.lower()

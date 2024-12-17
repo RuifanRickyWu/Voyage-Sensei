@@ -1,30 +1,17 @@
-from typing import Any
-from state.state_entity.POI import POI
-from state.state_entity.itinerary import Itinerary
+from state.state_entity.current_plan import CurrentPlan
+from state.state_entity.current_search import CurrentSearch
 from state.state_entity.session_history import SessionHistory
 
 
 class StateManager:
-    #temp
-    _query: list[str]
-    _current_plan: list[dict]
-
     _session_history: SessionHistory
-    _itinerary: Itinerary
+    _current_search: CurrentSearch
+    _current_plan: CurrentPlan
 
     def __init__(self):
-        self._query = []
-        self._aspects = []
-        self._current_plan = None
-
         self._session_history = SessionHistory()
-        self._itinerary = Itinerary()
-
-    def get(self, key: str) -> Any:
-        pass
-
-    def update(self, key: str, value: Any):
-        pass
+        self._current_search = CurrentSearch()
+        self._current_plan = CurrentPlan()
 
     def get_query(self):
         return self._session_history.get_queries()
@@ -33,13 +20,19 @@ class StateManager:
         self._session_history.append_queries(new_query)
         
     def get_aspects(self):
-        return self._aspects
+        return self._session_history.get_query_aspects()
         
     def update_aspects(self, aspects : list[str]):
-        self._aspects = aspects
+        self._session_history.update_query_aspects(aspects)
 
     def get_current_plan(self):
         return self._current_plan
 
-    def update_current_plan(self, plan: list[dict]):
-        self._current_plan = plan
+    def update_current_plan(self, current_plan: CurrentPlan):
+        self._current_plan = current_plan
+
+    def get_current_search_result(self):
+        return self._current_search
+
+    def update_current_search_result(self, current_search: CurrentSearch):
+        self._current_search = current_search

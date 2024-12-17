@@ -32,10 +32,11 @@ class QueryService:
         else:
             state_manager.update_query(query)
             print(state_manager.get_query())
-            search_result = self._ir_service.llm_search_get_top_k(state_manager, 10)
-            plan= self._planning_service.plan_with_llm_planner(state_manager, search_result)
+            self._ir_service.llm_search_get_top_k(state_manager, 1)
+            self._planning_service.llm_planning(state_manager)
             self._geo_service.get_coords_for_plan(state_manager)
-            return state_manager.get_current_plan()
+
+            return state_manager.get_current_plan().form_current_plan()
 
         return "query_updated"
 
@@ -68,9 +69,12 @@ class QueryService:
             return poi_sequence
 
         return "query_updated"
-      
-    def get_current_plan(self, state_manager: StateManager):
-        if state_manager.get_current_plan() is None:
+
+
+    def form_full_plan(self, state_manager: StateManager):
+        if state_manager.get_current_plan().get_poi_in_sequence() is None:
             return "No plans created yet"
-        else:
-            return state_manager.get_current_plan()
+        return state_manager.get_current_plan().form_current_plan()
+
+
+

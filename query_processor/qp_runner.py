@@ -4,11 +4,10 @@ import sys
 sys.path.append('/Users/yikaimaa/Desktop/capstone_dev/Voyage-Sensei')
 
 import json
-from intelligence.llm_client import LLMClient
+from intelligence.llm_agent import LLMAgent
 from state.query import Query
 from core.query.query_resource import QueryResource
 from core.query.query_service import QueryService
-from intelligence.singleton_llm_agent import SingletonLLMAgent
 
 from query_processor.query_processing_service import QueryProcessingService
 from api_key import API_KEY
@@ -42,7 +41,7 @@ def test_query_processing_service():
     }
 
     # Create a mock LLM client (replace with actual client or mock if necessary)
-    llm_client = LLMClient(SingletonLLMAgent(config).get_agent())
+    llm_client = LLMAgent(config, "GPT")
     
     # Create an instance of the QueryProcessingService
     query_processor = QueryProcessingService(prompt_config=prompt_config, llm_client=llm_client)

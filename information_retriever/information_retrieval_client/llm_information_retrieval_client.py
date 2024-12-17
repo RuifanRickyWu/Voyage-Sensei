@@ -3,22 +3,24 @@ from jinja2 import Environment, FileSystemLoader
 from intelligence.llm_agent import LLMAgent
 from state.state_manager import StateManager
 from state.state_entity.POI import POI
+from state.state_entity.current_search import CurrentSearch
 
 
-class InformationRetrievalClient:
+class LLMInformationRetrievalClient:
     _llm_agent: LLMAgent
     _prompt_config: dict
 
-    def __init__(self, llm_agent: LLMAgent, prompt_config: dict, ):
+    def __init__(self, llm_agent: LLMAgent, prompt_config: dict):
         self._prompt_config = prompt_config
         self._llm_agent = llm_agent
 
     def llm_search_get_top_k_poi(self, state_manager: StateManager, top_k: int):
         queries = state_manager.get_query()
         template = self._load_prompt_zero_shot(queries, top_k)
-        llm_result = json.loads(self._llm_agent.make_request(template))
-        self._load_llm_result_to_search_result(llm_result, state_manager)
-        return llm_result
+        print(template)
+        llm_search_result = json.loads(self._llm_agent.make_request(template))
+        print(llm_search_result)
+        self._load_llm_result_to_search_result(llm_search_result, state_manager)
 
     def _load_prompt_zero_shot(self, query, top_k: int):
         # loading 0_shot_prompt for baseline
@@ -37,6 +39,7 @@ class InformationRetrievalClient:
                 description= result.get("description"),
                 duration = result.get("duration")
             ))
-        print(poi_list)
+        state_manager.update_current_search_result(CurrentSearch(poi_list))
+
 
 

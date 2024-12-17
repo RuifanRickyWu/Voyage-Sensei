@@ -40,6 +40,6 @@ class QueryResource:
 
     def get_current_plan(self):
         try:
-            return jsonify(self._query_service.get_current_plan(self._state_manager)), 200
+            return jsonify(self._query_service.form_full_plan(self._state_manager)), 200
         except Exception as e:
             return jsonify({"error": str(e)}), 500
