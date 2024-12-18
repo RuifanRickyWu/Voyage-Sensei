@@ -2,7 +2,7 @@ from user_intent_processor.user_intent.user_intent import UserIntent
 from jinja2 import Environment, FileSystemLoader, Template
 
 
-class AskForRecommendation(UserIntent):
+class ProvidePreference(UserIntent):
     _template: Template
 
     def __init__(self, prompt_config):
