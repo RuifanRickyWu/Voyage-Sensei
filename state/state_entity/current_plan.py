@@ -33,7 +33,17 @@ class CurrentPlan:
         itinerary["summary"] = self._summary
         poi_in_sequence = []
         for poi in self._POI_in_sequence:
-            poi_in_sequence.append(poi.get_poi(["name", "coords", "keywords"]))
+            poi_in_sequence.append(poi.get_poi(["name", "coordinates", "keywords"]))
+        itinerary["poi_sequence"] = poi_in_sequence
+
+        return itinerary
+
+    def form_current_plan_full_detail(self):
+        itinerary = {}
+        itinerary["summary"] = self._summary
+        poi_in_sequence = []
+        for poi in self._POI_in_sequence:
+            poi_in_sequence.append(poi.get_poi())
         itinerary["poi_sequence"] = poi_in_sequence
 
         return itinerary

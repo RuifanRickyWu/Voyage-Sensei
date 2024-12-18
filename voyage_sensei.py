@@ -15,6 +15,8 @@ from user_intent_processor.user_intent.ask_for_recommendation import AskForRecom
 from query_processor.query_processing_service import QueryProcessingService
 from geo_processor.geo_service import GeoService
 from geo_processor.google_geo_client import GoogleGeoClient
+from reasoner.reasoning_service import ReasoningService
+from reasoner.reasoning_client import ReasoningClient
 from api_key import OPENAI_API_KEY, GOOGLE_API_KEY
 
 app = Flask(__name__)
@@ -34,6 +36,7 @@ user_intent_client = UserIntentClient(llm_agent, ask_for_recommendation)
 llm_information_retrieval_client = LLMInformationRetrievalClient(llm_agent, config.get('ir').get('prompt'))
 llm_planning_client = LLMPlanningClient(llm_agent, config.get('planning').get('prompt'))
 google_geo_client = GoogleGeoClient(config.get("GOOGLE_API_KEY"), config.get("geo_processor").get("google").get("BASE_URL"))
+reasoning_client = ReasoningClient(llm_agent, config.get('reasoner').get('prompt'))
 
 
 #Service_Level
@@ -41,8 +44,9 @@ user_intent_service = UserIntentService(user_intent_client, ask_for_recommendati
 ir_service = InformationRetrievalService(llm_information_retrieval_client)
 planning_service = PlanningService(llm_planning_client)
 query_processing_service = QueryProcessingService(config.get('query_processor').get('prompt'), llm_agent)
-geo_service = GeoService(config.get("GOOGLE_API_KEY"))
-query_service = QueryService(ir_service, user_intent_service, planning_service, geo_service, query_processing_service)
+geo_service = GeoService(google_geo_client)
+reasoning_service = ReasoningService(reasoning_client)
+query_service = QueryService(ir_service, user_intent_service, planning_service, geo_service, query_processing_service, reasoning_service)
 
 #Resource Level
 query_resource = QueryResource(query_service, state_manager)

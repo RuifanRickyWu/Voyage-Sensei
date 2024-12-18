@@ -1,1 +1,10 @@
-placeholder
+Instruction: Use this prompt to generate a list of keywords for each POI based on the given input and query.
+
+Input POIs: {{ poi_list }}
+
+Query: {{ queries }}
+
+Task:
+For each POI, extract a list of relevant keywords that align with its description and the provided query. Keywords should highlight important themes, activities, or unique aspects of the POI related to the query.
+
+return the output in json format each containing the poi and the corresponding keywords

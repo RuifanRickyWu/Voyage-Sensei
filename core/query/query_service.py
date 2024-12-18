@@ -4,6 +4,7 @@ from user_intent_processor.user_intent_service import UserIntentService
 from planner.planning_service import PlanningService
 from query_processor.query_processing_service import QueryProcessingService
 from geo_processor.geo_service import GeoService
+from reasoner.reasoning_service import ReasoningService
 
 
 class QueryService:
@@ -11,17 +12,20 @@ class QueryService:
     _planning_service: PlanningService
     _user_intent_service: UserIntentService
     _geo_service: GeoService
+    _reasoning_service: ReasoningService
 
     def __init__(self, ir_service: InformationRetrievalService,
                        user_intent_service: UserIntentService,
                        planning_service: PlanningService,
                        geo_service: GeoService,
-                       query_processing_service: QueryProcessingService):
+                       query_processing_service: QueryProcessingService,
+                       reasoning_service: ReasoningService):
         self._ir_service = ir_service
         self._user_intent_service = user_intent_service
         self._planning_service = planning_service
         self._geo_service = geo_service
         self.query_processing_service = query_processing_service
+        self._reasoning_service = reasoning_service
 
     # MVP: pass all user queries
     def append_query_or_recommend(self, query: str, state_manager: StateManager):
@@ -34,11 +38,11 @@ class QueryService:
             print(state_manager.get_query())
             self._ir_service.llm_search_get_top_k(state_manager, 1)
             self._planning_service.llm_planning(state_manager)
-            print(state_manager.get_current_plan().get_converted_planned_poi_list())
             self._geo_service.get_coords_for_plan(state_manager)
+            self._reasoning_service.reason_for_trip(state_manager)
+
 
             return state_manager.get_current_plan().form_current_plan()
-
         return "query_updated"
 
     # Q2E: list of aspects
@@ -75,7 +79,7 @@ class QueryService:
     def form_full_plan(self, state_manager: StateManager):
         if state_manager.get_current_plan().get_poi_in_sequence() is None:
             return "No plans created yet"
-        return state_manager.get_current_plan().form_current_plan()
+        return state_manager.get_current_plan().form_current_plan_full_detail()
 
 
 

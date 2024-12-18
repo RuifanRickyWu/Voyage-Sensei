@@ -17,10 +17,7 @@ class LLMPlanningClient:
     def llm_planning(self, state_manager: StateManager, queries: list[str], poi_list: list[str]):
         template = self._load_prompt_zeroshot(queries, poi_list)
         #result is a poi sequence list
-        print(template)
         result = json.loads(self._llm_agent.make_request(template))
-        print(result)
-        print("this is result")
         self._create_current_plan_with_hardcord_starting_point(state_manager, result)
 
     def _load_prompt_zeroshot(self, query: list[str], poi_list: list[str]):
@@ -47,7 +44,6 @@ class LLMPlanningClient:
             for poi in current_search_list:
                 if poi.get_poi().get("name") == poi_name:
                     poi_in_sequence.append(poi)
-
         poi_in_sequence.append(starting_point)
         state_manager.update_current_plan(CurrentPlan(poi_in_sequence))
 

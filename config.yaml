@@ -25,3 +25,9 @@ query_processor:
 geo_processor:
   google:
     BASE_URL: "https://maps.googleapis.com/maps/api/geocode/json"
+
+reasoner:
+  prompt:
+    PROMPT_PATH: "prompt_files/reasoner"
+    POI_KEYWORD_SUMMARIZATION: "poi_keyword_summarization.jinja"
+    TRIP_SUMMARIZATION: "trip_summarization.jinja"
