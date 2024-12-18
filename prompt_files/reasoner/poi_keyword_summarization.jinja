@@ -1,1 +1,22 @@
-placeholder
+Instruction: Use this prompt to generate a list of keywords for each POI based on the given input and query.
+
+Input POIs:
+{% for poi in poi_list %}
+- Name: {{ poi.name }}
+  Address: {{ poi.address }}
+  Coordinates: {{ poi.coordinates }}
+  Description: {{ poi.description }}
+  Duration: {{ poi.duration }}
+  Keywords: {{ poi.keywords }}
+{% endfor %}
+
+Query: {{ queries }}
+
+Task:
+For each POI, extract a list of relevant keywords that align with its description and the provided query. Keywords should highlight important themes, activities, or unique aspects of the POI related to the query.
+
+Output:
+{% for poi in poi_list %}
+- POI: {{ poi.name }}
+  Keywords: {{ poi.keywords | default("[]") }}
+{% endfor %}
