@@ -13,7 +13,7 @@ class ReasoningService:
         self._generate_keywords_for_poi(state_manager)
 
     def _generate_keywords_for_poi(self, state_manager: StateManager):
-        poi_list = state_manager.get_current_plan().get_poi_in_sequence()
+        poi_list = state_manager.get_current_plan().get_converted_planned_poi_list()
         queries = state_manager.get_query()
         self._reasoning_client.keyword_summarization_for_poi(state_manager, poi_list, queries)
 

@@ -1,14 +1,6 @@
 Instruction: Use this prompt to generate a list of keywords for each POI based on the given input and query.
 
-Input POIs:
-{% for poi in poi_list %}
-- Name: {{ poi.name }}
-  Address: {{ poi.address }}
-  Coordinates: {{ poi.coordinates }}
-  Description: {{ poi.description }}
-  Duration: {{ poi.duration }}
-  Keywords: {{ poi.keywords }}
-{% endfor %}
+Input POIs: {{ poi_list }}
 
 Query: {{ queries }}
 
