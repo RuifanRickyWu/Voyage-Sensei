@@ -27,6 +27,7 @@ class QueryResource:
             print(query_payload)
             return jsonify(self._query_service.append_query_or_recommend(query_payload, self._state_manager)), 200
         except Exception as e:
+            print(e)
             return jsonify({"error": str(e)}), 500
         
     def append_query_or_recommend_q2e(self):

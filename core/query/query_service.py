@@ -39,7 +39,7 @@ class QueryService:
             self._ir_service.llm_search_get_top_k(state_manager, 1)
             self._planning_service.llm_planning(state_manager)
             self._geo_service.get_coords_for_plan(state_manager)
-            #self._reasoning_service.reason_for_trip(state_manager)
+            self._reasoning_service.reason_for_trip(state_manager)
 
 
             return state_manager.get_current_plan().form_current_plan()

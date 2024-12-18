@@ -11,6 +11,7 @@ class ReasoningService:
 
     def reason_for_trip(self,state_manager: StateManager):
         self._generate_keywords_for_poi(state_manager)
+        self._generate_trip_summary(state_manager)
 
     def _generate_keywords_for_poi(self, state_manager: StateManager):
         poi_list = state_manager.get_current_plan().get_converted_planned_poi_list()

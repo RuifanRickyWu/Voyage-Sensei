@@ -7,8 +7,4 @@ Query: {{ queries }}
 Task:
 For each POI, extract a list of relevant keywords that align with its description and the provided query. Keywords should highlight important themes, activities, or unique aspects of the POI related to the query.
 
-Output:
-{% for poi in poi_list %}
-- POI: {{ poi.name }}
-  Keywords: {{ poi.keywords | default("[]") }}
-{% endfor %}
+return the output in json format each containing the poi and the corresponding keywords
