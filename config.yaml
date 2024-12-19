@@ -16,6 +16,7 @@ user_intent:
   prompt:
     PROMPT_PATH: "prompt_files/user_intent"
     ASK_FOR_RECOMMENDATION: "ask_for_recommendation.jinja"
+    PROVIDE_PREFERENCE: "provide_preference.jinja"
 
 query_processor:
   prompt:

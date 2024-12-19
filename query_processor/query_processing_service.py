@@ -21,12 +21,12 @@ class QueryProcessingService:
         self._prompt_config = prompt_config
         self._llm_client = llm_agent
     
-    def load_query(self, query: str) -> list[Query]:
+    def load_query(self, query: str):
         query = query.lower()
         query = Query(query)
         self.query_list.append(query)
     
-    def process_queries(self) -> list[Query]:
+    def process_queries(self):
         """
         Q2E: get all aspects from list of queries
         """

@@ -12,6 +12,7 @@ from user_intent_processor.user_intent_client import UserIntentClient
 from state.state_manager import StateManager
 from intelligence.llm_agent import LLMAgent
 from user_intent_processor.user_intent.ask_for_recommendation import AskForRecommendation
+from user_intent_processor.user_intent.provide_preference import ProvidePreference
 from query_processor.query_processing_service import QueryProcessingService
 from geo_processor.geo_service import GeoService
 from geo_processor.google_geo_client import GoogleGeoClient
@@ -32,7 +33,8 @@ state_manager = StateManager()
 #Client level
 llm_agent = LLMAgent(config, "GPT")
 ask_for_recommendation = AskForRecommendation(config.get('user_intent').get('prompt'))
-user_intent_client = UserIntentClient(llm_agent, ask_for_recommendation)
+provide_preference = ProvidePreference(config.get('user_intent').get('prompt'))
+user_intent_client = UserIntentClient(llm_agent, ask_for_recommendation, provide_preference)
 llm_information_retrieval_client = LLMInformationRetrievalClient(llm_agent, config.get('ir').get('prompt'))
 llm_planning_client = LLMPlanningClient(llm_agent, config.get('planning').get('prompt'))
 google_geo_client = GoogleGeoClient(config.get("GOOGLE_API_KEY"), config.get("geo_processor").get("google").get("BASE_URL"))
@@ -40,7 +42,7 @@ reasoning_client = ReasoningClient(llm_agent, config.get('reasoner').get('prompt
 
 
 #Service_Level
-user_intent_service = UserIntentService(user_intent_client, ask_for_recommendation)
+user_intent_service = UserIntentService(user_intent_client, ask_for_recommendation, state_manager)
 ir_service = InformationRetrievalService(llm_information_retrieval_client)
 planning_service = PlanningService(llm_planning_client)
 query_processing_service = QueryProcessingService(config.get('query_processor').get('prompt'), llm_agent)
