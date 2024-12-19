@@ -20,7 +20,8 @@ class ReasoningClient:
 
     def keyword_summarization_for_poi(self, state_manager: StateManager, poi_list: list[str], queries: list[str]):
         template = self._load_prompt_poi_keyword(poi_list, queries)
-        keyword_summary_result = json.loads(self._llm_agent.make_request(template))
+        result = self._llm_agent.make_request(template)
+        keyword_summary_result = json.loads(result)
         self._load_keywords_for_planned_poi(state_manager, keyword_summary_result)
 
 

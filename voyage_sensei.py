@@ -42,7 +42,7 @@ reasoning_client = ReasoningClient(llm_agent, config.get('reasoner').get('prompt
 
 
 #Service_Level
-user_intent_service = UserIntentService(user_intent_client, ask_for_recommendation, state_manager)
+user_intent_service = UserIntentService(user_intent_client, ask_for_recommendation)
 ir_service = InformationRetrievalService(llm_information_retrieval_client)
 planning_service = PlanningService(llm_planning_client)
 query_processing_service = QueryProcessingService(config.get('query_processor').get('prompt'), llm_agent)

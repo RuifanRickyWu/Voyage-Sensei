@@ -39,7 +39,7 @@ class StateManager:
     
     # for responding to the user in the UI    
     def get_latest_system_response(self):
-        self._session_history.get_lastest_system_response()
+        return self._session_history.get_lastest_system_response()
     
     def append_system_response(self, system_response):
         self._session_history.append_system_response(system_response)

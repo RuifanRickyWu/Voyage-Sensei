@@ -27,8 +27,7 @@ class SessionHistory:
     
     def append_system_response(self, system_response):
         self._system_responses.append(system_response)
-        print("sys res:")
-        print(self._system_responses[-1])
+        print(self._system_responses)
     
     def get_lastest_system_response(self):
         return self._system_responses[-1]
