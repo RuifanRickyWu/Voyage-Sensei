@@ -31,15 +31,7 @@ class QueryService:
     def append_query_or_recommend(self, query: str, state_manager: StateManager):
         recommendation_check = self._user_intent_service.check_for_recommendation(query)
         provide_preference_check = self._user_intent_service.check_provide_preference(query)
-        
-        if provide_preference_check:
-            state_manager.update_query(query)
-            print(state_manager.get_query())
-            
-            # append system response
-            self._user_intent_service.append_system_response(state_manager)
-            return state_manager.get_latest_system_response()
-        
+
         if recommendation_check:
             state_manager.update_query(query)
             print(state_manager.get_query())
@@ -47,8 +39,12 @@ class QueryService:
             self._planning_service.llm_planning(state_manager)
             self._geo_service.get_coords_for_plan(state_manager)
             self._reasoning_service.reason_for_trip(state_manager)
-
             return state_manager.get_current_plan().form_current_plan()
+
+        state_manager.update_query(query)
+        print(state_manager.get_query())
+        # append system response
+        self._user_intent_service.append_system_response(state_manager)
         return state_manager.get_latest_system_response()
 
     # Q2E: list of aspects
