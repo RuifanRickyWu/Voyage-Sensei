@@ -32,3 +32,9 @@ reasoner:
     PROMPT_PATH: "prompt_files/reasoner"
     POI_KEYWORD_SUMMARIZATION: "poi_keyword_summarization.jinja"
     TRIP_SUMMARIZATION: "trip_summarization.jinja"
+
+web_search:
+  google:
+    CX: "a19f3b2e14e6e436b"
+    BASE_URL: "https://www.googleapis.com/customsearch/v1"
+    API_KEY: "AIzaSyCbWt8HLsCj3q2vzCQyJNWbjFRtoWkEAP0"

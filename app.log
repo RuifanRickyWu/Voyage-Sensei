@@ -1,0 +1,27 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 317-248-053
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+QueryService - INFO - Start Recommendation
+QueryService - INFO - Current Query List -> : ['Give me a trip']
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+EventProcessorClient - INFO - Current Search Result -> : **Toronto flights. Book flights today with Porter Airlines**
+... CN Tower's Glass Floor and staring down over a thousand feet to the ground below. Toronto's summer events allow the city to heat up with countless festivals ...
+[link](https://www.flyporter.com/en_us/flights-to-toronto)
+
+EventProcessorClient - INFO - Current Search Result -> : **Visitor Information | Royal Ontario Museum**
+All special exhibition tickets include general admission. Take advantage of Plan Ahead Pricing! We encourage visitors to purchase tickets in advance for the ...
+[link](https://www.rom.on.ca/visit/visitor-information)
+
+EventProcessorClient - INFO - Current Search Result -> : **Home – Canoe Restaurant & Tavern – Center Harbor – New ...**
+Steak, seafood, tavern and restaurant in Lakes Region – New Hampshire – Center Harbor – Lake Winnipesaukee.
+[link](https://canoecenterharbor.com/)
+
+EventProcessorClient - INFO - Current Search Result -> : **Alerts and Advisories | Bay Area Rapid Transit**
+02/01/2025. Embarcadero, Street - Davis & Market St - Up ... Repair, 01/31/2025. *Click the station name for accessible alternatives for each station elevator ...
+[link](https://www.bart.gov/schedules/advisories)
+
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 16:38:59] "POST /query HTTP/1.1" 200 -
