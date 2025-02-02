@@ -1,3 +1,5 @@
+import logging
+
 from information_retriever.information_retrieval_service import InformationRetrievalService
 from state.state_manager import StateManager
 from user_intent_processor.user_intent_service import UserIntentService
@@ -5,6 +7,7 @@ from planner.planning_service import PlanningService
 from query_processor.query_processing_service import QueryProcessingService
 from geo_processor.geo_service import GeoService
 from reasoner.reasoning_service import ReasoningService
+from event_processor.event_processor_service import EventProcessorService
 
 
 class QueryService:
@@ -13,19 +16,23 @@ class QueryService:
     _user_intent_service: UserIntentService
     _geo_service: GeoService
     _reasoning_service: ReasoningService
+    _event_processor_service: EventProcessorService
 
     def __init__(self, ir_service: InformationRetrievalService,
                        user_intent_service: UserIntentService,
                        planning_service: PlanningService,
                        geo_service: GeoService,
                        query_processing_service: QueryProcessingService,
-                       reasoning_service: ReasoningService):
+                       reasoning_service: ReasoningService,
+                       event_processor_service: EventProcessorService):
+        self.logger = logging.getLogger(self.__class__.__name__)
         self._ir_service = ir_service
         self._user_intent_service = user_intent_service
         self._planning_service = planning_service
         self._geo_service = geo_service
         self.query_processing_service = query_processing_service
         self._reasoning_service = reasoning_service
+        self._event_processor_service = event_processor_service
 
     # MVP: pass all user queries
     def append_query_or_recommend(self, query: str, state_manager: StateManager):
@@ -33,16 +40,18 @@ class QueryService:
         provide_preference_check = self._user_intent_service.check_provide_preference(query)
 
         if recommendation_check:
+            self.logger.info("Start Recommendation")
             state_manager.update_query(query)
-            print(state_manager.get_query())
-            self._ir_service.llm_search_get_top_k(state_manager, 5)
+            self.logger.info(f"Current Query List -> : {state_manager.get_query()}")
+            self._ir_service.llm_search_get_top_k(state_manager, 2)
+            self._event_processor_service.search_for_event(state_manager)
             self._planning_service.llm_planning(state_manager)
             self._geo_service.get_coords_for_plan(state_manager)
             self._reasoning_service.reason_for_trip(state_manager)
             return state_manager.get_current_plan().form_current_plan()
 
         state_manager.update_query(query)
-        print(state_manager.get_query())
+        self.logger.info(f"Current Query List -> : {state_manager.get_query()}")
         # append system response
         self._user_intent_service.append_system_response(state_manager)
         return state_manager.get_latest_system_response()

@@ -1,4 +1,6 @@
 import json
+import logging
+
 from jinja2 import Environment, FileSystemLoader
 from intelligence.llm_agent import LLMAgent
 from state.state_manager import StateManager
@@ -11,13 +13,17 @@ class LLMInformationRetrievalClient:
     _prompt_config: dict
 
     def __init__(self, llm_agent: LLMAgent, prompt_config: dict):
+        self.logger = logging.getLogger(self.__class__.__name__)
         self._prompt_config = prompt_config
         self._llm_agent = llm_agent
 
     def llm_search_get_top_k_poi(self, state_manager: StateManager, top_k: int):
         queries = state_manager.get_query()
         template = self._load_prompt_zero_shot(queries, top_k)
-        llm_search_result = json.loads(self._llm_agent.make_request(template))
+        #be caucious, changing model may change the output.
+        result = self._llm_agent.make_request(template)
+        self.logger.debug(f"The result from llm for ir is {result}")
+        llm_search_result = json.loads(result)
         self._load_llm_result_to_search_result(llm_search_result, state_manager)
 
     def _load_prompt_zero_shot(self, query, top_k: int):
@@ -29,6 +35,7 @@ class LLMInformationRetrievalClient:
         return template.render(user_query=query, k=top_k)
 
     def _load_llm_result_to_search_result(self, llm_result: json, state_manager: StateManager):
+        print(llm_result)
         poi_list = []
         for result in llm_result:
             poi_list.append(POI(
