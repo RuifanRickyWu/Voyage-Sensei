@@ -55,7 +55,7 @@ llm_agent = LLMAgent(config, "GPT")
 web_search_client = WebSearchClient(config.get("web_search").get("google").get("API_KEY"),
                                     config.get("web_search").get("google").get("BASE_URL"),
                                     config.get("web_search").get('google').get("CX"))
-event_processor_client = EventProcessorClient(llm_agent, web_search_client)
+event_processor_client = EventProcessorClient(llm_agent, web_search_client, config.get('event_processor').get('prompt'))
 ask_for_recommendation = AskForRecommendation(config.get('user_intent').get('prompt'))
 provide_preference = ProvidePreference(config.get('user_intent').get('prompt'))
 user_intent_client = UserIntentClient(llm_agent, ask_for_recommendation, provide_preference)

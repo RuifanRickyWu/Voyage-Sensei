@@ -11,6 +11,8 @@ class EventProcessorService:
     def search_for_event(self, state_manager: StateManager):
         poi_list = state_manager.get_current_search_result().get_retrieved_poi_list()
         for poi in poi_list:
-            web_search_result = self._event_processor_client.web_search_single_poi_for_event(poi)
-            poi.update_event_info(self._event_processor_client.llm_summarize_event(poi, web_search_result))
+            event_search_result = self._event_processor_client.web_search_single_poi_for_event(poi)
+            poi.update_event_info(self._event_processor_client.llm_summarize_event(poi, event_search_result))
+            debug = poi.get_poi().get("event")
+            print(debug)
 
