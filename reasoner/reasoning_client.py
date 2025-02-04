@@ -36,8 +36,6 @@ class ReasoningClient:
             poi.update_keywords(keyword_unit.get('Keywords'))
         state_manager.get_current_plan().update_poi_in_sequence(poi_list)
 
-
-
     def trip_summary(self, state_manager: StateManager, queries: list[str], poi_list: list[str]):
         template = self._load_prompt_trip_summary(queries, poi_list)
         trip_summary_result = self._llm_agent.make_request(template)
