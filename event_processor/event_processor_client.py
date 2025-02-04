@@ -26,7 +26,7 @@ class EventProcessorClient:
         search_result_general = self._parse_web_search_results(self._web_search_client.google_search(query_general, 2))
         query_ticket_master = "event for " + poi.get_poi().get("name") + "on " + current_date + "ticket_master"
         search_result_ticket_master = self._parse_web_search_results(self._web_search_client.google_search(query_ticket_master, 2))
-        self.logger.debug(f"Current Search Result -> : {search_result_general + search_result_ticket_master }")
+        self.logger.info(f"Current Search Result -> : {search_result_general + search_result_ticket_master }")
         return search_result_general + search_result_ticket_master
 
     def llm_summarize_event(self, poi: POI, event_search_result: json):

@@ -28,10 +28,6 @@ class LLMPlanningClient:
         template = env.get_template(self._prompt_config.get("BASELINE_ZEROSHOT_PROMPT"))
         return template.render(user_query=query, pois=poi_list)
 
-    def _extract_poi_from_llm_planner(self, plan: dict):
-        return [place for place in plan]
-        #return [{"name": place["name"], "address": place["address"]} for place in plan]
-
     def _create_current_plan_with_hardcord_starting_point(self, state_manager: StateManager, result: dict):
         starting_point = POI(
             name= "Starting Point",

@@ -21,6 +21,7 @@ class ReasoningClient:
     def keyword_summarization_for_poi(self, state_manager: StateManager, poi_list: list[str], queries: list[str]):
         template = self._load_prompt_poi_keyword(poi_list, queries)
         result = self._llm_agent.make_request(template)
+        #print(result
         keyword_summary_result = json.loads(result)
         self._load_keywords_for_planned_poi(state_manager, keyword_summary_result)
 
@@ -31,10 +32,8 @@ class ReasoningClient:
 
     def _load_keywords_for_planned_poi(self, state_manager: StateManager, keyword_result: dict):
         poi_list = state_manager.get_current_plan().get_poi_in_sequence()
-        for keyword_unit in keyword_result:
-            for poi in poi_list:
-                if poi.get_poi().get('name') == keyword_unit.get('poi'):
-                    poi.update_keywords(keyword_unit.get('keywords'))
+        for keyword_unit, poi in zip(keyword_result, poi_list):
+            poi.update_keywords(keyword_unit.get('Keywords'))
         state_manager.get_current_plan().update_poi_in_sequence(poi_list)
 
 

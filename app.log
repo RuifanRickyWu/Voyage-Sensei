@@ -1,2 +1,47 @@
 werkzeug - WARNING -  * Debugger is active!
 werkzeug - INFO -  * Debugger PIN: 317-248-053
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+QueryService - INFO - Start Recommendation
+QueryService - INFO - Current Query List -> : ['I love shows and i want to go to scotiabank arena']
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+EventProcessorClient - INFO - Current Search Result -> : **Scotiabank Arena**
+Nine Inch Nails. Peel It Back Tour 2025. Event Starts 7:30 PM. Buy TicketsMore ... Feb 4, 2025 - 7:30 PM. Toronto Raptors vs New York Knicks. 5W. Feb 5, 2025 ...
+[link](https://www.scotiabankarena.com/)
+
+**New York Knicks at Toronto Raptors tickets in Toronto at Scotiabank ...**
+Have them meet you at the venue. Discover & purchase tickets to your favorite events. Post your event memories with commemorative tickets, photo collages, and ...
+[link](https://www.axs.com/events/659414/new-york-knicks-at-toronto-raptors-tickets?cid=usaffevvnt)
+No related results
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+EventProcessorClient - INFO - Current Search Result -> : **The Lyric Theatre: Performing Arts and Concert Entertainment in ...**
+Upcoming EVENTS. Details and Tickets. The Bronx Wanderers. Feb 4, 2025 at 4:00 PM. Feb 4, 2025 at 7:00 PM. Details and Tickets. Abbacadabra: The Ultimate ABBA ...
+[link](https://www.lyrictheatre.com/)
+
+**Symphony Space | Performing Arts Center, Theater, Film**
+Symphony Space is a performing arts center on the Upper West Side of Manhattan offering programs in theatre, film, literature, music, dance and family ...
+[link](https://www.symphonyspace.org/)
+No related results
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+EventProcessorClient - INFO - Current Search Result -> : **Toronto flights. Book flights today with Porter Airlines**
+As the city's tallest building, the CN Tower also includes the revolving 360 Restaurant. ... CN Tower on the EdgeWalk. Feel the breeze on your face as you ...
+[link](https://www.flyporter.com/en_us/flights-to-toronto)
+
+**The Metropolitan at The 9 - Downtown Cleveland Hotels**
+... restaurant, an indoor dog park and sumptuous hotel rooms and suites. Read ... Metropolitan at The 9 features a ballroom and incredibly iconic event ...
+[link](https://www.metropolitancleveland.com/)
+No related results
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+EventProcessorClient - INFO - Current Search Result -> : **Alerts and Advisories | Bay Area Rapid Transit**
+Passengers traveling from Richmond offboard at Bay Fair for a shuttle train ... *Click the station name for accessible alternatives for each station elevator ...
+[link](https://www.bart.gov/schedules/advisories)
+
+**San Francisco Police Department**
+SFPD Richmond Station · SFPD Southern Station · SFPD Taraval Station · SFPD ... February 04, 2025 | 4:50 AM. The San Francisco Police Department is asking for ...
+[link](https://www.sanfranciscopolice.org/)
+No related results
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+werkzeug - INFO - 127.0.0.1 - - [04/Feb/2025 16:01:24] "POST /query HTTP/1.1" 200 -
