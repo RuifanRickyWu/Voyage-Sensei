@@ -36,6 +36,15 @@ class QueryService:
 
     # MVP: pass all user queries
     def append_query_or_recommend(self, query: str, state_manager: StateManager):
+        
+        cut_off_check = self._user_intent_service.check_cut_off_input(query)
+        
+        if cut_off_check:
+            self._user_intent_service.append_system_response(state_manager)
+            return state_manager.get_latest_system_response()
+        
+        print("y\n")
+        
         recommendation_check = self._user_intent_service.check_for_recommendation(query)
         provide_preference_check = self._user_intent_service.check_provide_preference(query)
 
