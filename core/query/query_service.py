@@ -44,7 +44,7 @@ class QueryService:
             state_manager.update_query(query)
             self.logger.info(f"Current Query List -> : {state_manager.get_query()}")
             self._ir_service.llm_search_get_top_k(state_manager, 2)
-            self._event_processor_service.search_for_event(state_manager)
+            #self._event_processor_service.search_for_event(state_manager)
             self._planning_service.llm_planning(state_manager)
             self._geo_service.get_coords_for_plan(state_manager)
             self._reasoning_service.reason_for_trip(state_manager)
