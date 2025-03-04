@@ -1,3 +1,8 @@
+critique:
+  prompt:
+    PROMPT_PATH: "prompt_files/critique"
+    CRITIQUE_RESOLUTION_PROMPT: "critique_resolution_fewshot.jinja"
+
 ir:
   prompt:
     PROMPT_PATH: "prompt_files/information_retriever"

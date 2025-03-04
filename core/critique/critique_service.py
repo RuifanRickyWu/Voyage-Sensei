@@ -7,8 +7,17 @@ from query_processor.query_processing_service import QueryProcessingService
 from geo_processor.geo_service import GeoService
 from reasoner.reasoning_service import ReasoningService
 from event_processor.event_processor_service import EventProcessorService
+from core.critique.critique_client.critique_client import CritiqueClient
 
 class CritiqueService:
+
+    _ir_service: InformationRetrievalService
+    _planning_service: PlanningService
+    _user_intent_service: UserIntentService
+    _geo_service: GeoService
+    _reasoning_service: ReasoningService
+    _event_processor_service: EventProcessorService
+    _critique_client: CritiqueClient
 
     def __init__(self, ir_service: InformationRetrievalService,
                        user_intent_service: UserIntentService,
@@ -16,7 +25,8 @@ class CritiqueService:
                        geo_service: GeoService,
                        query_processing_service: QueryProcessingService,
                        reasoning_service: ReasoningService,
-                       event_processor_service: EventProcessorService):
+                       event_processor_service: EventProcessorService,
+                       critique_client: CritiqueClient):
         self.logger = logging.getLogger(self.__class__.__name__)
         self._ir_service = ir_service
         self._user_intent_service = user_intent_service
@@ -25,6 +35,7 @@ class CritiqueService:
         self.query_processing_service = query_processing_service
         self._reasoning_service = reasoning_service
         self._event_processor_service = event_processor_service
+        self._critique_client = critique_client
 
 
     def append_critique_or_recommend(self, critique: str, state_manager: StateManager):
@@ -38,5 +49,10 @@ class CritiqueService:
 
 
 
+
         state_manager.update_critique(critique)
         self.logger.info(f"Current Query List -> : {state_manager.get_critique()}")
+
+    def identify_and_remove_critiqued_poi(self, state_manager: StateManager):
+        self._critique_client.identify_and_remove_critiqued_poi(state_manager)
+
