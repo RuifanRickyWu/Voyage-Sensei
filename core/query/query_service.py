@@ -42,9 +42,7 @@ class QueryService:
         if cut_off_check:
             self._user_intent_service.append_system_response(state_manager)
             return state_manager.get_latest_system_response()
-        
-        print("y\n")
-        
+                
         recommendation_check = self._user_intent_service.check_for_recommendation(query)
         provide_preference_check = self._user_intent_service.check_provide_preference(query)
 
