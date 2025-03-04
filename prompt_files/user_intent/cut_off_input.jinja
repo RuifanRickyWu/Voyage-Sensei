@@ -1,0 +1,25 @@
+Given a user input that is entered via voice recognition, there might be potential errors or cut-offs in voice input. Please respond with True or False for whether the user input exists such cut-offs or gibberish that cannot be understood.
+The English response should be natural, politely asking the user to make themselves clear.
+Ensure the response follows this format:
+
+[True/False]
+[English response] (if True)
+
+Example 1:
+True
+Pardon?
+
+Example 2:
+True
+I'm sorry I didn't understand that.
+
+Example 3:
+True
+I think I cut you off... Please continue speaking.
+
+Example 4:
+False
+(No additional response required)
+
+User input: {{ user_input }}
+Response:
