@@ -1,6 +1,7 @@
 from flask import Blueprint, jsonify, request
 from core.critique.critique_service import CritiqueService
 from state.state_manager import StateManager
+import traceback
 
 class CritiqueResource:
     _critique_service: CritiqueService
@@ -24,5 +25,6 @@ class CritiqueResource:
             critique_payload = payload.get('query', '')
             return jsonify(self._critique_service.append_critique_or_recommend(critique_payload, self._state_manager)), 200
         except Exception as e:
-            print(e)
-            return jsonify({"error": str(e)}), 500
+            trace = traceback.format_exc()
+            print(trace)
+            return jsonify({"error": str(e), "trace": trace}), 500

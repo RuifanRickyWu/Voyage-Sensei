@@ -2,13 +2,15 @@ werkzeug - WARNING -  * Debugger is active!
 werkzeug - INFO -  * Debugger PIN: 119-879-125
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 QueryService - INFO - Start Recommendation
 QueryService - INFO - Current Query List -> : ['give me a trip']
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 15:02:41] "POST /query HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 16:40:27] "POST /query HTTP/1.1" 200 -
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 CritiqueService - INFO - Finish Critiquing, generating new trip
 CritiqueService - INFO - Current Critique List -> : ['I dont want CN tower and I love jazz, give me a trip']
@@ -17,8 +19,51 @@ CritiqueClient - INFO - The list with POI removed is [
 {"name": "CN Tower"}
 ]
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+LLMInformationRetrievalClient - INFO - The result from llm for ir is [
+    {
+        "name": "Starting Point",
+        "address": "21 Carlton St, Toronto, ON M5B 1L3, Canada",
+        "description": "Starting and Ending Point",
+        "reasoning": "This is the starting and ending point of the trip.",
+        "duration": "None"
+    },
+    {
+        "name": "Canoe Restaurant",
+        "address": "66 Wellington St W, Toronto, ON M5K 1H6, Canada",
+        "description": "Located on the 54th floor of the TD Bank Tower, Canoe Restaurant offers a dining experience with stunning views of the city. The menu features Canadian cuisine with a focus on fresh, local ingredients.",
+        "reasoning": "This place was preserved from the previous points of interest.",
+        "duration": "1-2 hours"
+    },
+    {
+        "name": "Royal Ontario Museum",
+        "address": "100 Queens Park, Toronto, ON M5S 2C6, Canada",
+        "description": "The Royal Ontario Museum is a museum of art, world culture and natural history in Toronto, Canada. It is one of the largest museums in North America and the largest in Canada.",
+        "reasoning": "This place was preserved from the previous points of interest.",
+        "duration": "2-3 hours"
+    },
+    {
+        "name": "The Keg Steakhouse + Bar - Mansion",
+        "address": "515 Jarvis St, Toronto, ON M4Y 2H7, Canada",
+        "description": "The Keg Steakhouse + Bar - Mansion is a high-end steakhouse chain serving grilled meats, seafood, and cocktails in a sophisticated setting.",
+        "reasoning": "This place was preserved from the previous points of interest.",
+        "duration": "1-2 hours"
+    },
+    {
+        "name": "The Rex Hotel Jazz & Blues Bar",
+        "address": "194 Queen St W, Toronto, ON M5V 1Z1, Canada",
+        "description": "The Rex Hotel Jazz & Blues Bar is a popular spot for live music, particularly jazz and blues, with performances every night and a menu of pub grub and draft beers.",
+        "reasoning": "This place was added based on the user's love for jazz. It's a popular spot for live jazz music in Toronto.",
+        "duration": "1-2 hours"
+    },
+    {
+        "name": "Starting Point",
+        "address": "21 Carlton St, Toronto, ON M5B 1L3, Canada",
+        "description": "Starting and Ending Point",
+        "reasoning": "This is the starting and ending point of the trip.",
+        "duration": "None"
+    }
+]
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 15:03:34] "POST /critique HTTP/1.1" 200 -
-werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 15:03:56] "GET /query/current_plan HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 16:41:29] "POST /critique HTTP/1.1" 200 -

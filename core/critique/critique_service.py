@@ -39,6 +39,16 @@ class CritiqueService:
 
 
     def append_critique_or_recommend(self, critique: str, state_manager: StateManager):
+
+        if state_manager.get_current_plan().get_converted_planned_poi_list() == None:
+            return "Missing Initial Recommendation"
+
+        cut_off_check = self._user_intent_service.check_cut_off_input(critique)
+
+        if cut_off_check:
+            self._user_intent_service.append_system_response(state_manager)
+            return state_manager.get_latest_system_response()
+
         recommendation_check = self._user_intent_service.check_for_recommendation(critique)
 
         if recommendation_check:
@@ -47,7 +57,7 @@ class CritiqueService:
             self.logger.info(f"Current Critique List -> : {state_manager.get_critique()}")
             self.identify_and_remove_critiqued_poi(state_manager)
             self._ir_service.llm_search_during_critique(state_manager)
-            self._planning_service.llm_planning(state_manager)
+            self._planning_service.llm_planning_after_critique(state_manager)
             self._geo_service.get_coords_for_plan(state_manager)
             self._reasoning_service.reason_for_trip_after_critique(state_manager)
             return state_manager.get_current_plan().form_current_plan()

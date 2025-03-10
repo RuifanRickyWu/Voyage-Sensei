@@ -4,7 +4,8 @@ Inputs:
 
 User Query: {{ user_query }}
 
-Current POIs: {{ current_pois }} (these must be preserved)
+Important! These current POIs should be preserved
+Current POIs: {{ current_pois }}
 
 Critiques: {{ critiques }}
 
@@ -26,6 +27,7 @@ reasoning: Explanation of why this place fits the user's query and any critiques
 
 duration: Estimated time a visitor would typically spend at this location
 
+Important! Only return the output in JSON array like the following and nothing else!
 Return the response as a JSON array, preserving all current POIs and adding additional suitable POIs to address critiques:
 
 [

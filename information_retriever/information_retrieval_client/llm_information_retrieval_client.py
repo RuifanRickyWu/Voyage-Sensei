@@ -33,7 +33,7 @@ class LLMInformationRetrievalClient:
         template = self._load_prompt_with_critique_zero_shot(queries, critiques, current_poi_list)
         #be caucious, changing model may change the output.
         result = self._llm_agent.make_request(template)
-        self.logger.debug(f"The result from llm for ir is {result}")
+        self.logger.info(f"The result from llm for ir is {result}")
         llm_search_result = json.loads(result)
         self._load_llm_result_to_search_result(llm_search_result, state_manager)
 

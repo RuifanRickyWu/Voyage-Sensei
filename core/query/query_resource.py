@@ -1,6 +1,7 @@
 from flask import Blueprint, jsonify, request
 from core.query.query_service import QueryService
 from state.state_manager import StateManager
+import traceback
 
 
 class QueryResource:
@@ -37,7 +38,9 @@ class QueryResource:
             # print(query_payload)
             return jsonify(self._query_service.append_query_or_recommend_q2e(query_payload, self._state_manager)), 200
         except Exception as e:
-            return jsonify({"error": str(e)}), 500
+            trace = traceback.format_exc()
+            print(trace)
+            return jsonify({"error": str(e), "trace": trace}), 500
 
     def get_current_plan(self):
         try:

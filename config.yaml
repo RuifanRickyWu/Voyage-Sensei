@@ -16,6 +16,7 @@ planning:
   prompt:
     PROMPT_PATH: "prompt_files/planner"
     BASELINE_ZEROSHOT_PROMPT: "zeroshot_baseline_planner.jinja"
+    BASELINE_ZEROSHOT_AFTER_CRITIQUE_PROMPT: "zero_shot_baseline_planner_after_critique.jinja"
     ONE_STEP_BASELINE_ZEROSHOT_PROMPT: "one_step_zeroshot_baseline_planner.jinja"
 
 user_intent:
