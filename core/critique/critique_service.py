@@ -42,16 +42,21 @@ class CritiqueService:
         recommendation_check = self._user_intent_service.check_for_recommendation(critique)
 
         if recommendation_check:
-            self.logger.info("Start Critique Recommendation")
+            self.logger.info("Finish Critiquing, generating new trip")
             state_manager.update_critique(critique)
             self.logger.info(f"Current Critique List -> : {state_manager.get_critique()}")
-
-
-
-
+            self.identify_and_remove_critiqued_poi(state_manager)
+            self._ir_service.llm_search_during_critique(state_manager)
+            self._planning_service.llm_planning(state_manager)
+            self._geo_service.get_coords_for_plan(state_manager)
+            self._reasoning_service.reason_for_trip_after_critique(state_manager)
+            return state_manager.get_current_plan().form_current_plan()
 
         state_manager.update_critique(critique)
-        self.logger.info(f"Current Query List -> : {state_manager.get_critique()}")
+        self.logger.info(f"Current Critique List -> : {state_manager.get_critique()}")
+        # append system response
+        self._user_intent_service.append_system_response(state_manager)
+        return state_manager.get_latest_system_response()
 
     def identify_and_remove_critiqued_poi(self, state_manager: StateManager):
         self._critique_client.identify_and_remove_critiqued_poi(state_manager)

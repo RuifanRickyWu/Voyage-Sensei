@@ -27,18 +27,16 @@ class CritiqueClient:
         self._remove_undesired_poi(state_manager, undesired_poi_list)
 
     def _load_prompt_zero_shot(self, critiques, current_poi_list):
-        # loading 0_shot_prompt for baseline
         env = Environment(loader=FileSystemLoader(self._prompt_config.get("PROMPT_PATH")))
-        # Load the template file
-        # print(self._prompt_config.get("BASELINE_ZEROSHOT_PROMPT"))
-        template = env.get_template(self._prompt_config.get("BASELINE_ZEROSHOT_PROMPT"))
-        return template.render(critiques = critiques, current_poi_list = current_poi_list)
+        template = env.get_template(self._prompt_config.get("CRITIQUE_RESOLUTION_PROMPT"))
+        return template.render(critiques = critiques, poi_sequence = current_poi_list)
 
     def _remove_undesired_poi(self, state_manager: StateManager, undesired_poi_result: dict):
         poi_list = state_manager.get_current_plan().get_poi_in_sequence()
-        for undesired_poi, poi in zip(undesired_poi_result, poi_list):
-            if undesired_poi.get("Name") == poi.get_poi("Name"):
-                poi_list.remove(poi)
+        for undesired_poi in undesired_poi_result:
+            for poi in poi_list:
+                if undesired_poi.get("name") == poi.get_poi().get("name"):
+                    poi_list.remove(poi)
         state_manager.get_current_plan().update_poi_in_sequence(poi_list)
 
 

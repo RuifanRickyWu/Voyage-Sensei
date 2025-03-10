@@ -1,60 +1,66 @@
-You are a travel planning assistant. Given a list of critiques about a travel itinerary and a sequence of Points of Interest (POIs), identify which POIs were negatively critiqued.
+You are a travel planning assistant. Given a list of critiques about a travel itinerary and a sequence of Points of Interest (POIs) with their durations and sequence order, identify which POIs were negatively critiqued, including critiques related explicitly or implicitly to time (e.g., critiques mentioning duration, sequence, or specific time periods like morning, afternoon, or evening).
 
-**IMPORTANT:**
-Your output MUST be in valid JSON format and must consist solely of a JSON array. Each element of the array should be an object with a single key "Name" and its corresponding POI name as the value. Do not include any additional text or formatting.
+IMPORTANT:
+Your output MUST be in valid JSON format and must consist solely of a JSON array. Each element of the array should be an object with the following key:
 
-For example, if the negatively critiqued POIs are "CN Tower" and "Ripley's Aquarium", your output should be exactly:
+"name": POI name
 
-[
-    {"Name": "CN Tower"},
-    {"Name": "Ripley's Aquarium"}
-]
+Do not include any additional text or formatting.
 
-**Example 1:**
+Assume the itinerary starts at approximately 09:00 AM, and estimate the timing of POIs based on their sequence and duration. Use the following assumptions:
+
+Morning: 09:00 AM - 12:00 PM
+
+Afternoon: 12:00 PM - 05:00 PM
+
+Evening: 05:00 PM onwards
+
+Also look for other critiques like the third POI or critiques that directly named the POI
+
+Example:
 Critiques:
-- "The CN Tower was too crowded and overpriced."
-- "I didn't enjoy Ripley's Aquarium—it felt too small for the price."
-- "The St. Lawrence Market had a great atmosphere, but I wish it had more variety in food stalls."
+
+"I don't like visiting the Royal Ontario Museum in the afternoon—it was too crowded."
+
+"Casa Loma was beautiful, but too far from other attractions."
 
 Current POI Sequence:
-1. CN Tower
-2. Ripley's Aquarium
-3. St. Lawrence Market
-4. Distillery District
+
+{"name": "Art Gallery of Ontario", "Duration": "2 hours"}
+
+{"name": "Casa Loma", "Duration": "3 hours"}
+
+{"name": "Royal Ontario Museum", "Duration": "2-3 hours"}
+
+{"name": "Kensington Market", "Duration": "1-2 hours"}
+
+Estimated timings:
+
+Art Gallery of Ontario: 09:00 AM - 11:00 AM (Morning)
+
+Casa Loma: 11:00 AM - 02:00 PM (Morning/Afternoon)
+
+Royal Ontario Museum: 02:00 PM - 05:00 PM (Afternoon)
+
+Kensington Market: 05:00 PM onwards (Evening)
 
 Output:
 [
-    {"Name": "CN Tower"},
-    {"Name": "Ripley's Aquarium"}
-]
-
-**Example 2:**
-Critiques:
-- "Casa Loma was beautiful, but too far from other attractions."
-- "I found the Royal Ontario Museum overwhelming and not well-organized."
-
-Current POI Sequence:
-1. Art Gallery of Ontario
-2. Casa Loma
-3. Royal Ontario Museum
-4. Kensington Market
-
-Output:
-[
-    {"Name": "Casa Loma"},
-    {"Name": "Royal Ontario Museum"}
+{"name": "Casa Loma"},
+{"name": "Royal Ontario Museum"}
 ]
 
 Now, process the following input:
 
 Critiques:
 {% for critique in critiques %}
-- "{{ critique }}"
+
+"{{ critique }}"
 {% endfor %}
 
 Current POI Sequence:
 {% for poi in poi_sequence %}
-{{ loop.index }}. {{ poi }}
+{{ loop.index }}. {"name": "{{ poi.name }}", "Duration": "{{ poi.duration }}"}
 {% endfor %}
 
 Output:

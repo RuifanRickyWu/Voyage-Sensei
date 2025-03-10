@@ -15,7 +15,14 @@ class CritiqueResource:
 
     def _register_routes(self):
         #Register routes with the blurprint
-        self.blueprint.add_url_rule('/query', view_func=self.append_query_or_recommend, methods=['POST'])
+        self.blueprint.add_url_rule('/critique', view_func=self.append_critique_or_recommend, methods=['POST'])
 
 
-    def 
+    def append_critique_or_recommend(self):
+        try:
+            payload = request.get_json()
+            critique_payload = payload.get('query', '')
+            return jsonify(self._critique_service.append_critique_or_recommend(critique_payload, self._state_manager)), 200
+        except Exception as e:
+            print(e)
+            return jsonify({"error": str(e)}), 500

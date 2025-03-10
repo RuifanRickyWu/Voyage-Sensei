@@ -1,8 +1,10 @@
-Instruction: Use this prompt to generate a list of keywords for each POI based on the given input and query.
+Instruction: Use this prompt to generate a list of keywords for each POI based on the given input ,query, and critiques on previous trips.
 
 Input POIs: {{ poi_list }}
 
 Query: {{ queries }}
+
+Critiques: {{ critiques }}
 
 Task:
 For each POI, extract a list of relevant keywords that align with its description and the provided query. Keywords should highlight important themes, activities, or unique aspects of the POI related to the query. Keyword should be reasoning regarding recommendation. provide maximum 5 keywords
