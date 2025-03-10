@@ -1,5 +1,6 @@
 from user_intent_processor.user_intent.ask_for_recommendation import AskForRecommendation
 from user_intent_processor.user_intent.provide_preference import ProvidePreference
+from user_intent_processor.user_intent.cut_off_input import CutOffInput
 from user_intent_processor.user_intent_client import UserIntentClient
 from state.state_manager import StateManager
 
@@ -17,6 +18,9 @@ class UserIntentService:
 
     def check_provide_preference(self, query: str):
         return self._user_intent_client.check_provide_preference(query)
+    
+    def check_cut_off_input(self, query: str):
+        return self._user_intent_client.check_cut_off_input(query)
     
     def append_system_response(self, state_manager: StateManager):
         system_response = self._user_intent_client.get_system_response()

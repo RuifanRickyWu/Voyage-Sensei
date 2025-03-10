@@ -20,6 +20,7 @@ from intelligence.llm_agent import LLMAgent
 from web_search_processor.web_search_client import WebSearchClient
 from user_intent_processor.user_intent.ask_for_recommendation import AskForRecommendation
 from user_intent_processor.user_intent.provide_preference import ProvidePreference
+from user_intent_processor.user_intent.cut_off_input import CutOffInput
 from query_processor.query_processing_service import QueryProcessingService
 from geo_processor.geo_service import GeoService
 from geo_processor.google_geo_client import GoogleGeoClient
@@ -62,7 +63,8 @@ web_search_client = WebSearchClient(config.get("web_search").get("google").get("
 event_processor_client = EventProcessorClient(llm_agent, web_search_client, config.get('event_processor').get('prompt'))
 ask_for_recommendation = AskForRecommendation(config.get('user_intent').get('prompt'))
 provide_preference = ProvidePreference(config.get('user_intent').get('prompt'))
-user_intent_client = UserIntentClient(llm_agent, ask_for_recommendation, provide_preference)
+cut_off_input = CutOffInput(config.get('user_intent').get('prompt'))
+user_intent_client = UserIntentClient(llm_agent, ask_for_recommendation, provide_preference, cut_off_input)
 llm_information_retrieval_client = LLMInformationRetrievalClient(llm_agent, config.get('ir').get('prompt'))
 llm_planning_client = LLMPlanningClient(llm_agent, config.get('planning').get('prompt'))
 google_geo_client = GoogleGeoClient(config.get("GOOGLE_API_KEY"),
