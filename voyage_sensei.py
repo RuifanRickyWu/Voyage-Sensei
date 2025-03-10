@@ -5,6 +5,9 @@ from flask import Flask
 from flask_cors import CORS
 from core.query.query_resource import QueryResource
 from core.query.query_service import QueryService
+from core.critique.critique_service import CritiqueService
+from core.critique.critique_resource import CritiqueResource
+from core.critique.critique_client.critique_client import CritiqueClient
 from information_retriever.information_retrieval_service import InformationRetrievalService
 from information_retriever.information_retrieval_client.llm_information_retrieval_client import \
     LLMInformationRetrievalClient
@@ -53,6 +56,7 @@ state_manager = StateManager()
 
 #Client level
 llm_agent = LLMAgent(config, "GPT")
+critique_client = CritiqueClient(llm_agent, config.get('critique').get('prompt'))
 web_search_client = WebSearchClient(config.get("web_search").get("google").get("API_KEY"),
                                     config.get("web_search").get("google").get("BASE_URL"),
                                     config.get("web_search").get('google').get("CX"))
@@ -77,12 +81,15 @@ geo_service = GeoService(google_geo_client)
 reasoning_service = ReasoningService(reasoning_client)
 query_service = QueryService(ir_service, user_intent_service, planning_service, geo_service, query_processing_service,
                              reasoning_service, event_processor_service)
+critique_service = CritiqueService(ir_service, user_intent_service, planning_service, geo_service, query_processing_service, reasoning_service, event_processor_service, critique_client)
 
 #Resource Level
 query_resource = QueryResource(query_service, state_manager)
+critique_resource = CritiqueResource(critique_service, state_manager)
 
 # Register the blueprints
 app.register_blueprint(query_resource.blueprint, url_prefix="")
+app.register_blueprint(critique_resource.blueprint, url_prefix="")
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)

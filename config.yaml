@@ -1,7 +1,13 @@
+critique:
+  prompt:
+    PROMPT_PATH: "prompt_files/critique"
+    CRITIQUE_RESOLUTION_PROMPT: "critique_resolution_fewshot.jinja"
+
 ir:
   prompt:
     PROMPT_PATH: "prompt_files/information_retriever"
     BASELINE_ZEROSHOT_PROMPT: "zeroshot_baseline_ir.jinja"
+    BASELINE_AFTER_CRITIQUE_ZEROSHOT_PROMPT: "zero_shot_baseline_after_critique_ir.jinja"
   dense_fusion:
     RAW_POI_PATH_TEST: "information_retriever/database/raw_poi_test"
     VECTOR_DATABASE_PATH : "information_retriever/database/vector_database"
@@ -32,7 +38,9 @@ reasoner:
   prompt:
     PROMPT_PATH: "prompt_files/reasoner"
     POI_KEYWORD_SUMMARIZATION: "poi_keyword_summarization.jinja"
+    POI_KEYWORD_SUMMARIZATION_AFTER_CRITIQUE: "poi_keyword_summarization_after_critique.jinja"
     TRIP_SUMMARIZATION: "trip_summarization.jinja"
+    TRIP_SUMMARIZATION_AFTER_CRITIQUE: "trip_summarization_after_critique.jinja"
 
 web_search:
   google:

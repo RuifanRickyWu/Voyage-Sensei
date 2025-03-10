@@ -1,5 +1,5 @@
 werkzeug - WARNING -  * Debugger is active!
-werkzeug - INFO -  * Debugger PIN: 317-248-053
+werkzeug - INFO -  * Debugger PIN: 119-879-125
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 QueryService - INFO - Start Recommendation
@@ -8,4 +8,17 @@ httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HT
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-werkzeug - INFO - 127.0.0.1 - - [22/Feb/2025 15:13:55] "POST /query HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 15:02:41] "POST /query HTTP/1.1" 200 -
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+CritiqueService - INFO - Finish Critiquing, generating new trip
+CritiqueService - INFO - Current Critique List -> : ['I dont want CN tower and I love jazz, give me a trip']
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+CritiqueClient - INFO - The list with POI removed is [
+{"name": "CN Tower"}
+]
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 15:03:34] "POST /critique HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 15:03:56] "GET /query/current_plan HTTP/1.1" 200 -

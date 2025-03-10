@@ -5,14 +5,22 @@ class SessionHistory:
     _user_queries: list[str]
     _user_query_aspects: list[str]
     _system_responses: list[str]
+    _user_critiques: list[str]
 
     def __init__(self):
         self._user_queries = []
         self._user_query_aspects = []
+        self._user_critiques = []
         self._system_responses = []
 
     def append_queries(self, query: str):
         self._user_queries.append(query)
+
+    def append_critiques(self, critiques: str):
+        self._user_critiques.append(critiques)
+
+    def get_critiques(self):
+        return self._user_critiques
 
     def get_queries(self):
         return self._user_queries
