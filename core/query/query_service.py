@@ -43,10 +43,17 @@ class QueryService:
             self._user_intent_service.append_system_response(state_manager)
             return state_manager.get_latest_system_response()
                 
-        recommendation_check = self._user_intent_service.check_for_recommendation(query)
-        provide_preference_check = self._user_intent_service.check_provide_preference(query)
+        # recommendation_check = self._user_intent_service.check_for_recommendation(query)
+        
+        last_system_response = state_manager.get_latest_system_response()
+        remaining_mandatory_information = state_manager.get_remaining_mandatory_information()
+        provide_preference_check = self._user_intent_service.check_provide_preference(query, last_system_response, remaining_mandatory_information)
+        
+        print("--------------------")
+        print(provide_preference_check)
+        print(remaining_mandatory_information)
 
-        if recommendation_check:
+        if not provide_preference_check and remaining_mandatory_information == "None":
             self.logger.info("Start Recommendation")
             state_manager.update_query(query)
             self.logger.info(f"Current Query List -> : {state_manager.get_query()}")
@@ -61,6 +68,8 @@ class QueryService:
         self.logger.info(f"Current Query List -> : {state_manager.get_query()}")
         # append system response
         self._user_intent_service.append_system_response(state_manager)
+        self._user_intent_service.update_remaining_mi(state_manager)
+        
         return state_manager.get_latest_system_response()
 
     # Q2E: list of aspects

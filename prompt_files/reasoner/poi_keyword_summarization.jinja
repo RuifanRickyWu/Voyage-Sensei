@@ -10,4 +10,8 @@ Important! If there are events, create event keyword tags for event and timing!
 return the output in json format each containing the poi and the corresponding keywords if there is not related keywords, return keywords that describes the poi itself
 
 Output Format:
-Provide only a JSON array of the poi and keywords. Do not include any additional text or explanation outside of the JSON array.
+Provide only a JSON array containing objects with the following keys:
+
+"poi": The name of the point of interest.
+"Keywords": An array of relevant keywords associated with the POI.
+Do not include any additional text or explanation outside of the JSON array.

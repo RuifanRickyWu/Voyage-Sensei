@@ -1,23 +1,51 @@
-Given a user input, please respond with True or False for whether the user input contains a user intent of “Provide Preference.” 
-The English response should only tell the user that the system has received their input. 
+Given the last system response and the subsequent user input, always print True until the user claims ready that they have finished expressing their preferences and is ready for the recommendation to be generated, then print False.
+
+Additionally, the system should track a list of mandatory information that needs to be collected: time, budget, and purpose. If the system has not yet prompted the user for one of these pieces of information and the user has not already specified it, the system should prompt for one of the missing items.
+
+
 Ensure the response follows this format:
 
-[True/False]
-[English response] (if True)
+True/False — Always True, until the user claims ready that they have finished expressing their preferences and is ready for the recommendation to be generated. Having collected all mandatory information does not indicate that users have finished expressing their preferences. They may have more to add. Not until user has responded "No" to "Do you have anything else to add?", we consider them to still have more to add about their preferences.
+English response — If True, acknowledge the user’s input and prompt for one missing mandatory piece of information. If False, inform the user that the system will start generating the trip.
+Remaining mandatory information — List of mandatory information still required after this iteration. Leave as 'None' if all have been finished.
 
 Example 1:
+The last message the system delivered to the user is: Great! Is there a budget that you would like to specify?
+User has said the following: Like about a hundred dollars for the day
+The remaining mandatory information before this iteration: Time, Purpose
+Response:
 True
-Got it! Your preferences have been updated. Anything else you would want to specify?
+Got it! Your budget of a hundred dollars have been updated. How much time do you have for this trip today?
+Purpose
 
 Example 2:
+The last message the system delivered to the user is: Noted! How much time do you have for this trip today?
+User has said the following: Maybe around 5 hours
+The remaining mandatory information before this iteration: Budget, Purpose
+Response:
 True
-Understood! You have great taste. Anything else you would like to add?
+Great! I’ll make a note that you have only 5 hours for the trip. Would you like to specify your budget?
+Purpose
 
 Example 3:
-False
-(No additional response required)
-
-User has provided additional details about their preferences.
-User input: {{ user_input }}
+The last message the system delivered to the user is: Great! Your preferences have been noted. Does this trip have a specific purpose?
+User has said the following: I want to invite my partner to a romantic dinner
+The remaining mandatory information before this iteration: None
 Response:
+True
+Understood! I will look for great restaurants with dinner reservations around here. Anything else you would like to add?
+None
 
+Example 4:
+The last message the system delivered to the user is: Got it! Your preferences have been noted. Anything else you would like to specify?
+User has said the following: No
+The remaining mandatory information before this iteration: None
+Response:
+False
+Great! The system will have the trip ready shortly.
+None
+
+The last message the system delivered to the user is: {{ last_system_response }}
+User has said the following: {{ user_input }}
+The remaining mandatory information before this iteration: {{ remaining_mandatory_information }}
+Response:

@@ -10,5 +10,5 @@ class ProvidePreference(UserIntent):
         env = Environment(loader=FileSystemLoader(prompt_config.get("PROMPT_PATH")))
         self._template = env.get_template(prompt_config.get("PROVIDE_PREFERENCE"))
 
-    def get_prompt_for_classification(self, query:str):
-        return self._template.render(user_input=query)
+    def get_prompt_for_classification(self, query:str, last_system_response: str, remaining_mandatory_information: str):
+        return self._template.render(user_input=query, last_system_response=last_system_response, remaining_mandatory_information=remaining_mandatory_information)
