@@ -44,8 +44,16 @@ class StateManager:
         self._current_search = current_search
     
     # for responding to the user in the UI    
+    # for providing last system response to the next iteration of conversation
     def get_latest_system_response(self):
         return self._session_history.get_lastest_system_response()
+    
+    # update and get remaining mandatory information
+    def get_remaining_mandatory_information(self):
+        return self._session_history.get_remaining_mandatory_information()
+    
+    def update_remaining_mandatory_information(self, remaining_mi):
+        self._session_history.update_remaining_mandatory_information(remaining_mi)
     
     def append_system_response(self, system_response):
         self._session_history.append_system_response(system_response)

@@ -10,8 +10,9 @@ class SessionHistory:
     def __init__(self):
         self._user_queries = []
         self._user_query_aspects = []
+        self._system_responses = ['How Would You Like to Embark on Your Trip Today?']
+        self._remaining_mandatory_information = "Time, Budget, Purpose"
         self._user_critiques = []
-        self._system_responses = []
 
     def append_queries(self, query: str):
         self._user_queries.append(query)
@@ -38,3 +39,10 @@ class SessionHistory:
     
     def get_lastest_system_response(self):
         return self._system_responses[-1]
+    
+    # update and get remaining mandatory information
+    def update_remaining_mandatory_information(self, remaining_mi):
+        self._remaining_mandatory_information = remaining_mi
+    
+    def get_remaining_mandatory_information(self):
+        return self._remaining_mandatory_information
