@@ -58,6 +58,7 @@ class CritiqueService:
             self.logger.info(f"Current Critique List -> : {state_manager.get_critique()}")
             self.identify_and_remove_critiqued_poi(state_manager)
             self._ir_service.llm_search_during_critique(state_manager)
+            self._event_processor_service.search_for_event(state_manager)
             self._planning_service.llm_planning_after_critique(state_manager)
             self._geo_service.get_coords_for_plan(state_manager)
             self._reasoning_service.reason_for_trip_after_critique(state_manager)
