@@ -1,69 +1,86 @@
 werkzeug - WARNING -  * Debugger is active!
 werkzeug - INFO -  * Debugger PIN: 119-879-125
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:35:35] "[35m[1mPOST /critique HTTP/1.1[0m" 500 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+QueryService - INFO - Current Query List -> : ['No']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:35:41] "POST /query HTTP/1.1" 200 -
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+QueryService - INFO - Current Query List -> : ['No', '8 hours']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:35:50] "POST /query HTTP/1.1" 200 -
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+QueryService - INFO - Current Query List -> : ['No', '8 hours', 'pass']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:35:58] "POST /query HTTP/1.1" 200 -
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+QueryService - INFO - Current Query List -> : ['No', '8 hours', 'pass', 'I love jazz']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:36:04] "POST /query HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 QueryService - INFO - Start Recommendation
-QueryService - INFO - Current Query List -> : ['give me a trip']
+QueryService - INFO - Current Query List -> : ['No', '8 hours', 'pass', 'I love jazz', 'No']
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 16:40:27] "POST /query HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:36:45] "POST /query HTTP/1.1" 200 -
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+CritiqueService - INFO - Current Critique List -> : ['I dont like the first POI']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:37:11] "POST /critique HTTP/1.1" 200 -
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+CritiqueService - INFO - Current Critique List -> : ['I dont like the first POI', 'I would like a coffee shop on the way']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:37:35] "POST /critique HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 CritiqueService - INFO - Finish Critiquing, generating new trip
-CritiqueService - INFO - Current Critique List -> : ['I dont want CN tower and I love jazz, give me a trip']
+CritiqueService - INFO - Current Critique List -> : ['I dont like the first POI', 'I would like a coffee shop on the way', 'No']
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 CritiqueClient - INFO - The list with POI removed is [
-{"name": "CN Tower"}
+{"name": "The Rex Hotel Jazz & Blues Bar"}
 ]
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 LLMInformationRetrievalClient - INFO - The result from llm for ir is [
     {
-        "name": "Starting Point",
-        "address": "21 Carlton St, Toronto, ON M5B 1L3, Canada",
-        "description": "Starting and Ending Point",
-        "reasoning": "This is the starting and ending point of the trip.",
-        "duration": "None"
+        "name": "Jazz Bistro",
+        "address": "251 Victoria St, Toronto, ON M5B 1T8, Canada",
+        "description": "A high-end venue offering a unique dining experience with live jazz performances.",
+        "reasoning": "This place is included as you mentioned that you love jazz. Here, you can enjoy live jazz performances while dining.",
+        "duration": "2-3 hours"
     },
     {
-        "name": "Canoe Restaurant",
-        "address": "66 Wellington St W, Toronto, ON M5K 1H6, Canada",
-        "description": "Located on the 54th floor of the TD Bank Tower, Canoe Restaurant offers a dining experience with stunning views of the city. The menu features Canadian cuisine with a focus on fresh, local ingredients.",
-        "reasoning": "This place was preserved from the previous points of interest.",
+        "name": "The Carbon Bar",
+        "address": "99 Queen St E, Toronto, ON M5C 1S1, Canada",
+        "description": "A trendy spot known for its BBQ, cocktails, and lively atmosphere.",
+        "reasoning": "This place is included as it offers a lively atmosphere with BBQ and cocktails, which can be a great experience during your trip.",
         "duration": "1-2 hours"
+    },
+    {
+        "name": "Jimmy's Coffee",
+        "address": "107 Portland St, Toronto, ON M5V 2N3, Canada",
+        "description": "A popular coffee shop known for its strong coffee and cozy atmosphere.",
+        "reasoning": "This place is included as you mentioned that you would like a coffee shop on the way. Jimmy's Coffee is a popular spot among locals and visitors alike.",
+        "duration": "30 minutes"
     },
     {
         "name": "Royal Ontario Museum",
         "address": "100 Queens Park, Toronto, ON M5S 2C6, Canada",
-        "description": "The Royal Ontario Museum is a museum of art, world culture and natural history in Toronto, Canada. It is one of the largest museums in North America and the largest in Canada.",
-        "reasoning": "This place was preserved from the previous points of interest.",
+        "description": "One of the largest museums in North America, offering a diverse range of exhibits.",
+        "reasoning": "This place is included as an alternative to the first POI you didn't like. The Royal Ontario Museum is a must-visit place in Toronto with its diverse exhibits.",
         "duration": "2-3 hours"
     },
     {
-        "name": "The Keg Steakhouse + Bar - Mansion",
-        "address": "515 Jarvis St, Toronto, ON M4Y 2H7, Canada",
-        "description": "The Keg Steakhouse + Bar - Mansion is a high-end steakhouse chain serving grilled meats, seafood, and cocktails in a sophisticated setting.",
-        "reasoning": "This place was preserved from the previous points of interest.",
-        "duration": "1-2 hours"
-    },
-    {
-        "name": "The Rex Hotel Jazz & Blues Bar",
-        "address": "194 Queen St W, Toronto, ON M5V 1Z1, Canada",
-        "description": "The Rex Hotel Jazz & Blues Bar is a popular spot for live music, particularly jazz and blues, with performances every night and a menu of pub grub and draft beers.",
-        "reasoning": "This place was added based on the user's love for jazz. It's a popular spot for live jazz music in Toronto.",
-        "duration": "1-2 hours"
-    },
-    {
-        "name": "Starting Point",
+        "name": "Ending Point",
         "address": "21 Carlton St, Toronto, ON M5B 1L3, Canada",
         "description": "Starting and Ending Point",
-        "reasoning": "This is the starting and ending point of the trip.",
+        "reasoning": "This is your ending point after an 8-hour trip around Toronto.",
         "duration": "None"
     }
 ]
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 16:41:29] "POST /critique HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:38:18] "POST /critique HTTP/1.1" 200 -

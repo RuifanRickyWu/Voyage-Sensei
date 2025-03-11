@@ -26,8 +26,6 @@ class ReasoningClient:
                                                      queries: list[str], critiques: list[str]):
         template = self._load_prompt_poi_keyword_after_critique(poi_list, queries, critiques)
         result = self._llm_agent.make_request(template)
-        print("chek3")
-        print(result)
         keyword_summary_result = json.loads(result)
         self._load_keywords_for_planned_poi(state_manager, keyword_summary_result)
 

@@ -46,7 +46,7 @@ class StateManager:
     # for responding to the user in the UI    
     # for providing last system response to the next iteration of conversation
     def get_latest_system_response(self):
-        return self._session_history.get_lastest_system_response()
+        return self._session_history.get_latest_system_response()
     
     # update and get remaining mandatory information
     def get_remaining_mandatory_information(self):
@@ -57,3 +57,6 @@ class StateManager:
     
     def append_system_response(self, system_response):
         self._session_history.append_system_response(system_response)
+
+    def clean_system_response(self):
+        self._session_history.clean_latest_system_response()

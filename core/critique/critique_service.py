@@ -40,7 +40,7 @@ class CritiqueService:
 
     def append_critique_or_recommend(self, critique: str, state_manager: StateManager):
 
-        if state_manager.get_current_plan().get_converted_planned_poi_list() == None:
+        if state_manager.get_current_plan().get_converted_planned_poi_list() is None:
             return "Missing Initial Recommendation"
 
         cut_off_check = self._user_intent_service.check_cut_off_input(critique)
@@ -49,9 +49,10 @@ class CritiqueService:
             self._user_intent_service.append_system_response(state_manager)
             return state_manager.get_latest_system_response()
 
-        recommendation_check = self._user_intent_service.check_for_recommendation(critique)
+        last_system_response = state_manager.get_latest_system_response()
+        pe_check = self._user_intent_service.check_provide_preference(critique, last_system_response, "None")
 
-        if recommendation_check:
+        if not pe_check:
             self.logger.info("Finish Critiquing, generating new trip")
             state_manager.update_critique(critique)
             self.logger.info(f"Current Critique List -> : {state_manager.get_critique()}")
