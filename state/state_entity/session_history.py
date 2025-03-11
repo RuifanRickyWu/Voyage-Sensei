@@ -5,15 +5,23 @@ class SessionHistory:
     _user_queries: list[str]
     _user_query_aspects: list[str]
     _system_responses: list[str]
+    _user_critiques: list[str]
 
     def __init__(self):
         self._user_queries = []
         self._user_query_aspects = []
         self._system_responses = ['How Would You Like to Embark on Your Trip Today?']
         self._remaining_mandatory_information = "Time, Budget, Purpose"
+        self._user_critiques = []
 
     def append_queries(self, query: str):
         self._user_queries.append(query)
+
+    def append_critiques(self, critiques: str):
+        self._user_critiques.append(critiques)
+
+    def get_critiques(self):
+        return self._user_critiques
 
     def get_queries(self):
         return self._user_queries
@@ -28,7 +36,6 @@ class SessionHistory:
     
     def append_system_response(self, system_response):
         self._system_responses.append(system_response)
-        print(self._system_responses)
     
     def get_lastest_system_response(self):
         return self._system_responses[-1]

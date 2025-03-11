@@ -16,8 +16,14 @@ class StateManager:
     def get_query(self):
         return self._session_history.get_queries()
 
+    def get_critique(self):
+        return self._session_history.get_critiques()
+
     def update_query(self, new_query : str):
         self._session_history.append_queries(new_query)
+
+    def update_critique(self, new_critiques: str):
+        self._session_history.append_critiques(new_critiques)
         
     def get_aspects(self):
         return self._session_history.get_query_aspects()

@@ -13,5 +13,11 @@ class PlanningService:
         poi_list = state_manager.get_current_search_result().get_converted_retrieved_poi_list()
         self._llm_planning_client.llm_planning(state_manager, queries, poi_list)
 
+    def llm_planning_after_critique(self, state_manager: StateManager):
+        queries = state_manager.get_query()
+        critique = state_manager.get_critique()
+        poi_list = state_manager.get_current_search_result().get_converted_retrieved_poi_list()
+        self._llm_planning_client.llm_planning_after_critique(state_manager, queries, poi_list, critique)
+
 
 

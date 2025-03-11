@@ -1,0 +1,41 @@
+Please provide an updated list of the best Points of Interest (POIs) in Toronto for an 8-hour car trip based on the following criteria:
+
+Inputs:
+
+User Query: {{ user_query }}
+
+Important! These current POIs should be preserved
+Current POIs: {{ current_pois }}
+
+Critiques: {{ critiques }}
+
+Constraints:
+
+Recommended places should be accessible by car, starting from the address: 21 Carlton St, Toronto, ON M5B 1L3. (Do not include this address in the POI list; use it only for geographic reasoning.)
+
+The total itinerary should fit comfortably within an 8-hour trip, including estimated durations at each location.
+
+For each POI, provide the following details:
+
+name: POI Name
+
+address: Complete POI Address
+
+description: Short description highlighting the unique or interesting aspects of the place
+
+reasoning: Explanation of why this place fits the user's query and any critiques provided
+
+duration: Estimated time a visitor would typically spend at this location
+
+Important! Only return the output in JSON array like the following and nothing else!
+Return the response as a JSON array, preserving all current POIs and adding additional suitable POIs to address critiques:
+
+[
+    {
+        "name": "POI Name",
+        "address": "POI Address",
+        "description": "Short POI Description",
+        "reasoning": "Short reasoning for its relevance based on user query and critiques",
+        "duration": "POI Duration"
+    }
+]
