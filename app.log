@@ -1,43 +1,38 @@
 werkzeug - WARNING -  * Debugger is active!
 werkzeug - INFO -  * Debugger PIN: 119-879-125
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:35:35] "[35m[1mPOST /critique HTTP/1.1[0m" 500 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-QueryService - INFO - Current Query List -> : ['No']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:35:41] "POST /query HTTP/1.1" 200 -
+QueryService - INFO - Current Query List -> : ['I love jazz']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:54:51] "POST /query HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-QueryService - INFO - Current Query List -> : ['No', '8 hours']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:35:50] "POST /query HTTP/1.1" 200 -
+QueryService - INFO - Current Query List -> : ['I love jazz', '9 hour trip']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:55:35] "POST /query HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-QueryService - INFO - Current Query List -> : ['No', '8 hours', 'pass']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:35:58] "POST /query HTTP/1.1" 200 -
+QueryService - INFO - Current Query List -> : ['I love jazz', '9 hour trip', 'pass, I dont care about budget']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:55:47] "POST /query HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-QueryService - INFO - Current Query List -> : ['No', '8 hours', 'pass', 'I love jazz']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:36:04] "POST /query HTTP/1.1" 200 -
+QueryService - INFO - Current Query List -> : ['I love jazz', '9 hour trip', 'pass, I dont care about budget', 'I love jazz']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:55:55] "POST /query HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 QueryService - INFO - Start Recommendation
-QueryService - INFO - Current Query List -> : ['No', '8 hours', 'pass', 'I love jazz', 'No']
+QueryService - INFO - Current Query List -> : ['I love jazz', '9 hour trip', 'pass, I dont care about budget', 'I love jazz', 'No']
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:36:45] "POST /query HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:56:32] "POST /query HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-CritiqueService - INFO - Current Critique List -> : ['I dont like the first POI']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:37:11] "POST /critique HTTP/1.1" 200 -
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-CritiqueService - INFO - Current Critique List -> : ['I dont like the first POI', 'I would like a coffee shop on the way']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:37:35] "POST /critique HTTP/1.1" 200 -
+CritiqueService - INFO - Current Critique List -> : ['I dont like the first poi, I would like some coffee on the way']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:57:46] "POST /critique HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 CritiqueService - INFO - Finish Critiquing, generating new trip
-CritiqueService - INFO - Current Critique List -> : ['I dont like the first POI', 'I would like a coffee shop on the way', 'No']
+CritiqueService - INFO - Current Critique List -> : ['I dont like the first poi, I would like some coffee on the way', 'No']
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 CritiqueClient - INFO - The list with POI removed is [
 {"name": "The Rex Hotel Jazz & Blues Bar"}
@@ -45,42 +40,110 @@ CritiqueClient - INFO - The list with POI removed is [
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 LLMInformationRetrievalClient - INFO - The result from llm for ir is [
     {
-        "name": "Jazz Bistro",
-        "address": "251 Victoria St, Toronto, ON M5B 1T8, Canada",
-        "description": "A high-end venue offering a unique dining experience with live jazz performances.",
-        "reasoning": "This place is included as you mentioned that you love jazz. Here, you can enjoy live jazz performances while dining.",
-        "duration": "2-3 hours"
-    },
-    {
-        "name": "The Carbon Bar",
-        "address": "99 Queen St E, Toronto, ON M5C 1S1, Canada",
-        "description": "A trendy spot known for its BBQ, cocktails, and lively atmosphere.",
-        "reasoning": "This place is included as it offers a lively atmosphere with BBQ and cocktails, which can be a great experience during your trip.",
-        "duration": "1-2 hours"
-    },
-    {
         "name": "Jimmy's Coffee",
         "address": "107 Portland St, Toronto, ON M5V 2N3, Canada",
-        "description": "A popular coffee shop known for its strong coffee and cozy atmosphere.",
-        "reasoning": "This place is included as you mentioned that you would like a coffee shop on the way. Jimmy's Coffee is a popular spot among locals and visitors alike.",
+        "description": "A popular local coffee shop known for its quality brews and cozy atmosphere.",
+        "reasoning": "This coffee shop is a great place to start your day and it addresses your critique of wanting some coffee on the way.",
         "duration": "30 minutes"
     },
     {
-        "name": "Royal Ontario Museum",
-        "address": "100 Queens Park, Toronto, ON M5S 2C6, Canada",
-        "description": "One of the largest museums in North America, offering a diverse range of exhibits.",
-        "reasoning": "This place is included as an alternative to the first POI you didn't like. The Royal Ontario Museum is a must-visit place in Toronto with its diverse exhibits.",
-        "duration": "2-3 hours"
+        "name": "Canoe Restaurant",
+        "address": "66 Wellington St W, Toronto, ON M5K 1H6, Canada",
+        "description": "A high-end restaurant offering Canadian cuisine with a stunning view of the city from the 54th floor.",
+        "reasoning": "This restaurant was preserved from your original list of POIs and offers a unique dining experience with a stunning city view.",
+        "duration": "2 hours"
     },
     {
-        "name": "Ending Point",
-        "address": "21 Carlton St, Toronto, ON M5B 1L3, Canada",
-        "description": "Starting and Ending Point",
-        "reasoning": "This is your ending point after an 8-hour trip around Toronto.",
-        "duration": "None"
+        "name": "Jazz Bistro",
+        "address": "251 Victoria St, Toronto, ON M5B 1T8, Canada",
+        "description": "A high-end venue offering a unique dining experience with live jazz performances.",
+        "reasoning": "This venue was preserved from your original list of POIs and aligns with your love for jazz.",
+        "duration": "3 hours"
+    },
+    {
+        "name": "Richmond Station",
+        "address": "1 Richmond St W, Toronto, ON M5H 3W4, Canada",
+        "description": "A bustling eatery serving innovative, locally sourced Canadian fare.",
+        "reasoning": "This eatery was preserved from your original list of POIs and offers a unique dining experience with locally sourced Canadian fare.",
+        "duration": "1.5 hours"
+    },
+    {
+        "name": "The Rex Hotel Jazz & Blues Bar",
+        "address": "194 Queen St W, Toronto, ON M5V 1Z1, Canada",
+        "description": "A popular jazz and blues bar with live performances and a cozy atmosphere.",
+        "reasoning": "This bar is a great place to end your day, offering live jazz performances which aligns with your love for jazz.",
+        "duration": "1 hour"
     }
 ]
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:38:18] "POST /critique HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:58:38] "POST /critique HTTP/1.1" 200 -
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+CritiqueService - INFO - Current Critique List -> : ['I dont want coffee, but I want to go to U of T ']
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 16:59:14] "POST /critique HTTP/1.1" 200 -
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+CritiqueService - INFO - Finish Critiquing, generating new trip
+CritiqueService - INFO - Current Critique List -> : ['I dont want coffee, but I want to go to U of T ', 'No']
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+CritiqueClient - INFO - The list with POI removed is [
+{"name": "Jimmy's Coffee"}
+]
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+LLMInformationRetrievalClient - INFO - The result from llm for ir is [
+    {
+        "name": "Starting Point",
+        "address": "21 Carlton St, Toronto, ON M5B 1L3, Canada",
+        "description": "Starting and Ending Point",
+        "reasoning": "This is the starting and ending point of the trip.",
+        "duration": null
+    },
+    {
+        "name": "Canoe Restaurant",
+        "address": "66 Wellington St W, Toronto, ON M5K 1H6, Canada",
+        "description": "A high-end restaurant offering Canadian cuisine with a stunning view of the city from the 54th floor.",
+        "reasoning": "This place was preserved from the previous points of interest. It offers a unique dining experience with a stunning view of the city.",
+        "duration": "2 hours"
+    },
+    {
+        "name": "Jazz Bistro",
+        "address": "251 Victoria St, Toronto, ON M5B 1T8, Canada",
+        "description": "A high-end venue offering a unique dining experience with live jazz performances.",
+        "reasoning": "This place was preserved from the previous points of interest. It aligns with your interest in jazz and offers live performances.",
+        "duration": "3 hours"
+    },
+    {
+        "name": "Richmond Station",
+        "address": "1 Richmond St W, Toronto, ON M5H 3W4, Canada",
+        "description": "A bustling eatery serving innovative, locally sourced Canadian fare.",
+        "reasoning": "This place was preserved from the previous points of interest. It offers innovative and locally sourced Canadian fare.",
+        "duration": "1.5 hours"
+    },
+    {
+        "name": "The Rex Hotel Jazz & Blues Bar",
+        "address": "194 Queen St W, Toronto, ON M5V 1Z1, Canada",
+        "description": "A popular jazz and blues bar with live performances and a cozy atmosphere.",
+        "reasoning": "This place was preserved from the previous points of interest. It aligns with your interest in jazz and offers live performances in a cozy atmosphere.",
+        "duration": "1 hour"
+    },
+    {
+        "name": "University of Toronto",
+        "address": "27 King's College Cir, Toronto, ON M5S, Canada",
+        "description": "One of the world's top research universities, with beautiful historic buildings and a vibrant student life.",
+        "reasoning": "You mentioned wanting to visit the University of Toronto. It's a renowned institution with beautiful architecture and a lively campus atmosphere.",
+        "duration": "0.5 hours"
+    },
+    {
+        "name": "Starting Point",
+        "address": "21 Carlton St, Toronto, ON M5B 1L3, Canada",
+        "description": "Starting and Ending Point",
+        "reasoning": "This is the starting and ending point of the trip.",
+        "duration": null
+    }
+]
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 17:00:15] "POST /critique HTTP/1.1" 200 -

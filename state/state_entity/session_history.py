@@ -22,6 +22,9 @@ class SessionHistory:
     def append_critiques(self, critiques: str):
         self._user_critiques.append(critiques)
 
+    def clean_critiques(self):
+        self._user_critiques = []
+
     def get_critiques(self):
         return self._user_critiques
 

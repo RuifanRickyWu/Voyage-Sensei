@@ -60,3 +60,6 @@ class StateManager:
 
     def clean_system_response(self):
         self._session_history.clean_latest_system_response()
+
+    def clean_critiques(self):
+        self._session_history.clean_critiques()

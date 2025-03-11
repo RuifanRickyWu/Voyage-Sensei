@@ -61,6 +61,7 @@ class CritiqueService:
             self._planning_service.llm_planning_after_critique(state_manager)
             self._geo_service.get_coords_for_plan(state_manager)
             self._reasoning_service.reason_for_trip_after_critique(state_manager)
+            state_manager.clean_critiques()
             return state_manager.get_current_plan().form_current_plan()
 
         state_manager.update_critique(critique)
