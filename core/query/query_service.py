@@ -45,13 +45,14 @@ class QueryService:
                 
         # recommendation_check = self._user_intent_service.check_for_recommendation(query)
         
-        last_system_response = state_manager.get_latest_system_response()
+        last_system_response = state_manager.get_latest_system_response()        
         remaining_mandatory_information = state_manager.get_remaining_mandatory_information()
         provide_preference_check = self._user_intent_service.check_provide_preference(query, last_system_response, remaining_mandatory_information)
         
         print("--------------------")
         print(provide_preference_check)
-        print(remaining_mandatory_information)
+        print("System: " + last_system_response)
+        print("User: " + query)
 
         if not provide_preference_check and remaining_mandatory_information == "None":
             self.logger.info("Start Recommendation")
@@ -69,6 +70,10 @@ class QueryService:
         # append system response
         self._user_intent_service.append_system_response(state_manager)
         self._user_intent_service.update_remaining_mi(state_manager)
+        
+        # log MI
+        remaining_mandatory_information = state_manager.get_remaining_mandatory_information()
+        print("Remaining MI: " + remaining_mandatory_information)
         
         return state_manager.get_latest_system_response()
 
