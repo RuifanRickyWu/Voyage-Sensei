@@ -1,373 +1,155 @@
 werkzeug - WARNING -  * Debugger is active!
-werkzeug - INFO -  * Debugger PIN: 119-879-125
+werkzeug - INFO -  * Debugger PIN: 317-248-053
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-QueryService - INFO - Current Query List -> : ['No']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 17:12:30] "POST /query HTTP/1.1" 200 -
+QueryService - INFO - Current Query List -> : ['I love jazz']
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:21:46] "POST /query HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-QueryService - INFO - Current Query List -> : ['No', '9 hours']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 17:12:39] "POST /query HTTP/1.1" 200 -
+QueryService - INFO - Current Query List -> : ['I love jazz', '9 am to 5 pm']
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:22:59] "POST /query HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:23:03] "GET /query/current_plan HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:23:05] "GET /query/init_trip HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-QueryService - INFO - Current Query List -> : ['No', '9 hours', 'No budget']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 17:12:45] "POST /query HTTP/1.1" 200 -
+QueryService - INFO - Current Query List -> : ['I love jazz', '9 am to 5 pm', 'unlimited budget']
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:24:28] "POST /query HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-QueryService - INFO - Current Query List -> : ['No', '9 hours', 'No budget', 'I love jazz']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 17:12:53] "POST /query HTTP/1.1" 200 -
+QueryService - INFO - Current Query List -> : ['I love jazz', '9 am to 5 pm', 'unlimited budget', 'I just want to chill out']
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:24:44] "POST /query HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:25:27] "GET /query/init_trip HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:25:29] "GET /query/current_plan HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 QueryService - INFO - Start Recommendation
-QueryService - INFO - Current Query List -> : ['No', '9 hours', 'No budget', 'I love jazz', 'No']
+QueryService - INFO - Current Query List -> : ['I love jazz', '9 am to 5 pm', 'unlimited budget', 'I just want to chill out', 'No']
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for The Rex Hotel Jazz & Blues Bar on 2025-03-11
+EventProcessorClient - INFO - event for The Rex Hotel Jazz & Blues Bar on 2025-04-01
 EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **The Rex Hotel**
+EventProcessorClient - INFO - Current Search Result -> : **Events — The Rex**
+... Jazz & Blues Venue, The Rex Hotel! The Jay Blues Trio are a Canadian ... The Rex Hotel Jazz and Blues Bar 194 Queen St W, Toronto, ON M5V 1Z1. Getting ...
+[link](https://www.therex.ca/events)
+
+**Sinclair Cambridge**
+Upcoming Events. Phil Cook. Tue, Apr 1, 2025 Doors 7:00 PM 18 & Over. Buy ... Bar and Patio · Private Events · Newsletter · More Info · Health & Safety. Copyright ...
+[link](https://www.sinclaircambridge.com/)
+
+**The Rex Hotel**
 Open Menu Close Menu. Events · Hotel · Menu · Tickets · Merch · History · Contact Us. Welcome to The Rex Hotel Jazz & Blues Bar. Where Jazz Lives. Who's Playing ...
 [link](https://www.therex.ca/)
 
-**Tim Hortons Southside Shuffle Blues & Jazz Festival ...**
-Photo shared by Tim Hortons Southside Shuffle Blues & Jazz Festival on March 11, 2025 ... Rex Hotel Jazz & Blues Bar. Follow. supercrawl. Supercrawl. Follow.
-[link](https://www.instagram.com/southsideshufflepc/?hl=en)
-
-**Events — The Rex**
-... music venues! View Event → · Laura Hubert Band. Mar. 23. Laura Hubert Band ... The Rex Hotel Jazz and Blues Bar 194 Queen St W, Toronto, ON M5V 1Z1. Getting ...
-[link](https://www.therex.ca/events)
-
-**Révéler Experiences / Music, Art, Drinks, and Love**
-An inclusive, enchanting art space and music club in Richmond, Virginia where adults can play like little kids ... THURSDAY, MARCH 20, 2025. SWING JAZZ + BLUES ...
-[link](https://www.revelerexperiences.com/)
+**Calendar – Virginia MacDonald**
+Location: The Rex Hotel Jazz and Blues Bar, 194 Queen Street West, Toronto, ON. More info. the_rex. Kirk MacDonald – saxophone. Virginia MacDonald – clarinet
+[link](https://virginiamacdonald.ca/calendar/)
 
 EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Kilby Court**
-Welcome to. Kilby Court. The Longest Running All-Ages Venue in Salt Lake City. Upcoming Events. Abby Holliday. S&S Presents. Abby Holliday. Imani Graham.
-[link](https://www.kilbycourt.com/)
+EventProcessorClient - INFO - Current Search Result -> : **Sinclair Cambridge**
+Upcoming Events. Phil Cook. Tue, Apr 1, 2025 Doors 7:00 PM 18 & Over. Buy ... Bar and Patio · Private Events · Newsletter · More Info · Health & Safety. Copyright ...
+[link](https://www.sinclaircambridge.com/)
 
-**The Plaza Live**
-Buy Tickets · PLAZA LIVE BAG POLICY FOR ALL SHOWS. Upcoming Events. AEG Presents. The Coyote Tour. Tommy Richman. mynameisntjmack. Tue, Mar 11, 2025 Show 8:00 ...
-[link](https://www.plazaliveorlando.org/)
+**Mercury Lounge**
+Tue Apr 1, 2025. Doors: 6:00 pm. Mercury Lounge 217 East Houston St., New ... Mercury Lounge Private Events · CONTACT US | DIRECTIONS | TERMS & CONDITIONS ...
+[link](https://mercuryeastpresents.com/mercurylounge/)
 
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for Jazz Bistro on 2025-03-11
+EventProcessorClient - INFO - event for Jazz Bistro on 2025-04-01
 EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Jazz St. Louis Concert Calendar | Jazz St. Louis**
-Mar 11, 2025 – Sep 11, 2026 ... Their residency culminates in an exciting series of performances on the Ferring Jazz Bistro stage on Friday and Saturday, ...
-[link](https://my.jazzstl.org/events)
-
-**Chris' Jazz Cafe**
-Upcoming Events ; The David Bamber Quintet · Tue, Mar 11, 2025 ; Vibraphonist, Hudson River & Friends · Wed, Mar 12, 2025 ; Peter Frank Jazz Orchestra · Thu, Mar 13, ...
+EventProcessorClient - INFO - Current Search Result -> : **Chris' Jazz Cafe**
+Tue, Apr 1, 2025. 7:30 PM 9:00 PM. hide. List View · Calendar View. with ... CLOSED FOR PRIVATE EVENT. We will be closed for a private event tonight. Read ...
 [link](https://www.chrisjazzcafe.com/events)
 
 **Jazz St. Louis Concert Calendar**
-View upcoming Jazz St. Louis concerts and events calendar.
+Change the way events are displayed. View as Calendar; View as List. Calendar View. Display calendar by: Day; Week; Month. Select Day. Apr 01, 2025. Previous ...
 [link](https://my.jazzstl.org/events//?view=calendar)
 
-**The David Bamber Quintet - Chris' Jazz Cafe**
-Tue, Mar 11, 2025 ... In October of 2019, David had the pleasure of performing at “The International Festival de Jazz” in Juarez, Mexico with the Philasound ...
-[link](https://www.chrisjazzcafe.com/events/109641)
+**Events Archive - World Cafe Live**
+Tue, Apr 01, 2025. The Moth Storyslam “Bloom”. Doors: 6:15pm | Show: 7:30pm ... Jazz Jam with Orrin Evans. Featured Performer: Maria Marmarou. Doors: 6pm ...
+[link](https://worldcafelive.org/events/)
+
+**Cactus Café & Bar | University Unions**
+Cactus Cafe. Admission is free! Doors open at 7 p.m., show begins at 7:30 p.m.. Rabbi Neil Blumofe. Wednesday Night Jazz Meeting with Rabbi Neil Blumofe. Event ...
+[link](https://universityunions.utexas.edu/cactus-cafe)
 
 EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Jazz St. Louis Concert Calendar | Jazz St. Louis**
-View upcoming Jazz St. Louis concerts and events calendar.
-[link](https://my.jazzstl.org/events)
+EventProcessorClient - INFO - Current Search Result -> : **Hollywood Bowl**
+Blue Note Jazz Festival. Grace Jones • The Isley Brothers • WILLOW • De La ... House Rules Gift Cards Group Tickets (10+) Accessibility Info Special Events ...
+[link](https://www.hollywoodbowl.com/)
 
-**Chris' Jazz Cafe**
-Upcoming Events ; The David Bamber Quintet · Tue, Mar 11, 2025 ; Vibraphonist, Hudson River & Friends · Wed, Mar 12, 2025 ; Peter Frank Jazz Orchestra · Thu, Mar 13, ...
-[link](https://www.chrisjazzcafe.com/events)
+**Dr. Phillips Center for the Performing Arts**
+Plan your visit to Orlando's performing arts center. Discover upcoming Broadway shows, live entertainment, educational programs and more.
+[link](https://www.drphillipscenter.org/)
 
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for Canoe Restaurant on 2025-03-11
+EventProcessorClient - INFO - event for Canoe Restaurant on 2025-04-01
 EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Special Events - Magic Foods Restaurant Group – New Hampshire**
-On-site and on-location events at Canoe, O Bistro, O Steaks & Seafood Concord, O Steaks & Seafood Laconia, Rubbin' Butts, Suna, Inn on Main and Magic Foods ...
-[link](https://magicfoodsrestaurantgroup.com/events/)
+EventProcessorClient - INFO - Current Search Result -> : **Events**
+Main Menu Close Main Menu. Virginia State Parks. Events & Activities ... Between 04/01/2025 and 04/11/2025 (196) Events Found For All Event Types.
+[link](https://www.dcr.virginia.gov/state-parks/events)
 
-**Ouachita Calendar**
-... Menu. Search Close ... Tuesday, March 11, 2025. Athletic Events. Baseball Game. Tuesday, March 11, 2025. 3:00 PM - 5:00 PM (CST). RecLife Events. Moonlight Canoe.
-[link](https://obu.edu/calendar.php)
+**Canoe 101 Basics - Merchants Millpond | NC State Parks**
+Utility Menu. News · Camping · Events · NC.GOV. Select ... Merchants Millpond State Park is offering a canoe 101 class on Tuesday, April 1st, 2025. This event ...
+[link](https://www.ncparks.gov/news/events/canoe-101-basics-merchants-millpond)
 
-**Home - Magic Foods Restaurant Group – New Hampshire**
-Events · Contact Us · Careers · Rewards Program · Gift Cards · News & Accolades · About Us; To Make a Reservation, Click Here to Call Us. Canoe Restaurant & ...
-[link](https://magicfoodsrestaurantgroup.com/)
-
-**Adult Skate, Tuesday, March 11, 2025, 11am - 1:10pm - Events | City ...**
+**Adult Skate, Tuesday, April 1, 2025, 11am - 1:10pm - Events | City of ...**
 Menu. Residents & Visitors · Businesses · Government · Services · Events. Expand ... Canoe/Kayak · Farmers Market · Golf · Ice Skating/Hockey. Liberty Plaza.
-[link](https://www.a2gov.org/parks-and-recreation/events/?trumbaEmbed=view%3Devent%26eventid%3D181022767)
+[link](https://www.a2gov.org/parks-and-recreation/events/?trumbaEmbed=view%3Devent%26eventid%3D181022779)
+
+**Events from April 1 – April 2 – Kiawah Island Golf Resort**
+menu. Search for: About · Golf. Open Menu. Golf Overview · The Ocean Course ... 2025-04-01 April 1, 2025. Select date. 8:00 am. Ocean Course Birding. April 1 ...
+[link](https://kiawahresort.com/events/)
 
 EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Bud Light Top Shelf Lounge | Xcel Energy Center**
-The lounge has a Scandinavian influence and includes 24 loge boxes, a canoe ... Event Starts 7:30 PM. Buy TicketsMore Info. March 2025 ...
-[link](https://www.xcelenergycenter.com/premium-seating/bud-light-top-shelf-lounge)
-
-**Coca-Cola Coliseum**
-Event Starts 8:00 PM. On Sale SoonMore Information · More Info for BINI. Buy ... Tuesday / Mar 11, 2025. Dream Theater: 40th Anniversary Tour. Event Starts 7 ...
+EventProcessorClient - INFO - Current Search Result -> : **Coca-Cola Coliseum**
+Event Starts 7:00 PM. Buy TicketsMore Information · More Info for Warren ... Tuesday / Apr 01, 2025. Forrest Frank. Child Of God Tour Part 2. Event Starts 7 ...
 [link](https://www.coca-colacoliseum.com/)
 
+**Ho-Chunk Gaming Wisconsin Dells - Home**
+Restaurant Offers: Valid at all food venues listed on coupons only. One time ... The Pit Supervisor's decision is final in the event of any dispute at a table.
+[link](https://www.ho-chunkgaming.com/wisconsindells/)
+
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for Richmond Station on 2025-03-11
+EventProcessorClient - INFO - event for Alo Restaurant on 2025-04-01
 EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Tabletop Gaming with MRL - 7:30pm - All MRL Events**
-Computer Work Station · Check Out Tech Devices · Print From Anywhere · Technology ... 818 E Main St, in downtown Richmond. Event Type, Games/Gaming. Event Kind ...
-[link](https://mrlinfo.org/events/?trumbaEmbed=view%3Devent%26eventid%3D180848512)
+EventProcessorClient - INFO - Current Search Result -> : **Events Archive - World Cafe Live**
+... | $20 day of show. The Lounge at World Cafe Live. Sold Out · More Info. Thu, Apr 24, 2025. ALO – Frames Tour. Madeline Hawthorne. Doors: 7pm | Show: 8pm. $25-$ ...
+[link](https://worldcafelive.org/events/)
 
-**Richmond, VA**
-5 days ago ... r/rva: News, events, and goings-on in and around the Richmond, VA metro area known as RVA. And the cat at the Lowe's.
-[link](https://www.reddit.com/r/rva/)
+**Nectar Lounge: Home**
+Calendar · Just Announced · Info · FAQ · Gallery · Venue Specs · About · Partners · NVCS (VIRTUAL CONCERTS) · Private Events · Venues.
+[link](https://nectarlounge.com/)
 
-**San Francisco Police Department**
-SFPD Richmond Station · SFPD Southern Station · SFPD Taraval Station · SFPD ... Tuesday, March 11, 2025. 5:00 - 6:00 PM. Mar. 18. Ingleside District Community ...
-[link](https://www.sanfranciscopolice.org/)
+**Events | Rams Head On Stage – Official Site**
+Tue, Apr 1, 2025 Show 8:00 PM @ Rams Head On Stage. Buy Tickets · Chris Knight ... Restaurant · Contact · Sign-Up · Partners. Copyright © 2025 Rams Head On Stage ...
+[link](https://www.ramsheadonstage.com/events)
 
-**City of Houston Active Incidents**
-RICHMOND ENTR RAMP, 491V, 03/11/2025 10:49, CRASH/MINOR/FSGI, N. FD, WENDA ST ... 03/11/2025 10:24, EMS EVENT, N. FD, W 20TH ST, BLK NICHOLSON ST, 452V, 03/11/ ...
-[link](https://cohweb.houstontx.gov/ActiveIncidents/Combined.aspx)
+**Home | Mall of America®**
+Since opening its doors in 1992, Mall of America® has revolutionized the shopping experience and become a leader in retail, entertainment and attractions.
+[link](https://www.mallofamerica.com/)
 
 EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Allianz Amphitheater at Riverfront - Richmond, VA | Tickets, 2025 ...**
-Buy Allianz Amphitheater at Riverfront tickets at Ticketmaster.com. Find Allianz Amphitheater at Riverfront venue concert and event schedules, ...
-[link](https://www.ticketmaster.com/allianz-amphitheater-at-riverfront-tickets-richmond/venue/9456)
+EventProcessorClient - INFO - Current Search Result -> : **Events | Rams Head On Stage – Official Site**
+Tue, Apr 1, 2025 Show 8:00 PM @ Rams Head On Stage. Buy Tickets · Chris Knight ... Restaurant · Contact · Sign-Up · Partners. Copyright © 2025 Rams Head On Stage ...
+[link](https://www.ramsheadonstage.com/events)
 
-**Moulin Rouge! The Musical | Altria Theater | Official Website**
-Private Event Information · Corporate Events ... Altria Theater | Official Website 6 North Laurel Street | Richmond, Virginia 23220 Tickets (800) 514-3849.
-[link](https://www.altriatheater.com/events/detail/moulin-rouge)
+**The Ogden Theatre**
+The Ogden Theatre is Denver's premier concert venue featuring the latest in contemporary rock shows. Visit our site for a full calendar of events.
+[link](https://www.ogdentheatre.com/)
 
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 17:13:43] "POST /query HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:26:20] "POST /query HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:26:33] "GET /query/init_trip HTTP/1.1" 200 -
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+CritiqueService - INFO - Current Critique List -> : ['I dont like canoe, please help me to find something basketball related']
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:28:24] "POST /critique HTTP/1.1" 200 -
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 CritiqueService - INFO - Finish Critiquing, generating new trip
-CritiqueService - INFO - Current Critique List -> : ['No']
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-CritiqueClient - INFO - The list with POI removed is []
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-LLMInformationRetrievalClient - INFO - The result from llm for ir is [
-    {
-        "name": "Starting Point",
-        "address": "21 Carlton St, Toronto, ON M5B 1L3, Canada",
-        "description": "Starting and Ending Point",
-        "reasoning": "This is the starting and ending point of the trip.",
-        "duration": null
-    },
-    {
-        "name": "Canoe Restaurant",
-        "address": "66 Wellington St W, Toronto, ON M5K 1H6, Canada",
-        "description": "Upscale dining room on the 54th floor offering Canadian cuisine & panoramic views of the city.",
-        "reasoning": "This place is included as it offers a unique dining experience with panoramic city views. It fits within the 8-hour trip duration.",
-        "duration": "1-2 hours"
-    },
-    {
-        "name": "The Rex Hotel Jazz & Blues Bar",
-        "address": "194 Queen St W, Toronto, ON M5V 1Z1, Canada",
-        "description": "A popular spot for jazz and blues in Toronto, offering live performances every night.",
-        "reasoning": "This place is included as it aligns with the user's interest in jazz. It also fits within the 8-hour trip duration.",
-        "duration": "2-3 hours"
-    },
-    {
-        "name": "Richmond Station",
-        "address": "1 Richmond St W, Toronto, ON M5H 3W4, Canada",
-        "description": "Hip, bustling spot for locally sourced Canadian meals, with an open kitchen & a chalkboard menu.",
-        "reasoning": "This place is included as it offers a unique dining experience with locally sourced Canadian meals. It also fits within the 8-hour trip duration.",
-        "duration": "1-2 hours"
-    },
-    {
-        "name": "Jazz Bistro",
-        "address": "251 Victoria St, Toronto, ON M5B 1T8, Canada",
-        "description": "A high-end venue for jazz & cabaret shows, with a rooftop patio & a menu of refined fare.",
-        "reasoning": "This place is included as it aligns with the user's interest in jazz. It also fits within the 8-hour trip duration.",
-        "duration": "2-3 hours"
-    },
-    {
-        "name": "Starting Point",
-        "address": "21 Carlton St, Toronto, ON M5B 1L3, Canada",
-        "description": "Starting and Ending Point",
-        "reasoning": "This is the starting and ending point of the trip.",
-        "duration": null
-    }
-]
-EventProcessorClient - INFO - event for Starting Point on 2025-03-11
-EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Calendar of Events - ITU Meetings and Conferences**
-2025-03-11. 2025-03-11. ITU-R. CCT. Coordination Committee for ... ITU-R. WP 3M. Point-to-point and Earth-space propagation - Starting in the afternoon.
-[link](https://www.itu.int/en/events/Pages/Calendar-Events.aspx?sector=ITU-R)
-
-**Events from March 11 – March 12 – Kiawah Island Golf Resort**
-2025-03-11 March 11, 2025 ... Inshore Fishing Charter - view more details about the event. Mingo Point Mingo Point 876 Kiawah Island Pkwy, Kiawah Island.
-[link](https://kiawahresort.com/events/)
-
-**Events Calendar**
-Gathering Place Programming sponsored by Coterra ; 9 · March 9, 2025 - March 10, 2025 ; 11 · March 11, 2025 @ 6:00 PM - 8:00 PM ; 12 · March 12, 2025 ; 12 · March 12, ...
-[link](https://www.gatheringplace.org/parkcalendar)
-
-**Events | NCSBN**
-Start Date03/11/2025, End Date03/11/2025, Event TypeKnowledge Network Meeting ... End Date08/15/2025, Event TypeNCSBN Event, Audience, LocationChicago, IL ...
-[link](https://www.ncsbn.org/about/events.page)
-
-EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Frequently Asked Questions | GIANT Center**
-Save on parking when you purchase online in advance via Ticketmaster or $35 on site. ... It's recommended to arrive at least 45 minutes prior to event start time ...
-[link](https://www.hersheyentertainment.com/giant-center/info/faqs.php)
-
-**WICKED | ASU Gammage**
-... ticketmaster.com/wicked-touring-tempe-arizona-03-04-2025/event/190060F1D1402E8E?CAMEFROM=CFC_ASUGAMMAGE_WEB_WEBISTE_WICKED. Wed. Mar 5, 2025. 7:30pm. https ...
-[link](https://www.asugammage.com/wicked)
-
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for Canoe Restaurant on 2025-03-11
-EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Special Events - Magic Foods Restaurant Group – New Hampshire**
-On-site and on-location events at Canoe, O Bistro, O Steaks & Seafood Concord, O Steaks & Seafood Laconia, Rubbin' Butts, Suna, Inn on Main and Magic Foods ...
-[link](https://magicfoodsrestaurantgroup.com/events/)
-
-**Ouachita Calendar**
-... Menu. Search Close ... Tuesday, March 11, 2025. Athletic Events. Baseball Game. Tuesday, March 11, 2025. 3:00 PM - 5:00 PM (CST). RecLife Events. Moonlight Canoe.
-[link](https://obu.edu/calendar.php)
-
-**Home - Magic Foods Restaurant Group – New Hampshire**
-Events · Contact Us · Careers · Rewards Program · Gift Cards · News & Accolades · About Us; To Make a Reservation, Click Here to Call Us. Canoe Restaurant & ...
-[link](https://magicfoodsrestaurantgroup.com/)
-
-**Adult Skate, Tuesday, March 11, 2025, 11am - 1:10pm - Events | City ...**
-Menu. Residents & Visitors · Businesses · Government · Services · Events. Expand ... Canoe/Kayak · Farmers Market · Golf · Ice Skating/Hockey. Liberty Plaza.
-[link](https://www.a2gov.org/parks-and-recreation/events/?trumbaEmbed=view%3Devent%26eventid%3D181022767)
-
-EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Bud Light Top Shelf Lounge | Xcel Energy Center**
-The lounge has a Scandinavian influence and includes 24 loge boxes, a canoe ... Event Starts 7:30 PM. Buy TicketsMore Info. March 2025 ...
-[link](https://www.xcelenergycenter.com/premium-seating/bud-light-top-shelf-lounge)
-
-**Coca-Cola Coliseum**
-Event Starts 8:00 PM. On Sale SoonMore Information · More Info for BINI. Buy ... Tuesday / Mar 11, 2025. Dream Theater: 40th Anniversary Tour. Event Starts 7 ...
-[link](https://www.coca-colacoliseum.com/)
-
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for The Rex Hotel Jazz & Blues Bar on 2025-03-11
-EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **The Rex Hotel**
-Open Menu Close Menu. Events · Hotel · Menu · Tickets · Merch · History · Contact Us. Welcome to The Rex Hotel Jazz & Blues Bar. Where Jazz Lives. Who's Playing ...
-[link](https://www.therex.ca/)
-
-**Tim Hortons Southside Shuffle Blues & Jazz Festival ...**
-Photo shared by Tim Hortons Southside Shuffle Blues & Jazz Festival on March 11, 2025 ... Rex Hotel Jazz & Blues Bar. Follow. supercrawl. Supercrawl. Follow.
-[link](https://www.instagram.com/southsideshufflepc/?hl=en)
-
-**Events — The Rex**
-... music venues! View Event → · Laura Hubert Band. Mar. 23. Laura Hubert Band ... The Rex Hotel Jazz and Blues Bar 194 Queen St W, Toronto, ON M5V 1Z1. Getting ...
-[link](https://www.therex.ca/events)
-
-**Révéler Experiences / Music, Art, Drinks, and Love**
-An inclusive, enchanting art space and music club in Richmond, Virginia where adults can play like little kids ... THURSDAY, MARCH 20, 2025. SWING JAZZ + BLUES ...
-[link](https://www.revelerexperiences.com/)
-
-EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Kilby Court**
-Welcome to. Kilby Court. The Longest Running All-Ages Venue in Salt Lake City. Upcoming Events. Abby Holliday. S&S Presents. Abby Holliday. Imani Graham.
-[link](https://www.kilbycourt.com/)
-
-**The Plaza Live**
-Buy Tickets · PLAZA LIVE BAG POLICY FOR ALL SHOWS. Upcoming Events. AEG Presents. The Coyote Tour. Tommy Richman. mynameisntjmack. Tue, Mar 11, 2025 Show 8:00 ...
-[link](https://www.plazaliveorlando.org/)
-
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for Richmond Station on 2025-03-11
-EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Tabletop Gaming with MRL - 7:30pm - All MRL Events**
-Computer Work Station · Check Out Tech Devices · Print From Anywhere · Technology ... 818 E Main St, in downtown Richmond. Event Type, Games/Gaming. Event Kind ...
-[link](https://mrlinfo.org/events/?trumbaEmbed=view%3Devent%26eventid%3D180848512)
-
-**Richmond, VA**
-5 days ago ... r/rva: News, events, and goings-on in and around the Richmond, VA metro area known as RVA. And the cat at the Lowe's.
-[link](https://www.reddit.com/r/rva/)
-
-**San Francisco Police Department**
-SFPD Richmond Station · SFPD Southern Station · SFPD Taraval Station · SFPD ... Tuesday, March 11, 2025. 5:00 - 6:00 PM. Mar. 18. Ingleside District Community ...
-[link](https://www.sanfranciscopolice.org/)
-
-**City of Houston Active Incidents**
-RICHMOND ENTR RAMP, 491V, 03/11/2025 10:49, CRASH/MINOR/FSGI, N. FD, WENDA ST ... 03/11/2025 10:24, EMS EVENT, N. FD, W 20TH ST, BLK NICHOLSON ST, 452V, 03/11/ ...
-[link](https://cohweb.houstontx.gov/ActiveIncidents/Combined.aspx)
-
-EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Allianz Amphitheater at Riverfront - Richmond, VA | Tickets, 2025 ...**
-Buy Allianz Amphitheater at Riverfront tickets at Ticketmaster.com. Find Allianz Amphitheater at Riverfront venue concert and event schedules, ...
-[link](https://www.ticketmaster.com/allianz-amphitheater-at-riverfront-tickets-richmond/venue/9456)
-
-**Moulin Rouge! The Musical | Altria Theater | Official Website**
-Private Event Information · Corporate Events ... Altria Theater | Official Website 6 North Laurel Street | Richmond, Virginia 23220 Tickets (800) 514-3849.
-[link](https://www.altriatheater.com/events/detail/moulin-rouge)
-
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for Jazz Bistro on 2025-03-11
-EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Jazz St. Louis Concert Calendar | Jazz St. Louis**
-Mar 11, 2025 – Sep 11, 2026 ... Their residency culminates in an exciting series of performances on the Ferring Jazz Bistro stage on Friday and Saturday, ...
-[link](https://my.jazzstl.org/events)
-
-**Chris' Jazz Cafe**
-Upcoming Events ; The David Bamber Quintet · Tue, Mar 11, 2025 ; Vibraphonist, Hudson River & Friends · Wed, Mar 12, 2025 ; Peter Frank Jazz Orchestra · Thu, Mar 13, ...
-[link](https://www.chrisjazzcafe.com/events)
-
-**Jazz St. Louis Concert Calendar**
-View upcoming Jazz St. Louis concerts and events calendar.
-[link](https://my.jazzstl.org/events//?view=calendar)
-
-**The David Bamber Quintet - Chris' Jazz Cafe**
-Tue, Mar 11, 2025 ... In October of 2019, David had the pleasure of performing at “The International Festival de Jazz” in Juarez, Mexico with the Philasound ...
-[link](https://www.chrisjazzcafe.com/events/109641)
-
-EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Jazz St. Louis Concert Calendar | Jazz St. Louis**
-View upcoming Jazz St. Louis concerts and events calendar.
-[link](https://my.jazzstl.org/events)
-
-**Chris' Jazz Cafe**
-Upcoming Events ; The David Bamber Quintet · Tue, Mar 11, 2025 ; Vibraphonist, Hudson River & Friends · Wed, Mar 12, 2025 ; Peter Frank Jazz Orchestra · Thu, Mar 13, ...
-[link](https://www.chrisjazzcafe.com/events)
-
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for Starting Point on 2025-03-11
-EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Calendar of Events - ITU Meetings and Conferences**
-2025-03-11. 2025-03-11. ITU-R. CCT. Coordination Committee for ... ITU-R. WP 3M. Point-to-point and Earth-space propagation - Starting in the afternoon.
-[link](https://www.itu.int/en/events/Pages/Calendar-Events.aspx?sector=ITU-R)
-
-**Events from March 11 – March 12 – Kiawah Island Golf Resort**
-2025-03-11 March 11, 2025 ... Inshore Fishing Charter - view more details about the event. Mingo Point Mingo Point 876 Kiawah Island Pkwy, Kiawah Island.
-[link](https://kiawahresort.com/events/)
-
-**Events Calendar**
-Gathering Place Programming sponsored by Coterra ; 9 · March 9, 2025 - March 10, 2025 ; 11 · March 11, 2025 @ 6:00 PM - 8:00 PM ; 12 · March 12, 2025 ; 12 · March 12, ...
-[link](https://www.gatheringplace.org/parkcalendar)
-
-**Events | NCSBN**
-Start Date03/11/2025, End Date03/11/2025, Event TypeKnowledge Network Meeting ... End Date08/15/2025, Event TypeNCSBN Event, Audience, LocationChicago, IL ...
-[link](https://www.ncsbn.org/about/events.page)
-
-EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Frequently Asked Questions | GIANT Center**
-Save on parking when you purchase online in advance via Ticketmaster or $35 on site. ... It's recommended to arrive at least 45 minutes prior to event start time ...
-[link](https://www.hersheyentertainment.com/giant-center/info/faqs.php)
-
-**WICKED | ASU Gammage**
-... ticketmaster.com/wicked-touring-tempe-arizona-03-04-2025/event/190060F1D1402E8E?CAMEFROM=CFC_ASUGAMMAGE_WEB_WEBISTE_WICKED. Wed. Mar 5, 2025. 7:30pm. https ...
-[link](https://www.asugammage.com/wicked)
-
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 17:14:52] "POST /critique HTTP/1.1" 200 -
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-CritiqueService - INFO - Current Critique List -> : ['I dont like the first POI, and I want to go to u of t']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 17:15:10] "POST /critique HTTP/1.1" 200 -
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-CritiqueService - INFO - Finish Critiquing, generating new trip
-CritiqueService - INFO - Current Critique List -> : ['I dont like the first POI, and I want to go to u of t', 'No']
+CritiqueService - INFO - Current Critique List -> : ['I dont like canoe, please help me to find something basketball related', 'No']
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 CritiqueClient - INFO - The list with POI removed is [
 {"name": "Canoe Restaurant"}
@@ -375,306 +157,220 @@ CritiqueClient - INFO - The list with POI removed is [
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 LLMInformationRetrievalClient - INFO - The result from llm for ir is [
     {
+        "name": "Starting Point",
+        "address": "21 Carlton St, Toronto, ON M5B 1L3, Canada",
+        "description": "Starting and Ending Point",
+        "reasoning": "This is the starting and ending point of the trip.",
+        "duration": null
+    },
+    {
         "name": "The Rex Hotel Jazz & Blues Bar",
         "address": "194 Queen St W, Toronto, ON M5V 1Z1, Canada",
-        "description": "A popular spot for jazz and blues in Toronto, offering live performances every night.",
-        "reasoning": "This place is preserved from the previous list as it matches your interest in jazz. It offers live performances every night.",
+        "description": "The Rex Hotel Jazz & Blues Bar is a popular spot for live music, particularly jazz and blues, with performances every night and a laid-back, chill atmosphere.",
+        "reasoning": "This place is chosen based on your love for jazz and desire to chill out. It offers a laid-back atmosphere with live jazz performances.",
         "duration": "2-3 hours"
-    },
-    {
-        "name": "University of Toronto",
-        "address": "27 King's College Cir, Toronto, ON M5S, Canada",
-        "description": "One of the world's top research-intensive universities, driven to invent and innovate.",
-        "reasoning": "This place is added based on your critique to visit the University of Toronto. It's a renowned university with beautiful architecture and a rich history.",
-        "duration": "1-2 hours"
-    },
-    {
-        "name": "Richmond Station",
-        "address": "1 Richmond St W, Toronto, ON M5H 3W4, Canada",
-        "description": "Hip, bustling spot for locally sourced Canadian meals, with an open kitchen & a chalkboard menu.",
-        "reasoning": "This place is preserved from the previous list as it offers a unique dining experience with locally sourced Canadian meals.",
-        "duration": "1-2 hours"
     },
     {
         "name": "Jazz Bistro",
         "address": "251 Victoria St, Toronto, ON M5B 1T8, Canada",
-        "description": "A high-end venue for jazz & cabaret shows, with a rooftop patio & a menu of refined fare.",
-        "reasoning": "This place is preserved from the previous list as it matches your interest in jazz. It's a high-end venue offering jazz and cabaret shows.",
+        "description": "Jazz Bistro is a classy restaurant with a dedicated stage for jazz performances, offering a unique dining and entertainment experience.",
+        "reasoning": "This place is chosen based on your love for jazz. It offers a unique dining and entertainment experience with live jazz performances.",
         "duration": "2-3 hours"
+    },
+    {
+        "name": "Alo Restaurant",
+        "address": "163 Spadina Ave 3rd floor, Toronto, ON M5V 2L6, Canada",
+        "description": "Alo Restaurant is a chic, contemporary restaurant offering a tasting menu of global haute cuisine. It's known for its exceptional service and quality food.",
+        "reasoning": "This place is chosen based on your unlimited budget. It offers a tasting menu of global haute cuisine and is known for its exceptional service and quality food.",
+        "duration": "2-3 hours"
+    },
+    {
+        "name": "Basketball Hall of Fame and Museum",
+        "address": "1000 Exhibition Pl, Toronto, ON M6K 3C3, Canada",
+        "description": "The Basketball Hall of Fame and Museum is a must-visit for any basketball fan. It features exhibits on the history of the sport, interactive displays, and memorabilia from famous players.",
+        "reasoning": "This place is chosen based on your interest in basketball. It offers a comprehensive look at the history of the sport and features memorabilia from famous players.",
+        "duration": "1-2 hours"
+    },
+    {
+        "name": "Starting Point",
+        "address": "21 Carlton St, Toronto, ON M5B 1L3, Canada",
+        "description": "Starting and Ending Point",
+        "reasoning": "This is the starting and ending point of the trip.",
+        "duration": null
     }
 ]
-EventProcessorClient - INFO - event for The Rex Hotel Jazz & Blues Bar on 2025-03-11
+EventProcessorClient - INFO - event for Starting Point on 2025-04-01
 EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **The Rex Hotel**
+EventProcessorClient - INFO - Current Search Result -> : **Events | NCSBN**
+Start Date04/01/2025, End Date04/01/2025, Event TypeCommittee Meeting, Audience ... End Date08/15/2025, Event TypeNCSBN Event, Audience, LocationChicago, IL ...
+[link](https://www.ncsbn.org/about/events.page)
+
+**Public Walks for PLF | Point Lobos Docents**
+... starting point. Come join us! Tue, 04/01/2025 - 11:00am — General Walk at ... Heavy rain, strong winds or rough sea will cancel this event. See Point ...
+[link](https://docents.plsnr.org/publicwalks)
+
+**Events | Starting Point Church of Prescott**
+The Chosen, Season 5 Premiere. Tuesday, April 1, 2025. 2:00PM - 6:00PM ; IMPACT Youth Group. Wednesday, April 2, 2025. 6:00PM - 7:30PM ; Courageous Men of God.
+[link](https://mysp.church/events)
+
+**Events from April 1 – April 2 – Kiawah Island Golf Resort**
+2025-04-01 April 1, 2025 ... Inshore Fishing Charter - view more details about the event. Mingo Point Mingo Point 876 Kiawah Island Pkwy, Kiawah Island.
+[link](https://kiawahresort.com/events/)
+
+EventProcessorClient - INFO - tm
+EventProcessorClient - INFO - Current Search Result -> : **Chris Brown: Breezy Bowl XX Tickets Aug 30, 2025 Atlanta, GA ...**
+Aug 30, 2025 ... The Next Sale Will Begin on Tue, Apr 1, 2025 @ 10:00 am EDT. 0days2 ... Event details can vary. Check for important details like ticket ...
+[link](https://www.ticketmaster.com/chris-brown-breezy-bowl-xx-atlanta-georgia-08-30-2025/event/0E00627ACEB842CD)
+
+**Las Vegas Motor Speedway**
+Experience the thrill at Las Vegas Motor Speedway. Discover upcoming events, buy tickets, and fuel your passion for speed. Visit now!
+[link](https://www.lvms.com/)
+
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+EventProcessorClient - INFO - event for The Rex Hotel Jazz & Blues Bar on 2025-04-01
+EventProcessorClient - INFO - general
+EventProcessorClient - INFO - Current Search Result -> : **Events — The Rex**
+... Jazz & Blues Venue, The Rex Hotel! The Jay Blues Trio are a Canadian ... The Rex Hotel Jazz and Blues Bar 194 Queen St W, Toronto, ON M5V 1Z1. Getting ...
+[link](https://www.therex.ca/events)
+
+**Sinclair Cambridge**
+Upcoming Events. Phil Cook. Tue, Apr 1, 2025 Doors 7:00 PM 18 & Over. Buy ... Bar and Patio · Private Events · Newsletter · More Info · Health & Safety. Copyright ...
+[link](https://www.sinclaircambridge.com/)
+
+**The Rex Hotel**
 Open Menu Close Menu. Events · Hotel · Menu · Tickets · Merch · History · Contact Us. Welcome to The Rex Hotel Jazz & Blues Bar. Where Jazz Lives. Who's Playing ...
 [link](https://www.therex.ca/)
 
-**Tim Hortons Southside Shuffle Blues & Jazz Festival ...**
-Photo shared by Tim Hortons Southside Shuffle Blues & Jazz Festival on March 11, 2025 ... Rex Hotel Jazz & Blues Bar. Follow. supercrawl. Supercrawl. Follow.
-[link](https://www.instagram.com/southsideshufflepc/?hl=en)
-
-**Events — The Rex**
-... music venues! View Event → · Laura Hubert Band. Mar. 23. Laura Hubert Band ... The Rex Hotel Jazz and Blues Bar 194 Queen St W, Toronto, ON M5V 1Z1. Getting ...
-[link](https://www.therex.ca/events)
-
-**Révéler Experiences / Music, Art, Drinks, and Love**
-An inclusive, enchanting art space and music club in Richmond, Virginia where adults can play like little kids ... THURSDAY, MARCH 20, 2025. SWING JAZZ + BLUES ...
-[link](https://www.revelerexperiences.com/)
+**Calendar – Virginia MacDonald**
+Location: The Rex Hotel Jazz and Blues Bar, 194 Queen Street West, Toronto, ON. More info. the_rex. Kirk MacDonald – saxophone. Virginia MacDonald – clarinet
+[link](https://virginiamacdonald.ca/calendar/)
 
 EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Kilby Court**
-Welcome to. Kilby Court. The Longest Running All-Ages Venue in Salt Lake City. Upcoming Events. Abby Holliday. S&S Presents. Abby Holliday. Imani Graham.
-[link](https://www.kilbycourt.com/)
+EventProcessorClient - INFO - Current Search Result -> : **Sinclair Cambridge**
+Upcoming Events. Phil Cook. Tue, Apr 1, 2025 Doors 7:00 PM 18 & Over. Buy ... Bar and Patio · Private Events · Newsletter · More Info · Health & Safety. Copyright ...
+[link](https://www.sinclaircambridge.com/)
 
-**The Plaza Live**
-Buy Tickets · PLAZA LIVE BAG POLICY FOR ALL SHOWS. Upcoming Events. AEG Presents. The Coyote Tour. Tommy Richman. mynameisntjmack. Tue, Mar 11, 2025 Show 8:00 ...
-[link](https://www.plazaliveorlando.org/)
-
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for University of Toronto on 2025-03-11
-EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Events | University of Toronto**
-University College ; UC Speed Mentorship Shaker, March 25, 2025 ; 2025-26 W. J. Alexander Lecture in English Literature, March 31, 2025 ; Toronto Aesthetics ...
-[link](https://www.utoronto.ca/events)
-
-**Events from Mar 11 2025 – Mar 21 2025 – Centre for International ...**
-1 event, 3. 1 event, 3. 5:00 PM - 7:00 PM. Your Well-being Matters Workshop. Mar ... University of Toronto · Student Life(opens in a new tab) · Contact Us · News ...
-[link](https://internationalexperience.utoronto.ca/events)
-
-**Events from March 11 2025 – March 12 2025 – Centre for Research ...**
-Event Views Navigation. List. List · Month · Day · Today ... Copyright © 2025 | University of Toronto. | Policies. Scroll to Top.
-[link](https://cris.utoronto.ca/events/list/)
-
-**Events | The Munk School**
-March 11, 2025 | 3:00PM - 5:00PM. 17 Mar. Deadlocked: Can Taiwan Make ... 1 Devonshire Place (at Trinity College) Toronto, Ontario, M5S 3K7 Canada ...
-[link](https://munkschool.utoronto.ca/ai/events)
-
-EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **University of Toronto Athletics - Official Athletics Website**
-The official athletics website for the University of Toronto Varsity Blues.
-[link](https://varsityblues.ca/)
-
-**The Driver Era Tickets, 2025 Concert Tour Dates | Ticketmaster**
-03/11/25 – Atlanta, GA @ Coca-Cola Roxy; 03/13/25 – Moon Township, PA @ UPMC Events Center; 03/14/25 – Chicago, IL @ Byline Bank Aragon Ballroom ...
-[link](https://www.ticketmaster.com/the-driver-era-tickets/artist/2544464)
+**Mercury Lounge**
+Tue Apr 1, 2025. Doors: 6:00 pm. Mercury Lounge 217 East Houston St., New ... Mercury Lounge Private Events · CONTACT US | DIRECTIONS | TERMS & CONDITIONS ...
+[link](https://mercuryeastpresents.com/mercurylounge/)
 
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for Richmond Station on 2025-03-11
+EventProcessorClient - INFO - event for Jazz Bistro on 2025-04-01
 EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Tabletop Gaming with MRL - 7:30pm - All MRL Events**
-Computer Work Station · Check Out Tech Devices · Print From Anywhere · Technology ... 818 E Main St, in downtown Richmond. Event Type, Games/Gaming. Event Kind ...
-[link](https://mrlinfo.org/events/?trumbaEmbed=view%3Devent%26eventid%3D180848512)
-
-**Richmond, VA**
-5 days ago ... r/rva: News, events, and goings-on in and around the Richmond, VA metro area known as RVA. And the cat at the Lowe's.
-[link](https://www.reddit.com/r/rva/)
-
-**San Francisco Police Department**
-SFPD Richmond Station · SFPD Southern Station · SFPD Taraval Station · SFPD ... Tuesday, March 11, 2025. 5:00 - 6:00 PM. Mar. 18. Ingleside District Community ...
-[link](https://www.sanfranciscopolice.org/)
-
-**City of Houston Active Incidents**
-RICHMOND ENTR RAMP, 491V, 03/11/2025 10:49, CRASH/MINOR/FSGI, N. FD, WENDA ST ... 03/11/2025 10:24, EMS EVENT, N. FD, W 20TH ST, BLK NICHOLSON ST, 452V, 03/11/ ...
-[link](https://cohweb.houstontx.gov/ActiveIncidents/Combined.aspx)
-
-EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Allianz Amphitheater at Riverfront - Richmond, VA | Tickets, 2025 ...**
-Buy Allianz Amphitheater at Riverfront tickets at Ticketmaster.com. Find Allianz Amphitheater at Riverfront venue concert and event schedules, ...
-[link](https://www.ticketmaster.com/allianz-amphitheater-at-riverfront-tickets-richmond/venue/9456)
-
-**Moulin Rouge! The Musical | Altria Theater | Official Website**
-Private Event Information · Corporate Events ... Altria Theater | Official Website 6 North Laurel Street | Richmond, Virginia 23220 Tickets (800) 514-3849.
-[link](https://www.altriatheater.com/events/detail/moulin-rouge)
-
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for Jazz Bistro on 2025-03-11
-EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Jazz St. Louis Concert Calendar | Jazz St. Louis**
-Mar 11, 2025 – Sep 11, 2026 ... Their residency culminates in an exciting series of performances on the Ferring Jazz Bistro stage on Friday and Saturday, ...
-[link](https://my.jazzstl.org/events)
-
-**Chris' Jazz Cafe**
-Upcoming Events ; The David Bamber Quintet · Tue, Mar 11, 2025 ; Vibraphonist, Hudson River & Friends · Wed, Mar 12, 2025 ; Peter Frank Jazz Orchestra · Thu, Mar 13, ...
+EventProcessorClient - INFO - Current Search Result -> : **Chris' Jazz Cafe**
+Tue, Apr 1, 2025. 7:30 PM 9:00 PM. hide. List View · Calendar View. with ... CLOSED FOR PRIVATE EVENT. We will be closed for a private event tonight. Read ...
 [link](https://www.chrisjazzcafe.com/events)
 
 **Jazz St. Louis Concert Calendar**
-View upcoming Jazz St. Louis concerts and events calendar.
+Change the way events are displayed. View as Calendar; View as List. Calendar View. Display calendar by: Day; Week; Month. Select Day. Apr 01, 2025. Previous ...
 [link](https://my.jazzstl.org/events//?view=calendar)
 
-**The David Bamber Quintet - Chris' Jazz Cafe**
-Tue, Mar 11, 2025 ... In October of 2019, David had the pleasure of performing at “The International Festival de Jazz” in Juarez, Mexico with the Philasound ...
-[link](https://www.chrisjazzcafe.com/events/109641)
+**Events Archive - World Cafe Live**
+Tue, Apr 01, 2025. The Moth Storyslam “Bloom”. Doors: 6:15pm | Show: 7:30pm ... Jazz Jam with Orrin Evans. Featured Performer: Maria Marmarou. Doors: 6pm ...
+[link](https://worldcafelive.org/events/)
+
+**Cactus Café & Bar | University Unions**
+Cactus Cafe. Admission is free! Doors open at 7 p.m., show begins at 7:30 p.m.. Rabbi Neil Blumofe. Wednesday Night Jazz Meeting with Rabbi Neil Blumofe. Event ...
+[link](https://universityunions.utexas.edu/cactus-cafe)
 
 EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Jazz St. Louis Concert Calendar | Jazz St. Louis**
-View upcoming Jazz St. Louis concerts and events calendar.
-[link](https://my.jazzstl.org/events)
+EventProcessorClient - INFO - Current Search Result -> : **Hollywood Bowl**
+Blue Note Jazz Festival. Grace Jones • The Isley Brothers • WILLOW • De La ... House Rules Gift Cards Group Tickets (10+) Accessibility Info Special Events ...
+[link](https://www.hollywoodbowl.com/)
 
-**Chris' Jazz Cafe**
-Upcoming Events ; The David Bamber Quintet · Tue, Mar 11, 2025 ; Vibraphonist, Hudson River & Friends · Wed, Mar 12, 2025 ; Peter Frank Jazz Orchestra · Thu, Mar 13, ...
-[link](https://www.chrisjazzcafe.com/events)
+**Dr. Phillips Center for the Performing Arts**
+Plan your visit to Orlando's performing arts center. Discover upcoming Broadway shows, live entertainment, educational programs and more.
+[link](https://www.drphillipscenter.org/)
 
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 17:16:04] "POST /critique HTTP/1.1" 200 -
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-CritiqueService - INFO - Current Critique List -> : ['I dont like the first poi, and I want to go to ROM']
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 17:18:34] "POST /critique HTTP/1.1" 200 -
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-CritiqueService - INFO - Finish Critiquing, generating new trip
-CritiqueService - INFO - Current Critique List -> : ['I dont like the first poi, and I want to go to ROM', 'No']
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-CritiqueClient - INFO - The list with POI removed is [
-{"name": "The Rex Hotel Jazz & Blues Bar"}
-]
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-LLMInformationRetrievalClient - INFO - The result from llm for ir is [
-    {
-        "name": "Richmond Station",
-        "address": "1 Richmond St W, Toronto, ON M5H 3W4, Canada",
-        "description": "Hip, bustling spot for locally sourced Canadian meals, with an open kitchen & a chalkboard menu.",
-        "reasoning": "This place is preserved from the current POIs as it offers a unique dining experience with locally sourced Canadian meals.",
-        "duration": "1-2 hours"
-    },
-    {
-        "name": "University of Toronto",
-        "address": "27 King's College Cir, Toronto, ON M5S, Canada",
-        "description": "One of the world's top research-intensive universities, driven to invent and innovate.",
-        "reasoning": "This place is preserved from the current POIs as it is one of the world's top research-intensive universities.",
-        "duration": "1-2 hours"
-    },
-    {
-        "name": "Royal Ontario Museum",
-        "address": "100 Queens Park, Toronto, ON M5S 2C6, Canada",
-        "description": "The Royal Ontario Museum is a museum of art, world culture and natural history in Toronto, Canada. It is one of the largest museums in North America and the largest in Canada.",
-        "reasoning": "This place is added based on the user's critique to visit the Royal Ontario Museum (ROM). It is one of the largest museums in North America and offers a wide range of art, world culture and natural history exhibits.",
-        "duration": "2-3 hours"
-    },
-    {
-        "name": "Jazz Bistro",
-        "address": "251 Victoria St, Toronto, ON M5B 1T8, Canada",
-        "description": "A high-end venue for jazz & cabaret shows, with a rooftop patio & a menu of refined fare.",
-        "reasoning": "This place is preserved from the current POIs as it offers jazz shows which the user loves.",
-        "duration": "2-3 hours"
-    }
-]
-EventProcessorClient - INFO - event for Richmond Station on 2025-03-11
+EventProcessorClient - INFO - event for Alo Restaurant on 2025-04-01
 EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Tabletop Gaming with MRL - 7:30pm - All MRL Events**
-Computer Work Station · Check Out Tech Devices · Print From Anywhere · Technology ... 818 E Main St, in downtown Richmond. Event Type, Games/Gaming. Event Kind ...
-[link](https://mrlinfo.org/events/?trumbaEmbed=view%3Devent%26eventid%3D180848512)
+EventProcessorClient - INFO - Current Search Result -> : **Events Archive - World Cafe Live**
+... | $20 day of show. The Lounge at World Cafe Live. Sold Out · More Info. Thu, Apr 24, 2025. ALO – Frames Tour. Madeline Hawthorne. Doors: 7pm | Show: 8pm. $25-$ ...
+[link](https://worldcafelive.org/events/)
 
-**Richmond, VA**
-5 days ago ... r/rva: News, events, and goings-on in and around the Richmond, VA metro area known as RVA. And the cat at the Lowe's.
-[link](https://www.reddit.com/r/rva/)
+**Nectar Lounge: Home**
+Calendar · Just Announced · Info · FAQ · Gallery · Venue Specs · About · Partners · NVCS (VIRTUAL CONCERTS) · Private Events · Venues.
+[link](https://nectarlounge.com/)
 
-**San Francisco Police Department**
-SFPD Richmond Station · SFPD Southern Station · SFPD Taraval Station · SFPD ... Tuesday, March 11, 2025. 5:00 - 6:00 PM. Mar. 18. Ingleside District Community ...
-[link](https://www.sanfranciscopolice.org/)
+**Events | Rams Head On Stage – Official Site**
+Tue, Apr 1, 2025 Show 8:00 PM @ Rams Head On Stage. Buy Tickets · Chris Knight ... Restaurant · Contact · Sign-Up · Partners. Copyright © 2025 Rams Head On Stage ...
+[link](https://www.ramsheadonstage.com/events)
 
-**City of Houston Active Incidents**
-RICHMOND ENTR RAMP, 491V, 03/11/2025 10:49, CRASH/MINOR/FSGI, N. FD, WENDA ST ... 03/11/2025 10:24, EMS EVENT, N. FD, W 20TH ST, BLK NICHOLSON ST, 452V, 03/11/ ...
-[link](https://cohweb.houstontx.gov/ActiveIncidents/Combined.aspx)
+**Home | Mall of America®**
+Since opening its doors in 1992, Mall of America® has revolutionized the shopping experience and become a leader in retail, entertainment and attractions.
+[link](https://www.mallofamerica.com/)
 
 EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Allianz Amphitheater at Riverfront - Richmond, VA | Tickets, 2025 ...**
-Buy Allianz Amphitheater at Riverfront tickets at Ticketmaster.com. Find Allianz Amphitheater at Riverfront venue concert and event schedules, ...
-[link](https://www.ticketmaster.com/allianz-amphitheater-at-riverfront-tickets-richmond/venue/9456)
+EventProcessorClient - INFO - Current Search Result -> : **Events | Rams Head On Stage – Official Site**
+Tue, Apr 1, 2025 Show 8:00 PM @ Rams Head On Stage. Buy Tickets · Chris Knight ... Restaurant · Contact · Sign-Up · Partners. Copyright © 2025 Rams Head On Stage ...
+[link](https://www.ramsheadonstage.com/events)
 
-**Altria Theater**
-The Altria Theater is Richmond, Virginia's premier venue for live entertainment. (800) 514-3849. 6 N. Laurel Street.
-[link](https://www.altriatheater.com/)
+**The Ogden Theatre**
+The Ogden Theatre is Denver's premier concert venue featuring the latest in contemporary rock shows. Visit our site for a full calendar of events.
+[link](https://www.ogdentheatre.com/)
 
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for University of Toronto on 2025-03-11
+EventProcessorClient - INFO - event for Basketball Hall of Fame and Museum on 2025-04-01
 EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Events | University of Toronto**
-University College ; UC Speed Mentorship Shaker, March 25, 2025 ; 2025-26 W. J. Alexander Lecture in English Literature, March 31, 2025 ; Toronto Aesthetics ...
-[link](https://www.utoronto.ca/events)
+EventProcessorClient - INFO - Current Search Result -> : **events | The Joseph - Nashville | Tennessee**
+Country Music Hall of Fame and Museum, 222 5th Avenue North, Nashville ... View all local Concerts & Music events. Sports & Recreation Events. Sports ...
+[link](https://www.thejosephnashville.com/events)
 
-**Events from Mar 11 2025 – Mar 21 2025 – Centre for International ...**
-1 event, 3. 1 event, 3. 5:00 PM - 7:00 PM. Your Well-being Matters Workshop. Mar ... University of Toronto · Student Life(opens in a new tab) · Contact Us · News ...
-[link](https://internationalexperience.utoronto.ca/events)
+**Morning Spin, Tuesday, April 1, 2025, 8:30 - 9:30am - ISU Event ...**
+ISU Calendar ; Tuesday, April 1, 2025, 8:30 – 9:30am · Reed Gymnasium and Student Recreation Center · 1291 East Terry, Pocatello, ID · Rec 287 · Health & Wellness.
+[link](https://www.isu.edu/calendar/?trumbaEmbed=view%3Devent%26eventid%3D181627900)
 
-**Events from March 11 2025 – March 12 2025 – Centre for Research ...**
-Event Views Navigation. List. List · Month · Day · Today ... Copyright © 2025 | University of Toronto. | Policies. Scroll to Top.
-[link](https://cris.utoronto.ca/events/list/)
+**International Volleyball Hall of Fame - Holyoke, Massachusetts USA ...**
+Through partnerships, events, and storytelling, we will unite federations, fans, athletes, coaches, and leaders worldwide to preserve and promote volleyball ...
+[link](https://www.volleyhall.org/)
 
-**Events | The Munk School**
-March 11, 2025 | 3:00PM - 5:00PM. 17 Mar. Deadlocked: Can Taiwan Make ... 1 Devonshire Place (at Trinity College) Toronto, Ontario, M5S 3K7 Canada ...
-[link](https://munkschool.utoronto.ca/ai/events)
+**IUP Events - IUP**
+... Apr 1 2025. University Museum. New exhibit on display at the University ... From Tuesday, April 1, 2025 7:30 PM to 8:30 PM EDT at Elkin Hall (Great Room).
+[link](https://www.iup.edu/events/index.html)
 
 EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **University of Toronto Athletics - Official Athletics Website**
-The official athletics website for the University of Toronto Varsity Blues.
-[link](https://varsityblues.ca/)
+EventProcessorClient - INFO - Current Search Result -> : **Madison Square Garden | Official Site | New York City**
+Madison Square Garden is "The World's Most Famous Arena." Experience the unforgettable at The Garden, where history happens. Here are events coming to MSG.
+[link](https://www.msg.com/madison-square-garden)
 
-**The Driver Era Tickets, 2025 Concert Tour Dates | Ticketmaster**
-03/11/25 – Atlanta, GA @ Coca-Cola Roxy; 03/13/25 – Moon Township, PA @ UPMC Events Center; 03/14/25 – Chicago, IL @ Byline Bank Aragon Ballroom ...
-[link](https://www.ticketmaster.com/the-driver-era-tickets/artist/2544464)
+**Rocket Arena**
+Rocket Arena, located in downtown Cleveland, is the premier sports and entertainment facility that is home to the Cavs, Monsters, and many other special ...
+[link](https://www.rocketarena.com/)
 
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for Royal Ontario Museum on 2025-03-11
+EventProcessorClient - INFO - event for Starting Point on 2025-04-01
 EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **FREE Public Guided Tours at ROM, Royal Ontario Museum (ROM ...**
-Mar 11, 2025 at 11:00am - 2:00pm (Tue) ... NowPlayingToronto.com is your one-stop, online source for Arts, Cultural and Community Events in Toronto Ontario.
-[link](https://nowplayingtoronto.com/event/free-public-guided-tours-at-rom/)
+EventProcessorClient - INFO - Current Search Result -> : **Events | NCSBN**
+Start Date04/01/2025, End Date04/01/2025, Event TypeCommittee Meeting, Audience ... End Date08/15/2025, Event TypeNCSBN Event, Audience, LocationChicago, IL ...
+[link](https://www.ncsbn.org/about/events.page)
 
-**So German!**
-Event. AUSCHWITZ. Not long ago. Not far away. Mar 11, 2025. Royal Ontario Museum. Toronto. Event. Exhibition: Women in Divided Germany. Mar 11, 2025. Goethe ...
-[link](https://sogerman.ca/)
+**Public Walks for PLF | Point Lobos Docents**
+... starting point. Come join us! Tue, 04/01/2025 - 11:00am — General Walk at ... Heavy rain, strong winds or rough sea will cancel this event. See Point ...
+[link](https://docents.plsnr.org/publicwalks)
 
-**Wildlife Photographer of the Year at ROM 2024, Royal Ontario ...**
-... Events in Toronto Ontario. Find descriptions, dates, times and locations for free events, theatre, music, dance, concerts, art exhibits, museums, film ...
-[link](https://nowplayingtoronto.com/event/wildlife-photographer-of-the-year-at-rom-2024/)
+**Events | Starting Point Church of Prescott**
+The Chosen, Season 5 Premiere. Tuesday, April 1, 2025. 2:00PM - 6:00PM ; IMPACT Youth Group. Wednesday, April 2, 2025. 6:00PM - 7:30PM ; Courageous Men of God.
+[link](https://mysp.church/events)
 
-**Profile for Royal Ontario Museum**
-... Tuesday, March 11 to Thursday, March 13, 2025 (kids under 4 are always free) ... Royal Ontario Museum created an event. Feb 27󰞋󱟠. 󰟝. Thu, Mar 6.
-[link](https://www.facebook.com/royalontariomuseum/)
-
-EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **London Social Club**
-Who will be there? We've been getting about 10-20 people turning up each week. General demographic at these events tend to be around 20s-30s - but ...
-[link](https://www.reddit.com/r/LondonSocialClub/)
-
-**Coca-Cola Coliseum**
-Event Starts 8:00 PM ... Like Your Live Music? Sign up to become a LIVE Insider for exclusive pre-sales, contests and special offers! ... Sign up for the Premium ...
-[link](https://www.coca-colacoliseum.com/)
-
-httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-EventProcessorClient - INFO - event for Jazz Bistro on 2025-03-11
-EventProcessorClient - INFO - general
-EventProcessorClient - INFO - Current Search Result -> : **Jazz St. Louis Concert Calendar | Jazz St. Louis**
-Mar 11, 2025 – Sep 11, 2026 ... Their residency culminates in an exciting series of performances on the Ferring Jazz Bistro stage on Friday and Saturday, ...
-[link](https://my.jazzstl.org/events)
-
-**Chris' Jazz Cafe**
-Upcoming Events ; The David Bamber Quintet · Tue, Mar 11, 2025 ; Vibraphonist, Hudson River & Friends · Wed, Mar 12, 2025 ; Peter Frank Jazz Orchestra · Thu, Mar 13, ...
-[link](https://www.chrisjazzcafe.com/events)
-
-**Jazz St. Louis Concert Calendar**
-View upcoming Jazz St. Louis concerts and events calendar.
-[link](https://my.jazzstl.org/events//?view=calendar)
-
-**The David Bamber Quintet - Chris' Jazz Cafe**
-Tue, Mar 11, 2025 ... In October of 2019, David had the pleasure of performing at “The International Festival de Jazz” in Juarez, Mexico with the Philasound ...
-[link](https://www.chrisjazzcafe.com/events/109641)
+**Events from April 1 – April 2 – Kiawah Island Golf Resort**
+2025-04-01 April 1, 2025 ... Inshore Fishing Charter - view more details about the event. Mingo Point Mingo Point 876 Kiawah Island Pkwy, Kiawah Island.
+[link](https://kiawahresort.com/events/)
 
 EventProcessorClient - INFO - tm
-EventProcessorClient - INFO - Current Search Result -> : **Jazz St. Louis Concert Calendar | Jazz St. Louis**
-View upcoming Jazz St. Louis concerts and events calendar.
-[link](https://my.jazzstl.org/events)
+EventProcessorClient - INFO - Current Search Result -> : **Chris Brown: Breezy Bowl XX Tickets Aug 30, 2025 Atlanta, GA ...**
+Aug 30, 2025 ... The Next Sale Will Begin on Tue, Apr 1, 2025 @ 10:00 am EDT. 0days2 ... Event details can vary. Check for important details like ticket ...
+[link](https://www.ticketmaster.com/chris-brown-breezy-bowl-xx-atlanta-georgia-08-30-2025/event/0E00627ACEB842CD)
 
-**Chris' Jazz Cafe**
-Upcoming Events ; The David Bamber Quintet · Tue, Mar 11, 2025 ; Vibraphonist, Hudson River & Friends · Wed, Mar 12, 2025 ; Peter Frank Jazz Orchestra · Thu, Mar 13, ...
-[link](https://www.chrisjazzcafe.com/events)
+**Las Vegas Motor Speedway**
+Experience the thrill at Las Vegas Motor Speedway. Discover upcoming events, buy tickets, and fuel your passion for speed. Visit now!
+[link](https://www.lvms.com/)
 
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-werkzeug - INFO - 127.0.0.1 - - [11/Mar/2025 17:19:36] "POST /critique HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:29:40] "POST /critique HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:30:42] "GET /query/current_plan HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:30:48] "GET /query/init_trip HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 12:32:18] "GET /query/current_plan HTTP/1.1" 200 -
