@@ -41,8 +41,8 @@ class LLMPlanningClient:
 
     def _create_current_plan_with_hardcord_starting_point(self, state_manager: StateManager, result: dict):
         starting_point = POI(
-            name= "Starting Point",
-            address= "21 Carlton St, Toronto, ON M5B 1L3, Canada",
+            name= "Hart House",
+            address= "7 Hart House Cir, Toronto, ON M5S 3H3, Canada",
             description= "Starting and Ending Point"
         )
         poi_in_sequence = [starting_point]
