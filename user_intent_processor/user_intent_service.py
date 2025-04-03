@@ -19,6 +19,9 @@ class UserIntentService:
     def check_provide_preference(self, query: str, last_system_response: str, remaining_mandatory_information: str):
         return self._user_intent_client.check_provide_preference(query, last_system_response, remaining_mandatory_information)
     
+    def check_provide_preference_critiquing(self, query: str, last_system_response: str):
+        return self._user_intent_client.check_provide_preference_critiquing(query, last_system_response)
+    
     def check_cut_off_input(self, query: str):
         return self._user_intent_client.check_cut_off_input(query)
     
@@ -29,3 +32,5 @@ class UserIntentService:
     def update_remaining_mi(self, state_manager: StateManager):
         remaining_mi = self._user_intent_client._remaining_mi
         state_manager.update_remaining_mandatory_information(remaining_mi)
+        
+
