@@ -62,6 +62,8 @@ class QueryService:
             self._planning_service.llm_planning(state_manager)
             self._geo_service.get_coords_for_plan(state_manager)
             self._reasoning_service.reason_for_trip(state_manager)
+            #one time thing
+            state_manager.update_init_trip()
             return state_manager.get_current_plan().form_current_plan()
 
         state_manager.update_query(query)
@@ -107,6 +109,11 @@ class QueryService:
         if state_manager.get_current_plan().get_poi_in_sequence() is None:
             return "No plans created yet"
         return state_manager.get_current_plan().form_current_plan_full_detail()
+
+    def form_init_trip(self, state_manager: StateManager):
+        if state_manager.get_init_trip().get_poi_in_sequence() is None:
+            return "No initial Trip created yet"
+        return state_manager.get_init_trip().form_current_plan_full_detail()
 
 
 

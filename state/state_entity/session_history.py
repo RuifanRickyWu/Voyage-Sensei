@@ -1,4 +1,5 @@
 from state.state_entity.POI import POI
+from state.state_entity.current_plan import CurrentPlan
 
 
 class SessionHistory:
@@ -7,6 +8,7 @@ class SessionHistory:
     _system_responses: list[str]
     _user_critiques: list[str]
     _latest_system_response: str
+    _has_init_trip: bool
 
     def __init__(self):
         self._user_queries = []
@@ -15,9 +17,16 @@ class SessionHistory:
         self._remaining_mandatory_information = "Time, Budget, Purpose"
         self._user_critiques = []
         self._latest_system_response = self._system_responses[-1]
+        self._init_trip = CurrentPlan()
 
     def append_queries(self, query: str):
         self._user_queries.append(query)
+
+    def update_init_trip(self, trip: CurrentPlan):
+        self._init_trip = trip
+
+    def get_init_trip(self):
+        return self._init_trip
 
     def append_critiques(self, critiques: str):
         self._user_critiques.append(critiques)

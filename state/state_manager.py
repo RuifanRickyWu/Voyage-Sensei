@@ -1,3 +1,5 @@
+import copy
+
 from state.state_entity.current_plan import CurrentPlan
 from state.state_entity.current_search import CurrentSearch
 from state.state_entity.session_history import SessionHistory
@@ -15,6 +17,13 @@ class StateManager:
 
     def get_query(self):
         return self._session_history.get_queries()
+
+    def update_init_trip(self):
+        init_trip = copy.deepcopy(self._current_plan)
+        self._session_history.update_init_trip(init_trip)
+
+    def get_init_trip(self):
+        return self._session_history.get_init_trip()
 
     def get_critique(self):
         return self._session_history.get_critiques()

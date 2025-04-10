@@ -49,6 +49,19 @@ class UserIntentClient:
                 print("still remaining_MI")
                 print(self._remaining_mi)
                 return True
+    
+    # note: utilized old 'ask for rec' prompt, but it's actually just provide preference but removed mandatory information check just for critiquing
+    def check_provide_preference_critiquing(self, query, last_system_response):
+        template = self._ask_for_recommendation.get_prompt_for_classification(query, last_system_response)
+        result = self._llm_agent.make_request(template)
+        if_provide_preference = result.split('\n')[0]
+        if if_provide_preference == "True":
+            self._system_response = result.split('\n')[1]
+            return True
+        else:
+            self._system_response = result.split('\n')[1]
+            print("ask for rec")
+            return False
         
     def check_cut_off_input(self, query):
         template = self._cut_off_input.get_prompt_for_classification(query)
